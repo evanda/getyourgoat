@@ -36,6 +36,9 @@ Royal purple and gold, the owner's choice; one look in all themes. Not pale purp
 3. Review: `scripts/disagreements.ts <level>/<slug>`; decide each in `content/review.json` (keep/drop + reason).
 4. Build: `node scripts/assemble.ts [level]` writes rounds (refuses unreviewed disagreements).
    Normal #1 is the hand-made launch round and is never overwritten.
+**Rounds are frozen once testers have them.** Rewording a question in place is safe, but dropping or
+adding one reshuffles every later round of that level. If that must happen, bump `BUILD` in
+`src/feedback.ts` so old and new feedback can be told apart.
 Arithmetic is computed: `scripts/gen-arithmetic.ts <level>` → `content/arithmetic-<level>.json`.
 Easy is for kids (~7–11) and swaps philosophy for animals.
 
