@@ -13,13 +13,13 @@
     },
     {
      "id": "arith-161",
-     "prompt": "10 × 10 − 12",
+     "prompt": "(10 × 10) − 12",
      "answer": 88,
      "difficulty": "medium"
     },
     {
      "id": "arith-203",
-     "prompt": "135 ÷ 9 + 4",
+     "prompt": "(135 ÷ 9) + 4",
      "answer": 19,
      "difficulty": "medium"
     }

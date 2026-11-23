@@ -7,13 +7,13 @@
    "variants": [
     {
      "id": "arith-042",
-     "prompt": "8 × 12 + 5 × 3",
+     "prompt": "(8 × 12) + (5 × 3)",
      "answer": 111,
      "difficulty": "hard"
     },
     {
      "id": "arith-207",
-     "prompt": "11 × 8 − 28",
+     "prompt": "(11 × 8) − 28",
      "answer": 60,
      "difficulty": "medium"
     },

@@ -13,7 +13,7 @@
     },
     {
      "id": "hard-arith-226",
-     "prompt": "9 × 11 − 7 × 10",
+     "prompt": "(9 × 11) − (7 × 10)",
      "answer": 29,
      "difficulty": "medium"
     },

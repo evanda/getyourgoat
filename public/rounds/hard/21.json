@@ -13,7 +13,7 @@
     },
     {
      "id": "hard-arith-071",
-     "prompt": "11 × 14 − 10 × 6",
+     "prompt": "(11 × 14) − (10 × 6)",
      "answer": 94,
      "difficulty": "medium"
     },

@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-045",
-     "prompt": "63 ÷ 7 + 13",
+     "prompt": "(63 ÷ 7) + 13",
      "answer": 22,
      "difficulty": "medium"
     },

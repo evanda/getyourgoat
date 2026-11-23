@@ -7,13 +7,13 @@
    "variants": [
     {
      "id": "arith-036",
-     "prompt": "168 ÷ 12 + 7",
+     "prompt": "(168 ÷ 12) + 7",
      "answer": 21,
      "difficulty": "medium"
     },
     {
      "id": "arith-044",
-     "prompt": "9 × 6 + 8 × 8",
+     "prompt": "(9 × 6) + (8 × 8)",
      "answer": 118,
      "difficulty": "hard"
     },

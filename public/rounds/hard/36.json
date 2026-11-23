@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "hard-arith-257",
-     "prompt": "7 × 15 − 8 × 12",
+     "prompt": "(7 × 15) − (8 × 12)",
      "answer": 9,
      "difficulty": "medium"
     },

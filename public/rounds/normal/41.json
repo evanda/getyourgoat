@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-235",
-     "prompt": "45 ÷ 5 + 9",
+     "prompt": "(45 ÷ 5) + 9",
      "answer": 18,
      "difficulty": "medium"
     },

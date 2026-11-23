@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-031",
-     "prompt": "12 × 9 − 8",
+     "prompt": "(12 × 9) − 8",
      "answer": 100,
      "difficulty": "medium"
     },

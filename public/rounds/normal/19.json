@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-248",
-     "prompt": "65 ÷ 5 + 7",
+     "prompt": "(65 ÷ 5) + 7",
      "answer": 20,
      "difficulty": "medium"
     }

@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-056",
-     "prompt": "40 ÷ 5 + 11",
+     "prompt": "(40 ÷ 5) + 11",
      "answer": 19,
      "difficulty": "medium"
     },

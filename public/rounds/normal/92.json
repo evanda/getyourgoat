@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-131",
-     "prompt": "110 ÷ 10 + 7",
+     "prompt": "(110 ÷ 10) + 7",
      "answer": 18,
      "difficulty": "medium"
     },

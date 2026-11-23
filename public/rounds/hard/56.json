@@ -13,7 +13,7 @@
     },
     {
      "id": "hard-arith-260",
-     "prompt": "8 × 9 − 6 × 6",
+     "prompt": "(8 × 9) − (6 × 6)",
      "answer": 36,
      "difficulty": "medium"
     },

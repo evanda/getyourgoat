@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-043",
-     "prompt": "11 × 7 − 15",
+     "prompt": "(11 × 7) − 15",
      "answer": 62,
      "difficulty": "medium"
     },

@@ -13,7 +13,7 @@
     },
     {
      "id": "hard-arith-177",
-     "prompt": "14 × 11 − 8 × 11",
+     "prompt": "(14 × 11) − (8 × 11)",
      "answer": 66,
      "difficulty": "medium"
     },

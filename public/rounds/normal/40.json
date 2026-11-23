@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-060",
-     "prompt": "9 × 9 − 25",
+     "prompt": "(9 × 9) − 25",
      "answer": 56,
      "difficulty": "medium"
     },

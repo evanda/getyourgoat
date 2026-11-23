@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-256",
-     "prompt": "7 × 10 − 14",
+     "prompt": "(7 × 10) − 14",
      "answer": 56,
      "difficulty": "medium"
     },

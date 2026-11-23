@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-231",
-     "prompt": "168 ÷ 12 + 16",
+     "prompt": "(168 ÷ 12) + 16",
      "answer": 30,
      "difficulty": "medium"
     }

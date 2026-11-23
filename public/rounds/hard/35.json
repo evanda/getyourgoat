@@ -13,7 +13,7 @@
     },
     {
      "id": "hard-arith-057",
-     "prompt": "12 × 10 − 6 × 6",
+     "prompt": "(12 × 10) − (6 × 6)",
      "answer": 84,
      "difficulty": "medium"
     },

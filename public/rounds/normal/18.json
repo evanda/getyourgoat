@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-171",
-     "prompt": "90 ÷ 10 + 15",
+     "prompt": "(90 ÷ 10) + 15",
      "answer": 24,
      "difficulty": "medium"
     }

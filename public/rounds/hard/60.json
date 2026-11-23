@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "hard-arith-166",
-     "prompt": "8 × 11 − 12 × 7",
+     "prompt": "(8 × 11) − (12 × 7)",
      "answer": 4,
      "difficulty": "medium"
     },

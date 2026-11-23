@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-218",
-     "prompt": "70 ÷ 5 + 24",
+     "prompt": "(70 ÷ 5) + 24",
      "answer": 38,
      "difficulty": "medium"
     },
@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-050",
-     "prompt": "6 × 11 − 7",
+     "prompt": "(6 × 11) − 7",
      "answer": 59,
      "difficulty": "medium"
     }

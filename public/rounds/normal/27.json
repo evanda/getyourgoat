@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-195",
-     "prompt": "8 × 8 + 7 × 7",
+     "prompt": "(8 × 8) + (7 × 7)",
      "answer": 113,
      "difficulty": "hard"
     },

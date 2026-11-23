@@ -7,7 +7,7 @@
  },
  {
   "id": "hard-arith-002",
-  "prompt": "9 × 9 − 7 × 6",
+  "prompt": "(9 × 9) − (7 × 6)",
   "answer": 39,
   "difficulty": "medium"
  },
@@ -91,7 +91,7 @@
  },
  {
   "id": "hard-arith-016",
-  "prompt": "8 × 11 − 7 × 6",
+  "prompt": "(8 × 11) − (7 × 6)",
   "answer": 46,
   "difficulty": "medium"
  },
@@ -139,7 +139,7 @@
  },
  {
   "id": "hard-arith-024",
-  "prompt": "10 × 9 − 8 × 11",
+  "prompt": "(10 × 9) − (8 × 11)",
   "answer": 2,
   "difficulty": "medium"
  },
@@ -181,7 +181,7 @@
  },
  {
   "id": "hard-arith-031",
-  "prompt": "11 × 13 − 9 × 7",
+  "prompt": "(11 × 13) − (9 × 7)",
   "answer": 80,
   "difficulty": "medium"
  },
@@ -337,7 +337,7 @@
  },
  {
   "id": "hard-arith-057",
-  "prompt": "12 × 10 − 6 × 6",
+  "prompt": "(12 × 10) − (6 × 6)",
   "answer": 84,
   "difficulty": "medium"
  },
@@ -349,7 +349,7 @@
  },
  {
   "id": "hard-arith-059",
-  "prompt": "11 × 13 − 12 × 10",
+  "prompt": "(11 × 13) − (12 × 10)",
   "answer": 23,
   "difficulty": "medium"
  },
@@ -367,7 +367,7 @@
  },
  {
   "id": "hard-arith-062",
-  "prompt": "7 × 15 − 9 × 11",
+  "prompt": "(7 × 15) − (9 × 11)",
   "answer": 6,
   "difficulty": "medium"
  },
@@ -421,7 +421,7 @@
  },
  {
   "id": "hard-arith-071",
-  "prompt": "11 × 14 − 10 × 6",
+  "prompt": "(11 × 14) − (10 × 6)",
   "answer": 94,
   "difficulty": "medium"
  },
@@ -511,13 +511,13 @@
  },
  {
   "id": "hard-arith-086",
-  "prompt": "11 × 8 − 8 × 6",
+  "prompt": "(11 × 8) − (8 × 6)",
   "answer": 40,
   "difficulty": "medium"
  },
  {
   "id": "hard-arith-087",
-  "prompt": "11 × 15 − 8 × 9",
+  "prompt": "(11 × 15) − (8 × 9)",
   "answer": 93,
   "difficulty": "medium"
  },
@@ -559,7 +559,7 @@
  },
  {
   "id": "hard-arith-094",
-  "prompt": "15 × 10 − 6 × 8",
+  "prompt": "(15 × 10) − (6 × 8)",
   "answer": 102,
   "difficulty": "medium"
  },
@@ -643,7 +643,7 @@
  },
  {
   "id": "hard-arith-108",
-  "prompt": "15 × 15 − 12 × 10",
+  "prompt": "(15 × 15) − (12 × 10)",
   "answer": 105,
   "difficulty": "medium"
  },
@@ -697,7 +697,7 @@
  },
  {
   "id": "hard-arith-117",
-  "prompt": "15 × 7 − 7 × 10",
+  "prompt": "(15 × 7) − (7 × 10)",
   "answer": 35,
   "difficulty": "medium"
  },
@@ -733,7 +733,7 @@
  },
  {
   "id": "hard-arith-123",
-  "prompt": "10 × 14 − 8 × 12",
+  "prompt": "(10 × 14) − (8 × 12)",
   "answer": 44,
   "difficulty": "medium"
  },
@@ -769,7 +769,7 @@
  },
  {
   "id": "hard-arith-129",
-  "prompt": "13 × 11 − 11 × 7",
+  "prompt": "(13 × 11) − (11 × 7)",
   "answer": 66,
   "difficulty": "medium"
  },
@@ -913,7 +913,7 @@
  },
  {
   "id": "hard-arith-153",
-  "prompt": "15 × 7 − 8 × 10",
+  "prompt": "(15 × 7) − (8 × 10)",
   "answer": 25,
   "difficulty": "medium"
  },
@@ -991,7 +991,7 @@
  },
  {
   "id": "hard-arith-166",
-  "prompt": "8 × 11 − 12 × 7",
+  "prompt": "(8 × 11) − (12 × 7)",
   "answer": 4,
   "difficulty": "medium"
  },
@@ -1057,7 +1057,7 @@
  },
  {
   "id": "hard-arith-177",
-  "prompt": "14 × 11 − 8 × 11",
+  "prompt": "(14 × 11) − (8 × 11)",
   "answer": 66,
   "difficulty": "medium"
  },
@@ -1129,7 +1129,7 @@
  },
  {
   "id": "hard-arith-189",
-  "prompt": "10 × 8 − 7 × 8",
+  "prompt": "(10 × 8) − (7 × 8)",
   "answer": 24,
   "difficulty": "medium"
  },
@@ -1219,7 +1219,7 @@
  },
  {
   "id": "hard-arith-204",
-  "prompt": "15 × 9 − 12 × 10",
+  "prompt": "(15 × 9) − (12 × 10)",
   "answer": 15,
   "difficulty": "medium"
  },
@@ -1273,13 +1273,13 @@
  },
  {
   "id": "hard-arith-213",
-  "prompt": "12 × 10 − 8 × 10",
+  "prompt": "(12 × 10) − (8 × 10)",
   "answer": 40,
   "difficulty": "medium"
  },
  {
   "id": "hard-arith-214",
-  "prompt": "12 × 11 − 10 × 12",
+  "prompt": "(12 × 11) − (10 × 12)",
   "answer": 12,
   "difficulty": "medium"
  },
@@ -1321,7 +1321,7 @@
  },
  {
   "id": "hard-arith-221",
-  "prompt": "15 × 14 − 10 × 8",
+  "prompt": "(15 × 14) − (10 × 8)",
   "answer": 130,
   "difficulty": "medium"
  },
@@ -1351,7 +1351,7 @@
  },
  {
   "id": "hard-arith-226",
-  "prompt": "9 × 11 − 7 × 10",
+  "prompt": "(9 × 11) − (7 × 10)",
   "answer": 29,
   "difficulty": "medium"
  },
@@ -1459,7 +1459,7 @@
  },
  {
   "id": "hard-arith-244",
-  "prompt": "7 × 15 − 7 × 11",
+  "prompt": "(7 × 15) − (7 × 11)",
   "answer": 28,
   "difficulty": "medium"
  },
@@ -1489,13 +1489,13 @@
  },
  {
   "id": "hard-arith-249",
-  "prompt": "8 × 12 − 7 × 6",
+  "prompt": "(8 × 12) − (7 × 6)",
   "answer": 54,
   "difficulty": "medium"
  },
  {
   "id": "hard-arith-250",
-  "prompt": "15 × 9 − 9 × 9",
+  "prompt": "(15 × 9) − (9 × 9)",
   "answer": 54,
   "difficulty": "medium"
  },
@@ -1537,7 +1537,7 @@
  },
  {
   "id": "hard-arith-257",
-  "prompt": "7 × 15 − 8 × 12",
+  "prompt": "(7 × 15) − (8 × 12)",
   "answer": 9,
   "difficulty": "medium"
  },
@@ -1555,7 +1555,7 @@
  },
  {
   "id": "hard-arith-260",
-  "prompt": "8 × 9 − 6 × 6",
+  "prompt": "(8 × 9) − (6 × 6)",
   "answer": 36,
   "difficulty": "medium"
  },
@@ -1567,7 +1567,7 @@
  },
  {
   "id": "hard-arith-262",
-  "prompt": "9 × 13 − 6 × 6",
+  "prompt": "(9 × 13) − (6 × 6)",
   "answer": 81,
   "difficulty": "medium"
  },
@@ -1645,7 +1645,7 @@
  },
  {
   "id": "hard-arith-275",
-  "prompt": "11 × 7 − 11 × 7",
+  "prompt": "(11 × 7) − (11 × 7)",
   "answer": 0,
   "difficulty": "medium"
  },
@@ -1681,7 +1681,7 @@
  },
  {
   "id": "hard-arith-281",
-  "prompt": "10 × 11 − 7 × 11",
+  "prompt": "(10 × 11) − (7 × 11)",
   "answer": 33,
   "difficulty": "medium"
  },
@@ -1717,7 +1717,7 @@
  },
  {
   "id": "hard-arith-287",
-  "prompt": "15 × 8 − 8 × 9",
+  "prompt": "(15 × 8) − (8 × 9)",
   "answer": 48,
   "difficulty": "medium"
  },
@@ -1765,7 +1765,7 @@
  },
  {
   "id": "hard-arith-295",
-  "prompt": "15 × 7 − 8 × 8",
+  "prompt": "(15 × 7) − (8 × 8)",
   "answer": 41,
   "difficulty": "medium"
  },

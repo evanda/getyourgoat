@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "hard-arith-062",
-     "prompt": "7 × 15 − 9 × 11",
+     "prompt": "(7 × 15) − (9 × 11)",
      "answer": 6,
      "difficulty": "medium"
     },
@@ -19,7 +19,7 @@
     },
     {
      "id": "hard-arith-275",
-     "prompt": "11 × 7 − 11 × 7",
+     "prompt": "(11 × 7) − (11 × 7)",
      "answer": 0,
      "difficulty": "medium"
     }

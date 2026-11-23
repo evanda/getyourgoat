@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-013",
-     "prompt": "50 ÷ 5 + 23",
+     "prompt": "(50 ÷ 5) + 23",
      "answer": 33,
      "difficulty": "medium"
     },

@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-188",
-     "prompt": "6 × 12 − 28",
+     "prompt": "(6 × 12) − 28",
      "answer": 44,
      "difficulty": "medium"
     }

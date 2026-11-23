@@ -13,7 +13,7 @@
     },
     {
      "id": "hard-arith-295",
-     "prompt": "15 × 7 − 8 × 8",
+     "prompt": "(15 × 7) − (8 × 8)",
      "answer": 41,
      "difficulty": "medium"
     },

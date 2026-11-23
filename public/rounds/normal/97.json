@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-020",
-     "prompt": "12 × 10 − 17",
+     "prompt": "(12 × 10) − 17",
      "answer": 103,
      "difficulty": "medium"
     },
@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-080",
-     "prompt": "45 ÷ 5 + 10",
+     "prompt": "(45 ÷ 5) + 10",
      "answer": 19,
      "difficulty": "medium"
     }

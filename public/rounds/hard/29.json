@@ -7,13 +7,13 @@
    "variants": [
     {
      "id": "hard-arith-094",
-     "prompt": "15 × 10 − 6 × 8",
+     "prompt": "(15 × 10) − (6 × 8)",
      "answer": 102,
      "difficulty": "medium"
     },
     {
      "id": "hard-arith-123",
-     "prompt": "10 × 14 − 8 × 12",
+     "prompt": "(10 × 14) − (8 × 12)",
      "answer": 44,
      "difficulty": "medium"
     },

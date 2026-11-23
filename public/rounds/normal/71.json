@@ -7,19 +7,19 @@
    "variants": [
     {
      "id": "arith-222",
-     "prompt": "8 × 6 − 5",
+     "prompt": "(8 × 6) − 5",
      "answer": 43,
      "difficulty": "medium"
     },
     {
      "id": "arith-073",
-     "prompt": "11 × 12 + 6 × 4",
+     "prompt": "(11 × 12) + (6 × 4)",
      "answer": 156,
      "difficulty": "hard"
     },
     {
      "id": "arith-226",
-     "prompt": "10 × 6 + 6 × 4",
+     "prompt": "(10 × 6) + (6 × 4)",
      "answer": 84,
      "difficulty": "hard"
     }

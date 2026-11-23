@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-114",
-     "prompt": "8 × 9 − 18",
+     "prompt": "(8 × 9) − 18",
      "answer": 54,
      "difficulty": "medium"
     }

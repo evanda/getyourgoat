@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-093",
-     "prompt": "117 ÷ 9 + 25",
+     "prompt": "(117 ÷ 9) + 25",
      "answer": 38,
      "difficulty": "medium"
     },

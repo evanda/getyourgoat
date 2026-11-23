@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-040",
-     "prompt": "28 ÷ 4 + 5",
+     "prompt": "(28 ÷ 4) + 5",
      "answer": 12,
      "difficulty": "medium"
     },

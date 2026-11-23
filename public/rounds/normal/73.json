@@ -7,13 +7,13 @@
    "variants": [
     {
      "id": "arith-213",
-     "prompt": "9 × 9 − 27",
+     "prompt": "(9 × 9) − 27",
      "answer": 54,
      "difficulty": "medium"
     },
     {
      "id": "arith-148",
-     "prompt": "96 ÷ 8 + 5",
+     "prompt": "(96 ÷ 8) + 5",
      "answer": 17,
      "difficulty": "medium"
     },

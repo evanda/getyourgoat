@@ -19,7 +19,7 @@
     },
     {
      "id": "hard-arith-204",
-     "prompt": "15 × 9 − 12 × 10",
+     "prompt": "(15 × 9) − (12 × 10)",
      "answer": 15,
      "difficulty": "medium"
     }

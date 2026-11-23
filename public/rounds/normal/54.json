@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-251",
-     "prompt": "8 × 8 − 25",
+     "prompt": "(8 × 8) − 25",
      "answer": 39,
      "difficulty": "medium"
     }

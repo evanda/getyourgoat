@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-284",
-     "prompt": "180 ÷ 12 + 19",
+     "prompt": "(180 ÷ 12) + 19",
      "answer": 34,
      "difficulty": "medium"
     },

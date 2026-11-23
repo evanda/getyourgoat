@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-145",
-     "prompt": "140 ÷ 10 + 22",
+     "prompt": "(140 ÷ 10) + 22",
      "answer": 36,
      "difficulty": "medium"
     },
@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-010",
-     "prompt": "12 × 12 − 8",
+     "prompt": "(12 × 12) − 8",
      "answer": 136,
      "difficulty": "medium"
     }

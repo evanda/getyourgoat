@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-243",
-     "prompt": "70 ÷ 10 + 7",
+     "prompt": "(70 ÷ 10) + 7",
      "answer": 14,
      "difficulty": "medium"
     },
@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-095",
-     "prompt": "99 ÷ 11 + 21",
+     "prompt": "(99 ÷ 11) + 21",
      "answer": 30,
      "difficulty": "medium"
     }

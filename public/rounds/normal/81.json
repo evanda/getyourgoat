@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-025",
-     "prompt": "7 × 10 − 17",
+     "prompt": "(7 × 10) − 17",
      "answer": 53,
      "difficulty": "medium"
     },

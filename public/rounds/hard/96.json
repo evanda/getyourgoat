@@ -19,7 +19,7 @@
     },
     {
      "id": "hard-arith-214",
-     "prompt": "12 × 11 − 10 × 12",
+     "prompt": "(12 × 11) − (10 × 12)",
      "answer": 12,
      "difficulty": "medium"
     }

@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-283",
-     "prompt": "49 ÷ 7 + 16",
+     "prompt": "(49 ÷ 7) + 16",
      "answer": 23,
      "difficulty": "medium"
     }

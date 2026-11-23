@@ -55,7 +55,7 @@
  },
  {
   "id": "arith-010",
-  "prompt": "12 × 12 − 8",
+  "prompt": "(12 × 12) − 8",
   "answer": 136,
   "difficulty": "medium"
  },
@@ -73,7 +73,7 @@
  },
  {
   "id": "arith-013",
-  "prompt": "50 ÷ 5 + 23",
+  "prompt": "(50 ÷ 5) + 23",
   "answer": 33,
   "difficulty": "medium"
  },
@@ -85,7 +85,7 @@
  },
  {
   "id": "arith-015",
-  "prompt": "130 ÷ 10 + 12",
+  "prompt": "(130 ÷ 10) + 12",
   "answer": 25,
   "difficulty": "medium"
  },
@@ -97,7 +97,7 @@
  },
  {
   "id": "arith-017",
-  "prompt": "110 ÷ 10 + 22",
+  "prompt": "(110 ÷ 10) + 22",
   "answer": 33,
   "difficulty": "medium"
  },
@@ -115,7 +115,7 @@
  },
  {
   "id": "arith-020",
-  "prompt": "12 × 10 − 17",
+  "prompt": "(12 × 10) − 17",
   "answer": 103,
   "difficulty": "medium"
  },
@@ -145,7 +145,7 @@
  },
  {
   "id": "arith-025",
-  "prompt": "7 × 10 − 17",
+  "prompt": "(7 × 10) − 17",
   "answer": 53,
   "difficulty": "medium"
  },
@@ -169,7 +169,7 @@
  },
  {
   "id": "arith-029",
-  "prompt": "12 × 6 − 21",
+  "prompt": "(12 × 6) − 21",
   "answer": 51,
   "difficulty": "medium"
  },
@@ -181,7 +181,7 @@
  },
  {
   "id": "arith-031",
-  "prompt": "12 × 9 − 8",
+  "prompt": "(12 × 9) − 8",
   "answer": 100,
   "difficulty": "medium"
  },
@@ -211,7 +211,7 @@
  },
  {
   "id": "arith-036",
-  "prompt": "168 ÷ 12 + 7",
+  "prompt": "(168 ÷ 12) + 7",
   "answer": 21,
   "difficulty": "medium"
  },
@@ -235,7 +235,7 @@
  },
  {
   "id": "arith-040",
-  "prompt": "28 ÷ 4 + 5",
+  "prompt": "(28 ÷ 4) + 5",
   "answer": 12,
   "difficulty": "medium"
  },
@@ -247,25 +247,25 @@
  },
  {
   "id": "arith-042",
-  "prompt": "8 × 12 + 5 × 3",
+  "prompt": "(8 × 12) + (5 × 3)",
   "answer": 111,
   "difficulty": "hard"
  },
  {
   "id": "arith-043",
-  "prompt": "11 × 7 − 15",
+  "prompt": "(11 × 7) − 15",
   "answer": 62,
   "difficulty": "medium"
  },
  {
   "id": "arith-044",
-  "prompt": "9 × 6 + 8 × 8",
+  "prompt": "(9 × 6) + (8 × 8)",
   "answer": 118,
   "difficulty": "hard"
  },
  {
   "id": "arith-045",
-  "prompt": "63 ÷ 7 + 13",
+  "prompt": "(63 ÷ 7) + 13",
   "answer": 22,
   "difficulty": "medium"
  },
@@ -295,7 +295,7 @@
  },
  {
   "id": "arith-050",
-  "prompt": "6 × 11 − 7",
+  "prompt": "(6 × 11) − 7",
   "answer": 59,
   "difficulty": "medium"
  },
@@ -331,7 +331,7 @@
  },
  {
   "id": "arith-056",
-  "prompt": "40 ÷ 5 + 11",
+  "prompt": "(40 ÷ 5) + 11",
   "answer": 19,
   "difficulty": "medium"
  },
@@ -355,7 +355,7 @@
  },
  {
   "id": "arith-060",
-  "prompt": "9 × 9 − 25",
+  "prompt": "(9 × 9) − 25",
   "answer": 56,
   "difficulty": "medium"
  },
@@ -385,7 +385,7 @@
  },
  {
   "id": "arith-065",
-  "prompt": "6 × 9 + 8 × 4",
+  "prompt": "(6 × 9) + (8 × 4)",
   "answer": 86,
   "difficulty": "hard"
  },
@@ -433,7 +433,7 @@
  },
  {
   "id": "arith-073",
-  "prompt": "11 × 12 + 6 × 4",
+  "prompt": "(11 × 12) + (6 × 4)",
   "answer": 156,
   "difficulty": "hard"
  },
@@ -451,7 +451,7 @@
  },
  {
   "id": "arith-076",
-  "prompt": "10 × 10 − 10",
+  "prompt": "(10 × 10) − 10",
   "answer": 90,
   "difficulty": "medium"
  },
@@ -475,7 +475,7 @@
  },
  {
   "id": "arith-080",
-  "prompt": "45 ÷ 5 + 10",
+  "prompt": "(45 ÷ 5) + 10",
   "answer": 19,
   "difficulty": "medium"
  },
@@ -553,7 +553,7 @@
  },
  {
   "id": "arith-093",
-  "prompt": "117 ÷ 9 + 25",
+  "prompt": "(117 ÷ 9) + 25",
   "answer": 38,
   "difficulty": "medium"
  },
@@ -565,7 +565,7 @@
  },
  {
   "id": "arith-095",
-  "prompt": "99 ÷ 11 + 21",
+  "prompt": "(99 ÷ 11) + 21",
   "answer": 30,
   "difficulty": "medium"
  },
@@ -583,7 +583,7 @@
  },
  {
   "id": "arith-098",
-  "prompt": "9 × 6 − 6",
+  "prompt": "(9 × 6) − 6",
   "answer": 48,
   "difficulty": "medium"
  },
@@ -601,7 +601,7 @@
  },
  {
   "id": "arith-101",
-  "prompt": "10 × 11 − 5",
+  "prompt": "(10 × 11) − 5",
   "answer": 105,
   "difficulty": "medium"
  },
@@ -637,7 +637,7 @@
  },
  {
   "id": "arith-107",
-  "prompt": "154 ÷ 11 + 19",
+  "prompt": "(154 ÷ 11) + 19",
   "answer": 33,
   "difficulty": "medium"
  },
@@ -655,7 +655,7 @@
  },
  {
   "id": "arith-110",
-  "prompt": "10 × 7 − 24",
+  "prompt": "(10 × 7) − 24",
   "answer": 46,
   "difficulty": "medium"
  },
@@ -679,7 +679,7 @@
  },
  {
   "id": "arith-114",
-  "prompt": "8 × 9 − 18",
+  "prompt": "(8 × 9) − 18",
   "answer": 54,
   "difficulty": "medium"
  },
@@ -691,7 +691,7 @@
  },
  {
   "id": "arith-116",
-  "prompt": "140 ÷ 10 + 11",
+  "prompt": "(140 ÷ 10) + 11",
   "answer": 25,
   "difficulty": "medium"
  },
@@ -751,7 +751,7 @@
  },
  {
   "id": "arith-126",
-  "prompt": "6 × 12 + 8 × 8",
+  "prompt": "(6 × 12) + (8 × 8)",
   "answer": 136,
   "difficulty": "hard"
  },
@@ -781,13 +781,13 @@
  },
  {
   "id": "arith-131",
-  "prompt": "110 ÷ 10 + 7",
+  "prompt": "(110 ÷ 10) + 7",
   "answer": 18,
   "difficulty": "medium"
  },
  {
   "id": "arith-132",
-  "prompt": "8 × 8 − 13",
+  "prompt": "(8 × 8) − 13",
   "answer": 51,
   "difficulty": "medium"
  },
@@ -865,13 +865,13 @@
  },
  {
   "id": "arith-145",
-  "prompt": "140 ÷ 10 + 22",
+  "prompt": "(140 ÷ 10) + 22",
   "answer": 36,
   "difficulty": "medium"
  },
  {
   "id": "arith-146",
-  "prompt": "7 × 6 + 5 × 6",
+  "prompt": "(7 × 6) + (5 × 6)",
   "answer": 72,
   "difficulty": "hard"
  },
@@ -883,19 +883,19 @@
  },
  {
   "id": "arith-148",
-  "prompt": "96 ÷ 8 + 5",
+  "prompt": "(96 ÷ 8) + 5",
   "answer": 17,
   "difficulty": "medium"
  },
  {
   "id": "arith-149",
-  "prompt": "49 ÷ 7 + 15",
+  "prompt": "(49 ÷ 7) + 15",
   "answer": 22,
   "difficulty": "medium"
  },
  {
   "id": "arith-150",
-  "prompt": "11 × 11 − 30",
+  "prompt": "(11 × 11) − 30",
   "answer": 91,
   "difficulty": "medium"
  },
@@ -907,7 +907,7 @@
  },
  {
   "id": "arith-152",
-  "prompt": "6 × 7 + 8 × 9",
+  "prompt": "(6 × 7) + (8 × 9)",
   "answer": 114,
   "difficulty": "hard"
  },
@@ -961,7 +961,7 @@
  },
  {
   "id": "arith-161",
-  "prompt": "10 × 10 − 12",
+  "prompt": "(10 × 10) − 12",
   "answer": 88,
   "difficulty": "medium"
  },
@@ -997,13 +997,13 @@
  },
  {
   "id": "arith-167",
-  "prompt": "11 × 8 − 17",
+  "prompt": "(11 × 8) − 17",
   "answer": 71,
   "difficulty": "medium"
  },
  {
   "id": "arith-168",
-  "prompt": "7 × 9 − 16",
+  "prompt": "(7 × 9) − 16",
   "answer": 47,
   "difficulty": "medium"
  },
@@ -1021,7 +1021,7 @@
  },
  {
   "id": "arith-171",
-  "prompt": "90 ÷ 10 + 15",
+  "prompt": "(90 ÷ 10) + 15",
   "answer": 24,
   "difficulty": "medium"
  },
@@ -1039,7 +1039,7 @@
  },
  {
   "id": "arith-174",
-  "prompt": "8 × 8 − 11",
+  "prompt": "(8 × 8) − 11",
   "answer": 53,
   "difficulty": "medium"
  },
@@ -1099,7 +1099,7 @@
  },
  {
   "id": "arith-184",
-  "prompt": "12 × 11 − 5",
+  "prompt": "(12 × 11) − 5",
   "answer": 127,
   "difficulty": "medium"
  },
@@ -1123,7 +1123,7 @@
  },
  {
   "id": "arith-188",
-  "prompt": "6 × 12 − 28",
+  "prompt": "(6 × 12) − 28",
   "answer": 44,
   "difficulty": "medium"
  },
@@ -1165,7 +1165,7 @@
  },
  {
   "id": "arith-195",
-  "prompt": "8 × 8 + 7 × 7",
+  "prompt": "(8 × 8) + (7 × 7)",
   "answer": 113,
   "difficulty": "hard"
  },
@@ -1195,13 +1195,13 @@
  },
  {
   "id": "arith-200",
-  "prompt": "121 ÷ 11 + 3",
+  "prompt": "(121 ÷ 11) + 3",
   "answer": 14,
   "difficulty": "medium"
  },
  {
   "id": "arith-201",
-  "prompt": "66 ÷ 6 + 11",
+  "prompt": "(66 ÷ 6) + 11",
   "answer": 22,
   "difficulty": "medium"
  },
@@ -1213,13 +1213,13 @@
  },
  {
   "id": "arith-203",
-  "prompt": "135 ÷ 9 + 4",
+  "prompt": "(135 ÷ 9) + 4",
   "answer": 19,
   "difficulty": "medium"
  },
  {
   "id": "arith-204",
-  "prompt": "10 × 10 + 5 × 7",
+  "prompt": "(10 × 10) + (5 × 7)",
   "answer": 135,
   "difficulty": "hard"
  },
@@ -1237,7 +1237,7 @@
  },
  {
   "id": "arith-207",
-  "prompt": "11 × 8 − 28",
+  "prompt": "(11 × 8) − 28",
   "answer": 60,
   "difficulty": "medium"
  },
@@ -1261,19 +1261,19 @@
  },
  {
   "id": "arith-211",
-  "prompt": "117 ÷ 9 + 21",
+  "prompt": "(117 ÷ 9) + 21",
   "answer": 34,
   "difficulty": "medium"
  },
  {
   "id": "arith-212",
-  "prompt": "135 ÷ 9 + 24",
+  "prompt": "(135 ÷ 9) + 24",
   "answer": 39,
   "difficulty": "medium"
  },
  {
   "id": "arith-213",
-  "prompt": "9 × 9 − 27",
+  "prompt": "(9 × 9) − 27",
   "answer": 54,
   "difficulty": "medium"
  },
@@ -1303,19 +1303,19 @@
  },
  {
   "id": "arith-218",
-  "prompt": "70 ÷ 5 + 24",
+  "prompt": "(70 ÷ 5) + 24",
   "answer": 38,
   "difficulty": "medium"
  },
  {
   "id": "arith-219",
-  "prompt": "121 ÷ 11 + 16",
+  "prompt": "(121 ÷ 11) + 16",
   "answer": 27,
   "difficulty": "medium"
  },
  {
   "id": "arith-220",
-  "prompt": "11 × 7 − 8",
+  "prompt": "(11 × 7) − 8",
   "answer": 69,
   "difficulty": "medium"
  },
@@ -1327,13 +1327,13 @@
  },
  {
   "id": "arith-222",
-  "prompt": "8 × 6 − 5",
+  "prompt": "(8 × 6) − 5",
   "answer": 43,
   "difficulty": "medium"
  },
  {
   "id": "arith-223",
-  "prompt": "12 × 12 + 8 × 8",
+  "prompt": "(12 × 12) + (8 × 8)",
   "answer": 208,
   "difficulty": "hard"
  },
@@ -1351,7 +1351,7 @@
  },
  {
   "id": "arith-226",
-  "prompt": "10 × 6 + 6 × 4",
+  "prompt": "(10 × 6) + (6 × 4)",
   "answer": 84,
   "difficulty": "hard"
  },
@@ -1369,7 +1369,7 @@
  },
  {
   "id": "arith-229",
-  "prompt": "9 × 7 − 9",
+  "prompt": "(9 × 7) − 9",
   "answer": 54,
   "difficulty": "medium"
  },
@@ -1381,7 +1381,7 @@
  },
  {
   "id": "arith-231",
-  "prompt": "168 ÷ 12 + 16",
+  "prompt": "(168 ÷ 12) + 16",
   "answer": 30,
   "difficulty": "medium"
  },
@@ -1405,7 +1405,7 @@
  },
  {
   "id": "arith-235",
-  "prompt": "45 ÷ 5 + 9",
+  "prompt": "(45 ÷ 5) + 9",
   "answer": 18,
   "difficulty": "medium"
  },
@@ -1423,7 +1423,7 @@
  },
  {
   "id": "arith-238",
-  "prompt": "12 × 11 + 8 × 5",
+  "prompt": "(12 × 11) + (8 × 5)",
   "answer": 172,
   "difficulty": "hard"
  },
@@ -1453,7 +1453,7 @@
  },
  {
   "id": "arith-243",
-  "prompt": "70 ÷ 10 + 7",
+  "prompt": "(70 ÷ 10) + 7",
   "answer": 14,
   "difficulty": "medium"
  },
@@ -1483,7 +1483,7 @@
  },
  {
   "id": "arith-248",
-  "prompt": "65 ÷ 5 + 7",
+  "prompt": "(65 ÷ 5) + 7",
   "answer": 20,
   "difficulty": "medium"
  },
@@ -1495,13 +1495,13 @@
  },
  {
   "id": "arith-250",
-  "prompt": "12 × 9 − 30",
+  "prompt": "(12 × 9) − 30",
   "answer": 78,
   "difficulty": "medium"
  },
  {
   "id": "arith-251",
-  "prompt": "8 × 8 − 25",
+  "prompt": "(8 × 8) − 25",
   "answer": 39,
   "difficulty": "medium"
  },
@@ -1531,7 +1531,7 @@
  },
  {
   "id": "arith-256",
-  "prompt": "7 × 10 − 14",
+  "prompt": "(7 × 10) − 14",
   "answer": 56,
   "difficulty": "medium"
  },
@@ -1549,7 +1549,7 @@
  },
  {
   "id": "arith-259",
-  "prompt": "12 × 8 + 5 × 6",
+  "prompt": "(12 × 8) + (5 × 6)",
   "answer": 126,
   "difficulty": "hard"
  },
@@ -1621,7 +1621,7 @@
  },
  {
   "id": "arith-271",
-  "prompt": "7 × 8 − 20",
+  "prompt": "(7 × 8) − 20",
   "answer": 36,
   "difficulty": "medium"
  },
@@ -1651,7 +1651,7 @@
  },
  {
   "id": "arith-276",
-  "prompt": "88 ÷ 8 + 22",
+  "prompt": "(88 ÷ 8) + 22",
   "answer": 33,
   "difficulty": "medium"
  },
@@ -1675,13 +1675,13 @@
  },
  {
   "id": "arith-280",
-  "prompt": "9 × 10 − 29",
+  "prompt": "(9 × 10) − 29",
   "answer": 61,
   "difficulty": "medium"
  },
  {
   "id": "arith-281",
-  "prompt": "9 × 10 − 22",
+  "prompt": "(9 × 10) − 22",
   "answer": 68,
   "difficulty": "medium"
  },
@@ -1693,13 +1693,13 @@
  },
  {
   "id": "arith-283",
-  "prompt": "49 ÷ 7 + 16",
+  "prompt": "(49 ÷ 7) + 16",
   "answer": 23,
   "difficulty": "medium"
  },
  {
   "id": "arith-284",
-  "prompt": "180 ÷ 12 + 19",
+  "prompt": "(180 ÷ 12) + 19",
   "answer": 34,
   "difficulty": "medium"
  },
@@ -1741,19 +1741,19 @@
  },
  {
   "id": "arith-291",
-  "prompt": "60 ÷ 5 + 4",
+  "prompt": "(60 ÷ 5) + 4",
   "answer": 16,
   "difficulty": "medium"
  },
  {
   "id": "arith-292",
-  "prompt": "12 × 11 − 21",
+  "prompt": "(12 × 11) − 21",
   "answer": 111,
   "difficulty": "medium"
  },
  {
   "id": "arith-293",
-  "prompt": "10 × 12 − 26",
+  "prompt": "(10 × 12) − 26",
   "answer": 94,
   "difficulty": "medium"
  },
@@ -1777,7 +1777,7 @@
  },
  {
   "id": "arith-297",
-  "prompt": "32 ÷ 4 + 3",
+  "prompt": "(32 ÷ 4) + 3",
   "answer": 11,
   "difficulty": "medium"
  },
@@ -1795,7 +1795,7 @@
  },
  {
   "id": "arith-300",
-  "prompt": "42 ÷ 7 + 10",
+  "prompt": "(42 ÷ 7) + 10",
   "answer": 16,
   "difficulty": "medium"
  }

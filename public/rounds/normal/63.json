@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-300",
-     "prompt": "42 ÷ 7 + 10",
+     "prompt": "(42 ÷ 7) + 10",
      "answer": 16,
      "difficulty": "medium"
     }

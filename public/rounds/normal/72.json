@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-184",
-     "prompt": "12 × 11 − 5",
+     "prompt": "(12 × 11) − 5",
      "answer": 127,
      "difficulty": "medium"
     },

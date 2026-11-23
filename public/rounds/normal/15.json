@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-174",
-     "prompt": "8 × 8 − 11",
+     "prompt": "(8 × 8) − 11",
      "answer": 53,
      "difficulty": "medium"
     },

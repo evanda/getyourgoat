@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-250",
-     "prompt": "12 × 9 − 30",
+     "prompt": "(12 × 9) − 30",
      "answer": 78,
      "difficulty": "medium"
     },

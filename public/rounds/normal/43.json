@@ -7,19 +7,19 @@
    "variants": [
     {
      "id": "arith-281",
-     "prompt": "9 × 10 − 22",
+     "prompt": "(9 × 10) − 22",
      "answer": 68,
      "difficulty": "medium"
     },
     {
      "id": "arith-168",
-     "prompt": "7 × 9 − 16",
+     "prompt": "(7 × 9) − 16",
      "answer": 47,
      "difficulty": "medium"
     },
     {
      "id": "arith-201",
-     "prompt": "66 ÷ 6 + 11",
+     "prompt": "(66 ÷ 6) + 11",
      "answer": 22,
      "difficulty": "medium"
     }

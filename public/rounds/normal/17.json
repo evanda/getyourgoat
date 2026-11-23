@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-126",
-     "prompt": "6 × 12 + 8 × 8",
+     "prompt": "(6 × 12) + (8 × 8)",
      "answer": 136,
      "difficulty": "hard"
     },
@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-065",
-     "prompt": "6 × 9 + 8 × 4",
+     "prompt": "(6 × 9) + (8 × 4)",
      "answer": 86,
      "difficulty": "hard"
     }

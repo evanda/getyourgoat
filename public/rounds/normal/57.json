@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-276",
-     "prompt": "88 ÷ 8 + 22",
+     "prompt": "(88 ÷ 8) + 22",
      "answer": 33,
      "difficulty": "medium"
     },

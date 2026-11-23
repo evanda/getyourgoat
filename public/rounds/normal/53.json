@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-110",
-     "prompt": "10 × 7 − 24",
+     "prompt": "(10 × 7) − 24",
      "answer": 46,
      "difficulty": "medium"
     },

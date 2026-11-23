@@ -24,6 +24,10 @@ for (const level of LEVELS) {
       it(`${name} is valid and named for its level and number`, () => {
         const r = validateRound(JSON.parse(readFileSync(new URL(name, dir), 'utf8')));
         expect(`${r.level}/${r.number}.json`).toBe(`${level}/${name}`);
+        // Multi-step arithmetic must be parenthesized: nobody should need order of operations.
+        for (const q of r.questions[0].variants) {
+          if ((q.prompt.match(/[×÷+−]/g) ?? []).length > 1) expect(q.prompt, q.id).toMatch(/\(/);
+        }
         for (const b of r.questions) {
           for (const q of b.variants) {
             expect(allIds.has(q.id), `${q.id} also in ${allIds.get(q.id)}`).toBe(false);

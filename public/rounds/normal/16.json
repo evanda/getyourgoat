@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-292",
-     "prompt": "12 × 11 − 21",
+     "prompt": "(12 × 11) − 21",
      "answer": 111,
      "difficulty": "medium"
     },
@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-223",
-     "prompt": "12 × 12 + 8 × 8",
+     "prompt": "(12 × 12) + (8 × 8)",
      "answer": 208,
      "difficulty": "hard"
     }

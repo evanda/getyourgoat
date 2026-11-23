@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-200",
-     "prompt": "121 ÷ 11 + 3",
+     "prompt": "(121 ÷ 11) + 3",
      "answer": 14,
      "difficulty": "medium"
     },

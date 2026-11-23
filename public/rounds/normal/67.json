@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-015",
-     "prompt": "130 ÷ 10 + 12",
+     "prompt": "(130 ÷ 10) + 12",
      "answer": 25,
      "difficulty": "medium"
     }

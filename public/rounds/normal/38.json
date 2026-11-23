@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-280",
-     "prompt": "9 × 10 − 29",
+     "prompt": "(9 × 10) − 29",
      "answer": 61,
      "difficulty": "medium"
     }

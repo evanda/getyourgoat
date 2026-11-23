@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-076",
-     "prompt": "10 × 10 − 10",
+     "prompt": "(10 × 10) − 10",
      "answer": 90,
      "difficulty": "medium"
     }

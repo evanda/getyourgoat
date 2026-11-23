@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-204",
-     "prompt": "10 × 10 + 5 × 7",
+     "prompt": "(10 × 10) + (5 × 7)",
      "answer": 135,
      "difficulty": "hard"
     },

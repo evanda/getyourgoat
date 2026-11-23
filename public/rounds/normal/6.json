@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-107",
-     "prompt": "154 ÷ 11 + 19",
+     "prompt": "(154 ÷ 11) + 19",
      "answer": 33,
      "difficulty": "medium"
     }

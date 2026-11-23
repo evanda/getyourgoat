@@ -7,13 +7,13 @@
    "variants": [
     {
      "id": "arith-149",
-     "prompt": "49 ÷ 7 + 15",
+     "prompt": "(49 ÷ 7) + 15",
      "answer": 22,
      "difficulty": "medium"
     },
     {
      "id": "arith-211",
-     "prompt": "117 ÷ 9 + 21",
+     "prompt": "(117 ÷ 9) + 21",
      "answer": 34,
      "difficulty": "medium"
     },

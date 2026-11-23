@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-212",
-     "prompt": "135 ÷ 9 + 24",
+     "prompt": "(135 ÷ 9) + 24",
      "answer": 39,
      "difficulty": "medium"
     },

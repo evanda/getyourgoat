@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-271",
-     "prompt": "7 × 8 − 20",
+     "prompt": "(7 × 8) − 20",
      "answer": 36,
      "difficulty": "medium"
     },

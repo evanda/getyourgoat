@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-229",
-     "prompt": "9 × 7 − 9",
+     "prompt": "(9 × 7) − 9",
      "answer": 54,
      "difficulty": "medium"
     },

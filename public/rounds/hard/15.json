@@ -19,7 +19,7 @@
     },
     {
      "id": "hard-arith-249",
-     "prompt": "8 × 12 − 7 × 6",
+     "prompt": "(8 × 12) − (7 × 6)",
      "answer": 54,
      "difficulty": "medium"
     }

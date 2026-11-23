@@ -19,7 +19,7 @@
     },
     {
      "id": "hard-arith-086",
-     "prompt": "11 × 8 − 8 × 6",
+     "prompt": "(11 × 8) − (8 × 6)",
      "answer": 40,
      "difficulty": "medium"
     }

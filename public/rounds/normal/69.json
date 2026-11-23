@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-029",
-     "prompt": "12 × 6 − 21",
+     "prompt": "(12 × 6) − 21",
      "answer": 51,
      "difficulty": "medium"
     },

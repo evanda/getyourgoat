@@ -13,7 +13,7 @@
     },
     {
      "id": "arith-293",
-     "prompt": "10 × 12 − 26",
+     "prompt": "(10 × 12) − 26",
      "answer": 94,
      "difficulty": "medium"
     },

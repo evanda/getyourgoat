@@ -7,13 +7,13 @@
    "variants": [
     {
      "id": "arith-150",
-     "prompt": "11 × 11 − 30",
+     "prompt": "(11 × 11) − 30",
      "answer": 91,
      "difficulty": "medium"
     },
     {
      "id": "arith-152",
-     "prompt": "6 × 7 + 8 × 9",
+     "prompt": "(6 × 7) + (8 × 9)",
      "answer": 114,
      "difficulty": "hard"
     },

@@ -19,7 +19,7 @@
     },
     {
      "id": "r1-arith-3",
-     "prompt": "144 ÷ 12 + 9",
+     "prompt": "(144 ÷ 12) + 9",
      "answer": 21,
      "difficulty": "medium"
     }

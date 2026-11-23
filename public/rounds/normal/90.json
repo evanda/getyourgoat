@@ -7,7 +7,7 @@
    "variants": [
     {
      "id": "arith-219",
-     "prompt": "121 ÷ 11 + 16",
+     "prompt": "(121 ÷ 11) + 16",
      "answer": 27,
      "difficulty": "medium"
     },
@@ -19,7 +19,7 @@
     },
     {
      "id": "arith-167",
-     "prompt": "11 × 8 − 17",
+     "prompt": "(11 × 8) − 17",
      "answer": 71,
      "difficulty": "medium"
     }

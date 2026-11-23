@@ -1,7 +1,8 @@
 // Generate arithmetic questions for the alpha bank. Deterministic (seeded) so
 // re-running gives the same file. Answers are computed, never hand-written.
 //   node scripts/gen-arithmetic.ts <easy|normal|hard> [count] > content/arithmetic-<level>.json
-// Within a level, "difficulty" is relative to that level.
+// Within a level, "difficulty" is relative to that level. Any prompt with more than one
+// operation is fully parenthesized, so nobody has to rely on order of operations.
 type Difficulty = 'easy' | 'medium' | 'hard';
 interface Arith {
   id: string;
@@ -32,12 +33,12 @@ const normalMakers: Record<Difficulty, (() => [string, number])[]> = {
     () => { const a = int(13, 39), b = int(3, 9); return [`${a} × ${b}`, a * b]; },
     () => { const a = int(120, 480), b = int(25, 99); return [`${a} + ${b}`, a + b]; },
     () => { const a = int(150, 500), b = int(26, 99); return [`${a} ${MINUS} ${b}`, a - b]; },
-    () => { const b = int(4, 12), q = int(6, 15), c = int(3, 25); return [`${b * q} ÷ ${b} + ${c}`, q + c]; },
-    () => { const a = int(6, 12), b = int(6, 12), c = int(5, 30); return [`${a} × ${b} ${MINUS} ${c}`, a * b - c]; },
+    () => { const b = int(4, 12), q = int(6, 15), c = int(3, 25); return [`(${b * q} ÷ ${b}) + ${c}`, q + c]; },
+    () => { const a = int(6, 12), b = int(6, 12), c = int(5, 30); return [`(${a} × ${b}) ${MINUS} ${c}`, a * b - c]; },
   ],
   hard: [
     () => { const a = int(12, 29), b = int(12, 19); return [`${a} × ${b}`, a * b]; },
-    () => { const a = int(6, 12), b = int(6, 12), c = int(3, 9), d = int(3, 9); return [`${a} × ${b} + ${c} × ${d}`, a * b + c * d]; },
+    () => { const a = int(6, 12), b = int(6, 12), c = int(3, 9), d = int(3, 9); return [`(${a} × ${b}) + (${c} × ${d})`, a * b + c * d]; },
     () => { const b = int(6, 15), q = int(12, 25); return [`${b * q} ÷ ${b}`, q]; },
     () => { const a = int(301, 900), b = int(108, 299); return [`${a} ${MINUS} ${b}`, a - b]; },
   ],
@@ -74,7 +75,7 @@ const hardMakers: Record<Difficulty, (() => [string, number])[]> = {
     () => { const a = int(13, 25); return [`${a}²`, a * a]; },
     () => { const a = int(23, 49), b = int(13, 29); return [`${a} × ${b}`, a * b]; },
     () => { const b = int(6, 19), q = int(13, 49); return [`${b * q} ÷ ${b}`, q]; },
-    () => { const a = int(7, 15), b = int(7, 15), c = int(6, 12), d = int(6, 12); return [`${a} × ${b} ${MINUS} ${c} × ${d}`, a * b - c * d]; },
+    () => { const a = int(7, 15), b = int(7, 15), c = int(6, 12), d = int(6, 12); return [`(${a} × ${b}) ${MINUS} (${c} × ${d})`, a * b - c * d]; },
   ],
   hard: [
     () => { const a = int(26, 59); return [`${a}²`, a * a]; },
@@ -88,7 +89,7 @@ const makers = { easy: easyMakers, normal: normalMakers, hard: hardMakers }[leve
 const prefix = level === 'normal' ? 'arith' : `${level}-arith`;
 const count = Number(process.argv[3] ?? 300);
 const out: Arith[] = [];
-const seen = new Set<string>(['17 × 6', '48 + 79', '144 ÷ 12 + 9']); // round #1
+const seen = new Set<string>(['17 × 6', '48 + 79', '(144 ÷ 12) + 9']); // round #1
 while (out.length < count) {
   const r = rand();
   const difficulty: Difficulty = r < 0.35 ? 'easy' : r < 0.85 ? 'medium' : 'hard';
