@@ -1,0 +1,4097 @@
+[
+ {
+  "id": "easy-lit-001",
+  "prompt": "Who huffed and puffed and blew the straw house down?",
+  "choices": [
+   "The giant",
+   "The fox",
+   "The troll",
+   "The big bad wolf"
+  ],
+  "answer": "The big bad wolf",
+  "difficulty": "easy",
+  "topic": "three-pigs-wolf"
+ },
+ {
+  "id": "easy-lit-002",
+  "prompt": "How many little pigs are in the famous tale?",
+  "choices": [
+   "Two",
+   "Four",
+   "Three",
+   "Five"
+  ],
+  "answer": "Three",
+  "difficulty": "easy",
+  "topic": "three-pigs-count"
+ },
+ {
+  "id": "easy-lit-003",
+  "prompt": "What was the first little pig's house made of?",
+  "choices": [
+   "Bricks",
+   "Straw",
+   "Sticks",
+   "Mud"
+  ],
+  "answer": "Straw",
+  "difficulty": "easy",
+  "topic": "three-pigs-house1"
+ },
+ {
+  "id": "easy-lit-004",
+  "prompt": "Which house was strong enough to stop the wolf?",
+  "choices": [
+   "The brick house",
+   "The straw house",
+   "The stick house",
+   "The tent"
+  ],
+  "answer": "The brick house",
+  "difficulty": "easy",
+  "topic": "three-pigs-brick"
+ },
+ {
+  "id": "easy-lit-005",
+  "prompt": "What did Goldilocks eat in the bears' house?",
+  "choices": [
+   "Pancakes",
+   "Soup",
+   "Pizza",
+   "Porridge"
+  ],
+  "answer": "Porridge",
+  "difficulty": "easy",
+  "topic": "goldilocks-food"
+ },
+ {
+  "id": "easy-lit-006",
+  "prompt": "How many bears live in Goldilocks's story?",
+  "choices": [
+   "Two",
+   "Four",
+   "Three",
+   "Five"
+  ],
+  "answer": "Three",
+  "difficulty": "easy",
+  "topic": "goldilocks-bears"
+ },
+ {
+  "id": "easy-lit-007",
+  "prompt": "What did Goldilocks break at the bears' house?",
+  "choices": [
+   "Mama Bear's cup",
+   "Baby Bear's chair",
+   "Papa Bear's bed",
+   "A window"
+  ],
+  "answer": "Baby Bear's chair",
+  "difficulty": "medium",
+  "topic": "goldilocks-chair"
+ },
+ {
+  "id": "easy-lit-008",
+  "prompt": "Who wore a red hooded cape to visit her grandmother?",
+  "choices": [
+   "Little Red Riding Hood",
+   "Cinderella",
+   "Snow White",
+   "Rapunzel"
+  ],
+  "answer": "Little Red Riding Hood",
+  "difficulty": "easy",
+  "topic": "red-riding-hood-who"
+ },
+ {
+  "id": "easy-lit-009",
+  "prompt": "What did Little Red Riding Hood carry in her basket?",
+  "choices": [
+   "Her toys",
+   "Flowers only",
+   "A lantern",
+   "Food for her grandmother"
+  ],
+  "answer": "Food for her grandmother",
+  "difficulty": "medium",
+  "topic": "red-riding-hood-basket"
+ },
+ {
+  "id": "easy-lit-010",
+  "prompt": "Who lost a glass slipper at the royal ball?",
+  "choices": [
+   "Snow White",
+   "Belle",
+   "Cinderella",
+   "Rapunzel"
+  ],
+  "answer": "Cinderella",
+  "difficulty": "easy",
+  "topic": "cinderella-slipper"
+ },
+ {
+  "id": "easy-lit-011",
+  "prompt": "What did Cinderella's carriage turn from?",
+  "choices": [
+   "A melon",
+   "A pumpkin",
+   "A turnip",
+   "A cabbage"
+  ],
+  "answer": "A pumpkin",
+  "difficulty": "easy",
+  "topic": "cinderella-pumpkin"
+ },
+ {
+  "id": "easy-lit-012",
+  "prompt": "Who helped Cinderella get ready for the ball?",
+  "choices": [
+   "Her fairy godmother",
+   "A good witch",
+   "A mermaid",
+   "Her sister"
+  ],
+  "answer": "Her fairy godmother",
+  "difficulty": "easy",
+  "topic": "cinderella-godmother"
+ },
+ {
+  "id": "easy-lit-013",
+  "prompt": "What happens to Cinderella's magic at midnight?",
+  "choices": [
+   "It grows stronger",
+   "It turns to gold",
+   "She falls asleep",
+   "It ends"
+  ],
+  "answer": "It ends",
+  "difficulty": "medium",
+  "topic": "cinderella-midnight"
+ },
+ {
+  "id": "easy-lit-014",
+  "prompt": "Who lived with seven small helpers in a cottage in the woods?",
+  "choices": [
+   "Cinderella",
+   "Rapunzel",
+   "Snow White",
+   "Gretel"
+  ],
+  "answer": "Snow White",
+  "difficulty": "easy",
+  "topic": "snow-white-dwarfs"
+ },
+ {
+  "id": "easy-lit-015",
+  "prompt": "What fruit did Snow White bite in the story?",
+  "choices": [
+   "A pear",
+   "An apple",
+   "A peach",
+   "A cherry"
+  ],
+  "answer": "An apple",
+  "difficulty": "easy",
+  "topic": "snow-white-apple"
+ },
+ {
+  "id": "easy-lit-016",
+  "prompt": "Who let down her long golden hair from a tower?",
+  "choices": [
+   "Rapunzel",
+   "Cinderella",
+   "Belle",
+   "Snow White"
+  ],
+  "answer": "Rapunzel",
+  "difficulty": "easy",
+  "topic": "rapunzel-hair"
+ },
+ {
+  "id": "easy-lit-017",
+  "prompt": "Who fell asleep for a hundred years after a spindle pricked her finger?",
+  "choices": [
+   "Snow White",
+   "Cinderella",
+   "Rapunzel",
+   "Sleeping Beauty"
+  ],
+  "answer": "Sleeping Beauty",
+  "difficulty": "easy",
+  "topic": "sleeping-beauty"
+ },
+ {
+  "id": "easy-lit-018",
+  "prompt": "What did Jack climb in the tale of Jack and the Beanstalk?",
+  "choices": [
+   "A tall tower",
+   "A mountain",
+   "A giant beanstalk",
+   "A rope ladder"
+  ],
+  "answer": "A giant beanstalk",
+  "difficulty": "easy",
+  "topic": "jack-beanstalk-climb"
+ },
+ {
+  "id": "easy-lit-019",
+  "prompt": "What did Jack trade his cow for?",
+  "choices": [
+   "A golden harp",
+   "Magic beans",
+   "A horse",
+   "A sack of gold"
+  ],
+  "answer": "Magic beans",
+  "difficulty": "easy",
+  "topic": "jack-cow-beans"
+ },
+ {
+  "id": "easy-lit-020",
+  "prompt": "What laid golden eggs in Jack and the Beanstalk?",
+  "choices": [
+   "A goose",
+   "A hen",
+   "A duck",
+   "A swan"
+  ],
+  "answer": "A goose",
+  "difficulty": "medium",
+  "topic": "jack-goose"
+ },
+ {
+  "id": "easy-lit-021",
+  "prompt": "Who lives at the top of Jack's beanstalk?",
+  "choices": [
+   "A dragon",
+   "A witch",
+   "A wizard",
+   "A giant"
+  ],
+  "answer": "A giant",
+  "difficulty": "medium",
+  "topic": "jack-giant"
+ },
+ {
+  "id": "easy-lit-022",
+  "prompt": "What did the Gingerbread Man shout as he ran away?",
+  "choices": [
+   "\"Come and find me!\"",
+   "\"I am so hungry!\"",
+   "\"Catch me if you can!\"",
+   "\"Hello, friends!\""
+  ],
+  "answer": "\"Catch me if you can!\"",
+  "difficulty": "medium",
+  "topic": "gingerbread-run"
+ },
+ {
+  "id": "easy-lit-023",
+  "prompt": "Who finally tricked the Gingerbread Man at the river?",
+  "choices": [
+   "A wolf",
+   "A fox",
+   "A cat",
+   "A crow"
+  ],
+  "answer": "A fox",
+  "difficulty": "medium",
+  "topic": "gingerbread-fox"
+ },
+ {
+  "id": "easy-lit-024",
+  "prompt": "What did the Ugly Duckling grow up to be?",
+  "choices": [
+   "A swan",
+   "A goose",
+   "A hen",
+   "A duck"
+  ],
+  "answer": "A swan",
+  "difficulty": "easy",
+  "topic": "ugly-duckling-swan"
+ },
+ {
+  "id": "easy-lit-025",
+  "prompt": "Who wrote The Ugly Duckling?",
+  "choices": [
+   "The Brothers Grimm",
+   "Charles Perrault",
+   "Roald Dahl",
+   "Hans Christian Andersen"
+  ],
+  "answer": "Hans Christian Andersen",
+  "difficulty": "medium",
+  "topic": "ugly-duckling-author"
+ },
+ {
+  "id": "easy-lit-026",
+  "prompt": "Which little girl in an Andersen tale was only as big as a thumb?",
+  "choices": [
+   "Cinderella",
+   "Gretel",
+   "Thumbelina",
+   "Rapunzel"
+  ],
+  "answer": "Thumbelina",
+  "difficulty": "easy",
+  "topic": "thumbelina"
+ },
+ {
+  "id": "easy-lit-027",
+  "prompt": "What kind of creature gave a kiss in The Frog Prince?",
+  "choices": [
+   "A toad",
+   "A frog",
+   "A lizard",
+   "A snake"
+  ],
+  "answer": "A frog",
+  "difficulty": "easy",
+  "topic": "frog-prince"
+ },
+ {
+  "id": "easy-lit-028",
+  "prompt": "What did the princess drop into the well in The Frog Prince?",
+  "choices": [
+   "A golden ball",
+   "A silver ring",
+   "A glass shoe",
+   "A gold crown"
+  ],
+  "answer": "A golden ball",
+  "difficulty": "medium",
+  "topic": "frog-prince-ball"
+ },
+ {
+  "id": "easy-lit-029",
+  "prompt": "What did the princess feel under many mattresses in The Princess and the Pea?",
+  "choices": [
+   "A button",
+   "A pebble",
+   "A coin",
+   "A pea"
+  ],
+  "answer": "A pea",
+  "difficulty": "easy",
+  "topic": "princess-pea"
+ },
+ {
+  "id": "easy-lit-030",
+  "prompt": "Who made a trail of breadcrumbs in the forest?",
+  "choices": [
+   "Jack and Jill",
+   "Peter and Wendy",
+   "Hansel and Gretel",
+   "Tom and Huck"
+  ],
+  "answer": "Hansel and Gretel",
+  "difficulty": "easy",
+  "topic": "hansel-gretel-crumbs"
+ },
+ {
+  "id": "easy-lit-031",
+  "prompt": "What was the witch's house made of in Hansel and Gretel?",
+  "choices": [
+   "Stone",
+   "Candy and gingerbread",
+   "Straw",
+   "Wood only"
+  ],
+  "answer": "Candy and gingerbread",
+  "difficulty": "easy",
+  "topic": "hansel-gretel-house"
+ },
+ {
+  "id": "easy-lit-032",
+  "prompt": "Who spun straw into gold in the tale of Rumpelstiltskin?",
+  "choices": [
+   "Rumpelstiltskin",
+   "The miller",
+   "The king",
+   "The fairy"
+  ],
+  "answer": "Rumpelstiltskin",
+  "difficulty": "medium",
+  "topic": "rumpelstiltskin-gold"
+ },
+ {
+  "id": "easy-lit-033",
+  "prompt": "Who was the emperor fooled by in The Emperor's New Clothes?",
+  "choices": [
+   "Two knights",
+   "His own sons",
+   "A wizard",
+   "Two tricksters"
+  ],
+  "answer": "Two tricksters",
+  "difficulty": "medium",
+  "topic": "emperors-clothes-fooled"
+ },
+ {
+  "id": "easy-lit-034",
+  "prompt": "In The Emperor's New Clothes, who shouted that he wore nothing?",
+  "choices": [
+   "A soldier",
+   "A king",
+   "A child",
+   "A tailor"
+  ],
+  "answer": "A child",
+  "difficulty": "easy",
+  "topic": "emperors-clothes-child"
+ },
+ {
+  "id": "easy-lit-035",
+  "prompt": "What did the Little Mermaid want to have instead of a fish tail?",
+  "choices": [
+   "Wings",
+   "Legs",
+   "A crown",
+   "Gills"
+  ],
+  "answer": "Legs",
+  "difficulty": "easy",
+  "topic": "little-mermaid-legs"
+ },
+ {
+  "id": "easy-lit-036",
+  "prompt": "Who wrote The Little Mermaid?",
+  "choices": [
+   "Hans Christian Andersen",
+   "The Brothers Grimm",
+   "Roald Dahl",
+   "Lewis Carroll"
+  ],
+  "answer": "Hans Christian Andersen",
+  "difficulty": "medium",
+  "topic": "little-mermaid-author"
+ },
+ {
+  "id": "easy-lit-037",
+  "prompt": "What kind of soldier was in Andersen's story with a single leg?",
+  "choices": [
+   "A wooden soldier",
+   "A toy knight",
+   "A paper soldier",
+   "A tin soldier"
+  ],
+  "answer": "A tin soldier",
+  "difficulty": "medium",
+  "topic": "steadfast-tin-soldier"
+ },
+ {
+  "id": "easy-lit-038",
+  "prompt": "In The Snow Queen, which friend does Gerda go to rescue?",
+  "choices": [
+   "Hans",
+   "Peter",
+   "Kai",
+   "Karl"
+  ],
+  "answer": "Kai",
+  "difficulty": "hard",
+  "topic": "snow-queen-kai"
+ },
+ {
+  "id": "easy-lit-039",
+  "prompt": "What kind of animals pulled Cinderella's coach?",
+  "choices": [
+   "Goats",
+   "Horses",
+   "Oxen",
+   "Deer"
+  ],
+  "answer": "Horses",
+  "difficulty": "medium",
+  "topic": "cinderella-horses"
+ },
+ {
+  "id": "easy-lit-040",
+  "prompt": "What did Puss in Boots wear on his feet?",
+  "choices": [
+   "Boots",
+   "Slippers",
+   "Sandals",
+   "Socks"
+  ],
+  "answer": "Boots",
+  "difficulty": "easy",
+  "topic": "puss-boots"
+ },
+ {
+  "id": "easy-lit-041",
+  "prompt": "Who wrote Puss in Boots and Cinderella (the famous French versions)?",
+  "choices": [
+   "Hans Christian Andersen",
+   "Roald Dahl",
+   "Lewis Carroll",
+   "Charles Perrault"
+  ],
+  "answer": "Charles Perrault",
+  "difficulty": "hard",
+  "topic": "perrault-author"
+ },
+ {
+  "id": "easy-lit-042",
+  "prompt": "Which two brothers collected German fairy tales?",
+  "choices": [
+   "The Wright Brothers",
+   "The Brothers Karamazov",
+   "The Brothers Grimm",
+   "The Marx Brothers"
+  ],
+  "answer": "The Brothers Grimm",
+  "difficulty": "easy",
+  "topic": "grimm-brothers"
+ },
+ {
+  "id": "easy-lit-043",
+  "prompt": "What is the Pied Piper's instrument?",
+  "choices": [
+   "A drum",
+   "A pipe",
+   "A violin",
+   "A trumpet"
+  ],
+  "answer": "A pipe",
+  "difficulty": "easy",
+  "topic": "pied-piper-pipe"
+ },
+ {
+  "id": "easy-lit-044",
+  "prompt": "What animals followed the Pied Piper out of the town of Hamelin?",
+  "choices": [
+   "Rats",
+   "Cats",
+   "Birds",
+   "Frogs"
+  ],
+  "answer": "Rats",
+  "difficulty": "easy",
+  "topic": "pied-piper-rats"
+ },
+ {
+  "id": "easy-lit-045",
+  "prompt": "What did the Three Billy Goats Gruff need to cross?",
+  "choices": [
+   "A river by boat",
+   "A hill",
+   "A fence",
+   "A bridge"
+  ],
+  "answer": "A bridge",
+  "difficulty": "easy",
+  "topic": "billy-goats-bridge"
+ },
+ {
+  "id": "easy-lit-046",
+  "prompt": "Who lived under the bridge in The Three Billy Goats Gruff?",
+  "choices": [
+   "A giant",
+   "A wolf",
+   "A troll",
+   "A bear"
+  ],
+  "answer": "A troll",
+  "difficulty": "easy",
+  "topic": "billy-goats-troll"
+ },
+ {
+  "id": "easy-lit-047",
+  "prompt": "What did the Little Red Hen make with her wheat?",
+  "choices": [
+   "Soup",
+   "Bread",
+   "Cake",
+   "Pie"
+  ],
+  "answer": "Bread",
+  "difficulty": "easy",
+  "topic": "little-red-hen-bread"
+ },
+ {
+  "id": "easy-lit-048",
+  "prompt": "Who was Cinderella's mean family?",
+  "choices": [
+   "Her stepmother and stepsisters",
+   "Her aunts",
+   "Her cousins",
+   "Her grandmother"
+  ],
+  "answer": "Her stepmother and stepsisters",
+  "difficulty": "medium",
+  "topic": "cinderella-stepfamily"
+ },
+ {
+  "id": "easy-lit-049",
+  "prompt": "In Beauty and the Beast, who does Belle meet in the castle?",
+  "choices": [
+   "A dragon",
+   "A giant",
+   "A troll",
+   "A beast"
+  ],
+  "answer": "A beast",
+  "difficulty": "easy",
+  "topic": "beauty-beast"
+ },
+ {
+  "id": "easy-lit-050",
+  "prompt": "What flower did Belle's father pick at the Beast's castle?",
+  "choices": [
+   "A tulip",
+   "A daisy",
+   "A rose",
+   "A lily"
+  ],
+  "answer": "A rose",
+  "difficulty": "medium",
+  "topic": "beauty-beast-rose"
+ },
+ {
+  "id": "easy-lit-051",
+  "prompt": "What did the Elves do in The Elves and the Shoemaker?",
+  "choices": [
+   "Stole the leather",
+   "Made shoes at night",
+   "Sang songs",
+   "Cooked dinner"
+  ],
+  "answer": "Made shoes at night",
+  "difficulty": "medium",
+  "topic": "elves-shoemaker"
+ },
+ {
+  "id": "easy-lit-052",
+  "prompt": "Who did the tailor kill seven of with one blow in a Grimm tale?",
+  "choices": [
+   "Flies",
+   "Wasps",
+   "Giants",
+   "Wolves"
+  ],
+  "answer": "Flies",
+  "difficulty": "hard",
+  "topic": "brave-little-tailor-flies"
+ },
+ {
+  "id": "easy-lit-053",
+  "prompt": "What did Aladdin find that held a genie?",
+  "choices": [
+   "A ring",
+   "A bottle",
+   "A sword",
+   "A lamp"
+  ],
+  "answer": "A lamp",
+  "difficulty": "easy",
+  "topic": "aladdin-lamp"
+ },
+ {
+  "id": "easy-lit-054",
+  "prompt": "Who says \"Open sesame\" to open a cave in a tale?",
+  "choices": [
+   "Aladdin",
+   "Sinbad",
+   "Ali Baba",
+   "Jack"
+  ],
+  "answer": "Ali Baba",
+  "difficulty": "medium",
+  "topic": "ali-baba-sesame"
+ },
+ {
+  "id": "easy-lit-055",
+  "prompt": "How many thieves are in the title of Ali Baba's story?",
+  "choices": [
+   "Ten",
+   "Forty",
+   "Twenty",
+   "Seven"
+  ],
+  "answer": "Forty",
+  "difficulty": "medium",
+  "topic": "ali-baba-forty"
+ },
+ {
+  "id": "easy-lit-056",
+  "prompt": "What did Sinbad do for a living in the old tales?",
+  "choices": [
+   "Sailed the seas",
+   "Farmed",
+   "Baked bread",
+   "Built castles"
+  ],
+  "answer": "Sailed the seas",
+  "difficulty": "medium",
+  "topic": "sinbad-sailor"
+ },
+ {
+  "id": "easy-lit-057",
+  "prompt": "Who told a new story every night to the king in The Arabian Nights?",
+  "choices": [
+   "Aladdin",
+   "Sinbad",
+   "Jasmine",
+   "Scheherazade"
+  ],
+  "answer": "Scheherazade",
+  "difficulty": "hard",
+  "topic": "scheherazade"
+ },
+ {
+  "id": "easy-lit-058",
+  "prompt": "In The Wizard of Oz, who is Dorothy's dog?",
+  "choices": [
+   "Rex",
+   "Spot",
+   "Toto",
+   "Fido"
+  ],
+  "answer": "Toto",
+  "difficulty": "easy",
+  "topic": "oz-toto"
+ },
+ {
+  "id": "easy-lit-059",
+  "prompt": "What color is the road Dorothy follows in Oz?",
+  "choices": [
+   "Red",
+   "Yellow",
+   "Blue",
+   "Green"
+  ],
+  "answer": "Yellow",
+  "difficulty": "medium",
+  "topic": "oz-road"
+ },
+ {
+  "id": "easy-lit-060",
+  "prompt": "Who wants a brain in The Wizard of Oz?",
+  "choices": [
+   "The Scarecrow",
+   "The Tin Man",
+   "The Lion",
+   "Toto"
+  ],
+  "answer": "The Scarecrow",
+  "difficulty": "easy",
+  "topic": "oz-scarecrow"
+ },
+ {
+  "id": "easy-lit-061",
+  "prompt": "What does the Tin Man want to find?",
+  "choices": [
+   "A brain",
+   "Courage",
+   "A crown",
+   "A heart"
+  ],
+  "answer": "A heart",
+  "difficulty": "easy",
+  "topic": "oz-tinman"
+ },
+ {
+  "id": "easy-lit-062",
+  "prompt": "What does the Cowardly Lion want?",
+  "choices": [
+   "A heart",
+   "A brain",
+   "Courage",
+   "A home"
+  ],
+  "answer": "Courage",
+  "difficulty": "easy",
+  "topic": "oz-lion"
+ },
+ {
+  "id": "easy-lit-063",
+  "prompt": "How does Dorothy get to Oz?",
+  "choices": [
+   "A boat",
+   "A tornado",
+   "A balloon",
+   "A train"
+  ],
+  "answer": "A tornado",
+  "difficulty": "easy",
+  "topic": "oz-tornado"
+ },
+ {
+  "id": "easy-lit-064",
+  "prompt": "Who wrote The Wonderful Wizard of Oz?",
+  "choices": [
+   "L. Frank Baum",
+   "Roald Dahl",
+   "E. B. White",
+   "C. S. Lewis"
+  ],
+  "answer": "L. Frank Baum",
+  "difficulty": "medium",
+  "topic": "oz-author"
+ },
+ {
+  "id": "easy-lit-065",
+  "prompt": "What city does the Wizard of Oz live in?",
+  "choices": [
+   "The Ruby City",
+   "The Silver City",
+   "The Golden City",
+   "The Emerald City"
+  ],
+  "answer": "The Emerald City",
+  "difficulty": "medium",
+  "topic": "oz-emerald-city"
+ },
+ {
+  "id": "easy-lit-066",
+  "prompt": "What is Dorothy's home state in The Wizard of Oz?",
+  "choices": [
+   "Texas",
+   "Ohio",
+   "Kansas",
+   "Maine"
+  ],
+  "answer": "Kansas",
+  "difficulty": "medium",
+  "topic": "oz-kansas"
+ },
+ {
+  "id": "easy-lit-067",
+  "prompt": "In Aesop's fable, who wins the race, the tortoise or the hare?",
+  "choices": [
+   "The hare",
+   "The tortoise",
+   "The fox",
+   "The snail"
+  ],
+  "answer": "The tortoise",
+  "difficulty": "easy",
+  "topic": "aesop-tortoise-hare"
+ },
+ {
+  "id": "easy-lit-068",
+  "prompt": "Why did the hare lose the race?",
+  "choices": [
+   "He took a nap",
+   "He got lost",
+   "He was tied up",
+   "He tripped"
+  ],
+  "answer": "He took a nap",
+  "difficulty": "easy",
+  "topic": "aesop-hare-nap"
+ },
+ {
+  "id": "easy-lit-069",
+  "prompt": "In which fable does a boy keep yelling \"wolf\" as a joke?",
+  "choices": [
+   "The Lion and the Mouse",
+   "The Fox and the Grapes",
+   "The Ant and the Grasshopper",
+   "The Boy Who Cried Wolf"
+  ],
+  "answer": "The Boy Who Cried Wolf",
+  "difficulty": "easy",
+  "topic": "aesop-boy-wolf"
+ },
+ {
+  "id": "easy-lit-070",
+  "prompt": "What happens when the boy finally sees a real wolf?",
+  "choices": [
+   "He wins a prize",
+   "The wolf runs away",
+   "No one believes him",
+   "He climbs a tree"
+  ],
+  "answer": "No one believes him",
+  "difficulty": "medium",
+  "topic": "aesop-wolf-lesson"
+ },
+ {
+  "id": "easy-lit-071",
+  "prompt": "Who helped the lion by chewing through the ropes?",
+  "choices": [
+   "A bird",
+   "A little mouse",
+   "A rabbit",
+   "A monkey"
+  ],
+  "answer": "A little mouse",
+  "difficulty": "easy",
+  "topic": "aesop-lion-mouse"
+ },
+ {
+  "id": "easy-lit-072",
+  "prompt": "What did the fox call the grapes he could never reach?",
+  "choices": [
+   "Sour",
+   "Sweet",
+   "Tiny",
+   "Rotten"
+  ],
+  "answer": "Sour",
+  "difficulty": "easy",
+  "topic": "aesop-fox-grapes"
+ },
+ {
+  "id": "easy-lit-073",
+  "prompt": "What did the ant do all summer in the fable?",
+  "choices": [
+   "Slept",
+   "Danced",
+   "Played music",
+   "Worked hard"
+  ],
+  "answer": "Worked hard",
+  "difficulty": "easy",
+  "topic": "aesop-ant-summer"
+ },
+ {
+  "id": "easy-lit-074",
+  "prompt": "What did the grasshopper do all summer?",
+  "choices": [
+   "Dug tunnels",
+   "Built a nest",
+   "Played and sang",
+   "Planted seeds"
+  ],
+  "answer": "Played and sang",
+  "difficulty": "medium",
+  "topic": "aesop-grasshopper"
+ },
+ {
+  "id": "easy-lit-075",
+  "prompt": "What did the crow drop into the pitcher to get water?",
+  "choices": [
+   "Leaves",
+   "Pebbles",
+   "Sand",
+   "Seeds"
+  ],
+  "answer": "Pebbles",
+  "difficulty": "medium",
+  "topic": "aesop-crow-pitcher"
+ },
+ {
+  "id": "easy-lit-076",
+  "prompt": "Who was said to have written the famous fables about animals?",
+  "choices": [
+   "Aesop",
+   "Homer",
+   "Grimm",
+   "Hans Andersen"
+  ],
+  "answer": "Aesop",
+  "difficulty": "easy",
+  "topic": "aesop-author"
+ },
+ {
+  "id": "easy-lit-077",
+  "prompt": "In which country did Aesop live, long ago?",
+  "choices": [
+   "Egypt",
+   "China",
+   "England",
+   "Greece"
+  ],
+  "answer": "Greece",
+  "difficulty": "medium",
+  "topic": "aesop-greece"
+ },
+ {
+  "id": "easy-lit-078",
+  "prompt": "What did the Town Mouse invite the Country Mouse to visit?",
+  "choices": [
+   "The sea",
+   "A castle",
+   "The city",
+   "A barn"
+  ],
+  "answer": "The city",
+  "difficulty": "medium",
+  "topic": "aesop-town-country"
+ },
+ {
+  "id": "easy-lit-079",
+  "prompt": "In The North Wind and the Sun, what did the traveler take off?",
+  "choices": [
+   "His hat",
+   "His coat",
+   "His boots",
+   "His scarf"
+  ],
+  "answer": "His coat",
+  "difficulty": "medium",
+  "topic": "aesop-north-wind"
+ },
+ {
+  "id": "easy-lit-080",
+  "prompt": "Which animal wears a sheep's fleece in a fable?",
+  "choices": [
+   "A wolf",
+   "A fox",
+   "A dog",
+   "A cat"
+  ],
+  "answer": "A wolf",
+  "difficulty": "medium",
+  "topic": "aesop-wolf-sheep"
+ },
+ {
+  "id": "easy-lit-081",
+  "prompt": "What did the dog see in the water in The Dog and His Reflection?",
+  "choices": [
+   "A fish",
+   "A frog",
+   "A bone",
+   "His reflection"
+  ],
+  "answer": "His reflection",
+  "difficulty": "hard",
+  "topic": "aesop-dog-reflection"
+ },
+ {
+  "id": "easy-lit-082",
+  "prompt": "Who is Mother Goose famous for?",
+  "choices": [
+   "Cooking",
+   "Painting",
+   "Nursery rhymes",
+   "Dancing"
+  ],
+  "answer": "Nursery rhymes",
+  "difficulty": "easy",
+  "topic": "mother-goose"
+ },
+ {
+  "id": "easy-lit-083",
+  "prompt": "Who sat on a wall and had a great fall?",
+  "choices": [
+   "Little Bo Peep",
+   "Humpty Dumpty",
+   "Jack Sprat",
+   "Tom Thumb"
+  ],
+  "answer": "Humpty Dumpty",
+  "difficulty": "easy",
+  "topic": "humpty-dumpty"
+ },
+ {
+  "id": "easy-lit-084",
+  "prompt": "Who went up the hill to fetch a pail of water?",
+  "choices": [
+   "Jack and Jill",
+   "Tom and Kate",
+   "Peter and Paul",
+   "Bill and Sue"
+  ],
+  "answer": "Jack and Jill",
+  "difficulty": "easy",
+  "topic": "jack-jill"
+ },
+ {
+  "id": "easy-lit-085",
+  "prompt": "What did Little Miss Muffet sit on?",
+  "choices": [
+   "A bench",
+   "A rock",
+   "A log",
+   "A tuffet"
+  ],
+  "answer": "A tuffet",
+  "difficulty": "easy",
+  "topic": "miss-muffet-tuffet"
+ },
+ {
+  "id": "easy-lit-086",
+  "prompt": "What scared Little Miss Muffet away?",
+  "choices": [
+   "A mouse",
+   "A bee",
+   "A spider",
+   "A snake"
+  ],
+  "answer": "A spider",
+  "difficulty": "easy",
+  "topic": "miss-muffet-spider"
+ },
+ {
+  "id": "easy-lit-087",
+  "prompt": "Who lost her sheep and could never find them?",
+  "choices": [
+   "Little Miss Muffet",
+   "Little Bo Peep",
+   "Mary Quite Contrary",
+   "Old Mother Hubbard"
+  ],
+  "answer": "Little Bo Peep",
+  "difficulty": "easy",
+  "topic": "bo-peep"
+ },
+ {
+  "id": "easy-lit-088",
+  "prompt": "What did Mary have that followed her to school?",
+  "choices": [
+   "A little lamb",
+   "A little puppy",
+   "A little kitten",
+   "A little duck"
+  ],
+  "answer": "A little lamb",
+  "difficulty": "easy",
+  "topic": "mary-lamb"
+ },
+ {
+  "id": "easy-lit-089",
+  "prompt": "What color was Mary's lamb's fleece?",
+  "choices": [
+   "Black",
+   "Brown",
+   "Pink",
+   "White as snow"
+  ],
+  "answer": "White as snow",
+  "difficulty": "medium",
+  "topic": "mary-lamb-fleece"
+ },
+ {
+  "id": "easy-lit-090",
+  "prompt": "In \"Baa, Baa, Black Sheep,\" how many bags of wool are there?",
+  "choices": [
+   "Two",
+   "Four",
+   "Three",
+   "Five"
+  ],
+  "answer": "Three",
+  "difficulty": "easy",
+  "topic": "baa-baa-bags"
+ },
+ {
+  "id": "easy-lit-091",
+  "prompt": "What did the cow jump over in the nursery rhyme?",
+  "choices": [
+   "A fence",
+   "The moon",
+   "A star",
+   "A hill"
+  ],
+  "answer": "The moon",
+  "difficulty": "easy",
+  "topic": "hey-diddle-cow"
+ },
+ {
+  "id": "easy-lit-092",
+  "prompt": "Who ran away with the spoon in \"Hey Diddle Diddle\"?",
+  "choices": [
+   "The dish",
+   "The cat",
+   "The fork",
+   "The cow"
+  ],
+  "answer": "The dish",
+  "difficulty": "medium",
+  "topic": "hey-diddle-dish"
+ },
+ {
+  "id": "easy-lit-093",
+  "prompt": "What did Jack jump over in the nursery rhyme?",
+  "choices": [
+   "A fence",
+   "A log",
+   "A puddle",
+   "A candlestick"
+  ],
+  "answer": "A candlestick",
+  "difficulty": "easy",
+  "topic": "jack-candlestick"
+ },
+ {
+  "id": "easy-lit-094",
+  "prompt": "What did Little Jack Horner pull out of his pie?",
+  "choices": [
+   "A pear",
+   "A cherry",
+   "A plum",
+   "An apple"
+  ],
+  "answer": "A plum",
+  "difficulty": "medium",
+  "topic": "jack-horner-plum"
+ },
+ {
+  "id": "easy-lit-095",
+  "prompt": "Who put the kettle on in \"Polly Put the Kettle On\"?",
+  "choices": [
+   "Sukey",
+   "Polly",
+   "Molly",
+   "Katie"
+  ],
+  "answer": "Polly",
+  "difficulty": "hard",
+  "topic": "polly-kettle"
+ },
+ {
+  "id": "easy-lit-096",
+  "prompt": "Who lives in a shoe and has so many children?",
+  "choices": [
+   "The old woman",
+   "The cobbler",
+   "The giant",
+   "The farmer"
+  ],
+  "answer": "The old woman",
+  "difficulty": "easy",
+  "topic": "old-woman-shoe"
+ },
+ {
+  "id": "easy-lit-097",
+  "prompt": "How many blackbirds were baked in a pie?",
+  "choices": [
+   "Ten",
+   "Two",
+   "One hundred",
+   "Four and twenty"
+  ],
+  "answer": "Four and twenty",
+  "difficulty": "medium",
+  "topic": "sing-sixpence"
+ },
+ {
+  "id": "easy-lit-098",
+  "prompt": "What was Old Mother Hubbard's cupboard?",
+  "choices": [
+   "Full",
+   "Locked",
+   "Bare",
+   "Broken"
+  ],
+  "answer": "Bare",
+  "difficulty": "medium",
+  "topic": "mother-hubbard"
+ },
+ {
+  "id": "easy-lit-099",
+  "prompt": "Who had a farm in the famous song, \"E-I-E-I-O\"?",
+  "choices": [
+   "Farmer Brown",
+   "Old MacDonald",
+   "Old Tom",
+   "Uncle Jack"
+  ],
+  "answer": "Old MacDonald",
+  "difficulty": "easy",
+  "topic": "old-macdonald"
+ },
+ {
+  "id": "easy-lit-100",
+  "prompt": "What twinkled in the song \"Twinkle, Twinkle\"?",
+  "choices": [
+   "A little star",
+   "A candle",
+   "A firefly",
+   "A lamp"
+  ],
+  "answer": "A little star",
+  "difficulty": "easy",
+  "topic": "twinkle-star"
+ },
+ {
+  "id": "easy-lit-101",
+  "prompt": "What was Peter Piper's thing in the tongue twister?",
+  "choices": [
+   "Plucked plums",
+   "Pulled pies",
+   "Painted pots",
+   "Picked peppers"
+  ],
+  "answer": "Picked peppers",
+  "difficulty": "medium",
+  "topic": "peter-piper"
+ },
+ {
+  "id": "easy-lit-102",
+  "prompt": "Who is Little Boy Blue asked to blow?",
+  "choices": [
+   "His whistle",
+   "His nose",
+   "His horn",
+   "A bubble"
+  ],
+  "answer": "His horn",
+  "difficulty": "medium",
+  "topic": "little-boy-blue"
+ },
+ {
+  "id": "easy-lit-103",
+  "prompt": "In which weather did Doctor Foster go to Gloucester?",
+  "choices": [
+   "Snow",
+   "Rain",
+   "Sun",
+   "Wind"
+  ],
+  "answer": "Rain",
+  "difficulty": "medium",
+  "topic": "doctor-foster"
+ },
+ {
+  "id": "easy-lit-104",
+  "prompt": "What did Simple Simon meet?",
+  "choices": [
+   "A pieman",
+   "A baker",
+   "A farmer",
+   "A king"
+  ],
+  "answer": "A pieman",
+  "difficulty": "hard",
+  "topic": "simple-simon"
+ },
+ {
+  "id": "easy-lit-105",
+  "prompt": "Who \"sat in a corner eating a Christmas pie\"?",
+  "choices": [
+   "Little Tommy Tucker",
+   "Jack Sprat",
+   "Simple Simon",
+   "Little Jack Horner"
+  ],
+  "answer": "Little Jack Horner",
+  "difficulty": "hard",
+  "topic": "jack-horner-corner"
+ },
+ {
+  "id": "easy-lit-106",
+  "prompt": "What did the Queen of Hearts make, in the rhyme?",
+  "choices": [
+   "Cakes",
+   "Cookies",
+   "Tarts",
+   "Bread"
+  ],
+  "answer": "Tarts",
+  "difficulty": "medium",
+  "topic": "queen-of-hearts-tarts"
+ },
+ {
+  "id": "easy-lit-107",
+  "prompt": "Who ate no fat in the rhyme, while his wife ate no lean?",
+  "choices": [
+   "Jack Horner",
+   "Jack Sprat",
+   "Simple Simon",
+   "Peter Piper"
+  ],
+  "answer": "Jack Sprat",
+  "difficulty": "hard",
+  "topic": "jack-sprat"
+ },
+ {
+  "id": "easy-lit-108",
+  "prompt": "What is Rub-a-dub-dub's tub full of?",
+  "choices": [
+   "Three men",
+   "Three pigs",
+   "Three cats",
+   "Three bears"
+  ],
+  "answer": "Three men",
+  "difficulty": "medium",
+  "topic": "rub-a-dub"
+ },
+ {
+  "id": "easy-lit-109",
+  "prompt": "What did the itsy bitsy spider climb up?",
+  "choices": [
+   "A tree",
+   "A wall",
+   "A chair",
+   "The water spout"
+  ],
+  "answer": "The water spout",
+  "difficulty": "medium",
+  "topic": "itsy-bitsy-spout"
+ },
+ {
+  "id": "easy-lit-110",
+  "prompt": "Which city did Pussycat visit to see the Queen?",
+  "choices": [
+   "Paris",
+   "Dublin",
+   "London",
+   "York"
+  ],
+  "answer": "London",
+  "difficulty": "medium",
+  "topic": "pussycat-london"
+ },
+ {
+  "id": "easy-lit-111",
+  "prompt": "Who wrote The Cat in the Hat?",
+  "choices": [
+   "Roald Dahl",
+   "Dr. Seuss",
+   "A. A. Milne",
+   "Eric Carle"
+  ],
+  "answer": "Dr. Seuss",
+  "difficulty": "easy",
+  "topic": "seuss-cat-author"
+ },
+ {
+  "id": "easy-lit-112",
+  "prompt": "What color is the Cat in the Hat's tall hat?",
+  "choices": [
+   "Red and white",
+   "Blue",
+   "Green",
+   "Yellow"
+  ],
+  "answer": "Red and white",
+  "difficulty": "easy",
+  "topic": "seuss-cat-hat"
+ },
+ {
+  "id": "easy-lit-113",
+  "prompt": "Who steals Christmas in a Dr. Seuss book?",
+  "choices": [
+   "The Lorax",
+   "Horton",
+   "Sam-I-Am",
+   "The Grinch"
+  ],
+  "answer": "The Grinch",
+  "difficulty": "easy",
+  "topic": "seuss-grinch"
+ },
+ {
+  "id": "easy-lit-114",
+  "prompt": "What color is the Grinch?",
+  "choices": [
+   "Red",
+   "Blue",
+   "Green",
+   "Orange"
+  ],
+  "answer": "Green",
+  "difficulty": "easy",
+  "topic": "seuss-grinch-color"
+ },
+ {
+  "id": "easy-lit-115",
+  "prompt": "Which Seuss character speaks for the trees?",
+  "choices": [
+   "Horton",
+   "The Lorax",
+   "The Grinch",
+   "Yertle"
+  ],
+  "answer": "The Lorax",
+  "difficulty": "easy",
+  "topic": "seuss-lorax"
+ },
+ {
+  "id": "easy-lit-116",
+  "prompt": "In Green Eggs and Ham, what does Sam-I-Am want?",
+  "choices": [
+   "To share green eggs and ham",
+   "To go fishing",
+   "To sell a car",
+   "To fly a kite"
+  ],
+  "answer": "To share green eggs and ham",
+  "difficulty": "medium",
+  "topic": "seuss-green-eggs"
+ },
+ {
+  "id": "easy-lit-117",
+  "prompt": "Which animal hears a Who on a speck of dust?",
+  "choices": [
+   "Yertle the turtle",
+   "The Lorax",
+   "The Cat",
+   "Horton the elephant"
+  ],
+  "answer": "Horton the elephant",
+  "difficulty": "medium",
+  "topic": "seuss-horton"
+ },
+ {
+  "id": "easy-lit-118",
+  "prompt": "In which book do two Things come out of a box?",
+  "choices": [
+   "Green Eggs and Ham",
+   "Fox in Socks",
+   "The Cat in the Hat",
+   "Oh, the Places"
+  ],
+  "answer": "The Cat in the Hat",
+  "difficulty": "medium",
+  "topic": "seuss-things"
+ },
+ {
+  "id": "easy-lit-119",
+  "prompt": "What are the little Who people's town called in Horton's story?",
+  "choices": [
+   "Hooville",
+   "Whoville",
+   "Seussville",
+   "Wooville"
+  ],
+  "answer": "Whoville",
+  "difficulty": "medium",
+  "topic": "seuss-whoville"
+ },
+ {
+  "id": "easy-lit-120",
+  "prompt": "What does Thidwick the Big-Hearted Moose have on his antlers?",
+  "choices": [
+   "Lots of guests",
+   "Birds' eggs",
+   "Snow",
+   "Flowers"
+  ],
+  "answer": "Lots of guests",
+  "difficulty": "hard",
+  "topic": "seuss-thidwick"
+ },
+ {
+  "id": "easy-lit-121",
+  "prompt": "What is Dr. Seuss's real first name?",
+  "choices": [
+   "Thomas",
+   "Samuel",
+   "George",
+   "Theodor"
+  ],
+  "answer": "Theodor",
+  "difficulty": "hard",
+  "topic": "seuss-real-name"
+ },
+ {
+  "id": "easy-lit-122",
+  "prompt": "Who wrote Charlie and the Chocolate Factory?",
+  "choices": [
+   "Dr. Seuss",
+   "E. B. White",
+   "Roald Dahl",
+   "C. S. Lewis"
+  ],
+  "answer": "Roald Dahl",
+  "difficulty": "easy",
+  "topic": "dahl-charlie-author"
+ },
+ {
+  "id": "easy-lit-123",
+  "prompt": "Who owns the chocolate factory?",
+  "choices": [
+   "Mr. Bean",
+   "Willy Wonka",
+   "Charlie Bucket",
+   "Mr. Slugworth"
+  ],
+  "answer": "Willy Wonka",
+  "difficulty": "easy",
+  "topic": "dahl-wonka"
+ },
+ {
+  "id": "easy-lit-124",
+  "prompt": "What are the factory workers called?",
+  "choices": [
+   "Oompa-Loompas",
+   "Minions",
+   "Munchkins",
+   "Elves"
+  ],
+  "answer": "Oompa-Loompas",
+  "difficulty": "easy",
+  "topic": "dahl-oompa"
+ },
+ {
+  "id": "easy-lit-125",
+  "prompt": "What do children find in chocolate bars to win a factory tour?",
+  "choices": [
+   "A silver coin",
+   "A key",
+   "A gold star",
+   "A golden ticket"
+  ],
+  "answer": "A golden ticket",
+  "difficulty": "easy",
+  "topic": "dahl-golden-ticket"
+ },
+ {
+  "id": "easy-lit-126",
+  "prompt": "What kind of lift is in the chocolate factory?",
+  "choices": [
+   "A rope swing",
+   "A wooden crate",
+   "A glass elevator",
+   "A hot air balloon"
+  ],
+  "answer": "A glass elevator",
+  "difficulty": "medium",
+  "topic": "dahl-glass-elevator"
+ },
+ {
+  "id": "easy-lit-127",
+  "prompt": "What is Matilda special at?",
+  "choices": [
+   "Singing",
+   "Using her mind to move things",
+   "Swimming",
+   "Cooking"
+  ],
+  "answer": "Using her mind to move things",
+  "difficulty": "easy",
+  "topic": "dahl-matilda"
+ },
+ {
+  "id": "easy-lit-128",
+  "prompt": "In Matilda, what does the girl love to do?",
+  "choices": [
+   "Read books",
+   "Play football",
+   "Climb trees",
+   "Bake cakes"
+  ],
+  "answer": "Read books",
+  "difficulty": "easy",
+  "topic": "dahl-matilda-books"
+ },
+ {
+  "id": "easy-lit-129",
+  "prompt": "What kind of animal is in The Fantastic Mr Fox?",
+  "choices": [
+   "A badger",
+   "A wolf",
+   "A cat",
+   "A fox"
+  ],
+  "answer": "A fox",
+  "difficulty": "easy",
+  "topic": "dahl-fox"
+ },
+ {
+  "id": "easy-lit-130",
+  "prompt": "What is James's home in James and the Giant Peach?",
+  "choices": [
+   "A tree house",
+   "A castle",
+   "A giant peach",
+   "A boat"
+  ],
+  "answer": "A giant peach",
+  "difficulty": "easy",
+  "topic": "dahl-james-peach"
+ },
+ {
+  "id": "easy-lit-131",
+  "prompt": "What do you call the nice giant in a Dahl book?",
+  "choices": [
+   "The Giant King",
+   "The BFG",
+   "Big Bob",
+   "The Fox"
+  ],
+  "answer": "The BFG",
+  "difficulty": "easy",
+  "topic": "dahl-bfg"
+ },
+ {
+  "id": "easy-lit-132",
+  "prompt": "What does BFG stand for?",
+  "choices": [
+   "Big Friendly Giant",
+   "Big Fun Game",
+   "Best Friend Guide",
+   "Brave Fast Giant"
+  ],
+  "answer": "Big Friendly Giant",
+  "difficulty": "easy",
+  "topic": "dahl-bfg-meaning"
+ },
+ {
+  "id": "easy-lit-133",
+  "prompt": "What does the BFG blow into children's rooms?",
+  "choices": [
+   "Candy",
+   "Smoke",
+   "Bubbles",
+   "Dreams"
+  ],
+  "answer": "Dreams",
+  "difficulty": "medium",
+  "topic": "dahl-bfg-dreams"
+ },
+ {
+  "id": "easy-lit-134",
+  "prompt": "Who wrote The Tale of Peter Rabbit?",
+  "choices": [
+   "Roald Dahl",
+   "A. A. Milne",
+   "Beatrix Potter",
+   "Lewis Carroll"
+  ],
+  "answer": "Beatrix Potter",
+  "difficulty": "easy",
+  "topic": "potter-peter-author"
+ },
+ {
+  "id": "easy-lit-135",
+  "prompt": "What does Peter Rabbit wear?",
+  "choices": [
+   "A red hat",
+   "A blue jacket",
+   "A yellow scarf",
+   "A green coat"
+  ],
+  "answer": "A blue jacket",
+  "difficulty": "easy",
+  "topic": "potter-peter-jacket"
+ },
+ {
+  "id": "easy-lit-136",
+  "prompt": "What did Peter Rabbit steal from Mr. McGregor's garden?",
+  "choices": [
+   "Vegetables",
+   "Flowers",
+   "Fish",
+   "Cookies"
+  ],
+  "answer": "Vegetables",
+  "difficulty": "medium",
+  "topic": "potter-peter-garden"
+ },
+ {
+  "id": "easy-lit-137",
+  "prompt": "Who are Peter's sisters in the tale?",
+  "choices": [
+   "Anna and Elsa",
+   "Lily and Rose",
+   "Daisy and Violet",
+   "Flopsy, Mopsy and Cottontail"
+  ],
+  "answer": "Flopsy, Mopsy and Cottontail",
+  "difficulty": "medium",
+  "topic": "potter-peter-sisters"
+ },
+ {
+  "id": "easy-lit-138",
+  "prompt": "Which Potter character is a hedgehog washerwoman?",
+  "choices": [
+   "Mrs. Tabitha",
+   "Jemima",
+   "Mrs. Tiggy-Winkle",
+   "Mrs. Rabbit"
+  ],
+  "answer": "Mrs. Tiggy-Winkle",
+  "difficulty": "medium",
+  "topic": "potter-tiggy-winkle"
+ },
+ {
+  "id": "easy-lit-139",
+  "prompt": "Which Beatrix Potter animal is a duck?",
+  "choices": [
+   "Squirrel Nutkin",
+   "Jemima Puddle-Duck",
+   "Tom Kitten",
+   "Benjamin Bunny"
+  ],
+  "answer": "Jemima Puddle-Duck",
+  "difficulty": "easy",
+  "topic": "potter-jemima"
+ },
+ {
+  "id": "easy-lit-140",
+  "prompt": "Which animal is Squirrel Nutkin?",
+  "choices": [
+   "A squirrel",
+   "A mouse",
+   "A cat",
+   "A rabbit"
+  ],
+  "answer": "A squirrel",
+  "difficulty": "easy",
+  "topic": "potter-nutkin"
+ },
+ {
+  "id": "easy-lit-141",
+  "prompt": "Who wrote Winnie-the-Pooh?",
+  "choices": [
+   "E. B. White",
+   "Beatrix Potter",
+   "Roald Dahl",
+   "A. A. Milne"
+  ],
+  "answer": "A. A. Milne",
+  "difficulty": "easy",
+  "topic": "milne-pooh-author"
+ },
+ {
+  "id": "easy-lit-142",
+  "prompt": "What does Winnie-the-Pooh love to eat?",
+  "choices": [
+   "Cake",
+   "Fish",
+   "Honey",
+   "Carrots"
+  ],
+  "answer": "Honey",
+  "difficulty": "easy",
+  "topic": "milne-pooh-honey"
+ },
+ {
+  "id": "easy-lit-143",
+  "prompt": "Who is Pooh's small piglet friend?",
+  "choices": [
+   "Roo",
+   "Piglet",
+   "Tigger",
+   "Eeyore"
+  ],
+  "answer": "Piglet",
+  "difficulty": "easy",
+  "topic": "milne-piglet"
+ },
+ {
+  "id": "easy-lit-144",
+  "prompt": "Which Pooh friend is always gloomy and loses his tail?",
+  "choices": [
+   "Eeyore",
+   "Piglet",
+   "Tigger",
+   "Owl"
+  ],
+  "answer": "Eeyore",
+  "difficulty": "easy",
+  "topic": "milne-eeyore"
+ },
+ {
+  "id": "easy-lit-145",
+  "prompt": "Which Pooh friend loves to bounce?",
+  "choices": [
+   "Kanga",
+   "Piglet",
+   "Owl",
+   "Tigger"
+  ],
+  "answer": "Tigger",
+  "difficulty": "easy",
+  "topic": "milne-tigger"
+ },
+ {
+  "id": "easy-lit-146",
+  "prompt": "Who is Kanga's baby?",
+  "choices": [
+   "Piglet",
+   "Tigger",
+   "Roo",
+   "Christopher"
+  ],
+  "answer": "Roo",
+  "difficulty": "medium",
+  "topic": "milne-roo"
+ },
+ {
+  "id": "easy-lit-147",
+  "prompt": "Who is the real boy in Pooh's stories?",
+  "choices": [
+   "Peter Pan",
+   "Christopher Robin",
+   "Tom Sawyer",
+   "Oliver"
+  ],
+  "answer": "Christopher Robin",
+  "difficulty": "medium",
+  "topic": "milne-christopher-robin"
+ },
+ {
+  "id": "easy-lit-148",
+  "prompt": "What is the name of the wood where Pooh lives?",
+  "choices": [
+   "The Hundred Acre Wood",
+   "Sherwood Forest",
+   "The Forest of Dean",
+   "Sleepy Hollow"
+  ],
+  "answer": "The Hundred Acre Wood",
+  "difficulty": "medium",
+  "topic": "milne-wood"
+ },
+ {
+  "id": "easy-lit-149",
+  "prompt": "Who wrote Charlotte's Web?",
+  "choices": [
+   "A. A. Milne",
+   "C. S. Lewis",
+   "Roald Dahl",
+   "E. B. White"
+  ],
+  "answer": "E. B. White",
+  "difficulty": "easy",
+  "topic": "white-charlotte-author"
+ },
+ {
+  "id": "easy-lit-150",
+  "prompt": "What kind of animal is Charlotte?",
+  "choices": [
+   "A mouse",
+   "A goose",
+   "A spider",
+   "A rat"
+  ],
+  "answer": "A spider",
+  "difficulty": "easy",
+  "topic": "white-charlotte-spider"
+ },
+ {
+  "id": "easy-lit-151",
+  "prompt": "What is Wilbur?",
+  "choices": [
+   "A cow",
+   "A pig",
+   "A horse",
+   "A sheep"
+  ],
+  "answer": "A pig",
+  "difficulty": "medium",
+  "topic": "white-wilbur"
+ },
+ {
+  "id": "easy-lit-152",
+  "prompt": "What does Charlotte write in her web to save Wilbur?",
+  "choices": [
+   "Words",
+   "Pictures",
+   "Songs",
+   "Numbers"
+  ],
+  "answer": "Words",
+  "difficulty": "easy",
+  "topic": "white-web-words"
+ },
+ {
+  "id": "easy-lit-153",
+  "prompt": "Which girl first saves Wilbur as a piglet?",
+  "choices": [
+   "Heidi",
+   "Alice",
+   "Wendy",
+   "Fern"
+  ],
+  "answer": "Fern",
+  "difficulty": "medium",
+  "topic": "white-fern"
+ },
+ {
+  "id": "easy-lit-154",
+  "prompt": "What kind of animal is Stuart Little?",
+  "choices": [
+   "A rabbit",
+   "A hamster",
+   "A mouse",
+   "A squirrel"
+  ],
+  "answer": "A mouse",
+  "difficulty": "easy",
+  "topic": "white-stuart"
+ },
+ {
+  "id": "easy-lit-155",
+  "prompt": "Who wrote The Lion, the Witch and the Wardrobe?",
+  "choices": [
+   "J. R. R. Tolkien",
+   "C. S. Lewis",
+   "A. A. Milne",
+   "Roald Dahl"
+  ],
+  "answer": "C. S. Lewis",
+  "difficulty": "easy",
+  "topic": "lewis-narnia-author"
+ },
+ {
+  "id": "easy-lit-156",
+  "prompt": "What do the children walk through to find Narnia?",
+  "choices": [
+   "A wardrobe",
+   "A door in a tree",
+   "A mirror",
+   "A tunnel"
+  ],
+  "answer": "A wardrobe",
+  "difficulty": "medium",
+  "topic": "lewis-wardrobe"
+ },
+ {
+  "id": "easy-lit-157",
+  "prompt": "Who is the great lion king of Narnia?",
+  "choices": [
+   "Simba",
+   "Mufasa",
+   "Leo",
+   "Aslan"
+  ],
+  "answer": "Aslan",
+  "difficulty": "easy",
+  "topic": "lewis-aslan"
+ },
+ {
+  "id": "easy-lit-158",
+  "prompt": "Which Pevensie child finds Narnia first?",
+  "choices": [
+   "Peter",
+   "Susan",
+   "Lucy",
+   "Edmund"
+  ],
+  "answer": "Lucy",
+  "difficulty": "medium",
+  "topic": "lewis-lucy"
+ },
+ {
+  "id": "easy-lit-159",
+  "prompt": "The White Witch made it always winter but never what?",
+  "choices": [
+   "Spring",
+   "Christmas",
+   "Easter",
+   "Summer"
+  ],
+  "answer": "Christmas",
+  "difficulty": "medium",
+  "topic": "lewis-winter"
+ },
+ {
+  "id": "easy-lit-160",
+  "prompt": "Who wrote Alice's Adventures in Wonderland?",
+  "choices": [
+   "Lewis Carroll",
+   "C. S. Lewis",
+   "Beatrix Potter",
+   "J. M. Barrie"
+  ],
+  "answer": "Lewis Carroll",
+  "difficulty": "easy",
+  "topic": "carroll-alice-author"
+ },
+ {
+  "id": "easy-lit-161",
+  "prompt": "What does Alice follow down a hole?",
+  "choices": [
+   "A black cat",
+   "A little mouse",
+   "A red bird",
+   "A white rabbit"
+  ],
+  "answer": "A white rabbit",
+  "difficulty": "easy",
+  "topic": "carroll-alice-rabbit"
+ },
+ {
+  "id": "easy-lit-162",
+  "prompt": "Who has a wide grin and fades away?",
+  "choices": [
+   "The Dormouse",
+   "The Caterpillar",
+   "The Cheshire Cat",
+   "The Dodo"
+  ],
+  "answer": "The Cheshire Cat",
+  "difficulty": "easy",
+  "topic": "carroll-cheshire"
+ },
+ {
+  "id": "easy-lit-163",
+  "prompt": "Who hosts a very strange tea party?",
+  "choices": [
+   "The White Knight",
+   "The Mad Hatter",
+   "The King",
+   "The Dodo"
+  ],
+  "answer": "The Mad Hatter",
+  "difficulty": "medium",
+  "topic": "carroll-hatter"
+ },
+ {
+  "id": "easy-lit-164",
+  "prompt": "Who shouts \"Off with her head!\" in Wonderland?",
+  "choices": [
+   "The Queen of Hearts",
+   "The Duchess",
+   "The Cheshire Cat",
+   "The King"
+  ],
+  "answer": "The Queen of Hearts",
+  "difficulty": "medium",
+  "topic": "carroll-queen"
+ },
+ {
+  "id": "easy-lit-165",
+  "prompt": "What do Alice's playing cards turn out to be in Wonderland?",
+  "choices": [
+   "Pirates",
+   "Rabbits",
+   "Knights",
+   "Soldiers and gardeners"
+  ],
+  "answer": "Soldiers and gardeners",
+  "difficulty": "hard",
+  "topic": "carroll-cards"
+ },
+ {
+  "id": "easy-lit-166",
+  "prompt": "What does Alice drink to change size?",
+  "choices": [
+   "Milk",
+   "Tea",
+   "A potion from a bottle",
+   "Juice"
+  ],
+  "answer": "A potion from a bottle",
+  "difficulty": "medium",
+  "topic": "carroll-drink-me"
+ },
+ {
+  "id": "easy-lit-167",
+  "prompt": "Which book follows Alice through a mirror?",
+  "choices": [
+   "Alice in Paris",
+   "Through the Looking-Glass",
+   "Alice at the Mill",
+   "The Mirror Girl"
+  ],
+  "answer": "Through the Looking-Glass",
+  "difficulty": "medium",
+  "topic": "carroll-looking-glass"
+ },
+ {
+  "id": "easy-lit-168",
+  "prompt": "Who wrote Pippi Longstocking?",
+  "choices": [
+   "Astrid Lindgren",
+   "Roald Dahl",
+   "Hans Andersen",
+   "Selma Lagerlof"
+  ],
+  "answer": "Astrid Lindgren",
+  "difficulty": "easy",
+  "topic": "lindgren-pippi-author"
+ },
+ {
+  "id": "easy-lit-169",
+  "prompt": "How strong is Pippi Longstocking?",
+  "choices": [
+   "She is average",
+   "She is weak",
+   "She is a giant",
+   "She can lift a horse"
+  ],
+  "answer": "She can lift a horse",
+  "difficulty": "easy",
+  "topic": "lindgren-pippi-strong"
+ },
+ {
+  "id": "easy-lit-170",
+  "prompt": "What is Pippi's pet monkey called?",
+  "choices": [
+   "Mr. Bean",
+   "Mr. Banks",
+   "Mr. Nilsson",
+   "Mr. Smith"
+  ],
+  "answer": "Mr. Nilsson",
+  "difficulty": "medium",
+  "topic": "lindgren-pippi-monkey"
+ },
+ {
+  "id": "easy-lit-171",
+  "prompt": "Which Swedish writer made up the Karlsson-on-the-Roof story?",
+  "choices": [
+   "Roald Dahl",
+   "Astrid Lindgren",
+   "Tove Jansson",
+   "Lewis Carroll"
+  ],
+  "answer": "Astrid Lindgren",
+  "difficulty": "hard",
+  "topic": "lindgren-karlsson"
+ },
+ {
+  "id": "easy-lit-172",
+  "prompt": "Which country is Astrid Lindgren from?",
+  "choices": [
+   "Sweden",
+   "Norway",
+   "Finland",
+   "Denmark"
+  ],
+  "answer": "Sweden",
+  "difficulty": "medium",
+  "topic": "lindgren-sweden"
+ },
+ {
+  "id": "easy-lit-173",
+  "prompt": "Who is the boy who never grows up?",
+  "choices": [
+   "Tom Sawyer",
+   "Oliver Twist",
+   "Pinocchio",
+   "Peter Pan"
+  ],
+  "answer": "Peter Pan",
+  "difficulty": "easy",
+  "topic": "barrie-peter-pan"
+ },
+ {
+  "id": "easy-lit-174",
+  "prompt": "Who wrote Peter Pan?",
+  "choices": [
+   "C. S. Lewis",
+   "Roald Dahl",
+   "J. M. Barrie",
+   "A. A. Milne"
+  ],
+  "answer": "J. M. Barrie",
+  "difficulty": "medium",
+  "topic": "barrie-author"
+ },
+ {
+  "id": "easy-lit-175",
+  "prompt": "What is the name of Peter Pan's fairy friend?",
+  "choices": [
+   "Wendy",
+   "Tinker Bell",
+   "Belle",
+   "Fern"
+  ],
+  "answer": "Tinker Bell",
+  "difficulty": "easy",
+  "topic": "barrie-tinkerbell"
+ },
+ {
+  "id": "easy-lit-176",
+  "prompt": "Where does Peter Pan live?",
+  "choices": [
+   "Neverland",
+   "Wonderland",
+   "Narnia",
+   "Oz"
+  ],
+  "answer": "Neverland",
+  "difficulty": "easy",
+  "topic": "barrie-neverland"
+ },
+ {
+  "id": "easy-lit-177",
+  "prompt": "Who is the pirate captain in Peter Pan?",
+  "choices": [
+   "Captain Flint",
+   "Captain Kidd",
+   "Long John Silver",
+   "Captain Hook"
+  ],
+  "answer": "Captain Hook",
+  "difficulty": "easy",
+  "topic": "barrie-hook"
+ },
+ {
+  "id": "easy-lit-178",
+  "prompt": "What does Captain Hook fear in Peter Pan?",
+  "choices": [
+   "A shark",
+   "A bear",
+   "A crocodile with a clock",
+   "A bat"
+  ],
+  "answer": "A crocodile with a clock",
+  "difficulty": "medium",
+  "topic": "barrie-croc"
+ },
+ {
+  "id": "easy-lit-179",
+  "prompt": "What is the name of the girl who goes to Neverland with her brothers?",
+  "choices": [
+   "Alice",
+   "Wendy",
+   "Lucy",
+   "Dorothy"
+  ],
+  "answer": "Wendy",
+  "difficulty": "easy",
+  "topic": "barrie-wendy"
+ },
+ {
+  "id": "easy-lit-180",
+  "prompt": "What kind of dog is Nana in Peter Pan?",
+  "choices": [
+   "A nursemaid dog",
+   "A sled dog",
+   "A hunting dog",
+   "A wolf"
+  ],
+  "answer": "A nursemaid dog",
+  "difficulty": "hard",
+  "topic": "barrie-nana"
+ },
+ {
+  "id": "easy-lit-181",
+  "prompt": "Whose nose grows when he tells lies?",
+  "choices": [
+   "Peter Pan",
+   "Tom Thumb",
+   "Aladdin",
+   "Pinocchio"
+  ],
+  "answer": "Pinocchio",
+  "difficulty": "easy",
+  "topic": "pinocchio-nose"
+ },
+ {
+  "id": "easy-lit-182",
+  "prompt": "What is Pinocchio made of?",
+  "choices": [
+   "Stone",
+   "Clay",
+   "Wood",
+   "Glass"
+  ],
+  "answer": "Wood",
+  "difficulty": "easy",
+  "topic": "pinocchio-wood"
+ },
+ {
+  "id": "easy-lit-183",
+  "prompt": "What is Pinocchio's conscience, a small insect?",
+  "choices": [
+   "A spider",
+   "Jiminy Cricket",
+   "A ladybug",
+   "A bee"
+  ],
+  "answer": "Jiminy Cricket",
+  "difficulty": "medium",
+  "topic": "pinocchio-cricket"
+ },
+ {
+  "id": "easy-lit-184",
+  "prompt": "Who wrote The Jungle Book?",
+  "choices": [
+   "Rudyard Kipling",
+   "J. M. Barrie",
+   "Roald Dahl",
+   "Lewis Carroll"
+  ],
+  "answer": "Rudyard Kipling",
+  "difficulty": "medium",
+  "topic": "kipling-jungle-author"
+ },
+ {
+  "id": "easy-lit-185",
+  "prompt": "Who is the boy raised by wolves in The Jungle Book?",
+  "choices": [
+   "Tarzan",
+   "Peter",
+   "Oliver",
+   "Mowgli"
+  ],
+  "answer": "Mowgli",
+  "difficulty": "easy",
+  "topic": "kipling-mowgli"
+ },
+ {
+  "id": "easy-lit-186",
+  "prompt": "Who is the bear in The Jungle Book?",
+  "choices": [
+   "Paddington",
+   "Pooh",
+   "Baloo",
+   "Bagheera"
+  ],
+  "answer": "Baloo",
+  "difficulty": "easy",
+  "topic": "kipling-baloo"
+ },
+ {
+  "id": "easy-lit-187",
+  "prompt": "What kind of animal is Bagheera?",
+  "choices": [
+   "A tiger",
+   "A black panther",
+   "A lion",
+   "A wolf"
+  ],
+  "answer": "A black panther",
+  "difficulty": "medium",
+  "topic": "kipling-bagheera"
+ },
+ {
+  "id": "easy-lit-188",
+  "prompt": "What kind of animal is Shere Khan?",
+  "choices": [
+   "A tiger",
+   "A lion",
+   "A bear",
+   "A leopard"
+  ],
+  "answer": "A tiger",
+  "difficulty": "medium",
+  "topic": "kipling-sherekhan"
+ },
+ {
+  "id": "easy-lit-189",
+  "prompt": "Who wrote Just So Stories about how the leopard got its spots?",
+  "choices": [
+   "Roald Dahl",
+   "Hans Andersen",
+   "E. B. White",
+   "Rudyard Kipling"
+  ],
+  "answer": "Rudyard Kipling",
+  "difficulty": "hard",
+  "topic": "kipling-just-so"
+ },
+ {
+  "id": "easy-lit-190",
+  "prompt": "Who wrote The Wind in the Willows?",
+  "choices": [
+   "A. A. Milne",
+   "Beatrix Potter",
+   "Kenneth Grahame",
+   "J. M. Barrie"
+  ],
+  "answer": "Kenneth Grahame",
+  "difficulty": "medium",
+  "topic": "grahame-author"
+ },
+ {
+  "id": "easy-lit-191",
+  "prompt": "Which Wind in the Willows animal loves boats and the river?",
+  "choices": [
+   "Toad",
+   "Ratty",
+   "Badger",
+   "Mole"
+  ],
+  "answer": "Ratty",
+  "difficulty": "medium",
+  "topic": "grahame-ratty"
+ },
+ {
+  "id": "easy-lit-192",
+  "prompt": "Which Wind in the Willows animal is Ratty's friend who digs burrows?",
+  "choices": [
+   "Mole",
+   "Toad",
+   "Weasel",
+   "Stoat"
+  ],
+  "answer": "Mole",
+  "difficulty": "medium",
+  "topic": "grahame-mole"
+ },
+ {
+  "id": "easy-lit-193",
+  "prompt": "Who loves fast motor cars in The Wind in the Willows?",
+  "choices": [
+   "Mole",
+   "Ratty",
+   "Badger",
+   "Mr. Toad"
+  ],
+  "answer": "Mr. Toad",
+  "difficulty": "medium",
+  "topic": "grahame-toad"
+ },
+ {
+  "id": "easy-lit-194",
+  "prompt": "Who wrote The Very Hungry Caterpillar?",
+  "choices": [
+   "Dr. Seuss",
+   "Maurice Sendak",
+   "Eric Carle",
+   "Beatrix Potter"
+  ],
+  "answer": "Eric Carle",
+  "difficulty": "easy",
+  "topic": "carle-caterpillar-author"
+ },
+ {
+  "id": "easy-lit-195",
+  "prompt": "What does the very hungry caterpillar become?",
+  "choices": [
+   "A moth",
+   "A butterfly",
+   "A bee",
+   "A bird"
+  ],
+  "answer": "A butterfly",
+  "difficulty": "easy",
+  "topic": "carle-butterfly"
+ },
+ {
+  "id": "easy-lit-196",
+  "prompt": "Which food does the caterpillar eat on Monday?",
+  "choices": [
+   "One apple",
+   "One pear",
+   "Two plums",
+   "Three strawberries"
+  ],
+  "answer": "One apple",
+  "difficulty": "medium",
+  "topic": "carle-monday"
+ },
+ {
+  "id": "easy-lit-197",
+  "prompt": "Who wrote Where the Wild Things Are?",
+  "choices": [
+   "Dr. Seuss",
+   "Eric Carle",
+   "Roald Dahl",
+   "Maurice Sendak"
+  ],
+  "answer": "Maurice Sendak",
+  "difficulty": "medium",
+  "topic": "sendak-author"
+ },
+ {
+  "id": "easy-lit-198",
+  "prompt": "What is the boy called in Where the Wild Things Are?",
+  "choices": [
+   "Sam",
+   "Tom",
+   "Max",
+   "Ben"
+  ],
+  "answer": "Max",
+  "difficulty": "medium",
+  "topic": "sendak-max"
+ },
+ {
+  "id": "easy-lit-199",
+  "prompt": "What does Max wear in Where the Wild Things Are?",
+  "choices": [
+   "A cowboy hat",
+   "A wolf suit",
+   "A pirate coat",
+   "A fox hat"
+  ],
+  "answer": "A wolf suit",
+  "difficulty": "medium",
+  "topic": "sendak-suit"
+ },
+ {
+  "id": "easy-lit-200",
+  "prompt": "Who is the bear from Peru in children's books who loves marmalade?",
+  "choices": [
+   "Paddington",
+   "Pooh",
+   "Rupert",
+   "Baloo"
+  ],
+  "answer": "Paddington",
+  "difficulty": "easy",
+  "topic": "paddington-bear"
+ },
+ {
+  "id": "easy-lit-201",
+  "prompt": "Where was Paddington found?",
+  "choices": [
+   "A zoo",
+   "A park",
+   "A ship",
+   "A train station"
+  ],
+  "answer": "A train station",
+  "difficulty": "medium",
+  "topic": "paddington-station"
+ },
+ {
+  "id": "easy-lit-202",
+  "prompt": "What does Paddington love to eat?",
+  "choices": [
+   "Honey",
+   "Fish",
+   "Marmalade sandwiches",
+   "Carrots"
+  ],
+  "answer": "Marmalade sandwiches",
+  "difficulty": "easy",
+  "topic": "paddington-marmalade"
+ },
+ {
+  "id": "easy-lit-203",
+  "prompt": "Who wrote Paddington?",
+  "choices": [
+   "A. A. Milne",
+   "Michael Bond",
+   "Roald Dahl",
+   "Dr. Seuss"
+  ],
+  "answer": "Michael Bond",
+  "difficulty": "hard",
+  "topic": "paddington-author"
+ },
+ {
+  "id": "easy-lit-204",
+  "prompt": "Who is the young wizard with a lightning-bolt scar?",
+  "choices": [
+   "Harry Potter",
+   "Percy Jackson",
+   "Merlin",
+   "Gandalf"
+  ],
+  "answer": "Harry Potter",
+  "difficulty": "easy",
+  "topic": "hp-harry"
+ },
+ {
+  "id": "easy-lit-205",
+  "prompt": "What is the name of Harry's school?",
+  "choices": [
+   "Narnia Hall",
+   "Oakwood",
+   "Rivendell",
+   "Hogwarts"
+  ],
+  "answer": "Hogwarts",
+  "difficulty": "easy",
+  "topic": "hp-hogwarts"
+ },
+ {
+  "id": "easy-lit-206",
+  "prompt": "Who wrote the Harry Potter books?",
+  "choices": [
+   "Roald Dahl",
+   "C. S. Lewis",
+   "J. K. Rowling",
+   "Beatrix Potter"
+  ],
+  "answer": "J. K. Rowling",
+  "difficulty": "easy",
+  "topic": "hp-author"
+ },
+ {
+  "id": "easy-lit-207",
+  "prompt": "What is Harry's owl called?",
+  "choices": [
+   "Errol",
+   "Hedwig",
+   "Pigwidgeon",
+   "Scabbers"
+  ],
+  "answer": "Hedwig",
+  "difficulty": "medium",
+  "topic": "hp-hedwig"
+ },
+ {
+  "id": "easy-lit-208",
+  "prompt": "What sport do wizards play on flying brooms?",
+  "choices": [
+   "Quidditch",
+   "Soccer",
+   "Tennis",
+   "Basketball"
+  ],
+  "answer": "Quidditch",
+  "difficulty": "medium",
+  "topic": "hp-quidditch"
+ },
+ {
+  "id": "easy-lit-209",
+  "prompt": "Who are Harry's two best friends?",
+  "choices": [
+   "Draco and Neville",
+   "Luna and Fred",
+   "Ginny and George",
+   "Ron and Hermione"
+  ],
+  "answer": "Ron and Hermione",
+  "difficulty": "medium",
+  "topic": "hp-friends"
+ },
+ {
+  "id": "easy-lit-210",
+  "prompt": "Who is the main character in Anne of Green Gables?",
+  "choices": [
+   "Anne Frank",
+   "Pippi",
+   "Anne Shirley",
+   "Heidi"
+  ],
+  "answer": "Anne Shirley",
+  "difficulty": "medium",
+  "topic": "anne-shirley"
+ },
+ {
+  "id": "easy-lit-211",
+  "prompt": "What color is Anne's hair?",
+  "choices": [
+   "Black",
+   "Red",
+   "Blond",
+   "Brown"
+  ],
+  "answer": "Red",
+  "difficulty": "easy",
+  "topic": "anne-hair"
+ },
+ {
+  "id": "easy-lit-212",
+  "prompt": "Who wrote Heidi?",
+  "choices": [
+   "Johanna Spyri",
+   "Astrid Lindgren",
+   "L. M. Montgomery",
+   "Louisa May Alcott"
+  ],
+  "answer": "Johanna Spyri",
+  "difficulty": "hard",
+  "topic": "heidi-author"
+ },
+ {
+  "id": "easy-lit-213",
+  "prompt": "Who does Heidi live with in the mountains?",
+  "choices": [
+   "Her aunt",
+   "Her parents",
+   "A teacher",
+   "Her grandfather"
+  ],
+  "answer": "Her grandfather",
+  "difficulty": "medium",
+  "topic": "heidi-grandfather"
+ },
+ {
+  "id": "easy-lit-214",
+  "prompt": "Which country is Heidi's story set in?",
+  "choices": [
+   "Sweden",
+   "Spain",
+   "Switzerland",
+   "Scotland"
+  ],
+  "answer": "Switzerland",
+  "difficulty": "medium",
+  "topic": "heidi-switzerland"
+ },
+ {
+  "id": "easy-lit-215",
+  "prompt": "Who wrote Little Women?",
+  "choices": [
+   "Jane Austen",
+   "Louisa May Alcott",
+   "L. M. Montgomery",
+   "Beatrix Potter"
+  ],
+  "answer": "Louisa May Alcott",
+  "difficulty": "medium",
+  "topic": "alcott-author"
+ },
+ {
+  "id": "easy-lit-216",
+  "prompt": "How many March sisters are in Little Women?",
+  "choices": [
+   "Four",
+   "Three",
+   "Five",
+   "Six"
+  ],
+  "answer": "Four",
+  "difficulty": "medium",
+  "topic": "alcott-sisters"
+ },
+ {
+  "id": "easy-lit-217",
+  "prompt": "Who is the young prince who lives on a tiny planet?",
+  "choices": [
+   "Peter Pan",
+   "Prince Charming",
+   "Aladdin",
+   "The Little Prince"
+  ],
+  "answer": "The Little Prince",
+  "difficulty": "medium",
+  "topic": "little-prince"
+ },
+ {
+  "id": "easy-lit-218",
+  "prompt": "Which flower does the Little Prince love?",
+  "choices": [
+   "A tulip",
+   "A daisy",
+   "A rose",
+   "A lily"
+  ],
+  "answer": "A rose",
+  "difficulty": "medium",
+  "topic": "little-prince-rose"
+ },
+ {
+  "id": "easy-lit-219",
+  "prompt": "Who wrote The Little Prince?",
+  "choices": [
+   "Hans Andersen",
+   "Antoine de Saint-Exupery",
+   "Roald Dahl",
+   "C. S. Lewis"
+  ],
+  "answer": "Antoine de Saint-Exupery",
+  "difficulty": "hard",
+  "topic": "little-prince-author"
+ },
+ {
+  "id": "easy-lit-220",
+  "prompt": "Who wrote Treasure Island?",
+  "choices": [
+   "Robert Louis Stevenson",
+   "Mark Twain",
+   "Charles Dickens",
+   "Jack London"
+  ],
+  "answer": "Robert Louis Stevenson",
+  "difficulty": "hard",
+  "topic": "treasure-island-author"
+ },
+ {
+  "id": "easy-lit-221",
+  "prompt": "Who is the one-legged pirate cook in Treasure Island?",
+  "choices": [
+   "Captain Hook",
+   "Blackbeard",
+   "Captain Flint",
+   "Long John Silver"
+  ],
+  "answer": "Long John Silver",
+  "difficulty": "medium",
+  "topic": "treasure-island-silver"
+ },
+ {
+  "id": "easy-lit-222",
+  "prompt": "What does the pirate parrot in Treasure Island say?",
+  "choices": [
+   "Hello there",
+   "Fire away",
+   "Pieces of eight",
+   "Land ahoy"
+  ],
+  "answer": "Pieces of eight",
+  "difficulty": "hard",
+  "topic": "treasure-island-parrot"
+ },
+ {
+  "id": "easy-lit-223",
+  "prompt": "Who wrote The Adventures of Tom Sawyer?",
+  "choices": [
+   "Charles Dickens",
+   "Mark Twain",
+   "Robert Louis Stevenson",
+   "Jack London"
+  ],
+  "answer": "Mark Twain",
+  "difficulty": "medium",
+  "topic": "twain-author"
+ },
+ {
+  "id": "easy-lit-224",
+  "prompt": "What does Tom Sawyer trick his friends into doing?",
+  "choices": [
+   "Painting a fence",
+   "Washing dishes",
+   "Digging a hole",
+   "Sweeping a floor"
+  ],
+  "answer": "Painting a fence",
+  "difficulty": "easy",
+  "topic": "twain-fence"
+ },
+ {
+  "id": "easy-lit-225",
+  "prompt": "Who is Tom's best friend in Mark Twain's tales?",
+  "choices": [
+   "Oliver Twist",
+   "Peter Pan",
+   "Jim Hawkins",
+   "Huckleberry Finn"
+  ],
+  "answer": "Huckleberry Finn",
+  "difficulty": "medium",
+  "topic": "twain-huck"
+ },
+ {
+  "id": "easy-lit-226",
+  "prompt": "Which river do Tom and Huck live near?",
+  "choices": [
+   "The Nile",
+   "The Thames",
+   "The Mississippi",
+   "The Amazon"
+  ],
+  "answer": "The Mississippi",
+  "difficulty": "hard",
+  "topic": "twain-river"
+ },
+ {
+  "id": "easy-lit-227",
+  "prompt": "Who wrote Black Beauty?",
+  "choices": [
+   "Jane Austen",
+   "Anna Sewell",
+   "Louisa Alcott",
+   "Beatrix Potter"
+  ],
+  "answer": "Anna Sewell",
+  "difficulty": "hard",
+  "topic": "sewell-author"
+ },
+ {
+  "id": "easy-lit-228",
+  "prompt": "What kind of animal is Black Beauty?",
+  "choices": [
+   "A horse",
+   "A dog",
+   "A cat",
+   "A donkey"
+  ],
+  "answer": "A horse",
+  "difficulty": "easy",
+  "topic": "black-beauty-horse"
+ },
+ {
+  "id": "easy-lit-229",
+  "prompt": "What kind of animal is Babe in the book by Dick King-Smith?",
+  "choices": [
+   "A dog",
+   "A sheep",
+   "A calf",
+   "A pig"
+  ],
+  "answer": "A pig",
+  "difficulty": "medium",
+  "topic": "babe-pig"
+ },
+ {
+  "id": "easy-lit-230",
+  "prompt": "Who wrote The Hobbit?",
+  "choices": [
+   "C. S. Lewis",
+   "J. K. Rowling",
+   "J. R. R. Tolkien",
+   "Roald Dahl"
+  ],
+  "answer": "J. R. R. Tolkien",
+  "difficulty": "medium",
+  "topic": "hobbit-author"
+ },
+ {
+  "id": "easy-lit-231",
+  "prompt": "What is Bilbo Baggins?",
+  "choices": [
+   "A dwarf",
+   "A hobbit",
+   "An elf",
+   "A wizard"
+  ],
+  "answer": "A hobbit",
+  "difficulty": "easy",
+  "topic": "hobbit-bilbo"
+ },
+ {
+  "id": "easy-lit-232",
+  "prompt": "What kind of creature is Smaug in The Hobbit?",
+  "choices": [
+   "A dragon",
+   "A troll",
+   "A giant",
+   "A wizard"
+  ],
+  "answer": "A dragon",
+  "difficulty": "easy",
+  "topic": "hobbit-smaug"
+ },
+ {
+  "id": "easy-lit-233",
+  "prompt": "Who is the wizard friend in The Hobbit?",
+  "choices": [
+   "Merlin",
+   "Dumbledore",
+   "Saruman",
+   "Gandalf"
+  ],
+  "answer": "Gandalf",
+  "difficulty": "medium",
+  "topic": "hobbit-gandalf"
+ },
+ {
+  "id": "easy-lit-234",
+  "prompt": "Who wrote How to Train Your Dragon?",
+  "choices": [
+   "Roald Dahl",
+   "J. K. Rowling",
+   "Cressida Cowell",
+   "Dr. Seuss"
+  ],
+  "answer": "Cressida Cowell",
+  "difficulty": "hard",
+  "topic": "httyd-author"
+ },
+ {
+  "id": "easy-lit-235",
+  "prompt": "What kind of animal is Babar?",
+  "choices": [
+   "A rabbit",
+   "An elephant",
+   "A bear",
+   "A giraffe"
+  ],
+  "answer": "An elephant",
+  "difficulty": "easy",
+  "topic": "babar-elephant"
+ },
+ {
+  "id": "easy-lit-236",
+  "prompt": "What colour is Clifford the Big Red Dog?",
+  "choices": [
+   "Red",
+   "Blue",
+   "Yellow",
+   "Green"
+  ],
+  "answer": "Red",
+  "difficulty": "easy",
+  "topic": "clifford-red"
+ },
+ {
+  "id": "easy-lit-237",
+  "prompt": "Who carves Pinocchio from wood?",
+  "choices": [
+   "Merlin",
+   "Jiminy",
+   "Gandalf",
+   "Geppetto"
+  ],
+  "answer": "Geppetto",
+  "difficulty": "medium",
+  "topic": "pinocchio-geppetto"
+ },
+ {
+  "id": "easy-lit-238",
+  "prompt": "Which toy bear in overalls waits in a store for a friend?",
+  "choices": [
+   "Paddington",
+   "Pooh",
+   "Corduroy",
+   "Baloo"
+  ],
+  "answer": "Corduroy",
+  "difficulty": "hard",
+  "topic": "corduroy"
+ },
+ {
+  "id": "easy-lit-239",
+  "prompt": "Who is the wild boy raised by apes in a famous jungle tale?",
+  "choices": [
+   "Mowgli",
+   "Tarzan",
+   "Robin",
+   "Peter Pan"
+  ],
+  "answer": "Tarzan",
+  "difficulty": "hard",
+  "topic": "tarzan"
+ },
+ {
+  "id": "easy-lit-240",
+  "prompt": "Who is the king of the Greek gods?",
+  "choices": [
+   "Zeus",
+   "Poseidon",
+   "Hades",
+   "Apollo"
+  ],
+  "answer": "Zeus",
+  "difficulty": "easy",
+  "topic": "myth-zeus"
+ },
+ {
+  "id": "easy-lit-241",
+  "prompt": "Which Greek god rules the sea?",
+  "choices": [
+   "Zeus",
+   "Apollo",
+   "Ares",
+   "Poseidon"
+  ],
+  "answer": "Poseidon",
+  "difficulty": "easy",
+  "topic": "myth-poseidon"
+ },
+ {
+  "id": "easy-lit-242",
+  "prompt": "On which mountain did the Greek gods live?",
+  "choices": [
+   "Mount Everest",
+   "Mount Etna",
+   "Mount Olympus",
+   "Mount Fuji"
+  ],
+  "answer": "Mount Olympus",
+  "difficulty": "easy",
+  "topic": "myth-olympus"
+ },
+ {
+  "id": "easy-lit-243",
+  "prompt": "Which hero in Greek myths was super strong and did twelve labors?",
+  "choices": [
+   "Perseus",
+   "Hercules",
+   "Achilles",
+   "Theseus"
+  ],
+  "answer": "Hercules",
+  "difficulty": "easy",
+  "topic": "myth-hercules"
+ },
+ {
+  "id": "easy-lit-244",
+  "prompt": "What did King Midas turn into gold by touching?",
+  "choices": [
+   "Everything he touched",
+   "Only his crown",
+   "Only water",
+   "Only flowers"
+  ],
+  "answer": "Everything he touched",
+  "difficulty": "easy",
+  "topic": "myth-midas"
+ },
+ {
+  "id": "easy-lit-245",
+  "prompt": "Which winged horse is in Greek myths?",
+  "choices": [
+   "Unicorn",
+   "Griffin",
+   "Centaur",
+   "Pegasus"
+  ],
+  "answer": "Pegasus",
+  "difficulty": "easy",
+  "topic": "myth-pegasus"
+ },
+ {
+  "id": "easy-lit-246",
+  "prompt": "Who flew too close to the sun with wings made of wax?",
+  "choices": [
+   "Perseus",
+   "Theseus",
+   "Icarus",
+   "Hermes"
+  ],
+  "answer": "Icarus",
+  "difficulty": "medium",
+  "topic": "myth-icarus"
+ },
+ {
+  "id": "easy-lit-247",
+  "prompt": "What creature is half man and half horse?",
+  "choices": [
+   "A minotaur",
+   "A centaur",
+   "A satyr",
+   "A siren"
+  ],
+  "answer": "A centaur",
+  "difficulty": "easy",
+  "topic": "myth-centaur"
+ },
+ {
+  "id": "easy-lit-248",
+  "prompt": "What creature has the body of a lion and the head of an eagle?",
+  "choices": [
+   "A griffin",
+   "A sphinx",
+   "A harpy",
+   "A dragon"
+  ],
+  "answer": "A griffin",
+  "difficulty": "hard",
+  "topic": "myth-griffin"
+ },
+ {
+  "id": "easy-lit-249",
+  "prompt": "What was inside the huge wooden horse of Troy?",
+  "choices": [
+   "Gold",
+   "Food",
+   "Children",
+   "Greek soldiers"
+  ],
+  "answer": "Greek soldiers",
+  "difficulty": "easy",
+  "topic": "myth-trojan-horse"
+ },
+ {
+  "id": "easy-lit-250",
+  "prompt": "What did the goddess Athena give the city of Athens?",
+  "choices": [
+   "A golden gate",
+   "A sword",
+   "The olive tree",
+   "A horse"
+  ],
+  "answer": "The olive tree",
+  "difficulty": "hard",
+  "topic": "myth-athena-olive"
+ },
+ {
+  "id": "easy-lit-251",
+  "prompt": "Who is the Greek messenger god with winged sandals?",
+  "choices": [
+   "Ares",
+   "Hermes",
+   "Apollo",
+   "Zeus"
+  ],
+  "answer": "Hermes",
+  "difficulty": "medium",
+  "topic": "myth-hermes"
+ },
+ {
+  "id": "easy-lit-252",
+  "prompt": "Who is the Greek goddess of wisdom?",
+  "choices": [
+   "Athena",
+   "Hera",
+   "Artemis",
+   "Aphrodite"
+  ],
+  "answer": "Athena",
+  "difficulty": "medium",
+  "topic": "myth-athena"
+ },
+ {
+  "id": "easy-lit-253",
+  "prompt": "Who is the Greek god of the sun and music?",
+  "choices": [
+   "Ares",
+   "Hades",
+   "Pan",
+   "Apollo"
+  ],
+  "answer": "Apollo",
+  "difficulty": "hard",
+  "topic": "myth-apollo"
+ },
+ {
+  "id": "easy-lit-254",
+  "prompt": "Which hero beat Medusa, who had snakes for hair?",
+  "choices": [
+   "Hercules",
+   "Jason",
+   "Perseus",
+   "Odysseus"
+  ],
+  "answer": "Perseus",
+  "difficulty": "medium",
+  "topic": "myth-perseus"
+ },
+ {
+  "id": "easy-lit-255",
+  "prompt": "What long trip did Odysseus take?",
+  "choices": [
+   "He climbed a mountain",
+   "He sailed home from Troy",
+   "He crossed a desert",
+   "He flew to the sun"
+  ],
+  "answer": "He sailed home from Troy",
+  "difficulty": "medium",
+  "topic": "myth-odysseus"
+ },
+ {
+  "id": "easy-lit-256",
+  "prompt": "Which Greek hero sailed on the Argo to find a golden fleece?",
+  "choices": [
+   "Jason",
+   "Perseus",
+   "Hercules",
+   "Achilles"
+  ],
+  "answer": "Jason",
+  "difficulty": "hard",
+  "topic": "myth-jason"
+ },
+ {
+  "id": "easy-lit-257",
+  "prompt": "What did Pandora open in the Greek tale?",
+  "choices": [
+   "A chest of gold",
+   "A door",
+   "A book",
+   "A jar"
+  ],
+  "answer": "A jar",
+  "difficulty": "medium",
+  "topic": "myth-pandora"
+ },
+ {
+  "id": "easy-lit-258",
+  "prompt": "Who is the king of the Norse gods?",
+  "choices": [
+   "Thor",
+   "Loki",
+   "Odin",
+   "Freya"
+  ],
+  "answer": "Odin",
+  "difficulty": "medium",
+  "topic": "norse-odin"
+ },
+ {
+  "id": "easy-lit-259",
+  "prompt": "Which Norse god carries a hammer and makes thunder?",
+  "choices": [
+   "Odin",
+   "Thor",
+   "Loki",
+   "Balder"
+  ],
+  "answer": "Thor",
+  "difficulty": "easy",
+  "topic": "norse-thor"
+ },
+ {
+  "id": "easy-lit-260",
+  "prompt": "What is the name of Thor's hammer?",
+  "choices": [
+   "Mjolnir",
+   "Excalibur",
+   "Stormbreaker",
+   "Gungnir"
+  ],
+  "answer": "Mjolnir",
+  "difficulty": "medium",
+  "topic": "norse-mjolnir"
+ },
+ {
+  "id": "easy-lit-261",
+  "prompt": "Who is the trickster god in Norse tales?",
+  "choices": [
+   "Thor",
+   "Odin",
+   "Tyr",
+   "Loki"
+  ],
+  "answer": "Loki",
+  "difficulty": "medium",
+  "topic": "norse-loki"
+ },
+ {
+  "id": "easy-lit-262",
+  "prompt": "Where do Norse gods live?",
+  "choices": [
+   "Olympus",
+   "Narnia",
+   "Asgard",
+   "Valhalla Bay"
+  ],
+  "answer": "Asgard",
+  "difficulty": "medium",
+  "topic": "norse-asgard"
+ },
+ {
+  "id": "easy-lit-263",
+  "prompt": "What kind of animal pulls Thor's chariot?",
+  "choices": [
+   "Horses",
+   "Goats",
+   "Bears",
+   "Wolves"
+  ],
+  "answer": "Goats",
+  "difficulty": "medium",
+  "topic": "norse-goats"
+ },
+ {
+  "id": "easy-lit-264",
+  "prompt": "How many legs does Odin's horse Sleipnir have?",
+  "choices": [
+   "Eight",
+   "Four",
+   "Six",
+   "Ten"
+  ],
+  "answer": "Eight",
+  "difficulty": "hard",
+  "topic": "norse-sleipnir"
+ },
+ {
+  "id": "easy-lit-265",
+  "prompt": "Who is the cheeky spider in West African folk tales?",
+  "choices": [
+   "Brer Rabbit",
+   "Coyote",
+   "Raven",
+   "Anansi"
+  ],
+  "answer": "Anansi",
+  "difficulty": "easy",
+  "topic": "folk-anansi"
+ },
+ {
+  "id": "easy-lit-266",
+  "prompt": "Which animal is a trickster in Uncle Remus stories?",
+  "choices": [
+   "Brer Bear",
+   "Brer Duck",
+   "Brer Rabbit",
+   "Brer Frog"
+  ],
+  "answer": "Brer Rabbit",
+  "difficulty": "medium",
+  "topic": "folk-brer-rabbit"
+ },
+ {
+  "id": "easy-lit-267",
+  "prompt": "Who does the Russian witch Baba Yaga fly in?",
+  "choices": [
+   "A broom",
+   "A mortar",
+   "A bird",
+   "A cart"
+  ],
+  "answer": "A mortar",
+  "difficulty": "hard",
+  "topic": "folk-baba-yaga-flight"
+ },
+ {
+  "id": "easy-lit-268",
+  "prompt": "What did Stone Soup start with?",
+  "choices": [
+   "A stone in a pot",
+   "A chicken",
+   "A turkey",
+   "A carrot"
+  ],
+  "answer": "A stone in a pot",
+  "difficulty": "medium",
+  "topic": "folk-stone-soup"
+ },
+ {
+  "id": "easy-lit-269",
+  "prompt": "Who is a famous English outlaw who steals from the rich to help the poor?",
+  "choices": [
+   "King Arthur",
+   "Little John",
+   "Peter Pan",
+   "Robin Hood"
+  ],
+  "answer": "Robin Hood",
+  "difficulty": "easy",
+  "topic": "folk-robin-hood"
+ },
+ {
+  "id": "easy-lit-270",
+  "prompt": "In which forest does Robin Hood live?",
+  "choices": [
+   "Black Forest",
+   "Hundred Acre Wood",
+   "Sherwood Forest",
+   "Fangorn"
+  ],
+  "answer": "Sherwood Forest",
+  "difficulty": "medium",
+  "topic": "folk-sherwood"
+ },
+ {
+  "id": "easy-lit-271",
+  "prompt": "What kind of weapon is Robin Hood best known for?",
+  "choices": [
+   "A sword",
+   "A bow and arrow",
+   "An axe",
+   "A spear"
+  ],
+  "answer": "A bow and arrow",
+  "difficulty": "easy",
+  "topic": "folk-robin-bow"
+ },
+ {
+  "id": "easy-lit-272",
+  "prompt": "Who is Robin Hood's big friend with a staff?",
+  "choices": [
+   "Little John",
+   "Will Scarlet",
+   "Friar Tuck",
+   "Alan-a-Dale"
+  ],
+  "answer": "Little John",
+  "difficulty": "hard",
+  "topic": "folk-little-john"
+ },
+ {
+  "id": "easy-lit-273",
+  "prompt": "Who pulled a sword from a stone to become king?",
+  "choices": [
+   "Robin Hood",
+   "Merlin",
+   "Lancelot",
+   "King Arthur"
+  ],
+  "answer": "King Arthur",
+  "difficulty": "easy",
+  "topic": "folk-arthur-sword"
+ },
+ {
+  "id": "easy-lit-274",
+  "prompt": "What is the name of King Arthur's wizard?",
+  "choices": [
+   "Gandalf",
+   "Dumbledore",
+   "Merlin",
+   "Oberon"
+  ],
+  "answer": "Merlin",
+  "difficulty": "easy",
+  "topic": "folk-merlin"
+ },
+ {
+  "id": "easy-lit-275",
+  "prompt": "What do King Arthur's knights sit at?",
+  "choices": [
+   "A square table",
+   "A round table",
+   "A long bench",
+   "A stone bench"
+  ],
+  "answer": "A round table",
+  "difficulty": "easy",
+  "topic": "folk-round-table"
+ },
+ {
+  "id": "easy-lit-276",
+  "prompt": "What is King Arthur's famous sword called?",
+  "choices": [
+   "Excalibur",
+   "Sting",
+   "Glamdring",
+   "Mjolnir"
+  ],
+  "answer": "Excalibur",
+  "difficulty": "medium",
+  "topic": "folk-excalibur"
+ },
+ {
+  "id": "easy-lit-277",
+  "prompt": "Which Japanese folk tale boy was born from a peach?",
+  "choices": [
+   "Kintaro",
+   "Taro",
+   "Urashima",
+   "Momotaro"
+  ],
+  "answer": "Momotaro",
+  "difficulty": "hard",
+  "topic": "folk-momotaro"
+ },
+ {
+  "id": "easy-lit-278",
+  "prompt": "What fell on Chicken Little's head?",
+  "choices": [
+   "A leaf",
+   "A snowball",
+   "An acorn",
+   "A stone"
+  ],
+  "answer": "An acorn",
+  "difficulty": "medium",
+  "topic": "folk-chicken-acorn"
+ },
+ {
+  "id": "easy-lit-279",
+  "prompt": "What kind of animal is Mr. Tumnus in The Lion, the Witch and the Wardrobe?",
+  "choices": [
+   "A centaur",
+   "A faun",
+   "A giant",
+   "A beaver"
+  ],
+  "answer": "A faun",
+  "difficulty": "hard",
+  "topic": "lewis-tumnus"
+ },
+ {
+  "id": "easy-lit-280",
+  "prompt": "What does Edmund love in The Lion, the Witch and the Wardrobe?",
+  "choices": [
+   "Turkish delight",
+   "Pizza",
+   "Ice cream",
+   "Cookies"
+  ],
+  "answer": "Turkish delight",
+  "difficulty": "medium",
+  "topic": "lewis-edmund-candy"
+ },
+ {
+  "id": "easy-lit-281",
+  "prompt": "Who wrote the story about a wooden boy who becomes real?",
+  "choices": [
+   "Hans Andersen",
+   "Roald Dahl",
+   "J. M. Barrie",
+   "Carlo Collodi"
+  ],
+  "answer": "Carlo Collodi",
+  "difficulty": "hard",
+  "topic": "collodi"
+ },
+ {
+  "id": "easy-lit-282",
+  "prompt": "What is a book's writer called?",
+  "choices": [
+   "A painter",
+   "A singer",
+   "An author",
+   "A printer"
+  ],
+  "answer": "An author",
+  "difficulty": "easy",
+  "topic": "lit-author"
+ },
+ {
+  "id": "easy-lit-283",
+  "prompt": "What do we call the person who draws the pictures in a book?",
+  "choices": [
+   "A baker",
+   "An illustrator",
+   "A pilot",
+   "A banker"
+  ],
+  "answer": "An illustrator",
+  "difficulty": "easy",
+  "topic": "lit-illustrator"
+ },
+ {
+  "id": "easy-lit-284",
+  "prompt": "What do we call a made-up story?",
+  "choices": [
+   "Fiction",
+   "Fact",
+   "Math",
+   "Weather"
+  ],
+  "answer": "Fiction",
+  "difficulty": "medium",
+  "topic": "lit-fiction"
+ },
+ {
+  "id": "easy-lit-285",
+  "prompt": "What do we call a short poem with five lines and a funny tone?",
+  "choices": [
+   "A sonnet",
+   "A diary",
+   "A novel",
+   "A limerick"
+  ],
+  "answer": "A limerick",
+  "difficulty": "medium",
+  "topic": "lit-limerick"
+ },
+ {
+  "id": "easy-lit-286",
+  "prompt": "What do we call a story about a person's life, written by that person?",
+  "choices": [
+   "A novel",
+   "A fable",
+   "An autobiography",
+   "A riddle"
+  ],
+  "answer": "An autobiography",
+  "difficulty": "hard",
+  "topic": "lit-autobiography"
+ },
+ {
+  "id": "easy-lit-287",
+  "prompt": "What are Aesop's short animal stories with a lesson called?",
+  "choices": [
+   "Diaries",
+   "Fables",
+   "Maps",
+   "Menus"
+  ],
+  "answer": "Fables",
+  "difficulty": "easy",
+  "topic": "lit-fables"
+ },
+ {
+  "id": "easy-lit-288",
+  "prompt": "Where do you borrow books for free?",
+  "choices": [
+   "A library",
+   "A zoo",
+   "A bank",
+   "A bakery"
+  ],
+  "answer": "A library",
+  "difficulty": "easy",
+  "topic": "lit-library"
+ },
+ {
+  "id": "easy-lit-289",
+  "prompt": "What do we call the first words that open a fairy tale?",
+  "choices": [
+   "The end",
+   "Thank you",
+   "Happy birthday",
+   "Once upon a time"
+  ],
+  "answer": "Once upon a time",
+  "difficulty": "easy",
+  "topic": "lit-once-upon"
+ },
+ {
+  "id": "easy-lit-290",
+  "prompt": "How do many fairy tales end?",
+  "choices": [
+   "With a dance",
+   "With a song",
+   "Happily ever after",
+   "With a nap"
+  ],
+  "answer": "Happily ever after",
+  "difficulty": "easy",
+  "topic": "lit-happily-after"
+ },
+ {
+  "id": "easy-lit-291",
+  "prompt": "What kind of animal is Templeton in Charlotte's Web?",
+  "choices": [
+   "A cat",
+   "A rat",
+   "A mouse",
+   "A crow"
+  ],
+  "answer": "A rat",
+  "difficulty": "hard",
+  "topic": "white-templeton"
+ },
+ {
+  "id": "easy-lit-292",
+  "prompt": "What does the Russian witch Baba Yaga's hut stand on?",
+  "choices": [
+   "Chicken legs",
+   "A turtle",
+   "Wooden wheels",
+   "A cloud"
+  ],
+  "answer": "Chicken legs",
+  "difficulty": "hard",
+  "topic": "folk-baba-yaga"
+ },
+ {
+  "id": "easy-lit-293",
+  "prompt": "In Goldilocks, whose porridge was just right?",
+  "choices": [
+   "Mama Bear's",
+   "Papa Bear's",
+   "Grandma's",
+   "Baby Bear's"
+  ],
+  "answer": "Baby Bear's",
+  "difficulty": "medium",
+  "topic": "goldilocks-just-right"
+ },
+ {
+  "id": "easy-lit-294",
+  "prompt": "In many Red Riding Hood tales, who rescues Grandma?",
+  "choices": [
+   "A fisherman",
+   "A baker",
+   "A woodcutter",
+   "A knight"
+  ],
+  "answer": "A woodcutter",
+  "difficulty": "medium",
+  "topic": "red-riding-hood-woodcutter"
+ },
+ {
+  "id": "easy-lit-295",
+  "prompt": "How many dwarfs help Snow White?",
+  "choices": [
+   "Five",
+   "Seven",
+   "Three",
+   "Nine"
+  ],
+  "answer": "Seven",
+  "difficulty": "easy",
+  "topic": "snow-white-seven"
+ },
+ {
+  "id": "easy-lit-296",
+  "prompt": "What does the Queen ask her magic mirror?",
+  "choices": [
+   "Who is the fairest?",
+   "What time is it?",
+   "Where is my crown?",
+   "Who is the bravest?"
+  ],
+  "answer": "Who is the fairest?",
+  "difficulty": "medium",
+  "topic": "snow-white-mirror"
+ },
+ {
+  "id": "easy-lit-297",
+  "prompt": "What animal is the Frog Prince before the kiss?",
+  "choices": [
+   "A bird",
+   "A fish",
+   "A mouse",
+   "A frog"
+  ],
+  "answer": "A frog",
+  "difficulty": "easy",
+  "topic": "frog-prince-before"
+ },
+ {
+  "id": "easy-lit-298",
+  "prompt": "What kind of tower held Rapunzel?",
+  "choices": [
+   "A cave",
+   "A boat",
+   "A tall tower",
+   "A tent"
+  ],
+  "answer": "A tall tower",
+  "difficulty": "easy",
+  "topic": "rapunzel-tower"
+ },
+ {
+  "id": "easy-lit-299",
+  "prompt": "What magic object did Sleeping Beauty prick her finger on?",
+  "choices": [
+   "A thorn",
+   "A spindle",
+   "A needle",
+   "A rose"
+  ],
+  "answer": "A spindle",
+  "difficulty": "medium",
+  "topic": "sleeping-beauty-spindle"
+ },
+ {
+  "id": "easy-lit-300",
+  "prompt": "How many wishes does a genie usually give in stories?",
+  "choices": [
+   "Three",
+   "One",
+   "Five",
+   "Ten"
+  ],
+  "answer": "Three",
+  "difficulty": "medium",
+  "topic": "genie-wishes"
+ },
+ {
+  "id": "easy-lit-301",
+  "prompt": "What did Cinderella lose on the palace stairs?",
+  "choices": [
+   "A bracelet",
+   "A crown",
+   "A necklace",
+   "A glass slipper"
+  ],
+  "answer": "A glass slipper",
+  "difficulty": "easy",
+  "topic": "cinderella-lose"
+ },
+ {
+  "id": "easy-lit-302",
+  "prompt": "What did Goldilocks do when the bears came home?",
+  "choices": [
+   "Ate more porridge",
+   "Hid in the cupboard",
+   "Ran away",
+   "Sang a song"
+  ],
+  "answer": "Ran away",
+  "difficulty": "medium",
+  "topic": "goldilocks-runs"
+ },
+ {
+  "id": "easy-lit-303",
+  "prompt": "What did Hansel drop to mark the trail first (before breadcrumbs)?",
+  "choices": [
+   "Seeds",
+   "Pebbles",
+   "Coins",
+   "Beans"
+  ],
+  "answer": "Pebbles",
+  "difficulty": "hard",
+  "topic": "hansel-pebbles"
+ },
+ {
+  "id": "easy-lit-304",
+  "prompt": "In The Gingerbread Man, who baked him?",
+  "choices": [
+   "An old woman",
+   "A king",
+   "A fox",
+   "A baker boy"
+  ],
+  "answer": "An old woman",
+  "difficulty": "medium",
+  "topic": "gingerbread-baker"
+ },
+ {
+  "id": "easy-lit-305",
+  "prompt": "What did the Ugly Duckling see when he looked in the water at last?",
+  "choices": [
+   "A tall duck",
+   "A white goose",
+   "A big hen",
+   "A beautiful swan"
+  ],
+  "answer": "A beautiful swan",
+  "difficulty": "medium",
+  "topic": "ugly-duckling-reflection"
+ },
+ {
+  "id": "easy-lit-306",
+  "prompt": "What do the Elves in The Elves and the Shoemaker get as thanks?",
+  "choices": [
+   "Gold coins",
+   "A house",
+   "Little clothes",
+   "Shoes"
+  ],
+  "answer": "Little clothes",
+  "difficulty": "hard",
+  "topic": "elves-gift"
+ },
+ {
+  "id": "easy-lit-307",
+  "prompt": "What is Little Bo Peep's tool for guiding sheep?",
+  "choices": [
+   "A broom",
+   "A crook",
+   "A spade",
+   "A net"
+  ],
+  "answer": "A crook",
+  "difficulty": "hard",
+  "topic": "bo-peep-crook"
+ },
+ {
+  "id": "easy-lit-308",
+  "prompt": "What kind of bird sang in the Hans Andersen tale of an emperor in China?",
+  "choices": [
+   "A nightingale",
+   "A robin",
+   "A sparrow",
+   "A canary"
+  ],
+  "answer": "A nightingale",
+  "difficulty": "hard",
+  "topic": "andersen-nightingale"
+ },
+ {
+  "id": "easy-lit-309",
+  "prompt": "Which flowers put Dorothy to sleep in Oz?",
+  "choices": [
+   "Roses",
+   "Daisies",
+   "Tulips",
+   "Poppies"
+  ],
+  "answer": "Poppies",
+  "difficulty": "hard",
+  "topic": "oz-poppies"
+ },
+ {
+  "id": "easy-lit-310",
+  "prompt": "What does Peter Rabbit lose in Mr. McGregor's garden?",
+  "choices": [
+   "His hat",
+   "His carrot",
+   "His jacket and shoes",
+   "His tail"
+  ],
+  "answer": "His jacket and shoes",
+  "difficulty": "hard",
+  "topic": "potter-peter-lost"
+ },
+ {
+  "id": "easy-lit-311",
+  "prompt": "What is Tom Kitten's family: Tom, Moppet and who else?",
+  "choices": [
+   "Whiskers",
+   "Mittens",
+   "Fluffy",
+   "Socks"
+  ],
+  "answer": "Mittens",
+  "difficulty": "hard",
+  "topic": "potter-tom-kitten"
+ },
+ {
+  "id": "easy-lit-312",
+  "prompt": "What does Pooh get stuck in while visiting Rabbit?",
+  "choices": [
+   "A hole",
+   "A tree",
+   "A jar",
+   "A chair"
+  ],
+  "answer": "A hole",
+  "difficulty": "medium",
+  "topic": "milne-pooh-stuck"
+ },
+ {
+  "id": "easy-lit-313",
+  "prompt": "In Charlotte's Web, what is the first word in the web?",
+  "choices": [
+   "Hello",
+   "Terrific",
+   "Radiant",
+   "Some Pig"
+  ],
+  "answer": "Some Pig",
+  "difficulty": "hard",
+  "topic": "white-some-pig"
+ },
+ {
+  "id": "easy-lit-314",
+  "prompt": "What do the Oompa-Loompas love most?",
+  "choices": [
+   "Cheese",
+   "Sweet peas",
+   "Cocoa beans",
+   "Honey"
+  ],
+  "answer": "Cocoa beans",
+  "difficulty": "medium",
+  "topic": "dahl-oompa-cocoa"
+ },
+ {
+  "id": "easy-lit-315",
+  "prompt": "How many Golden Tickets are there in the chocolate bars?",
+  "choices": [
+   "Three",
+   "Five",
+   "Seven",
+   "Ten"
+  ],
+  "answer": "Five",
+  "difficulty": "medium",
+  "topic": "dahl-five-tickets"
+ }
+]

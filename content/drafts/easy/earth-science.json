@@ -1,0 +1,4097 @@
+[
+ {
+  "id": "easy-earth-001",
+  "prompt": "What do we call water that falls from clouds as drops?",
+  "choices": [
+   "Rain",
+   "Sand",
+   "Wind",
+   "Dust"
+  ],
+  "answer": "Rain",
+  "difficulty": "easy",
+  "topic": "rain"
+ },
+ {
+  "id": "easy-earth-002",
+  "prompt": "What is frozen rain that falls as hard balls of ice called?",
+  "choices": [
+   "Fog",
+   "Dew",
+   "Mist",
+   "Hail"
+  ],
+  "answer": "Hail",
+  "difficulty": "medium",
+  "topic": "hail"
+ },
+ {
+  "id": "easy-earth-003",
+  "prompt": "What do we call soft white flakes that fall in cold weather?",
+  "choices": [
+   "Sand",
+   "Pollen",
+   "Snow",
+   "Ash"
+  ],
+  "answer": "Snow",
+  "difficulty": "easy",
+  "topic": "snow"
+ },
+ {
+  "id": "easy-earth-004",
+  "prompt": "What tool tells us how hot or cold it is?",
+  "choices": [
+   "Telescope",
+   "Thermometer",
+   "Compass",
+   "Ruler"
+  ],
+  "answer": "Thermometer",
+  "difficulty": "easy",
+  "topic": "thermometer"
+ },
+ {
+  "id": "easy-earth-005",
+  "prompt": "What do we call moving air?",
+  "choices": [
+   "Rock",
+   "Wind",
+   "Soil",
+   "Sand"
+  ],
+  "answer": "Wind",
+  "difficulty": "easy",
+  "topic": "wind"
+ },
+ {
+  "id": "easy-earth-006",
+  "prompt": "What bright flash in the sky comes during a thunderstorm?",
+  "choices": [
+   "Lightning",
+   "Rainbow",
+   "Comet",
+   "Aurora"
+  ],
+  "answer": "Lightning",
+  "difficulty": "easy",
+  "topic": "lightning"
+ },
+ {
+  "id": "easy-earth-007",
+  "prompt": "Which comes first in a storm, the flash or the boom, if you are far away?",
+  "choices": [
+   "The boom",
+   "They are the same",
+   "The rain",
+   "The flash"
+  ],
+  "answer": "The flash",
+  "difficulty": "medium",
+  "topic": "light-before-sound"
+ },
+ {
+  "id": "easy-earth-008",
+  "prompt": "What colorful arc appears when sun shines through rain?",
+  "choices": [
+   "Comet",
+   "Halo",
+   "Rainbow",
+   "Eclipse"
+  ],
+  "answer": "Rainbow",
+  "difficulty": "easy",
+  "topic": "rainbow"
+ },
+ {
+  "id": "easy-earth-009",
+  "prompt": "How many colors are usually named in a rainbow?",
+  "choices": [
+   "3",
+   "5",
+   "7",
+   "12"
+  ],
+  "answer": "7",
+  "difficulty": "medium",
+  "topic": "rainbow-colors"
+ },
+ {
+  "id": "easy-earth-010",
+  "prompt": "What color is at the top of a rainbow?",
+  "choices": [
+   "Green",
+   "Red",
+   "Yellow",
+   "Purple"
+  ],
+  "answer": "Red",
+  "difficulty": "medium",
+  "topic": "rainbow-top"
+ },
+ {
+  "id": "easy-earth-011",
+  "prompt": "What do we call a cloud that touches the ground?",
+  "choices": [
+   "Fog",
+   "Hail",
+   "Frost",
+   "Smoke"
+  ],
+  "answer": "Fog",
+  "difficulty": "medium",
+  "topic": "fog"
+ },
+ {
+  "id": "easy-earth-012",
+  "prompt": "What are tiny drops of water on grass in the morning called?",
+  "choices": [
+   "Hail",
+   "Sleet",
+   "Ash",
+   "Dew"
+  ],
+  "answer": "Dew",
+  "difficulty": "medium",
+  "topic": "dew"
+ },
+ {
+  "id": "easy-earth-013",
+  "prompt": "What is a spinning funnel of wind that touches the ground called?",
+  "choices": [
+   "Rainbow",
+   "Breeze",
+   "Drizzle",
+   "Tornado"
+  ],
+  "answer": "Tornado",
+  "difficulty": "medium",
+  "topic": "tornado"
+ },
+ {
+  "id": "easy-earth-014",
+  "prompt": "What do we call a very big, spinning storm that forms over warm ocean water?",
+  "choices": [
+   "Blizzard",
+   "Drizzle",
+   "Hurricane",
+   "Breeze"
+  ],
+  "answer": "Hurricane",
+  "difficulty": "medium",
+  "topic": "hurricane"
+ },
+ {
+  "id": "easy-earth-015",
+  "prompt": "What tool measures how fast the wind blows?",
+  "choices": [
+   "Barometer",
+   "Anemometer",
+   "Compass",
+   "Telescope"
+  ],
+  "answer": "Anemometer",
+  "difficulty": "hard",
+  "topic": "anemometer"
+ },
+ {
+  "id": "easy-earth-016",
+  "prompt": "What tool measures air pressure?",
+  "choices": [
+   "Barometer",
+   "Thermometer",
+   "Ruler",
+   "Stethoscope"
+  ],
+  "answer": "Barometer",
+  "difficulty": "hard",
+  "topic": "barometer"
+ },
+ {
+  "id": "easy-earth-017",
+  "prompt": "What do we call the weather in a place over many years?",
+  "choices": [
+   "Climate",
+   "Season",
+   "Cloud",
+   "Breeze"
+  ],
+  "answer": "Climate",
+  "difficulty": "medium",
+  "topic": "climate"
+ },
+ {
+  "id": "easy-earth-018",
+  "prompt": "What is the name for puffy, white clouds that look like cotton?",
+  "choices": [
+   "Cirrus",
+   "Stratus",
+   "Nimbus",
+   "Cumulus"
+  ],
+  "answer": "Cumulus",
+  "difficulty": "medium",
+  "topic": "cumulus"
+ },
+ {
+  "id": "easy-earth-019",
+  "prompt": "Which clouds are thin and wispy, high in the sky?",
+  "choices": [
+   "Cumulus",
+   "Stratus",
+   "Cirrus",
+   "Fog"
+  ],
+  "answer": "Cirrus",
+  "difficulty": "medium",
+  "topic": "cirrus"
+ },
+ {
+  "id": "easy-earth-020",
+  "prompt": "Water changing from liquid to gas is called what?",
+  "choices": [
+   "Freezing",
+   "Evaporation",
+   "Melting",
+   "Digging"
+  ],
+  "answer": "Evaporation",
+  "difficulty": "medium",
+  "topic": "evaporation"
+ },
+ {
+  "id": "easy-earth-021",
+  "prompt": "Water vapor turning into tiny drops to form clouds is called what?",
+  "choices": [
+   "Evaporation",
+   "Condensation",
+   "Erosion",
+   "Melting"
+  ],
+  "answer": "Condensation",
+  "difficulty": "medium",
+  "topic": "condensation"
+ },
+ {
+  "id": "easy-earth-022",
+  "prompt": "Water falling from clouds is called what?",
+  "choices": [
+   "Precipitation",
+   "Evaporation",
+   "Erosion",
+   "Gravity"
+  ],
+  "answer": "Precipitation",
+  "difficulty": "medium",
+  "topic": "precipitation"
+ },
+ {
+  "id": "easy-earth-023",
+  "prompt": "What gives the water cycle its energy to evaporate water?",
+  "choices": [
+   "The Moon",
+   "The wind",
+   "Volcanoes",
+   "The Sun"
+  ],
+  "answer": "The Sun",
+  "difficulty": "easy",
+  "topic": "water-cycle-sun"
+ },
+ {
+  "id": "easy-earth-024",
+  "prompt": "What do we call water that is a gas in the air?",
+  "choices": [
+   "Ice",
+   "Steam rock",
+   "Water vapor",
+   "Mud"
+  ],
+  "answer": "Water vapor",
+  "difficulty": "medium",
+  "topic": "water-vapor"
+ },
+ {
+  "id": "easy-earth-025",
+  "prompt": "What does ice turn into when it melts?",
+  "choices": [
+   "Gas",
+   "Rock",
+   "Liquid water",
+   "Sand"
+  ],
+  "answer": "Liquid water",
+  "difficulty": "easy",
+  "topic": "ice-melt"
+ },
+ {
+  "id": "easy-earth-026",
+  "prompt": "At what temperature in Celsius does water freeze?",
+  "choices": [
+   "10 degrees",
+   "0 degrees",
+   "50 degrees",
+   "100 degrees"
+  ],
+  "answer": "0 degrees",
+  "difficulty": "medium",
+  "topic": "freeze-point"
+ },
+ {
+  "id": "easy-earth-027",
+  "prompt": "At what temperature in Celsius does water boil?",
+  "choices": [
+   "100 degrees",
+   "0 degrees",
+   "50 degrees",
+   "10 degrees"
+  ],
+  "answer": "100 degrees",
+  "difficulty": "medium",
+  "topic": "boil-point"
+ },
+ {
+  "id": "easy-earth-028",
+  "prompt": "What are clouds made of?",
+  "choices": [
+   "Cotton",
+   "Smoke",
+   "Feathers",
+   "Tiny water drops"
+  ],
+  "answer": "Tiny water drops",
+  "difficulty": "easy",
+  "topic": "cloud-made-of"
+ },
+ {
+  "id": "easy-earth-029",
+  "prompt": "What do we call the weather report that says what weather is coming?",
+  "choices": [
+   "Fossil",
+   "Climate",
+   "Season",
+   "Forecast"
+  ],
+  "answer": "Forecast",
+  "difficulty": "easy",
+  "topic": "forecast"
+ },
+ {
+  "id": "easy-earth-030",
+  "prompt": "Which kind of weather is very dry for a long time?",
+  "choices": [
+   "Flood",
+   "Blizzard",
+   "Drought",
+   "Monsoon"
+  ],
+  "answer": "Drought",
+  "difficulty": "easy",
+  "topic": "drought"
+ },
+ {
+  "id": "easy-earth-031",
+  "prompt": "What do we call a big snowstorm with strong wind?",
+  "choices": [
+   "Drizzle",
+   "Blizzard",
+   "Breeze",
+   "Fog"
+  ],
+  "answer": "Blizzard",
+  "difficulty": "medium",
+  "topic": "blizzard"
+ },
+ {
+  "id": "easy-earth-032",
+  "prompt": "What do we call light, gentle rain?",
+  "choices": [
+   "Drizzle",
+   "Hail",
+   "Blizzard",
+   "Tornado"
+  ],
+  "answer": "Drizzle",
+  "difficulty": "medium",
+  "topic": "drizzle"
+ },
+ {
+  "id": "easy-earth-033",
+  "prompt": "What is the thin layer of air around Earth called?",
+  "choices": [
+   "Atmosphere",
+   "Ocean",
+   "Crust",
+   "Core"
+  ],
+  "answer": "Atmosphere",
+  "difficulty": "easy",
+  "topic": "atmosphere"
+ },
+ {
+  "id": "easy-earth-034",
+  "prompt": "Which gas in the air do people need to breathe?",
+  "choices": [
+   "Helium",
+   "Gold",
+   "Steam",
+   "Oxygen"
+  ],
+  "answer": "Oxygen",
+  "difficulty": "easy",
+  "topic": "oxygen"
+ },
+ {
+  "id": "easy-earth-035",
+  "prompt": "What gas do plants take in from the air?",
+  "choices": [
+   "Oxygen",
+   "Helium",
+   "Carbon dioxide",
+   "Neon"
+  ],
+  "answer": "Carbon dioxide",
+  "difficulty": "medium",
+  "topic": "plants-co2"
+ },
+ {
+  "id": "easy-earth-036",
+  "prompt": "Which gas makes up most of Earth's air?",
+  "choices": [
+   "Oxygen",
+   "Nitrogen",
+   "Helium",
+   "Gold"
+  ],
+  "answer": "Nitrogen",
+  "difficulty": "hard",
+  "topic": "nitrogen-air"
+ },
+ {
+  "id": "easy-earth-037",
+  "prompt": "What do we call a very hot, dry place with little rain and lots of sand?",
+  "choices": [
+   "Rainforest",
+   "Desert",
+   "Tundra",
+   "Swamp"
+  ],
+  "answer": "Desert",
+  "difficulty": "easy",
+  "topic": "desert"
+ },
+ {
+  "id": "easy-earth-038",
+  "prompt": "What do we call a thick, wet forest with a lot of rain?",
+  "choices": [
+   "Rainforest",
+   "Desert",
+   "Prairie",
+   "Tundra"
+  ],
+  "answer": "Rainforest",
+  "difficulty": "easy",
+  "topic": "rainforest"
+ },
+ {
+  "id": "easy-earth-039",
+  "prompt": "What do we call big sheets of moving ice?",
+  "choices": [
+   "Dunes",
+   "Canyons",
+   "Geysers",
+   "Glaciers"
+  ],
+  "answer": "Glaciers",
+  "difficulty": "medium",
+  "topic": "glaciers"
+ },
+ {
+  "id": "easy-earth-040",
+  "prompt": "What are floating pieces of ice broken off glaciers called?",
+  "choices": [
+   "Islands",
+   "Reefs",
+   "Icebergs",
+   "Dunes"
+  ],
+  "answer": "Icebergs",
+  "difficulty": "medium",
+  "topic": "icebergs"
+ },
+ {
+  "id": "easy-earth-041",
+  "prompt": "What is frozen dew called?",
+  "choices": [
+   "Hail",
+   "Steam",
+   "Frost",
+   "Fog"
+  ],
+  "answer": "Frost",
+  "difficulty": "medium",
+  "topic": "frost"
+ },
+ {
+  "id": "easy-earth-042",
+  "prompt": "What do we call rain mixed with snow?",
+  "choices": [
+   "Dew",
+   "Sleet",
+   "Fog",
+   "Dust"
+  ],
+  "answer": "Sleet",
+  "difficulty": "easy",
+  "topic": "sleet"
+ },
+ {
+  "id": "easy-earth-043",
+  "prompt": "What does a weather vane show?",
+  "choices": [
+   "Wind direction",
+   "Temperature",
+   "Rainfall",
+   "Time"
+  ],
+  "answer": "Wind direction",
+  "difficulty": "medium",
+  "topic": "weather-vane"
+ },
+ {
+  "id": "easy-earth-044",
+  "prompt": "What does a rain gauge measure?",
+  "choices": [
+   "Wind speed",
+   "Temperature",
+   "Cloud color",
+   "How much rain fell"
+  ],
+  "answer": "How much rain fell",
+  "difficulty": "medium",
+  "topic": "rain-gauge"
+ },
+ {
+  "id": "easy-earth-045",
+  "prompt": "Where does rain come from?",
+  "choices": [
+   "Rocks",
+   "Trees",
+   "Mountains",
+   "Clouds"
+  ],
+  "answer": "Clouds",
+  "difficulty": "easy",
+  "topic": "rain-from-clouds"
+ },
+ {
+  "id": "easy-earth-046",
+  "prompt": "What do we use an umbrella for on a rainy day?",
+  "choices": [
+   "To stay cool",
+   "To see far",
+   "To stay dry",
+   "To hear well"
+  ],
+  "answer": "To stay dry",
+  "difficulty": "easy",
+  "topic": "umbrella"
+ },
+ {
+  "id": "easy-earth-047",
+  "prompt": "What do we call it when a river spills over its banks?",
+  "choices": [
+   "Drought",
+   "Flood",
+   "Breeze",
+   "Eclipse"
+  ],
+  "answer": "Flood",
+  "difficulty": "medium",
+  "topic": "flood"
+ },
+ {
+  "id": "easy-earth-048",
+  "prompt": "What do we call the loud sound after lightning?",
+  "choices": [
+   "Thunder",
+   "Echo",
+   "Whistle",
+   "Hum"
+  ],
+  "answer": "Thunder",
+  "difficulty": "easy",
+  "topic": "thunder"
+ },
+ {
+  "id": "easy-earth-049",
+  "prompt": "What do we call a gentle, light wind?",
+  "choices": [
+   "Breeze",
+   "Tornado",
+   "Hurricane",
+   "Blizzard"
+  ],
+  "answer": "Breeze",
+  "difficulty": "easy",
+  "topic": "breeze"
+ },
+ {
+  "id": "easy-earth-050",
+  "prompt": "What kind of weather makes a puddle on the ground?",
+  "choices": [
+   "Sunshine",
+   "Heat",
+   "Dry wind",
+   "Rain"
+  ],
+  "answer": "Rain",
+  "difficulty": "easy",
+  "topic": "puddle"
+ },
+ {
+  "id": "easy-earth-051",
+  "prompt": "How many seasons are there in a year?",
+  "choices": [
+   "2",
+   "3",
+   "4",
+   "6"
+  ],
+  "answer": "4",
+  "difficulty": "easy",
+  "topic": "seasons-count"
+ },
+ {
+  "id": "easy-earth-052",
+  "prompt": "Which season comes after winter?",
+  "choices": [
+   "Summer",
+   "Spring",
+   "Fall",
+   "Winter again"
+  ],
+  "answer": "Spring",
+  "difficulty": "easy",
+  "topic": "after-winter"
+ },
+ {
+  "id": "easy-earth-053",
+  "prompt": "Which season is usually the hottest?",
+  "choices": [
+   "Winter",
+   "Summer",
+   "Spring",
+   "Fall"
+  ],
+  "answer": "Summer",
+  "difficulty": "easy",
+  "topic": "hottest-season"
+ },
+ {
+  "id": "easy-earth-054",
+  "prompt": "Which season is usually the coldest?",
+  "choices": [
+   "Winter",
+   "Summer",
+   "Spring",
+   "Fall"
+  ],
+  "answer": "Winter",
+  "difficulty": "easy",
+  "topic": "coldest-season"
+ },
+ {
+  "id": "easy-earth-055",
+  "prompt": "In which season do leaves on many trees change color and fall?",
+  "choices": [
+   "Spring",
+   "Summer",
+   "Winter",
+   "Fall"
+  ],
+  "answer": "Fall",
+  "difficulty": "easy",
+  "topic": "leaves-fall"
+ },
+ {
+  "id": "easy-earth-056",
+  "prompt": "In which season do flowers begin to bloom?",
+  "choices": [
+   "Winter",
+   "Fall",
+   "Spring",
+   "Summer"
+  ],
+  "answer": "Spring",
+  "difficulty": "easy",
+  "topic": "flowers-spring"
+ },
+ {
+  "id": "easy-earth-057",
+  "prompt": "What causes the seasons on Earth?",
+  "choices": [
+   "Earth's color",
+   "The Moon's size",
+   "Earth's tilt",
+   "Wind"
+  ],
+  "answer": "Earth's tilt",
+  "difficulty": "hard",
+  "topic": "season-cause"
+ },
+ {
+  "id": "easy-earth-058",
+  "prompt": "How long does Earth take to go around the Sun?",
+  "choices": [
+   "One day",
+   "One year",
+   "One month",
+   "One week"
+  ],
+  "answer": "One year",
+  "difficulty": "easy",
+  "topic": "orbit-year"
+ },
+ {
+  "id": "easy-earth-059",
+  "prompt": "How long does Earth take to spin around once?",
+  "choices": [
+   "One day",
+   "One year",
+   "One month",
+   "One hour"
+  ],
+  "answer": "One day",
+  "difficulty": "easy",
+  "topic": "rotation-day"
+ },
+ {
+  "id": "easy-earth-060",
+  "prompt": "What causes day and night?",
+  "choices": [
+   "The Moon moving",
+   "Clouds",
+   "Wind",
+   "Earth spinning"
+  ],
+  "answer": "Earth spinning",
+  "difficulty": "medium",
+  "topic": "day-night-cause"
+ },
+ {
+  "id": "easy-earth-061",
+  "prompt": "Which star is closest to Earth?",
+  "choices": [
+   "The North Star",
+   "Sirius",
+   "The Moon",
+   "The Sun"
+  ],
+  "answer": "The Sun",
+  "difficulty": "easy",
+  "topic": "closest-star"
+ },
+ {
+  "id": "easy-earth-062",
+  "prompt": "What is the Sun?",
+  "choices": [
+   "A planet",
+   "A moon",
+   "A star",
+   "A comet"
+  ],
+  "answer": "A star",
+  "difficulty": "easy",
+  "topic": "sun-is-star"
+ },
+ {
+  "id": "easy-earth-063",
+  "prompt": "What does the Sun give us?",
+  "choices": [
+   "Rain and snow",
+   "Light and heat",
+   "Rocks and sand",
+   "Wind and waves"
+  ],
+  "answer": "Light and heat",
+  "difficulty": "easy",
+  "topic": "sun-gives"
+ },
+ {
+  "id": "easy-earth-064",
+  "prompt": "In which direction does the Sun rise?",
+  "choices": [
+   "East",
+   "West",
+   "North",
+   "South"
+  ],
+  "answer": "East",
+  "difficulty": "easy",
+  "topic": "sun-rise-east"
+ },
+ {
+  "id": "easy-earth-065",
+  "prompt": "In which direction does the Sun set?",
+  "choices": [
+   "West",
+   "East",
+   "North",
+   "South"
+  ],
+  "answer": "West",
+  "difficulty": "easy",
+  "topic": "sun-set-west"
+ },
+ {
+  "id": "easy-earth-066",
+  "prompt": "What do we call the path a planet takes around the Sun?",
+  "choices": [
+   "Ladder",
+   "Tunnel",
+   "Bridge",
+   "Orbit"
+  ],
+  "answer": "Orbit",
+  "difficulty": "medium",
+  "topic": "orbit-def"
+ },
+ {
+  "id": "easy-earth-067",
+  "prompt": "How many planets are in our solar system?",
+  "choices": [
+   "7",
+   "9",
+   "8",
+   "10"
+  ],
+  "answer": "8",
+  "difficulty": "easy",
+  "topic": "planet-count"
+ },
+ {
+  "id": "easy-earth-068",
+  "prompt": "Which planet do we live on?",
+  "choices": [
+   "Mars",
+   "Earth",
+   "Venus",
+   "Jupiter"
+  ],
+  "answer": "Earth",
+  "difficulty": "easy",
+  "topic": "home-planet"
+ },
+ {
+  "id": "easy-earth-069",
+  "prompt": "Which planet is closest to the Sun?",
+  "choices": [
+   "Venus",
+   "Mercury",
+   "Mars",
+   "Neptune"
+  ],
+  "answer": "Mercury",
+  "difficulty": "medium",
+  "topic": "mercury-closest"
+ },
+ {
+  "id": "easy-earth-070",
+  "prompt": "Which planet is called the Red Planet?",
+  "choices": [
+   "Mars",
+   "Venus",
+   "Jupiter",
+   "Saturn"
+  ],
+  "answer": "Mars",
+  "difficulty": "easy",
+  "topic": "red-planet"
+ },
+ {
+  "id": "easy-earth-071",
+  "prompt": "Which planet is the biggest?",
+  "choices": [
+   "Earth",
+   "Mars",
+   "Mercury",
+   "Jupiter"
+  ],
+  "answer": "Jupiter",
+  "difficulty": "easy",
+  "topic": "biggest-planet"
+ },
+ {
+  "id": "easy-earth-072",
+  "prompt": "Which planet has big, bright rings?",
+  "choices": [
+   "Mars",
+   "Mercury",
+   "Saturn",
+   "Earth"
+  ],
+  "answer": "Saturn",
+  "difficulty": "easy",
+  "topic": "saturn-rings"
+ },
+ {
+  "id": "easy-earth-073",
+  "prompt": "Which planet is the smallest?",
+  "choices": [
+   "Earth",
+   "Jupiter",
+   "Mercury",
+   "Neptune"
+  ],
+  "answer": "Mercury",
+  "difficulty": "medium",
+  "topic": "smallest-planet"
+ },
+ {
+  "id": "easy-earth-074",
+  "prompt": "Which planet is farthest from the Sun?",
+  "choices": [
+   "Mars",
+   "Neptune",
+   "Earth",
+   "Saturn"
+  ],
+  "answer": "Neptune",
+  "difficulty": "easy",
+  "topic": "farthest-planet"
+ },
+ {
+  "id": "easy-earth-075",
+  "prompt": "Which planet is the hottest, with a thick, hot air blanket?",
+  "choices": [
+   "Venus",
+   "Mercury",
+   "Mars",
+   "Neptune"
+  ],
+  "answer": "Venus",
+  "difficulty": "easy",
+  "topic": "venus-hottest"
+ },
+ {
+  "id": "easy-earth-076",
+  "prompt": "Which planet is third from the Sun?",
+  "choices": [
+   "Venus",
+   "Mars",
+   "Mercury",
+   "Earth"
+  ],
+  "answer": "Earth",
+  "difficulty": "medium",
+  "topic": "third-planet"
+ },
+ {
+  "id": "easy-earth-077",
+  "prompt": "Which planet comes right after Earth, going away from the Sun?",
+  "choices": [
+   "Venus",
+   "Jupiter",
+   "Saturn",
+   "Mars"
+  ],
+  "answer": "Mars",
+  "difficulty": "medium",
+  "topic": "after-earth"
+ },
+ {
+  "id": "easy-earth-078",
+  "prompt": "Which planet is known for a Great Red Spot storm?",
+  "choices": [
+   "Mars",
+   "Venus",
+   "Jupiter",
+   "Neptune"
+  ],
+  "answer": "Jupiter",
+  "difficulty": "easy",
+  "topic": "great-red-spot"
+ },
+ {
+  "id": "easy-earth-079",
+  "prompt": "How many moons does Earth have?",
+  "choices": [
+   "2",
+   "1",
+   "3",
+   "0"
+  ],
+  "answer": "1",
+  "difficulty": "easy",
+  "topic": "earth-moons"
+ },
+ {
+  "id": "easy-earth-080",
+  "prompt": "What do we call the way the Moon changes shape in the sky?",
+  "choices": [
+   "Phases",
+   "Seasons",
+   "Tides",
+   "Waves"
+  ],
+  "answer": "Phases",
+  "difficulty": "medium",
+  "topic": "moon-phases"
+ },
+ {
+  "id": "easy-earth-081",
+  "prompt": "What do we call the Moon when we see all of its lit side?",
+  "choices": [
+   "Full Moon",
+   "New Moon",
+   "Half Moon",
+   "Crescent"
+  ],
+  "answer": "Full Moon",
+  "difficulty": "medium",
+  "topic": "full-moon"
+ },
+ {
+  "id": "easy-earth-082",
+  "prompt": "About how long does the Moon take to go around Earth?",
+  "choices": [
+   "One day",
+   "One year",
+   "One hour",
+   "One month"
+  ],
+  "answer": "One month",
+  "difficulty": "medium",
+  "topic": "moon-orbit"
+ },
+ {
+  "id": "easy-earth-083",
+  "prompt": "What is the Moon's surface covered with that look like bowls?",
+  "choices": [
+   "Oceans",
+   "Forests",
+   "Craters",
+   "Cities"
+  ],
+  "answer": "Craters",
+  "difficulty": "easy",
+  "topic": "moon-craters"
+ },
+ {
+  "id": "easy-earth-084",
+  "prompt": "Does the Moon make its own light?",
+  "choices": [
+   "Yes, like the Sun",
+   "No, it reflects sunlight",
+   "Yes, from fire",
+   "Yes, from lava"
+  ],
+  "answer": "No, it reflects sunlight",
+  "difficulty": "medium",
+  "topic": "moon-reflects"
+ },
+ {
+  "id": "easy-earth-085",
+  "prompt": "What do we call it when the Moon blocks the Sun's light?",
+  "choices": [
+   "Lunar eclipse",
+   "Solar eclipse",
+   "Full moon",
+   "Sunset"
+  ],
+  "answer": "Solar eclipse",
+  "difficulty": "easy",
+  "topic": "solar-eclipse"
+ },
+ {
+  "id": "easy-earth-086",
+  "prompt": "Who was the first person to walk on the Moon?",
+  "choices": [
+   "Neil Armstrong",
+   "Buzz Lightyear",
+   "Yuri Gagarin",
+   "Sally Ride"
+  ],
+  "answer": "Neil Armstrong",
+  "difficulty": "medium",
+  "topic": "first-moonwalk"
+ },
+ {
+  "id": "easy-earth-087",
+  "prompt": "What do we call a group of stars that makes a picture in the sky?",
+  "choices": [
+   "Planet",
+   "Comet",
+   "Crater",
+   "Constellation"
+  ],
+  "answer": "Constellation",
+  "difficulty": "medium",
+  "topic": "constellation"
+ },
+ {
+  "id": "easy-earth-088",
+  "prompt": "What is a giant group of billions of stars called?",
+  "choices": [
+   "Planet",
+   "Moon",
+   "Galaxy",
+   "Orbit"
+  ],
+  "answer": "Galaxy",
+  "difficulty": "medium",
+  "topic": "galaxy"
+ },
+ {
+  "id": "easy-earth-089",
+  "prompt": "What is the name of our galaxy?",
+  "choices": [
+   "Big Dipper",
+   "Orion",
+   "Milky Way",
+   "Sun Path"
+  ],
+  "answer": "Milky Way",
+  "difficulty": "medium",
+  "topic": "milky-way"
+ },
+ {
+  "id": "easy-earth-090",
+  "prompt": "What do we call a space rock with a glowing tail?",
+  "choices": [
+   "Planet",
+   "Comet",
+   "Moon",
+   "Crater"
+  ],
+  "answer": "Comet",
+  "difficulty": "medium",
+  "topic": "comet"
+ },
+ {
+  "id": "easy-earth-091",
+  "prompt": "What do we call a streak of light when a space rock burns up in the air?",
+  "choices": [
+   "Shooting star",
+   "Rainbow",
+   "Lightning",
+   "Comet"
+  ],
+  "answer": "Shooting star",
+  "difficulty": "easy",
+  "topic": "meteor"
+ },
+ {
+  "id": "easy-earth-092",
+  "prompt": "What do we call the Sun and all that goes around it?",
+  "choices": [
+   "Milky Bay",
+   "Star map",
+   "Moon web",
+   "Solar system"
+  ],
+  "answer": "Solar system",
+  "difficulty": "easy",
+  "topic": "solar-system"
+ },
+ {
+  "id": "easy-earth-093",
+  "prompt": "What shape is Earth?",
+  "choices": [
+   "Flat like a plate",
+   "Square",
+   "Shaped like a cone",
+   "Round like a ball"
+  ],
+  "answer": "Round like a ball",
+  "difficulty": "easy",
+  "topic": "earth-shape"
+ },
+ {
+  "id": "easy-earth-094",
+  "prompt": "What do we call a person who travels into space?",
+  "choices": [
+   "Archaeologist",
+   "Geologist",
+   "Astronaut",
+   "Pilot"
+  ],
+  "answer": "Astronaut",
+  "difficulty": "easy",
+  "topic": "astronaut"
+ },
+ {
+  "id": "easy-earth-095",
+  "prompt": "What do we call a person who studies rocks?",
+  "choices": [
+   "Biologist",
+   "Geologist",
+   "Chef",
+   "Painter"
+  ],
+  "answer": "Geologist",
+  "difficulty": "medium",
+  "topic": "geologist"
+ },
+ {
+  "id": "easy-earth-096",
+  "prompt": "What do we call a person who studies weather?",
+  "choices": [
+   "Meteorologist",
+   "Geologist",
+   "Zoologist",
+   "Chemist"
+  ],
+  "answer": "Meteorologist",
+  "difficulty": "medium",
+  "topic": "meteorologist"
+ },
+ {
+  "id": "easy-earth-097",
+  "prompt": "What do we call a tool that makes faraway things look closer in the sky?",
+  "choices": [
+   "Telescope",
+   "Microscope",
+   "Compass",
+   "Ruler"
+  ],
+  "answer": "Telescope",
+  "difficulty": "easy",
+  "topic": "telescope"
+ },
+ {
+  "id": "easy-earth-098",
+  "prompt": "Which planet is a blue-green color and tipped on its side?",
+  "choices": [
+   "Mars",
+   "Mercury",
+   "Venus",
+   "Uranus"
+  ],
+  "answer": "Uranus",
+  "difficulty": "hard",
+  "topic": "uranus-tilt"
+ },
+ {
+  "id": "easy-earth-099",
+  "prompt": "What do we call small rocky objects that orbit the Sun?",
+  "choices": [
+   "Volcanoes",
+   "Glaciers",
+   "Asteroids",
+   "Dunes"
+  ],
+  "answer": "Asteroids",
+  "difficulty": "easy",
+  "topic": "asteroids"
+ },
+ {
+  "id": "easy-earth-100",
+  "prompt": "What do we call a person who studies volcanoes?",
+  "choices": [
+   "Chef",
+   "Volcanologist",
+   "Dentist",
+   "Pilot"
+  ],
+  "answer": "Volcanologist",
+  "difficulty": "hard",
+  "topic": "volcanologist"
+ },
+ {
+  "id": "easy-earth-101",
+  "prompt": "How many main kinds of rock are there?",
+  "choices": [
+   "2",
+   "3",
+   "5",
+   "9"
+  ],
+  "answer": "3",
+  "difficulty": "hard",
+  "topic": "rock-types"
+ },
+ {
+  "id": "easy-earth-102",
+  "prompt": "Which kind of rock forms from cooled lava or magma?",
+  "choices": [
+   "Igneous",
+   "Sedimentary",
+   "Metamorphic",
+   "Fossil"
+  ],
+  "answer": "Igneous",
+  "difficulty": "medium",
+  "topic": "igneous"
+ },
+ {
+  "id": "easy-earth-103",
+  "prompt": "Which kind of rock forms from layers of sand and mud pressed together?",
+  "choices": [
+   "Igneous",
+   "Metamorphic",
+   "Volcanic",
+   "Sedimentary"
+  ],
+  "answer": "Sedimentary",
+  "difficulty": "medium",
+  "topic": "sedimentary"
+ },
+ {
+  "id": "easy-earth-104",
+  "prompt": "Which kind of rock is changed by heat and pressure?",
+  "choices": [
+   "Sedimentary",
+   "Igneous",
+   "Metamorphic",
+   "Plastic"
+  ],
+  "answer": "Metamorphic",
+  "difficulty": "medium",
+  "topic": "metamorphic"
+ },
+ {
+  "id": "easy-earth-105",
+  "prompt": "What is melted rock inside the Earth called?",
+  "choices": [
+   "Water",
+   "Sand",
+   "Magma",
+   "Steam"
+  ],
+  "answer": "Magma",
+  "difficulty": "medium",
+  "topic": "magma"
+ },
+ {
+  "id": "easy-earth-106",
+  "prompt": "What is melted rock called after it flows out of a volcano?",
+  "choices": [
+   "Magma",
+   "Lava",
+   "Mud",
+   "Water"
+  ],
+  "answer": "Lava",
+  "difficulty": "medium",
+  "topic": "lava"
+ },
+ {
+  "id": "easy-earth-107",
+  "prompt": "What do we call the remains of ancient plants or animals found in rock?",
+  "choices": [
+   "Fossils",
+   "Pebbles",
+   "Crystals",
+   "Magnets"
+  ],
+  "answer": "Fossils",
+  "difficulty": "easy",
+  "topic": "fossils"
+ },
+ {
+  "id": "easy-earth-108",
+  "prompt": "Which rock is made from tiny sea animal shells and is used for chalk?",
+  "choices": [
+   "Granite",
+   "Obsidian",
+   "Basalt",
+   "Limestone"
+  ],
+  "answer": "Limestone",
+  "difficulty": "easy",
+  "topic": "limestone"
+ },
+ {
+  "id": "easy-earth-109",
+  "prompt": "Which soft white rock can we use to write on a blackboard?",
+  "choices": [
+   "Granite",
+   "Marble",
+   "Slate",
+   "Chalk"
+  ],
+  "answer": "Chalk",
+  "difficulty": "medium",
+  "topic": "chalk"
+ },
+ {
+  "id": "easy-earth-110",
+  "prompt": "Which rock is shiny black glass made by a volcano?",
+  "choices": [
+   "Chalk",
+   "Sandstone",
+   "Obsidian",
+   "Marble"
+  ],
+  "answer": "Obsidian",
+  "difficulty": "hard",
+  "topic": "obsidian"
+ },
+ {
+  "id": "easy-earth-111",
+  "prompt": "Which light rock floats on water?",
+  "choices": [
+   "Granite",
+   "Pumice",
+   "Marble",
+   "Slate"
+  ],
+  "answer": "Pumice",
+  "difficulty": "easy",
+  "topic": "pumice"
+ },
+ {
+  "id": "easy-earth-112",
+  "prompt": "What do we call a very hard, shiny, clear gem?",
+  "choices": [
+   "Diamond",
+   "Chalk",
+   "Clay",
+   "Coal"
+  ],
+  "answer": "Diamond",
+  "difficulty": "medium",
+  "topic": "diamond"
+ },
+ {
+  "id": "easy-earth-113",
+  "prompt": "What is coal mostly used for?",
+  "choices": [
+   "Burning for energy",
+   "Making glass",
+   "Making rain",
+   "Growing trees"
+  ],
+  "answer": "Burning for energy",
+  "difficulty": "medium",
+  "topic": "coal-use"
+ },
+ {
+  "id": "easy-earth-114",
+  "prompt": "What is coal made from?",
+  "choices": [
+   "Ancient fish",
+   "Sea sand",
+   "Clouds",
+   "Ancient plants"
+  ],
+  "answer": "Ancient plants",
+  "difficulty": "hard",
+  "topic": "coal-origin"
+ },
+ {
+  "id": "easy-earth-115",
+  "prompt": "What do we call a rock that has useful metal inside it?",
+  "choices": [
+   "Sand",
+   "Pebble",
+   "Ore",
+   "Clay"
+  ],
+  "answer": "Ore",
+  "difficulty": "hard",
+  "topic": "ore"
+ },
+ {
+  "id": "easy-earth-116",
+  "prompt": "What is soil made of?",
+  "choices": [
+   "Only sand",
+   "Rock bits and dead plants",
+   "Only water",
+   "Only ice"
+  ],
+  "answer": "Rock bits and dead plants",
+  "difficulty": "medium",
+  "topic": "soil-made"
+ },
+ {
+  "id": "easy-earth-117",
+  "prompt": "What is the very top layer of soil good for growing plants called?",
+  "choices": [
+   "Bedrock",
+   "Topsoil",
+   "Magma",
+   "Lava"
+  ],
+  "answer": "Topsoil",
+  "difficulty": "medium",
+  "topic": "topsoil"
+ },
+ {
+  "id": "easy-earth-118",
+  "prompt": "What is the solid rock under the soil called?",
+  "choices": [
+   "Bedrock",
+   "Topsoil",
+   "Lava",
+   "Sand"
+  ],
+  "answer": "Bedrock",
+  "difficulty": "easy",
+  "topic": "bedrock"
+ },
+ {
+  "id": "easy-earth-119",
+  "prompt": "What do we call wind and water slowly carrying bits of rock away?",
+  "choices": [
+   "Evaporation",
+   "Gravity",
+   "Eclipse",
+   "Erosion"
+  ],
+  "answer": "Erosion",
+  "difficulty": "medium",
+  "topic": "erosion"
+ },
+ {
+  "id": "easy-earth-120",
+  "prompt": "What do we call it when rock is slowly broken into small pieces?",
+  "choices": [
+   "Freezing",
+   "Planting",
+   "Weathering",
+   "Digging"
+  ],
+  "answer": "Weathering",
+  "difficulty": "hard",
+  "topic": "weathering"
+ },
+ {
+  "id": "easy-earth-121",
+  "prompt": "What big hole in the ground was cut by a river over many years?",
+  "choices": [
+   "Volcano",
+   "Island",
+   "Canyon",
+   "Glacier"
+  ],
+  "answer": "Canyon",
+  "difficulty": "medium",
+  "topic": "canyon"
+ },
+ {
+  "id": "easy-earth-122",
+  "prompt": "Which huge canyon in Arizona is famous worldwide?",
+  "choices": [
+   "Death Pit",
+   "Grand Canyon",
+   "Great Gap",
+   "Big Bowl"
+  ],
+  "answer": "Grand Canyon",
+  "difficulty": "medium",
+  "topic": "grand-canyon"
+ },
+ {
+  "id": "easy-earth-123",
+  "prompt": "What tiny pieces of rock make up a beach?",
+  "choices": [
+   "Sand",
+   "Salt",
+   "Ice",
+   "Clay"
+  ],
+  "answer": "Sand",
+  "difficulty": "easy",
+  "topic": "beach-sand"
+ },
+ {
+  "id": "easy-earth-124",
+  "prompt": "What do we call a hill of sand shaped by wind?",
+  "choices": [
+   "Crater",
+   "Canyon",
+   "Reef",
+   "Dune"
+  ],
+  "answer": "Dune",
+  "difficulty": "medium",
+  "topic": "dune"
+ },
+ {
+  "id": "easy-earth-125",
+  "prompt": "What is a very tall landform with a peak called?",
+  "choices": [
+   "Valley",
+   "Plain",
+   "Lake",
+   "Mountain"
+  ],
+  "answer": "Mountain",
+  "difficulty": "easy",
+  "topic": "mountain"
+ },
+ {
+  "id": "easy-earth-126",
+  "prompt": "What is a low area of land between hills or mountains?",
+  "choices": [
+   "Peak",
+   "Dune",
+   "Valley",
+   "Island"
+  ],
+  "answer": "Valley",
+  "difficulty": "easy",
+  "topic": "valley"
+ },
+ {
+  "id": "easy-earth-127",
+  "prompt": "What is flat land with few hills called?",
+  "choices": [
+   "Mountain",
+   "Plain",
+   "Volcano",
+   "Peak"
+  ],
+  "answer": "Plain",
+  "difficulty": "easy",
+  "topic": "plain"
+ },
+ {
+  "id": "easy-earth-128",
+  "prompt": "What is land with water all around it called?",
+  "choices": [
+   "Island",
+   "Peninsula",
+   "Valley",
+   "Canyon"
+  ],
+  "answer": "Island",
+  "difficulty": "easy",
+  "topic": "island"
+ },
+ {
+  "id": "easy-earth-129",
+  "prompt": "What is land with water on three sides called?",
+  "choices": [
+   "Peninsula",
+   "Island",
+   "Lake",
+   "Delta"
+  ],
+  "answer": "Peninsula",
+  "difficulty": "easy",
+  "topic": "peninsula"
+ },
+ {
+  "id": "easy-earth-130",
+  "prompt": "What do we call the top of a mountain?",
+  "choices": [
+   "Valley",
+   "Base",
+   "Cave",
+   "Peak"
+  ],
+  "answer": "Peak",
+  "difficulty": "easy",
+  "topic": "peak"
+ },
+ {
+  "id": "easy-earth-131",
+  "prompt": "What is a big, deep hole under a mountain or hill that you can walk into?",
+  "choices": [
+   "Dune",
+   "Lake",
+   "Cave",
+   "Delta"
+  ],
+  "answer": "Cave",
+  "difficulty": "easy",
+  "topic": "cave"
+ },
+ {
+  "id": "easy-earth-132",
+  "prompt": "What do we call the icicle-shaped rock that hangs from a cave ceiling?",
+  "choices": [
+   "Stalagmite",
+   "Stalactite",
+   "Glacier",
+   "Geyser"
+  ],
+  "answer": "Stalactite",
+  "difficulty": "hard",
+  "topic": "stalactite"
+ },
+ {
+  "id": "easy-earth-133",
+  "prompt": "What do we call a hot spring that shoots water into the air?",
+  "choices": [
+   "Glacier",
+   "Geyser",
+   "Canyon",
+   "Dune"
+  ],
+  "answer": "Geyser",
+  "difficulty": "medium",
+  "topic": "geyser"
+ },
+ {
+  "id": "easy-earth-134",
+  "prompt": "Which famous geyser in Yellowstone erupts about every hour?",
+  "choices": [
+   "Old Faithful",
+   "Big Splash",
+   "Hot Tower",
+   "Steam Rock"
+  ],
+  "answer": "Old Faithful",
+  "difficulty": "hard",
+  "topic": "old-faithful"
+ },
+ {
+  "id": "easy-earth-135",
+  "prompt": "What is the crust?",
+  "choices": [
+   "Earth's center",
+   "A kind of cloud",
+   "A kind of ocean",
+   "Earth's outer layer"
+  ],
+  "answer": "Earth's outer layer",
+  "difficulty": "medium",
+  "topic": "crust-def"
+ },
+ {
+  "id": "easy-earth-136",
+  "prompt": "What is at the very center of Earth?",
+  "choices": [
+   "The crust",
+   "The sky",
+   "The core",
+   "The ocean"
+  ],
+  "answer": "The core",
+  "difficulty": "medium",
+  "topic": "earth-core"
+ },
+ {
+  "id": "easy-earth-137",
+  "prompt": "What is the layer of hot, soft rock between crust and core called?",
+  "choices": [
+   "Crust",
+   "Sky",
+   "Mantle",
+   "Shell"
+  ],
+  "answer": "Mantle",
+  "difficulty": "medium",
+  "topic": "mantle"
+ },
+ {
+  "id": "easy-earth-138",
+  "prompt": "How many main layers does Earth have inside?",
+  "choices": [
+   "2",
+   "3",
+   "7",
+   "10"
+  ],
+  "answer": "3",
+  "difficulty": "hard",
+  "topic": "earth-layers"
+ },
+ {
+  "id": "easy-earth-139",
+  "prompt": "What do we call the huge slabs of rock that make up Earth's crust?",
+  "choices": [
+   "Tectonic plates",
+   "Dinner plates",
+   "Ice plates",
+   "Sand plates"
+  ],
+  "answer": "Tectonic plates",
+  "difficulty": "hard",
+  "topic": "tectonic-plates"
+ },
+ {
+  "id": "easy-earth-140",
+  "prompt": "What do we call the shaking of the ground when plates move?",
+  "choices": [
+   "Tornado",
+   "Flood",
+   "Breeze",
+   "Earthquake"
+  ],
+  "answer": "Earthquake",
+  "difficulty": "easy",
+  "topic": "earthquake"
+ },
+ {
+  "id": "easy-earth-141",
+  "prompt": "What do we call a mountain that can erupt with lava?",
+  "choices": [
+   "Glacier",
+   "Canyon",
+   "Dune",
+   "Volcano"
+  ],
+  "answer": "Volcano",
+  "difficulty": "easy",
+  "topic": "volcano"
+ },
+ {
+  "id": "easy-earth-142",
+  "prompt": "What comes out of a volcano when it erupts?",
+  "choices": [
+   "Rain and snow",
+   "Sand and salt",
+   "Lava and ash",
+   "Milk and honey"
+  ],
+  "answer": "Lava and ash",
+  "difficulty": "easy",
+  "topic": "volcano-erupts"
+ },
+ {
+  "id": "easy-earth-143",
+  "prompt": "What is the opening at the top of a volcano called?",
+  "choices": [
+   "Peak",
+   "Crater",
+   "Valley",
+   "Delta"
+  ],
+  "answer": "Crater",
+  "difficulty": "medium",
+  "topic": "volcano-crater"
+ },
+ {
+  "id": "easy-earth-144",
+  "prompt": "What do we call a volcano that is no longer erupting?",
+  "choices": [
+   "Extinct",
+   "Rising",
+   "Frozen",
+   "Sleepy rock"
+  ],
+  "answer": "Extinct",
+  "difficulty": "hard",
+  "topic": "extinct-volcano"
+ },
+ {
+  "id": "easy-earth-145",
+  "prompt": "Which ocean is called the \"Ring of Fire\" because of its many volcanoes?",
+  "choices": [
+   "Pacific",
+   "Atlantic",
+   "Indian",
+   "Arctic"
+  ],
+  "answer": "Pacific",
+  "difficulty": "hard",
+  "topic": "ring-of-fire"
+ },
+ {
+  "id": "easy-earth-146",
+  "prompt": "Which U.S. state is made of volcanic islands in the Pacific?",
+  "choices": [
+   "Kansas",
+   "Ohio",
+   "Iowa",
+   "Hawaii"
+  ],
+  "answer": "Hawaii",
+  "difficulty": "medium",
+  "topic": "hawaii-volcanic"
+ },
+ {
+  "id": "easy-earth-147",
+  "prompt": "What do we call a scale that measures how strong an earthquake is?",
+  "choices": [
+   "Ruler scale",
+   "Candy scale",
+   "Richter scale",
+   "Wind scale"
+  ],
+  "answer": "Richter scale",
+  "difficulty": "medium",
+  "topic": "richter"
+ },
+ {
+  "id": "easy-earth-148",
+  "prompt": "What do scientists use to detect earthquakes?",
+  "choices": [
+   "Barometer",
+   "Seismograph",
+   "Telescope",
+   "Compass"
+  ],
+  "answer": "Seismograph",
+  "difficulty": "medium",
+  "topic": "seismograph"
+ },
+ {
+  "id": "easy-earth-149",
+  "prompt": "What is a very tall wave caused by an underwater quake called?",
+  "choices": [
+   "Ripple",
+   "Tsunami",
+   "Breeze",
+   "Puddle"
+  ],
+  "answer": "Tsunami",
+  "difficulty": "medium",
+  "topic": "tsunami"
+ },
+ {
+  "id": "easy-earth-150",
+  "prompt": "What is a shiny, colorful rock that people wear as jewelry called?",
+  "choices": [
+   "Gem",
+   "Pebble",
+   "Brick",
+   "Boulder"
+  ],
+  "answer": "Gem",
+  "difficulty": "easy",
+  "topic": "gem"
+ },
+ {
+  "id": "easy-earth-151",
+  "prompt": "What do we call a large piece of rock?",
+  "choices": [
+   "Pebble",
+   "Grain",
+   "Dust",
+   "Boulder"
+  ],
+  "answer": "Boulder",
+  "difficulty": "easy",
+  "topic": "boulder"
+ },
+ {
+  "id": "easy-earth-152",
+  "prompt": "What is the hardest natural material?",
+  "choices": [
+   "Gold",
+   "Wood",
+   "Diamond",
+   "Glass"
+  ],
+  "answer": "Diamond",
+  "difficulty": "easy",
+  "topic": "hardest-material"
+ },
+ {
+  "id": "easy-earth-153",
+  "prompt": "Which metal is shiny yellow and often used in jewelry?",
+  "choices": [
+   "Iron",
+   "Lead",
+   "Gold",
+   "Tin"
+  ],
+  "answer": "Gold",
+  "difficulty": "easy",
+  "topic": "gold"
+ },
+ {
+  "id": "easy-earth-154",
+  "prompt": "What do we call a tiny rock that is small enough to hold in your hand?",
+  "choices": [
+   "Mountain",
+   "Pebble",
+   "Boulder",
+   "Cliff"
+  ],
+  "answer": "Pebble",
+  "difficulty": "easy",
+  "topic": "pebble"
+ },
+ {
+  "id": "easy-earth-155",
+  "prompt": "What covers most of Earth's surface?",
+  "choices": [
+   "Water",
+   "Land",
+   "Ice",
+   "Sand"
+  ],
+  "answer": "Water",
+  "difficulty": "easy",
+  "topic": "earth-water-cover"
+ },
+ {
+  "id": "easy-earth-156",
+  "prompt": "About how much of Earth is covered by ocean?",
+  "choices": [
+   "Just a little",
+   "None",
+   "A tiny part",
+   "Over half"
+  ],
+  "answer": "Over half",
+  "difficulty": "medium",
+  "topic": "ocean-share"
+ },
+ {
+  "id": "easy-earth-157",
+  "prompt": "How many oceans are there?",
+  "choices": [
+   "3",
+   "7",
+   "9",
+   "5"
+  ],
+  "answer": "5",
+  "difficulty": "medium",
+  "topic": "ocean-count"
+ },
+ {
+  "id": "easy-earth-158",
+  "prompt": "Which is the biggest ocean?",
+  "choices": [
+   "Atlantic",
+   "Indian",
+   "Pacific",
+   "Arctic"
+  ],
+  "answer": "Pacific",
+  "difficulty": "easy",
+  "topic": "biggest-ocean"
+ },
+ {
+  "id": "easy-earth-159",
+  "prompt": "Which is the smallest ocean?",
+  "choices": [
+   "Pacific",
+   "Arctic",
+   "Atlantic",
+   "Indian"
+  ],
+  "answer": "Arctic",
+  "difficulty": "hard",
+  "topic": "smallest-ocean"
+ },
+ {
+  "id": "easy-earth-160",
+  "prompt": "Which ocean is between Africa and Australia?",
+  "choices": [
+   "Indian",
+   "Arctic",
+   "Atlantic",
+   "Pacific"
+  ],
+  "answer": "Indian",
+  "difficulty": "hard",
+  "topic": "indian-ocean"
+ },
+ {
+  "id": "easy-earth-161",
+  "prompt": "Which ocean lies between North America and Europe?",
+  "choices": [
+   "Atlantic",
+   "Pacific",
+   "Indian",
+   "Arctic"
+  ],
+  "answer": "Atlantic",
+  "difficulty": "medium",
+  "topic": "atlantic"
+ },
+ {
+  "id": "easy-earth-162",
+  "prompt": "Which ocean is around the North Pole?",
+  "choices": [
+   "Atlantic",
+   "Indian",
+   "Pacific",
+   "Arctic"
+  ],
+  "answer": "Arctic",
+  "difficulty": "medium",
+  "topic": "arctic-ocean"
+ },
+ {
+  "id": "easy-earth-163",
+  "prompt": "Is ocean water salty or sweet?",
+  "choices": [
+   "Sweet",
+   "Sour",
+   "Salty",
+   "Spicy"
+  ],
+  "answer": "Salty",
+  "difficulty": "easy",
+  "topic": "ocean-salty"
+ },
+ {
+  "id": "easy-earth-164",
+  "prompt": "What do we call the rising and falling of the sea each day?",
+  "choices": [
+   "Clouds",
+   "Tides",
+   "Seasons",
+   "Dunes"
+  ],
+  "answer": "Tides",
+  "difficulty": "medium",
+  "topic": "tides"
+ },
+ {
+  "id": "easy-earth-165",
+  "prompt": "What mostly pulls on the ocean to cause tides?",
+  "choices": [
+   "The Sun's color",
+   "The Moon",
+   "Wind only",
+   "Fish"
+  ],
+  "answer": "The Moon",
+  "difficulty": "hard",
+  "topic": "tides-moon"
+ },
+ {
+  "id": "easy-earth-166",
+  "prompt": "What do we call a long line of water that rolls onto the beach?",
+  "choices": [
+   "Wave",
+   "Dune",
+   "Peak",
+   "Cave"
+  ],
+  "answer": "Wave",
+  "difficulty": "easy",
+  "topic": "wave"
+ },
+ {
+  "id": "easy-earth-167",
+  "prompt": "What do we call water that flows in a stream across land to the sea?",
+  "choices": [
+   "Dune",
+   "Peak",
+   "Cave",
+   "River"
+  ],
+  "answer": "River",
+  "difficulty": "easy",
+  "topic": "river"
+ },
+ {
+  "id": "easy-earth-168",
+  "prompt": "Where does a river end up?",
+  "choices": [
+   "On a mountain",
+   "In a cloud",
+   "In a sea or ocean",
+   "In a cave"
+  ],
+  "answer": "In a sea or ocean",
+  "difficulty": "easy",
+  "topic": "river-end"
+ },
+ {
+  "id": "easy-earth-169",
+  "prompt": "What is the place where a river begins called?",
+  "choices": [
+   "Mouth",
+   "Delta",
+   "Source",
+   "Bay"
+  ],
+  "answer": "Source",
+  "difficulty": "hard",
+  "topic": "river-source"
+ },
+ {
+  "id": "easy-earth-170",
+  "prompt": "What is the place where a river meets the sea called?",
+  "choices": [
+   "Source",
+   "Mouth",
+   "Peak",
+   "Cliff"
+  ],
+  "answer": "Mouth",
+  "difficulty": "hard",
+  "topic": "river-mouth"
+ },
+ {
+  "id": "easy-earth-171",
+  "prompt": "What is a big body of fresh water with land all around it?",
+  "choices": [
+   "Lake",
+   "Ocean",
+   "Gulf",
+   "Strait"
+  ],
+  "answer": "Lake",
+  "difficulty": "medium",
+  "topic": "lake"
+ },
+ {
+  "id": "easy-earth-172",
+  "prompt": "What do we call water that is good to drink, like in a stream?",
+  "choices": [
+   "Salt water",
+   "Sea water",
+   "Mud water",
+   "Fresh water"
+  ],
+  "answer": "Fresh water",
+  "difficulty": "medium",
+  "topic": "fresh-water"
+ },
+ {
+  "id": "easy-earth-173",
+  "prompt": "Most of Earth's fresh water is frozen in what?",
+  "choices": [
+   "Puddles",
+   "Clouds",
+   "Rain barrels",
+   "Ice caps and glaciers"
+  ],
+  "answer": "Ice caps and glaciers",
+  "difficulty": "hard",
+  "topic": "fresh-frozen"
+ },
+ {
+  "id": "easy-earth-174",
+  "prompt": "What is a long, thin body of water linking two bigger ones?",
+  "choices": [
+   "Dune",
+   "Peak",
+   "Strait",
+   "Delta"
+  ],
+  "answer": "Strait",
+  "difficulty": "hard",
+  "topic": "strait"
+ },
+ {
+  "id": "easy-earth-175",
+  "prompt": "What do we call a place where sea water curves into the land?",
+  "choices": [
+   "Peak",
+   "Bay",
+   "Mesa",
+   "Dune"
+  ],
+  "answer": "Bay",
+  "difficulty": "medium",
+  "topic": "bay"
+ },
+ {
+  "id": "easy-earth-176",
+  "prompt": "What do we call the edge of land next to the sea?",
+  "choices": [
+   "Coast",
+   "Peak",
+   "Desert",
+   "Valley"
+  ],
+  "answer": "Coast",
+  "difficulty": "easy",
+  "topic": "coast"
+ },
+ {
+  "id": "easy-earth-177",
+  "prompt": "What do coral reefs get built by?",
+  "choices": [
+   "Tiny sea animals",
+   "Giant sharks",
+   "Wind",
+   "Waves of sand"
+  ],
+  "answer": "Tiny sea animals",
+  "difficulty": "medium",
+  "topic": "coral-built"
+ },
+ {
+  "id": "easy-earth-178",
+  "prompt": "What is the biggest coral reef in the world?",
+  "choices": [
+   "Big Blue Reef",
+   "Grand Coral Wall",
+   "Sea Star Reef",
+   "Great Barrier Reef"
+  ],
+  "answer": "Great Barrier Reef",
+  "difficulty": "medium",
+  "topic": "great-barrier"
+ },
+ {
+  "id": "easy-earth-179",
+  "prompt": "Near which country is the Great Barrier Reef?",
+  "choices": [
+   "Canada",
+   "Brazil",
+   "Australia",
+   "India"
+  ],
+  "answer": "Australia",
+  "difficulty": "medium",
+  "topic": "barrier-country"
+ },
+ {
+  "id": "easy-earth-180",
+  "prompt": "What is the deepest part of the ocean called?",
+  "choices": [
+   "Peak",
+   "Trench",
+   "Plain",
+   "Dune"
+  ],
+  "answer": "Trench",
+  "difficulty": "hard",
+  "topic": "ocean-trench"
+ },
+ {
+  "id": "easy-earth-181",
+  "prompt": "Which sea creature is the biggest animal on Earth?",
+  "choices": [
+   "Great white shark",
+   "Blue whale",
+   "Giant squid",
+   "Orca"
+  ],
+  "answer": "Blue whale",
+  "difficulty": "medium",
+  "topic": "blue-whale"
+ },
+ {
+  "id": "easy-earth-182",
+  "prompt": "Which sea creature has eight arms?",
+  "choices": [
+   "Octopus",
+   "Dolphin",
+   "Shark",
+   "Crab"
+  ],
+  "answer": "Octopus",
+  "difficulty": "easy",
+  "topic": "octopus"
+ },
+ {
+  "id": "easy-earth-183",
+  "prompt": "What do we call water moving in a big loop in the ocean?",
+  "choices": [
+   "Rainbow",
+   "Breeze",
+   "Puddle",
+   "Current"
+  ],
+  "answer": "Current",
+  "difficulty": "medium",
+  "topic": "ocean-current"
+ },
+ {
+  "id": "easy-earth-184",
+  "prompt": "What do we call a thing that helps ships find their way, with a needle?",
+  "choices": [
+   "Ruler",
+   "Clock",
+   "Compass",
+   "Whistle"
+  ],
+  "answer": "Compass",
+  "difficulty": "easy",
+  "topic": "compass"
+ },
+ {
+  "id": "easy-earth-185",
+  "prompt": "How many main directions are on a compass?",
+  "choices": [
+   "2",
+   "6",
+   "4",
+   "8"
+  ],
+  "answer": "4",
+  "difficulty": "easy",
+  "topic": "compass-directions"
+ },
+ {
+  "id": "easy-earth-186",
+  "prompt": "Which direction is opposite north?",
+  "choices": [
+   "East",
+   "South",
+   "West",
+   "Up"
+  ],
+  "answer": "South",
+  "difficulty": "easy",
+  "topic": "opposite-north"
+ },
+ {
+  "id": "easy-earth-187",
+  "prompt": "Which direction is opposite east?",
+  "choices": [
+   "West",
+   "North",
+   "South",
+   "Down"
+  ],
+  "answer": "West",
+  "difficulty": "easy",
+  "topic": "opposite-east"
+ },
+ {
+  "id": "easy-earth-188",
+  "prompt": "What do we call a drawing of a place from above?",
+  "choices": [
+   "Poem",
+   "Song",
+   "Puzzle",
+   "Map"
+  ],
+  "answer": "Map",
+  "difficulty": "easy",
+  "topic": "map-def"
+ },
+ {
+  "id": "easy-earth-189",
+  "prompt": "What part of a map explains what the symbols mean?",
+  "choices": [
+   "Title",
+   "Border",
+   "Page",
+   "Legend"
+  ],
+  "answer": "Legend",
+  "difficulty": "medium",
+  "topic": "map-legend"
+ },
+ {
+  "id": "easy-earth-190",
+  "prompt": "What do we call a round model of Earth?",
+  "choices": [
+   "Compass",
+   "Telescope",
+   "Globe",
+   "Ruler"
+  ],
+  "answer": "Globe",
+  "difficulty": "easy",
+  "topic": "globe"
+ },
+ {
+  "id": "easy-earth-191",
+  "prompt": "How many continents are there?",
+  "choices": [
+   "5",
+   "7",
+   "9",
+   "10"
+  ],
+  "answer": "7",
+  "difficulty": "easy",
+  "topic": "continent-count"
+ },
+ {
+  "id": "easy-earth-192",
+  "prompt": "Which is the biggest continent?",
+  "choices": [
+   "Asia",
+   "Africa",
+   "Europe",
+   "Australia"
+  ],
+  "answer": "Asia",
+  "difficulty": "easy",
+  "topic": "biggest-continent"
+ },
+ {
+  "id": "easy-earth-193",
+  "prompt": "Which is the smallest continent?",
+  "choices": [
+   "Australia",
+   "Europe",
+   "Antarctica",
+   "Africa"
+  ],
+  "answer": "Australia",
+  "difficulty": "medium",
+  "topic": "smallest-continent"
+ },
+ {
+  "id": "easy-earth-194",
+  "prompt": "Which continent is the coldest and covered with ice?",
+  "choices": [
+   "Asia",
+   "Africa",
+   "Australia",
+   "Antarctica"
+  ],
+  "answer": "Antarctica",
+  "difficulty": "easy",
+  "topic": "antarctica-cold"
+ },
+ {
+  "id": "easy-earth-195",
+  "prompt": "On which continent is the Sahara Desert?",
+  "choices": [
+   "Asia",
+   "Europe",
+   "Africa",
+   "South America"
+  ],
+  "answer": "Africa",
+  "difficulty": "medium",
+  "topic": "sahara-continent"
+ },
+ {
+  "id": "easy-earth-196",
+  "prompt": "On which continent is Egypt?",
+  "choices": [
+   "Asia",
+   "Africa",
+   "Europe",
+   "South America"
+  ],
+  "answer": "Africa",
+  "difficulty": "medium",
+  "topic": "egypt-continent"
+ },
+ {
+  "id": "easy-earth-197",
+  "prompt": "On which continent do we find the country of Brazil?",
+  "choices": [
+   "Africa",
+   "South America",
+   "Europe",
+   "Asia"
+  ],
+  "answer": "South America",
+  "difficulty": "medium",
+  "topic": "brazil-continent"
+ },
+ {
+  "id": "easy-earth-198",
+  "prompt": "On which continent do we find the country of France?",
+  "choices": [
+   "Europe",
+   "Asia",
+   "Africa",
+   "Australia"
+  ],
+  "answer": "Europe",
+  "difficulty": "easy",
+  "topic": "france-continent"
+ },
+ {
+  "id": "easy-earth-199",
+  "prompt": "On which continent do we find the country of Japan?",
+  "choices": [
+   "Europe",
+   "Africa",
+   "North America",
+   "Asia"
+  ],
+  "answer": "Asia",
+  "difficulty": "easy",
+  "topic": "japan-continent"
+ },
+ {
+  "id": "easy-earth-200",
+  "prompt": "On which continent do we find the country of Canada?",
+  "choices": [
+   "Europe",
+   "Asia",
+   "North America",
+   "Africa"
+  ],
+  "answer": "North America",
+  "difficulty": "easy",
+  "topic": "canada-continent"
+ },
+ {
+  "id": "easy-earth-201",
+  "prompt": "On which continent do we find the country of India?",
+  "choices": [
+   "Africa",
+   "Europe",
+   "Asia",
+   "Australia"
+  ],
+  "answer": "Asia",
+  "difficulty": "easy",
+  "topic": "india-continent"
+ },
+ {
+  "id": "easy-earth-202",
+  "prompt": "On which continent do kangaroos live wild?",
+  "choices": [
+   "Africa",
+   "Australia",
+   "Asia",
+   "Europe"
+  ],
+  "answer": "Australia",
+  "difficulty": "easy",
+  "topic": "kangaroo-continent"
+ },
+ {
+  "id": "easy-earth-203",
+  "prompt": "On which continent do penguins live in the wild near the South Pole?",
+  "choices": [
+   "Antarctica",
+   "Europe",
+   "Asia",
+   "Africa"
+  ],
+  "answer": "Antarctica",
+  "difficulty": "easy",
+  "topic": "penguin-continent"
+ },
+ {
+  "id": "easy-earth-204",
+  "prompt": "On which continent do wild lions mostly live?",
+  "choices": [
+   "Europe",
+   "Antarctica",
+   "South America",
+   "Africa"
+  ],
+  "answer": "Africa",
+  "difficulty": "easy",
+  "topic": "lions-africa"
+ },
+ {
+  "id": "easy-earth-205",
+  "prompt": "Which continent is home to the Amazon Rainforest?",
+  "choices": [
+   "Africa",
+   "Europe",
+   "Asia",
+   "South America"
+  ],
+  "answer": "South America",
+  "difficulty": "medium",
+  "topic": "amazon-continent"
+ },
+ {
+  "id": "easy-earth-206",
+  "prompt": "Which is the biggest country in the world by area?",
+  "choices": [
+   "Canada",
+   "China",
+   "Russia",
+   "Brazil"
+  ],
+  "answer": "Russia",
+  "difficulty": "hard",
+  "topic": "biggest-country"
+ },
+ {
+  "id": "easy-earth-207",
+  "prompt": "In which country is the Eiffel Tower?",
+  "choices": [
+   "Italy",
+   "France",
+   "Spain",
+   "Germany"
+  ],
+  "answer": "France",
+  "difficulty": "easy",
+  "topic": "eiffel"
+ },
+ {
+  "id": "easy-earth-208",
+  "prompt": "In which country are the Pyramids of Giza?",
+  "choices": [
+   "Egypt",
+   "Mexico",
+   "India",
+   "Peru"
+  ],
+  "answer": "Egypt",
+  "difficulty": "easy",
+  "topic": "pyramids-giza"
+ },
+ {
+  "id": "easy-earth-209",
+  "prompt": "In which country is the Great Wall?",
+  "choices": [
+   "China",
+   "India",
+   "Japan",
+   "Italy"
+  ],
+  "answer": "China",
+  "difficulty": "easy",
+  "topic": "great-wall"
+ },
+ {
+  "id": "easy-earth-210",
+  "prompt": "What is the capital of the United States?",
+  "choices": [
+   "New York",
+   "Los Angeles",
+   "Chicago",
+   "Washington, D.C."
+  ],
+  "answer": "Washington, D.C.",
+  "difficulty": "easy",
+  "topic": "us-capital"
+ },
+ {
+  "id": "easy-earth-211",
+  "prompt": "What is the capital of France?",
+  "choices": [
+   "Rome",
+   "London",
+   "Paris",
+   "Madrid"
+  ],
+  "answer": "Paris",
+  "difficulty": "easy",
+  "topic": "france-capital"
+ },
+ {
+  "id": "easy-earth-212",
+  "prompt": "What is the capital of England?",
+  "choices": [
+   "Paris",
+   "London",
+   "Dublin",
+   "Rome"
+  ],
+  "answer": "London",
+  "difficulty": "easy",
+  "topic": "england-capital"
+ },
+ {
+  "id": "easy-earth-213",
+  "prompt": "What is the capital of Japan?",
+  "choices": [
+   "Beijing",
+   "Tokyo",
+   "Seoul",
+   "Osaka"
+  ],
+  "answer": "Tokyo",
+  "difficulty": "medium",
+  "topic": "japan-capital"
+ },
+ {
+  "id": "easy-earth-214",
+  "prompt": "What is the capital of Italy?",
+  "choices": [
+   "Rome",
+   "Paris",
+   "Madrid",
+   "Athens"
+  ],
+  "answer": "Rome",
+  "difficulty": "easy",
+  "topic": "italy-capital"
+ },
+ {
+  "id": "easy-earth-215",
+  "prompt": "What is the capital of Canada?",
+  "choices": [
+   "Toronto",
+   "Vancouver",
+   "Montreal",
+   "Ottawa"
+  ],
+  "answer": "Ottawa",
+  "difficulty": "easy",
+  "topic": "canada-capital"
+ },
+ {
+  "id": "easy-earth-216",
+  "prompt": "What is the capital of Australia?",
+  "choices": [
+   "Sydney",
+   "Melbourne",
+   "Canberra",
+   "Perth"
+  ],
+  "answer": "Canberra",
+  "difficulty": "hard",
+  "topic": "australia-capital"
+ },
+ {
+  "id": "easy-earth-217",
+  "prompt": "What is the capital of Egypt?",
+  "choices": [
+   "Rome",
+   "Lima",
+   "Cairo",
+   "Paris"
+  ],
+  "answer": "Cairo",
+  "difficulty": "medium",
+  "topic": "egypt-capital"
+ },
+ {
+  "id": "easy-earth-218",
+  "prompt": "What imaginary line runs around the middle of Earth?",
+  "choices": [
+   "Meridian",
+   "Equator",
+   "Border",
+   "Coast"
+  ],
+  "answer": "Equator",
+  "difficulty": "easy",
+  "topic": "equator"
+ },
+ {
+  "id": "easy-earth-219",
+  "prompt": "Places near the equator are usually what?",
+  "choices": [
+   "Hot",
+   "Freezing",
+   "Snowy",
+   "Icy"
+  ],
+  "answer": "Hot",
+  "difficulty": "easy",
+  "topic": "equator-hot"
+ },
+ {
+  "id": "easy-earth-220",
+  "prompt": "What is the top point of Earth called?",
+  "choices": [
+   "South Pole",
+   "Equator",
+   "Tropics",
+   "North Pole"
+  ],
+  "answer": "North Pole",
+  "difficulty": "easy",
+  "topic": "north-pole"
+ },
+ {
+  "id": "easy-earth-221",
+  "prompt": "What is the bottom point of Earth called?",
+  "choices": [
+   "North Pole",
+   "Equator",
+   "Prime point",
+   "South Pole"
+  ],
+  "answer": "South Pole",
+  "difficulty": "easy",
+  "topic": "south-pole"
+ },
+ {
+  "id": "easy-earth-222",
+  "prompt": "How many halves, called hemispheres, does the equator split Earth into?",
+  "choices": [
+   "3",
+   "4",
+   "2",
+   "5"
+  ],
+  "answer": "2",
+  "difficulty": "medium",
+  "topic": "hemispheres"
+ },
+ {
+  "id": "easy-earth-223",
+  "prompt": "Which is the tallest mountain above sea level?",
+  "choices": [
+   "Mount Fuji",
+   "Mount Everest",
+   "Mount Rainier",
+   "Pikes Peak"
+  ],
+  "answer": "Mount Everest",
+  "difficulty": "medium",
+  "topic": "everest"
+ },
+ {
+  "id": "easy-earth-224",
+  "prompt": "Everest is part of which mountain range?",
+  "choices": [
+   "Himalayas",
+   "Alps",
+   "Rockies",
+   "Andes"
+  ],
+  "answer": "Himalayas",
+  "difficulty": "hard",
+  "topic": "himalayas"
+ },
+ {
+  "id": "easy-earth-225",
+  "prompt": "Which mountain range runs through the western United States and Canada?",
+  "choices": [
+   "Rocky Mountains",
+   "Alps",
+   "Andes",
+   "Himalayas"
+  ],
+  "answer": "Rocky Mountains",
+  "difficulty": "hard",
+  "topic": "rockies"
+ },
+ {
+  "id": "easy-earth-226",
+  "prompt": "Which mountains are found in Switzerland and nearby countries?",
+  "choices": [
+   "Andes",
+   "Rockies",
+   "Himalayas",
+   "Alps"
+  ],
+  "answer": "Alps",
+  "difficulty": "medium",
+  "topic": "alps"
+ },
+ {
+  "id": "easy-earth-227",
+  "prompt": "Which long mountain range is in South America?",
+  "choices": [
+   "Alps",
+   "Rockies",
+   "Andes",
+   "Himalayas"
+  ],
+  "answer": "Andes",
+  "difficulty": "medium",
+  "topic": "andes"
+ },
+ {
+  "id": "easy-earth-228",
+  "prompt": "What is the largest hot desert in the world?",
+  "choices": [
+   "Gobi",
+   "Sahara",
+   "Mojave",
+   "Sonoran"
+  ],
+  "answer": "Sahara",
+  "difficulty": "medium",
+  "topic": "sahara"
+ },
+ {
+  "id": "easy-earth-229",
+  "prompt": "Which river flows through Egypt?",
+  "choices": [
+   "Amazon",
+   "Nile",
+   "Thames",
+   "Seine"
+  ],
+  "answer": "Nile",
+  "difficulty": "medium",
+  "topic": "nile-egypt"
+ },
+ {
+  "id": "easy-earth-230",
+  "prompt": "Which river flows through Paris?",
+  "choices": [
+   "Seine",
+   "Thames",
+   "Nile",
+   "Danube"
+  ],
+  "answer": "Seine",
+  "difficulty": "hard",
+  "topic": "seine"
+ },
+ {
+  "id": "easy-earth-231",
+  "prompt": "Which river is in London?",
+  "choices": [
+   "Seine",
+   "Nile",
+   "Hudson",
+   "Thames"
+  ],
+  "answer": "Thames",
+  "difficulty": "hard",
+  "topic": "thames"
+ },
+ {
+  "id": "easy-earth-232",
+  "prompt": "Which big river flows through the Amazon Rainforest?",
+  "choices": [
+   "Nile River",
+   "Hudson River",
+   "Amazon River",
+   "Thames"
+  ],
+  "answer": "Amazon River",
+  "difficulty": "medium",
+  "topic": "amazon-river"
+ },
+ {
+  "id": "easy-earth-233",
+  "prompt": "Which great waterfall is on the border of the U.S. and Canada?",
+  "choices": [
+   "Angel Falls",
+   "Old Falls",
+   "Niagara Falls",
+   "Moon Falls"
+  ],
+  "answer": "Niagara Falls",
+  "difficulty": "medium",
+  "topic": "niagara"
+ },
+ {
+  "id": "easy-earth-234",
+  "prompt": "What do we call water falling over a cliff?",
+  "choices": [
+   "Geyser",
+   "Waterfall",
+   "Glacier",
+   "Dune"
+  ],
+  "answer": "Waterfall",
+  "difficulty": "easy",
+  "topic": "waterfall"
+ },
+ {
+  "id": "easy-earth-235",
+  "prompt": "Which ocean is on the west coast of the United States?",
+  "choices": [
+   "Pacific",
+   "Atlantic",
+   "Arctic",
+   "Indian"
+  ],
+  "answer": "Pacific",
+  "difficulty": "easy",
+  "topic": "us-west-ocean"
+ },
+ {
+  "id": "easy-earth-236",
+  "prompt": "Which ocean is on the east coast of the United States?",
+  "choices": [
+   "Pacific",
+   "Arctic",
+   "Indian",
+   "Atlantic"
+  ],
+  "answer": "Atlantic",
+  "difficulty": "easy",
+  "topic": "us-east-ocean"
+ },
+ {
+  "id": "easy-earth-237",
+  "prompt": "In which direction is the North Pole from the equator?",
+  "choices": [
+   "South",
+   "East",
+   "West",
+   "North"
+  ],
+  "answer": "North",
+  "difficulty": "easy",
+  "topic": "north-from-equator"
+ },
+ {
+  "id": "easy-earth-238",
+  "prompt": "What does a compass needle point toward?",
+  "choices": [
+   "Up",
+   "The Sun",
+   "North",
+   "The Moon"
+  ],
+  "answer": "North",
+  "difficulty": "easy",
+  "topic": "compass-needle"
+ },
+ {
+  "id": "easy-earth-239",
+  "prompt": "What colors usually show water on a map?",
+  "choices": [
+   "Red",
+   "Blue",
+   "Brown",
+   "Yellow"
+  ],
+  "answer": "Blue",
+  "difficulty": "easy",
+  "topic": "map-water-blue"
+ },
+ {
+  "id": "easy-earth-240",
+  "prompt": "What colors are often used for mountains on a map?",
+  "choices": [
+   "Brown",
+   "Blue",
+   "Pink",
+   "White"
+  ],
+  "answer": "Brown",
+  "difficulty": "medium",
+  "topic": "map-mountains-brown"
+ },
+ {
+  "id": "easy-earth-241",
+  "prompt": "What is the name of the ruler-like part of a map that shows distance?",
+  "choices": [
+   "Scale",
+   "Title",
+   "Legend",
+   "Frame"
+  ],
+  "answer": "Scale",
+  "difficulty": "medium",
+  "topic": "map-scale"
+ },
+ {
+  "id": "easy-earth-242",
+  "prompt": "What do we call the small N, E, S, W picture on a map?",
+  "choices": [
+   "Map legend",
+   "Globe stand",
+   "Time clock",
+   "Compass rose"
+  ],
+  "answer": "Compass rose",
+  "difficulty": "medium",
+  "topic": "compass-rose"
+ },
+ {
+  "id": "easy-earth-243",
+  "prompt": "What do we call a giant river of ice that moves slowly?",
+  "choices": [
+   "Waterfall",
+   "Geyser",
+   "Glacier",
+   "Canyon"
+  ],
+  "answer": "Glacier",
+  "difficulty": "medium",
+  "topic": "glacier-def"
+ },
+ {
+  "id": "easy-earth-244",
+  "prompt": "How many days are in a year, usually?",
+  "choices": [
+   "100",
+   "365",
+   "300",
+   "500"
+  ],
+  "answer": "365",
+  "difficulty": "easy",
+  "topic": "days-in-year"
+ },
+ {
+  "id": "easy-earth-245",
+  "prompt": "How many hours are in a day?",
+  "choices": [
+   "12",
+   "24",
+   "10",
+   "60"
+  ],
+  "answer": "24",
+  "difficulty": "easy",
+  "topic": "hours-in-day"
+ },
+ {
+  "id": "easy-earth-246",
+  "prompt": "What do we call a year with an extra day in February?",
+  "choices": [
+   "Leap year",
+   "Jump year",
+   "Long year",
+   "Tall year"
+  ],
+  "answer": "Leap year",
+  "difficulty": "medium",
+  "topic": "leap-year"
+ },
+ {
+  "id": "easy-earth-247",
+  "prompt": "Which planet is known as the Morning Star because it shines brightly?",
+  "choices": [
+   "Jupiter",
+   "Pluto",
+   "Neptune",
+   "Venus"
+  ],
+  "answer": "Venus",
+  "difficulty": "hard",
+  "topic": "morning-star"
+ },
+ {
+  "id": "easy-earth-248",
+  "prompt": "Which of these is a dwarf planet?",
+  "choices": [
+   "Mars",
+   "Venus",
+   "Pluto",
+   "Saturn"
+  ],
+  "answer": "Pluto",
+  "difficulty": "medium",
+  "topic": "pluto"
+ },
+ {
+  "id": "easy-earth-249",
+  "prompt": "What is the name of the star at the center of our solar system?",
+  "choices": [
+   "Polaris",
+   "Sirius",
+   "Sun",
+   "Vega"
+  ],
+  "answer": "Sun",
+  "difficulty": "easy",
+  "topic": "sun-name"
+ },
+ {
+  "id": "easy-earth-250",
+  "prompt": "What is the Big Dipper part of?",
+  "choices": [
+   "A planet",
+   "A constellation",
+   "A moon",
+   "A comet"
+  ],
+  "answer": "A constellation",
+  "difficulty": "hard",
+  "topic": "big-dipper"
+ },
+ {
+  "id": "easy-earth-251",
+  "prompt": "Which star helps people find north?",
+  "choices": [
+   "North Star",
+   "Moon Star",
+   "Red Star",
+   "Blue Moon"
+  ],
+  "answer": "North Star",
+  "difficulty": "medium",
+  "topic": "north-star"
+ },
+ {
+  "id": "easy-earth-252",
+  "prompt": "What is Earth's moon made of mostly?",
+  "choices": [
+   "Cheese",
+   "Ice cream",
+   "Water",
+   "Rock"
+  ],
+  "answer": "Rock",
+  "difficulty": "easy",
+  "topic": "moon-rock"
+ },
+ {
+  "id": "easy-earth-253",
+  "prompt": "What are the dark patches we see on the Moon?",
+  "choices": [
+   "Lakes",
+   "Forests",
+   "Clouds",
+   "Flat plains of old lava"
+  ],
+  "answer": "Flat plains of old lava",
+  "difficulty": "hard",
+  "topic": "moon-maria"
+ },
+ {
+  "id": "easy-earth-254",
+  "prompt": "Does the Moon have air to breathe?",
+  "choices": [
+   "Yes",
+   "Only at night",
+   "No",
+   "Only in summer"
+  ],
+  "answer": "No",
+  "difficulty": "medium",
+  "topic": "moon-air"
+ },
+ {
+  "id": "easy-earth-255",
+  "prompt": "Is there wind on the Moon?",
+  "choices": [
+   "Yes",
+   "No",
+   "Only at noon",
+   "Only in winter"
+  ],
+  "answer": "No",
+  "difficulty": "hard",
+  "topic": "moon-wind"
+ },
+ {
+  "id": "easy-earth-256",
+  "prompt": "Is the Sun bigger or smaller than Earth?",
+  "choices": [
+   "Bigger",
+   "Smaller",
+   "The same",
+   "It changes"
+  ],
+  "answer": "Bigger",
+  "difficulty": "easy",
+  "topic": "sun-size"
+ },
+ {
+  "id": "easy-earth-257",
+  "prompt": "What do we call the hottest part of a day, when the Sun is highest?",
+  "choices": [
+   "Noon",
+   "Dawn",
+   "Dusk",
+   "Midnight"
+  ],
+  "answer": "Noon",
+  "difficulty": "easy",
+  "topic": "noon"
+ },
+ {
+  "id": "easy-earth-258",
+  "prompt": "What do we call the time when the Sun comes up?",
+  "choices": [
+   "Sunset",
+   "Dusk",
+   "Midnight",
+   "Sunrise"
+  ],
+  "answer": "Sunrise",
+  "difficulty": "easy",
+  "topic": "sunrise"
+ },
+ {
+  "id": "easy-earth-259",
+  "prompt": "What is the name of the rocket-powered trip into space called?",
+  "choices": [
+   "Picnic",
+   "Parade",
+   "Launch",
+   "Hike"
+  ],
+  "answer": "Launch",
+  "difficulty": "easy",
+  "topic": "launch"
+ },
+ {
+  "id": "easy-earth-260",
+  "prompt": "What do we call a machine that goes around a planet to take pictures?",
+  "choices": [
+   "Kite",
+   "Satellite",
+   "Sailboat",
+   "Balloon"
+  ],
+  "answer": "Satellite",
+  "difficulty": "medium",
+  "topic": "satellite"
+ },
+ {
+  "id": "easy-earth-261",
+  "prompt": "What is the name of a space vehicle that has rolled on Mars to explore?",
+  "choices": [
+   "Tractor",
+   "Rover",
+   "Bus",
+   "Skateboard"
+  ],
+  "answer": "Rover",
+  "difficulty": "medium",
+  "topic": "mars-rover"
+ },
+ {
+  "id": "easy-earth-262",
+  "prompt": "Why is Mars called the Red Planet?",
+  "choices": [
+   "Its dust is rusty red",
+   "It is on fire",
+   "It is covered in lava",
+   "It is painted"
+  ],
+  "answer": "Its dust is rusty red",
+  "difficulty": "medium",
+  "topic": "mars-red-why"
+ },
+ {
+  "id": "easy-earth-263",
+  "prompt": "Why do we see our shadow on a sunny day?",
+  "choices": [
+   "The Moon is near",
+   "The wind pushes it",
+   "Clouds make it",
+   "Our body blocks the light"
+  ],
+  "answer": "Our body blocks the light",
+  "difficulty": "medium",
+  "topic": "shadow"
+ },
+ {
+  "id": "easy-earth-264",
+  "prompt": "When is your shadow longest?",
+  "choices": [
+   "At noon",
+   "Never changes",
+   "Morning or evening",
+   "At midnight"
+  ],
+  "answer": "Morning or evening",
+  "difficulty": "hard",
+  "topic": "long-shadow"
+ },
+ {
+  "id": "easy-earth-265",
+  "prompt": "Which tool helps you find direction, with a floating needle?",
+  "choices": [
+   "Ruler",
+   "Thermometer",
+   "Compass",
+   "Telescope"
+  ],
+  "answer": "Compass",
+  "difficulty": "easy",
+  "topic": "compass-tool"
+ },
+ {
+  "id": "easy-earth-266",
+  "prompt": "What do we call fuel made from ancient plants and animals, like oil?",
+  "choices": [
+   "Wind fuel",
+   "Fossil fuel",
+   "Sun fuel",
+   "Water fuel"
+  ],
+  "answer": "Fossil fuel",
+  "difficulty": "easy",
+  "topic": "fossil-fuel"
+ },
+ {
+  "id": "easy-earth-267",
+  "prompt": "Which energy comes from the wind?",
+  "choices": [
+   "Wind power",
+   "Coal power",
+   "Oil power",
+   "Gas power"
+  ],
+  "answer": "Wind power",
+  "difficulty": "easy",
+  "topic": "wind-power"
+ },
+ {
+  "id": "easy-earth-268",
+  "prompt": "Which energy comes from the Sun?",
+  "choices": [
+   "Coal power",
+   "Oil power",
+   "Wind power",
+   "Solar power"
+  ],
+  "answer": "Solar power",
+  "difficulty": "easy",
+  "topic": "solar-power"
+ },
+ {
+  "id": "easy-earth-269",
+  "prompt": "Which energy source can never run out, like sunshine?",
+  "choices": [
+   "Burnable",
+   "Digging",
+   "Frozen",
+   "Renewable"
+  ],
+  "answer": "Renewable",
+  "difficulty": "medium",
+  "topic": "renewable"
+ },
+ {
+  "id": "easy-earth-270",
+  "prompt": "What do we call making new things from old, like cans and paper?",
+  "choices": [
+   "Wasting",
+   "Burying",
+   "Recycling",
+   "Melting ice"
+  ],
+  "answer": "Recycling",
+  "difficulty": "easy",
+  "topic": "recycling"
+ },
+ {
+  "id": "easy-earth-271",
+  "prompt": "What do we call a place where garbage is buried?",
+  "choices": [
+   "Reef",
+   "Landfill",
+   "Glacier",
+   "Canyon"
+  ],
+  "answer": "Landfill",
+  "difficulty": "medium",
+  "topic": "landfill"
+ },
+ {
+  "id": "easy-earth-272",
+  "prompt": "What do we call a living thing and the place it lives, working together?",
+  "choices": [
+   "Ecosystem",
+   "Skyscraper",
+   "Stadium",
+   "Museum"
+  ],
+  "answer": "Ecosystem",
+  "difficulty": "hard",
+  "topic": "ecosystem"
+ },
+ {
+  "id": "easy-earth-273",
+  "prompt": "What green stuff in leaves uses sunlight to make food?",
+  "choices": [
+   "Chlorophyll",
+   "Marble",
+   "Plastic",
+   "Salt"
+  ],
+  "answer": "Chlorophyll",
+  "difficulty": "easy",
+  "topic": "trees-air"
+ },
+ {
+  "id": "easy-earth-274",
+  "prompt": "Where do most plants get energy from?",
+  "choices": [
+   "Moonlight",
+   "Wind",
+   "Sand",
+   "Sunlight"
+  ],
+  "answer": "Sunlight",
+  "difficulty": "easy",
+  "topic": "plant-energy"
+ },
+ {
+  "id": "easy-earth-275",
+  "prompt": "What do plants need from soil to grow?",
+  "choices": [
+   "Candy",
+   "Salt only",
+   "Water and nutrients",
+   "Ice"
+  ],
+  "answer": "Water and nutrients",
+  "difficulty": "easy",
+  "topic": "plant-soil"
+ },
+ {
+  "id": "easy-earth-276",
+  "prompt": "What do we call a very large area of grass and few trees?",
+  "choices": [
+   "Rainforest",
+   "Grassland",
+   "Glacier",
+   "Reef"
+  ],
+  "answer": "Grassland",
+  "difficulty": "medium",
+  "topic": "grassland"
+ },
+ {
+  "id": "easy-earth-277",
+  "prompt": "What do we call a frozen, treeless land in cold places?",
+  "choices": [
+   "Jungle",
+   "Tundra",
+   "Reef",
+   "Delta"
+  ],
+  "answer": "Tundra",
+  "difficulty": "easy",
+  "topic": "tundra"
+ },
+ {
+  "id": "easy-earth-278",
+  "prompt": "What do we call land that is wet and full of water plants?",
+  "choices": [
+   "Wetland",
+   "Desert",
+   "Mountain",
+   "Dune"
+  ],
+  "answer": "Wetland",
+  "difficulty": "medium",
+  "topic": "wetland"
+ },
+ {
+  "id": "easy-earth-279",
+  "prompt": "What do we call a spot in a desert with water and palm trees?",
+  "choices": [
+   "Glacier",
+   "Reef",
+   "Valley",
+   "Oasis"
+  ],
+  "answer": "Oasis",
+  "difficulty": "medium",
+  "topic": "oasis"
+ },
+ {
+  "id": "easy-earth-280",
+  "prompt": "What do we call the triangle of land where a river meets the sea?",
+  "choices": [
+   "Peak",
+   "Dune",
+   "Delta",
+   "Cave"
+  ],
+  "answer": "Delta",
+  "difficulty": "hard",
+  "topic": "delta"
+ },
+ {
+  "id": "easy-earth-281",
+  "prompt": "What do we call a tall, flat-topped hill with steep sides?",
+  "choices": [
+   "Dune",
+   "Delta",
+   "Mesa",
+   "Bay"
+  ],
+  "answer": "Mesa",
+  "difficulty": "hard",
+  "topic": "mesa"
+ },
+ {
+  "id": "easy-earth-282",
+  "prompt": "What is a small, shallow body of still water?",
+  "choices": [
+   "Ocean",
+   "Pond",
+   "Glacier",
+   "Canyon"
+  ],
+  "answer": "Pond",
+  "difficulty": "easy",
+  "topic": "pond"
+ },
+ {
+  "id": "easy-earth-283",
+  "prompt": "What do we call a small stream of water?",
+  "choices": [
+   "Creek",
+   "Ocean",
+   "Glacier",
+   "Delta"
+  ],
+  "answer": "Creek",
+  "difficulty": "easy",
+  "topic": "creek"
+ },
+ {
+  "id": "easy-earth-284",
+  "prompt": "What do we call a huge sheet of ice covering land, like at the poles?",
+  "choices": [
+   "Sand dune",
+   "Rain cloud",
+   "Lava lake",
+   "Ice cap"
+  ],
+  "answer": "Ice cap",
+  "difficulty": "easy",
+  "topic": "ice-cap"
+ },
+ {
+  "id": "easy-earth-285",
+  "prompt": "What do we call an extremely hot spring bubbling from the ground?",
+  "choices": [
+   "Rain barrel",
+   "Ice pond",
+   "Salt flat",
+   "Hot spring"
+  ],
+  "answer": "Hot spring",
+  "difficulty": "medium",
+  "topic": "hot-spring"
+ },
+ {
+  "id": "easy-earth-286",
+  "prompt": "What invisible force pulls things toward Earth?",
+  "choices": [
+   "Wind",
+   "Magic",
+   "Gravity",
+   "Sound"
+  ],
+  "answer": "Gravity",
+  "difficulty": "easy",
+  "topic": "gravity"
+ },
+ {
+  "id": "easy-earth-287",
+  "prompt": "What is it called when liquid water turns into ice?",
+  "choices": [
+   "Boiling",
+   "Freezing",
+   "Melting",
+   "Drying"
+  ],
+  "answer": "Freezing",
+  "difficulty": "medium",
+  "topic": "freezing-def"
+ },
+ {
+  "id": "easy-earth-288",
+  "prompt": "What shape is a snowflake usually?",
+  "choices": [
+   "Six-sided",
+   "Round",
+   "Square",
+   "Triangle"
+  ],
+  "answer": "Six-sided",
+  "difficulty": "hard",
+  "topic": "snowflake-six"
+ },
+ {
+  "id": "easy-earth-289",
+  "prompt": "What do you call the time between sunrise and sunset?",
+  "choices": [
+   "Daytime",
+   "Nighttime",
+   "Moon time",
+   "Dream time"
+  ],
+  "answer": "Daytime",
+  "difficulty": "easy",
+  "topic": "daytime"
+ },
+ {
+  "id": "easy-earth-290",
+  "prompt": "Which season has the longest days?",
+  "choices": [
+   "Winter",
+   "Spring",
+   "Fall",
+   "Summer"
+  ],
+  "answer": "Summer",
+  "difficulty": "medium",
+  "topic": "long-days"
+ },
+ {
+  "id": "easy-earth-291",
+  "prompt": "Which season has the shortest days?",
+  "choices": [
+   "Summer",
+   "Spring",
+   "Winter",
+   "Fall"
+  ],
+  "answer": "Winter",
+  "difficulty": "medium",
+  "topic": "short-days"
+ },
+ {
+  "id": "easy-earth-292",
+  "prompt": "When it is summer in the north, what is it in the south?",
+  "choices": [
+   "Summer",
+   "Winter",
+   "Spring",
+   "Hot all year"
+  ],
+  "answer": "Winter",
+  "difficulty": "hard",
+  "topic": "opposite-seasons"
+ },
+ {
+  "id": "easy-earth-293",
+  "prompt": "What do we call the dry, warm part of year in hot lands?",
+  "choices": [
+   "Ice season",
+   "Dry season",
+   "Fog season",
+   "Snow season"
+  ],
+  "answer": "Dry season",
+  "difficulty": "medium",
+  "topic": "dry-season"
+ },
+ {
+  "id": "easy-earth-294",
+  "prompt": "What do we call the line on a map that shows a country's edge?",
+  "choices": [
+   "Border",
+   "Legend",
+   "Scale",
+   "Title"
+  ],
+  "answer": "Border",
+  "difficulty": "easy",
+  "topic": "border"
+ },
+ {
+  "id": "easy-earth-295",
+  "prompt": "What is a group of islands called?",
+  "choices": [
+   "Peninsula",
+   "Delta",
+   "Canyon",
+   "Archipelago"
+  ],
+  "answer": "Archipelago",
+  "difficulty": "hard",
+  "topic": "archipelago"
+ },
+ {
+  "id": "easy-earth-296",
+  "prompt": "Which U.S. state is the biggest by area?",
+  "choices": [
+   "Texas",
+   "Ohio",
+   "Alaska",
+   "Florida"
+  ],
+  "answer": "Alaska",
+  "difficulty": "medium",
+  "topic": "alaska-biggest"
+ },
+ {
+  "id": "easy-earth-297",
+  "prompt": "Which U.S. state is made up of islands in the Pacific?",
+  "choices": [
+   "Alaska",
+   "Maine",
+   "Hawaii",
+   "Utah"
+  ],
+  "answer": "Hawaii",
+  "difficulty": "easy",
+  "topic": "hawaii-islands"
+ },
+ {
+  "id": "easy-earth-298",
+  "prompt": "Which country is shaped like a boot?",
+  "choices": [
+   "Spain",
+   "Italy",
+   "Norway",
+   "Egypt"
+  ],
+  "answer": "Italy",
+  "difficulty": "medium",
+  "topic": "italy-boot"
+ },
+ {
+  "id": "easy-earth-299",
+  "prompt": "Which continent has the most people?",
+  "choices": [
+   "Asia",
+   "Europe",
+   "Africa",
+   "Australia"
+  ],
+  "answer": "Asia",
+  "difficulty": "medium",
+  "topic": "asia-people"
+ },
+ {
+  "id": "easy-earth-300",
+  "prompt": "Which continent is also a country?",
+  "choices": [
+   "Asia",
+   "Africa",
+   "Europe",
+   "Australia"
+  ],
+  "answer": "Australia",
+  "difficulty": "medium",
+  "topic": "australia-country"
+ },
+ {
+  "id": "easy-earth-301",
+  "prompt": "What is the name of the ocean that touches Antarctica, along with others?",
+  "choices": [
+   "Candy Ocean",
+   "Red Ocean",
+   "Silent Ocean",
+   "Southern Ocean"
+  ],
+  "answer": "Southern Ocean",
+  "difficulty": "hard",
+  "topic": "southern-ocean"
+ },
+ {
+  "id": "easy-earth-302",
+  "prompt": "Which planet is Earth's closest neighbor on the inside, nearer to the Sun?",
+  "choices": [
+   "Mars",
+   "Jupiter",
+   "Venus",
+   "Saturn"
+  ],
+  "answer": "Venus",
+  "difficulty": "hard",
+  "topic": "venus-inside"
+ },
+ {
+  "id": "easy-earth-303",
+  "prompt": "Which planet is blue and the eighth from the Sun?",
+  "choices": [
+   "Mars",
+   "Neptune",
+   "Venus",
+   "Mercury"
+  ],
+  "answer": "Neptune",
+  "difficulty": "hard",
+  "topic": "neptune-eighth"
+ },
+ {
+  "id": "easy-earth-304",
+  "prompt": "Which planet is made mostly of gas and is the second biggest?",
+  "choices": [
+   "Saturn",
+   "Mars",
+   "Earth",
+   "Mercury"
+  ],
+  "answer": "Saturn",
+  "difficulty": "hard",
+  "topic": "saturn-second"
+ },
+ {
+  "id": "easy-earth-305",
+  "prompt": "What does a Moon cycle go from full Moon back to full Moon in?",
+  "choices": [
+   "About a month",
+   "One day",
+   "One year",
+   "One hour"
+  ],
+  "answer": "About a month",
+  "difficulty": "medium",
+  "topic": "lunar-cycle"
+ },
+ {
+  "id": "easy-earth-306",
+  "prompt": "What kind of storm brings thunder, lightning, and rain?",
+  "choices": [
+   "Blizzard",
+   "Sandstorm",
+   "Snowfall",
+   "Thunderstorm"
+  ],
+  "answer": "Thunderstorm",
+  "difficulty": "easy",
+  "topic": "thunderstorm"
+ },
+ {
+  "id": "easy-earth-307",
+  "prompt": "What kind of storm blows lots of sand in a desert?",
+  "choices": [
+   "Snowstorm",
+   "Hailstorm",
+   "Sandstorm",
+   "Ice storm"
+  ],
+  "answer": "Sandstorm",
+  "difficulty": "medium",
+  "topic": "sandstorm"
+ },
+ {
+  "id": "easy-earth-308",
+  "prompt": "Which weather brings lots of white flakes and cold?",
+  "choices": [
+   "Heat wave",
+   "Snowfall",
+   "Sandstorm",
+   "Sunshine"
+  ],
+  "answer": "Snowfall",
+  "difficulty": "easy",
+  "topic": "snowfall"
+ },
+ {
+  "id": "easy-earth-309",
+  "prompt": "What do we call a very hot stretch of days?",
+  "choices": [
+   "Cold snap",
+   "Heat wave",
+   "Blizzard",
+   "Drizzle"
+  ],
+  "answer": "Heat wave",
+  "difficulty": "medium",
+  "topic": "heat-wave"
+ },
+ {
+  "id": "easy-earth-310",
+  "prompt": "Which direction does the Sun appear to move across the sky, east to what?",
+  "choices": [
+   "West",
+   "North",
+   "South",
+   "Up"
+  ],
+  "answer": "West",
+  "difficulty": "medium",
+  "topic": "sun-path"
+ },
+ {
+  "id": "easy-earth-311",
+  "prompt": "What is steam?",
+  "choices": [
+   "Ice",
+   "Snow",
+   "Sand",
+   "Water as a hot gas"
+  ],
+  "answer": "Water as a hot gas",
+  "difficulty": "easy",
+  "topic": "steam"
+ },
+ {
+  "id": "easy-earth-312",
+  "prompt": "What is ice?",
+  "choices": [
+   "Hot gas",
+   "Rock",
+   "Frozen water",
+   "Sand"
+  ],
+  "answer": "Frozen water",
+  "difficulty": "easy",
+  "topic": "ice-def"
+ },
+ {
+  "id": "easy-earth-313",
+  "prompt": "What is the main thing a volcano's lava turns into when it cools?",
+  "choices": [
+   "Water",
+   "Snow",
+   "Rock",
+   "Sand"
+  ],
+  "answer": "Rock",
+  "difficulty": "medium",
+  "topic": "lava-cools"
+ },
+ {
+  "id": "easy-earth-314",
+  "prompt": "What stone do we use to build pencils' markings, which is soft and gray?",
+  "choices": [
+   "Diamond",
+   "Graphite",
+   "Gold",
+   "Marble"
+  ],
+  "answer": "Graphite",
+  "difficulty": "hard",
+  "topic": "graphite"
+ },
+ {
+  "id": "easy-earth-315",
+  "prompt": "Which rock is smooth and often used for statues?",
+  "choices": [
+   "Marble",
+   "Pumice",
+   "Coal",
+   "Chalk"
+  ],
+  "answer": "Marble",
+  "difficulty": "easy",
+  "topic": "marble"
+ }
+]
