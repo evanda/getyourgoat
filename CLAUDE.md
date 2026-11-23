@@ -1,8 +1,9 @@
 # Get Your Goat
 
 Daily trivia game. Design doc: https://claude.ai/artifact/3BPq7Z2AJ6DKjGyfWDT2VM
-("Get Your Goat: Design Doc (v0.1)"). Current state: Milestone 2 (alpha). Live alpha: https://www.remingtons.org/get-your-goat/
-(GitHub Pages from evanda/get-your-goat; every push to main redeploys).
+("Get Your Goat: Design Doc (v0.1)"). Current state: Milestone 2 (alpha). Live alpha: https://www.remingtons.org/getyourgoat/
+(GitHub Pages from evanda/getyourgoat; every push to main redeploys). Commits use the GitHub
+noreply address; never the personal email. The old evanda/get-your-goat repo predates that.
 
 ## Look
 Royal purple and gold, the owner's choice; one look in all themes. Not pale purple.
