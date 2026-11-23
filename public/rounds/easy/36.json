@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 36,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-190",
+     "prompt": "11 + 8",
+     "answer": 19,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-052",
+     "prompt": "6 × 8",
+     "answer": 48,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-219",
+     "prompt": "32 + 28",
+     "answer": 60,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-294",
+     "prompt": "Which two brothers invented a plane that flew in 1903?",
+     "choices": [
+      "Tom and Jerry",
+      "Mario and Luigi",
+      "Wilbur and Orville",
+      "Ben and Jerry"
+     ],
+     "answer": "Wilbur and Orville",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-122",
+     "prompt": "Which person draws maps for a living?",
+     "choices": [
+      "Chef",
+      "Plumber",
+      "Cartographer",
+      "Barber"
+     ],
+     "answer": "Cartographer",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-225",
+     "prompt": "Pony Express riders carried the mail on what?",
+     "choices": [
+      "Trains",
+      "Horses",
+      "Planes",
+      "Bikes"
+     ],
+     "answer": "Horses",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-162",
+     "prompt": "Who has a wide grin and fades away?",
+     "choices": [
+      "The Dormouse",
+      "The Caterpillar",
+      "The Cheshire Cat",
+      "The Dodo"
+     ],
+     "answer": "The Cheshire Cat",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-170",
+     "prompt": "What is Pippi's pet monkey called?",
+     "choices": [
+      "Mr. Bean",
+      "Mr. Banks",
+      "Mr. Nilsson",
+      "Mr. Smith"
+     ],
+     "answer": "Mr. Nilsson",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-134",
+     "prompt": "Who wrote The Tale of Peter Rabbit?",
+     "choices": [
+      "Roald Dahl",
+      "A. A. Milne",
+      "Beatrix Potter",
+      "Lewis Carroll"
+     ],
+     "answer": "Beatrix Potter",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-218",
+     "prompt": "What imaginary line runs around the middle of Earth?",
+     "choices": [
+      "Meridian",
+      "Equator",
+      "Border",
+      "Coast"
+     ],
+     "answer": "Equator",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-066",
+     "prompt": "What do we call the path a planet takes around the Sun?",
+     "choices": [
+      "Ladder",
+      "Tunnel",
+      "Bridge",
+      "Orbit"
+     ],
+     "answer": "Orbit",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-037",
+     "prompt": "What do we call a very hot, dry place with little rain and lots of sand?",
+     "choices": [
+      "Rainforest",
+      "Desert",
+      "Tundra",
+      "Swamp"
+     ],
+     "answer": "Desert",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-136",
+     "prompt": "Which mammal lays eggs?",
+     "choices": [
+      "rabbit",
+      "dog",
+      "cow",
+      "platypus"
+     ],
+     "answer": "platypus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-093",
+     "prompt": "Squirrels gather and eat what?",
+     "choices": [
+      "nuts",
+      "fish",
+      "ice",
+      "sand"
+     ],
+     "answer": "nuts",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-166",
+     "prompt": "Which dinosaur had a very long neck?",
+     "choices": [
+      "T. rex",
+      "Brachiosaurus",
+      "Velociraptor",
+      "Triceratops"
+     ],
+     "answer": "Brachiosaurus",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

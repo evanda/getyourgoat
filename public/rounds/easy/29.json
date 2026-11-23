@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 29,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-087",
+     "prompt": "6 + 6",
+     "answer": 12,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-162",
+     "prompt": "28 + 28",
+     "answer": 56,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-060",
+     "prompt": "2 + 8",
+     "answer": 10,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-168",
+     "prompt": "Stonehenge is a circle of giant stones in which country?",
+     "choices": [
+      "England",
+      "Egypt",
+      "Peru",
+      "Japan"
+     ],
+     "answer": "England",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-167",
+     "prompt": "The Sydney Opera House is in which country?",
+     "choices": [
+      "Canada",
+      "Brazil",
+      "Ireland",
+      "Australia"
+     ],
+     "answer": "Australia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-157",
+     "prompt": "How long was the Wright brothers' first flight?",
+     "choices": [
+      "12 hours",
+      "12 seconds",
+      "12 minutes",
+      "12 days"
+     ],
+     "answer": "12 seconds",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-197",
+     "prompt": "Who wrote Where the Wild Things Are?",
+     "choices": [
+      "Dr. Seuss",
+      "Eric Carle",
+      "Roald Dahl",
+      "Maurice Sendak"
+     ],
+     "answer": "Maurice Sendak",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-258",
+     "prompt": "Who is the king of the Norse gods?",
+     "choices": [
+      "Thor",
+      "Loki",
+      "Odin",
+      "Freya"
+     ],
+     "answer": "Odin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-099",
+     "prompt": "Who had a farm in the famous song, \"E-I-E-I-O\"?",
+     "choices": [
+      "Farmer Brown",
+      "Old MacDonald",
+      "Old Tom",
+      "Uncle Jack"
+     ],
+     "answer": "Old MacDonald",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-004",
+     "prompt": "What tool tells us how hot or cold it is?",
+     "choices": [
+      "Telescope",
+      "Thermometer",
+      "Compass",
+      "Ruler"
+     ],
+     "answer": "Thermometer",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-125",
+     "prompt": "What is a very tall landform with a peak called?",
+     "choices": [
+      "Valley",
+      "Plain",
+      "Lake",
+      "Mountain"
+     ],
+     "answer": "Mountain",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-120",
+     "prompt": "What do we call it when rock is slowly broken into small pieces?",
+     "choices": [
+      "Freezing",
+      "Planting",
+      "Weathering",
+      "Digging"
+     ],
+     "answer": "Weathering",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-256",
+     "prompt": "Which place has many animals for people to visit?",
+     "choices": [
+      "bank",
+      "library",
+      "bakery",
+      "zoo"
+     ],
+     "answer": "zoo",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-143",
+     "prompt": "Mice, rats and squirrels are all what?",
+     "choices": [
+      "reptiles",
+      "insects",
+      "rodents",
+      "birds"
+     ],
+     "answer": "rodents",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-084",
+     "prompt": "Lions mostly eat what kind of food?",
+     "choices": [
+      "grass",
+      "fruit",
+      "bread",
+      "meat"
+     ],
+     "answer": "meat",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

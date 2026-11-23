@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 54,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-125",
+     "prompt": "10% of 660",
+     "answer": 66,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-146",
+     "prompt": "25% of 220",
+     "answer": 55,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-193",
+     "prompt": "15% of 500",
+     "answer": 75,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-238",
+     "prompt": "Which British general died winning at Quebec in 1759?",
+     "choices": [
+      "John Burgoyne",
+      "James Wolfe",
+      "Jeffrey Amherst",
+      "Robert Clive"
+     ],
+     "answer": "James Wolfe",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-310",
+     "prompt": "Which astronomer showed in the 1920s that other galaxies exist beyond ours?",
+     "choices": [
+      "Harlow Shapley",
+      "Edwin Hubble",
+      "Fred Hoyle",
+      "Carl Sagan"
+     ],
+     "answer": "Edwin Hubble",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-150",
+     "prompt": "Which 1904 agreement settled colonial disputes between Britain and France?",
+     "choices": [
+      "Dual Alliance",
+      "Entente Cordiale",
+      "Anglo-Russian Entente",
+      "Triple Alliance"
+     ],
+     "answer": "Entente Cordiale",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-203",
+     "prompt": "Who wrote The Wonderful Adventures of Nils?",
+     "choices": [
+      "Sigrid Undset",
+      "Selma Lagerlöf",
+      "Astrid Lindgren",
+      "Tove Jansson"
+     ],
+     "answer": "Selma Lagerlöf",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-084",
+     "prompt": "Who wrote Peer Gynt?",
+     "choices": [
+      "Knut Hamsun",
+      "August Strindberg",
+      "Bjørnstjerne Bjørnson",
+      "Henrik Ibsen"
+     ],
+     "answer": "Henrik Ibsen",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-005",
+     "prompt": "Who wrote the play The Lower Depths?",
+     "choices": [
+      "Maxim Gorky",
+      "Ivan Bunin",
+      "Anton Chekhov",
+      "Leonid Andreyev"
+     ],
+     "answer": "Maxim Gorky",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-073",
+     "prompt": "A very large mass of intrusive igneous rock exposed over more than 100 square km is a what?",
+     "choices": [
+      "Laccolith",
+      "Batholith",
+      "Dike",
+      "Sill"
+     ],
+     "answer": "Batholith",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-060",
+     "prompt": "Banded iron formations record a rise of what gas in ancient oceans?",
+     "choices": [
+      "Methane",
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen sulfide"
+     ],
+     "answer": "Oxygen",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-078",
+     "prompt": "Which supercontinent assembled about one billion years ago?",
+     "choices": [
+      "Columbia",
+      "Pangaea",
+      "Pannotia",
+      "Rodinia"
+     ],
+     "answer": "Rodinia",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-126",
+     "prompt": "Which case led Voltaire to write his Treatise on Tolerance?",
+     "choices": [
+      "The Dreyfus affair",
+      "The Sirven letter",
+      "The Lisbon quake",
+      "The Calas affair"
+     ],
+     "answer": "The Calas affair",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-120",
+     "prompt": "Which Edinburgh library did Hume serve as keeper?",
+     "choices": [
+      "The Advocates' Library",
+      "The Signet Library",
+      "The Bodleian",
+      "The Royal Library"
+     ],
+     "answer": "The Advocates' Library",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-232",
+     "prompt": "Which legal philosopher wrote The Concept of Law in 1961?",
+     "choices": [
+      "Ronald Dworkin",
+      "Hans Kelsen",
+      "Lon Fuller",
+      "H. L. A. Hart"
+     ],
+     "answer": "H. L. A. Hart",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

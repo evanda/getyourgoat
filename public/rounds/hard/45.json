@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 45,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-273",
+     "prompt": "50% of 500",
+     "answer": 250,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-180",
+     "prompt": "32 × 26",
+     "answer": 832,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-160",
+     "prompt": "146 × 5",
+     "answer": 730,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-054",
+     "prompt": "Which 1598 edict granted French Huguenots limited toleration?",
+     "choices": [
+      "Peace of Augsburg",
+      "Edict of Nantes",
+      "Edict of Milan",
+      "Edict of Worms"
+     ],
+     "answer": "Edict of Nantes",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-058",
+     "prompt": "Which Indian dynasty ruled during a classical golden age from the 4th century AD?",
+     "choices": [
+      "Maurya",
+      "Gupta",
+      "Kushan",
+      "Satavahana"
+     ],
+     "answer": "Gupta",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-143",
+     "prompt": "Which Persian physician wrote The Canon of Medicine?",
+     "choices": [
+      "Averroes",
+      "Al-Razi",
+      "Avicenna",
+      "Maimonides"
+     ],
+     "answer": "Avicenna",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-024",
+     "prompt": "Who wrote the detective novel The Maltese Falcon?",
+     "choices": [
+      "Dashiell Hammett",
+      "James M. Cain",
+      "Ross Macdonald",
+      "Raymond Chandler"
+     ],
+     "answer": "Dashiell Hammett",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-004",
+     "prompt": "Who wrote the WWI poem \"Dulce et Decorum Est\"?",
+     "choices": [
+      "Siegfried Sassoon",
+      "Wilfred Owen",
+      "Isaac Rosenberg",
+      "Rupert Brooke"
+     ],
+     "answer": "Wilfred Owen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-275",
+     "prompt": "Which Icelandic saga ends with a wise lawyer burned in his own house?",
+     "choices": [
+      "Laxdæla saga",
+      "Egils saga",
+      "Grettis saga",
+      "Njáls saga"
+     ],
+     "answer": "Njáls saga",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-087",
+     "prompt": "Which major strike-slip fault runs across northern Turkey?",
+     "choices": [
+      "Zagros Fault",
+      "Dead Sea Transform",
+      "North Anatolian Fault",
+      "East Anatolian Fault"
+     ],
+     "answer": "North Anatolian Fault",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-028",
+     "prompt": "What color is the streak of pyrite?",
+     "choices": [
+      "Greenish black",
+      "Golden yellow",
+      "White",
+      "Red"
+     ],
+     "answer": "Greenish black",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-053",
+     "prompt": "Which rock makes up most of the Moon's bright highlands?",
+     "choices": [
+      "Granite",
+      "Anorthosite",
+      "Peridotite",
+      "Basalt"
+     ],
+     "answer": "Anorthosite",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-151",
+     "prompt": "Which Cambridge idealist argued that time is unreal in a 1908 paper?",
+     "choices": [
+      "G. E. Moore",
+      "J. M. E. McTaggart",
+      "Bertrand Russell",
+      "F. H. Bradley"
+     ],
+     "answer": "J. M. E. McTaggart",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-162",
+     "prompt": "Which philosopher introduced abduction as a form of inference?",
+     "choices": [
+      "John Dewey",
+      "Josiah Royce",
+      "Charles Sanders Peirce",
+      "William James"
+     ],
+     "answer": "Charles Sanders Peirce",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-260",
+     "prompt": "Who is traditionally credited with the Doctrine of the Mean?",
+     "choices": [
+      "Zisi",
+      "Mencius",
+      "Xunzi",
+      "Zengzi"
+     ],
+     "answer": "Zisi",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

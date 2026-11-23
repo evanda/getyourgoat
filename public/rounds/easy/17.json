@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 17,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-062",
+     "prompt": "16 + 2",
+     "answer": 18,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-004",
+     "prompt": "29 + 4",
+     "answer": 33,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-041",
+     "prompt": "45 ÷ 5",
+     "answer": 9,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-066",
+     "prompt": "In which country is the city of Rome?",
+     "choices": [
+      "Spain",
+      "France",
+      "Italy",
+      "Greece"
+     ],
+     "answer": "Italy",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-283",
+     "prompt": "Who was the first American woman in space?",
+     "choices": [
+      "Amelia Earhart",
+      "Rosa Parks",
+      "Betsy Ross",
+      "Sally Ride"
+     ],
+     "answer": "Sally Ride",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-253",
+     "prompt": "Cave people kept warm by wearing animal what?",
+     "choices": [
+      "Sweaters",
+      "Skins",
+      "Nylon",
+      "Silk"
+     ],
+     "answer": "Skins",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-300",
+     "prompt": "How many wishes does a genie usually give in stories?",
+     "choices": [
+      "Three",
+      "One",
+      "Five",
+      "Ten"
+     ],
+     "answer": "Three",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-213",
+     "prompt": "Who does Heidi live with in the mountains?",
+     "choices": [
+      "Her aunt",
+      "Her parents",
+      "A teacher",
+      "Her grandfather"
+     ],
+     "answer": "Her grandfather",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-187",
+     "prompt": "What kind of animal is Bagheera?",
+     "choices": [
+      "A tiger",
+      "A black panther",
+      "A lion",
+      "A wolf"
+     ],
+     "answer": "A black panther",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-116",
+     "prompt": "What is soil made of?",
+     "choices": [
+      "Only sand",
+      "Rock bits and dead plants",
+      "Only water",
+      "Only ice"
+     ],
+     "answer": "Rock bits and dead plants",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-050",
+     "prompt": "What kind of weather makes a puddle on the ground?",
+     "choices": [
+      "Sunshine",
+      "Heat",
+      "Dry wind",
+      "Rain"
+     ],
+     "answer": "Rain",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-164",
+     "prompt": "What do we call the rising and falling of the sea each day?",
+     "choices": [
+      "Clouds",
+      "Tides",
+      "Seasons",
+      "Dunes"
+     ],
+     "answer": "Tides",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-210",
+     "prompt": "Kangaroos move by doing what?",
+     "choices": [
+      "crawling",
+      "hopping",
+      "rolling",
+      "swimming"
+     ],
+     "answer": "hopping",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-279",
+     "prompt": "Which tiny insects march in lines carrying crumbs?",
+     "choices": [
+      "bees",
+      "beetles",
+      "ants",
+      "moths"
+     ],
+     "answer": "ants",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-304",
+     "prompt": "Which African wild pig has tusks?",
+     "choices": [
+      "zebra",
+      "giraffe",
+      "camel",
+      "warthog"
+     ],
+     "answer": "warthog",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

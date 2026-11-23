@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 99,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-192",
+     "prompt": "51²",
+     "answer": 2601,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-070",
+     "prompt": "10% of 360",
+     "answer": 36,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-282",
+     "prompt": "22 × 17",
+     "answer": 374,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-043",
+     "prompt": "Which Dutch scientist discovered Saturn's moon Titan in 1655?",
+     "choices": [
+      "Hendrik Lorentz",
+      "Willebrord Snellius",
+      "Christiaan Huygens",
+      "Antonie van Leeuwenhoek"
+     ],
+     "answer": "Christiaan Huygens",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-067",
+     "prompt": "Which 1824 battle effectively ended Spanish rule in South America?",
+     "choices": [
+      "Boyaca",
+      "Carabobo",
+      "Ayacucho",
+      "Maipu"
+     ],
+     "answer": "Ayacucho",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-281",
+     "prompt": "Which New Zealand physicist proposed the nuclear model of the atom in 1911?",
+     "choices": [
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "J. J. Thomson",
+      "James Chadwick"
+     ],
+     "answer": "Ernest Rutherford",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-210",
+     "prompt": "Who wrote the Turkish novel My Name Is Red?",
+     "choices": [
+      "Yaşar Kemal",
+      "Elif Shafak",
+      "Orhan Pamuk",
+      "Nâzım Hikmet"
+     ],
+     "answer": "Orhan Pamuk",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-188",
+     "prompt": "Who wrote the comic novel I Am a Cat?",
+     "choices": [
+      "Natsume Sōseki",
+      "Ryūnosuke Akutagawa",
+      "Jun'ichirō Tanizaki",
+      "Mori Ōgai"
+     ],
+     "answer": "Natsume Sōseki",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-277",
+     "prompt": "Who wrote Confessions of Zeno?",
+     "choices": [
+      "Alberto Moravia",
+      "Cesare Pavese",
+      "Italo Svevo",
+      "Luigi Pirandello"
+     ],
+     "answer": "Italo Svevo",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-307",
+     "prompt": "Which mineral deformation feature in quartz is diagnostic of meteorite impacts?",
+     "choices": [
+      "Zoning",
+      "Cleavage",
+      "Twinning",
+      "Shock lamellae"
+     ],
+     "answer": "Shock lamellae",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-183",
+     "prompt": "Ozone thickness is measured in which unit?",
+     "choices": [
+      "Beaufort",
+      "Dobson unit",
+      "Pascal",
+      "Kelvin"
+     ],
+     "answer": "Dobson unit",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-188",
+     "prompt": "Which pouch-like clouds hang beneath a thunderstorm anvil?",
+     "choices": [
+      "Lenticular",
+      "Fractus",
+      "Arcus",
+      "Mammatus"
+     ],
+     "answer": "Mammatus",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-012",
+     "prompt": "In the Republic, who retells the story of the Ring of Gyges?",
+     "choices": [
+      "Polemarchus",
+      "Adeimantus",
+      "Thrasymachus",
+      "Glaucon"
+     ],
+     "answer": "Glaucon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-315",
+     "prompt": "Which Indian thinker wrote Annihilation of Caste?",
+     "choices": [
+      "Jawaharlal Nehru",
+      "B. R. Ambedkar",
+      "Jyotirao Phule",
+      "M. K. Gandhi"
+     ],
+     "answer": "B. R. Ambedkar",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-262",
+     "prompt": "Which Neo-Confucian distinguished li, principle, from qi, material force?",
+     "choices": [
+      "Shao Yong",
+      "Wang Yangming",
+      "Zhang Zai",
+      "Zhu Xi"
+     ],
+     "answer": "Zhu Xi",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

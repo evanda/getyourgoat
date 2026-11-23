@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 76,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-095",
+     "prompt": "280 ÷ 14",
+     "answer": 20,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-209",
+     "prompt": "582 × 6",
+     "answer": 3492,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-102",
+     "prompt": "20% of 380",
+     "answer": 76,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-041",
+     "prompt": "Which English archbishop was murdered in Canterbury Cathedral in 1170?",
+     "choices": [
+      "Thomas Becket",
+      "Stephen Langton",
+      "Lanfranc",
+      "Anselm"
+     ],
+     "answer": "Thomas Becket",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-129",
+     "prompt": "Which English chemist proposed modern atomic theory in the early 1800s?",
+     "choices": [
+      "John Dalton",
+      "Joseph Priestley",
+      "Robert Boyle",
+      "Humphry Davy"
+     ],
+     "answer": "John Dalton",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-039",
+     "prompt": "Which Maurya emperor left edicts carved on pillars and rocks across India?",
+     "choices": [
+      "Harsha",
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Bindusara"
+     ],
+     "answer": "Ashoka",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-174",
+     "prompt": "Who wrote the Serbian novel The Bridge on the Drina?",
+     "choices": [
+      "Milorad Pavić",
+      "Ivo Andrić",
+      "Miloš Crnjanski",
+      "Danilo Kiš"
+     ],
+     "answer": "Ivo Andrić",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-185",
+     "prompt": "Who wrote the novel Wide Sargasso Sea?",
+     "choices": [
+      "Doris Lessing",
+      "Jean Rhys",
+      "Iris Murdoch",
+      "Muriel Spark"
+     ],
+     "answer": "Jean Rhys",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-056",
+     "prompt": "Who wrote the play An Enemy of the People?",
+     "choices": [
+      "August Strindberg",
+      "Bjørnstjerne Bjørnson",
+      "Knut Hamsun",
+      "Henrik Ibsen"
+     ],
+     "answer": "Henrik Ibsen",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-201",
+     "prompt": "A widespread, long-lived straight-line windstorm is called what?",
+     "choices": [
+      "Supercell",
+      "Microburst",
+      "Derecho",
+      "Haboob"
+     ],
+     "answer": "Derecho",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-162",
+     "prompt": "The Sudbury Basin, an impact structure rich in nickel, is in which country?",
+     "choices": [
+      "Finland",
+      "Norway",
+      "Canada",
+      "Australia"
+     ],
+     "answer": "Canada",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-145",
+     "prompt": "Living stromatolites are famous at Shark Bay in which Australian state?",
+     "choices": [
+      "Tasmania",
+      "South Australia",
+      "Queensland",
+      "Western Australia"
+     ],
+     "answer": "Western Australia",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-271",
+     "prompt": "Which pupil of Xunzi became chancellor of Qin?",
+     "choices": [
+      "Li Si",
+      "Han Feizi",
+      "Shang Yang",
+      "Lu Buwei"
+     ],
+     "answer": "Li Si",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-037",
+     "prompt": "Which Stoic, friend of Scipio Aemilianus, helped bring Stoicism to Rome?",
+     "choices": [
+      "Panaetius",
+      "Cleanthes",
+      "Chrysippus",
+      "Epictetus"
+     ],
+     "answer": "Panaetius",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-180",
+     "prompt": "Which Sartrean term names self-deception about one's freedom?",
+     "choices": [
+      "Bad faith",
+      "Facticity",
+      "Nothingness",
+      "Anguish"
+     ],
+     "answer": "Bad faith",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

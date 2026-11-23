@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 39,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-064",
+     "prompt": "48 + 20",
+     "answer": 68,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-172",
+     "prompt": "3 + 4",
+     "answer": 7,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-003",
+     "prompt": "4 + 4",
+     "answer": 8,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-181",
+     "prompt": "Knights wore metal clothes called what?",
+     "choices": [
+      "Pajamas",
+      "Armor",
+      "Sweaters",
+      "Kilts"
+     ],
+     "answer": "Armor",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-026",
+     "prompt": "Which Greek city is famous for the Parthenon?",
+     "choices": [
+      "Rome",
+      "Cairo",
+      "Athens",
+      "Paris"
+     ],
+     "answer": "Athens",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-038",
+     "prompt": "Which hero of Greek myths did twelve labors?",
+     "choices": [
+      "Robin Hood",
+      "King Arthur",
+      "Hercules",
+      "Aladdin"
+     ],
+     "answer": "Hercules",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-241",
+     "prompt": "Which Greek god rules the sea?",
+     "choices": [
+      "Zeus",
+      "Apollo",
+      "Ares",
+      "Poseidon"
+     ],
+     "answer": "Poseidon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-001",
+     "prompt": "Who huffed and puffed and blew the straw house down?",
+     "choices": [
+      "The giant",
+      "The fox",
+      "The troll",
+      "The big bad wolf"
+     ],
+     "answer": "The big bad wolf",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-011",
+     "prompt": "What did Cinderella's carriage turn from?",
+     "choices": [
+      "A melon",
+      "A pumpkin",
+      "A turnip",
+      "A cabbage"
+     ],
+     "answer": "A pumpkin",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-002",
+     "prompt": "Balls of ice that fall from thunderstorm clouds are called what?",
+     "choices": [
+      "Fog",
+      "Dew",
+      "Mist",
+      "Hail"
+     ],
+     "answer": "Hail",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-293",
+     "prompt": "What do we call the dry, warm part of year in hot lands?",
+     "choices": [
+      "Ice season",
+      "Dry season",
+      "Fog season",
+      "Snow season"
+     ],
+     "answer": "Dry season",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-216",
+     "prompt": "What is the capital of Australia?",
+     "choices": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+     ],
+     "answer": "Canberra",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-301",
+     "prompt": "Goats and cows chew their food twice. The second chew is called chewing the what?",
+     "choices": [
+      "cud",
+      "gum",
+      "bone",
+      "nut"
+     ],
+     "answer": "cud",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-056",
+     "prompt": "Which insect chirps in the evening?",
+     "choices": [
+      "ant",
+      "ladybug",
+      "snail",
+      "cricket"
+     ],
+     "answer": "cricket",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-291",
+     "prompt": "Which animal builds a nest of sticks high in a tree and soars?",
+     "choices": [
+      "penguin",
+      "frog",
+      "eagle",
+      "goat"
+     ],
+     "answer": "eagle",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

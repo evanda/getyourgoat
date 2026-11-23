@@ -1249,7 +1249,7 @@
  },
  {
   "id": "easy-hist-097",
-  "prompt": "Which girl in England found dinosaur fossils by the sea?",
+  "prompt": "Which girl in England found giant sea-reptile fossils by the sea?",
   "choices": [
    "Marie Curie",
    "Mary Anning",
@@ -1522,7 +1522,7 @@
  },
  {
   "id": "easy-hist-118",
-  "prompt": "Pilgrims and the Wampanoag shared a harvest feast that became what?",
+  "prompt": "Pilgrims and the Wampanoag shared a harvest feast in 1621. Which holiday remembers it?",
   "choices": [
    "Halloween",
    "Easter",
@@ -2562,7 +2562,7 @@
  },
  {
   "id": "easy-hist-198",
-  "prompt": "In 1215, an English king signed a famous paper called what?",
+  "prompt": "In 1215, an English king agreed to a famous paper called what?",
   "choices": [
    "Big Map",
    "Great Menu",
@@ -3394,14 +3394,14 @@
  },
  {
   "id": "easy-hist-262",
-  "prompt": "Columbus believed he had reached which place?",
+  "prompt": "Columbus believed he had sailed all the way to which continent?",
   "choices": [
    "Mars",
    "Egypt",
-   "India",
+   "Asia",
    "Australia"
   ],
-  "answer": "India",
+  "answer": "Asia",
   "difficulty": "hard",
   "topic": "expl-columbus-indies"
  },
@@ -3888,7 +3888,7 @@
  },
  {
   "id": "easy-hist-300",
-  "prompt": "Which ancient Egyptian invention is a way of telling time using shadows?",
+  "prompt": "Which very old tool tells the time using shadows?",
   "choices": [
    "Sundial",
    "Phone",

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 20,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-194",
+     "prompt": "779 ÷ 19",
+     "answer": 41,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-074",
+     "prompt": "810 ÷ 18",
+     "answer": 45,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-117",
+     "prompt": "15 × 7 − 7 × 10",
+     "answer": 35,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-010",
+     "prompt": "Which Dutch merchant, famed for single-lens microscopes, described bacteria in the 1670s?",
+     "choices": [
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek",
+      "Zacharias Janssen",
+      "Jan Swammerdam"
+     ],
+     "answer": "Antonie van Leeuwenhoek",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-226",
+     "prompt": "Which Italian inventor sent a transatlantic radio signal in 1901?",
+     "choices": [
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Alexander Graham Bell",
+      "Heinrich Hertz"
+     ],
+     "answer": "Guglielmo Marconi",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-217",
+     "prompt": "Which 1774 treaty ended a Russo-Ottoman war and made Crimea independent?",
+     "choices": [
+      "Kucuk Kaynarca",
+      "Karlowitz",
+      "Jassy",
+      "Adrianople"
+     ],
+     "answer": "Kucuk Kaynarca",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-296",
+     "prompt": "Who wrote the poem \"To His Coy Mistress\"?",
+     "choices": [
+      "Andrew Marvell",
+      "Ben Jonson",
+      "John Donne",
+      "George Herbert"
+     ],
+     "answer": "Andrew Marvell",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-021",
+     "prompt": "Who wrote the novel The Plague (La Peste)?",
+     "choices": [
+      "André Gide",
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Malraux"
+     ],
+     "answer": "Albert Camus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-060",
+     "prompt": "Who wrote the novel The Savage Detectives?",
+     "choices": [
+      "Mario Vargas Llosa",
+      "Roberto Bolaño",
+      "César Aira",
+      "Carlos Fuentes"
+     ],
+     "answer": "Roberto Bolaño",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-108",
+     "prompt": "The Columbia River Basalts cover parts of Washington, Oregon and which other state?",
+     "choices": [
+      "Idaho",
+      "Wyoming",
+      "Montana",
+      "Nevada"
+     ],
+     "answer": "Idaho",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-292",
+     "prompt": "The word \"geyser\" derives from the name of a hot spring in which country?",
+     "choices": [
+      "Iceland",
+      "USA",
+      "Japan",
+      "New Zealand"
+     ],
+     "answer": "Iceland",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-037",
+     "prompt": "Which mineral has the chemical formula TiO2?",
+     "choices": [
+      "Rutile",
+      "Cassiterite",
+      "Ilmenite",
+      "Zircon"
+     ],
+     "answer": "Rutile",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-083",
+     "prompt": "Which fourteenth-century Paris master developed an impetus theory of motion?",
+     "choices": [
+      "William of Ockham",
+      "Jean Buridan",
+      "Nicole Oresme",
+      "Albert of Saxony"
+     ],
+     "answer": "Jean Buridan",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-192",
+     "prompt": "Which philosopher offered 'Here is a hand' as a proof of the external world?",
+     "choices": [
+      "J. L. Austin",
+      "A. J. Ayer",
+      "Bertrand Russell",
+      "G. E. Moore"
+     ],
+     "answer": "G. E. Moore",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-019",
+     "prompt": "Which Plato dialogue seeks a definition of temperance, or sophrosyne?",
+     "choices": [
+      "Euthyphro",
+      "Charmides",
+      "Lysis",
+      "Laches"
+     ],
+     "answer": "Charmides",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

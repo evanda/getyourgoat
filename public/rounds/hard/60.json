@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 60,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-166",
+     "prompt": "8 × 11 − 12 × 7",
+     "answer": 4,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-293",
+     "prompt": "24 × 16",
+     "answer": 384,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-279",
+     "prompt": "572 − 177",
+     "answer": 395,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-149",
+     "prompt": "Which Sikh guru founded the Khalsa in 1699?",
+     "choices": [
+      "Guru Gobind Singh",
+      "Guru Tegh Bahadur",
+      "Guru Arjan",
+      "Guru Nanak"
+     ],
+     "answer": "Guru Gobind Singh",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-071",
+     "prompt": "Which Anglo-Irish explorer led the Endurance expedition of 1914-17?",
+     "choices": [
+      "Roald Amundsen",
+      "Robert Scott",
+      "Ernest Shackleton",
+      "Douglas Mawson"
+     ],
+     "answer": "Ernest Shackleton",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-178",
+     "prompt": "The 1618 Defenestration of Prague set off which war?",
+     "choices": [
+      "Eighty Years' War",
+      "Thirty Years' War",
+      "Seven Years' War",
+      "Hundred Years' War"
+     ],
+     "answer": "Thirty Years' War",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-046",
+     "prompt": "Who wrote the children's novel Emil and the Detectives?",
+     "choices": [
+      "Otfried Preußler",
+      "Wilhelm Busch",
+      "Michael Ende",
+      "Erich Kästner"
+     ],
+     "answer": "Erich Kästner",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-221",
+     "prompt": "Who wrote the poetry collection The Whitsun Weddings?",
+     "choices": [
+      "W. H. Auden",
+      "Philip Larkin",
+      "Seamus Heaney",
+      "Ted Hughes"
+     ],
+     "answer": "Philip Larkin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-089",
+     "prompt": "Who wrote the play A Raisin in the Sun?",
+     "choices": [
+      "August Wilson",
+      "Ntozake Shange",
+      "Langston Hughes",
+      "Lorraine Hansberry"
+     ],
+     "answer": "Lorraine Hansberry",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-015",
+     "prompt": "Amethyst is a purple variety of which mineral?",
+     "choices": [
+      "Fluorite",
+      "Beryl",
+      "Corundum",
+      "Quartz"
+     ],
+     "answer": "Quartz",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-070",
+     "prompt": "Which material is the first stage in the formation of coal?",
+     "choices": [
+      "Lignite",
+      "Peat",
+      "Kerogen",
+      "Anthracite"
+     ],
+     "answer": "Peat",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-096",
+     "prompt": "The scraped-off sediments piled up at a subduction zone form what?",
+     "choices": [
+      "Forearc ridge",
+      "Mid-ocean ridge",
+      "Accretionary wedge",
+      "Back-arc basin"
+     ],
+     "answer": "Accretionary wedge",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-296",
+     "prompt": "Which sage is credited with the Yoga Sutras?",
+     "choices": [
+      "Patanjali",
+      "Kanada",
+      "Gautama",
+      "Kapila"
+     ],
+     "answer": "Patanjali",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-032",
+     "prompt": "Which Cynic was the teacher of Zeno of Citium?",
+     "choices": [
+      "Crates of Thebes",
+      "Diogenes of Sinope",
+      "Antisthenes",
+      "Menippus"
+     ],
+     "answer": "Crates of Thebes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-290",
+     "prompt": "Which Meiji thinker wrote An Encouragement of Learning?",
+     "choices": [
+      "Inoue Tetsujiro",
+      "Mori Arinori",
+      "Nakae Chomin",
+      "Fukuzawa Yukichi"
+     ],
+     "answer": "Fukuzawa Yukichi",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 26,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-103",
+     "prompt": "25% of 140",
+     "answer": 35,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-175",
+     "prompt": "120 × 5",
+     "answer": 600,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-255",
+     "prompt": "17 × 13",
+     "answer": 221,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-192",
+     "prompt": "Which emperor moved Japan's capital to Heian-kyo in 794?",
+     "choices": [
+      "Shomu",
+      "Go-Daigo",
+      "Temmu",
+      "Kanmu"
+     ],
+     "answer": "Kanmu",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-049",
+     "prompt": "Which Russian commander-in-chief fought Napoleon at Borodino in 1812?",
+     "choices": [
+      "Kutuzov",
+      "Bagration",
+      "Suvorov",
+      "Barclay de Tolly"
+     ],
+     "answer": "Kutuzov",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-124",
+     "prompt": "Which Maya city's ruler Pakal was buried in the Temple of the Inscriptions?",
+     "choices": [
+      "Copan",
+      "Tikal",
+      "Calakmul",
+      "Palenque"
+     ],
+     "answer": "Palenque",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-238",
+     "prompt": "Who is the king of Troy in the Iliad?",
+     "choices": [
+      "Agenor",
+      "Priam",
+      "Anchises",
+      "Aeneas"
+     ],
+     "answer": "Priam",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-052",
+     "prompt": "Who wrote Utopia?",
+     "choices": [
+      "Thomas More",
+      "Francis Bacon",
+      "Thomas Hobbes",
+      "Erasmus"
+     ],
+     "answer": "Thomas More",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-039",
+     "prompt": "Who wrote the Partition novel Train to Pakistan?",
+     "choices": [
+      "Saadat Hasan Manto",
+      "Mulk Raj Anand",
+      "Khushwant Singh",
+      "Bhisham Sahni"
+     ],
+     "answer": "Khushwant Singh",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-245",
+     "prompt": "A boulder carried far from its source and left by ice is called what?",
+     "choices": [
+      "Monolith",
+      "Tor",
+      "Xenolith",
+      "Glacial erratic"
+     ],
+     "answer": "Glacial erratic",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-243",
+     "prompt": "A long winding ridge of sand and gravel deposited by meltwater streams is a what?",
+     "choices": [
+      "Erratic",
+      "Moraine",
+      "Drumlin",
+      "Esker"
+     ],
+     "answer": "Esker",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-264",
+     "prompt": "Streamlined, wind-sculpted ridges in deserts are called what?",
+     "choices": [
+      "Ventifacts",
+      "Yardangs",
+      "Tafoni",
+      "Barchans"
+     ],
+     "answer": "Yardangs",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-286",
+     "prompt": "Which monk founded a Japanese school centered on the Lotus Sutra's title chant?",
+     "choices": [
+      "Shinran",
+      "Kukai",
+      "Nichiren",
+      "Honen"
+     ],
+     "answer": "Nichiren",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-230",
+     "prompt": "Which Rawlsian principle allows inequalities only if they benefit the least advantaged?",
+     "choices": [
+      "The liberty principle",
+      "The difference principle",
+      "The harm principle",
+      "The veil principle"
+     ],
+     "answer": "The difference principle",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-197",
+     "prompt": "Which Vienna Circle member compared science to rebuilding a ship at sea?",
+     "choices": [
+      "Carl Hempel",
+      "Rudolf Carnap",
+      "Otto Neurath",
+      "Hans Reichenbach"
+     ],
+     "answer": "Otto Neurath",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

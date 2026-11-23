@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 16,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-066",
+     "prompt": "360 ÷ 9",
+     "answer": 40,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-025",
+     "prompt": "752 ÷ 16",
+     "answer": 47,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-039",
+     "prompt": "50% of 160",
+     "answer": 80,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-019",
+     "prompt": "Which Muslim commander led the 711 invasion of Iberia?",
+     "choices": [
+      "Saladin",
+      "Musa ibn Nusayr",
+      "Tariq ibn Ziyad",
+      "Yusuf ibn Tashfin"
+     ],
+     "answer": "Tariq ibn Ziyad",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-040",
+     "prompt": "Which English astronomer predicted the return of a comet in 1758?",
+     "choices": [
+      "Robert Hooke",
+      "John Flamsteed",
+      "Isaac Newton",
+      "Edmond Halley"
+     ],
+     "answer": "Edmond Halley",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-032",
+     "prompt": "Which Dutch company dominated the 17th-century spice trade from Batavia?",
+     "choices": [
+      "Hudson's Bay Company",
+      "Royal African Company",
+      "Virginia Company",
+      "Dutch East India Company"
+     ],
+     "answer": "Dutch East India Company",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-307",
+     "prompt": "Who won the 1969 Nobel Prize in Literature?",
+     "choices": [
+      "Samuel Beckett",
+      "Eugene Ionesco",
+      "Saul Bellow",
+      "Harold Pinter"
+     ],
+     "answer": "Samuel Beckett",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-171",
+     "prompt": "Who wrote Les Liaisons dangereuses?",
+     "choices": [
+      "Abbé Prévost",
+      "Choderlos de Laclos",
+      "Marivaux",
+      "Denis Diderot"
+     ],
+     "answer": "Choderlos de Laclos",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-153",
+     "prompt": "Who wrote the novel The Bell Jar?",
+     "choices": [
+      "Mary McCarthy",
+      "Joan Didion",
+      "Anne Sexton",
+      "Sylvia Plath"
+     ],
+     "answer": "Sylvia Plath",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-224",
+     "prompt": "Which cold current flows north along the southwest coast of Africa?",
+     "choices": [
+      "Guinea",
+      "Agulhas",
+      "Canary",
+      "Benguela"
+     ],
+     "answer": "Benguela",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-212",
+     "prompt": "A psychrometer uses wet-bulb and dry-bulb thermometers to measure what?",
+     "choices": [
+      "Wind speed",
+      "Pressure",
+      "Humidity",
+      "Visibility"
+     ],
+     "answer": "Humidity",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-052",
+     "prompt": "A rock formed by the welding of pyroclastic flow deposits is called what?",
+     "choices": [
+      "Tephrite",
+      "Dolerite",
+      "Kimberlite",
+      "Ignimbrite"
+     ],
+     "answer": "Ignimbrite",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-003",
+     "prompt": "Which Presocratic held that Nous, or Mind, set the cosmos in order?",
+     "choices": [
+      "Empedocles",
+      "Anaxagoras",
+      "Melissus",
+      "Anaximenes"
+     ],
+     "answer": "Anaxagoras",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-023",
+     "prompt": "Which Plato work closes with the Myth of Er?",
+     "choices": [
+      "Timaeus",
+      "Phaedo",
+      "Gorgias",
+      "Republic"
+     ],
+     "answer": "Republic",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-137",
+     "prompt": "Which Hegel work contains the lord and bondsman dialectic?",
+     "choices": [
+      "Philosophy of Right",
+      "Science of Logic",
+      "Phenomenology of Spirit",
+      "Encyclopedia of Sciences"
+     ],
+     "answer": "Phenomenology of Spirit",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

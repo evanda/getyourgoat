@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 59,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-163",
+     "prompt": "8 − 5",
+     "answer": 3,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-243",
+     "prompt": "4 + 8",
+     "answer": 12,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-236",
+     "prompt": "18 + 4",
+     "answer": 22,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-021",
+     "prompt": "What is a stone coffin from ancient Egypt called?",
+     "choices": [
+      "Sandcastle",
+      "Sarcophagus",
+      "Satellite",
+      "Sandal"
+     ],
+     "answer": "Sarcophagus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-249",
+     "prompt": "Dinosaurs hatched from what?",
+     "choices": [
+      "Seeds",
+      "Eggs",
+      "Pods",
+      "Bubbles"
+     ],
+     "answer": "Eggs",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-296",
+     "prompt": "Ancient Greek stories about gods and heroes are called what?",
+     "choices": [
+      "Myths",
+      "Mails",
+      "Maps",
+      "Menus"
+     ],
+     "answer": "Myths",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-088",
+     "prompt": "What did Mary have that followed her to school?",
+     "choices": [
+      "A little lamb",
+      "A little puppy",
+      "A little kitten",
+      "A little duck"
+     ],
+     "answer": "A little lamb",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-212",
+     "prompt": "Who wrote Heidi?",
+     "choices": [
+      "Johanna Spyri",
+      "Astrid Lindgren",
+      "L. M. Montgomery",
+      "Louisa May Alcott"
+     ],
+     "answer": "Johanna Spyri",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-084",
+     "prompt": "Who went up the hill to fetch a pail of water?",
+     "choices": [
+      "Jack and Jill",
+      "Tom and Kate",
+      "Peter and Paul",
+      "Bill and Sue"
+     ],
+     "answer": "Jack and Jill",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-111",
+     "prompt": "Which light rock floats on water?",
+     "choices": [
+      "Granite",
+      "Pumice",
+      "Marble",
+      "Slate"
+     ],
+     "answer": "Pumice",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-179",
+     "prompt": "Near which country is the Great Barrier Reef?",
+     "choices": [
+      "Canada",
+      "Brazil",
+      "Australia",
+      "India"
+     ],
+     "answer": "Australia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-172",
+     "prompt": "What do we call the water in lakes and rivers that has no salt?",
+     "choices": [
+      "Salt water",
+      "Sea water",
+      "Mud water",
+      "Fresh water"
+     ],
+     "answer": "Fresh water",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-200",
+     "prompt": "Butterflies taste with their what?",
+     "choices": [
+      "wings",
+      "wingtips",
+      "eyes",
+      "feet"
+     ],
+     "answer": "feet",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-167",
+     "prompt": "A fossil is an old bone turned to what?",
+     "choices": [
+      "ice",
+      "glass",
+      "stone",
+      "sand"
+     ],
+     "answer": "stone",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-214",
+     "prompt": "Beavers have strong front what?",
+     "choices": [
+      "wings",
+      "teeth",
+      "horns",
+      "tusks"
+     ],
+     "answer": "teeth",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

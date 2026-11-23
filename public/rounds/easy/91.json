@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 91,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-263",
+     "prompt": "17 + 19",
+     "answer": 36,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-199",
+     "prompt": "22 + 5",
+     "answer": 27,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-221",
+     "prompt": "9 + 1",
+     "answer": 10,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-244",
+     "prompt": "How many rings are on the Olympic flag?",
+     "choices": [
+      "5",
+      "3",
+      "7",
+      "10"
+     ],
+     "answer": "5",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-195",
+     "prompt": "A heavy gate that slid down to close a castle door is a what?",
+     "choices": [
+      "Porchlight",
+      "Doormat",
+      "Window",
+      "Portcullis"
+     ],
+     "answer": "Portcullis",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-315",
+     "prompt": "Which tool did early people use to make fire?",
+     "choices": [
+      "Matches",
+      "Lighters",
+      "Batteries",
+      "Sticks and sparks"
+     ],
+     "answer": "Sticks and sparks",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-292",
+     "prompt": "What does the Russian witch Baba Yaga's hut stand on?",
+     "choices": [
+      "Chicken legs",
+      "A turtle",
+      "Wooden wheels",
+      "A cloud"
+     ],
+     "answer": "Chicken legs",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-039",
+     "prompt": "What kind of animals pulled Cinderella's coach?",
+     "choices": [
+      "Goats",
+      "Horses",
+      "Oxen",
+      "Deer"
+     ],
+     "answer": "Horses",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-171",
+     "prompt": "Which Swedish writer made up the Karlsson-on-the-Roof story?",
+     "choices": [
+      "Roald Dahl",
+      "Astrid Lindgren",
+      "Tove Jansson",
+      "Lewis Carroll"
+     ],
+     "answer": "Astrid Lindgren",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-028",
+     "prompt": "What are clouds made of?",
+     "choices": [
+      "Cotton",
+      "Smoke",
+      "Feathers",
+      "Tiny water drops"
+     ],
+     "answer": "Tiny water drops",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-089",
+     "prompt": "What is the name of our galaxy?",
+     "choices": [
+      "Big Dipper",
+      "Orion",
+      "Milky Way",
+      "Sun Path"
+     ],
+     "answer": "Milky Way",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-027",
+     "prompt": "At what temperature in Celsius does water boil?",
+     "choices": [
+      "100 degrees",
+      "0 degrees",
+      "50 degrees",
+      "10 degrees"
+     ],
+     "answer": "100 degrees",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-192",
+     "prompt": "People can make cheese from the milk of which animal?",
+     "choices": [
+      "snake",
+      "hen",
+      "bee",
+      "goat"
+     ],
+     "answer": "goat",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-071",
+     "prompt": "Which animal has long ears and hops?",
+     "choices": [
+      "goat",
+      "pig",
+      "rabbit",
+      "duck"
+     ],
+     "answer": "rabbit",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-161",
+     "prompt": "Sea turtles lay their eggs on the what?",
+     "choices": [
+      "beach",
+      "treetop",
+      "ice",
+      "mountain"
+     ],
+     "answer": "beach",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

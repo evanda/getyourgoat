@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 10,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-300",
+     "prompt": "12 − 2",
+     "answer": 10,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-217",
+     "prompt": "3 × 6",
+     "answer": 18,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-246",
+     "prompt": "8 × 3",
+     "answer": 24,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-119",
+     "prompt": "Jane Goodall spent her life studying which animals?",
+     "choices": [
+      "Penguins",
+      "Sharks",
+      "Elephants",
+      "Chimpanzees"
+     ],
+     "answer": "Chimpanzees",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-084",
+     "prompt": "What did early people learn to make for warmth and light?",
+     "choices": [
+      "Fire",
+      "Batteries",
+      "Plastic",
+      "Glass"
+     ],
+     "answer": "Fire",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-196",
+     "prompt": "Windmills were used to grind grain into what?",
+     "choices": [
+      "Flour",
+      "Sugar",
+      "Milk",
+      "Juice"
+     ],
+     "answer": "Flour",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-068",
+     "prompt": "Why did the hare lose the race?",
+     "choices": [
+      "He took a nap",
+      "He got lost",
+      "He was tied up",
+      "He tripped"
+     ],
+     "answer": "He took a nap",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-070",
+     "prompt": "What happens when the boy finally sees a real wolf?",
+     "choices": [
+      "He wins a prize",
+      "The wolf runs away",
+      "No one believes him",
+      "He climbs a tree"
+     ],
+     "answer": "No one believes him",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-309",
+     "prompt": "Which flowers put Dorothy to sleep in Oz?",
+     "choices": [
+      "Roses",
+      "Daisies",
+      "Tulips",
+      "Poppies"
+     ],
+     "answer": "Poppies",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-305",
+     "prompt": "What does a Moon cycle go from full Moon back to full Moon in?",
+     "choices": [
+      "About a month",
+      "One day",
+      "One year",
+      "One hour"
+     ],
+     "answer": "About a month",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-203",
+     "prompt": "On which continent do penguins live in the wild near the South Pole?",
+     "choices": [
+      "Antarctica",
+      "Europe",
+      "Asia",
+      "Africa"
+     ],
+     "answer": "Antarctica",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-297",
+     "prompt": "Which U.S. state is made up of islands in the Pacific?",
+     "choices": [
+      "Alaska",
+      "Maine",
+      "Hawaii",
+      "Utah"
+     ],
+     "answer": "Hawaii",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-095",
+     "prompt": "Frogs mostly eat what?",
+     "choices": [
+      "grass",
+      "nuts",
+      "insects",
+      "bread"
+     ],
+     "answer": "insects",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-078",
+     "prompt": "Giant pandas mostly eat what?",
+     "choices": [
+      "fish",
+      "bamboo",
+      "meat",
+      "ants"
+     ],
+     "answer": "bamboo",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-082",
+     "prompt": "Giraffes eat leaves from what?",
+     "choices": [
+      "the sea",
+      "tall trees",
+      "cheese",
+      "snow"
+     ],
+     "answer": "tall trees",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

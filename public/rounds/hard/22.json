@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 22,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-110",
+     "prompt": "44 × 18",
+     "answer": 792,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-003",
+     "prompt": "16²",
+     "answer": 256,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-024",
+     "prompt": "10 × 9 − 8 × 11",
+     "answer": 2,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-253",
+     "prompt": "Which general commanded Britain's Eighth Army at the Second Battle of El Alamein?",
+     "choices": [
+      "Montgomery",
+      "Wavell",
+      "Slim",
+      "Auchinleck"
+     ],
+     "answer": "Montgomery",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-200",
+     "prompt": "Which Songhai ruler captured Timbuktu in 1468?",
+     "choices": [
+      "Askia Muhammad",
+      "Sundiata Keita",
+      "Mansa Musa",
+      "Sonni Ali"
+     ],
+     "answer": "Sonni Ali",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-111",
+     "prompt": "Which Dahomey fighters were an all-female military unit?",
+     "choices": [
+      "Mossi",
+      "Kushite",
+      "Agojie",
+      "Zulu impi"
+     ],
+     "answer": "Agojie",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-202",
+     "prompt": "Who is the student protagonist of Crime and Punishment?",
+     "choices": [
+      "Raskolnikov",
+      "Razumikhin",
+      "Luzhin",
+      "Svidrigailov"
+     ],
+     "answer": "Raskolnikov",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-222",
+     "prompt": "Who wrote the comedy She Stoops to Conquer?",
+     "choices": [
+      "Oliver Goldsmith",
+      "Samuel Johnson",
+      "Richard Sheridan",
+      "Henry Fielding"
+     ],
+     "answer": "Oliver Goldsmith",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-244",
+     "prompt": "Who wrote the novel Native Son?",
+     "choices": [
+      "Langston Hughes",
+      "Ralph Ellison",
+      "Richard Wright",
+      "James Baldwin"
+     ],
+     "answer": "Richard Wright",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-024",
+     "prompt": "In Bowen's reaction series, which mineral crystallizes last?",
+     "choices": [
+      "Orthoclase",
+      "Quartz",
+      "Hornblende",
+      "Biotite"
+     ],
+     "answer": "Quartz",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-279",
+     "prompt": "Which is the highest peak in the Sierra Nevada of California?",
+     "choices": [
+      "Mount Shasta",
+      "Mount Hood",
+      "Mount Rainier",
+      "Mount Whitney"
+     ],
+     "answer": "Mount Whitney",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-022",
+     "prompt": "Hornblende is a common mineral of which group?",
+     "choices": [
+      "Pyroxene",
+      "Amphibole",
+      "Feldspar",
+      "Mica"
+     ],
+     "answer": "Amphibole",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-088",
+     "prompt": "Which Cardinal wrote On Learned Ignorance?",
+     "choices": [
+      "Marsilio Ficino",
+      "Pico della Mirandola",
+      "Pomponazzi",
+      "Nicholas of Cusa"
+     ],
+     "answer": "Nicholas of Cusa",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-054",
+     "prompt": "Which Greek term did Aristotle's Poetics use for the error that brings a tragic hero down?",
+     "choices": [
+      "Anagnorisis",
+      "Catharsis",
+      "Peripeteia",
+      "Hamartia"
+     ],
+     "answer": "Hamartia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-169",
+     "prompt": "What term does Heidegger use for the human way of being?",
+     "choices": [
+      "Gestell",
+      "Lebenswelt",
+      "Dasein",
+      "Mitsein"
+     ],
+     "answer": "Dasein",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

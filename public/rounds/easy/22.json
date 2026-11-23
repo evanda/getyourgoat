@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 22,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-030",
+     "prompt": "11 − 1",
+     "answer": 10,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-025",
+     "prompt": "35 + 3",
+     "answer": 38,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-044",
+     "prompt": "4 × 2",
+     "answer": 8,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-169",
+     "prompt": "The Empire State Building stands in which city?",
+     "choices": [
+      "Chicago",
+      "New York City",
+      "Los Angeles",
+      "Boston"
+     ],
+     "answer": "New York City",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-240",
+     "prompt": "One hundred years is called a what?",
+     "choices": [
+      "Century",
+      "Decade",
+      "Month",
+      "Minute"
+     ],
+     "answer": "Century",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-030",
+     "prompt": "Who was the Greek god of the sea?",
+     "choices": [
+      "Zeus",
+      "Hades",
+      "Poseidon",
+      "Apollo"
+     ],
+     "answer": "Poseidon",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-021",
+     "prompt": "Who lives at the top of Jack's beanstalk?",
+     "choices": [
+      "A dragon",
+      "A witch",
+      "A wizard",
+      "A giant"
+     ],
+     "answer": "A giant",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-104",
+     "prompt": "What did Simple Simon meet?",
+     "choices": [
+      "A pieman",
+      "A baker",
+      "A farmer",
+      "A king"
+     ],
+     "answer": "A pieman",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-100",
+     "prompt": "What twinkled in the song \"Twinkle, Twinkle\"?",
+     "choices": [
+      "A little star",
+      "A candle",
+      "A firefly",
+      "A lamp"
+     ],
+     "answer": "A little star",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-134",
+     "prompt": "Which famous Yellowstone geyser shoots up many times every day?",
+     "choices": [
+      "Old Faithful",
+      "Big Splash",
+      "Hot Tower",
+      "Steam Rock"
+     ],
+     "answer": "Old Faithful",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-124",
+     "prompt": "What do we call a hill of sand shaped by wind?",
+     "choices": [
+      "Crater",
+      "Canyon",
+      "Reef",
+      "Dune"
+     ],
+     "answer": "Dune",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-197",
+     "prompt": "On which continent do we find the country of Brazil?",
+     "choices": [
+      "Africa",
+      "South America",
+      "Europe",
+      "Asia"
+     ],
+     "answer": "South America",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-129",
+     "prompt": "A crocodile is what kind of animal?",
+     "choices": [
+      "reptile",
+      "mammal",
+      "bird",
+      "insect"
+     ],
+     "answer": "reptile",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-218",
+     "prompt": "The biggest animal eats tiny shrimp-like animals called what?",
+     "choices": [
+      "pickles",
+      "krill",
+      "worms",
+      "clams"
+     ],
+     "answer": "krill",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-249",
+     "prompt": "An animal's habitat is its natural what?",
+     "choices": [
+      "home",
+      "food",
+      "sound",
+      "color"
+     ],
+     "answer": "home",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

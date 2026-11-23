@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 81,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-004",
+     "prompt": "13 × 12",
+     "answer": 156,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-287",
+     "prompt": "15 × 8 − 8 × 9",
+     "answer": 48,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-280",
+     "prompt": "21 × 12",
+     "answer": 252,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-119",
+     "prompt": "Which 1955 Soviet-led military alliance was created in response to West Germany joining NATO?",
+     "choices": [
+      "SEATO",
+      "Comecon",
+      "Warsaw Pact",
+      "Cominform"
+     ],
+     "answer": "Warsaw Pact",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-072",
+     "prompt": "Which Byzantine emperor reconquered much of the Western Mediterranean?",
+     "choices": [
+      "Constantine XI",
+      "Heraclius",
+      "Basil II",
+      "Justinian I"
+     ],
+     "answer": "Justinian I",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-089",
+     "prompt": "Which English scientist discovered the electron in 1897?",
+     "choices": [
+      "J. J. Thomson",
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "James Chadwick"
+     ],
+     "answer": "J. J. Thomson",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-157",
+     "prompt": "Who wrote the Persian classic Gulistan?",
+     "choices": [
+      "Ferdowsi",
+      "Saadi",
+      "Hafez",
+      "Omar Khayyam"
+     ],
+     "answer": "Saadi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-036",
+     "prompt": "Who wrote the Vietnamese verse epic The Tale of Kieu?",
+     "choices": [
+      "Hồ Xuân Hương",
+      "Nguyễn Đình Chiểu",
+      "Nguyễn Trãi",
+      "Nguyễn Du"
+     ],
+     "answer": "Nguyễn Du",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-179",
+     "prompt": "Which writer took a pen name echoing Edgar Allan Poe, founding Japanese detective fiction?",
+     "choices": [
+      "Mori Ōgai",
+      "Edogawa Rampo",
+      "Seishi Yokomizo",
+      "Kyūsaku Yumeno"
+     ],
+     "answer": "Edogawa Rampo",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-195",
+     "prompt": "The warm, dry downslope wind of the Rocky Mountains is called what?",
+     "choices": [
+      "Chinook",
+      "Bora",
+      "Mistral",
+      "Sirocco"
+     ],
+     "answer": "Chinook",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-029",
+     "prompt": "Which transparent calcite variety shows strong double refraction?",
+     "choices": [
+      "Dogtooth spar",
+      "Satin spar",
+      "Onyx marble",
+      "Iceland spar"
+     ],
+     "answer": "Iceland spar",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-247",
+     "prompt": "A smoothed, rounded bedrock hill with a plucked lee side is called what?",
+     "choices": [
+      "Tor",
+      "Roche moutonnee",
+      "Drumlin",
+      "Nunatak"
+     ],
+     "answer": "Roche moutonnee",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-046",
+     "prompt": "What Stoic term names freedom from destructive passions?",
+     "choices": [
+      "Eupatheia",
+      "Ataraxia",
+      "Aponia",
+      "Apatheia"
+     ],
+     "answer": "Apatheia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-312",
+     "prompt": "Which Tamil poet is credited with the Tirukkural?",
+     "choices": [
+      "Thiruvalluvar",
+      "Avvaiyar",
+      "Kambar",
+      "Ilango Adigal"
+     ],
+     "answer": "Thiruvalluvar",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-010",
+     "prompt": "Plato named two dialogues after which polymath Sophist from Elis?",
+     "choices": [
+      "Prodicus",
+      "Protagoras",
+      "Gorgias",
+      "Hippias"
+     ],
+     "answer": "Hippias",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

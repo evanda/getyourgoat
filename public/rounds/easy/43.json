@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 43,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-284",
+     "prompt": "8 + 7",
+     "answer": 15,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-302",
+     "prompt": "19 − 9",
+     "answer": 10,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-142",
+     "prompt": "7 + 7",
+     "answer": 14,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-299",
+     "prompt": "The Great Wall of China is very long and very what?",
+     "choices": [
+      "New",
+      "Short",
+      "Soft",
+      "Old"
+     ],
+     "answer": "Old",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-205",
+     "prompt": "Which day of the week is named after the Viking god Thor?",
+     "choices": [
+      "Monday",
+      "Thursday",
+      "Friday",
+      "Sunday"
+     ],
+     "answer": "Thursday",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-104",
+     "prompt": "Thick sheets of ice once covered much of Earth in the what?",
+     "choices": [
+      "Ice Age",
+      "Sun Age",
+      "Rain Age",
+      "Wind Age"
+     ],
+     "answer": "Ice Age",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-153",
+     "prompt": "Which girl first saves Wilbur as a piglet?",
+     "choices": [
+      "Heidi",
+      "Alice",
+      "Wendy",
+      "Fern"
+     ],
+     "answer": "Fern",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-312",
+     "prompt": "What does Pooh get stuck in while visiting Rabbit?",
+     "choices": [
+      "A hole",
+      "A tree",
+      "A jar",
+      "A chair"
+     ],
+     "answer": "A hole",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-238",
+     "prompt": "Which toy bear in overalls waits in a store for a friend?",
+     "choices": [
+      "Paddington",
+      "Pooh",
+      "Corduroy",
+      "Baloo"
+     ],
+     "answer": "Corduroy",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-064",
+     "prompt": "In which direction does the Sun rise?",
+     "choices": [
+      "East",
+      "West",
+      "North",
+      "South"
+     ],
+     "answer": "East",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-086",
+     "prompt": "Who was the first person to walk on the Moon?",
+     "choices": [
+      "Neil Armstrong",
+      "Buzz Lightyear",
+      "Yuri Gagarin",
+      "Sally Ride"
+     ],
+     "answer": "Neil Armstrong",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-196",
+     "prompt": "On which continent is Egypt?",
+     "choices": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "South America"
+     ],
+     "answer": "Africa",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-060",
+     "prompt": "A female horse is called a what?",
+     "choices": [
+      "stallion",
+      "foal",
+      "calf",
+      "mare"
+     ],
+     "answer": "mare",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-053",
+     "prompt": "Which bird says \"caw\"?",
+     "choices": [
+      "crow",
+      "owl",
+      "duck",
+      "hen"
+     ],
+     "answer": "crow",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-233",
+     "prompt": "How many legs does a cow have?",
+     "choices": [
+      "4",
+      "2",
+      "6",
+      "8"
+     ],
+     "answer": "4",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

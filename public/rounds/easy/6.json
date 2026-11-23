@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 6,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-216",
+     "prompt": "9 × 6",
+     "answer": 54,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-293",
+     "prompt": "39 + 39",
+     "answer": 78,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-165",
+     "prompt": "6 + 1",
+     "answer": 7,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-259",
+     "prompt": "The ancient Olympics honored which Greek god?",
+     "choices": [
+      "Poseidon",
+      "Apollo",
+      "Hermes",
+      "Zeus"
+     ],
+     "answer": "Zeus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-045",
+     "prompt": "Which Greek thinker is said to have shouted Eureka in his bath?",
+     "choices": [
+      "Homer",
+      "Archimedes",
+      "Aesop",
+      "Zeus"
+     ],
+     "answer": "Archimedes",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-123",
+     "prompt": "Sailing around the world helped show that Earth is what shape?",
+     "choices": [
+      "Flat",
+      "Square",
+      "Triangle",
+      "Round"
+     ],
+     "answer": "Round",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-202",
+     "prompt": "What does Paddington love to eat?",
+     "choices": [
+      "Honey",
+      "Fish",
+      "Marmalade sandwiches",
+      "Carrots"
+     ],
+     "answer": "Marmalade sandwiches",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-311",
+     "prompt": "What is Tom Kitten's family: Tom, Moppet and who else?",
+     "choices": [
+      "Whiskers",
+      "Mittens",
+      "Fluffy",
+      "Socks"
+     ],
+     "answer": "Mittens",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-200",
+     "prompt": "Who is the bear from Peru in children's books who loves marmalade?",
+     "choices": [
+      "Paddington",
+      "Pooh",
+      "Rupert",
+      "Baloo"
+     ],
+     "answer": "Paddington",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-295",
+     "prompt": "What is a group of islands called?",
+     "choices": [
+      "Peninsula",
+      "Delta",
+      "Canyon",
+      "Archipelago"
+     ],
+     "answer": "Archipelago",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-247",
+     "prompt": "Which planet is known as the Morning Star because it shines brightly?",
+     "choices": [
+      "Jupiter",
+      "Pluto",
+      "Neptune",
+      "Venus"
+     ],
+     "answer": "Venus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-141",
+     "prompt": "What do we call a mountain that can erupt with lava?",
+     "choices": [
+      "Glacier",
+      "Canyon",
+      "Dune",
+      "Volcano"
+     ],
+     "answer": "Volcano",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-039",
+     "prompt": "Which animal says \"ribbit\"?",
+     "choices": [
+      "bee",
+      "owl",
+      "frog",
+      "mouse"
+     ],
+     "answer": "frog",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-239",
+     "prompt": "Which white bird has a long curved neck and swims on lakes?",
+     "choices": [
+      "owl",
+      "crow",
+      "swan",
+      "hen"
+     ],
+     "answer": "swan",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-209",
+     "prompt": "How many neck bones does a giraffe have?",
+     "choices": [
+      "seven",
+      "two",
+      "twenty",
+      "fifty"
+     ],
+     "answer": "seven",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

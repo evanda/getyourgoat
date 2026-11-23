@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 54,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-096",
+     "prompt": "3 × 3",
+     "answer": 9,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-102",
+     "prompt": "25 − 5",
+     "answer": 20,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-168",
+     "prompt": "30 + 2",
+     "answer": 32,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-154",
+     "prompt": "What is the name of the United States space agency?",
+     "choices": [
+      "NBA",
+      "NFL",
+      "NASA",
+      "NHL"
+     ],
+     "answer": "NASA",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-052",
+     "prompt": "What number does the Roman numeral X mean?",
+     "choices": [
+      "10",
+      "5",
+      "50",
+      "100"
+     ],
+     "answer": "10",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-287",
+     "prompt": "Who came up with the theory of relativity?",
+     "choices": [
+      "Isaac Newton",
+      "Thomas Edison",
+      "Charles Darwin",
+      "Albert Einstein"
+     ],
+     "answer": "Albert Einstein",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-222",
+     "prompt": "What does the pirate parrot in Treasure Island say?",
+     "choices": [
+      "Hello there",
+      "Fire away",
+      "Pieces of eight",
+      "Land ahoy"
+     ],
+     "answer": "Pieces of eight",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-295",
+     "prompt": "How many dwarfs help Snow White?",
+     "choices": [
+      "Five",
+      "Seven",
+      "Three",
+      "Nine"
+     ],
+     "answer": "Seven",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-272",
+     "prompt": "Who is Robin Hood's big friend with a staff?",
+     "choices": [
+      "Little John",
+      "Will Scarlet",
+      "Friar Tuck",
+      "Alan-a-Dale"
+     ],
+     "answer": "Little John",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-110",
+     "prompt": "Which rock is shiny black glass made by a volcano?",
+     "choices": [
+      "Chalk",
+      "Sandstone",
+      "Obsidian",
+      "Marble"
+     ],
+     "answer": "Obsidian",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-078",
+     "prompt": "Which planet is known for a Great Red Spot storm?",
+     "choices": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Neptune"
+     ],
+     "answer": "Jupiter",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-245",
+     "prompt": "How many hours are in a day?",
+     "choices": [
+      "12",
+      "24",
+      "10",
+      "60"
+     ],
+     "answer": "24",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-059",
+     "prompt": "A male sheep is called a what?",
+     "choices": [
+      "ewe",
+      "lamb",
+      "ram",
+      "kid"
+     ],
+     "answer": "ram",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-226",
+     "prompt": "Which bird lays the biggest egg?",
+     "choices": [
+      "robin",
+      "ostrich",
+      "duck",
+      "eagle"
+     ],
+     "answer": "ostrich",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-292",
+     "prompt": "Which bird is known for being a wise old animal in stories?",
+     "choices": [
+      "duck",
+      "chicken",
+      "crow",
+      "owl"
+     ],
+     "answer": "owl",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

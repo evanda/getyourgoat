@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 90,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-059",
+     "prompt": "11 × 13 − 12 × 10",
+     "answer": 23,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-107",
+     "prompt": "24 × 19",
+     "answer": 456,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-031",
+     "prompt": "11 × 13 − 9 × 7",
+     "answer": 80,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-084",
+     "prompt": "Which 751 battle in Central Asia pitted the Abbasids against Tang China?",
+     "choices": [
+      "Tours",
+      "Ain Jalut",
+      "Yarmouk",
+      "Talas"
+     ],
+     "answer": "Talas",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-172",
+     "prompt": "Which Basque town was bombed in 1937, inspiring a Picasso painting?",
+     "choices": [
+      "Toledo",
+      "Barcelona",
+      "Madrid",
+      "Guernica"
+     ],
+     "answer": "Guernica",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-136",
+     "prompt": "Which captain completed the first circumnavigation after Magellan died?",
+     "choices": [
+      "Pedro Cabral",
+      "Francis Drake",
+      "Vasco da Gama",
+      "Juan Sebastian Elcano"
+     ],
+     "answer": "Juan Sebastian Elcano",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-133",
+     "prompt": "Which empire did Sundiata Keita found, as told in a West African epic?",
+     "choices": [
+      "Kanem-Bornu",
+      "Mali Empire",
+      "Ghana Empire",
+      "Songhai Empire"
+     ],
+     "answer": "Mali Empire",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-032",
+     "prompt": "Who wrote the novel July's People?",
+     "choices": [
+      "Athol Fugard",
+      "J. M. Coetzee",
+      "André Brink",
+      "Nadine Gordimer"
+     ],
+     "answer": "Nadine Gordimer",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-194",
+     "prompt": "Who wrote the comic play Accidental Death of an Anarchist?",
+     "choices": [
+      "Luigi Pirandello",
+      "Dario Fo",
+      "Carlo Goldoni",
+      "Eduardo De Filippo"
+     ],
+     "answer": "Dario Fo",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-268",
+     "prompt": "Which dune type forms where winds shift direction, with several arms?",
+     "choices": [
+      "Transverse dune",
+      "Linear dune",
+      "Barchan",
+      "Star dune"
+     ],
+     "answer": "Star dune",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-089",
+     "prompt": "The Red Sea is widening as the Arabian plate pulls away from which plate?",
+     "choices": [
+      "African",
+      "Anatolian",
+      "Indian",
+      "Eurasian"
+     ],
+     "answer": "African",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-013",
+     "prompt": "Which mineral is calcium magnesium carbonate?",
+     "choices": [
+      "Aragonite",
+      "Siderite",
+      "Dolomite",
+      "Magnesite"
+     ],
+     "answer": "Dolomite",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-048",
+     "prompt": "Which skeptic's Outlines of Pyrrhonism is our main source on that school?",
+     "choices": [
+      "Carneades",
+      "Sextus Empiricus",
+      "Timon",
+      "Aenesidemus"
+     ],
+     "answer": "Sextus Empiricus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-200",
+     "prompt": "Who translated Wittgenstein's Philosophical Investigations into English?",
+     "choices": [
+      "Mary Warnock",
+      "G. E. M. Anscombe",
+      "Philippa Foot",
+      "Iris Murdoch"
+     ],
+     "answer": "G. E. M. Anscombe",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-086",
+     "prompt": "Which medieval thinker is traditionally credited with the doctrine of double effect?",
+     "choices": [
+      "Anselm",
+      "Thomas Aquinas",
+      "Augustine",
+      "Duns Scotus"
+     ],
+     "answer": "Thomas Aquinas",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

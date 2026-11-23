@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 21,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-155",
+     "prompt": "3 × 9",
+     "answer": 27,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-198",
+     "prompt": "6 + 3",
+     "answer": 9,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-029",
+     "prompt": "25 + 8",
+     "answer": 33,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-170",
+     "prompt": "The Golden Gate Bridge is in which US city?",
+     "choices": [
+      "Seattle",
+      "New York",
+      "San Francisco",
+      "Miami"
+     ],
+     "answer": "San Francisco",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-165",
+     "prompt": "The Taj Mahal was built by a ruler for whom?",
+     "choices": [
+      "His dog",
+      "His wife",
+      "His teacher",
+      "His cook"
+     ],
+     "answer": "His wife",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-005",
+     "prompt": "Which statue in Egypt has a lion's body and a human head?",
+     "choices": [
+      "The Colossus",
+      "The Sphinx",
+      "The Minotaur",
+      "The Griffin"
+     ],
+     "answer": "The Sphinx",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-264",
+     "prompt": "How many legs does Odin's horse Sleipnir have?",
+     "choices": [
+      "Eight",
+      "Four",
+      "Six",
+      "Ten"
+     ],
+     "answer": "Eight",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-262",
+     "prompt": "Where do Norse gods live?",
+     "choices": [
+      "Olympus",
+      "Narnia",
+      "Asgard",
+      "Valhalla Bay"
+     ],
+     "answer": "Asgard",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-038",
+     "prompt": "In The Snow Queen, which friend does Gerda go to rescue?",
+     "choices": [
+      "Hans",
+      "Peter",
+      "Kai",
+      "Karl"
+     ],
+     "answer": "Kai",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-193",
+     "prompt": "Which is the smallest continent?",
+     "choices": [
+      "Australia",
+      "Europe",
+      "Antarctica",
+      "Africa"
+     ],
+     "answer": "Australia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-176",
+     "prompt": "What do we call the edge of land next to the sea?",
+     "choices": [
+      "Coast",
+      "Peak",
+      "Desert",
+      "Valley"
+     ],
+     "answer": "Coast",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-003",
+     "prompt": "What do we call soft white flakes that fall in cold weather?",
+     "choices": [
+      "Sand",
+      "Pollen",
+      "Snow",
+      "Ash"
+     ],
+     "answer": "Snow",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-250",
+     "prompt": "Hiding by blending in with the surroundings is called what?",
+     "choices": [
+      "hibernation",
+      "camouflage",
+      "migration",
+      "shedding"
+     ],
+     "answer": "camouflage",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-015",
+     "prompt": "A baby swan is called a what?",
+     "choices": [
+      "duckling",
+      "gosling",
+      "cygnet",
+      "chick"
+     ],
+     "answer": "cygnet",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-184",
+     "prompt": "Which colorful bird has a very big beak?",
+     "choices": [
+      "robin",
+      "sparrow",
+      "dove",
+      "toucan"
+     ],
+     "answer": "toucan",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

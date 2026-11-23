@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 49,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-104",
+     "prompt": "18²",
+     "answer": 324,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-165",
+     "prompt": "27 × 18",
+     "answer": 486,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-265",
+     "prompt": "42 × 20",
+     "answer": 840,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-131",
+     "prompt": "Which ruler founded the Akkadian Empire in Mesopotamia?",
+     "choices": [
+      "Ur-Nammu",
+      "Hammurabi",
+      "Sargon of Akkad",
+      "Nebuchadnezzar II"
+     ],
+     "answer": "Sargon of Akkad",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-265",
+     "prompt": "Which 1688 event replaced James II with William and Mary?",
+     "choices": [
+      "Glorious Revolution",
+      "Restoration",
+      "Jacobite Rising",
+      "English Civil War"
+     ],
+     "answer": "Glorious Revolution",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-076",
+     "prompt": "Which Italian physicist invented the electric battery in 1800?",
+     "choices": [
+      "Enrico Fermi",
+      "Andre Ampere",
+      "Luigi Galvani",
+      "Alessandro Volta"
+     ],
+     "answer": "Alessandro Volta",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-169",
+     "prompt": "Who wrote the long poem The Cantos?",
+     "choices": [
+      "William Carlos Williams",
+      "T. S. Eliot",
+      "Wallace Stevens",
+      "Ezra Pound"
+     ],
+     "answer": "Ezra Pound",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-257",
+     "prompt": "Who wrote the Parallel Lives of Greeks and Romans?",
+     "choices": [
+      "Plutarch",
+      "Suetonius",
+      "Livy",
+      "Herodotus"
+     ],
+     "answer": "Plutarch",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-002",
+     "prompt": "Who wrote the play Hedda Gabler?",
+     "choices": [
+      "August Strindberg",
+      "Anton Chekhov",
+      "Henrik Ibsen",
+      "Maurice Maeterlinck"
+     ],
+     "answer": "Henrik Ibsen",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-299",
+     "prompt": "Which is the largest peninsula in the world?",
+     "choices": [
+      "Scandinavian Peninsula",
+      "Iberian Peninsula",
+      "Indochina",
+      "Arabian Peninsula"
+     ],
+     "answer": "Arabian Peninsula",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-190",
+     "prompt": "Which cloud genus forms a thick gray layer that brings steady, prolonged rain or snow?",
+     "choices": [
+      "Nimbostratus",
+      "Cumulonimbus",
+      "Altostratus",
+      "Stratus"
+     ],
+     "answer": "Nimbostratus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-205",
+     "prompt": "Tropical cyclones generally need sea surface temperatures above about what?",
+     "choices": [
+      "26.5 C",
+      "20 C",
+      "35 C",
+      "15 C"
+     ],
+     "answer": "26.5 C",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-297",
+     "prompt": "Which sage is credited with the atomist Vaisheshika Sutras?",
+     "choices": [
+      "Kapila",
+      "Patanjali",
+      "Kanada",
+      "Jaimini"
+     ],
+     "answer": "Kanada",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-098",
+     "prompt": "Which gland did Descartes name as the seat of interaction between mind and body?",
+     "choices": [
+      "The adrenal gland",
+      "The pineal gland",
+      "The thyroid gland",
+      "The pituitary gland"
+     ],
+     "answer": "The pineal gland",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-009",
+     "prompt": "Which Sophist, noted for fine word distinctions, told of Heracles choosing between Vice and Virtue?",
+     "choices": [
+      "Gorgias",
+      "Antiphon",
+      "Prodicus",
+      "Thrasymachus"
+     ],
+     "answer": "Prodicus",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

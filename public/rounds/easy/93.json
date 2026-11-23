@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 93,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-160",
+     "prompt": "8 × 9",
+     "answer": 72,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-035",
+     "prompt": "45 + 28",
+     "answer": 73,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-085",
+     "prompt": "10 × 9",
+     "answer": 90,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-112",
+     "prompt": "Which young woman helped Lewis and Clark explore the West?",
+     "choices": [
+      "Sacagawea",
+      "Betsy Ross",
+      "Rosa Parks",
+      "Marie Curie"
+     ],
+     "answer": "Sacagawea",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-134",
+     "prompt": "Henry Ford made cars cheaper with the what?",
+     "choices": [
+      "Magic wand",
+      "Time machine",
+      "Assembly line",
+      "Cookie jar"
+     ],
+     "answer": "Assembly line",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-282",
+     "prompt": "The Hubble Space Telescope travels around what?",
+     "choices": [
+      "The Sun",
+      "Mars",
+      "Earth",
+      "Pluto"
+     ],
+     "answer": "Earth",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-263",
+     "prompt": "What kind of animal pulls Thor's chariot?",
+     "choices": [
+      "Horses",
+      "Goats",
+      "Bears",
+      "Wolves"
+     ],
+     "answer": "Goats",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-216",
+     "prompt": "How many March sisters are in Little Women?",
+     "choices": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+     ],
+     "answer": "Four",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-267",
+     "prompt": "What does the Russian witch Baba Yaga fly in?",
+     "choices": [
+      "A broom",
+      "A mortar",
+      "A bird",
+      "A cart"
+     ],
+     "answer": "A mortar",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-014",
+     "prompt": "What do we call a very big, spinning storm that forms over warm ocean water?",
+     "choices": [
+      "Blizzard",
+      "Drizzle",
+      "Hurricane",
+      "Breeze"
+     ],
+     "answer": "Hurricane",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-117",
+     "prompt": "What is the very top layer of soil good for growing plants called?",
+     "choices": [
+      "Bedrock",
+      "Topsoil",
+      "Magma",
+      "Lava"
+     ],
+     "answer": "Topsoil",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-253",
+     "prompt": "What are the dark patches we see on the Moon?",
+     "choices": [
+      "Lakes",
+      "Forests",
+      "Clouds",
+      "Flat plains of old lava"
+     ],
+     "answer": "Flat plains of old lava",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-152",
+     "prompt": "Which is the biggest fish?",
+     "choices": [
+      "dolphin",
+      "swordfish",
+      "trout",
+      "whale shark"
+     ],
+     "answer": "whale shark",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-211",
+     "prompt": "Giant pandas are black and what?",
+     "choices": [
+      "pink",
+      "green",
+      "white",
+      "blue"
+     ],
+     "answer": "white",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-171",
+     "prompt": "An elephant's long nose is called a what?",
+     "choices": [
+      "tusk",
+      "horn",
+      "trunk",
+      "beak"
+     ],
+     "answer": "trunk",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

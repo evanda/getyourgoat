@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 44,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-301",
+     "prompt": "26 × 17",
+     "answer": 442,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-121",
+     "prompt": "315 ÷ 15",
+     "answer": 21,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-203",
+     "prompt": "41 × 28",
+     "answer": 1148,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-241",
+     "prompt": "Which Alexander general founded the Ptolemaic dynasty in Egypt?",
+     "choices": [
+      "Ptolemy I",
+      "Cassander",
+      "Antigonus I",
+      "Seleucus I"
+     ],
+     "answer": "Ptolemy I",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-173",
+     "prompt": "Which Scottish leader shared command with Andrew Moray at Stirling Bridge?",
+     "choices": [
+      "William Wallace",
+      "John Balliol",
+      "Robert the Bruce",
+      "David II"
+     ],
+     "answer": "William Wallace",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-188",
+     "prompt": "Which Sudanese leader's forces killed General Gordon at Khartoum in 1885?",
+     "choices": [
+      "Zubayr Pasha",
+      "The Khalifa",
+      "Osman Digna",
+      "The Mahdi"
+     ],
+     "answer": "The Mahdi",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-281",
+     "prompt": "Who wrote the poetry collection Harmonium?",
+     "choices": [
+      "Ezra Pound",
+      "Wallace Stevens",
+      "Hart Crane",
+      "William Carlos Williams"
+     ],
+     "answer": "Wallace Stevens",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-072",
+     "prompt": "Who wrote the poem collection Canto General?",
+     "choices": [
+      "Nicolás Guillén",
+      "César Vallejo",
+      "Pablo Neruda",
+      "Octavio Paz"
+     ],
+     "answer": "Pablo Neruda",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-103",
+     "prompt": "Which Urdu poet of Delhi wrote famed ghazals in the 19th century?",
+     "choices": [
+      "Muhammad Iqbal",
+      "Josh Malihabadi",
+      "Faiz Ahmed Faiz",
+      "Mirza Ghalib"
+     ],
+     "answer": "Mirza Ghalib",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-141",
+     "prompt": "The Solnhofen limestone of Germany is famous for which fossil?",
+     "choices": [
+      "Tyrannosaurus",
+      "Dunkleosteus",
+      "Ichthyostega",
+      "Archaeopteryx"
+     ],
+     "answer": "Archaeopteryx",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-123",
+     "prompt": "Which Danish scientist first stated the principles of superposition in 1669?",
+     "choices": [
+      "Johann Lehmann",
+      "Abraham Werner",
+      "Georges Cuvier",
+      "Nicolas Steno"
+     ],
+     "answer": "Nicolas Steno",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-150",
+     "prompt": "Which tusked reptile relative was a major survivor and spreader after the Permian extinction?",
+     "choices": [
+      "Cynognathus",
+      "Lystrosaurus",
+      "Moschops",
+      "Dicynodon"
+     ],
+     "answer": "Lystrosaurus",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-089",
+     "prompt": "Which Florentine scholar translated Plato's dialogues into Latin?",
+     "choices": [
+      "Marsilio Ficino",
+      "Leonardo Bruni",
+      "Lorenzo Valla",
+      "Pico della Mirandola"
+     ],
+     "answer": "Marsilio Ficino",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-237",
+     "prompt": "Which Christian physician led the translation of Galen and Greek texts into Arabic?",
+     "choices": [
+      "Qusta ibn Luqa",
+      "Hunayn ibn Ishaq",
+      "Thabit ibn Qurra",
+      "Al-Kindi"
+     ],
+     "answer": "Hunayn ibn Ishaq",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-097",
+     "prompt": "Which Princess corresponded with Descartes, pressing him on how mind moves body?",
+     "choices": [
+      "Elisabeth of Bohemia",
+      "Anne Conway",
+      "Christina of Sweden",
+      "Margaret Cavendish"
+     ],
+     "answer": "Elisabeth of Bohemia",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

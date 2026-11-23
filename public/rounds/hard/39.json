@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 39,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-189",
+     "prompt": "10 × 8 − 7 × 8",
+     "answer": 24,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-198",
+     "prompt": "424 − 132",
+     "answer": 292,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-144",
+     "prompt": "48 × 14",
+     "answer": 672,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-211",
+     "prompt": "Which British explorer is credited with identifying Lake Victoria as the Nile's source, in 1858?",
+     "choices": [
+      "Samuel Baker",
+      "Richard Burton",
+      "John Hanning Speke",
+      "David Livingstone"
+     ],
+     "answer": "John Hanning Speke",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-137",
+     "prompt": "Which three cities formed the Aztec Triple Alliance?",
+     "choices": [
+      "Tenochtitlan, Texcoco, Tlacopan",
+      "Cusco, Quito, Cajamarca",
+      "Tikal, Calakmul, Copan",
+      "Tula, Cholula, Texcoco"
+     ],
+     "answer": "Tenochtitlan, Texcoco, Tlacopan",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-015",
+     "prompt": "Which Spanish explorer sought the Fountain of Youth and explored Florida in 1513?",
+     "choices": [
+      "Francisco Coronado",
+      "Hernando de Soto",
+      "Juan Ponce de Leon",
+      "Panfilo de Narvaez"
+     ],
+     "answer": "Juan Ponce de Leon",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-121",
+     "prompt": "Who wrote the Iranian novel The Blind Owl?",
+     "choices": [
+      "Bozorg Alavi",
+      "Simin Daneshvar",
+      "Jalal Al-e-Ahmad",
+      "Sadegh Hedayat"
+     ],
+     "answer": "Sadegh Hedayat",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-091",
+     "prompt": "Which Shakespeare play is his longest?",
+     "choices": [
+      "Richard III",
+      "Henry V",
+      "King Lear",
+      "Hamlet"
+     ],
+     "answer": "Hamlet",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-071",
+     "prompt": "Who wrote the Arthurian novel The Once and Future King?",
+     "choices": [
+      "T. H. White",
+      "Rosemary Sutcliff",
+      "J. R. R. Tolkien",
+      "Mary Stewart"
+     ],
+     "answer": "T. H. White",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-140",
+     "prompt": "The Chengjiang biota, a famous early Cambrian fossil site, is in which country?",
+     "choices": [
+      "Australia",
+      "India",
+      "Namibia",
+      "China"
+     ],
+     "answer": "China",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-158",
+     "prompt": "The Channeled Scablands of Washington were carved by floods from which glacial lake?",
+     "choices": [
+      "Lake Lahontan",
+      "Lake Agassiz",
+      "Lake Missoula",
+      "Lake Bonneville"
+     ],
+     "answer": "Lake Missoula",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-132",
+     "prompt": "Which period immediately followed the Cretaceous?",
+     "choices": [
+      "Jurassic",
+      "Quaternary",
+      "Neogene",
+      "Paleogene"
+     ],
+     "answer": "Paleogene",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-225",
+     "prompt": "Which philosopher wrote the essay On Bullshit?",
+     "choices": [
+      "Daniel Dennett",
+      "Harry Frankfurt",
+      "John Searle",
+      "Thomas Nagel"
+     ],
+     "answer": "Harry Frankfurt",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-174",
+     "prompt": "Which philosopher coined the term Axial Age?",
+     "choices": [
+      "Oswald Spengler",
+      "Martin Buber",
+      "Max Weber",
+      "Karl Jaspers"
+     ],
+     "answer": "Karl Jaspers",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-214",
+     "prompt": "Which philosopher's knowledge argument features Mary, a scientist raised in a black-and-white room?",
+     "choices": [
+      "Daniel Dennett",
+      "Frank Jackson",
+      "Thomas Nagel",
+      "David Chalmers"
+     ],
+     "answer": "Frank Jackson",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

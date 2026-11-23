@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 67,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-190",
+     "prompt": "392 ÷ 8",
+     "answer": 49,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-158",
+     "prompt": "10% of 680",
+     "answer": 68,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-008",
+     "prompt": "519 − 212",
+     "answer": 307,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-165",
+     "prompt": "Which 1968 reform movement in Czechoslovakia was ended by a Warsaw Pact invasion?",
+     "choices": [
+      "Prague Spring",
+      "Orange Revolution",
+      "Solidarity",
+      "Velvet Revolution"
+     ],
+     "answer": "Prague Spring",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-105",
+     "prompt": "Which 1928 pact renounced war as a policy tool?",
+     "choices": [
+      "Kellogg-Briand Pact",
+      "Locarno Treaties",
+      "Munich Agreement",
+      "Washington Treaty"
+     ],
+     "answer": "Kellogg-Briand Pact",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-082",
+     "prompt": "Which 1917 declaration backed a Jewish national home in Palestine?",
+     "choices": [
+      "Peel Commission",
+      "Balfour Declaration",
+      "White Paper",
+      "Sykes-Picot Agreement"
+     ],
+     "answer": "Balfour Declaration",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-312",
+     "prompt": "What is Zola's twenty-novel cycle called?",
+     "choices": [
+      "Les Mandarins",
+      "Les Rougon-Macquart",
+      "La Comédie humaine",
+      "Les Thibault"
+     ],
+     "answer": "Les Rougon-Macquart",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-123",
+     "prompt": "Who wrote the novel My Michael?",
+     "choices": [
+      "S. Y. Agnon",
+      "A. B. Yehoshua",
+      "David Grossman",
+      "Amos Oz"
+     ],
+     "answer": "Amos Oz",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-168",
+     "prompt": "Who wrote the Latin epic Pharsalia about the civil war?",
+     "choices": [
+      "Statius",
+      "Lucan",
+      "Silius Italicus",
+      "Ovid"
+     ],
+     "answer": "Lucan",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-109",
+     "prompt": "The core-mantle boundary is also known as which discontinuity?",
+     "choices": [
+      "Gutenberg",
+      "Conrad",
+      "Lehmann",
+      "Moho"
+     ],
+     "answer": "Gutenberg",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-305",
+     "prompt": "The Widmanstatten pattern is a feature of which meteorite type?",
+     "choices": [
+      "Stony chondrite",
+      "Iron meteorite",
+      "Carbonaceous chondrite",
+      "Stony-iron pallasite only"
+     ],
+     "answer": "Iron meteorite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-281",
+     "prompt": "Which is the highest peak in the Appalachian Mountains?",
+     "choices": [
+      "Mount Washington",
+      "Mount Marcy",
+      "Clingmans Dome",
+      "Mount Mitchell"
+     ],
+     "answer": "Mount Mitchell",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-223",
+     "prompt": "What does Parfit call the conclusion that vast populations of barely good lives can be better?",
+     "choices": [
+      "The Non-Identity Problem",
+      "The Repugnant Conclusion",
+      "The Mere Addition",
+      "The Absurd Conclusion"
+     ],
+     "answer": "The Repugnant Conclusion",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-030",
+     "prompt": "Which Socratic follower is regarded as a forerunner of the Cynics?",
+     "choices": [
+      "Aristippus",
+      "Antisthenes",
+      "Euclides",
+      "Xenophon"
+     ],
+     "answer": "Antisthenes",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-063",
+     "prompt": "The title Metaphysics originally meant works placed after which of Aristotle's treatises?",
+     "choices": [
+      "The Organon",
+      "The Poetics",
+      "The Physics",
+      "The Ethics"
+     ],
+     "answer": "The Physics",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

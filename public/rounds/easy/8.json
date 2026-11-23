@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 8,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-080",
+     "prompt": "14 − 7",
+     "answer": 7,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-049",
+     "prompt": "33 + 4",
+     "answer": 37,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-226",
+     "prompt": "22 − 7",
+     "answer": 15,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-308",
+     "prompt": "Which famous English king is said to have lived at Camelot?",
+     "choices": [
+      "King Arthur",
+      "King Kong",
+      "King Midas",
+      "King Tut"
+     ],
+     "answer": "King Arthur",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-071",
+     "prompt": "Silk cloth is made from what made by silkworms?",
+     "choices": [
+      "Bubbles",
+      "Feathers",
+      "Seeds",
+      "Cocoons"
+     ],
+     "answer": "Cocoons",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-047",
+     "prompt": "How often were the ancient Olympics held?",
+     "choices": [
+      "Every day",
+      "Every week",
+      "Every ten years",
+      "Every four years"
+     ],
+     "answer": "Every four years",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-310",
+     "prompt": "What does Peter Rabbit lose in Mr. McGregor's garden?",
+     "choices": [
+      "His hat",
+      "His carrot",
+      "His jacket and shoes",
+      "His tail"
+     ],
+     "answer": "His jacket and shoes",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-203",
+     "prompt": "Who wrote Paddington?",
+     "choices": [
+      "A. A. Milne",
+      "Michael Bond",
+      "Roald Dahl",
+      "Dr. Seuss"
+     ],
+     "answer": "Michael Bond",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-165",
+     "prompt": "What do Alice's playing cards turn out to be in Wonderland?",
+     "choices": [
+      "Pirates",
+      "Rabbits",
+      "Knights",
+      "Soldiers and gardeners"
+     ],
+     "answer": "Soldiers and gardeners",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-058",
+     "prompt": "How long does Earth take to go around the Sun?",
+     "choices": [
+      "One day",
+      "One year",
+      "One month",
+      "One week"
+     ],
+     "answer": "One year",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-043",
+     "prompt": "What does a weather vane show?",
+     "choices": [
+      "Wind direction",
+      "Temperature",
+      "Rainfall",
+      "Time"
+     ],
+     "answer": "Wind direction",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-307",
+     "prompt": "What kind of storm blows lots of sand in a desert?",
+     "choices": [
+      "Snowstorm",
+      "Hailstorm",
+      "Sandstorm",
+      "Ice storm"
+     ],
+     "answer": "Sandstorm",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-187",
+     "prompt": "Ducks have what kind of feet for swimming?",
+     "choices": [
+      "furry",
+      "hairy",
+      "webbed",
+      "square"
+     ],
+     "answer": "webbed",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-283",
+     "prompt": "Which pet likes to chase a ball and fetch it?",
+     "choices": [
+      "goldfish",
+      "snail",
+      "dog",
+      "snake"
+     ],
+     "answer": "dog",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-202",
+     "prompt": "Whales breathe air through a what on their heads?",
+     "choices": [
+      "gill",
+      "blowhole",
+      "trunk",
+      "beak"
+     ],
+     "answer": "blowhole",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

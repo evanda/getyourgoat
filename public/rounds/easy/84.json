@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 84,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-012",
+     "prompt": "22 − 4",
+     "answer": 18,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-115",
+     "prompt": "11 − 4",
+     "answer": 7,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-156",
+     "prompt": "2 + 6",
+     "answer": 8,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-276",
+     "prompt": "Which queen ruled the UK for 70 years until 2022?",
+     "choices": [
+      "Queen Elizabeth II",
+      "Queen Victoria",
+      "Queen Anne",
+      "Queen Mary"
+     ],
+     "answer": "Queen Elizabeth II",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-140",
+     "prompt": "George Washington Carver found many uses for which plant?",
+     "choices": [
+      "Peanut",
+      "Pumpkin",
+      "Pickle",
+      "Pineapple"
+     ],
+     "answer": "Peanut",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-241",
+     "prompt": "Scientists who dig up old things to learn about the past are what?",
+     "choices": [
+      "Astronauts",
+      "Archaeologists",
+      "Dentists",
+      "Chefs"
+     ],
+     "answer": "Archaeologists",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-019",
+     "prompt": "What did Jack trade his cow for?",
+     "choices": [
+      "A golden harp",
+      "Magic beans",
+      "A horse",
+      "A sack of gold"
+     ],
+     "answer": "Magic beans",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-050",
+     "prompt": "What flower did Belle's father pick at the Beast's castle?",
+     "choices": [
+      "A tulip",
+      "A daisy",
+      "A rose",
+      "A lily"
+     ],
+     "answer": "A rose",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-288",
+     "prompt": "Where do you borrow books for free?",
+     "choices": [
+      "A library",
+      "A zoo",
+      "A bank",
+      "A bakery"
+     ],
+     "answer": "A library",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-187",
+     "prompt": "Which direction is opposite east?",
+     "choices": [
+      "West",
+      "North",
+      "South",
+      "Down"
+     ],
+     "answer": "West",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-084",
+     "prompt": "Does the Moon make its own light?",
+     "choices": [
+      "Yes, like the Sun",
+      "No, it reflects sunlight",
+      "Yes, from fire",
+      "Yes, from lava"
+     ],
+     "answer": "No, it reflects sunlight",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-118",
+     "prompt": "What is the solid rock under the soil called?",
+     "choices": [
+      "Bedrock",
+      "Topsoil",
+      "Lava",
+      "Sand"
+     ],
+     "answer": "Bedrock",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-091",
+     "prompt": "Caterpillars munch on what?",
+     "choices": [
+      "fish",
+      "cheese",
+      "leaves",
+      "rocks"
+     ],
+     "answer": "leaves",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-138",
+     "prompt": "Which of these is an insect?",
+     "choices": [
+      "spider",
+      "ant",
+      "snail",
+      "worm"
+     ],
+     "answer": "ant",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-137",
+     "prompt": "Kangaroos carry their babies in a what?",
+     "choices": [
+      "pouch",
+      "basket",
+      "backpack",
+      "nest"
+     ],
+     "answer": "pouch",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

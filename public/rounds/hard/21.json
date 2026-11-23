@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 21,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-028",
+     "prompt": "20% of 240",
+     "answer": 48,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-071",
+     "prompt": "11 × 14 − 10 × 6",
+     "answer": 94,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-058",
+     "prompt": "192 ÷ 8",
+     "answer": 24,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-126",
+     "prompt": "Where was the German Empire proclaimed in 1871?",
+     "choices": [
+      "Aachen Cathedral",
+      "Hall of Mirrors, Versailles",
+      "Frankfurt Paulskirche",
+      "Berlin City Palace"
+     ],
+     "answer": "Hall of Mirrors, Versailles",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-166",
+     "prompt": "Which Babylonian king destroyed Solomon's Temple in 586 BC?",
+     "choices": [
+      "Sargon II",
+      "Nebuchadnezzar II",
+      "Hammurabi",
+      "Nabonidus"
+     ],
+     "answer": "Nebuchadnezzar II",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-183",
+     "prompt": "Which Algerian emir led resistance to French conquest in the 1830s-40s?",
+     "choices": [
+      "Ahmed Ben Bella",
+      "Muhammad Ali",
+      "Abd al-Qadir",
+      "Ibn Saud"
+     ],
+     "answer": "Abd al-Qadir",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-206",
+     "prompt": "Who wrote the Ecclesiastical History of the English People?",
+     "choices": [
+      "Bede",
+      "Gildas",
+      "Asser",
+      "Alcuin"
+     ],
+     "answer": "Bede",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-315",
+     "prompt": "Who wrote the tragedy The Bacchae?",
+     "choices": [
+      "Euripides",
+      "Sophocles",
+      "Aristophanes",
+      "Aeschylus"
+     ],
+     "answer": "Euripides",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-305",
+     "prompt": "Who wrote the novel The Awakening?",
+     "choices": [
+      "Sarah Orne Jewett",
+      "Edith Wharton",
+      "Kate Chopin",
+      "Willa Cather"
+     ],
+     "answer": "Kate Chopin",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-156",
+     "prompt": "Ice-age cycles are linked to variations in Earth's orbit called what?",
+     "choices": [
+      "Saros cycles",
+      "Coriolis cycles",
+      "Chandler cycles",
+      "Milankovitch cycles"
+     ],
+     "answer": "Milankovitch cycles",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-122",
+     "prompt": "Who produced the first geological map of Britain in 1815?",
+     "choices": [
+      "Gideon Mantell",
+      "Adam Sedgwick",
+      "Charles Darwin",
+      "William Smith"
+     ],
+     "answer": "William Smith",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-301",
+     "prompt": "The Altiplano is a high plateau in which mountain range?",
+     "choices": [
+      "Himalayas",
+      "Alps",
+      "Andes",
+      "Rockies"
+     ],
+     "answer": "Andes",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-055",
+     "prompt": "What is Socrates' method of cross-examining a claim to expose contradictions called?",
+     "choices": [
+      "Anamnesis",
+      "Katharsis",
+      "Mimesis",
+      "Elenchus"
+     ],
+     "answer": "Elenchus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-114",
+     "prompt": "Which baron wrote the materialist System of Nature?",
+     "choices": [
+      "d'Holbach",
+      "La Mettrie",
+      "Condorcet",
+      "Helvetius"
+     ],
+     "answer": "d'Holbach",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-181",
+     "prompt": "Which prize did Sartre decline in 1964?",
+     "choices": [
+      "The Prix Goncourt",
+      "The Nobel Peace Prize",
+      "The Legion of Honour",
+      "The Nobel Prize in Literature"
+     ],
+     "answer": "The Nobel Prize in Literature",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

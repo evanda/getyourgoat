@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 27,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-131",
+     "prompt": "26²",
+     "answer": 676,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-216",
+     "prompt": "50% of 360",
+     "answer": 180,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-012",
+     "prompt": "13²",
+     "answer": 169,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-208",
+     "prompt": "Which Augustinian friar's pea experiments founded genetics?",
+     "choices": [
+      "Theodor Boveri",
+      "Hugo de Vries",
+      "Thomas Hunt Morgan",
+      "Gregor Mendel"
+     ],
+     "answer": "Gregor Mendel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-262",
+     "prompt": "Which physicist discovered the neutron in 1932?",
+     "choices": [
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Enrico Fermi",
+      "Paul Dirac"
+     ],
+     "answer": "James Chadwick",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-118",
+     "prompt": "Which 1914 battle saw Germany destroy a Russian army in East Prussia?",
+     "choices": [
+      "Przemysl",
+      "Tannenberg",
+      "Lodz",
+      "Gorlice-Tarnow"
+     ],
+     "answer": "Tannenberg",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-310",
+     "prompt": "Who wrote the play Long Day's Journey into Night?",
+     "choices": [
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Edward Albee",
+      "Eugene O'Neill"
+     ],
+     "answer": "Eugene O'Neill",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-218",
+     "prompt": "Who wrote the Argonautica?",
+     "choices": [
+      "Apollonius of Rhodes",
+      "Theocritus",
+      "Callimachus",
+      "Quintus of Smyrna"
+     ],
+     "answer": "Apollonius of Rhodes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-278",
+     "prompt": "Who wrote the philosophical work Either/Or?",
+     "choices": [
+      "N. F. S. Grundtvig",
+      "Henrik Ibsen",
+      "Søren Kierkegaard",
+      "Georg Brandes"
+     ],
+     "answer": "Søren Kierkegaard",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-254",
+     "prompt": "A frost-heaved, ice-cored mound in permafrost areas is called what?",
+     "choices": [
+      "Kame",
+      "Esker",
+      "Pingo",
+      "Tor"
+     ],
+     "answer": "Pingo",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-187",
+     "prompt": "Which lens-shaped clouds often form over mountains?",
+     "choices": [
+      "Lenticular clouds",
+      "Mammatus clouds",
+      "Arcus clouds",
+      "Pileus clouds"
+     ],
+     "answer": "Lenticular clouds",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-082",
+     "prompt": "Fracture zones that offset mid-ocean ridges are linked to which fault type?",
+     "choices": [
+      "Thrust faults",
+      "Reverse faults",
+      "Normal faults",
+      "Transform faults"
+     ],
+     "answer": "Transform faults",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-128",
+     "prompt": "Which English radical wrote An Enquiry Concerning Political Justice?",
+     "choices": [
+      "Thomas Paine",
+      "Richard Price",
+      "William Godwin",
+      "Thomas Spence"
+     ],
+     "answer": "William Godwin",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-173",
+     "prompt": "Which philosopher won the 1927 Nobel Prize in Literature?",
+     "choices": [
+      "Jean-Paul Sartre",
+      "Henri Bergson",
+      "Albert Camus",
+      "Benedetto Croce"
+     ],
+     "answer": "Henri Bergson",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-266",
+     "prompt": "Which young Wei-Jin thinker wrote celebrated commentaries on the Laozi and Yijing?",
+     "choices": [
+      "Guo Xiang",
+      "Ji Kang",
+      "Wang Bi",
+      "Ge Hong"
+     ],
+     "answer": "Wang Bi",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

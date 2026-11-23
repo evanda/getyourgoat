@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 55,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-184",
+     "prompt": "14 − 5",
+     "answer": 9,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-279",
+     "prompt": "27 − 6",
+     "answer": 21,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-054",
+     "prompt": "5 × 9",
+     "answer": 45,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-255",
+     "prompt": "Farming began when people planted what?",
+     "choices": [
+      "Candy",
+      "Toys",
+      "Phones",
+      "Seeds"
+     ],
+     "answer": "Seeds",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-100",
+     "prompt": "Which animal was probably the first tamed by people?",
+     "choices": [
+      "Dog",
+      "Cat",
+      "Horse",
+      "Parrot"
+     ],
+     "answer": "Dog",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-256",
+     "prompt": "Early people made boats called dugouts from what?",
+     "choices": [
+      "Tree trunks",
+      "Plastic",
+      "Steel",
+      "Glass"
+     ],
+     "answer": "Tree trunks",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-061",
+     "prompt": "What does the Tin Man want to find?",
+     "choices": [
+      "A brain",
+      "Courage",
+      "A crown",
+      "A heart"
+     ],
+     "answer": "A heart",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-276",
+     "prompt": "What is King Arthur's famous sword called?",
+     "choices": [
+      "Excalibur",
+      "Sting",
+      "Glamdring",
+      "Mjolnir"
+     ],
+     "answer": "Excalibur",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-054",
+     "prompt": "Who says \"Open sesame\" to open a cave in a tale?",
+     "choices": [
+      "Aladdin",
+      "Sinbad",
+      "Ali Baba",
+      "Jack"
+     ],
+     "answer": "Ali Baba",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-107",
+     "prompt": "What do we call the remains of ancient plants or animals found in rock?",
+     "choices": [
+      "Fossils",
+      "Pebbles",
+      "Crystals",
+      "Magnets"
+     ],
+     "answer": "Fossils",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-283",
+     "prompt": "What do we call a small stream of water?",
+     "choices": [
+      "Creek",
+      "Ocean",
+      "Glacier",
+      "Delta"
+     ],
+     "answer": "Creek",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-238",
+     "prompt": "What does a compass needle point toward?",
+     "choices": [
+      "Up",
+      "The Sun",
+      "North",
+      "The Moon"
+     ],
+     "answer": "North",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-281",
+     "prompt": "What do bees collect from flowers?",
+     "choices": [
+      "nectar",
+      "sand",
+      "water",
+      "seeds only"
+     ],
+     "answer": "nectar",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-021",
+     "prompt": "A baby penguin is called a what?",
+     "choices": [
+      "chick",
+      "pup",
+      "kit",
+      "calf"
+     ],
+     "answer": "chick",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-080",
+     "prompt": "Cows eat mostly what?",
+     "choices": [
+      "fish",
+      "meat",
+      "bugs",
+      "grass"
+     ],
+     "answer": "grass",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

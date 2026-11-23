@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 42,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-269",
+     "prompt": "11 + 5",
+     "answer": 16,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-144",
+     "prompt": "12 × 9",
+     "answer": 108,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-220",
+     "prompt": "44 + 44",
+     "answer": 88,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-248",
+     "prompt": "Which dinosaur had big plates along its back?",
+     "choices": [
+      "Stegosaurus",
+      "Triceratops",
+      "T. rex",
+      "Pterodactyl"
+     ],
+     "answer": "Stegosaurus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-151",
+     "prompt": "Who was the first person to travel into space?",
+     "choices": [
+      "Neil Armstrong",
+      "Buzz Lightyear",
+      "Orville Wright",
+      "Yuri Gagarin"
+     ],
+     "answer": "Yuri Gagarin",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-156",
+     "prompt": "Before jets, many airplanes were pushed by what?",
+     "choices": [
+      "Propellers",
+      "Sails",
+      "Paddles",
+      "Oars"
+     ],
+     "answer": "Propellers",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-085",
+     "prompt": "What did Little Miss Muffet sit on?",
+     "choices": [
+      "A bench",
+      "A rock",
+      "A log",
+      "A tuffet"
+     ],
+     "answer": "A tuffet",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-179",
+     "prompt": "What is the name of the girl who goes to Neverland with her brothers?",
+     "choices": [
+      "Alice",
+      "Wendy",
+      "Lucy",
+      "Dorothy"
+     ],
+     "answer": "Wendy",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-137",
+     "prompt": "Who are Peter's sisters in the tale?",
+     "choices": [
+      "Anna and Elsa",
+      "Lily and Rose",
+      "Daisy and Violet",
+      "Flopsy, Mopsy and Cottontail"
+     ],
+     "answer": "Flopsy, Mopsy and Cottontail",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-011",
+     "prompt": "What do we call a cloud that touches the ground?",
+     "choices": [
+      "Fog",
+      "Hail",
+      "Frost",
+      "Smoke"
+     ],
+     "answer": "Fog",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-291",
+     "prompt": "Which season has the shortest days?",
+     "choices": [
+      "Summer",
+      "Spring",
+      "Winter",
+      "Fall"
+     ],
+     "answer": "Winter",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-108",
+     "prompt": "Which rock is made from tiny sea animal shells and is used for chalk?",
+     "choices": [
+      "Granite",
+      "Obsidian",
+      "Basalt",
+      "Limestone"
+     ],
+     "answer": "Limestone",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-008",
+     "prompt": "A baby chicken is called a what?",
+     "choices": [
+      "joey",
+      "cub",
+      "calf",
+      "chick"
+     ],
+     "answer": "chick",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-030",
+     "prompt": "A group of sheep is called a what?",
+     "choices": [
+      "pride",
+      "flock",
+      "school",
+      "pack"
+     ],
+     "answer": "flock",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-243",
+     "prompt": "Fish swim using their what?",
+     "choices": [
+      "wings",
+      "hooves",
+      "fins",
+      "paws"
+     ],
+     "answer": "fins",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

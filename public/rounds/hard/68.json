@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 68,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-100",
+     "prompt": "22²",
+     "answer": 484,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-120",
+     "prompt": "497 − 117",
+     "answer": 380,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-256",
+     "prompt": "10% of 440",
+     "answer": 44,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-093",
+     "prompt": "Which Portuguese commander founded Brazil's first capital, Salvador, in 1549?",
+     "choices": [
+      "Tome de Sousa",
+      "Pedro Alvares Cabral",
+      "Martim Afonso de Sousa",
+      "Mem de Sa"
+     ],
+     "answer": "Tome de Sousa",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-035",
+     "prompt": "Which Theban general crushed Sparta at Leuctra in 371 BC?",
+     "choices": [
+      "Nicias",
+      "Pericles",
+      "Epaminondas",
+      "Lysander"
+     ],
+     "answer": "Epaminondas",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-122",
+     "prompt": "Which 1922 march brought Mussolini to power?",
+     "choices": [
+      "Salt March",
+      "March on Rome",
+      "Beer Hall Putsch",
+      "Long March"
+     ],
+     "answer": "March on Rome",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-043",
+     "prompt": "Who wrote the novel On the Road?",
+     "choices": [
+      "William S. Burroughs",
+      "Jack Kerouac",
+      "Neal Cassady",
+      "Allen Ginsberg"
+     ],
+     "answer": "Jack Kerouac",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-273",
+     "prompt": "Who wrote Bonjour Tristesse at age eighteen?",
+     "choices": [
+      "Marguerite Duras",
+      "Simone de Beauvoir",
+      "Françoise Sagan",
+      "Colette"
+     ],
+     "answer": "Françoise Sagan",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-267",
+     "prompt": "Which Dickens novel was left unfinished at his death?",
+     "choices": [
+      "Dombey and Son",
+      "Little Dorrit",
+      "The Mystery of Edwin Drood",
+      "Our Mutual Friend"
+     ],
+     "answer": "The Mystery of Edwin Drood",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-232",
+     "prompt": "Which hydrothermal vents spew dark, mineral-rich water?",
+     "choices": [
+      "White smokers",
+      "Cold seeps",
+      "Mud volcanoes",
+      "Black smokers"
+     ],
+     "answer": "Black smokers",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-180",
+     "prompt": "Which gas is the third most abundant in dry air?",
+     "choices": [
+      "Argon",
+      "Neon",
+      "Water vapor",
+      "Carbon dioxide"
+     ],
+     "answer": "Argon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-303",
+     "prompt": "Earth's axial tilt varies over roughly how many years?",
+     "choices": [
+      "23,000",
+      "41,000",
+      "11,000",
+      "100,000"
+     ],
+     "answer": "41,000",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-242",
+     "prompt": "Which philosopher wrote Hayy ibn Yaqzan, a tale of a self-taught man on an island?",
+     "choices": [
+      "Ibn Tufayl",
+      "Averroes",
+      "Ibn Bajja",
+      "Ibn Arabi"
+     ],
+     "answer": "Ibn Tufayl",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-224",
+     "prompt": "Which philosopher wrote A Defense of Abortion, with the violinist analogy?",
+     "choices": [
+      "Martha Nussbaum",
+      "Philippa Foot",
+      "Elizabeth Anscombe",
+      "Judith Jarvis Thomson"
+     ],
+     "answer": "Judith Jarvis Thomson",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-276",
+     "prompt": "In the Zhuangzi, whose skill at carving oxen shows living in accord with the Dao?",
+     "choices": [
+      "Confucius",
+      "Cook Ding",
+      "Wheelwright Bian",
+      "Hui Shi"
+     ],
+     "answer": "Cook Ding",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

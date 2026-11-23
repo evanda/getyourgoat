@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 53,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-089",
+     "prompt": "36 × 18",
+     "answer": 648,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-233",
+     "prompt": "41²",
+     "answer": 1681,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-092",
+     "prompt": "703 − 136",
+     "answer": 567,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-215",
+     "prompt": "Which AD 9 battle in Germania destroyed three Roman legions?",
+     "choices": [
+      "Adrianople",
+      "Carrhae",
+      "Teutoburg Forest",
+      "Cannae"
+     ],
+     "answer": "Teutoburg Forest",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-066",
+     "prompt": "Which Arctic expedition of 1845, with ships Erebus and Terror, vanished?",
+     "choices": [
+      "Terra Nova expedition",
+      "Franklin expedition",
+      "Lewis and Clark",
+      "Jeannette expedition"
+     ],
+     "answer": "Franklin expedition",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-312",
+     "prompt": "Which dynasty replaced the Parthians as rulers of Persia in AD 224?",
+     "choices": [
+      "Safavid",
+      "Seleucid",
+      "Achaemenid",
+      "Sasanian"
+     ],
+     "answer": "Sasanian",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-030",
+     "prompt": "Who wrote The Praise of Folly?",
+     "choices": [
+      "Erasmus",
+      "Martin Luther",
+      "Thomas More",
+      "John Colet"
+     ],
+     "answer": "Erasmus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-298",
+     "prompt": "Who wrote the Ramcharitmanas, a retelling of the Ramayana in Awadhi?",
+     "choices": [
+      "Valmiki",
+      "Surdas",
+      "Kabir",
+      "Tulsidas"
+     ],
+     "answer": "Tulsidas",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-033",
+     "prompt": "Who wrote the novel Mine Boy?",
+     "choices": [
+      "Alex La Guma",
+      "Es'kia Mphahlele",
+      "Alan Paton",
+      "Peter Abrahams"
+     ],
+     "answer": "Peter Abrahams",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-033",
+     "prompt": "Borax is the main source of which element?",
+     "choices": [
+      "Beryllium",
+      "Bromine",
+      "Boron",
+      "Barium"
+     ],
+     "answer": "Boron",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-084",
+     "prompt": "Which Arctic Ocean ridge is among the slowest spreading on Earth?",
+     "choices": [
+      "Juan de Fuca Ridge",
+      "Reykjanes Ridge",
+      "Gakkel Ridge",
+      "Carlsberg Ridge"
+     ],
+     "answer": "Gakkel Ridge",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-314",
+     "prompt": "A deposit of heavy minerals concentrated by flowing water is called a what?",
+     "choices": [
+      "Vein",
+      "Placer",
+      "Skarn",
+      "Lode"
+     ],
+     "answer": "Placer",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-235",
+     "prompt": "Which Baghdad institution fostered the Greek-to-Arabic translation movement?",
+     "choices": [
+      "Al-Azhar",
+      "The House of Wisdom",
+      "The Nizamiyya",
+      "The Mustansiriya"
+     ],
+     "answer": "The House of Wisdom",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-207",
+     "prompt": "Which philosopher's radical translation example uses the word gavagai?",
+     "choices": [
+      "Hilary Putnam",
+      "Wilfrid Sellars",
+      "Donald Davidson",
+      "W. V. O. Quine"
+     ],
+     "answer": "W. V. O. Quine",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-041",
+     "prompt": "Which Stoic teacher did Marcus Aurelius thank for lending him Epictetus's lectures?",
+     "choices": [
+      "Junius Rusticus",
+      "Fronto",
+      "Seneca",
+      "Musonius Rufus"
+     ],
+     "answer": "Junius Rusticus",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

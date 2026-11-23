@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 97,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-150",
+     "prompt": "10 ÷ 2",
+     "answer": 5,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-103",
+     "prompt": "6 − 4",
+     "answer": 2,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-105",
+     "prompt": "27 − 5",
+     "answer": 22,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-286",
+     "prompt": "Native Americans carved totem poles from tall what?",
+     "choices": [
+      "Rocks",
+      "Ice blocks",
+      "Trees",
+      "Bones"
+     ],
+     "answer": "Trees",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-193",
+     "prompt": "Who told jokes and did tricks for the king and queen?",
+     "choices": [
+      "A butler",
+      "A jester",
+      "A chef",
+      "A guard"
+     ],
+     "answer": "A jester",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-251",
+     "prompt": "Brachiosaurus had a very long neck and ate what?",
+     "choices": [
+      "Fish",
+      "Rocks",
+      "Ice cream",
+      "Plants"
+     ],
+     "answer": "Plants",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-308",
+     "prompt": "What kind of bird sang in the Hans Andersen tale of an emperor in China?",
+     "choices": [
+      "A nightingale",
+      "A robin",
+      "A sparrow",
+      "A canary"
+     ],
+     "answer": "A nightingale",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-249",
+     "prompt": "What was inside the huge wooden horse of Troy?",
+     "choices": [
+      "Gold",
+      "Food",
+      "Children",
+      "Greek soldiers"
+     ],
+     "answer": "Greek soldiers",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-014",
+     "prompt": "Who lived with seven small helpers in a cottage in the woods?",
+     "choices": [
+      "Cinderella",
+      "Rapunzel",
+      "Snow White",
+      "Gretel"
+     ],
+     "answer": "Snow White",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-220",
+     "prompt": "What is the top point of Earth called?",
+     "choices": [
+      "South Pole",
+      "Equator",
+      "Tropics",
+      "North Pole"
+     ],
+     "answer": "North Pole",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-072",
+     "prompt": "Which planet has big, bright rings?",
+     "choices": [
+      "Mars",
+      "Mercury",
+      "Saturn",
+      "Earth"
+     ],
+     "answer": "Saturn",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-156",
+     "prompt": "About how much of Earth is covered by ocean?",
+     "choices": [
+      "Just a little",
+      "None",
+      "A tiny part",
+      "Over half"
+     ],
+     "answer": "Over half",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-075",
+     "prompt": "Which animal has a hard shell on its back and moves slowly?",
+     "choices": [
+      "rabbit",
+      "dog",
+      "snail",
+      "duck"
+     ],
+     "answer": "snail",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-314",
+     "prompt": "Which is the biggest kind of deer?",
+     "choices": [
+      "fawn",
+      "moose",
+      "reindeer",
+      "goat"
+     ],
+     "answer": "moose",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-205",
+     "prompt": "Penguins cannot fly, but they are great at what?",
+     "choices": [
+      "swimming",
+      "flying",
+      "climbing",
+      "singing"
+     ],
+     "answer": "swimming",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 96,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-263",
+     "prompt": "44²",
+     "answer": 1936,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-033",
+     "prompt": "45% of 160",
+     "answer": 72,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-214",
+     "prompt": "12 × 11 − 10 × 12",
+     "answer": 12,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-168",
+     "prompt": "Who founded the Republic of Turkey in 1923?",
+     "choices": [
+      "Ismet Inonu",
+      "Enver Pasha",
+      "Abdulhamid II",
+      "Mustafa Kemal Ataturk"
+     ],
+     "answer": "Mustafa Kemal Ataturk",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-303",
+     "prompt": "Which eastern Roman emperor died at Adrianople in AD 378?",
+     "choices": [
+      "Theodosius I",
+      "Valentinian I",
+      "Valens",
+      "Julian"
+     ],
+     "answer": "Valens",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-125",
+     "prompt": "Who was the father of Alexander the Great?",
+     "choices": [
+      "Philip II",
+      "Perdiccas III",
+      "Antigonus I",
+      "Philip V"
+     ],
+     "answer": "Philip II",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-280",
+     "prompt": "In the Divine Comedy, how many circles does Dante's Inferno have?",
+     "choices": [
+      "Nine",
+      "Twelve",
+      "Ten",
+      "Seven"
+     ],
+     "answer": "Nine",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-068",
+     "prompt": "In the Aeneid, whom does Aeneas carry out of burning Troy on his back?",
+     "choices": [
+      "Hector",
+      "Priam",
+      "Anchises",
+      "Ascanius"
+     ],
+     "answer": "Anchises",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-211",
+     "prompt": "Who wrote the children's novel Pollyanna?",
+     "choices": [
+      "Kate Douglas Wiggin",
+      "Frances Hodgson Burnett",
+      "Eleanor H. Porter",
+      "L. M. Montgomery"
+     ],
+     "answer": "Eleanor H. Porter",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-274",
+     "prompt": "Which peak is the highest in Europe, in the Caucasus?",
+     "choices": [
+      "Matterhorn",
+      "Elbrus",
+      "Kazbek",
+      "Mont Blanc"
+     ],
+     "answer": "Elbrus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-170",
+     "prompt": "Which Mexican cinder cone began growing in a farmer's cornfield in 1943?",
+     "choices": [
+      "Popocatepetl",
+      "Paricutin",
+      "El Chichon",
+      "Colima"
+     ],
+     "answer": "Paricutin",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-147",
+     "prompt": "Ammonites were extinct relatives of which living animals?",
+     "choices": [
+      "Clams",
+      "Snails",
+      "Squid and octopus",
+      "Sea urchins"
+     ],
+     "answer": "Squid and octopus",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-177",
+     "prompt": "Which British philosopher-novelist wrote The Sovereignty of Good?",
+     "choices": [
+      "Mary Midgley",
+      "Philippa Foot",
+      "G. E. M. Anscombe",
+      "Iris Murdoch"
+     ],
+     "answer": "Iris Murdoch",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-145",
+     "prompt": "Which pair of Greek gods stand for order and ecstasy in Nietzsche's The Birth of Tragedy?",
+     "choices": [
+      "Athena and Ares",
+      "Hermes and Pan",
+      "Zeus and Hera",
+      "Apollo and Dionysus"
+     ],
+     "answer": "Apollo and Dionysus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-092",
+     "prompt": "Which philosopher was burned at the stake in Rome in 1600?",
+     "choices": [
+      "Pietro Pomponazzi",
+      "Giordano Bruno",
+      "Bernardino Telesio",
+      "Tommaso Campanella"
+     ],
+     "answer": "Giordano Bruno",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

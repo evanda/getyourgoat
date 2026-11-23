@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 14,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-179",
+     "prompt": "5 × 11",
+     "answer": 55,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-262",
+     "prompt": "27 − 8",
+     "answer": 19,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-128",
+     "prompt": "9 × 2",
+     "answer": 18,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-208",
+     "prompt": "Viking shields were mostly made of what?",
+     "choices": [
+      "Wood",
+      "Glass",
+      "Paper",
+      "Rubber"
+     ],
+     "answer": "Wood",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-199",
+     "prompt": "Where did the Vikings come from?",
+     "choices": [
+      "Africa",
+      "Australia",
+      "South America",
+      "Northern Europe"
+     ],
+     "answer": "Northern Europe",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-106",
+     "prompt": "In which year did Columbus sail across the Atlantic?",
+     "choices": [
+      "1392",
+      "1692",
+      "1492",
+      "1892"
+     ],
+     "answer": "1492",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-123",
+     "prompt": "Who owns the chocolate factory?",
+     "choices": [
+      "Mr. Bean",
+      "Willy Wonka",
+      "Charlie Bucket",
+      "Mr. Slugworth"
+     ],
+     "answer": "Willy Wonka",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-279",
+     "prompt": "What kind of animal is Mr. Tumnus in The Lion, the Witch and the Wardrobe?",
+     "choices": [
+      "A centaur",
+      "A faun",
+      "A giant",
+      "A beaver"
+     ],
+     "answer": "A faun",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-034",
+     "prompt": "In The Emperor's New Clothes, who shouted that he wore nothing?",
+     "choices": [
+      "A soldier",
+      "A king",
+      "A child",
+      "A tailor"
+     ],
+     "answer": "A child",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-166",
+     "prompt": "What do we call a long line of water that rolls onto the beach?",
+     "choices": [
+      "Wave",
+      "Dune",
+      "Peak",
+      "Cave"
+     ],
+     "answer": "Wave",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-259",
+     "prompt": "What do we call it when a rocket blasts off into space?",
+     "choices": [
+      "Picnic",
+      "Parade",
+      "Launch",
+      "Hike"
+     ],
+     "answer": "Launch",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-185",
+     "prompt": "How many main directions are on a compass?",
+     "choices": [
+      "2",
+      "6",
+      "4",
+      "8"
+     ],
+     "answer": "4",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-042",
+     "prompt": "Which animal says \"hoot\"?",
+     "choices": [
+      "cow",
+      "owl",
+      "dog",
+      "pig"
+     ],
+     "answer": "owl",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-293",
+     "prompt": "Which animal is called the king of the jungle in stories?",
+     "choices": [
+      "lion",
+      "rabbit",
+      "goat",
+      "frog"
+     ],
+     "answer": "lion",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-298",
+     "prompt": "Which animal has a long, sticky tongue and eats ants?",
+     "choices": [
+      "rabbit",
+      "anteater",
+      "cow",
+      "goat"
+     ],
+     "answer": "anteater",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

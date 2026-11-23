@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 95,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-036",
+     "prompt": "3 × 2",
+     "answer": 6,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-114",
+     "prompt": "13 − 2",
+     "answer": 11,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-191",
+     "prompt": "45 + 45",
+     "answer": 90,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-001",
+     "prompt": "The big stone tombs in Egypt with pointy tops are called what?",
+     "choices": [
+      "Igloos",
+      "Pyramids",
+      "Pagodas",
+      "Domes"
+     ],
+     "answer": "Pyramids",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-027",
+     "prompt": "In the old story, what was the Trojan Horse made of?",
+     "choices": [
+      "Gold",
+      "Stone",
+      "Straw",
+      "Wood"
+     ],
+     "answer": "Wood",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-202",
+     "prompt": "Which Viking sailed to North America about 1,000 years ago?",
+     "choices": [
+      "Marco Polo",
+      "Columbus",
+      "Leif Erikson",
+      "Magellan"
+     ],
+     "answer": "Leif Erikson",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-281",
+     "prompt": "Who wrote the story about a wooden boy who becomes real?",
+     "choices": [
+      "Hans Andersen",
+      "Roald Dahl",
+      "J. M. Barrie",
+      "Carlo Collodi"
+     ],
+     "answer": "Carlo Collodi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-194",
+     "prompt": "Who wrote The Very Hungry Caterpillar?",
+     "choices": [
+      "Dr. Seuss",
+      "Maurice Sendak",
+      "Eric Carle",
+      "Beatrix Potter"
+     ],
+     "answer": "Eric Carle",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-228",
+     "prompt": "What kind of animal is Black Beauty?",
+     "choices": [
+      "A horse",
+      "A dog",
+      "A cat",
+      "A donkey"
+     ],
+     "answer": "A horse",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-267",
+     "prompt": "Which energy comes from the wind?",
+     "choices": [
+      "Wind power",
+      "Coal power",
+      "Oil power",
+      "Gas power"
+     ],
+     "answer": "Wind power",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-292",
+     "prompt": "When it is summer in the north, what is it in the south?",
+     "choices": [
+      "Summer",
+      "Winter",
+      "Spring",
+      "Hot all year"
+     ],
+     "answer": "Winter",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-175",
+     "prompt": "What do we call a place where sea water curves into the land?",
+     "choices": [
+      "Peak",
+      "Bay",
+      "Mesa",
+      "Dune"
+     ],
+     "answer": "Bay",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-230",
+     "prompt": "Earthworms wiggle through the what?",
+     "choices": [
+      "sky",
+      "soil",
+      "treetops",
+      "clouds"
+     ],
+     "answer": "soil",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-142",
+     "prompt": "A seahorse is a kind of what?",
+     "choices": [
+      "insect",
+      "fish",
+      "shell",
+      "crab"
+     ],
+     "answer": "fish",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-122",
+     "prompt": "Snakes are what kind of animal?",
+     "choices": [
+      "mammals",
+      "reptiles",
+      "insects",
+      "birds"
+     ],
+     "answer": "reptiles",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

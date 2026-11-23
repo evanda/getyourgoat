@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 4,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-213",
+     "prompt": "12 × 10 − 8 × 10",
+     "answer": 40,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-101",
+     "prompt": "517 − 163",
+     "answer": 354,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-124",
+     "prompt": "40 × 28",
+     "answer": 1120,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-078",
+     "prompt": "Which 1699 treaty marked the Ottoman loss of Hungary to Austria?",
+     "choices": [
+      "Treaty of Adrianople",
+      "Treaty of Karlowitz",
+      "Treaty of Jassy",
+      "Treaty of Sevres"
+     ],
+     "answer": "Treaty of Karlowitz",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-292",
+     "prompt": "Which English uprising of 1381 was led by Wat Tyler?",
+     "choices": [
+      "Jack Cade's Rebellion",
+      "Monmouth Rebellion",
+      "Pilgrimage of Grace",
+      "Peasants' Revolt"
+     ],
+     "answer": "Peasants' Revolt",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-261",
+     "prompt": "Which Mexican priest launched the 1810 independence uprising with the Grito de Dolores?",
+     "choices": [
+      "Miguel Hidalgo",
+      "Agustin de Iturbide",
+      "Vicente Guerrero",
+      "Jose Maria Morelos"
+     ],
+     "answer": "Miguel Hidalgo",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-116",
+     "prompt": "Who wrote the Little House on the Prairie books?",
+     "choices": [
+      "L. M. Montgomery",
+      "Louisa May Alcott",
+      "Laura Ingalls Wilder",
+      "Kate Douglas Wiggin"
+     ],
+     "answer": "Laura Ingalls Wilder",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-217",
+     "prompt": "Who wrote the Latin Satyricon?",
+     "choices": [
+      "Martial",
+      "Juvenal",
+      "Apuleius",
+      "Petronius"
+     ],
+     "answer": "Petronius",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-159",
+     "prompt": "Who wrote the children's novel Swallows and Amazons?",
+     "choices": [
+      "Arthur Ransome",
+      "E. Nesbit",
+      "Richmal Crompton",
+      "Enid Blyton"
+     ],
+     "answer": "Arthur Ransome",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-030",
+     "prompt": "Which mineral is most used for uranium-lead dating of ancient rocks?",
+     "choices": [
+      "Quartz",
+      "Zircon",
+      "Garnet",
+      "Apatite"
+     ],
+     "answer": "Zircon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-091",
+     "prompt": "Which fault runs along the east side of San Francisco Bay through Oakland?",
+     "choices": [
+      "Calaveras Fault",
+      "San Jacinto Fault",
+      "Garlock Fault",
+      "Hayward Fault"
+     ],
+     "answer": "Hayward Fault",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-116",
+     "prompt": "In an eroded anticline, where are the oldest rocks found?",
+     "choices": [
+      "At the hinge's top only",
+      "In the center",
+      "Along the limbs' base",
+      "At the outer edges"
+     ],
+     "answer": "In the center",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-076",
+     "prompt": "Which realist master of Paris was Abelard's early teacher?",
+     "choices": [
+      "William of Champeaux",
+      "Roscelin",
+      "Anselm of Laon",
+      "Bernard of Chartres"
+     ],
+     "answer": "William of Champeaux",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-130",
+     "prompt": "Which Horatian motto does Kant adopt in 'What Is Enlightenment?'",
+     "choices": [
+      "Nosce teipsum",
+      "Sapere aude",
+      "Memento mori",
+      "Ad fontes"
+     ],
+     "answer": "Sapere aude",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-148",
+     "prompt": "Which composer was Nietzsche's early friend and later target?",
+     "choices": [
+      "Georg Bizet",
+      "Johannes Brahms",
+      "Franz Liszt",
+      "Richard Wagner"
+     ],
+     "answer": "Richard Wagner",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

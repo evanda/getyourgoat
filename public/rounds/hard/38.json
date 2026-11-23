@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 38,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-090",
+     "prompt": "238 ÷ 7",
+     "answer": 34,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-259",
+     "prompt": "22 × 16",
+     "answer": 352,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-006",
+     "prompt": "17 × 18",
+     "answer": 306,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-097",
+     "prompt": "Which 1916 secret deal divided Ottoman Arab lands between Britain and France?",
+     "choices": [
+      "Sykes-Picot Agreement",
+      "Balfour Declaration",
+      "San Remo Conference",
+      "Hussein-McMahon letters"
+     ],
+     "answer": "Sykes-Picot Agreement",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-249",
+     "prompt": "Which Asante queen mother led a 1900 war against British rule?",
+     "choices": [
+      "Yaa Asantewaa",
+      "Ranavalona I",
+      "Amina",
+      "Nzinga"
+     ],
+     "answer": "Yaa Asantewaa",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-048",
+     "prompt": "Which treaty of 1920 dismantled historic Hungary?",
+     "choices": [
+      "Treaty of Saint-Germain",
+      "Treaty of Neuilly",
+      "Treaty of Sevres",
+      "Treaty of Trianon"
+     ],
+     "answer": "Treaty of Trianon",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-237",
+     "prompt": "Who wrote the novel Midaq Alley, set in Cairo?",
+     "choices": [
+      "Taha Hussein",
+      "Tawfiq al-Hakim",
+      "Naguib Mahfouz",
+      "Tayeb Salih"
+     ],
+     "answer": "Naguib Mahfouz",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-242",
+     "prompt": "Who wrote the novel The Golden Notebook?",
+     "choices": [
+      "Iris Murdoch",
+      "Muriel Spark",
+      "Margaret Drabble",
+      "Doris Lessing"
+     ],
+     "answer": "Doris Lessing",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-196",
+     "prompt": "Who is Rama's brother who goes with him into exile?",
+     "choices": [
+      "Shatrughna",
+      "Hanuman",
+      "Lakshmana",
+      "Bharata"
+     ],
+     "answer": "Lakshmana",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-244",
+     "prompt": "A depression left when a block of buried ice melts is called what?",
+     "choices": [
+      "Cirque",
+      "Fjord",
+      "Kettle",
+      "Tarn"
+     ],
+     "answer": "Kettle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-074",
+     "prompt": "Which dome-shaped intrusion pushes overlying strata upward, as in Utah's Henry Mountains?",
+     "choices": [
+      "Sill",
+      "Lopolith",
+      "Batholith",
+      "Laccolith"
+     ],
+     "answer": "Laccolith",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-302",
+     "prompt": "Earth's rotation axis completes one cycle of precession in about how many years?",
+     "choices": [
+      "26,000",
+      "2,000",
+      "41,000",
+      "100,000"
+     ],
+     "answer": "26,000",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-189",
+     "prompt": "Which philosopher distinguished Sinn from Bedeutung using the morning star and evening star?",
+     "choices": [
+      "Bertrand Russell",
+      "Saul Kripke",
+      "Rudolf Carnap",
+      "Gottlob Frege"
+     ],
+     "answer": "Gottlob Frege",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-052",
+     "prompt": "What Greek term names Plato's idea that learning is recollection of knowledge from before birth?",
+     "choices": [
+      "Mimesis",
+      "Katharsis",
+      "Eudaimonia",
+      "Anamnesis"
+     ],
+     "answer": "Anamnesis",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-157",
+     "prompt": "In which text does Marx say philosophers have only interpreted the world?",
+     "choices": [
+      "The German Ideology",
+      "Theses on Feuerbach",
+      "Capital",
+      "The Holy Family"
+     ],
+     "answer": "Theses on Feuerbach",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

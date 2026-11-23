@@ -23,8 +23,11 @@ Royal purple and gold, the owner's choice; one look in all themes. Not pale purp
   `variants` (variant 0 is the round's question, the rest feed rerolls). Stable `id`s.
 - `src/alpha.ts`, `src/feedback.ts` — alpha mode (`?alpha=1`, or `VITE_ALPHA=1` in the Pages
   build): round picker, pace/difficulty votes, per-question flags, POST to the Worker.
-- `worker/` — Cloudflare Worker + KV collecting feedback. Contract: `worker/src/validate.ts`.
-- `scripts/analyze.ts` — summarize feedback (needs `.export-token`, gitignored).
+- `worker/` — Cloudflare Worker + KV collecting feedback, live at
+  https://get-your-goat-alpha.evanda.workers.dev (deploy: `cd worker && npx wrangler deploy`).
+  Contract: `worker/src/validate.ts`. Pages reads the URL from the repo variable FEEDBACK_URL.
+- `scripts/analyze.ts` — summarize feedback: `FEEDBACK_EXPORT_URL=https://get-your-goat-alpha.evanda.workers.dev/export node scripts/analyze.ts`
+  (reads the gitignored `.export-token`).
 - `scripts/simulate.ts` — synthetic-player pacing check (doc section 7.5).
 
 ## Question bank pipeline

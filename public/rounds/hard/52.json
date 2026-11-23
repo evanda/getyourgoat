@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 52,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-037",
+     "prompt": "493 ÷ 17",
+     "answer": 29,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-080",
+     "prompt": "42 × 24",
+     "answer": 1008,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-300",
+     "prompt": "140 × 5",
+     "answer": 700,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-232",
+     "prompt": "Which Byzantine emperor defeated the Arab siege of Constantinople in 717-718?",
+     "choices": [
+      "Heraclius",
+      "Basil I",
+      "Constantine V",
+      "Leo III"
+     ],
+     "answer": "Leo III",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-240",
+     "prompt": "Which 1923 treaty recognized the borders of modern Turkey?",
+     "choices": [
+      "Treaty of Versailles",
+      "Treaty of Sevres",
+      "Treaty of Trianon",
+      "Treaty of Lausanne"
+     ],
+     "answer": "Treaty of Lausanne",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-313",
+     "prompt": "Which 1813 \"Battle of the Nations\" in Saxony defeated Napoleon?",
+     "choices": [
+      "Leipzig",
+      "Lutzen",
+      "Wagram",
+      "Dresden"
+     ],
+     "answer": "Leipzig",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-088",
+     "prompt": "Who wrote the novel Tom Jones?",
+     "choices": [
+      "Laurence Sterne",
+      "Tobias Smollett",
+      "Samuel Richardson",
+      "Henry Fielding"
+     ],
+     "answer": "Henry Fielding",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-247",
+     "prompt": "Who is Odysseus's son in the Odyssey?",
+     "choices": [
+      "Orestes",
+      "Neoptolemus",
+      "Pylades",
+      "Telemachus"
+     ],
+     "answer": "Telemachus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-313",
+     "prompt": "Which Shakespeare play features the loyal officer Enobarbus?",
+     "choices": [
+      "Julius Caesar",
+      "Troilus and Cressida",
+      "Antony and Cleopatra",
+      "Coriolanus"
+     ],
+     "answer": "Antony and Cleopatra",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-163",
+     "prompt": "The Toba supereruption about 74,000 years ago took place on which island?",
+     "choices": [
+      "Luzon",
+      "Sumatra",
+      "Honshu",
+      "Java"
+     ],
+     "answer": "Sumatra",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-253",
+     "prompt": "Which glacier is the longest in the Alps?",
+     "choices": [
+      "Pasterze",
+      "Aletsch Glacier",
+      "Rhone Glacier",
+      "Mer de Glace"
+     ],
+     "answer": "Aletsch Glacier",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-213",
+     "prompt": "Lines joining points of equal atmospheric pressure are called what?",
+     "choices": [
+      "Isogons",
+      "Isotherms",
+      "Isohyets",
+      "Isobars"
+     ],
+     "answer": "Isobars",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-060",
+     "prompt": "Which work of Aristotle develops the theory of the syllogism?",
+     "choices": [
+      "Topics",
+      "Categories",
+      "Prior Analytics",
+      "De Interpretatione"
+     ],
+     "answer": "Prior Analytics",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-116",
+     "prompt": "Which Italian wrote The New Science, on cycles of history?",
+     "choices": [
+      "Benedetto Croce",
+      "Giambattista Vico",
+      "Machiavelli",
+      "Cesare Beccaria"
+     ],
+     "answer": "Giambattista Vico",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-311",
+     "prompt": "Which text attributed to Kautilya is a treatise on statecraft?",
+     "choices": [
+      "The Panchatantra",
+      "The Arthashastra",
+      "The Kamasutra",
+      "The Manusmriti"
+     ],
+     "answer": "The Arthashastra",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

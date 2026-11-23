@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 88,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-229",
+     "prompt": "5 − 4",
+     "answer": 1,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-075",
+     "prompt": "8 × 5",
+     "answer": 40,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-047",
+     "prompt": "50 + 50",
+     "answer": 100,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-060",
+     "prompt": "Which planet is named for the Roman king of the gods?",
+     "choices": [
+      "Jupiter",
+      "Mars",
+      "Venus",
+      "Mercury"
+     ],
+     "answer": "Jupiter",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-177",
+     "prompt": "Which famous statue holds a torch in New York Harbor?",
+     "choices": [
+      "The Sphinx",
+      "Statue of Liberty",
+      "Big Ben",
+      "Colossus"
+     ],
+     "answer": "Statue of Liberty",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-081",
+     "prompt": "Kites were first made long ago in which country?",
+     "choices": [
+      "Peru",
+      "China",
+      "Norway",
+      "Kenya"
+     ],
+     "answer": "China",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-133",
+     "prompt": "What does the BFG blow into children's rooms?",
+     "choices": [
+      "Candy",
+      "Smoke",
+      "Bubbles",
+      "Dreams"
+     ],
+     "answer": "Dreams",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-026",
+     "prompt": "Which little girl in an Andersen tale was only as big as a thumb?",
+     "choices": [
+      "Cinderella",
+      "Gretel",
+      "Thumbelina",
+      "Rapunzel"
+     ],
+     "answer": "Thumbelina",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-083",
+     "prompt": "Who sat on a wall and had a great fall?",
+     "choices": [
+      "Little Bo Peep",
+      "Humpty Dumpty",
+      "Jack Sprat",
+      "Tom Thumb"
+     ],
+     "answer": "Humpty Dumpty",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-155",
+     "prompt": "What covers most of Earth's surface?",
+     "choices": [
+      "Water",
+      "Land",
+      "Ice",
+      "Sand"
+     ],
+     "answer": "Water",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-279",
+     "prompt": "What do we call a spot in a desert with water and palm trees?",
+     "choices": [
+      "Glacier",
+      "Reef",
+      "Valley",
+      "Oasis"
+     ],
+     "answer": "Oasis",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-073",
+     "prompt": "Which planet is the smallest?",
+     "choices": [
+      "Earth",
+      "Jupiter",
+      "Mercury",
+      "Neptune"
+     ],
+     "answer": "Mercury",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-130",
+     "prompt": "Butterflies are what kind of animal?",
+     "choices": [
+      "birds",
+      "insects",
+      "reptiles",
+      "fish"
+     ],
+     "answer": "insects",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-181",
+     "prompt": "Porcupines have sharp what on their backs?",
+     "choices": [
+      "quills",
+      "feathers",
+      "scales",
+      "horns"
+     ],
+     "answer": "quills",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-189",
+     "prompt": "A goat's stomach has how many parts?",
+     "choices": [
+      "four",
+      "one",
+      "two",
+      "ten"
+     ],
+     "answer": "four",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 16,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-277",
+     "prompt": "7 + 5",
+     "answer": 12,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-255",
+     "prompt": "8 + 5",
+     "answer": 13,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-088",
+     "prompt": "11 × 11",
+     "answer": 121,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-128",
+     "prompt": "Which invention helped make books cheaper in the 1400s?",
+     "choices": [
+      "Printing press",
+      "Radio",
+      "Camera",
+      "Bicycle"
+     ],
+     "answer": "Printing press",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-297",
+     "prompt": "Romans lived in a land shaped like a boot called what?",
+     "choices": [
+      "Peru",
+      "Italy",
+      "Chile",
+      "Iceland"
+     ],
+     "answer": "Italy",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-091",
+     "prompt": "Before metal, early people made tools from what?",
+     "choices": [
+      "Plastic",
+      "Rubber",
+      "Glass",
+      "Stone"
+     ],
+     "answer": "Stone",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-135",
+     "prompt": "What does Peter Rabbit wear?",
+     "choices": [
+      "A red hat",
+      "A blue jacket",
+      "A yellow scarf",
+      "A green coat"
+     ],
+     "answer": "A blue jacket",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-231",
+     "prompt": "What is Bilbo Baggins?",
+     "choices": [
+      "A dwarf",
+      "A hobbit",
+      "An elf",
+      "A wizard"
+     ],
+     "answer": "A hobbit",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-095",
+     "prompt": "Who put the kettle on in \"Polly Put the Kettle On\"?",
+     "choices": [
+      "Sukey",
+      "Polly",
+      "Molly",
+      "Katie"
+     ],
+     "answer": "Polly",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-232",
+     "prompt": "Which big river flows through the Amazon Rainforest?",
+     "choices": [
+      "Nile River",
+      "Hudson River",
+      "Amazon River",
+      "Thames"
+     ],
+     "answer": "Amazon River",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-269",
+     "prompt": "Which energy source can never run out, like sunshine?",
+     "choices": [
+      "Burnable",
+      "Digging",
+      "Frozen",
+      "Renewable"
+     ],
+     "answer": "Renewable",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-182",
+     "prompt": "Which sea creature has eight arms?",
+     "choices": [
+      "Octopus",
+      "Dolphin",
+      "Shark",
+      "Crab"
+     ],
+     "answer": "Octopus",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-097",
+     "prompt": "Emperor penguins live in which cold place?",
+     "choices": [
+      "Antarctica",
+      "the Arctic",
+      "Africa",
+      "Australia"
+     ],
+     "answer": "Antarctica",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-280",
+     "prompt": "Which insect can bite and leave an itchy bump?",
+     "choices": [
+      "ladybug",
+      "butterfly",
+      "firefly",
+      "mosquito"
+     ],
+     "answer": "mosquito",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-315",
+     "prompt": "Orcas are the biggest kind of what?",
+     "choices": [
+      "shark",
+      "fish",
+      "dolphin",
+      "seal"
+     ],
+     "answer": "dolphin",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

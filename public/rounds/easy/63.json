@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 63,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-281",
+     "prompt": "31 + 9",
+     "answer": 40,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-135",
+     "prompt": "2 × 3",
+     "answer": 6,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-147",
+     "prompt": "6 + 5",
+     "answer": 11,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-189",
+     "prompt": "In the legend, where did Robin Hood hide?",
+     "choices": [
+      "Sahara Desert",
+      "Sherwood Forest",
+      "Lake Superior",
+      "Big Ben"
+     ],
+     "answer": "Sherwood Forest",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-260",
+     "prompt": "Chinese New Year is often celebrated with dances by what?",
+     "choices": [
+      "Dragons",
+      "Pandas",
+      "Pirates",
+      "Robots"
+     ],
+     "answer": "Dragons",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-035",
+     "prompt": "Which Greek city was famous for its tough training?",
+     "choices": [
+      "Athens",
+      "Corinth",
+      "Troy",
+      "Sparta"
+     ],
+     "answer": "Sparta",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-269",
+     "prompt": "Who is a famous English outlaw who steals from the rich to help the poor?",
+     "choices": [
+      "King Arthur",
+      "Little John",
+      "Peter Pan",
+      "Robin Hood"
+     ],
+     "answer": "Robin Hood",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-315",
+     "prompt": "How many Golden Tickets are there in the chocolate bars?",
+     "choices": [
+      "Three",
+      "Five",
+      "Seven",
+      "Ten"
+     ],
+     "answer": "Five",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-163",
+     "prompt": "Who hosts a very strange tea party?",
+     "choices": [
+      "The White Knight",
+      "The Mad Hatter",
+      "The King",
+      "The Dodo"
+     ],
+     "answer": "The Mad Hatter",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-173",
+     "prompt": "Most of Earth's fresh water is frozen in what?",
+     "choices": [
+      "Puddles",
+      "Clouds",
+      "Rain barrels",
+      "Ice caps and glaciers"
+     ],
+     "answer": "Ice caps and glaciers",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-080",
+     "prompt": "What do we call the way the Moon changes shape in the sky?",
+     "choices": [
+      "Phases",
+      "Seasons",
+      "Tides",
+      "Waves"
+     ],
+     "answer": "Phases",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-055",
+     "prompt": "In which season do leaves on many trees change color and fall?",
+     "choices": [
+      "Spring",
+      "Summer",
+      "Winter",
+      "Fall"
+     ],
+     "answer": "Fall",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-255",
+     "prompt": "A glass tank for pet fish is called an what?",
+     "choices": [
+      "oven",
+      "kennel",
+      "aquarium",
+      "stable"
+     ],
+     "answer": "aquarium",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-083",
+     "prompt": "Anteaters eat mostly what?",
+     "choices": [
+      "bananas",
+      "grass",
+      "ants",
+      "fish"
+     ],
+     "answer": "ants",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-277",
+     "prompt": "How many main body parts does an insect have?",
+     "choices": [
+      "3",
+      "2",
+      "5",
+      "8"
+     ],
+     "answer": "3",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

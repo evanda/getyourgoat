@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 46,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-116",
+     "prompt": "4 + 7",
+     "answer": 11,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-140",
+     "prompt": "9 + 5",
+     "answer": 14,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-276",
+     "prompt": "6 × 5",
+     "answer": 30,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-172",
+     "prompt": "Where does the US President live and work?",
+     "choices": [
+      "The White House",
+      "The Red Barn",
+      "The Blue Castle",
+      "The Black Tower"
+     ],
+     "answer": "The White House",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-158",
+     "prompt": "The Wright brothers owned a shop that fixed what?",
+     "choices": [
+      "Shoes",
+      "Clocks",
+      "Bicycles",
+      "Pianos"
+     ],
+     "answer": "Bicycles",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-247",
+     "prompt": "Which dinosaur had three horns on its face?",
+     "choices": [
+      "T. rex",
+      "Velociraptor",
+      "Stegosaurus",
+      "Triceratops"
+     ],
+     "answer": "Triceratops",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-182",
+     "prompt": "What is Pinocchio made of?",
+     "choices": [
+      "Stone",
+      "Clay",
+      "Wood",
+      "Glass"
+     ],
+     "answer": "Wood",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-126",
+     "prompt": "What kind of lift is in the chocolate factory?",
+     "choices": [
+      "A rope swing",
+      "A wooden crate",
+      "A glass elevator",
+      "A hot air balloon"
+     ],
+     "answer": "A glass elevator",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-180",
+     "prompt": "What kind of dog is Nana in Peter Pan?",
+     "choices": [
+      "A nursemaid dog",
+      "A sled dog",
+      "A hunting dog",
+      "A wolf"
+     ],
+     "answer": "A nursemaid dog",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-167",
+     "prompt": "What do we call water that flows in a stream across land to the sea?",
+     "choices": [
+      "Dune",
+      "Peak",
+      "Cave",
+      "River"
+     ],
+     "answer": "River",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-012",
+     "prompt": "What are tiny drops of water on grass in the morning called?",
+     "choices": [
+      "Hail",
+      "Sleet",
+      "Ash",
+      "Dew"
+     ],
+     "answer": "Dew",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-275",
+     "prompt": "What do plants need from soil to grow?",
+     "choices": [
+      "Candy",
+      "Salt only",
+      "Water and nutrients",
+      "Ice"
+     ],
+     "answer": "Water and nutrients",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-273",
+     "prompt": "Which armored dinosaur had a club on its tail?",
+     "choices": [
+      "Ankylosaurus",
+      "T. rex",
+      "Triceratops",
+      "Diplodocus"
+     ],
+     "answer": "Ankylosaurus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-035",
+     "prompt": "Puppies born together are called a what?",
+     "choices": [
+      "flock",
+      "school",
+      "litter",
+      "pod"
+     ],
+     "answer": "litter",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-272",
+     "prompt": "Which animal loves bananas?",
+     "choices": [
+      "cow",
+      "duck",
+      "wolf",
+      "monkey"
+     ],
+     "answer": "monkey",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

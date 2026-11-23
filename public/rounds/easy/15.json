@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 15,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-090",
+     "prompt": "5 × 5",
+     "answer": 25,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-145",
+     "prompt": "24 − 8",
+     "answer": 16,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-149",
+     "prompt": "12 × 10",
+     "answer": 120,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-013",
+     "prompt": "Which big desert is next to ancient Egypt?",
+     "choices": [
+      "Gobi",
+      "Sahara",
+      "Mojave",
+      "Kalahari"
+     ],
+     "answer": "Sahara",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-144",
+     "prompt": "Samuel Morse made a code of dots and what?",
+     "choices": [
+      "Dashes",
+      "Stars",
+      "Hearts",
+      "Clouds"
+     ],
+     "answer": "Dashes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-174",
+     "prompt": "The huge palace of Versailles is in which country?",
+     "choices": [
+      "Spain",
+      "Russia",
+      "France",
+      "Egypt"
+     ],
+     "answer": "France",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-121",
+     "prompt": "What is Dr. Seuss's real first name?",
+     "choices": [
+      "Thomas",
+      "Samuel",
+      "George",
+      "Theodor"
+     ],
+     "answer": "Theodor",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-233",
+     "prompt": "Who is the wizard friend in The Hobbit?",
+     "choices": [
+      "Merlin",
+      "Dumbledore",
+      "Saruman",
+      "Gandalf"
+     ],
+     "answer": "Gandalf",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-172",
+     "prompt": "Which country is Astrid Lindgren from?",
+     "choices": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Denmark"
+     ],
+     "answer": "Sweden",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-234",
+     "prompt": "What do we call water falling over a cliff?",
+     "choices": [
+      "Geyser",
+      "Waterfall",
+      "Glacier",
+      "Dune"
+     ],
+     "answer": "Waterfall",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-235",
+     "prompt": "Which ocean is on the west coast of the United States?",
+     "choices": [
+      "Pacific",
+      "Atlantic",
+      "Arctic",
+      "Indian"
+     ],
+     "answer": "Pacific",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-265",
+     "prompt": "Which tool helps you find direction, with a floating needle?",
+     "choices": [
+      "Ruler",
+      "Thermometer",
+      "Compass",
+      "Telescope"
+     ],
+     "answer": "Compass",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-213",
+     "prompt": "Which small animal digs tunnels and has tiny eyes?",
+     "choices": [
+      "mole",
+      "eagle",
+      "trout",
+      "sheep"
+     ],
+     "answer": "mole",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-055",
+     "prompt": "Which small animal says \"squeak\"?",
+     "choices": [
+      "cow",
+      "horse",
+      "mouse",
+      "lion"
+     ],
+     "answer": "mouse",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-026",
+     "prompt": "A group of lions is called a what?",
+     "choices": [
+      "pack",
+      "pride",
+      "herd",
+      "flock"
+     ],
+     "answer": "pride",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

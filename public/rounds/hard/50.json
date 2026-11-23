@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 50,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-073",
+     "prompt": "20% of 800",
+     "answer": 160,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-075",
+     "prompt": "399 × 6",
+     "answer": 2394,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-258",
+     "prompt": "29 × 19",
+     "answer": 551,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-307",
+     "prompt": "Which Hungarian doctor urged handwashing to prevent childbed fever in the 1840s?",
+     "choices": [
+      "Robert Koch",
+      "Joseph Lister",
+      "Ignaz Semmelweis",
+      "Louis Pasteur"
+     ],
+     "answer": "Ignaz Semmelweis",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-284",
+     "prompt": "Which maritime empire based on Sumatra controlled Malacca Strait trade from the 7th century?",
+     "choices": [
+      "Majapahit",
+      "Champa",
+      "Pagan",
+      "Srivijaya"
+     ],
+     "answer": "Srivijaya",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-293",
+     "prompt": "Which Swedish botanist devised binomial naming of species?",
+     "choices": [
+      "Carl Linnaeus",
+      "Joseph Banks",
+      "Georges Cuvier",
+      "Gregor Mendel"
+     ],
+     "answer": "Carl Linnaeus",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-214",
+     "prompt": "Who wrote the children's novel Watership Down?",
+     "choices": [
+      "Richard Adams",
+      "Roald Dahl",
+      "Kenneth Grahame",
+      "Dick King-Smith"
+     ],
+     "answer": "Richard Adams",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-252",
+     "prompt": "Who wrote the tragicomedy Le Cid?",
+     "choices": [
+      "Molière",
+      "Pierre Corneille",
+      "Voltaire",
+      "Jean Racine"
+     ],
+     "answer": "Pierre Corneille",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-022",
+     "prompt": "Which nymph holds Odysseus captive on her island for years?",
+     "choices": [
+      "Nausicaa",
+      "Calypso",
+      "Circe",
+      "Penelope"
+     ],
+     "answer": "Calypso",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-235",
+     "prompt": "In Darwin's sequence of reef types, which forms first?",
+     "choices": [
+      "Atoll",
+      "Fringing reef",
+      "Barrier reef",
+      "Patch reef"
+     ],
+     "answer": "Fringing reef",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-234",
+     "prompt": "A flat-topped underwater mountain is called what?",
+     "choices": [
+      "Guyot",
+      "Atoll",
+      "Abyssal hill",
+      "Seamount"
+     ],
+     "answer": "Guyot",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-062",
+     "prompt": "Which banded high-grade metamorphic rock has alternating light and dark layers?",
+     "choices": [
+      "Marble",
+      "Gneiss",
+      "Slate",
+      "Phyllite"
+     ],
+     "answer": "Gneiss",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-158",
+     "prompt": "Which manuscripts of 1844 by Marx develop the theory of alienated labor?",
+     "choices": [
+      "Critique of the Gotha Programme",
+      "Grundrisse",
+      "Economic and Philosophic Manuscripts",
+      "The Poverty of Philosophy"
+     ],
+     "answer": "Economic and Philosophic Manuscripts",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-280",
+     "prompt": "Which Chan master is the Sixth Patriarch, linked to the Platform Sutra?",
+     "choices": [
+      "Bodhidharma",
+      "Linji",
+      "Hui Neng",
+      "Hongren"
+     ],
+     "answer": "Hui Neng",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-263",
+     "prompt": "Which Ming thinker taught the unity of knowledge and action?",
+     "choices": [
+      "Wang Yangming",
+      "Wang Fuzhi",
+      "Zhu Xi",
+      "Dai Zhen"
+     ],
+     "answer": "Wang Yangming",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

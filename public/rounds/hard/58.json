@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 58,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-085",
+     "prompt": "231 ÷ 7",
+     "answer": 33,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-224",
+     "prompt": "25% of 240",
+     "answer": 60,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-204",
+     "prompt": "15 × 9 − 12 × 10",
+     "answer": 15,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-034",
+     "prompt": "Which 1241 Mongol victory in Silesia defeated Polish and German knights?",
+     "choices": [
+      "Grunwald",
+      "Legnica",
+      "Mohi",
+      "Kalka River"
+     ],
+     "answer": "Legnica",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-135",
+     "prompt": "Which usurper founded the short-lived Xin dynasty in AD 9?",
+     "choices": [
+      "Liu Xiu",
+      "Cao Cao",
+      "Wang Mang",
+      "Dong Zhuo"
+     ],
+     "answer": "Wang Mang",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-258",
+     "prompt": "Which 1945 conference in Germany saw Truman, Stalin and Attlee meet?",
+     "choices": [
+      "Yalta",
+      "Potsdam",
+      "Quebec",
+      "Tehran"
+     ],
+     "answer": "Potsdam",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-276",
+     "prompt": "Who wrote the novel The Joke, set in Czechoslovakia?",
+     "choices": [
+      "Ivan Klíma",
+      "Bohumil Hrabal",
+      "Milan Kundera",
+      "Josef Škvorecký"
+     ],
+     "answer": "Milan Kundera",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-302",
+     "prompt": "Who wrote the novel Buddenbrooks?",
+     "choices": [
+      "Hermann Hesse",
+      "Robert Musil",
+      "Hermann Broch",
+      "Thomas Mann"
+     ],
+     "answer": "Thomas Mann",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-250",
+     "prompt": "Who wrote the Tamil text Tirukkural?",
+     "choices": [
+      "Kamban",
+      "Avvaiyar",
+      "Thiruvalluvar",
+      "Ilango Adigal"
+     ],
+     "answer": "Thiruvalluvar",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-099",
+     "prompt": "The Canadian Shield is an exposed portion of a Precambrian what?",
+     "choices": [
+      "Foreland basin",
+      "Ophiolite",
+      "Island arc",
+      "Craton"
+     ],
+     "answer": "Craton",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-016",
+     "prompt": "Which mineral gives lapis lazuli its deep blue color?",
+     "choices": [
+      "Lazurite",
+      "Azurite",
+      "Sodalite",
+      "Kyanite"
+     ],
+     "answer": "Lazurite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-256",
+     "prompt": "Which soil horizon accumulates clays and minerals washed down from above?",
+     "choices": [
+      "O horizon",
+      "E horizon",
+      "A horizon",
+      "B horizon"
+     ],
+     "answer": "B horizon",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-301",
+     "prompt": "Which Upanishadic sage is tied to the 'neti neti' teaching in the Brihadaranyaka?",
+     "choices": [
+      "Uddalaka",
+      "Narada",
+      "Yajnavalkya",
+      "Shvetaketu"
+     ],
+     "answer": "Yajnavalkya",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-079",
+     "prompt": "Which Chartres master is said to have compared moderns to dwarfs on giants' shoulders?",
+     "choices": [
+      "John of Salisbury",
+      "Bernard of Chartres",
+      "William of Conches",
+      "Thierry of Chartres"
+     ],
+     "answer": "Bernard of Chartres",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-155",
+     "prompt": "Who coined the word agnostic?",
+     "choices": [
+      "Herbert Spencer",
+      "Charles Darwin",
+      "T. H. Huxley",
+      "John Tyndall"
+     ],
+     "answer": "T. H. Huxley",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

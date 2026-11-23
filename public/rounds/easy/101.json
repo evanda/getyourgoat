@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 101,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-106",
+     "prompt": "1 + 9",
+     "answer": 10,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-084",
+     "prompt": "22 + 4",
+     "answer": 26,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-073",
+     "prompt": "16 + 9",
+     "answer": 25,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-093",
+     "prompt": "Early people painted animals on what?",
+     "choices": [
+      "Paper",
+      "Cave walls",
+      "Cars",
+      "Computers"
+     ],
+     "answer": "Cave walls",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-108",
+     "prompt": "Columbus's trip was paid for by the king and queen of where?",
+     "choices": [
+      "Spain",
+      "France",
+      "Poland",
+      "Egypt"
+     ],
+     "answer": "Spain",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-131",
+     "prompt": "Marie Curie was a famous what?",
+     "choices": [
+      "Pirate",
+      "Queen",
+      "Pilot",
+      "Scientist"
+     ],
+     "answer": "Scientist",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-097",
+     "prompt": "How many blackbirds were baked in a pie?",
+     "choices": [
+      "Ten",
+      "Two",
+      "One hundred",
+      "Four and twenty"
+     ],
+     "answer": "Four and twenty",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-306",
+     "prompt": "What do the Elves in The Elves and the Shoemaker get as thanks?",
+     "choices": [
+      "Gold coins",
+      "A house",
+      "Little clothes",
+      "Shoes"
+     ],
+     "answer": "Little clothes",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-111",
+     "prompt": "Who wrote The Cat in the Hat?",
+     "choices": [
+      "Roald Dahl",
+      "Dr. Seuss",
+      "A. A. Milne",
+      "Eric Carle"
+     ],
+     "answer": "Dr. Seuss",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-313",
+     "prompt": "What is the main thing a volcano's lava turns into when it cools?",
+     "choices": [
+      "Water",
+      "Snow",
+      "Rock",
+      "Sand"
+     ],
+     "answer": "Rock",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-314",
+     "prompt": "What stone do we use to build pencils' markings, which is soft and gray?",
+     "choices": [
+      "Diamond",
+      "Graphite",
+      "Gold",
+      "Marble"
+     ],
+     "answer": "Graphite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-076",
+     "prompt": "Which planet is third from the Sun?",
+     "choices": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Earth"
+     ],
+     "answer": "Earth",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-175",
+     "prompt": "A male lion's hairy neck is called a what?",
+     "choices": [
+      "trunk",
+      "shell",
+      "mane",
+      "quill"
+     ],
+     "answer": "mane",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-244",
+     "prompt": "Jellyfish have long stinging what?",
+     "choices": [
+      "quills",
+      "horns",
+      "wings",
+      "tentacles"
+     ],
+     "answer": "tentacles",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-150",
+     "prompt": "Which tiny bird can hover and fly backwards?",
+     "choices": [
+      "eagle",
+      "hummingbird",
+      "owl",
+      "ostrich"
+     ],
+     "answer": "hummingbird",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

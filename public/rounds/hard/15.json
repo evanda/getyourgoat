@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 15,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-222",
+     "prompt": "182 ÷ 7",
+     "answer": 26,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-147",
+     "prompt": "10% of 420",
+     "answer": 42,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-249",
+     "prompt": "8 × 12 − 7 × 6",
+     "answer": 54,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-151",
+     "prompt": "Which Kushan emperor strongly patronized Buddhism?",
+     "choices": [
+      "Harsha",
+      "Ashoka",
+      "Kanishka",
+      "Chandragupta II"
+     ],
+     "answer": "Kanishka",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-197",
+     "prompt": "Which Englishman circumnavigated the globe between 1577 and 1580?",
+     "choices": [
+      "Francis Drake",
+      "Martin Frobisher",
+      "John Hawkins",
+      "Walter Raleigh"
+     ],
+     "answer": "Francis Drake",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-309",
+     "prompt": "Which Norman duke won the Battle of Hastings in 1066?",
+     "choices": [
+      "William the Conqueror",
+      "Richard the Lionheart",
+      "Robert Curthose",
+      "Harold Godwinson"
+     ],
+     "answer": "William the Conqueror",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-124",
+     "prompt": "Who wrote the first 80 chapters of Dream of the Red Chamber?",
+     "choices": [
+      "Wu Jingzi",
+      "Cao Xueqin",
+      "Wu Cheng'en",
+      "Pu Songling"
+     ],
+     "answer": "Cao Xueqin",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-018",
+     "prompt": "Who wrote the novel The Mill on the Floss?",
+     "choices": [
+      "George Eliot",
+      "Thomas Hardy",
+      "Charlotte Brontë",
+      "Elizabeth Gaskell"
+     ],
+     "answer": "George Eliot",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-074",
+     "prompt": "Who wrote the Spanish poem collection Gypsy Ballads?",
+     "choices": [
+      "Miguel Hernández",
+      "Rafael Alberti",
+      "Antonio Machado",
+      "Federico García Lorca"
+     ],
+     "answer": "Federico García Lorca",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-296",
+     "prompt": "Which desert lies in India and Pakistan?",
+     "choices": [
+      "Thar",
+      "Karakum",
+      "Kyzylkum",
+      "Gobi"
+     ],
+     "answer": "Thar",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-072",
+     "prompt": "A chunk of foreign rock enclosed within an igneous rock is called what?",
+     "choices": [
+      "Geode",
+      "Concretion",
+      "Xenolith",
+      "Phenocryst"
+     ],
+     "answer": "Xenolith",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-228",
+     "prompt": "Ekman transport moves surface water at roughly what angle to the wind?",
+     "choices": [
+      "90 degrees",
+      "180 degrees",
+      "45 degrees",
+      "0 degrees"
+     ],
+     "answer": "90 degrees",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-099",
+     "prompt": "In which work did Descartes first publish the cogito, in French?",
+     "choices": [
+      "Principles of Philosophy",
+      "The Passions of the Soul",
+      "Meditations",
+      "Discourse on the Method"
+     ],
+     "answer": "Discourse on the Method",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-314",
+     "prompt": "Which philosopher served as India's second president?",
+     "choices": [
+      "Rabindranath Tagore",
+      "Sarvepalli Radhakrishnan",
+      "Sri Aurobindo",
+      "B. R. Ambedkar"
+     ],
+     "answer": "Sarvepalli Radhakrishnan",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-117",
+     "prompt": "Which Italian wrote On Crimes and Punishments, opposing torture and the death penalty?",
+     "choices": [
+      "Giambattista Vico",
+      "Pietro Verri",
+      "Cesare Beccaria",
+      "Gaetano Filangieri"
+     ],
+     "answer": "Cesare Beccaria",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

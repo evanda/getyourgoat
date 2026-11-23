@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 41,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-192",
+     "prompt": "6 − 2",
+     "answer": 4,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-002",
+     "prompt": "26 + 34",
+     "answer": 60,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-299",
+     "prompt": "12 + 5",
+     "answer": 17,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-216",
+     "prompt": "Before coins, people traded things in a way called what?",
+     "choices": [
+      "Barter",
+      "Banking",
+      "Baking",
+      "Boating"
+     ],
+     "answer": "Barter",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-293",
+     "prompt": "How many years are in a decade?",
+     "choices": [
+      "5",
+      "10",
+      "100",
+      "20"
+     ],
+     "answer": "10",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-004",
+     "prompt": "Which boy king has a famous golden mask?",
+     "choices": [
+      "Tutankhamun",
+      "Julius Caesar",
+      "Alexander",
+      "Leif Erikson"
+     ],
+     "answer": "Tutankhamun",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-219",
+     "prompt": "Who wrote The Little Prince?",
+     "choices": [
+      "Hans Andersen",
+      "Antoine de Saint-Exupery",
+      "Roald Dahl",
+      "C. S. Lewis"
+     ],
+     "answer": "Antoine de Saint-Exupery",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-052",
+     "prompt": "Who did the tailor kill seven of with one blow in a Grimm tale?",
+     "choices": [
+      "Flies",
+      "Wasps",
+      "Giants",
+      "Wolves"
+     ],
+     "answer": "Flies",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-206",
+     "prompt": "Who wrote the Harry Potter books?",
+     "choices": [
+      "Roald Dahl",
+      "C. S. Lewis",
+      "J. K. Rowling",
+      "Beatrix Potter"
+     ],
+     "answer": "J. K. Rowling",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-277",
+     "prompt": "What do we call a frozen, treeless land in cold places?",
+     "choices": [
+      "Jungle",
+      "Tundra",
+      "Reef",
+      "Delta"
+     ],
+     "answer": "Tundra",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-017",
+     "prompt": "What do we call the weather in a place over many years?",
+     "choices": [
+      "Climate",
+      "Season",
+      "Cloud",
+      "Breeze"
+     ],
+     "answer": "Climate",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-126",
+     "prompt": "What is a low area of land between hills or mountains?",
+     "choices": [
+      "Peak",
+      "Dune",
+      "Valley",
+      "Island"
+     ],
+     "answer": "Valley",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-215",
+     "prompt": "Snakes smell the air with their what?",
+     "choices": [
+      "tail",
+      "ears",
+      "tongue",
+      "knees"
+     ],
+     "answer": "tongue",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-119",
+     "prompt": "The only mammal that can truly fly is the what?",
+     "choices": [
+      "flying squirrel",
+      "ostrich",
+      "bat",
+      "penguin"
+     ],
+     "answer": "bat",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-028",
+     "prompt": "A group of fish is called a what?",
+     "choices": [
+      "flock",
+      "herd",
+      "pack",
+      "school"
+     ],
+     "answer": "school",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

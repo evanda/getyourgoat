@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 10,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-152",
+     "prompt": "220 ÷ 11",
+     "answer": 20,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-226",
+     "prompt": "9 × 11 − 7 × 10",
+     "answer": 29,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-149",
+     "prompt": "441 ÷ 9",
+     "answer": 49,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-216",
+     "prompt": "At Carrhae in 53 BC, Crassus was defeated by which empire?",
+     "choices": [
+      "The Scythians",
+      "The Sasanians",
+      "The Seleucids",
+      "The Parthians"
+     ],
+     "answer": "The Parthians",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-114",
+     "prompt": "Which Danish physicist discovered electromagnetism in 1820 via a compass needle?",
+     "choices": [
+      "Michael Faraday",
+      "Hans Christian Oersted",
+      "James Maxwell",
+      "Andre-Marie Ampere"
+     ],
+     "answer": "Hans Christian Oersted",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-003",
+     "prompt": "Which 1777 battle in New York, a turning point of the American Revolution, brought French aid?",
+     "choices": [
+      "Princeton",
+      "Lexington",
+      "Saratoga",
+      "Brandywine"
+     ],
+     "answer": "Saratoga",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-177",
+     "prompt": "Which Greek poet wrote victory odes for athletes at the Olympic Games?",
+     "choices": [
+      "Pindar",
+      "Alcaeus",
+      "Anacreon",
+      "Sappho"
+     ],
+     "answer": "Pindar",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-290",
+     "prompt": "Who wrote the novella Gigi?",
+     "choices": [
+      "Colette",
+      "Marguerite Duras",
+      "Françoise Sagan",
+      "Marguerite Yourcenar"
+     ],
+     "answer": "Colette",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-251",
+     "prompt": "Who wrote the novel A Confederacy of Dunces?",
+     "choices": [
+      "Walker Percy",
+      "Eudora Welty",
+      "John Kennedy Toole",
+      "Flannery O'Connor"
+     ],
+     "answer": "John Kennedy Toole",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-044",
+     "prompt": "Which intrusive rock is the coarse-grained equivalent of basalt?",
+     "choices": [
+      "Granite",
+      "Syenite",
+      "Gabbro",
+      "Diorite"
+     ],
+     "answer": "Gabbro",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-110",
+     "prompt": "Which seismic surface wave moves the ground side to side horizontally?",
+     "choices": [
+      "P wave",
+      "Love wave",
+      "S wave",
+      "Rayleigh wave"
+     ],
+     "answer": "Love wave",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-287",
+     "prompt": "Which is the longest river in Europe?",
+     "choices": [
+      "Dnieper",
+      "Rhine",
+      "Danube",
+      "Volga"
+     ],
+     "answer": "Volga",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-057",
+     "prompt": "What Greek term does Aristotle use for potentiality, paired with energeia?",
+     "choices": [
+      "Hexis",
+      "Ousia",
+      "Logos",
+      "Dynamis"
+     ],
+     "answer": "Dynamis",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-273",
+     "prompt": "How many hexagrams does the Yijing contain?",
+     "choices": [
+      "128",
+      "32",
+      "81",
+      "64"
+     ],
+     "answer": "64",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-221",
+     "prompt": "Which term names acts that go beyond the call of duty?",
+     "choices": [
+      "Supererogatory",
+      "Prima facie",
+      "Obligatory",
+      "Deontic"
+     ],
+     "answer": "Supererogatory",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

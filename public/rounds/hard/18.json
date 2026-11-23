@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 18,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-271",
+     "prompt": "25% of 600",
+     "answer": 150,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-005",
+     "prompt": "25% of 580",
+     "answer": 145,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-172",
+     "prompt": "35 × 18",
+     "answer": 630,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-264",
+     "prompt": "Who led a Vietnamese revolt against Han China in AD 40?",
+     "choices": [
+      "Ly Thai To",
+      "Tran Hung Dao",
+      "Lac Long Quan",
+      "Trung Sisters"
+     ],
+     "answer": "Trung Sisters",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-113",
+     "prompt": "Which plan offered US aid to rebuild Western Europe in 1948?",
+     "choices": [
+      "Marshall Plan",
+      "Dawes Plan",
+      "Molotov Plan",
+      "Truman Doctrine"
+     ],
+     "answer": "Marshall Plan",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-231",
+     "prompt": "Which 1940 evacuation rescued Allied troops from a French beach?",
+     "choices": [
+      "Anzio",
+      "Dieppe",
+      "Dunkirk",
+      "Calais"
+     ],
+     "answer": "Dunkirk",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-003",
+     "prompt": "Who is the Latin leader Aeneas defeats at the end of the Aeneid?",
+     "choices": [
+      "Latinus",
+      "Evander",
+      "Mezentius",
+      "Turnus"
+     ],
+     "answer": "Turnus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-114",
+     "prompt": "Who wrote the poem \"Goblin Market\"?",
+     "choices": [
+      "Jean Ingelow",
+      "Elizabeth Barrett Browning",
+      "Emily Dickinson",
+      "Christina Rossetti"
+     ],
+     "answer": "Christina Rossetti",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-104",
+     "prompt": "Who wrote the novel Lucky Jim?",
+     "choices": [
+      "Kingsley Amis",
+      "Philip Larkin",
+      "Evelyn Waugh",
+      "John Wain"
+     ],
+     "answer": "Kingsley Amis",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-002",
+     "prompt": "Which mineral is 5 on the Mohs scale?",
+     "choices": [
+      "Fluorite",
+      "Orthoclase",
+      "Calcite",
+      "Apatite"
+     ],
+     "answer": "Apatite",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-042",
+     "prompt": "Which mineral is the main component of the rock chert?",
+     "choices": [
+      "Feldspar",
+      "Gypsum",
+      "Microcrystalline quartz",
+      "Calcite"
+     ],
+     "answer": "Microcrystalline quartz",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-159",
+     "prompt": "Ancient Lake Bonneville is the predecessor of which present-day lake?",
+     "choices": [
+      "Mono Lake",
+      "Pyramid Lake",
+      "Great Salt Lake",
+      "Lake Tahoe"
+     ],
+     "answer": "Great Salt Lake",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-215",
+     "prompt": "Which philosopher developed the intentional stance?",
+     "choices": [
+      "Paul Churchland",
+      "Daniel Dennett",
+      "Jerry Fodor",
+      "John Searle"
+     ],
+     "answer": "Daniel Dennett",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-313",
+     "prompt": "Which Indian monk addressed the 1893 Parliament of the World's Religions in Chicago?",
+     "choices": [
+      "Sri Aurobindo",
+      "Swami Vivekananda",
+      "Dayananda Saraswati",
+      "Ramakrishna"
+     ],
+     "answer": "Swami Vivekananda",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-187",
+     "prompt": "Which Lyotard book defines postmodernity as incredulity toward metanarratives?",
+     "choices": [
+      "The Postmodern Condition",
+      "Simulacra and Simulation",
+      "Anti-Oedipus",
+      "Discipline and Punish"
+     ],
+     "answer": "The Postmodern Condition",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

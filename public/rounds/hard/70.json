@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 70,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-178",
+     "prompt": "50% of 800",
+     "answer": 400,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-154",
+     "prompt": "26 × 19",
+     "answer": 494,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-235",
+     "prompt": "544 ÷ 16",
+     "answer": 34,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-308",
+     "prompt": "Which 1713 treaty ended the War of the Spanish Succession?",
+     "choices": [
+      "Treaty of Ryswick",
+      "Treaty of Paris",
+      "Treaty of Nystad",
+      "Treaty of Utrecht"
+     ],
+     "answer": "Treaty of Utrecht",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-273",
+     "prompt": "Kublai Khan's forces ended which Chinese dynasty in 1279?",
+     "choices": [
+      "Southern Song",
+      "Tang",
+      "Liao",
+      "Ming"
+     ],
+     "answer": "Southern Song",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-022",
+     "prompt": "Which Habsburg empress inherited the throne in 1740 under the Pragmatic Sanction?",
+     "choices": [
+      "Catherine II",
+      "Maria Theresa",
+      "Elisabeth",
+      "Marie Antoinette"
+     ],
+     "answer": "Maria Theresa",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-137",
+     "prompt": "In Dream of the Red Chamber, who is the young hero born with a piece of jade?",
+     "choices": [
+      "Qin Zhong",
+      "Liu Xiang",
+      "Jia Baoyu",
+      "Xue Pan"
+     ],
+     "answer": "Jia Baoyu",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-208",
+     "prompt": "Who wrote the epic Don Juan?",
+     "choices": [
+      "Lord Byron",
+      "Robert Southey",
+      "John Keats",
+      "Percy Shelley"
+     ],
+     "answer": "Lord Byron",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-186",
+     "prompt": "Who wrote the Essais, which created the personal essay?",
+     "choices": [
+      "François Rabelais",
+      "Michel de Montaigne",
+      "Blaise Pascal",
+      "La Rochefoucauld"
+     ],
+     "answer": "Michel de Montaigne",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-278",
+     "prompt": "Which mountain's summit is farthest from Earth's center because of the equatorial bulge?",
+     "choices": [
+      "Chimborazo",
+      "Cotopaxi",
+      "Aconcagua",
+      "Everest"
+     ],
+     "answer": "Chimborazo",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-300",
+     "prompt": "Which is the lowest point in Africa, in Djibouti?",
+     "choices": [
+      "Qattara Depression",
+      "Danakil Depression",
+      "Lake Assal",
+      "Lake Turkana"
+     ],
+     "answer": "Lake Assal",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-222",
+     "prompt": "Which warm current flows northeast off the coast of Japan?",
+     "choices": [
+      "Alaska",
+      "Oyashio",
+      "Tsushima",
+      "Kuroshio"
+     ],
+     "answer": "Kuroshio",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-239",
+     "prompt": "Which theological school stressed reason, divine justice and a created Qur'an?",
+     "choices": [
+      "The Ash'ariyya",
+      "The Mu'tazila",
+      "The Zahiris",
+      "The Hanbalis"
+     ],
+     "answer": "The Mu'tazila",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-143",
+     "prompt": "Whom did Kierkegaard break his engagement with?",
+     "choices": [
+      "Regine Olsen",
+      "Ida Lund",
+      "Regine Rasmussen",
+      "Cordelia Olsen"
+     ],
+     "answer": "Regine Olsen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-127",
+     "prompt": "Which Frenchwoman wrote the Declaration of the Rights of Woman and of the Female Citizen?",
+     "choices": [
+      "Germaine de Stael",
+      "Madame Roland",
+      "Sophie de Condorcet",
+      "Olympe de Gouges"
+     ],
+     "answer": "Olympe de Gouges",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

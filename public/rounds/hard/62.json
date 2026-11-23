@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 62,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-268",
+     "prompt": "564 ÷ 12",
+     "answer": 47,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-253",
+     "prompt": "13 × 14",
+     "answer": 182,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-112",
+     "prompt": "16 × 14",
+     "answer": 224,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-227",
+     "prompt": "Which Soviet leader introduced glasnost and perestroika?",
+     "choices": [
+      "Nikita Khrushchev",
+      "Boris Yeltsin",
+      "Mikhail Gorbachev",
+      "Leonid Brezhnev"
+     ],
+     "answer": "Mikhail Gorbachev",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-300",
+     "prompt": "Which 1905 treaty, mediated by Theodore Roosevelt, ended the Russo-Japanese War?",
+     "choices": [
+      "Treaty of Versailles",
+      "Treaty of Shimonoseki",
+      "Treaty of Nanking",
+      "Treaty of Portsmouth"
+     ],
+     "answer": "Treaty of Portsmouth",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-171",
+     "prompt": "Which Hunnic leader was stopped at the Catalaunian Plains in 451?",
+     "choices": [
+      "Alaric",
+      "Theodoric",
+      "Attila",
+      "Odoacer"
+     ],
+     "answer": "Attila",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-020",
+     "prompt": "Which Shakespeare play features the stage direction about exiting pursued by a bear?",
+     "choices": [
+      "Cymbeline",
+      "The Winter's Tale",
+      "Pericles",
+      "The Tempest"
+     ],
+     "answer": "The Winter's Tale",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-239",
+     "prompt": "Who won the Booker Prize for Wolf Hall?",
+     "choices": [
+      "Pat Barker",
+      "Margaret Atwood",
+      "Hilary Mantel",
+      "A. S. Byatt"
+     ],
+     "answer": "Hilary Mantel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-057",
+     "prompt": "Who wrote the Yiddish stories about Tevye the Dairyman?",
+     "choices": [
+      "Isaac Bashevis Singer",
+      "I. L. Peretz",
+      "Sholem Aleichem",
+      "Mendele Mocher Sforim"
+     ],
+     "answer": "Sholem Aleichem",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-286",
+     "prompt": "Which South African range is the highest in southern Africa?",
+     "choices": [
+      "Magaliesberg",
+      "Swartberg",
+      "Drakensberg",
+      "Cederberg"
+     ],
+     "answer": "Drakensberg",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-151",
+     "prompt": "The Rhynie chert in Scotland preserves some of the earliest what?",
+     "choices": [
+      "Dinosaurs",
+      "Land plants and animals",
+      "Flowering plants",
+      "Fish"
+     ],
+     "answer": "Land plants and animals",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-259",
+     "prompt": "Mollisols are the fertile, dark soils typical of which type of vegetation?",
+     "choices": [
+      "Tundra",
+      "Rainforest",
+      "Desert shrub",
+      "Grassland"
+     ],
+     "answer": "Grassland",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-185",
+     "prompt": "Which Foucault concept names state power over life and populations?",
+     "choices": [
+      "Biopower",
+      "Genealogy",
+      "Heterotopia",
+      "Episteme"
+     ],
+     "answer": "Biopower",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-277",
+     "prompt": "In Mencius, what is about to happen to the child who prompts compassion in any onlooker?",
+     "choices": [
+      "Being swept by a flood",
+      "Falling into a well",
+      "Being bitten by a snake",
+      "Walking into a fire"
+     ],
+     "answer": "Falling into a well",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-287",
+     "prompt": "Which monk founded Shingon Buddhism in Japan?",
+     "choices": [
+      "Dogen",
+      "Honen",
+      "Saicho",
+      "Kukai"
+     ],
+     "answer": "Kukai",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

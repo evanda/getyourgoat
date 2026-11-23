@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 48,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-297",
+     "prompt": "379 − 267",
+     "answer": 112,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-130",
+     "prompt": "20% of 340",
+     "answer": 68,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-032",
+     "prompt": "47²",
+     "answer": 2209,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-314",
+     "prompt": "Which Byzantine emperor, called the Bulgar-Slayer, died in 1025?",
+     "choices": [
+      "Heraclius",
+      "Basil II",
+      "Nikephoros II",
+      "Alexios I"
+     ],
+     "answer": "Basil II",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-287",
+     "prompt": "Which Inca ruler expanded Tawantinsuyu and rebuilt Cusco, c.1438?",
+     "choices": [
+      "Manco Capac",
+      "Huayna Capac",
+      "Pachacuti",
+      "Atahualpa"
+     ],
+     "answer": "Pachacuti",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-263",
+     "prompt": "Which Argentine general crossed the Andes in 1817 to free Chile?",
+     "choices": [
+      "Simon Bolivar",
+      "Bernardo O'Higgins",
+      "Jose de San Martin",
+      "Antonio Sucre"
+     ],
+     "answer": "Jose de San Martin",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-015",
+     "prompt": "Who wrote the story collection Strange Tales from a Chinese Studio?",
+     "choices": [
+      "Wu Cheng'en",
+      "Cao Xueqin",
+      "Wu Jingzi",
+      "Pu Songling"
+     ],
+     "answer": "Pu Songling",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-151",
+     "prompt": "In Fathers and Sons, who is the nihilist student?",
+     "choices": [
+      "Lavretsky",
+      "Bazarov",
+      "Rudin",
+      "Insarov"
+     ],
+     "answer": "Bazarov",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-054",
+     "prompt": "Who wrote Anabasis about the march of the Ten Thousand?",
+     "choices": [
+      "Xenophon",
+      "Herodotus",
+      "Polybius",
+      "Thucydides"
+     ],
+     "answer": "Xenophon",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-010",
+     "prompt": "Which green mineral is a copper carbonate often used as an ornamental stone?",
+     "choices": [
+      "Jadeite",
+      "Epidote",
+      "Serpentine",
+      "Malachite"
+     ],
+     "answer": "Malachite",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-025",
+     "prompt": "Diamond and graphite are what to each other?",
+     "choices": [
+      "Allotropes of different elements",
+      "Polymorphs",
+      "Isotopes",
+      "Pseudomorphs"
+     ],
+     "answer": "Polymorphs",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-273",
+     "prompt": "Which mountain is the third highest on Earth?",
+     "choices": [
+      "Makalu",
+      "Lhotse",
+      "Cho Oyu",
+      "Kangchenjunga"
+     ],
+     "answer": "Kangchenjunga",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-084",
+     "prompt": "Which pope did William of Ockham oppose in the poverty dispute?",
+     "choices": [
+      "Clement V",
+      "Boniface VIII",
+      "John XXII",
+      "Innocent III"
+     ],
+     "answer": "John XXII",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-094",
+     "prompt": "Which Dutch jurist wrote On the Law of War and Peace?",
+     "choices": [
+      "Jean Bodin",
+      "Hugo Grotius",
+      "Francisco Suarez",
+      "Samuel Pufendorf"
+     ],
+     "answer": "Hugo Grotius",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-066",
+     "prompt": "Which Neoplatonist stressed theurgy, or ritual action, as the soul's path upward?",
+     "choices": [
+      "Damascius",
+      "Iamblichus",
+      "Porphyry",
+      "Plotinus"
+     ],
+     "answer": "Iamblichus",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

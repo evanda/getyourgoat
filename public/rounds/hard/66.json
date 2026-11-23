@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 66,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-251",
+     "prompt": "25% of 560",
+     "answer": 140,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-155",
+     "prompt": "931 ÷ 19",
+     "answer": 49,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-084",
+     "prompt": "19²",
+     "answer": 361,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-181",
+     "prompt": "Which Hungarian king, nicknamed Corvinus, ruled 1458-1490?",
+     "choices": [
+      "Matthias",
+      "Bela IV",
+      "Sigismund",
+      "Louis the Great"
+     ],
+     "answer": "Matthias",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-214",
+     "prompt": "Which Dutch captain sailed the Duyfken to Australia's Cape York in 1606?",
+     "choices": [
+      "James Cook",
+      "Willem Janszoon",
+      "Abel Tasman",
+      "Dirk Hartog"
+     ],
+     "answer": "Willem Janszoon",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-006",
+     "prompt": "Which 1204 crusade sacked Constantinople?",
+     "choices": [
+      "Fifth Crusade",
+      "Fourth Crusade",
+      "Second Crusade",
+      "Third Crusade"
+     ],
+     "answer": "Fourth Crusade",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-155",
+     "prompt": "Who wrote the Palestinian novella Men in the Sun?",
+     "choices": [
+      "Mahmoud Darwish",
+      "Jabra Ibrahim Jabra",
+      "Emile Habibi",
+      "Ghassan Kanafani"
+     ],
+     "answer": "Ghassan Kanafani",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-156",
+     "prompt": "Who wrote the novel Ferdydurke?",
+     "choices": [
+      "Witold Gombrowicz",
+      "Stanisław Lem",
+      "Bruno Schulz",
+      "Czesław Miłosz"
+     ],
+     "answer": "Witold Gombrowicz",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-271",
+     "prompt": "Who wrote the novel The Woman in the Dunes?",
+     "choices": [
+      "Kenzaburō Ōe",
+      "Yasushi Inoue",
+      "Haruki Murakami",
+      "Kōbō Abe"
+     ],
+     "answer": "Kōbō Abe",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-106",
+     "prompt": "The Deccan Traps are vast flood basalts in which country?",
+     "choices": [
+      "Russia",
+      "Brazil",
+      "Australia",
+      "India"
+     ],
+     "answer": "India",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-192",
+     "prompt": "Rising air cooling without exchanging heat with its surroundings is called what?",
+     "choices": [
+      "Latent release",
+      "Advection",
+      "Radiative cooling",
+      "Adiabatic cooling"
+     ],
+     "answer": "Adiabatic cooling",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-217",
+     "prompt": "The Southern Oscillation is measured by the pressure difference between Tahiti and which city?",
+     "choices": [
+      "Jakarta",
+      "Manila",
+      "Lima",
+      "Darwin"
+     ],
+     "answer": "Darwin",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-021",
+     "prompt": "In which Plato dialogue does the story of Atlantis first appear?",
+     "choices": [
+      "Timaeus",
+      "Laws",
+      "Phaedo",
+      "Sophist"
+     ],
+     "answer": "Timaeus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-053",
+     "prompt": "What Greek term does Plato use for particulars 'participating' in the Forms?",
+     "choices": [
+      "Katharsis",
+      "Methexis",
+      "Eudaimonia",
+      "Anamnesis"
+     ],
+     "answer": "Methexis",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-231",
+     "prompt": "Which philosopher used the Wilt Chamberlain example against patterned justice?",
+     "choices": [
+      "Robert Nozick",
+      "Michael Walzer",
+      "John Rawls",
+      "Ronald Dworkin"
+     ],
+     "answer": "Robert Nozick",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

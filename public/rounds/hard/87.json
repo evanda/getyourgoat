@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 87,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-020",
+     "prompt": "20% of 460",
+     "answer": 92,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-119",
+     "prompt": "47 × 15",
+     "answer": 705,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-040",
+     "prompt": "416 ÷ 16",
+     "answer": 26,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-267",
+     "prompt": "Which 1923 failed coup in Munich involved Hitler?",
+     "choices": [
+      "Kapp Putsch",
+      "Reichstag Fire",
+      "Beer Hall Putsch",
+      "Night of Long Knives"
+     ],
+     "answer": "Beer Hall Putsch",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-304",
+     "prompt": "Which Zapotec city on a mountaintop near Oaxaca was a major capital?",
+     "choices": [
+      "Mitla",
+      "Teotihuacan",
+      "Tikal",
+      "Monte Alban"
+     ],
+     "answer": "Monte Alban",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-029",
+     "prompt": "Which Mughal emperor was known for a policy of religious tolerance and the Din-i Ilahi?",
+     "choices": [
+      "Akbar",
+      "Aurangzeb",
+      "Jahangir",
+      "Shah Jahan"
+     ],
+     "answer": "Akbar",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-213",
+     "prompt": "Who wrote Works and Days?",
+     "choices": [
+      "Homer",
+      "Hesiod",
+      "Theognis",
+      "Pindar"
+     ],
+     "answer": "Hesiod",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-098",
+     "prompt": "Who wrote the essay collection Walden?",
+     "choices": [
+      "Ralph Waldo Emerson",
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "Henry David Thoreau"
+     ],
+     "answer": "Henry David Thoreau",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-110",
+     "prompt": "Who wrote the play Life Is a Dream?",
+     "choices": [
+      "Juan Ruiz de Alarcón",
+      "Pedro Calderón de la Barca",
+      "Lope de Vega",
+      "Tirso de Molina"
+     ],
+     "answer": "Pedro Calderón de la Barca",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-252",
+     "prompt": "The largest ice shelf in Antarctica is the what?",
+     "choices": [
+      "Ronne Ice Shelf",
+      "Larsen Ice Shelf",
+      "Amery Ice Shelf",
+      "Ross Ice Shelf"
+     ],
+     "answer": "Ross Ice Shelf",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-057",
+     "prompt": "Which limestone is composed mostly of loosely cemented shell fragments?",
+     "choices": [
+      "Travertine",
+      "Oolite",
+      "Tufa",
+      "Coquina"
+     ],
+     "answer": "Coquina",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-255",
+     "prompt": "Slow downslope flow of waterlogged soil in cold regions is called what?",
+     "choices": [
+      "Lahar",
+      "Creep slide",
+      "Slump",
+      "Solifluction"
+     ],
+     "answer": "Solifluction",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-139",
+     "prompt": "Which philosopher wrote The Essence of Christianity?",
+     "choices": [
+      "David Strauss",
+      "Max Stirner",
+      "Bruno Bauer",
+      "Ludwig Feuerbach"
+     ],
+     "answer": "Ludwig Feuerbach",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-244",
+     "prompt": "Which philosopher founded the Illuminationist (Ishraqi) school?",
+     "choices": [
+      "Mulla Sadra",
+      "Avicenna",
+      "Suhrawardi",
+      "Ibn Arabi"
+     ],
+     "answer": "Suhrawardi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-014",
+     "prompt": "In which Plato dialogue does Socrates guide a slave boy to double a square?",
+     "choices": [
+      "Theaetetus",
+      "Lysis",
+      "Meno",
+      "Phaedo"
+     ],
+     "answer": "Meno",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

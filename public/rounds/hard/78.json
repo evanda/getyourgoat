@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 78,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-219",
+     "prompt": "15% of 360",
+     "answer": 54,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-051",
+     "prompt": "760 ÷ 19",
+     "answer": 40,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-091",
+     "prompt": "23 × 16",
+     "answer": 368,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-185",
+     "prompt": "Which 1942 battle in the Pacific, near Hawaii, turned the war against Japan's carriers?",
+     "choices": [
+      "Midway",
+      "Leyte Gulf",
+      "Guadalcanal",
+      "Coral Sea"
+     ],
+     "answer": "Midway",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-133",
+     "prompt": "Which Timurid ruler of Samarkand was also a renowned astronomer?",
+     "choices": [
+      "Ulugh Beg",
+      "Shah Rukh",
+      "Babur",
+      "Husayn Bayqara"
+     ],
+     "answer": "Ulugh Beg",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-268",
+     "prompt": "Which Mongol khan founded the Ilkhanate in Persia?",
+     "choices": [
+      "Ogedei",
+      "Batu",
+      "Berke",
+      "Hulagu"
+     ],
+     "answer": "Hulagu",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-248",
+     "prompt": "Who wrote the play Mother Courage and Her Children?",
+     "choices": [
+      "Bertolt Brecht",
+      "Friedrich Dürrenmatt",
+      "Max Frisch",
+      "Carl Zuckmayer"
+     ],
+     "answer": "Bertolt Brecht",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-293",
+     "prompt": "Who wrote the poem \"Chicago\", calling it the City of the Big Shoulders?",
+     "choices": [
+      "Carl Sandburg",
+      "Vachel Lindsay",
+      "Edgar Lee Masters",
+      "William Carlos Williams"
+     ],
+     "answer": "Carl Sandburg",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-077",
+     "prompt": "Which Persian poet wrote the Rubaiyat later translated by FitzGerald?",
+     "choices": [
+      "Saadi",
+      "Rumi",
+      "Hafez",
+      "Omar Khayyam"
+     ],
+     "answer": "Omar Khayyam",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-064",
+     "prompt": "Blueschist forms under which conditions?",
+     "choices": [
+      "Low temperature, low pressure",
+      "Low temperature, high pressure",
+      "High temperature, low pressure",
+      "High temperature, high pressure"
+     ],
+     "answer": "Low temperature, high pressure",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-006",
+     "prompt": "Cinnabar is the chief ore of which metal?",
+     "choices": [
+      "Antimony",
+      "Silver",
+      "Mercury",
+      "Lead"
+     ],
+     "answer": "Mercury",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-262",
+     "prompt": "Rounding and peeling of rock in curved sheets, as at Half Dome, is called what?",
+     "choices": [
+      "Oxidation",
+      "Hydrolysis",
+      "Frost wedging",
+      "Exfoliation"
+     ],
+     "answer": "Exfoliation",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-059",
+     "prompt": "What traditional title collects Aristotle's logical treatises?",
+     "choices": [
+      "The Organon",
+      "The Enneads",
+      "The Corpus",
+      "The Canon"
+     ],
+     "answer": "The Organon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-038",
+     "prompt": "Which Stoic from Apamea in Syria taught the young Cicero?",
+     "choices": [
+      "Cleanthes",
+      "Panaetius",
+      "Antipater",
+      "Posidonius"
+     ],
+     "answer": "Posidonius",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-115",
+     "prompt": "Which thinker wrote Sketch for a Historical Picture of the Progress of the Human Mind?",
+     "choices": [
+      "Montesquieu",
+      "Turgot",
+      "d'Alembert",
+      "Condorcet"
+     ],
+     "answer": "Condorcet",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 46,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-186",
+     "prompt": "240 ÷ 16",
+     "answer": 15,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-129",
+     "prompt": "13 × 11 − 11 × 7",
+     "answer": 66,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-267",
+     "prompt": "297 ÷ 11",
+     "answer": 27,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-055",
+     "prompt": "Odoacer deposed which Western emperor in 476?",
+     "choices": [
+      "Honorius",
+      "Valentinian III",
+      "Romulus Augustulus",
+      "Majorian"
+     ],
+     "answer": "Romulus Augustulus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-239",
+     "prompt": "Which American developed the first effective polio vaccine, announced in 1955?",
+     "choices": [
+      "Albert Sabin",
+      "Thomas Francis",
+      "Jonas Salk",
+      "Maurice Hilleman"
+     ],
+     "answer": "Jonas Salk",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-177",
+     "prompt": "Which imperial general led Catholic forces and was assassinated in 1634?",
+     "choices": [
+      "Wallenstein",
+      "Montecuccoli",
+      "Pappenheim",
+      "Tilly"
+     ],
+     "answer": "Wallenstein",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-099",
+     "prompt": "Who is the faithful hound that recognizes Odysseus on his return?",
+     "choices": [
+      "Cerberus",
+      "Orthrus",
+      "Laelaps",
+      "Argos"
+     ],
+     "answer": "Argos",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-067",
+     "prompt": "Who wrote the 1997 Booker-winning novel The God of Small Things?",
+     "choices": [
+      "Kiran Desai",
+      "Arundhati Roy",
+      "Jhumpa Lahiri",
+      "Anita Desai"
+     ],
+     "answer": "Arundhati Roy",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-096",
+     "prompt": "Who wrote the U.S.A. trilogy?",
+     "choices": [
+      "Sinclair Lewis",
+      "John Dos Passos",
+      "Theodore Dreiser",
+      "Thomas Wolfe"
+     ],
+     "answer": "John Dos Passos",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-210",
+     "prompt": "Strong westerly winds between 40 and 50 degrees south are nicknamed what?",
+     "choices": [
+      "Trade winds",
+      "Horse latitudes",
+      "Roaring Forties",
+      "Doldrums"
+     ],
+     "answer": "Roaring Forties",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-223",
+     "prompt": "The Humboldt Current flows along the coast of which country?",
+     "choices": [
+      "Brazil",
+      "Peru",
+      "Australia",
+      "Mexico"
+     ],
+     "answer": "Peru",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-107",
+     "prompt": "The Siberian Traps erupted around the time of which event?",
+     "choices": [
+      "Cretaceous extinction",
+      "Permian mass extinction",
+      "Ordovician glaciation",
+      "Cambrian explosion"
+     ],
+     "answer": "Permian mass extinction",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-193",
+     "prompt": "Which philosopher coined the phrase naturalistic fallacy?",
+     "choices": [
+      "Henry Sidgwick",
+      "W. D. Ross",
+      "R. M. Hare",
+      "G. E. Moore"
+     ],
+     "answer": "G. E. Moore",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-247",
+     "prompt": "Which Sufi was executed in Baghdad in 922 after saying 'I am the Truth'?",
+     "choices": [
+      "Al-Junayd",
+      "Al-Hallaj",
+      "Ibn Arabi",
+      "Rabia"
+     ],
+     "answer": "Al-Hallaj",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-067",
+     "prompt": "Which Neoplatonist wrote the Elements of Theology?",
+     "choices": [
+      "Plotinus",
+      "Proclus",
+      "Iamblichus",
+      "Porphyry"
+     ],
+     "answer": "Proclus",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 94,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-011",
+     "prompt": "28 + 5",
+     "answer": 33,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-218",
+     "prompt": "23 + 38",
+     "answer": 61,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-207",
+     "prompt": "28 ÷ 7",
+     "answer": 4,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-025",
+     "prompt": "Where did the first Olympic Games take place?",
+     "choices": [
+      "Italy",
+      "Greece",
+      "Egypt",
+      "China"
+     ],
+     "answer": "Greece",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-176",
+     "prompt": "The Maya pyramid at Chichen Itza is in which country?",
+     "choices": [
+      "Mexico",
+      "Egypt",
+      "Greece",
+      "India"
+     ],
+     "answer": "Mexico",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-125",
+     "prompt": "Polynesian explorers crossed the Pacific in what?",
+     "choices": [
+      "Trains",
+      "Big canoes",
+      "Jets",
+      "Hot air balloons"
+     ],
+     "answer": "Big canoes",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-220",
+     "prompt": "Who wrote Treasure Island?",
+     "choices": [
+      "Robert Louis Stevenson",
+      "Mark Twain",
+      "Charles Dickens",
+      "Jack London"
+     ],
+     "answer": "Robert Louis Stevenson",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-036",
+     "prompt": "Who wrote The Little Mermaid?",
+     "choices": [
+      "Hans Christian Andersen",
+      "The Brothers Grimm",
+      "Roald Dahl",
+      "Lewis Carroll"
+     ],
+     "answer": "Hans Christian Andersen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-293",
+     "prompt": "In Goldilocks, whose porridge was just right?",
+     "choices": [
+      "Mama Bear's",
+      "Papa Bear's",
+      "Grandma's",
+      "Baby Bear's"
+     ],
+     "answer": "Baby Bear's",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-263",
+     "prompt": "Why do we see our shadow on a sunny day?",
+     "choices": [
+      "The Moon is near",
+      "The wind pushes it",
+      "Clouds make it",
+      "Our body blocks the light"
+     ],
+     "answer": "Our body blocks the light",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-276",
+     "prompt": "What do we call a very large area of grass and few trees?",
+     "choices": [
+      "Rainforest",
+      "Grassland",
+      "Glacier",
+      "Reef"
+     ],
+     "answer": "Grassland",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-148",
+     "prompt": "What do scientists use to detect earthquakes?",
+     "choices": [
+      "Barometer",
+      "Seismograph",
+      "Telescope",
+      "Compass"
+     ],
+     "answer": "Seismograph",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-208",
+     "prompt": "Which big animal spends the day in water to stay cool?",
+     "choices": [
+      "lion",
+      "zebra",
+      "camel",
+      "hippo"
+     ],
+     "answer": "hippo",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-110",
+     "prompt": "Many monkeys live in warm, wet forests called what?",
+     "choices": [
+      "deserts",
+      "rainforests",
+      "tundra",
+      "prairies"
+     ],
+     "answer": "rainforests",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-299",
+     "prompt": "Which animal has antlers and lives in the north woods?",
+     "choices": [
+      "zebra",
+      "pig",
+      "moose",
+      "goat"
+     ],
+     "answer": "moose",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

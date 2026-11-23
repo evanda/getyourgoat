@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 59,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-283",
+     "prompt": "891 − 209",
+     "answer": 682,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-022",
+     "prompt": "40 × 24",
+     "answer": 960,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-250",
+     "prompt": "15 × 9 − 9 × 9",
+     "answer": 54,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-140",
+     "prompt": "Which Danish-born navigator explored Siberia and the strait named for him in 1728?",
+     "choices": [
+      "James Cook",
+      "Semyon Dezhnev",
+      "Fabian Bellingshausen",
+      "Vitus Bering"
+     ],
+     "answer": "Vitus Bering",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-302",
+     "prompt": "Which Frankish ruler won the Battle of Tours in 732?",
+     "choices": [
+      "Charlemagne",
+      "Charles Martel",
+      "Pepin the Short",
+      "Clovis I"
+     ],
+     "answer": "Charles Martel",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-148",
+     "prompt": "Which battle in 1905 saw Japan destroy Russia's fleet?",
+     "choices": [
+      "Port Arthur",
+      "Yalu",
+      "Mukden",
+      "Tsushima"
+     ],
+     "answer": "Tsushima",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-029",
+     "prompt": "Who wrote the Persian poem The Conference of the Birds?",
+     "choices": [
+      "Saadi",
+      "Nizami Ganjavi",
+      "Attar of Nishapur",
+      "Hafez"
+     ],
+     "answer": "Attar of Nishapur",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-150",
+     "prompt": "In which Austen novel does Fanny Price appear?",
+     "choices": [
+      "Northanger Abbey",
+      "Emma",
+      "Persuasion",
+      "Mansfield Park"
+     ],
+     "answer": "Mansfield Park",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-001",
+     "prompt": "Who wrote the novel The Shadow of the Wind?",
+     "choices": [
+      "Arturo Pérez-Reverte",
+      "Eduardo Mendoza",
+      "Javier Marías",
+      "Carlos Ruiz Zafón"
+     ],
+     "answer": "Carlos Ruiz Zafón",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-021",
+     "prompt": "The two cleavage planes of pyroxene meet at about what angle?",
+     "choices": [
+      "90 degrees",
+      "120 degrees",
+      "60 degrees",
+      "75 degrees"
+     ],
+     "answer": "90 degrees",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-295",
+     "prompt": "The Rub' al Khali, or Empty Quarter, is a sand desert mainly in which country?",
+     "choices": [
+      "Saudi Arabia",
+      "Egypt",
+      "Libya",
+      "Iran"
+     ],
+     "answer": "Saudi Arabia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-055",
+     "prompt": "Which sedimentary rock is made of compacted mud and splits into thin layers?",
+     "choices": [
+      "Sandstone",
+      "Dolostone",
+      "Chert",
+      "Shale"
+     ],
+     "answer": "Shale",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-091",
+     "prompt": "Which humanist proved the Donation of Constantine a forgery?",
+     "choices": [
+      "Petrarch",
+      "Poggio Bracciolini",
+      "Pico della Mirandola",
+      "Lorenzo Valla"
+     ],
+     "answer": "Lorenzo Valla",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-111",
+     "prompt": "Which woman translated Newton's Principia into French?",
+     "choices": [
+      "Sophie Germain",
+      "Mary Astell",
+      "Emilie du Chatelet",
+      "Madame de Stael"
+     ],
+     "answer": "Emilie du Chatelet",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-279",
+     "prompt": "Which Chan patriarch is tradition's founder of Chan in China, arriving from India?",
+     "choices": [
+      "Hui Neng",
+      "Xuanzang",
+      "Linji",
+      "Bodhidharma"
+     ],
+     "answer": "Bodhidharma",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

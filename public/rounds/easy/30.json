@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 30,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-186",
+     "prompt": "2 × 10",
+     "answer": 20,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-057",
+     "prompt": "19 + 2",
+     "answer": 21,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-245",
+     "prompt": "8 × 10",
+     "answer": 80,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-285",
+     "prompt": "Pirates sailed the seas looking for what?",
+     "choices": [
+      "Homework",
+      "Treasure",
+      "Pizza",
+      "Soap"
+     ],
+     "answer": "Treasure",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-024",
+     "prompt": "Which plant fibers did Egyptians weave into linen cloth?",
+     "choices": [
+      "Flax",
+      "Pine",
+      "Cabbage",
+      "Cactus"
+     ],
+     "answer": "Flax",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-018",
+     "prompt": "What were many Egyptian houses built from?",
+     "choices": [
+      "Glass",
+      "Ice",
+      "Mud bricks",
+      "Plastic"
+     ],
+     "answer": "Mud bricks",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-230",
+     "prompt": "Who wrote The Hobbit?",
+     "choices": [
+      "C. S. Lewis",
+      "J. K. Rowling",
+      "J. R. R. Tolkien",
+      "Roald Dahl"
+     ],
+     "answer": "J. R. R. Tolkien",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-158",
+     "prompt": "Which Pevensie child finds Narnia first?",
+     "choices": [
+      "Peter",
+      "Susan",
+      "Lucy",
+      "Edmund"
+     ],
+     "answer": "Lucy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-037",
+     "prompt": "What kind of soldier was in Andersen's story with a single leg?",
+     "choices": [
+      "A wooden soldier",
+      "A toy knight",
+      "A paper soldier",
+      "A tin soldier"
+     ],
+     "answer": "A tin soldier",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-224",
+     "prompt": "Everest is part of which mountain range?",
+     "choices": [
+      "Himalayas",
+      "Alps",
+      "Rockies",
+      "Andes"
+     ],
+     "answer": "Himalayas",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-274",
+     "prompt": "Where do most plants get energy from?",
+     "choices": [
+      "Moonlight",
+      "Wind",
+      "Sand",
+      "Sunlight"
+     ],
+     "answer": "Sunlight",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-262",
+     "prompt": "Why is Mars called the Red Planet?",
+     "choices": [
+      "Its dust is rusty red",
+      "It is on fire",
+      "It is covered in lava",
+      "It is painted"
+     ],
+     "answer": "Its dust is rusty red",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-058",
+     "prompt": "A girl lion is called a what?",
+     "choices": [
+      "lion cub",
+      "lioness",
+      "tigress",
+      "kitten"
+     ],
+     "answer": "lioness",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-266",
+     "prompt": "Which fish swims up rivers to lay eggs?",
+     "choices": [
+      "goldfish",
+      "salmon",
+      "shark",
+      "clownfish"
+     ],
+     "answer": "salmon",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-248",
+     "prompt": "Zebras, lions and giraffes live on grassy plains called what?",
+     "choices": [
+      "tundra",
+      "reef",
+      "swamp",
+      "savanna"
+     ],
+     "answer": "savanna",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

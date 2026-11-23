@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 32,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-232",
+     "prompt": "421 − 144",
+     "answer": 277,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-295",
+     "prompt": "15 × 7 − 8 × 8",
+     "answer": 41,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-098",
+     "prompt": "813 − 109",
+     "answer": 704,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-060",
+     "prompt": "Which Russian prince defeated the Teutonic Knights on Lake Peipus in 1242?",
+     "choices": [
+      "Ivan III",
+      "Yaroslav the Wise",
+      "Dmitry Donskoy",
+      "Alexander Nevsky"
+     ],
+     "answer": "Alexander Nevsky",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-176",
+     "prompt": "Which Queen of Ndongo and Matamba fought the Portuguese in the 1600s?",
+     "choices": [
+      "Amina",
+      "Nandi",
+      "Yaa Asantewaa",
+      "Njinga"
+     ],
+     "answer": "Njinga",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-207",
+     "prompt": "Which Kievan ruler adopted Orthodox Christianity in 988?",
+     "choices": [
+      "Oleg",
+      "Yaroslav the Wise",
+      "Vladimir the Great",
+      "Sviatoslav"
+     ],
+     "answer": "Vladimir the Great",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-163",
+     "prompt": "Which statesman won the 1953 Nobel Prize in Literature?",
+     "choices": [
+      "Charles de Gaulle",
+      "Winston Churchill",
+      "Jan Smuts",
+      "Bertrand Russell"
+     ],
+     "answer": "Winston Churchill",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-011",
+     "prompt": "Who wrote the novel Beloved?",
+     "choices": [
+      "Maya Angelou",
+      "Toni Morrison",
+      "Zora Neale Hurston",
+      "Alice Walker"
+     ],
+     "answer": "Toni Morrison",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-130",
+     "prompt": "Who wrote the Roman comedy The Pot of Gold (Aulularia)?",
+     "choices": [
+      "Plautus",
+      "Terence",
+      "Menander",
+      "Seneca"
+     ],
+     "answer": "Plautus",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-069",
+     "prompt": "What is the highest rank of coal?",
+     "choices": [
+      "Bituminous coal",
+      "Anthracite",
+      "Peat",
+      "Lignite"
+     ],
+     "answer": "Anthracite",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-272",
+     "prompt": "K2 lies in which mountain range?",
+     "choices": [
+      "Hindu Kush",
+      "Pamirs",
+      "Karakoram",
+      "Himalayas"
+     ],
+     "answer": "Karakoram",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-131",
+     "prompt": "The Cretaceous period gets its name from the Latin word for what?",
+     "choices": [
+      "Chalk",
+      "Coal",
+      "Crust",
+      "Cliff"
+     ],
+     "answer": "Chalk",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-100",
+     "prompt": "Which French Oratorian defended occasionalism in The Search After Truth?",
+     "choices": [
+      "Antoine Arnauld",
+      "Pierre Bayle",
+      "Pierre Gassendi",
+      "Nicolas Malebranche"
+     ],
+     "answer": "Nicolas Malebranche",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-058",
+     "prompt": "How many categories does Aristotle's Categories list?",
+     "choices": [
+      "Ten",
+      "Four",
+      "Twelve",
+      "Seven"
+     ],
+     "answer": "Ten",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-212",
+     "prompt": "Which philosopher of science wrote Against Method?",
+     "choices": [
+      "Imre Lakatos",
+      "Thomas Kuhn",
+      "Paul Feyerabend",
+      "Karl Popper"
+     ],
+     "answer": "Paul Feyerabend",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

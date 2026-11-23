@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 71,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-259",
+     "prompt": "19 − 7",
+     "answer": 12,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-081",
+     "prompt": "36 + 3",
+     "answer": 39,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-138",
+     "prompt": "40 ÷ 8",
+     "answer": 5,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-083",
+     "prompt": "Long ago, people invented a round thing that helps carts roll. What is it?",
+     "choices": [
+      "The phone",
+      "The camera",
+      "The engine",
+      "The wheel"
+     ],
+     "answer": "The wheel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-079",
+     "prompt": "The abacus is an old tool for doing what?",
+     "choices": [
+      "Cooking",
+      "Fishing",
+      "Digging",
+      "Counting"
+     ],
+     "answer": "Counting",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-204",
+     "prompt": "Which Viking god carried a mighty hammer?",
+     "choices": [
+      "Thor",
+      "Zeus",
+      "Ra",
+      "Apollo"
+     ],
+     "answer": "Thor",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-028",
+     "prompt": "What did the princess drop into the well in The Frog Prince?",
+     "choices": [
+      "A golden ball",
+      "A silver ring",
+      "A glass shoe",
+      "A gold crown"
+     ],
+     "answer": "A golden ball",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-116",
+     "prompt": "In Green Eggs and Ham, what does Sam-I-Am want?",
+     "choices": [
+      "To share green eggs and ham",
+      "To go fishing",
+      "To sell a car",
+      "To fly a kite"
+     ],
+     "answer": "To share green eggs and ham",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-114",
+     "prompt": "What color is the Grinch?",
+     "choices": [
+      "Red",
+      "Blue",
+      "Green",
+      "Orange"
+     ],
+     "answer": "Green",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-266",
+     "prompt": "What do we call fuel made from ancient plants and animals, like oil?",
+     "choices": [
+      "Wind fuel",
+      "Fossil fuel",
+      "Sun fuel",
+      "Water fuel"
+     ],
+     "answer": "Fossil fuel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-035",
+     "prompt": "What gas do plants take in from the air?",
+     "choices": [
+      "Oxygen",
+      "Helium",
+      "Carbon dioxide",
+      "Neon"
+     ],
+     "answer": "Carbon dioxide",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-065",
+     "prompt": "In which direction does the Sun set?",
+     "choices": [
+      "West",
+      "East",
+      "North",
+      "South"
+     ],
+     "answer": "West",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-079",
+     "prompt": "Koalas mostly eat the leaves of which tree?",
+     "choices": [
+      "apple",
+      "pine",
+      "eucalyptus",
+      "palm"
+     ],
+     "answer": "eucalyptus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-086",
+     "prompt": "Animals that eat meat are called what?",
+     "choices": [
+      "herbivores",
+      "carnivores",
+      "omnivores",
+      "vegetarians"
+     ],
+     "answer": "carnivores",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-234",
+     "prompt": "Mother goats feed their kids what?",
+     "choices": [
+      "hay",
+      "milk",
+      "corn",
+      "ice"
+     ],
+     "answer": "milk",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 24,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-112",
+     "prompt": "20 − 9",
+     "answer": 11,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-086",
+     "prompt": "2 × 4",
+     "answer": 8,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-225",
+     "prompt": "35 + 37",
+     "answer": 72,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-232",
+     "prompt": "Rosa Parks became famous for her brave stand on a what?",
+     "choices": [
+      "Bus",
+      "Train",
+      "Boat",
+      "Plane"
+     ],
+     "answer": "Bus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-034",
+     "prompt": "Which Greek poet wrote the Iliad and the Odyssey?",
+     "choices": [
+      "Aesop",
+      "Socrates",
+      "Homer",
+      "Archimedes"
+     ],
+     "answer": "Homer",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-254",
+     "prompt": "Early people made spears from sharp stone and what?",
+     "choices": [
+      "Plastic",
+      "Steel",
+      "Wood",
+      "Glass"
+     ],
+     "answer": "Wood",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-071",
+     "prompt": "Who helped the lion by chewing through the ropes?",
+     "choices": [
+      "A bird",
+      "A little mouse",
+      "A rabbit",
+      "A monkey"
+     ],
+     "answer": "A little mouse",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-025",
+     "prompt": "Who wrote The Ugly Duckling?",
+     "choices": [
+      "The Brothers Grimm",
+      "Charles Perrault",
+      "Roald Dahl",
+      "Hans Christian Andersen"
+     ],
+     "answer": "Hans Christian Andersen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-055",
+     "prompt": "How many thieves are in the title of Ali Baba's story?",
+     "choices": [
+      "Ten",
+      "Forty",
+      "Twenty",
+      "Seven"
+     ],
+     "answer": "Forty",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-170",
+     "prompt": "What is the place where a river meets the sea called?",
+     "choices": [
+      "Source",
+      "Mouth",
+      "Peak",
+      "Cliff"
+     ],
+     "answer": "Mouth",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-020",
+     "prompt": "Water changing from liquid to gas is called what?",
+     "choices": [
+      "Freezing",
+      "Evaporation",
+      "Melting",
+      "Digging"
+     ],
+     "answer": "Evaporation",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-007",
+     "prompt": "Which comes first in a storm, the flash or the boom, if you are far away?",
+     "choices": [
+      "The boom",
+      "They are the same",
+      "The rain",
+      "The flash"
+     ],
+     "answer": "The flash",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-051",
+     "prompt": "Which animal hisses?",
+     "choices": [
+      "cow",
+      "duck",
+      "snake",
+      "horse"
+     ],
+     "answer": "snake",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-269",
+     "prompt": "Which animal says \"cock-a-doodle-doo\"?",
+     "choices": [
+      "rooster",
+      "duck",
+      "cow",
+      "cat"
+     ],
+     "answer": "rooster",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-099",
+     "prompt": "Kangaroos live in which country?",
+     "choices": [
+      "Canada",
+      "Brazil",
+      "Australia",
+      "India"
+     ],
+     "answer": "Australia",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

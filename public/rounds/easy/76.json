@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 76,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-158",
+     "prompt": "9 + 9",
+     "answer": 18,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-016",
+     "prompt": "23 + 16",
+     "answer": 39,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-242",
+     "prompt": "4 × 3",
+     "answer": 12,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-002",
+     "prompt": "Which river was the heart of ancient Egypt?",
+     "choices": [
+      "The Amazon",
+      "The Thames",
+      "The Nile",
+      "The Rhine"
+     ],
+     "answer": "The Nile",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-090",
+     "prompt": "Which ancient city was famous for its hanging gardens?",
+     "choices": [
+      "Athens",
+      "Rome",
+      "Babylon",
+      "Cairo"
+     ],
+     "answer": "Babylon",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-239",
+     "prompt": "Families crossing America in covered wagons followed the what?",
+     "choices": [
+      "Silk Road",
+      "Nile",
+      "Panama Canal",
+      "Oregon Trail"
+     ],
+     "answer": "Oregon Trail",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-294",
+     "prompt": "In many Red Riding Hood tales, who rescues Grandma?",
+     "choices": [
+      "A fisherman",
+      "A baker",
+      "A woodcutter",
+      "A knight"
+     ],
+     "answer": "A woodcutter",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-173",
+     "prompt": "Who is the boy who never grows up?",
+     "choices": [
+      "Tom Sawyer",
+      "Oliver Twist",
+      "Pinocchio",
+      "Peter Pan"
+     ],
+     "answer": "Peter Pan",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-284",
+     "prompt": "What do we call a made-up story?",
+     "choices": [
+      "Fiction",
+      "Fact",
+      "Math",
+      "Weather"
+     ],
+     "answer": "Fiction",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-023",
+     "prompt": "What gives the water cycle its energy to evaporate water?",
+     "choices": [
+      "The Moon",
+      "The wind",
+      "Volcanoes",
+      "The Sun"
+     ],
+     "answer": "The Sun",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-119",
+     "prompt": "What do we call wind and water slowly carrying bits of rock away?",
+     "choices": [
+      "Evaporation",
+      "Gravity",
+      "Eclipse",
+      "Erosion"
+     ],
+     "answer": "Erosion",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-021",
+     "prompt": "Water vapor turning into tiny drops to form clouds is called what?",
+     "choices": [
+      "Evaporation",
+      "Condensation",
+      "Erosion",
+      "Melting"
+     ],
+     "answer": "Condensation",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-092",
+     "prompt": "Pelicans scoop up what to eat?",
+     "choices": [
+      "grass",
+      "berries",
+      "nuts",
+      "fish"
+     ],
+     "answer": "fish",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-052",
+     "prompt": "An elephant makes a loud sound called a what?",
+     "choices": [
+      "quack",
+      "buzz",
+      "meow",
+      "trumpet"
+     ],
+     "answer": "trumpet",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-154",
+     "prompt": "Which is the biggest reptile?",
+     "choices": [
+      "Komodo dragon",
+      "saltwater crocodile",
+      "green turtle",
+      "cobra"
+     ],
+     "answer": "saltwater crocodile",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

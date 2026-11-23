@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 100,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-054",
+     "prompt": "35% of 140",
+     "answer": 49,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-097",
+     "prompt": "536 × 9",
+     "answer": 4824,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-266",
+     "prompt": "26 × 13",
+     "answer": 338,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-031",
+     "prompt": "Which Afghan ruler defeated Humayun and ruled Delhi from 1540?",
+     "choices": [
+      "Nadir Shah",
+      "Ahmad Shah Durrani",
+      "Sher Shah Suri",
+      "Babur"
+     ],
+     "answer": "Sher Shah Suri",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-233",
+     "prompt": "Which Prussian victory in 1866 excluded Austria from German affairs?",
+     "choices": [
+      "Koniggratz",
+      "Sedan",
+      "Leipzig",
+      "Jena"
+     ],
+     "answer": "Koniggratz",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-297",
+     "prompt": "Which treaty of 843 divided Charlemagne's empire among his grandsons?",
+     "choices": [
+      "Treaty of Verdun",
+      "Treaty of Tordesillas",
+      "Treaty of Meersen",
+      "Treaty of Troyes"
+     ],
+     "answer": "Treaty of Verdun",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-138",
+     "prompt": "Who wrote the play Six Characters in Search of an Author?",
+     "choices": [
+      "Luigi Pirandello",
+      "Dario Fo",
+      "Eduardo De Filippo",
+      "Carlo Goldoni"
+     ],
+     "answer": "Luigi Pirandello",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-134",
+     "prompt": "Who wrote the novel Vanity Fair?",
+     "choices": [
+      "Wilkie Collins",
+      "Anthony Trollope",
+      "Charles Dickens",
+      "William Makepeace Thackeray"
+     ],
+     "answer": "William Makepeace Thackeray",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-181",
+     "prompt": "Who wrote Love in the Time of Cholera?",
+     "choices": [
+      "Gabriel García Márquez",
+      "Carlos Fuentes",
+      "Mario Vargas Llosa",
+      "Jorge Amado"
+     ],
+     "answer": "Gabriel García Márquez",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-308",
+     "prompt": "The largest known single meteorite on Earth, still lying where it fell, is in which country?",
+     "choices": [
+      "Namibia",
+      "Argentina",
+      "Australia",
+      "Mexico"
+     ],
+     "answer": "Namibia",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-294",
+     "prompt": "Which desert occupies much of Xinjiang in northwest China?",
+     "choices": [
+      "Thar",
+      "Gobi",
+      "Karakum",
+      "Taklamakan"
+     ],
+     "answer": "Taklamakan",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-203",
+     "prompt": "Red lightning high above thunderstorms is called what?",
+     "choices": [
+      "Dry lightning",
+      "Elves",
+      "Sprites",
+      "Blue jets"
+     ],
+     "answer": "Sprites",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-211",
+     "prompt": "Which philosopher introduced the grue paradox?",
+     "choices": [
+      "W. V. O. Quine",
+      "Hilary Putnam",
+      "Carl Hempel",
+      "Nelson Goodman"
+     ],
+     "answer": "Nelson Goodman",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-159",
+     "prompt": "Which Russian anarchist wrote Mutual Aid: A Factor of Evolution?",
+     "choices": [
+      "Leo Tolstoy",
+      "Sergey Nechayev",
+      "Peter Kropotkin",
+      "Mikhail Bakunin"
+     ],
+     "answer": "Peter Kropotkin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-191",
+     "prompt": "To which logician did Russell write in 1902 about his paradox?",
+     "choices": [
+      "David Hilbert",
+      "Georg Cantor",
+      "Gottlob Frege",
+      "Giuseppe Peano"
+     ],
+     "answer": "Gottlob Frege",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

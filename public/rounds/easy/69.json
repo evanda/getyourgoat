@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 69,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-187",
+     "prompt": "8 − 7",
+     "answer": 1,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-127",
+     "prompt": "24 + 24",
+     "answer": 48,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-272",
+     "prompt": "20 + 6",
+     "answer": 26,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-121",
+     "prompt": "A compass needle points which way?",
+     "choices": [
+      "Up",
+      "North",
+      "Home",
+      "Left"
+     ],
+     "answer": "North",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-295",
+     "prompt": "Pharaohs were buried with treasures to use in what?",
+     "choices": [
+      "The shop",
+      "The school",
+      "The zoo",
+      "The afterlife"
+     ],
+     "answer": "The afterlife",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-180",
+     "prompt": "The strongest tower in the middle of a castle is called the what?",
+     "choices": [
+      "Keep",
+      "Porch",
+      "Attic",
+      "Chimney"
+     ],
+     "answer": "Keep",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-080",
+     "prompt": "Which animal wears a sheep's fleece in a fable?",
+     "choices": [
+      "A wolf",
+      "A fox",
+      "A dog",
+      "A cat"
+     ],
+     "answer": "A wolf",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-142",
+     "prompt": "What does Winnie-the-Pooh love to eat?",
+     "choices": [
+      "Cake",
+      "Fish",
+      "Honey",
+      "Carrots"
+     ],
+     "answer": "Honey",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-046",
+     "prompt": "Who lived under the bridge in The Three Billy Goats Gruff?",
+     "choices": [
+      "A giant",
+      "A wolf",
+      "A troll",
+      "A bear"
+     ],
+     "answer": "A troll",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-001",
+     "prompt": "What do we call water that falls from clouds as drops?",
+     "choices": [
+      "Rain",
+      "Sand",
+      "Wind",
+      "Dust"
+     ],
+     "answer": "Rain",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-105",
+     "prompt": "What is melted rock inside the Earth called?",
+     "choices": [
+      "Water",
+      "Sand",
+      "Magma",
+      "Steam"
+     ],
+     "answer": "Magma",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-016",
+     "prompt": "What tool measures air pressure?",
+     "choices": [
+      "Barometer",
+      "Thermometer",
+      "Ruler",
+      "Stethoscope"
+     ],
+     "answer": "Barometer",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-268",
+     "prompt": "Which animal says \"tweet\"?",
+     "choices": [
+      "cow",
+      "pig",
+      "frog",
+      "bird"
+     ],
+     "answer": "bird",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-147",
+     "prompt": "Which animal is the tallest?",
+     "choices": [
+      "elephant",
+      "camel",
+      "giraffe",
+      "ostrich"
+     ],
+     "answer": "giraffe",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-131",
+     "prompt": "A ladybug is a kind of what?",
+     "choices": [
+      "bird",
+      "worm",
+      "beetle",
+      "spider"
+     ],
+     "answer": "beetle",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

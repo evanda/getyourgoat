@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 8,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-183",
+     "prompt": "46 × 15",
+     "answer": 690,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-261",
+     "prompt": "96 × 34",
+     "answer": 3264,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-230",
+     "prompt": "704 ÷ 16",
+     "answer": 44,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-120",
+     "prompt": "Which 1936-39 conflict saw Franco's Nationalists defeat the Republic?",
+     "choices": [
+      "Rif War",
+      "Carlist Wars",
+      "Peninsular War",
+      "Spanish Civil War"
+     ],
+     "answer": "Spanish Civil War",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-027",
+     "prompt": "Which 1918 treaty took Soviet Russia out of World War I?",
+     "choices": [
+      "Treaty of Trianon",
+      "Treaty of Riga",
+      "Treaty of Brest-Litovsk",
+      "Treaty of Rapallo"
+     ],
+     "answer": "Treaty of Brest-Litovsk",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-161",
+     "prompt": "Which French emperor lost at Sedan in 1870?",
+     "choices": [
+      "Napoleon III",
+      "Louis-Philippe",
+      "Charles X",
+      "Napoleon I"
+     ],
+     "answer": "Napoleon III",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-260",
+     "prompt": "Who wrote the play William Tell?",
+     "choices": [
+      "Johann Goethe",
+      "Georg Büchner",
+      "Gotthold Lessing",
+      "Friedrich Schiller"
+     ],
+     "answer": "Friedrich Schiller",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-109",
+     "prompt": "Who wrote the comedy The Frogs?",
+     "choices": [
+      "Plautus",
+      "Menander",
+      "Euripides",
+      "Aristophanes"
+     ],
+     "answer": "Aristophanes",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-245",
+     "prompt": "Which 17th-century fabulist wrote \"The Crow and the Fox\"?",
+     "choices": [
+      "Jean Racine",
+      "Nicolas Boileau",
+      "Jean de La Fontaine",
+      "Charles Perrault"
+     ],
+     "answer": "Jean de La Fontaine",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-165",
+     "prompt": "Mount Pinatubo, which erupted massively in 1991, is in which country?",
+     "choices": [
+      "Papua New Guinea",
+      "Japan",
+      "Indonesia",
+      "Philippines"
+     ],
+     "answer": "Philippines",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-127",
+     "prompt": "Which isotope pair is widely used to date volcanic rocks millions of years old?",
+     "choices": [
+      "Tritium-helium",
+      "Carbon-14",
+      "Radon-lead",
+      "Potassium-argon"
+     ],
+     "answer": "Potassium-argon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-231",
+     "prompt": "The deepest trench in the Atlantic Ocean is which?",
+     "choices": [
+      "Puerto Rico Trench",
+      "Sandwich Trench",
+      "Peru-Chile Trench",
+      "Cayman Trench"
+     ],
+     "answer": "Puerto Rico Trench",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-141",
+     "prompt": "In Kierkegaard's scheme, the stages of existence are aesthetic, ethical and what?",
+     "choices": [
+      "Political",
+      "Rational",
+      "Absurd",
+      "Religious"
+     ],
+     "answer": "Religious",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-068",
+     "prompt": "Plotinus is said to have studied in Alexandria under which teacher?",
+     "choices": [
+      "Ammonius Saccas",
+      "Origen",
+      "Porphyry",
+      "Philo"
+     ],
+     "answer": "Ammonius Saccas",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-056",
+     "prompt": "Aristotle's view that substances combine matter and form is called what?",
+     "choices": [
+      "Monadology",
+      "Atomism",
+      "Hylozoism",
+      "Hylomorphism"
+     ],
+     "answer": "Hylomorphism",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

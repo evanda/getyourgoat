@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 41,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-143",
+     "prompt": "10% of 220",
+     "answer": 22,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-116",
+     "prompt": "473 × 8",
+     "answer": 3784,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-142",
+     "prompt": "18 × 18",
+     "answer": 324,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-184",
+     "prompt": "Which 1871 uprising in Paris created a short-lived revolutionary government?",
+     "choices": [
+      "Jacquerie",
+      "July Revolution",
+      "Fronde",
+      "Paris Commune"
+     ],
+     "answer": "Paris Commune",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-086",
+     "prompt": "Which Italian statesman engineered Piedmont-Sardinia's role in unification?",
+     "choices": [
+      "Garibaldi",
+      "Cavour",
+      "Mazzini",
+      "Crispi"
+     ],
+     "answer": "Cavour",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-271",
+     "prompt": "Which king of Kongo converted to Christianity and took the name Afonso I?",
+     "choices": [
+      "Garcia II",
+      "Njinga",
+      "Nzinga Mbemba",
+      "Nzinga a Nkuwu"
+     ],
+     "answer": "Nzinga Mbemba",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-269",
+     "prompt": "Who wrote the novel Clarissa?",
+     "choices": [
+      "Daniel Defoe",
+      "Fanny Burney",
+      "Henry Fielding",
+      "Samuel Richardson"
+     ],
+     "answer": "Samuel Richardson",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-223",
+     "prompt": "Who wrote the classical tragedy Phèdre?",
+     "choices": [
+      "Pierre Corneille",
+      "Jean Racine",
+      "Marivaux",
+      "Molière"
+     ],
+     "answer": "Jean Racine",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-105",
+     "prompt": "Who wrote the novel Three Men in a Boat?",
+     "choices": [
+      "Jerome K. Jerome",
+      "Kenneth Grahame",
+      "W. W. Jacobs",
+      "G. K. Chesterton"
+     ],
+     "answer": "Jerome K. Jerome",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-181",
+     "prompt": "Which clouds, the highest on Earth, glow near the mesopause at twilight?",
+     "choices": [
+      "Cirrus",
+      "Lenticulars",
+      "Nacreous clouds",
+      "Noctilucent clouds"
+     ],
+     "answer": "Noctilucent clouds",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-144",
+     "prompt": "Layered mounds built by cyanobacteria are called what?",
+     "choices": [
+      "Stromatolites",
+      "Thrombolites",
+      "Archaeocyaths",
+      "Oncolites"
+     ],
+     "answer": "Stromatolites",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-137",
+     "prompt": "Which is the earliest eon of Earth's history?",
+     "choices": [
+      "Proterozoic",
+      "Archean",
+      "Hadean",
+      "Phanerozoic"
+     ],
+     "answer": "Hadean",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-040",
+     "prompt": "Which Roman Stoic wrote On the Shortness of Life?",
+     "choices": [
+      "Seneca",
+      "Cicero",
+      "Musonius Rufus",
+      "Epictetus"
+     ],
+     "answer": "Seneca",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-168",
+     "prompt": "What term does Husserl use for the pre-theoretical world of lived experience?",
+     "choices": [
+      "Weltanschauung",
+      "Lebenswelt",
+      "Zeitgeist",
+      "Dasein"
+     ],
+     "answer": "Lebenswelt",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-199",
+     "prompt": "Which philosopher compared his Tractatus to a ladder to be thrown away?",
+     "choices": [
+      "Gottlob Frege",
+      "Rudolf Carnap",
+      "Bertrand Russell",
+      "Ludwig Wittgenstein"
+     ],
+     "answer": "Ludwig Wittgenstein",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 73,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-234",
+     "prompt": "6 + 4",
+     "answer": 10,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-296",
+     "prompt": "50 + 16",
+     "answer": 66,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-070",
+     "prompt": "2 × 8",
+     "answer": 16,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-301",
+     "prompt": "Which ocean did the Vikings cross to reach Iceland?",
+     "choices": [
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+     ],
+     "answer": "Atlantic Ocean",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-053",
+     "prompt": "What number does the Roman numeral V mean?",
+     "choices": [
+      "10",
+      "5",
+      "50",
+      "1"
+     ],
+     "answer": "5",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-182",
+     "prompt": "Knights rode into battle on which animal?",
+     "choices": [
+      "Camels",
+      "Bicycles",
+      "Horses",
+      "Elephants"
+     ],
+     "answer": "Horses",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-141",
+     "prompt": "Who wrote Winnie-the-Pooh?",
+     "choices": [
+      "E. B. White",
+      "Beatrix Potter",
+      "Roald Dahl",
+      "A. A. Milne"
+     ],
+     "answer": "A. A. Milne",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-289",
+     "prompt": "What do we call the first words that open a fairy tale?",
+     "choices": [
+      "The end",
+      "Thank you",
+      "Happy birthday",
+      "Once upon a time"
+     ],
+     "answer": "Once upon a time",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-079",
+     "prompt": "In The North Wind and the Sun, what did the traveler take off?",
+     "choices": [
+      "His hat",
+      "His coat",
+      "His boots",
+      "His scarf"
+     ],
+     "answer": "His coat",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-045",
+     "prompt": "Where does rain come from?",
+     "choices": [
+      "Rocks",
+      "Trees",
+      "Mountains",
+      "Clouds"
+     ],
+     "answer": "Clouds",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-192",
+     "prompt": "Which is the biggest continent?",
+     "choices": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+     ],
+     "answer": "Asia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-098",
+     "prompt": "Which planet is a blue-green color and tipped on its side?",
+     "choices": [
+      "Mars",
+      "Mercury",
+      "Venus",
+      "Uranus"
+     ],
+     "answer": "Uranus",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-179",
+     "prompt": "How many hearts does an octopus have?",
+     "choices": [
+      "1",
+      "2",
+      "3",
+      "8"
+     ],
+     "answer": "3",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-069",
+     "prompt": "Which dog helps herd sheep?",
+     "choices": [
+      "border collie",
+      "poodle",
+      "bulldog",
+      "chihuahua"
+     ],
+     "answer": "border collie",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-148",
+     "prompt": "Which is the biggest land animal?",
+     "choices": [
+      "hippo",
+      "giraffe",
+      "rhino",
+      "elephant"
+     ],
+     "answer": "elephant",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

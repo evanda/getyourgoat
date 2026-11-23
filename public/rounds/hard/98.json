@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 98,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-069",
+     "prompt": "538 − 113",
+     "answer": 425,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-081",
+     "prompt": "150 ÷ 6",
+     "answer": 25,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-291",
+     "prompt": "67 × 25",
+     "answer": 1675,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-315",
+     "prompt": "Which Ottoman sultan conquered Mamluk Egypt in 1517?",
+     "choices": [
+      "Murad II",
+      "Mehmed II",
+      "Selim I",
+      "Suleiman I"
+     ],
+     "answer": "Selim I",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-189",
+     "prompt": "Which Congolese leader was elected the first prime minister in 1960?",
+     "choices": [
+      "Patrice Lumumba",
+      "Mobutu",
+      "Moise Tshombe",
+      "Joseph Kasa-Vubu"
+     ],
+     "answer": "Patrice Lumumba",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-266",
+     "prompt": "Which 1917 telegram proposed a German-Mexican alliance?",
+     "choices": [
+      "Balfour Declaration",
+      "Zimmermann Telegram",
+      "Sussex Pledge",
+      "Ems Dispatch"
+     ],
+     "answer": "Zimmermann Telegram",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-013",
+     "prompt": "Who wrote the absurdist play Rhinoceros?",
+     "choices": [
+      "Samuel Beckett",
+      "Jean Anouilh",
+      "Jean Genet",
+      "Eugène Ionesco"
+     ],
+     "answer": "Eugène Ionesco",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-193",
+     "prompt": "Who wrote the novel Gravity's Rainbow?",
+     "choices": [
+      "Thomas Pynchon",
+      "John Barth",
+      "Kurt Vonnegut",
+      "Don DeLillo"
+     ],
+     "answer": "Thomas Pynchon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-094",
+     "prompt": "Which Dostoevsky novel features Prince Myshkin?",
+     "choices": [
+      "Demons",
+      "The Adolescent",
+      "The Idiot",
+      "The Gambler"
+     ],
+     "answer": "The Idiot",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-111",
+     "prompt": "Which scale rates earthquake intensity by observed effects?",
+     "choices": [
+      "Beaufort",
+      "Richter",
+      "Modified Mercalli",
+      "Fujita"
+     ],
+     "answer": "Modified Mercalli",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-297",
+     "prompt": "Which is the largest island in the Mediterranean?",
+     "choices": [
+      "Cyprus",
+      "Sardinia",
+      "Sicily",
+      "Crete"
+     ],
+     "answer": "Sicily",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-071",
+     "prompt": "A slice of ancient oceanic crust and mantle thrust onto a continent is called what?",
+     "choices": [
+      "Craton",
+      "Greenstone belt",
+      "Ophiolite",
+      "Terrane"
+     ],
+     "answer": "Ophiolite",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-184",
+     "prompt": "Which Derrida term blends 'differ' and 'defer'?",
+     "choices": [
+      "Dissemination",
+      "Aporia",
+      "Differance",
+      "Trace"
+     ],
+     "answer": "Differance",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-250",
+     "prompt": "Which Ibn Khaldun term names the group solidarity that binds dynasties?",
+     "choices": [
+      "Shura",
+      "Ummah",
+      "Fitra",
+      "Asabiyyah"
+     ],
+     "answer": "Asabiyyah",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-274",
+     "prompt": "How many chapters does the Daodejing traditionally have?",
+     "choices": [
+      "108",
+      "81",
+      "36",
+      "64"
+     ],
+     "answer": "81",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

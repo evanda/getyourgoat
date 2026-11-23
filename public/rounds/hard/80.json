@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 80,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-173",
+     "prompt": "351 ÷ 13",
+     "answer": 27,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-197",
+     "prompt": "609 × 6",
+     "answer": 3654,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-126",
+     "prompt": "25 × 15",
+     "answer": 375,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-051",
+     "prompt": "Which 1066-1087 English ruler ordered the Domesday Book?",
+     "choices": [
+      "Stephen",
+      "Edward the Confessor",
+      "William the Conqueror",
+      "Henry II"
+     ],
+     "answer": "William the Conqueror",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-026",
+     "prompt": "Which Ethiopian emperor died at Magdala in 1868 facing a British expedition?",
+     "choices": [
+      "Menelik II",
+      "Tewodros II",
+      "Yohannes IV",
+      "Lij Iyasu"
+     ],
+     "answer": "Tewodros II",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-220",
+     "prompt": "Which Lithuanian grand duke co-won Grunwald with Poland's Jogaila?",
+     "choices": [
+      "Algirdas",
+      "Mindaugas",
+      "Gediminas",
+      "Vytautas"
+     ],
+     "answer": "Vytautas",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-149",
+     "prompt": "Who wrote Season of Migration to the North?",
+     "choices": [
+      "Naguib Mahfouz",
+      "Tayeb Salih",
+      "Abdelrahman Munif",
+      "Ghassan Kanafani"
+     ],
+     "answer": "Tayeb Salih",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-119",
+     "prompt": "Who wrote the novella Billy Budd?",
+     "choices": [
+      "Herman Melville",
+      "Edgar Allan Poe",
+      "Nathaniel Hawthorne",
+      "Henry James"
+     ],
+     "answer": "Herman Melville",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-112",
+     "prompt": "Who wrote The Death of Ivan Ilyich?",
+     "choices": [
+      "Leo Tolstoy",
+      "Ivan Turgenev",
+      "Anton Chekhov",
+      "Fyodor Dostoevsky"
+     ],
+     "answer": "Leo Tolstoy",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-118",
+     "prompt": "At Siccar Point, Scotland, James Hutton saw which feature that showed deep time?",
+     "choices": [
+      "Ripple marks",
+      "Angular unconformity",
+      "Graded bedding",
+      "Fault breccia"
+     ],
+     "answer": "Angular unconformity",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-128",
+     "prompt": "Which period saw the first mass extinction of the Big Five, linked to glaciation?",
+     "choices": [
+      "Cambrian",
+      "Devonian",
+      "Ordovician",
+      "Silurian"
+     ],
+     "answer": "Ordovician",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-001",
+     "prompt": "Which mineral is 8 on the Mohs scale?",
+     "choices": [
+      "Apatite",
+      "Garnet",
+      "Topaz",
+      "Orthoclase"
+     ],
+     "answer": "Topaz",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-042",
+     "prompt": "Which Epicurean succeeded Epicurus as head of the Garden?",
+     "choices": [
+      "Colotes",
+      "Lucretius",
+      "Hermarchus",
+      "Metrodorus"
+     ],
+     "answer": "Hermarchus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-288",
+     "prompt": "Which National Learning scholar championed mono no aware?",
+     "choices": [
+      "Motoori Norinaga",
+      "Ogyu Sorai",
+      "Kamo no Mabuchi",
+      "Hirata Atsutane"
+     ],
+     "answer": "Motoori Norinaga",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-299",
+     "prompt": "Which Vedanta thinker founded the qualified nondualist school?",
+     "choices": [
+      "Shankara",
+      "Nimbarka",
+      "Madhva",
+      "Ramanuja"
+     ],
+     "answer": "Ramanuja",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

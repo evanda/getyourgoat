@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 58,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-132",
+     "prompt": "30 ÷ 6",
+     "answer": 5,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-157",
+     "prompt": "10 + 10",
+     "answer": 20,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-303",
+     "prompt": "32 ÷ 4",
+     "answer": 8,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-023",
+     "prompt": "Which beetle was a sacred symbol in Egypt?",
+     "choices": [
+      "Ladybug",
+      "Firefly",
+      "Dragonfly",
+      "Scarab"
+     ],
+     "answer": "Scarab",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-016",
+     "prompt": "Who found Tutankhamun's tomb in 1922?",
+     "choices": [
+      "Howard Carter",
+      "Neil Armstrong",
+      "Charles Darwin",
+      "Isaac Newton"
+     ],
+     "answer": "Howard Carter",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-292",
+     "prompt": "Which Australian people have long used boomerangs?",
+     "choices": [
+      "Aboriginal Australians",
+      "Vikings",
+      "Romans",
+      "Egyptians"
+     ],
+     "answer": "Aboriginal Australians",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-255",
+     "prompt": "What long trip did Odysseus take?",
+     "choices": [
+      "He climbed a mountain",
+      "He sailed home from Troy",
+      "He crossed a desert",
+      "He flew to the sun"
+     ],
+     "answer": "He sailed home from Troy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-151",
+     "prompt": "What is Wilbur?",
+     "choices": [
+      "A cow",
+      "A pig",
+      "A horse",
+      "A sheep"
+     ],
+     "answer": "A pig",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-090",
+     "prompt": "In \"Baa, Baa, Black Sheep,\" how many bags of wool are there?",
+     "choices": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+     ],
+     "answer": "Three",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-215",
+     "prompt": "What is the capital of Canada?",
+     "choices": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+     ],
+     "answer": "Ottawa",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-205",
+     "prompt": "Which continent is home to the Amazon Rainforest?",
+     "choices": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "South America"
+     ],
+     "answer": "South America",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-303",
+     "prompt": "Which planet is blue and the eighth from the Sun?",
+     "choices": [
+      "Mars",
+      "Neptune",
+      "Venus",
+      "Mercury"
+     ],
+     "answer": "Neptune",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-005",
+     "prompt": "A baby horse is called a what?",
+     "choices": [
+      "foal",
+      "calf",
+      "piglet",
+      "kid"
+     ],
+     "answer": "foal",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-260",
+     "prompt": "Zebras are cousins of which animal?",
+     "choices": [
+      "cow",
+      "pig",
+      "goat",
+      "horse"
+     ],
+     "answer": "horse",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-220",
+     "prompt": "Which sea animal looks like a star?",
+     "choices": [
+      "crab",
+      "whale",
+      "seal",
+      "starfish"
+     ],
+     "answer": "starfish",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

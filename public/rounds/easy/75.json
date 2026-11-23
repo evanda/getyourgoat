@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 75,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-266",
+     "prompt": "39 + 4",
+     "answer": 43,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-007",
+     "prompt": "8 − 1",
+     "answer": 7,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-273",
+     "prompt": "6 + 9",
+     "answer": 15,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-110",
+     "prompt": "Which Italian traveler wrote about his long trip to China?",
+     "choices": [
+      "Leif Erikson",
+      "Neil Armstrong",
+      "Marco Polo",
+      "Captain Cook"
+     ],
+     "answer": "Marco Polo",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-234",
+     "prompt": "Nelson Mandela became president of which country?",
+     "choices": [
+      "Brazil",
+      "Canada",
+      "South Africa",
+      "Egypt"
+     ],
+     "answer": "South Africa",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-040",
+     "prompt": "Which winged horse is from Greek myths?",
+     "choices": [
+      "Pegasus",
+      "Medusa",
+      "Unicorn",
+      "Dragon"
+     ],
+     "answer": "Pegasus",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-047",
+     "prompt": "What did the Little Red Hen make with her wheat?",
+     "choices": [
+      "Soup",
+      "Bread",
+      "Cake",
+      "Pie"
+     ],
+     "answer": "Bread",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-191",
+     "prompt": "Which Wind in the Willows animal loves boats and the river?",
+     "choices": [
+      "Toad",
+      "Ratty",
+      "Badger",
+      "Mole"
+     ],
+     "answer": "Ratty",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-143",
+     "prompt": "Who is Pooh's small piglet friend?",
+     "choices": [
+      "Roo",
+      "Piglet",
+      "Tigger",
+      "Eeyore"
+     ],
+     "answer": "Piglet",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-038",
+     "prompt": "What do we call a thick, wet forest with a lot of rain?",
+     "choices": [
+      "Rainforest",
+      "Desert",
+      "Prairie",
+      "Tundra"
+     ],
+     "answer": "Rainforest",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-201",
+     "prompt": "On which continent do we find the country of India?",
+     "choices": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "Australia"
+     ],
+     "answer": "Asia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-101",
+     "prompt": "How many main kinds of rock are there?",
+     "choices": [
+      "2",
+      "3",
+      "5",
+      "9"
+     ],
+     "answer": "3",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-117",
+     "prompt": "Owls are busiest at what time?",
+     "choices": [
+      "night",
+      "noon",
+      "breakfast",
+      "lunch"
+     ],
+     "answer": "night",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-240",
+     "prompt": "Which bird has a big pouch under its beak?",
+     "choices": [
+      "robin",
+      "owl",
+      "duck",
+      "pelican"
+     ],
+     "answer": "pelican",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-038",
+     "prompt": "Which animal says \"oink\"?",
+     "choices": [
+      "hen",
+      "pig",
+      "goat",
+      "horse"
+     ],
+     "answer": "pig",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

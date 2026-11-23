@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 77,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-185",
+     "prompt": "744 − 129",
+     "answer": 615,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-206",
+     "prompt": "827 − 182",
+     "answer": 645,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-018",
+     "prompt": "15% of 560",
+     "answer": 84,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-009",
+     "prompt": "Which Polish trade union led by Lech Walesa formed in 1980?",
+     "choices": [
+      "Solidarity",
+      "Civic Forum",
+      "Samizdat",
+      "Charter 77"
+     ],
+     "answer": "Solidarity",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-110",
+     "prompt": "Which French king was captured at Poitiers in 1356?",
+     "choices": [
+      "Charles V",
+      "John II",
+      "Philip VI",
+      "Louis IX"
+     ],
+     "answer": "John II",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-037",
+     "prompt": "Which sultan began the Tanzimat reform era in 1839?",
+     "choices": [
+      "Abdulmejid I",
+      "Selim III",
+      "Mahmud II",
+      "Abdulaziz"
+     ],
+     "answer": "Abdulmejid I",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-066",
+     "prompt": "Who wrote the children's novel The Borrowers?",
+     "choices": [
+      "Eleanor Farjeon",
+      "P. L. Travers",
+      "E. Nesbit",
+      "Mary Norton"
+     ],
+     "answer": "Mary Norton",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-080",
+     "prompt": "Which Roman poet was exiled to Tomis on the Black Sea?",
+     "choices": [
+      "Virgil",
+      "Ovid",
+      "Lucan",
+      "Horace"
+     ],
+     "answer": "Ovid",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-279",
+     "prompt": "Who wrote the novel Disgrace?",
+     "choices": [
+      "Nadine Gordimer",
+      "Alan Paton",
+      "André Brink",
+      "J. M. Coetzee"
+     ],
+     "answer": "J. M. Coetzee",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-068",
+     "prompt": "Which rock forms by intense shearing along a fault zone at depth?",
+     "choices": [
+      "Mylonite",
+      "Hornfels",
+      "Skarn",
+      "Migmatite"
+     ],
+     "answer": "Mylonite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-085",
+     "prompt": "The Cascadia Subduction Zone is formed by which plate sliding under North America?",
+     "choices": [
+      "Farallon",
+      "Pacific",
+      "Juan de Fuca",
+      "Cocos"
+     ],
+     "answer": "Juan de Fuca",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-246",
+     "prompt": "A broad plain of sediment laid down by glacial meltwater is called what?",
+     "choices": [
+      "Outwash plain",
+      "Loess plain",
+      "Till plain",
+      "Lava plain"
+     ],
+     "answer": "Outwash plain",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-186",
+     "prompt": "Which pair of authors used the rhizome as a model of non-hierarchical thought?",
+     "choices": [
+      "Lacan and Althusser",
+      "Deleuze and Guattari",
+      "Adorno and Horkheimer",
+      "Barthes and Kristeva"
+     ],
+     "answer": "Deleuze and Guattari",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-064",
+     "prompt": "Which Neoplatonist edited Plotinus's Enneads?",
+     "choices": [
+      "Damascius",
+      "Porphyry",
+      "Iamblichus",
+      "Proclus"
+     ],
+     "answer": "Porphyry",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-275",
+     "prompt": "Which Daoist text tells of a foolish old man who moves mountains?",
+     "choices": [
+      "The Guanzi",
+      "The Liezi",
+      "The Daodejing",
+      "The Huainanzi"
+     ],
+     "answer": "The Liezi",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

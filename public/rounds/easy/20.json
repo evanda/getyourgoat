@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 20,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-133",
+     "prompt": "10 − 9",
+     "answer": 1,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-169",
+     "prompt": "13 − 5",
+     "answer": 8,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-194",
+     "prompt": "24 ÷ 4",
+     "answer": 6,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-271",
+     "prompt": "Before airplanes, people crossed oceans on what?",
+     "choices": [
+      "Skateboards",
+      "Trains",
+      "Bicycles",
+      "Ships"
+     ],
+     "answer": "Ships",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-242",
+     "prompt": "Where can you see old objects from the past on display?",
+     "choices": [
+      "Bakery",
+      "Gas station",
+      "Museum",
+      "Gym"
+     ],
+     "answer": "Museum",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-098",
+     "prompt": "Early people hunted animals and what else?",
+     "choices": [
+      "Flew planes",
+      "Sold cars",
+      "Gathered plants",
+      "Wrote emails"
+     ],
+     "answer": "Gathered plants",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-002",
+     "prompt": "How many little pigs are in the famous tale?",
+     "choices": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+     ],
+     "answer": "Three",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-132",
+     "prompt": "What does BFG stand for?",
+     "choices": [
+      "Big Friendly Giant",
+      "Big Fun Game",
+      "Best Friend Guide",
+      "Brave Fast Giant"
+     ],
+     "answer": "Big Friendly Giant",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-144",
+     "prompt": "Which Pooh friend is always gloomy and loses his tail?",
+     "choices": [
+      "Eeyore",
+      "Piglet",
+      "Tigger",
+      "Owl"
+     ],
+     "answer": "Eeyore",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-104",
+     "prompt": "Which kind of rock is changed by heat and pressure?",
+     "choices": [
+      "Sedimentary",
+      "Igneous",
+      "Metamorphic",
+      "Plastic"
+     ],
+     "answer": "Metamorphic",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-153",
+     "prompt": "Which metal is shiny yellow and often used in jewelry?",
+     "choices": [
+      "Iron",
+      "Lead",
+      "Gold",
+      "Tin"
+     ],
+     "answer": "Gold",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-049",
+     "prompt": "What do we call a gentle, light wind?",
+     "choices": [
+      "Breeze",
+      "Tornado",
+      "Hurricane",
+      "Blizzard"
+     ],
+     "answer": "Breeze",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-041",
+     "prompt": "Which animal says \"woof\"?",
+     "choices": [
+      "dog",
+      "cat",
+      "hen",
+      "frog"
+     ],
+     "answer": "dog",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-023",
+     "prompt": "A baby koala is called a what?",
+     "choices": [
+      "cub",
+      "kit",
+      "joey",
+      "chick"
+     ],
+     "answer": "joey",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-172",
+     "prompt": "Which animal has black and white stripes?",
+     "choices": [
+      "giraffe",
+      "cow",
+      "horse",
+      "zebra"
+     ],
+     "answer": "zebra",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

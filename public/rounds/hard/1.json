@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 1,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-128",
+     "prompt": "32 × 18",
+     "answer": 576,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-034",
+     "prompt": "19 × 12",
+     "answer": 228,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-212",
+     "prompt": "50% of 480",
+     "answer": 240,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-061",
+     "prompt": "Which Persian ruler sacked Delhi in 1739?",
+     "choices": [
+      "Nadir Shah",
+      "Ismail I",
+      "Karim Khan Zand",
+      "Shah Abbas I"
+     ],
+     "answer": "Nadir Shah",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-068",
+     "prompt": "Which 1781 siege forced Cornwallis to surrender to Washington?",
+     "choices": [
+      "Saratoga",
+      "Bunker Hill",
+      "Trenton",
+      "Yorktown"
+     ],
+     "answer": "Yorktown",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-306",
+     "prompt": "Under which dynasty was the Grand Canal first joined into one system?",
+     "choices": [
+      "Song",
+      "Sui",
+      "Tang",
+      "Han"
+     ],
+     "answer": "Sui",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-048",
+     "prompt": "Which Dickens novel features the cunning clerk Uriah Heep?",
+     "choices": [
+      "Nicholas Nickleby",
+      "David Copperfield",
+      "Bleak House",
+      "Dombey and Son"
+     ],
+     "answer": "David Copperfield",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-145",
+     "prompt": "Who wrote the novel Their Eyes Were Watching God?",
+     "choices": [
+      "Alice Walker",
+      "Zora Neale Hurston",
+      "Toni Morrison",
+      "Nella Larsen"
+     ],
+     "answer": "Zora Neale Hurston",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-006",
+     "prompt": "Who was the Roman guide to Dante through Hell and Purgatory?",
+     "choices": [
+      "Horace",
+      "Statius",
+      "Virgil",
+      "Ovid"
+     ],
+     "answer": "Virgil",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-185",
+     "prompt": "Which high-level cloud genus forms a patchy \"mackerel sky\"?",
+     "choices": [
+      "Cirrocumulus",
+      "Cirrostratus",
+      "Stratocumulus",
+      "Altocumulus"
+     ],
+     "answer": "Cirrocumulus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-216",
+     "prompt": "The cooling phase of ENSO is called what?",
+     "choices": [
+      "La Nina",
+      "Dipole",
+      "El Nino",
+      "Monsoon"
+     ],
+     "answer": "La Nina",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-309",
+     "prompt": "The Witwatersrand Basin is the world's richest source of which metal?",
+     "choices": [
+      "Diamonds",
+      "Platinum",
+      "Gold",
+      "Uranium"
+     ],
+     "answer": "Gold",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-136",
+     "prompt": "In which Hegel work does the owl of Minerva fly only at dusk?",
+     "choices": [
+      "Phenomenology of Spirit",
+      "Philosophy of History",
+      "Science of Logic",
+      "Elements of the Philosophy of Right"
+     ],
+     "answer": "Elements of the Philosophy of Right",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-196",
+     "prompt": "Which Vienna Circle member wrote Der logische Aufbau der Welt?",
+     "choices": [
+      "Otto Neurath",
+      "Herbert Feigl",
+      "Moritz Schlick",
+      "Rudolf Carnap"
+     ],
+     "answer": "Rudolf Carnap",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-027",
+     "prompt": "Which head of the Academy first steered it toward skepticism?",
+     "choices": [
+      "Arcesilaus",
+      "Xenocrates",
+      "Polemo",
+      "Speusippus"
+     ],
+     "answer": "Arcesilaus",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 2,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-151",
+     "prompt": "12 + 8",
+     "answer": 20,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-224",
+     "prompt": "21 + 9",
+     "answer": 30,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-059",
+     "prompt": "37 + 37",
+     "answer": 74,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-085",
+     "prompt": "The Maya built stone pyramids in Mexico and where else?",
+     "choices": [
+      "Siberia",
+      "Central America",
+      "Iceland",
+      "Australia"
+     ],
+     "answer": "Central America",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-135",
+     "prompt": "Before cameras, how did people keep a picture of a face?",
+     "choices": [
+      "They texted it",
+      "They emailed it",
+      "They filmed it",
+      "They painted it"
+     ],
+     "answer": "They painted it",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-218",
+     "prompt": "Before gas stoves, people cooked over what?",
+     "choices": [
+      "A laser",
+      "A magnet",
+      "A fire",
+      "A radio"
+     ],
+     "answer": "A fire",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-169",
+     "prompt": "How strong is Pippi Longstocking?",
+     "choices": [
+      "She is average",
+      "She is weak",
+      "She is a giant",
+      "She can lift a horse"
+     ],
+     "answer": "She can lift a horse",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-188",
+     "prompt": "What kind of animal is Shere Khan?",
+     "choices": [
+      "A tiger",
+      "A lion",
+      "A bear",
+      "A leopard"
+     ],
+     "answer": "A tiger",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-003",
+     "prompt": "What was the first little pig's house made of?",
+     "choices": [
+      "Bricks",
+      "Straw",
+      "Sticks",
+      "Mud"
+     ],
+     "answer": "Straw",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-144",
+     "prompt": "What do we call a volcano that is no longer erupting?",
+     "choices": [
+      "Extinct",
+      "Rising",
+      "Frozen",
+      "Sleepy rock"
+     ],
+     "answer": "Extinct",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-033",
+     "prompt": "What is the thin layer of air around Earth called?",
+     "choices": [
+      "Atmosphere",
+      "Ocean",
+      "Crust",
+      "Core"
+     ],
+     "answer": "Atmosphere",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-227",
+     "prompt": "Which long mountain range is in South America?",
+     "choices": [
+      "Alps",
+      "Rockies",
+      "Andes",
+      "Himalayas"
+     ],
+     "answer": "Andes",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-235",
+     "prompt": "Which animal do cowboys ride?",
+     "choices": [
+      "goat",
+      "pig",
+      "horse",
+      "duck"
+     ],
+     "answer": "horse",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-227",
+     "prompt": "Which green insect hops through grass?",
+     "choices": [
+      "ladybug",
+      "bee",
+      "grasshopper",
+      "firefly"
+     ],
+     "answer": "grasshopper",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-074",
+     "prompt": "Chicks hatch from what?",
+     "choices": [
+      "seeds",
+      "eggs",
+      "pods",
+      "bubbles"
+     ],
+     "answer": "eggs",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

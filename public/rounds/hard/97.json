@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 97,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-055",
+     "prompt": "25 × 13",
+     "answer": 325,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-083",
+     "prompt": "78 × 39",
+     "answer": 3042,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-176",
+     "prompt": "741 − 209",
+     "answer": 532,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-024",
+     "prompt": "Which American astronomer discovered Pluto in 1930?",
+     "choices": [
+      "Harlow Shapley",
+      "Edwin Hubble",
+      "Percival Lowell",
+      "Clyde Tombaugh"
+     ],
+     "answer": "Clyde Tombaugh",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-295",
+     "prompt": "Which 1850-64 rebellion in China was led by Hong Xiuquan?",
+     "choices": [
+      "White Lotus Rebellion",
+      "Nian Rebellion",
+      "Taiping Rebellion",
+      "Boxer Rebellion"
+     ],
+     "answer": "Taiping Rebellion",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-033",
+     "prompt": "Which Vietnamese general defeated the Mongols at Bach Dang in 1288?",
+     "choices": [
+      "Tran Hung Dao",
+      "Nguyen Hue",
+      "Le Loi",
+      "Ly Thuong Kiet"
+     ],
+     "answer": "Tran Hung Dao",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-102",
+     "prompt": "Who wrote the science fiction novel Solaris?",
+     "choices": [
+      "Arkady Strugatsky",
+      "Isaac Asimov",
+      "Karel Čapek",
+      "Stanisław Lem"
+     ],
+     "answer": "Stanisław Lem",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-044",
+     "prompt": "Which Calvino novel follows a young noble who vows never to set foot on the ground?",
+     "choices": [
+      "The Cloven Viscount",
+      "Mr. Palomar",
+      "The Baron in the Trees",
+      "Invisible Cities"
+     ],
+     "answer": "The Baron in the Trees",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-141",
+     "prompt": "Who is the wife of Hector in the Iliad?",
+     "choices": [
+      "Andromache",
+      "Briseis",
+      "Hecuba",
+      "Cassandra"
+     ],
+     "answer": "Andromache",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-178",
+     "prompt": "Most meteors burn up in which layer?",
+     "choices": [
+      "Exosphere",
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere"
+     ],
+     "answer": "Mesosphere",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-175",
+     "prompt": "The International Space Station orbits in which atmospheric layer?",
+     "choices": [
+      "Stratosphere",
+      "Thermosphere",
+      "Exosphere",
+      "Mesosphere"
+     ],
+     "answer": "Thermosphere",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-098",
+     "prompt": "An ancient, stable core of a continent is called what?",
+     "choices": [
+      "Rift",
+      "Craton",
+      "Orogen",
+      "Terrane"
+     ],
+     "answer": "Craton",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-113",
+     "prompt": "Which French physician-philosopher wrote Man a Machine?",
+     "choices": [
+      "d'Holbach",
+      "La Mettrie",
+      "Helvetius",
+      "Condillac"
+     ],
+     "answer": "La Mettrie",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-300",
+     "prompt": "Which Vedanta thinker founded the dualist Dvaita school?",
+     "choices": [
+      "Ramanuja",
+      "Shankara",
+      "Madhva",
+      "Vallabha"
+     ],
+     "answer": "Madhva",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-205",
+     "prompt": "Which philosopher gave the Naming and Necessity lectures in 1970?",
+     "choices": [
+      "Saul Kripke",
+      "David Lewis",
+      "Donald Davidson",
+      "Hilary Putnam"
+     ],
+     "answer": "Saul Kripke",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

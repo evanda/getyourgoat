@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 13,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-071",
+     "prompt": "81 ÷ 9",
+     "answer": 9,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-053",
+     "prompt": "51 + 21",
+     "answer": 72,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-139",
+     "prompt": "2 × 2",
+     "answer": 4,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-103",
+     "prompt": "Which of these is the oldest?",
+     "choices": [
+      "Skyscrapers",
+      "Castles",
+      "Airports",
+      "The pyramids"
+     ],
+     "answer": "The pyramids",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-161",
+     "prompt": "Which engineer's company built the Eiffel Tower?",
+     "choices": [
+      "Leonardo da Vinci",
+      "Gustave Eiffel",
+      "Thomas Edison",
+      "Albert Einstein"
+     ],
+     "answer": "Gustave Eiffel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-185",
+     "prompt": "A picture on a knight's shield showed his family's coat of what?",
+     "choices": [
+      "Fur",
+      "Arms",
+      "Paint",
+      "Hats"
+     ],
+     "answer": "Arms",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-057",
+     "prompt": "Who told a new story every night to the king in The Arabian Nights?",
+     "choices": [
+      "Aladdin",
+      "Sinbad",
+      "Jasmine",
+      "Scheherazade"
+     ],
+     "answer": "Scheherazade",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-251",
+     "prompt": "Who is the Greek messenger god with winged sandals?",
+     "choices": [
+      "Ares",
+      "Hermes",
+      "Apollo",
+      "Zeus"
+     ],
+     "answer": "Hermes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-248",
+     "prompt": "What creature has the body of a lion and the head of an eagle?",
+     "choices": [
+      "A griffin",
+      "A sphinx",
+      "A harpy",
+      "A dragon"
+     ],
+     "answer": "A griffin",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-128",
+     "prompt": "What is land with water all around it called?",
+     "choices": [
+      "Island",
+      "Peninsula",
+      "Valley",
+      "Canyon"
+     ],
+     "answer": "Island",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-315",
+     "prompt": "Which rock is smooth and often used for statues?",
+     "choices": [
+      "Marble",
+      "Pumice",
+      "Coal",
+      "Chalk"
+     ],
+     "answer": "Marble",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-061",
+     "prompt": "Which star is closest to Earth?",
+     "choices": [
+      "The North Star",
+      "Sirius",
+      "The Moon",
+      "The Sun"
+     ],
+     "answer": "The Sun",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-101",
+     "prompt": "Wild lions mostly live on which continent?",
+     "choices": [
+      "Africa",
+      "Antarctica",
+      "South America",
+      "Europe"
+     ],
+     "answer": "Africa",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-169",
+     "prompt": "Dinosaurs' closest living relatives are what?",
+     "choices": [
+      "birds",
+      "frogs",
+      "cows",
+      "spiders"
+     ],
+     "answer": "birds",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-288",
+     "prompt": "Which big bird cannot fly and has two toes?",
+     "choices": [
+      "eagle",
+      "owl",
+      "swan",
+      "ostrich"
+     ],
+     "answer": "ostrich",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

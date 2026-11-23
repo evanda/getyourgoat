@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 56,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-159",
+     "prompt": "262 × 4",
+     "answer": 1048,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-260",
+     "prompt": "8 × 9 − 6 × 6",
+     "answer": 36,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-252",
+     "prompt": "30 × 17",
+     "answer": 510,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-246",
+     "prompt": "Which 1212 battle was a decisive Christian victory over the Almohads in Spain?",
+     "choices": [
+      "Covadonga",
+      "Las Navas de Tolosa",
+      "Poitiers",
+      "Guadalete"
+     ],
+     "answer": "Las Navas de Tolosa",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-223",
+     "prompt": "Under which emperor did Rome reach its greatest extent, in AD 117?",
+     "choices": [
+      "Hadrian",
+      "Septimius Severus",
+      "Trajan",
+      "Augustus"
+     ],
+     "answer": "Trajan",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-256",
+     "prompt": "Which 1915 campaign saw Allied troops land on a Turkish peninsula?",
+     "choices": [
+      "Salonika",
+      "Jutland",
+      "Megiddo",
+      "Gallipoli"
+     ],
+     "answer": "Gallipoli",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-212",
+     "prompt": "Who wrote the Portuguese novel The Maias?",
+     "choices": [
+      "Eça de Queirós",
+      "Almeida Garrett",
+      "José Saramago",
+      "Camilo Castelo Branco"
+     ],
+     "answer": "Eça de Queirós",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-180",
+     "prompt": "Who wrote the cyberpunk novel Neuromancer?",
+     "choices": [
+      "Bruce Sterling",
+      "Neal Stephenson",
+      "William Gibson",
+      "Philip K. Dick"
+     ],
+     "answer": "William Gibson",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-232",
+     "prompt": "Which Portuguese poet wrote under many heteronyms, including Álvaro de Campos?",
+     "choices": [
+      "Eugénio de Andrade",
+      "Fernando Pessoa",
+      "Luís de Camões",
+      "Miguel Torga"
+     ],
+     "answer": "Fernando Pessoa",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-207",
+     "prompt": "The tropical atmospheric circulation cell between the equator and about 30 degrees is the what?",
+     "choices": [
+      "Walker cell",
+      "Polar cell",
+      "Ferrel cell",
+      "Hadley cell"
+     ],
+     "answer": "Hadley cell",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-079",
+     "prompt": "What was the vast ocean surrounding Pangaea called?",
+     "choices": [
+      "Iapetus",
+      "Panthalassa",
+      "Rheic",
+      "Tethys"
+     ],
+     "answer": "Panthalassa",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-230",
+     "prompt": "The layer of rapid temperature change with depth in the ocean is called what?",
+     "choices": [
+      "Halocline",
+      "Thermocline",
+      "Pycnocline",
+      "Chemocline"
+     ],
+     "answer": "Thermocline",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-179",
+     "prompt": "Which Sartre play contains the line 'Hell is other people'?",
+     "choices": [
+      "The Flies",
+      "The Condemned of Altona",
+      "Dirty Hands",
+      "No Exit"
+     ],
+     "answer": "No Exit",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-163",
+     "prompt": "Which Spanish-born Harvard philosopher wrote The Life of Reason?",
+     "choices": [
+      "Alfred Whitehead",
+      "George Santayana",
+      "William Hocking",
+      "Josiah Royce"
+     ],
+     "answer": "George Santayana",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-050",
+     "prompt": "Which pupil of Pyrrho wrote the satirical poems called Silloi?",
+     "choices": [
+      "Timon of Phlius",
+      "Aenesidemus",
+      "Arcesilaus",
+      "Colotes"
+     ],
+     "answer": "Timon of Phlius",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

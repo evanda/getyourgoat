@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 25,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-065",
+     "prompt": "23²",
+     "answer": 529,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-240",
+     "prompt": "58²",
+     "answer": 3364,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-277",
+     "prompt": "63 × 36",
+     "answer": 2268,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-046",
+     "prompt": "Which Saxon king did Charlemagne fight for decades, forcing his baptism?",
+     "choices": [
+      "Hengist",
+      "Widukind",
+      "Arminius",
+      "Alaric"
+     ],
+     "answer": "Widukind",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-251",
+     "prompt": "Which astronomer discovered Uranus in 1781?",
+     "choices": [
+      "Edmond Halley",
+      "Urbain Le Verrier",
+      "William Herschel",
+      "Caroline Herschel"
+     ],
+     "answer": "William Herschel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-299",
+     "prompt": "Which clan defeated the Taira at Dan-no-ura in 1185?",
+     "choices": [
+      "Tokugawa",
+      "Hojo",
+      "Minamoto",
+      "Fujiwara"
+     ],
+     "answer": "Minamoto",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-146",
+     "prompt": "Who wrote the Latin Confessions describing his own conversion?",
+     "choices": [
+      "Tertullian",
+      "Jerome",
+      "Augustine of Hippo",
+      "Boethius"
+     ],
+     "answer": "Augustine of Hippo",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-061",
+     "prompt": "Who wrote the romance Layla and Majnun in Persian?",
+     "choices": [
+      "Ferdowsi",
+      "Nizami Ganjavi",
+      "Rudaki",
+      "Hafez"
+     ],
+     "answer": "Nizami Ganjavi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-154",
+     "prompt": "Who wrote the novel Blindness, about a plague of white blindness?",
+     "choices": [
+      "António Lobo Antunes",
+      "Fernando Pessoa",
+      "José Saramago",
+      "Eça de Queirós"
+     ],
+     "answer": "José Saramago",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-088",
+     "prompt": "Which major fault runs along the western edge of New Zealand's Southern Alps?",
+     "choices": [
+      "Hope Fault",
+      "Wairarapa Fault",
+      "Awatere Fault",
+      "Alpine Fault"
+     ],
+     "answer": "Alpine Fault",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-004",
+     "prompt": "Which mineral is 3 on the Mohs scale?",
+     "choices": [
+      "Talc",
+      "Gypsum",
+      "Calcite",
+      "Fluorite"
+     ],
+     "answer": "Calcite",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-227",
+     "prompt": "The global \"conveyor belt\" of deep ocean circulation is driven by differences in what?",
+     "choices": [
+      "Depth and pressure",
+      "Wave height",
+      "Temperature and salinity",
+      "Wind and tides"
+     ],
+     "answer": "Temperature and salinity",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-108",
+     "prompt": "Which Glasgow professor, teacher of Adam Smith, defended a moral sense theory?",
+     "choices": [
+      "Francis Hutcheson",
+      "Henry Home",
+      "Thomas Reid",
+      "Dugald Stewart"
+     ],
+     "answer": "Francis Hutcheson",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-291",
+     "prompt": "Which Japanese author wrote Bushido: The Soul of Japan in English?",
+     "choices": [
+      "Yamaga Soko",
+      "Nitobe Inazo",
+      "Okakura Kakuzo",
+      "Suzuki Daisetsu"
+     ],
+     "answer": "Nitobe Inazo",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-109",
+     "prompt": "Which clergyman used the watchmaker analogy in Natural Theology?",
+     "choices": [
+      "William Paley",
+      "Richard Whately",
+      "Samuel Clarke",
+      "Joseph Butler"
+     ],
+     "answer": "William Paley",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

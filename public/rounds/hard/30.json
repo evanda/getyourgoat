@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 30,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-114",
+     "prompt": "26 × 16",
+     "answer": 416,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-211",
+     "prompt": "29 × 12",
+     "answer": 348,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-207",
+     "prompt": "41 × 24",
+     "answer": 984,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-248",
+     "prompt": "Which tyrant of Syracuse repelled Carthage at Himera in 480 BC?",
+     "choices": [
+      "Hiero II",
+      "Agathocles",
+      "Dionysius I",
+      "Gelon"
+     ],
+     "answer": "Gelon",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-101",
+     "prompt": "Which 1783 treaty recognized American independence?",
+     "choices": [
+      "Treaty of Paris",
+      "Jay Treaty",
+      "Treaty of Versailles",
+      "Treaty of Ghent"
+     ],
+     "answer": "Treaty of Paris",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-203",
+     "prompt": "The fall of which city in 1492 ended Muslim rule in Iberia?",
+     "choices": [
+      "Cordoba",
+      "Toledo",
+      "Granada",
+      "Seville"
+     ],
+     "answer": "Granada",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-266",
+     "prompt": "Who wrote the novel The Woman in White?",
+     "choices": [
+      "Wilkie Collins",
+      "Charles Dickens",
+      "Sheridan Le Fanu",
+      "Mary Braddon"
+     ],
+     "answer": "Wilkie Collins",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-037",
+     "prompt": "Which Roman poet was famed for his short, barbed epigrams?",
+     "choices": [
+      "Horace",
+      "Juvenal",
+      "Propertius",
+      "Martial"
+     ],
+     "answer": "Martial",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-135",
+     "prompt": "Who wrote The Second Sex?",
+     "choices": [
+      "Colette",
+      "Simone de Beauvoir",
+      "Marguerite Duras",
+      "Nathalie Sarraute"
+     ],
+     "answer": "Simone de Beauvoir",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-139",
+     "prompt": "The Burgess Shale fossil site is in which Canadian province?",
+     "choices": [
+      "Alberta",
+      "Yukon",
+      "Ontario",
+      "British Columbia"
+     ],
+     "answer": "British Columbia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-291",
+     "prompt": "The Great Artesian Basin is a vast groundwater reservoir in which country?",
+     "choices": [
+      "India",
+      "Australia",
+      "Brazil",
+      "Libya"
+     ],
+     "answer": "Australia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-269",
+     "prompt": "A large sea of sand in the Sahara is called what?",
+     "choices": [
+      "Hamada",
+      "Erg",
+      "Reg",
+      "Wadi"
+     ],
+     "answer": "Erg",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-238",
+     "prompt": "Which Arabic term names speculative theology?",
+     "choices": [
+      "Tasawwuf",
+      "Falsafa",
+      "Kalam",
+      "Fiqh"
+     ],
+     "answer": "Kalam",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-016",
+     "prompt": "Which Plato dialogue features a charioteer driving two winged horses?",
+     "choices": [
+      "Phaedrus",
+      "Timaeus",
+      "Philebus",
+      "Sophist"
+     ],
+     "answer": "Phaedrus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-112",
+     "prompt": "Which thinker used a statue gaining senses one by one in his Treatise on Sensations?",
+     "choices": [
+      "Helvetius",
+      "Condillac",
+      "Diderot",
+      "La Mettrie"
+     ],
+     "answer": "Condillac",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

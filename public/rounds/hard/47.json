@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 47,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-245",
+     "prompt": "50% of 180",
+     "answer": 90,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-170",
+     "prompt": "390 ÷ 13",
+     "answer": 30,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-272",
+     "prompt": "25 × 12",
+     "answer": 300,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-023",
+     "prompt": "Which Peruvian civilization made lifelike portrait pottery and built Huaca del Sol?",
+     "choices": [
+      "The Nazca",
+      "The Chimu",
+      "The Moche",
+      "The Inca"
+     ],
+     "answer": "The Moche",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-179",
+     "prompt": "Which Mesoamerican city had the Pyramid of the Sun and flourished c. 100-550?",
+     "choices": [
+      "Chichen Itza",
+      "Palenque",
+      "Teotihuacan",
+      "Tula"
+     ],
+     "answer": "Teotihuacan",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-156",
+     "prompt": "Which Zulu king ruled during the Anglo-Zulu War of 1879?",
+     "choices": [
+      "Mzilikazi",
+      "Dingane",
+      "Shaka",
+      "Cetshwayo"
+     ],
+     "answer": "Cetshwayo",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-142",
+     "prompt": "Who wrote the 2002 Egyptian novel The Yacoubian Building?",
+     "choices": [
+      "Naguib Mahfouz",
+      "Sonallah Ibrahim",
+      "Gamal al-Ghitani",
+      "Alaa Al Aswany"
+     ],
+     "answer": "Alaa Al Aswany",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-309",
+     "prompt": "Who wrote the novel The Trial, with the clerk Josef K.?",
+     "choices": [
+      "Franz Kafka",
+      "Joseph Roth",
+      "Max Brod",
+      "Robert Musil"
+     ],
+     "answer": "Franz Kafka",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-042",
+     "prompt": "Who wrote the Arabic work Muqaddimah, an introduction to history?",
+     "choices": [
+      "Ibn Rushd",
+      "Al-Ghazali",
+      "Ibn Battuta",
+      "Ibn Khaldun"
+     ],
+     "answer": "Ibn Khaldun",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-117",
+     "prompt": "Geologists call the compass direction of a horizontal line on a tilted bed its what?",
+     "choices": [
+      "Dip",
+      "Plunge",
+      "Strike",
+      "Trend"
+     ],
+     "answer": "Strike",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-039",
+     "prompt": "Epsomite, known as Epsom salt, is a hydrated sulfate of which metal?",
+     "choices": [
+      "Magnesium",
+      "Calcium",
+      "Sodium",
+      "Potassium"
+     ],
+     "answer": "Magnesium",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-211",
+     "prompt": "A layer in which temperature rises with height, trapping smog below, is called what?",
+     "choices": [
+      "Front",
+      "Thermocline",
+      "Lapse layer",
+      "Temperature inversion"
+     ],
+     "answer": "Temperature inversion",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-213",
+     "prompt": "Which philosopher coined the phrase tacit knowledge?",
+     "choices": [
+      "Karl Popper",
+      "Gilbert Ryle",
+      "Thomas Kuhn",
+      "Michael Polanyi"
+     ],
+     "answer": "Michael Polanyi",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-020",
+     "prompt": "In which Plato dialogue does the 'Third Man' objection to the Forms appear?",
+     "choices": [
+      "Philebus",
+      "Timaeus",
+      "Phaedo",
+      "Parmenides"
+     ],
+     "answer": "Parmenides",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-236",
+     "prompt": "Which Abbasid caliph backed translation and the Mu'tazila?",
+     "choices": [
+      "Al-Mansur",
+      "Al-Mutawakkil",
+      "Al-Ma'mun",
+      "Harun al-Rashid"
+     ],
+     "answer": "Al-Ma'mun",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

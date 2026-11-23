@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 51,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-039",
+     "prompt": "8 × 8",
+     "answer": 64,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-251",
+     "prompt": "40 + 4",
+     "answer": 44,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-118",
+     "prompt": "15 − 2",
+     "answer": 13,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-101",
+     "prompt": "The word dinosaur means terrible what?",
+     "choices": [
+      "Bird",
+      "Lizard",
+      "Whale",
+      "Frog"
+     ],
+     "answer": "Lizard",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-031",
+     "prompt": "Ancient Athens gave the world the idea of what?",
+     "choices": [
+      "Feudalism",
+      "Pharaohs",
+      "Samurai",
+      "Democracy"
+     ],
+     "answer": "Democracy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-046",
+     "prompt": "Pythagoras was a Greek who studied math with what shapes?",
+     "choices": [
+      "Cooking pots",
+      "Paintings",
+      "Triangles",
+      "Boats"
+     ],
+     "answer": "Triangles",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-217",
+     "prompt": "Who is the young prince who lives on a tiny planet?",
+     "choices": [
+      "Peter Pan",
+      "Prince Charming",
+      "Aladdin",
+      "The Little Prince"
+     ],
+     "answer": "The Little Prince",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-285",
+     "prompt": "What do we call a short poem with five lines and a funny tone?",
+     "choices": [
+      "A sonnet",
+      "A diary",
+      "A novel",
+      "A limerick"
+     ],
+     "answer": "A limerick",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-211",
+     "prompt": "What color is Anne's hair?",
+     "choices": [
+      "Black",
+      "Red",
+      "Blond",
+      "Brown"
+     ],
+     "answer": "Red",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-024",
+     "prompt": "What do we call water that is a gas in the air?",
+     "choices": [
+      "Ice",
+      "Steam rock",
+      "Water vapor",
+      "Mud"
+     ],
+     "answer": "Water vapor",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-009",
+     "prompt": "How many colors are usually named in a rainbow?",
+     "choices": [
+      "3",
+      "5",
+      "7",
+      "12"
+     ],
+     "answer": "7",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-113",
+     "prompt": "What is coal mostly used for?",
+     "choices": [
+      "Burning for energy",
+      "Making glass",
+      "Making rain",
+      "Growing trees"
+     ],
+     "answer": "Burning for energy",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-276",
+     "prompt": "Insects have feelers on their heads called what?",
+     "choices": [
+      "horns",
+      "whiskers",
+      "tusks",
+      "antennae"
+     ],
+     "answer": "antennae",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-159",
+     "prompt": "A caterpillar in a chrysalis becomes a what?",
+     "choices": [
+      "beetle",
+      "bee",
+      "butterfly",
+      "ant"
+     ],
+     "answer": "butterfly",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-262",
+     "prompt": "Which sea animal has flippers and loves lying on rocks?",
+     "choices": [
+      "crab",
+      "seal",
+      "shark",
+      "starfish"
+     ],
+     "answer": "seal",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 48,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-020",
+     "prompt": "3 × 4",
+     "answer": 12,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-122",
+     "prompt": "19 + 31",
+     "answer": 50,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-181",
+     "prompt": "1 + 6",
+     "answer": 7,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-065",
+     "prompt": "Roman artists made pictures from tiny tiles called what?",
+     "choices": [
+      "Balloons",
+      "Mosaics",
+      "Puppets",
+      "Mittens"
+     ],
+     "answer": "Mosaics",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-209",
+     "prompt": "Old Viking tales are called what?",
+     "choices": [
+      "Tweets",
+      "Sagas",
+      "Comics",
+      "Quizzes"
+     ],
+     "answer": "Sagas",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-109",
+     "prompt": "Whose ships first sailed all the way around the world?",
+     "choices": [
+      "Columbus's",
+      "Magellan's",
+      "Captain Cook's",
+      "Marco Polo's"
+     ],
+     "answer": "Magellan's",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-105",
+     "prompt": "Who \"sat in a corner eating a Christmas pie\"?",
+     "choices": [
+      "Little Tommy Tucker",
+      "Jack Sprat",
+      "Simple Simon",
+      "Little Jack Horner"
+     ],
+     "answer": "Little Jack Horner",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-058",
+     "prompt": "In The Wizard of Oz, who is Dorothy's dog?",
+     "choices": [
+      "Rex",
+      "Spot",
+      "Toto",
+      "Fido"
+     ],
+     "answer": "Toto",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-296",
+     "prompt": "What does the Queen ask her magic mirror?",
+     "choices": [
+      "Who is the fairest?",
+      "What time is it?",
+      "Where is my crown?",
+      "Who is the bravest?"
+     ],
+     "answer": "Who is the fairest?",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-223",
+     "prompt": "Which is the tallest mountain above sea level?",
+     "choices": [
+      "Mount Fuji",
+      "Mount Everest",
+      "Mount Rainier",
+      "Pikes Peak"
+     ],
+     "answer": "Mount Everest",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-200",
+     "prompt": "On which continent do we find the country of Canada?",
+     "choices": [
+      "Europe",
+      "Asia",
+      "North America",
+      "Africa"
+     ],
+     "answer": "North America",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-268",
+     "prompt": "Which energy comes from the Sun?",
+     "choices": [
+      "Coal power",
+      "Oil power",
+      "Wind power",
+      "Solar power"
+     ],
+     "answer": "Solar power",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-127",
+     "prompt": "How many legs does an insect have?",
+     "choices": [
+      "8",
+      "4",
+      "6",
+      "10"
+     ],
+     "answer": "6",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-089",
+     "prompt": "Farmers feed goats dried grass called what?",
+     "choices": [
+      "hay",
+      "soap",
+      "sand",
+      "ice"
+     ],
+     "answer": "hay",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-237",
+     "prompt": "A cat's long face hairs are called what?",
+     "choices": [
+      "whiskers",
+      "feathers",
+      "quills",
+      "antlers"
+     ],
+     "answer": "whiskers",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

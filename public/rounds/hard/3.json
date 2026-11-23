@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 3,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-013",
+     "prompt": "184 ÷ 8",
+     "answer": 23,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-188",
+     "prompt": "29 × 16",
+     "answer": 464,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-290",
+     "prompt": "20 × 19",
+     "answer": 380,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-044",
+     "prompt": "Which king of England was captured in Austria returning from the Third Crusade?",
+     "choices": [
+      "Edward I",
+      "Henry II",
+      "John",
+      "Richard I"
+     ],
+     "answer": "Richard I",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-234",
+     "prompt": "Which Balkan state was the target of Austria-Hungary's July 1914 ultimatum?",
+     "choices": [
+      "Romania",
+      "Serbia",
+      "Montenegro",
+      "Bulgaria"
+     ],
+     "answer": "Serbia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-298",
+     "prompt": "Which navigator reached Brazil in 1500 for Portugal?",
+     "choices": [
+      "Vasco da Gama",
+      "Pedro Alvares Cabral",
+      "Afonso de Albuquerque",
+      "Bartolomeu Dias"
+     ],
+     "answer": "Pedro Alvares Cabral",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-264",
+     "prompt": "Who wrote the novel The Palm-Wine Drinkard?",
+     "choices": [
+      "Amos Tutuola",
+      "Ben Okri",
+      "Chinua Achebe",
+      "Cyprian Ekwensi"
+     ],
+     "answer": "Amos Tutuola",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-272",
+     "prompt": "Who wrote the elegy In Memoriam A.H.H.?",
+     "choices": [
+      "Matthew Arnold",
+      "Robert Browning",
+      "Alfred Tennyson",
+      "Gerard Manley Hopkins"
+     ],
+     "answer": "Alfred Tennyson",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-047",
+     "prompt": "Who wrote the comedy The Government Inspector?",
+     "choices": [
+      "Alexander Ostrovsky",
+      "Anton Chekhov",
+      "Nikolai Gogol",
+      "Alexander Griboyedov"
+     ],
+     "answer": "Nikolai Gogol",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-283",
+     "prompt": "Which mountain range runs along the east coast of Australia?",
+     "choices": [
+      "Great Dividing Range",
+      "Musgrave Ranges",
+      "MacDonnell Ranges",
+      "Flinders Ranges"
+     ],
+     "answer": "Great Dividing Range",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-036",
+     "prompt": "Molybdenite is the chief ore of which metal?",
+     "choices": [
+      "Manganese",
+      "Mercury",
+      "Molybdenum",
+      "Magnesium"
+     ],
+     "answer": "Molybdenum",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-112",
+     "prompt": "Which magnitude scale replaced Richter's for large earthquakes?",
+     "choices": [
+      "Body-wave magnitude",
+      "Moment magnitude",
+      "Surface-wave magnitude",
+      "Local magnitude"
+     ],
+     "answer": "Moment magnitude",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-110",
+     "prompt": "Which Scottish philosopher founded the common-sense school against Hume's skepticism?",
+     "choices": [
+      "Francis Hutcheson",
+      "Thomas Reid",
+      "Adam Ferguson",
+      "Dugald Stewart"
+     ],
+     "answer": "Thomas Reid",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-049",
+     "prompt": "Which skeptic of Cnossos revived Pyrrhonism in the first century BCE?",
+     "choices": [
+      "Aenesidemus",
+      "Sextus Empiricus",
+      "Timon of Phlius",
+      "Agrippa"
+     ],
+     "answer": "Aenesidemus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-069",
+     "prompt": "Which Alexandrian Jewish thinker blended Platonism with the Torah?",
+     "choices": [
+      "Plotinus",
+      "Philo",
+      "Origen",
+      "Josephus"
+     ],
+     "answer": "Philo",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

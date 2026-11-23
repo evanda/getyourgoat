@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 11,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-285",
+     "prompt": "41 × 29",
+     "answer": 1189,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-246",
+     "prompt": "43 × 19",
+     "answer": 817,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-234",
+     "prompt": "35 × 25",
+     "answer": 875,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-193",
+     "prompt": "Which Danish astronomer showed in 1676 that light has a finite speed?",
+     "choices": [
+      "Ole Romer",
+      "Tycho Brahe",
+      "Hans Oersted",
+      "Christiaan Huygens"
+     ],
+     "answer": "Ole Romer",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-186",
+     "prompt": "Which emperor made Nicene Christianity the state religion in 380?",
+     "choices": [
+      "Constantine",
+      "Theodosius I",
+      "Julian",
+      "Justinian I"
+     ],
+     "answer": "Theodosius I",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-164",
+     "prompt": "Which Burmese king founded the Pagan Empire in 1044?",
+     "choices": [
+      "Alaungpaya",
+      "Bayinnaung",
+      "Thibaw",
+      "Anawrahta"
+     ],
+     "answer": "Anawrahta",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-081",
+     "prompt": "Who wrote the poem \"Ithaka\"?",
+     "choices": [
+      "George Seferis",
+      "Odysseas Elytis",
+      "Yannis Ritsos",
+      "C. P. Cavafy"
+     ],
+     "answer": "C. P. Cavafy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-182",
+     "prompt": "In the Shahnameh, which hero unknowingly kills his son Sohrab?",
+     "choices": [
+      "Kai Khosrow",
+      "Fereydun",
+      "Rostam",
+      "Siyavash"
+     ],
+     "answer": "Rostam",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-233",
+     "prompt": "Who wrote the comedy Volpone?",
+     "choices": [
+      "Francis Beaumont",
+      "Thomas Dekker",
+      "Christopher Marlowe",
+      "Ben Jonson"
+     ],
+     "answer": "Ben Jonson",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-169",
+     "prompt": "The 1912 Alaska eruption, the 20th century's largest, vented at which volcano?",
+     "choices": [
+      "Augustine",
+      "Redoubt",
+      "Novarupta",
+      "Spurr"
+     ],
+     "answer": "Novarupta",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-046",
+     "prompt": "Which rock is thought to make up most of Earth's upper mantle?",
+     "choices": [
+      "Eclogite",
+      "Basalt",
+      "Granite",
+      "Peridotite"
+     ],
+     "answer": "Peridotite",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-164",
+     "prompt": "The 1815 eruption of Tambora preceded the \"Year Without a Summer\" in which year?",
+     "choices": [
+      "1883",
+      "1820",
+      "1815",
+      "1816"
+     ],
+     "answer": "1816",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-206",
+     "prompt": "Which philosopher wrote On the Plurality of Worlds, defending modal realism?",
+     "choices": [
+      "Saul Kripke",
+      "Alvin Plantinga",
+      "David Lewis",
+      "Robert Stalnaker"
+     ],
+     "answer": "David Lewis",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-304",
+     "prompt": "Which two brothers founded the Yogacara school of Buddhism?",
+     "choices": [
+      "Asanga and Vasubandhu",
+      "Nagarjuna and Aryadeva",
+      "Buddhaghosa and Nagasena",
+      "Dignaga and Dharmakirti"
+     ],
+     "answer": "Asanga and Vasubandhu",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-220",
+     "prompt": "Which view holds that free will and determinism are compatible?",
+     "choices": [
+      "Compatibilism",
+      "Fatalism",
+      "Occasionalism",
+      "Incompatibilism"
+     ],
+     "answer": "Compatibilism",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

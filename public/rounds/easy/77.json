@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 77,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-089",
+     "prompt": "4 × 10",
+     "answer": 40,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-260",
+     "prompt": "27 + 34",
+     "answer": 61,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-046",
+     "prompt": "2 × 1",
+     "answer": 2,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-184",
+     "prompt": "In the sport of jousting, knights used long poles called what?",
+     "choices": [
+      "Lances",
+      "Brooms",
+      "Oars",
+      "Flutes"
+     ],
+     "answer": "Lances",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-132",
+     "prompt": "Louis Pasteur found a way to make what safer to drink?",
+     "choices": [
+      "Milk",
+      "Sand",
+      "Paint",
+      "Soda"
+     ],
+     "answer": "Milk",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-183",
+     "prompt": "A boy training to be a knight started as a what?",
+     "choices": [
+      "Pilot",
+      "Plumber",
+      "Pirate",
+      "Page"
+     ],
+     "answer": "Page",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-291",
+     "prompt": "What kind of animal is Templeton in Charlotte's Web?",
+     "choices": [
+      "A cat",
+      "A rat",
+      "A mouse",
+      "A crow"
+     ],
+     "answer": "A rat",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-271",
+     "prompt": "What kind of weapon is Robin Hood best known for?",
+     "choices": [
+      "A sword",
+      "A bow and arrow",
+      "An axe",
+      "A spear"
+     ],
+     "answer": "A bow and arrow",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-184",
+     "prompt": "Who wrote The Jungle Book?",
+     "choices": [
+      "Rudyard Kipling",
+      "J. M. Barrie",
+      "Roald Dahl",
+      "Lewis Carroll"
+     ],
+     "answer": "Rudyard Kipling",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-178",
+     "prompt": "What is the biggest coral reef in the world?",
+     "choices": [
+      "Big Blue Reef",
+      "Grand Coral Wall",
+      "Sea Star Reef",
+      "Great Barrier Reef"
+     ],
+     "answer": "Great Barrier Reef",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-006",
+     "prompt": "What bright flash in the sky comes during a thunderstorm?",
+     "choices": [
+      "Lightning",
+      "Rainbow",
+      "Comet",
+      "Aurora"
+     ],
+     "answer": "Lightning",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-150",
+     "prompt": "What is a shiny, colorful rock that people wear as jewelry called?",
+     "choices": [
+      "Gem",
+      "Pebble",
+      "Brick",
+      "Boulder"
+     ],
+     "answer": "Gem",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-155",
+     "prompt": "Which is the biggest cat?",
+     "choices": [
+      "lion",
+      "cheetah",
+      "tiger",
+      "house cat"
+     ],
+     "answer": "tiger",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-302",
+     "prompt": "Which long-haired animal lives high in the Himalayas?",
+     "choices": [
+      "zebra",
+      "yak",
+      "camel",
+      "pig"
+     ],
+     "answer": "yak",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-196",
+     "prompt": "Each beehive has one what who lays eggs?",
+     "choices": [
+      "king",
+      "prince",
+      "duke",
+      "queen"
+     ],
+     "answer": "queen",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

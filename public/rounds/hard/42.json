@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 42,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-168",
+     "prompt": "342 ÷ 18",
+     "answer": 19,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-157",
+     "prompt": "43 × 18",
+     "answer": 774,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-242",
+     "prompt": "20% of 160",
+     "answer": 32,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-142",
+     "prompt": "Which 1919 massacre in Amritsar by British troops shocked India?",
+     "choices": [
+      "Peterloo",
+      "Jallianwala Bagh",
+      "Sharpeville",
+      "Chauri Chaura"
+     ],
+     "answer": "Jallianwala Bagh",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-158",
+     "prompt": "Which 1938 agreement let Germany annex the Sudetenland?",
+     "choices": [
+      "Rapallo Treaty",
+      "Munich Agreement",
+      "Locarno Treaties",
+      "Anschluss"
+     ],
+     "answer": "Munich Agreement",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-045",
+     "prompt": "Which English physician demonstrated blood circulation in 1628?",
+     "choices": [
+      "William Harvey",
+      "Thomas Sydenham",
+      "Edward Jenner",
+      "Andreas Vesalius"
+     ],
+     "answer": "William Harvey",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-016",
+     "prompt": "Who wrote the novel Under the Volcano?",
+     "choices": [
+      "Lawrence Durrell",
+      "Graham Greene",
+      "Evelyn Waugh",
+      "Malcolm Lowry"
+     ],
+     "answer": "Malcolm Lowry",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-040",
+     "prompt": "Who wrote the novel Slaughterhouse-Five?",
+     "choices": [
+      "Ken Kesey",
+      "Kurt Vonnegut",
+      "Joseph Heller",
+      "Thomas Pynchon"
+     ],
+     "answer": "Kurt Vonnegut",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-262",
+     "prompt": "Who wrote the poetry collection Spoon River Anthology?",
+     "choices": [
+      "Edgar Lee Masters",
+      "Robert Frost",
+      "Carl Sandburg",
+      "Vachel Lindsay"
+     ],
+     "answer": "Edgar Lee Masters",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-005",
+     "prompt": "Which mineral is 6 on the Mohs scale?",
+     "choices": [
+      "Apatite",
+      "Orthoclase",
+      "Quartz",
+      "Topaz"
+     ],
+     "answer": "Orthoclase",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-155",
+     "prompt": "The Laurentide Ice Sheet mostly covered which region?",
+     "choices": [
+      "Scandinavia",
+      "Siberia",
+      "Canada",
+      "Patagonia"
+     ],
+     "answer": "Canada",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-236",
+     "prompt": "A flat bedrock surface cut by waves at the base of a cliff is called what?",
+     "choices": [
+      "Spit",
+      "Berm",
+      "Wave-cut platform",
+      "Barrier bar"
+     ],
+     "answer": "Wave-cut platform",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-005",
+     "prompt": "Which Milesian thinker held that air is the basic stuff of the cosmos?",
+     "choices": [
+      "Anaximander",
+      "Anaximenes",
+      "Thales",
+      "Heraclitus"
+     ],
+     "answer": "Anaximenes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-218",
+     "prompt": "Which view holds that God is the only true cause of events?",
+     "choices": [
+      "Voluntarism",
+      "Epiphenomenalism",
+      "Hylomorphism",
+      "Occasionalism"
+     ],
+     "answer": "Occasionalism",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-233",
+     "prompt": "Which philosopher wrote Philosophy and the Mirror of Nature?",
+     "choices": [
+      "Donald Davidson",
+      "Hilary Putnam",
+      "Stanley Cavell",
+      "Richard Rorty"
+     ],
+     "answer": "Richard Rorty",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

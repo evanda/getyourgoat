@@ -1,0 +1,1892 @@
+[
+ {
+  "id": "hard-lit-001",
+  "pick": "Carlos Ruiz Zafón",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-002",
+  "pick": "Henrik Ibsen",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-003",
+  "pick": "Turnus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-004",
+  "pick": "Wilfred Owen",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-005",
+  "pick": "Maxim Gorky",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-006",
+  "pick": "Virgil",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-007",
+  "pick": "A. S. Byatt",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-008",
+  "pick": "Seamus Heaney",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-009",
+  "pick": "Theodore Dreiser",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-010",
+  "pick": "Robert Browning",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-011",
+  "pick": "Toni Morrison",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-012",
+  "pick": "Jean-Paul Sartre",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-013",
+  "pick": "Eugène Ionesco",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-014",
+  "pick": "Wole Soyinka",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-015",
+  "pick": "Pu Songling",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-016",
+  "pick": "Malcolm Lowry",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-017",
+  "pick": "Konstantin Levin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-018",
+  "pick": "George Eliot",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-019",
+  "pick": "August Strindberg",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-020",
+  "pick": "The Winter's Tale",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-021",
+  "pick": "Albert Camus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-022",
+  "pick": "Calypso",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-023",
+  "pick": "Qian Zhongshu",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-024",
+  "pick": "Dashiell Hammett",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-025",
+  "pick": "The Mabinogion",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-026",
+  "pick": "The Sea of Fertility",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-027",
+  "pick": "Hard Times",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-028",
+  "pick": "Anthony Trollope",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-029",
+  "pick": "Attar of Nishapur",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-030",
+  "pick": "Erasmus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-031",
+  "pick": "Hafez",
+  "confidence": "high",
+  "problem": "Saadi was also of Shiraz, but Divan points clearly to Hafez"
+ },
+ {
+  "id": "hard-lit-032",
+  "pick": "Nadine Gordimer",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-033",
+  "pick": "Peter Abrahams",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-034",
+  "pick": "Macondo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-035",
+  "pick": "Anton Chekhov",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-036",
+  "pick": "Nguyễn Du",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-037",
+  "pick": "Martial",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-038",
+  "pick": "Friedrich Schiller",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-039",
+  "pick": "Khushwant Singh",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-040",
+  "pick": "Kurt Vonnegut",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-041",
+  "pick": "The Cloven Viscount",
+  "confidence": "high",
+  "problem": "prompt nearly gives away the answer (Viscount in prompt and in title)"
+ },
+ {
+  "id": "hard-lit-042",
+  "pick": "Ibn Khaldun",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-043",
+  "pick": "Jack Kerouac",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-044",
+  "pick": "The Baron in the Trees",
+  "confidence": "high",
+  "problem": "prompt nearly gives away the answer (trees in prompt and title)"
+ },
+ {
+  "id": "hard-lit-045",
+  "pick": "Sully Prudhomme",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-046",
+  "pick": "Erich Kästner",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-047",
+  "pick": "Nikolai Gogol",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-048",
+  "pick": "David Copperfield",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-049",
+  "pick": "The Taming of the Shrew",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-050",
+  "pick": "Fanny Burney",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-051",
+  "pick": "Primo Levi",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-052",
+  "pick": "Thomas More",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-053",
+  "pick": "Gabriela Mistral",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-054",
+  "pick": "Xenophon",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-055",
+  "pick": "Honoré de Balzac",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-056",
+  "pick": "Henrik Ibsen",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-057",
+  "pick": "Sholem Aleichem",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-058",
+  "pick": "Anna Akhmatova",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-059",
+  "pick": "Ann Radcliffe",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-060",
+  "pick": "Roberto Bolaño",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-061",
+  "pick": "Nizami Ganjavi",
+  "confidence": "medium",
+  "problem": "Jami (a choice) also wrote a Persian Layla and Majnun in his Haft Awrang"
+ },
+ {
+  "id": "hard-lit-062",
+  "pick": "Ludovico Ariosto",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-063",
+  "pick": "Ben Okri",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-064",
+  "pick": "Knut Hamsun",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-065",
+  "pick": "Lao She",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-066",
+  "pick": "Mary Norton",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-067",
+  "pick": "Arundhati Roy",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-068",
+  "pick": "Anchises",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-069",
+  "pick": "Giuseppe Tomasi di Lampedusa",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-070",
+  "pick": "Flann O'Brien",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-071",
+  "pick": "T. H. White",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-072",
+  "pick": "Pablo Neruda",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-073",
+  "pick": "Thomas Malory",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-074",
+  "pick": "Federico García Lorca",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-075",
+  "pick": "Muhammad Iqbal",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-076",
+  "pick": "Alexander Pope",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-077",
+  "pick": "Omar Khayyam",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-078",
+  "pick": "Lucretius",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-079",
+  "pick": "John Gay",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-080",
+  "pick": "Ovid",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-081",
+  "pick": "C. P. Cavafy",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-082",
+  "pick": "R. D. Blackmore",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-083",
+  "pick": "Isaac Babel",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-084",
+  "pick": "Henrik Ibsen",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-085",
+  "pick": "R. K. Narayan",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-086",
+  "pick": "John Webster",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-087",
+  "pick": "H. G. Wells",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-088",
+  "pick": "Henry Fielding",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-089",
+  "pick": "Lorraine Hansberry",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-090",
+  "pick": "Yukio Mishima",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-091",
+  "pick": "Hamlet",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-092",
+  "pick": "Ousmane Sembène",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-093",
+  "pick": "Valmiki",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-094",
+  "pick": "The Idiot",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-095",
+  "pick": "Rubén Darío",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-096",
+  "pick": "John Dos Passos",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-097",
+  "pick": "Bleak House",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-098",
+  "pick": "Henry David Thoreau",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-099",
+  "pick": "Argos",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-100",
+  "pick": "James Fenimore Cooper",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-101",
+  "pick": "Enkidu",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-102",
+  "pick": "Stanisław Lem",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-103",
+  "pick": "Mirza Ghalib",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-104",
+  "pick": "Kingsley Amis",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-105",
+  "pick": "Jerome K. Jerome",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-106",
+  "pick": "The Sorrows of Young Werther",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-107",
+  "pick": "Matthew Arnold",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-108",
+  "pick": "Petrarch",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-109",
+  "pick": "Aristophanes",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-110",
+  "pick": "Pedro Calderón de la Barca",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-111",
+  "pick": "Taira and Minamoto",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-112",
+  "pick": "Leo Tolstoy",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-113",
+  "pick": "Leopold Bloom",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-114",
+  "pick": "Christina Rossetti",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-115",
+  "pick": "Aimé Césaire",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-116",
+  "pick": "Laura Ingalls Wilder",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-117",
+  "pick": "Michael Ondaatje",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-118",
+  "pick": "Charlotte Brontë",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-119",
+  "pick": "Herman Melville",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-120",
+  "pick": "D. H. Lawrence",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-121",
+  "pick": "Sadegh Hedayat",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-122",
+  "pick": "A Tale of Two Cities",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-123",
+  "pick": "Amos Oz",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-124",
+  "pick": "Cao Xueqin",
+  "confidence": "high",
+  "problem": "authorship of the final 40 chapters is disputed (Gao E), though Cao Xueqin is the standard attribution"
+ },
+ {
+  "id": "hard-lit-125",
+  "pick": "Yevgeny Zamyatin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-126",
+  "pick": "Edmund Spenser",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-127",
+  "pick": "Luís de Camões",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-128",
+  "pick": "Henryk Sienkiewicz",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-129",
+  "pick": "Ted Hughes",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-130",
+  "pick": "Plautus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-131",
+  "pick": "Ivan Goncharov",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-132",
+  "pick": "Northanger Abbey",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-133",
+  "pick": "Mali Empire",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-134",
+  "pick": "William Makepeace Thackeray",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-135",
+  "pick": "Simone de Beauvoir",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-136",
+  "pick": "Frank Herbert",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-137",
+  "pick": "Jia Baoyu",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-138",
+  "pick": "Luigi Pirandello",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-139",
+  "pick": "Yann Martel",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-140",
+  "pick": "E. Nesbit",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-141",
+  "pick": "Andromache",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-142",
+  "pick": "Alaa Al Aswany",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-143",
+  "pick": "Jean-Paul Sartre",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-144",
+  "pick": "Stendhal",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-145",
+  "pick": "Zora Neale Hurston",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-146",
+  "pick": "Augustine of Hippo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-147",
+  "pick": "Roncevaux",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-148",
+  "pick": "William Congreve",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-149",
+  "pick": "Tayeb Salih",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-150",
+  "pick": "Mansfield Park",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-151",
+  "pick": "Bazarov",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-152",
+  "pick": "Anthony Burgess",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-153",
+  "pick": "Sylvia Plath",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-154",
+  "pick": "José Saramago",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-155",
+  "pick": "Ghassan Kanafani",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-156",
+  "pick": "Witold Gombrowicz",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-157",
+  "pick": "Saadi",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-158",
+  "pick": "Robert Louis Stevenson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-159",
+  "pick": "Arthur Ransome",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-160",
+  "pick": "Mikhail Lermontov",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-161",
+  "pick": "Christopher Marlowe",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-162",
+  "pick": "Carlos Fuentes",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-163",
+  "pick": "Winston Churchill",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-164",
+  "pick": "Isaac Bashevis Singer",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-165",
+  "pick": "Edith Wharton",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-166",
+  "pick": "Count Vronsky",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-167",
+  "pick": "Aeschylus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-168",
+  "pick": "Lucan",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-169",
+  "pick": "Ezra Pound",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-170",
+  "pick": "Hermann Hesse",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-171",
+  "pick": "Choderlos de Laclos",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-172",
+  "pick": "E. M. Forster",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-173",
+  "pick": "Beatrice",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-174",
+  "pick": "Ivo Andrić",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-175",
+  "pick": "Snorri Sturluson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-176",
+  "pick": "Yasunari Kawabata",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-177",
+  "pick": "Pindar",
+  "confidence": "high",
+  "problem": "Simonides also wrote epinician odes, but Pindar is the canonical answer"
+ },
+ {
+  "id": "hard-lit-178",
+  "pick": "Boethius",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-179",
+  "pick": "Edogawa Rampo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-180",
+  "pick": "William Gibson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-181",
+  "pick": "Gabriel García Márquez",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-182",
+  "pick": "Rostam",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-183",
+  "pick": "Osamu Dazai",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-184",
+  "pick": "Thomas Kyd",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-185",
+  "pick": "Jean Rhys",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-186",
+  "pick": "Michel de Montaigne",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-187",
+  "pick": "Anne Brontë",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-188",
+  "pick": "Natsume Sōseki",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-189",
+  "pick": "Jun'ichirō Tanizaki",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-190",
+  "pick": "Percy Bysshe Shelley",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-191",
+  "pick": "Siegfried",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-192",
+  "pick": "Marguerite Yourcenar",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-193",
+  "pick": "Thomas Pynchon",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-194",
+  "pick": "Dario Fo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-195",
+  "pick": "Selma Lagerlöf",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-196",
+  "pick": "Lakshmana",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-197",
+  "pick": "Ursula K. Le Guin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-198",
+  "pick": "Tsitsi Dangarembga",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-199",
+  "pick": "Alfred Döblin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-200",
+  "pick": "Elias Lönnrot",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-201",
+  "pick": "Du Fu",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-202",
+  "pick": "Raskolnikov",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-203",
+  "pick": "Selma Lagerlöf",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-204",
+  "pick": "Far from the Madding Crowd",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-205",
+  "pick": "C. P. Cavafy",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-206",
+  "pick": "Bede",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-207",
+  "pick": "Mario Vargas Llosa",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-208",
+  "pick": "Lord Byron",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-209",
+  "pick": "Juvenal",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-210",
+  "pick": "Orhan Pamuk",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-211",
+  "pick": "Eleanor H. Porter",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-212",
+  "pick": "Eça de Queirós",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-213",
+  "pick": "Hesiod",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-214",
+  "pick": "Richard Adams",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-215",
+  "pick": "Three Sisters",
+  "confidence": "high",
+  "problem": "prompt nearly gives away the answer (three named sisters)"
+ },
+ {
+  "id": "hard-lit-216",
+  "pick": "Edmond Rostand",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-217",
+  "pick": "Petronius",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-218",
+  "pick": "Apollonius of Rhodes",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-219",
+  "pick": "Kalidasa",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-220",
+  "pick": "Gabriel García Márquez",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-221",
+  "pick": "Philip Larkin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-222",
+  "pick": "Oliver Goldsmith",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-223",
+  "pick": "Jean Racine",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-224",
+  "pick": "Ba Jin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-225",
+  "pick": "The Comedy of Errors",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-226",
+  "pick": "Thomas Gray",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-227",
+  "pick": "Sinclair Lewis",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-228",
+  "pick": "Ngũgĩ wa Thiong'o",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-229",
+  "pick": "Karen Blixen",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-230",
+  "pick": "Theocritus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-231",
+  "pick": "Evelyn Waugh",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-232",
+  "pick": "Fernando Pessoa",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-233",
+  "pick": "Ben Jonson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-234",
+  "pick": "Persuasion",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-235",
+  "pick": "P. L. Travers",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-236",
+  "pick": "Ibn Tufayl",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-237",
+  "pick": "Naguib Mahfouz",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-238",
+  "pick": "Priam",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-239",
+  "pick": "Hilary Mantel",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-240",
+  "pick": "Apuleius",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-241",
+  "pick": "Vladimir Nabokov",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-242",
+  "pick": "Doris Lessing",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-243",
+  "pick": "Arjuna",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-244",
+  "pick": "Richard Wright",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-245",
+  "pick": "Jean de La Fontaine",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-246",
+  "pick": "Sigrid Undset",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-247",
+  "pick": "Telemachus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-248",
+  "pick": "Bertolt Brecht",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-249",
+  "pick": "Matsuo Bashō",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-250",
+  "pick": "Thiruvalluvar",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-251",
+  "pick": "John Kennedy Toole",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-252",
+  "pick": "Pierre Corneille",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-253",
+  "pick": "Kazuo Ishiguro",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-254",
+  "pick": "Mariama Bâ",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-255",
+  "pick": "John McCrae",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-256",
+  "pick": "Elizabeth Gaskell",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-257",
+  "pick": "Plutarch",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-258",
+  "pick": "J. M. Synge",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-259",
+  "pick": "Willa Cather",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-260",
+  "pick": "Friedrich Schiller",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-261",
+  "pick": "Pandavas and Kauravas",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-262",
+  "pick": "Edgar Lee Masters",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-263",
+  "pick": "Salman Rushdie",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-264",
+  "pick": "Amos Tutuola",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-265",
+  "pick": "Chrétien de Troyes",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-266",
+  "pick": "Wilkie Collins",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-267",
+  "pick": "The Mystery of Edwin Drood",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-268",
+  "pick": "Buchi Emecheta",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-269",
+  "pick": "Samuel Richardson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-270",
+  "pick": "Sean O'Casey",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-271",
+  "pick": "Kōbō Abe",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-272",
+  "pick": "Alfred Tennyson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-273",
+  "pick": "Françoise Sagan",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-274",
+  "pick": "Rainer Maria Rilke",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-275",
+  "pick": "Njáls saga",
+  "confidence": "high",
+  "problem": "prompt nearly gives away the answer (Njáll named in prompt)"
+ },
+ {
+  "id": "hard-lit-276",
+  "pick": "Milan Kundera",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-277",
+  "pick": "Italo Svevo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-278",
+  "pick": "Søren Kierkegaard",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-279",
+  "pick": "J. M. Coetzee",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-280",
+  "pick": "Nine",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-281",
+  "pick": "Wallace Stevens",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-282",
+  "pick": "Mario Vargas Llosa",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-283",
+  "pick": "Elfriede Jelinek",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-284",
+  "pick": "Yaşar Kemal",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-285",
+  "pick": "Octavio Paz",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-286",
+  "pick": "La Comédie humaine",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-287",
+  "pick": "Liangshan Marsh",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-288",
+  "pick": "Émile Zola",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-289",
+  "pick": "Measure for Measure",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-290",
+  "pick": "Colette",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-291",
+  "pick": "Zhu Bajie",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-292",
+  "pick": "Federico García Lorca",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-293",
+  "pick": "Carl Sandburg",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-294",
+  "pick": "André Malraux",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-295",
+  "pick": "Laurence Sterne",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-296",
+  "pick": "Andrew Marvell",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-297",
+  "pick": "Hermann Hesse",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-298",
+  "pick": "Tulsidas",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-299",
+  "pick": "Jean Genet",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-300",
+  "pick": "Richard Brinsley Sheridan",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-301",
+  "pick": "Horace Walpole",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-302",
+  "pick": "Thomas Mann",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-303",
+  "pick": "François Rabelais",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-304",
+  "pick": "Man'yōshū",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-305",
+  "pick": "Kate Chopin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-306",
+  "pick": "Louis-Ferdinand Céline",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-307",
+  "pick": "Samuel Beckett",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-308",
+  "pick": "Cú Chulainn",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-309",
+  "pick": "Franz Kafka",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-310",
+  "pick": "Eugene O'Neill",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-311",
+  "pick": "Arthur Rimbaud",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-312",
+  "pick": "Les Rougon-Macquart",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-313",
+  "pick": "Antony and Cleopatra",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-314",
+  "pick": "Machado de Assis",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hard-lit-315",
+  "pick": "Euripides",
+  "confidence": "high",
+  "problem": null
+ }
+]

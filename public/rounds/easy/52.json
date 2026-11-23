@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 52,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-110",
+     "prompt": "7 × 9",
+     "answer": 63,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-274",
+     "prompt": "31 + 2",
+     "answer": 33,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-275",
+     "prompt": "1 + 4",
+     "answer": 5,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-270",
+     "prompt": "Before phone maps, travelers used what?",
+     "choices": [
+      "Video games",
+      "Radios",
+      "Paper maps",
+      "Robots"
+     ],
+     "answer": "Paper maps",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-217",
+     "prompt": "A town crier shouted what in the streets?",
+     "choices": [
+      "Songs",
+      "The news",
+      "Recipes",
+      "Jokes"
+     ],
+     "answer": "The news",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-041",
+     "prompt": "Which Greek giant had only one eye?",
+     "choices": [
+      "Minotaur",
+      "Cyclops",
+      "Centaur",
+      "Griffin"
+     ],
+     "answer": "Cyclops",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-015",
+     "prompt": "What fruit did Snow White bite in the story?",
+     "choices": [
+      "A pear",
+      "An apple",
+      "A peach",
+      "A cherry"
+     ],
+     "answer": "An apple",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-270",
+     "prompt": "In which forest does Robin Hood live?",
+     "choices": [
+      "Black Forest",
+      "Hundred Acre Wood",
+      "Sherwood Forest",
+      "Fangorn"
+     ],
+     "answer": "Sherwood Forest",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-286",
+     "prompt": "What do we call a story about a person's life, written by that person?",
+     "choices": [
+      "A novel",
+      "A fable",
+      "An autobiography",
+      "A riddle"
+     ],
+     "answer": "An autobiography",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-188",
+     "prompt": "What do we call a drawing of a place from above?",
+     "choices": [
+      "Poem",
+      "Song",
+      "Puzzle",
+      "Map"
+     ],
+     "answer": "Map",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-136",
+     "prompt": "What is at the very center of Earth?",
+     "choices": [
+      "The crust",
+      "The sky",
+      "The core",
+      "The ocean"
+     ],
+     "answer": "The core",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-059",
+     "prompt": "How long does Earth take to spin around once?",
+     "choices": [
+      "One day",
+      "One year",
+      "One month",
+      "One hour"
+     ],
+     "answer": "One day",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-173",
+     "prompt": "Which big cat has orange fur with black stripes?",
+     "choices": [
+      "tiger",
+      "lion",
+      "leopard",
+      "cheetah"
+     ],
+     "answer": "tiger",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-001",
+     "prompt": "A baby goat is called a what?",
+     "choices": [
+      "kid",
+      "cub",
+      "pup",
+      "calf"
+     ],
+     "answer": "kid",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-070",
+     "prompt": "Pet dogs come from which wild animal?",
+     "choices": [
+      "bear",
+      "wolf",
+      "fox",
+      "tiger"
+     ],
+     "answer": "wolf",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

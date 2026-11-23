@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 35,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-049",
+     "prompt": "75% of 80",
+     "answer": 60,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-057",
+     "prompt": "12 × 10 − 6 × 6",
+     "answer": 84,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-238",
+     "prompt": "25% of 460",
+     "answer": 115,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-065",
+     "prompt": "Which Andean civilization built Puma Punku near Lake Titicaca?",
+     "choices": [
+      "Tiwanaku",
+      "Chavin",
+      "Nazca",
+      "Moche"
+     ],
+     "answer": "Tiwanaku",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-007",
+     "prompt": "Which Portuguese prince sponsored the 15th-century voyages down the West African coast?",
+     "choices": [
+      "Afonso V",
+      "Manuel I",
+      "Henry the Navigator",
+      "John II"
+     ],
+     "answer": "Henry the Navigator",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-107",
+     "prompt": "Which German physicist proposed quantum theory in 1900?",
+     "choices": [
+      "Erwin Schrodinger",
+      "Max Born",
+      "Max Planck",
+      "Werner Heisenberg"
+     ],
+     "answer": "Max Planck",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-241",
+     "prompt": "Which Russian-born author wrote Pale Fire?",
+     "choices": [
+      "Yevgeny Zamyatin",
+      "Ivan Bunin",
+      "Isaac Babel",
+      "Vladimir Nabokov"
+     ],
+     "answer": "Vladimir Nabokov",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-289",
+     "prompt": "Which Shakespeare play features the deputy Angelo and the Duke Vincentio?",
+     "choices": [
+      "Measure for Measure",
+      "Cymbeline",
+      "All's Well That Ends Well",
+      "Timon of Athens"
+     ],
+     "answer": "Measure for Measure",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-055",
+     "prompt": "Who wrote Cousin Bette and Père Goriot?",
+     "choices": [
+      "Gustave Flaubert",
+      "Stendhal",
+      "Émile Zola",
+      "Honoré de Balzac"
+     ],
+     "answer": "Honoré de Balzac",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-035",
+     "prompt": "Chromite is the principal ore of which metal?",
+     "choices": [
+      "Cobalt",
+      "Manganese",
+      "Chromium",
+      "Vanadium"
+     ],
+     "answer": "Chromium",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-115",
+     "prompt": "A down-dropped block bounded by normal faults is called a what?",
+     "choices": [
+      "Anticline",
+      "Horst",
+      "Klippe",
+      "Graben"
+     ],
+     "answer": "Graben",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-080",
+     "prompt": "The Tethys Ocean once lay between which two landmasses?",
+     "choices": [
+      "Laurentia and Baltica",
+      "Laurasia and Gondwana",
+      "Africa and South America",
+      "Asia and Australia"
+     ],
+     "answer": "Laurasia and Gondwana",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-178",
+     "prompt": "In The Human Condition, Arendt distinguishes labor, work and what?",
+     "choices": [
+      "Contemplation",
+      "Thought",
+      "Leisure",
+      "Action"
+     ],
+     "answer": "Action",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-201",
+     "prompt": "Which philosopher coined consequentialism in her 1958 essay Modern Moral Philosophy?",
+     "choices": [
+      "Mary Midgley",
+      "Iris Murdoch",
+      "G. E. M. Anscombe",
+      "Philippa Foot"
+     ],
+     "answer": "G. E. M. Anscombe",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-004",
+     "prompt": "Which friend of Pericles was prosecuted at Athens for impiety over claims about the sun?",
+     "choices": [
+      "Anaximander",
+      "Empedocles",
+      "Anaxagoras",
+      "Democritus"
+     ],
+     "answer": "Anaxagoras",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

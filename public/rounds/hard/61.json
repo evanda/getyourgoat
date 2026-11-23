@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 61,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-036",
+     "prompt": "10% of 780",
+     "answer": 78,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-270",
+     "prompt": "25% of 700",
+     "answer": 175,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-096",
+     "prompt": "18 × 14",
+     "answer": 252,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-109",
+     "prompt": "Which Ottoman victory in 1526 destroyed the Hungarian army?",
+     "choices": [
+      "Mohacs",
+      "Varna",
+      "Kosovo",
+      "Nicopolis"
+     ],
+     "answer": "Mohacs",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-020",
+     "prompt": "Which 1805 Napoleonic victory was nicknamed the Battle of the Three Emperors?",
+     "choices": [
+      "Jena",
+      "Wagram",
+      "Borodino",
+      "Austerlitz"
+     ],
+     "answer": "Austerlitz",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-202",
+     "prompt": "Which Persian king created satrapies and the Royal Road?",
+     "choices": [
+      "Artaxerxes I",
+      "Darius I",
+      "Cambyses II",
+      "Xerxes I"
+     ],
+     "answer": "Darius I",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-117",
+     "prompt": "Who won the Booker Prize for The English Patient?",
+     "choices": [
+      "Rohinton Mistry",
+      "Kazuo Ishiguro",
+      "Peter Carey",
+      "Michael Ondaatje"
+     ],
+     "answer": "Michael Ondaatje",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-076",
+     "prompt": "Who wrote the mock-epic poem The Rape of the Lock?",
+     "choices": [
+      "Samuel Johnson",
+      "Jonathan Swift",
+      "Alexander Pope",
+      "John Dryden"
+     ],
+     "answer": "Alexander Pope",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-187",
+     "prompt": "Who wrote The Tenant of Wildfell Hall?",
+     "choices": [
+      "Charlotte Brontë",
+      "Anne Brontë",
+      "Emily Brontë",
+      "Elizabeth Gaskell"
+     ],
+     "answer": "Anne Brontë",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-059",
+     "prompt": "Which dark, poorly sorted sandstone is rich in clay and rock fragments?",
+     "choices": [
+      "Greywacke",
+      "Arkose",
+      "Orthoquartzite",
+      "Quartz arenite"
+     ],
+     "answer": "Greywacke",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-086",
+     "prompt": "Which plate is subducting beneath western South America?",
+     "choices": [
+      "Scotia",
+      "Nazca",
+      "Cocos",
+      "Caribbean"
+     ],
+     "answer": "Nazca",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-261",
+     "prompt": "Which soil order is made mostly of organic matter, as in peat bogs?",
+     "choices": [
+      "Alfisol",
+      "Histosol",
+      "Inceptisol",
+      "Entisol"
+     ],
+     "answer": "Histosol",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-034",
+     "prompt": "Which Cynic from Gadara lent his name to a style of satire?",
+     "choices": [
+      "Crates",
+      "Antisthenes",
+      "Menippus",
+      "Bion"
+     ],
+     "answer": "Menippus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-102",
+     "prompt": "What term names Spinoza's idea that each thing strives to persevere in its being?",
+     "choices": [
+      "Haecceity",
+      "Entelechy",
+      "Telos",
+      "Conatus"
+     ],
+     "answer": "Conatus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-129",
+     "prompt": "Which 1757 treatise by Edmund Burke explored the sublime and the beautiful?",
+     "choices": [
+      "An Appeal from the New to the Old Whigs",
+      "Letters on a Regicide Peace",
+      "A Philosophical Enquiry",
+      "A Vindication of Natural Society"
+     ],
+     "answer": "A Philosophical Enquiry",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

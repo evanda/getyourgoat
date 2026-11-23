@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 66,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-131",
+     "prompt": "26 − 5",
+     "answer": 21,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-104",
+     "prompt": "18 − 2",
+     "answer": 16,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-204",
+     "prompt": "10 − 2",
+     "answer": 8,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-062",
+     "prompt": "What did Roman builders mix to make strong buildings?",
+     "choices": [
+      "Plastic",
+      "Paper",
+      "Concrete",
+      "Ice"
+     ],
+     "answer": "Concrete",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-314",
+     "prompt": "Christopher Columbus was born in which country?",
+     "choices": [
+      "Spain",
+      "Egypt",
+      "Italy",
+      "Canada"
+     ],
+     "answer": "Italy",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-288",
+     "prompt": "The Egyptians said the sun god Ra crossed the sky in a what?",
+     "choices": [
+      "Boat",
+      "Car",
+      "Rocket",
+      "Wagon"
+     ],
+     "answer": "Boat",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-210",
+     "prompt": "Who is the main character in Anne of Green Gables?",
+     "choices": [
+      "Anne Frank",
+      "Pippi",
+      "Anne Shirley",
+      "Heidi"
+     ],
+     "answer": "Anne Shirley",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-078",
+     "prompt": "What did the Town Mouse invite the Country Mouse to visit?",
+     "choices": [
+      "The sea",
+      "A castle",
+      "The city",
+      "A barn"
+     ],
+     "answer": "The city",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-275",
+     "prompt": "What do King Arthur's knights sit at?",
+     "choices": [
+      "A square table",
+      "A round table",
+      "A long bench",
+      "A stone bench"
+     ],
+     "answer": "A round table",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-046",
+     "prompt": "What do we use an umbrella for on a rainy day?",
+     "choices": [
+      "To stay cool",
+      "To see far",
+      "To stay dry",
+      "To hear well"
+     ],
+     "answer": "To stay dry",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-145",
+     "prompt": "Which ocean is called the \"Ring of Fire\" because of its many volcanoes?",
+     "choices": [
+      "Pacific",
+      "Atlantic",
+      "Indian",
+      "Arctic"
+     ],
+     "answer": "Pacific",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-229",
+     "prompt": "Which river flows through Egypt?",
+     "choices": [
+      "Amazon",
+      "Nile",
+      "Thames",
+      "Seine"
+     ],
+     "answer": "Nile",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-219",
+     "prompt": "In seahorses, which parent carries the babies?",
+     "choices": [
+      "mom",
+      "grandma",
+      "dad",
+      "baby sister"
+     ],
+     "answer": "dad",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-128",
+     "prompt": "Spiders belong to a group called what?",
+     "choices": [
+      "insects",
+      "reptiles",
+      "mammals",
+      "arachnids"
+     ],
+     "answer": "arachnids",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-102",
+     "prompt": "Fish live in what?",
+     "choices": [
+      "trees",
+      "water",
+      "sand",
+      "caves"
+     ],
+     "answer": "water",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

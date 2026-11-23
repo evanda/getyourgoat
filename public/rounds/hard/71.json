@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 71,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-109",
+     "prompt": "476 ÷ 14",
+     "answer": 34,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-052",
+     "prompt": "17²",
+     "answer": 289,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-026",
+     "prompt": "20% of 360",
+     "answer": 72,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-187",
+     "prompt": "Which 1914 battle halted the German advance on Paris?",
+     "choices": [
+      "Tannenberg",
+      "Ypres",
+      "First Marne",
+      "Verdun"
+     ],
+     "answer": "First Marne",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-025",
+     "prompt": "Which 1707 act united the kingdoms of England and Scotland?",
+     "choices": [
+      "Acts of Union",
+      "Bill of Rights",
+      "Habeas Corpus Act",
+      "Act of Settlement"
+     ],
+     "answer": "Acts of Union",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-218",
+     "prompt": "Which 1648 settlement ended the Thirty Years' War?",
+     "choices": [
+      "Treaty of Paris",
+      "Peace of Westphalia",
+      "Peace of Augsburg",
+      "Treaty of Utrecht"
+     ],
+     "answer": "Peace of Westphalia",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-129",
+     "prompt": "Who wrote the poetry collection Birthday Letters?",
+     "choices": [
+      "Seamus Heaney",
+      "Thom Gunn",
+      "Ted Hughes",
+      "Philip Larkin"
+     ],
+     "answer": "Ted Hughes",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-197",
+     "prompt": "Who wrote the science fiction novel The Left Hand of Darkness?",
+     "choices": [
+      "Margaret Atwood",
+      "Joanna Russ",
+      "Octavia Butler",
+      "Ursula K. Le Guin"
+     ],
+     "answer": "Ursula K. Le Guin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-287",
+     "prompt": "Where do the 108 outlaws gather in Water Margin?",
+     "choices": [
+      "Liangshan Marsh",
+      "Shaolin Temple",
+      "Mount Hua",
+      "Wudang Mountain"
+     ],
+     "answer": "Liangshan Marsh",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-135",
+     "prompt": "Which Precambrian period is associated with \"Snowball Earth\" glaciations?",
+     "choices": [
+      "Ediacaran",
+      "Stenian",
+      "Cryogenian",
+      "Siderian"
+     ],
+     "answer": "Cryogenian",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-215",
+     "prompt": "Who created the widely used climate classification system in 1900?",
+     "choices": [
+      "Charles Thornthwaite",
+      "Wladimir Koppen",
+      "Alfred Wegener",
+      "Vilhelm Bjerknes"
+     ],
+     "answer": "Wladimir Koppen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-315",
+     "prompt": "Large, low-grade copper deposits associated with intrusions are called what?",
+     "choices": [
+      "Evaporite deposits",
+      "Porphyry deposits",
+      "Laterite deposits",
+      "Placer deposits"
+     ],
+     "answer": "Porphyry deposits",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-172",
+     "prompt": "Which philosopher wrote Creative Evolution and the notion of the elan vital?",
+     "choices": [
+      "Henri Bergson",
+      "Emile Boutroux",
+      "Maurice Blondel",
+      "Gabriel Marcel"
+     ],
+     "answer": "Henri Bergson",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-302",
+     "prompt": "Which woman challenged Yajnavalkya in the Brihadaranyaka Upanishad?",
+     "choices": [
+      "Gargi",
+      "Ghosha",
+      "Maitreyi",
+      "Lopamudra"
+     ],
+     "answer": "Gargi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-118",
+     "prompt": "Which philosopher distinguished relations of ideas from matters of fact in a famous 'fork'?",
+     "choices": [
+      "George Berkeley",
+      "David Hume",
+      "John Locke",
+      "Thomas Reid"
+     ],
+     "answer": "David Hume",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

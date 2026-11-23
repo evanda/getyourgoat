@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 85,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-105",
+     "prompt": "45²",
+     "answer": 2025,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-205",
+     "prompt": "23 × 12",
+     "answer": 276,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-140",
+     "prompt": "603 − 174",
+     "answer": 429,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-245",
+     "prompt": "Which emperor's reign began with the 1868 Restoration in Japan?",
+     "choices": [
+      "Meiji",
+      "Komei",
+      "Taisho",
+      "Showa"
+     ],
+     "answer": "Meiji",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-016",
+     "prompt": "Which 1940 air battle between the RAF and Luftwaffe was fought over southern England?",
+     "choices": [
+      "Operation Sea Lion",
+      "Operation Barbarossa",
+      "Operation Overlord",
+      "Battle of Britain"
+     ],
+     "answer": "Battle of Britain",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-063",
+     "prompt": "Which Javanese prince led the 1825-30 war against the Dutch?",
+     "choices": [
+      "Sukarno",
+      "Hasanuddin",
+      "Diponegoro",
+      "Raden Ajeng Kartini"
+     ],
+     "answer": "Diponegoro",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-100",
+     "prompt": "Who wrote the novel The Last of the Mohicans?",
+     "choices": [
+      "James Fenimore Cooper",
+      "Herman Melville",
+      "Washington Irving",
+      "Nathaniel Hawthorne"
+     ],
+     "answer": "James Fenimore Cooper",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-261",
+     "prompt": "In the Mahabharata, which two families fight at Kurukshetra?",
+     "choices": [
+      "Pandavas and Kauravas",
+      "Yadavas and Cholas",
+      "Sutas and Pallavas",
+      "Rakshasas and Vanaras"
+     ],
+     "answer": "Pandavas and Kauravas",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-235",
+     "prompt": "Who wrote the children's books Mary Poppins?",
+     "choices": [
+      "P. L. Travers",
+      "Hugh Lofting",
+      "E. Nesbit",
+      "Mary Norton"
+     ],
+     "answer": "P. L. Travers",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-031",
+     "prompt": "The oldest dated mineral grains on Earth, zircons about 4.4 billion years old, come from which country?",
+     "choices": [
+      "South Africa",
+      "Canada",
+      "Greenland",
+      "Australia"
+     ],
+     "answer": "Australia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-121",
+     "prompt": "Who wrote \"Principles of Geology\" in 1830?",
+     "choices": [
+      "Charles Lyell",
+      "Louis Agassiz",
+      "Roderick Murchison",
+      "James Hutton"
+     ],
+     "answer": "Charles Lyell",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-014",
+     "prompt": "Peridot is the gem variety of which mineral?",
+     "choices": [
+      "Garnet",
+      "Zircon",
+      "Olivine",
+      "Pyroxene"
+     ],
+     "answer": "Olivine",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-182",
+     "prompt": "Which Swiss linguist's course distinguished the signifier from the signified?",
+     "choices": [
+      "Roman Jakobson",
+      "Noam Chomsky",
+      "Claude Levi-Strauss",
+      "Ferdinand de Saussure"
+     ],
+     "answer": "Ferdinand de Saussure",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-031",
+     "prompt": "Which Socratic founded the Megarian school?",
+     "choices": [
+      "Simmias",
+      "Antisthenes",
+      "Aristippus",
+      "Euclides of Megara"
+     ],
+     "answer": "Euclides of Megara",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-090",
+     "prompt": "Which Renaissance humanist wrote the Oration on the Dignity of Man?",
+     "choices": [
+      "Marsilio Ficino",
+      "Petrarch",
+      "Pico della Mirandola",
+      "Lorenzo Valla"
+     ],
+     "answer": "Pico della Mirandola",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 79,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-173",
+     "prompt": "10 − 7",
+     "answer": 3,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-077",
+     "prompt": "70 ÷ 10",
+     "answer": 7,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-066",
+     "prompt": "14 + 8",
+     "answer": 22,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-252",
+     "prompt": "Scientists who study dinosaur fossils are called what?",
+     "choices": [
+      "Paleontologists",
+      "Pharmacists",
+      "Pilots",
+      "Painters"
+     ],
+     "answer": "Paleontologists",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-148",
+     "prompt": "The first people to fly rode in a what?",
+     "choices": [
+      "Hot air balloon",
+      "Jet",
+      "Rocket",
+      "Helicopter"
+     ],
+     "answer": "Hot air balloon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-075",
+     "prompt": "The old palace of China's emperors is the Forbidden what?",
+     "choices": [
+      "Garden",
+      "Island",
+      "Cave",
+      "City"
+     ],
+     "answer": "City",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-119",
+     "prompt": "What is the Whos' town called in Horton Hears a Who!?",
+     "choices": [
+      "Hooville",
+      "Whoville",
+      "Seussville",
+      "Wooville"
+     ],
+     "answer": "Whoville",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-045",
+     "prompt": "What did the Three Billy Goats Gruff need to cross?",
+     "choices": [
+      "A river by boat",
+      "A hill",
+      "A fence",
+      "A bridge"
+     ],
+     "answer": "A bridge",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-261",
+     "prompt": "Who is the trickster god in Norse tales?",
+     "choices": [
+      "Thor",
+      "Odin",
+      "Tyr",
+      "Loki"
+     ],
+     "answer": "Loki",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-031",
+     "prompt": "What do we call a big snowstorm with strong wind?",
+     "choices": [
+      "Drizzle",
+      "Blizzard",
+      "Breeze",
+      "Fog"
+     ],
+     "answer": "Blizzard",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-252",
+     "prompt": "What is Earth's moon made of mostly?",
+     "choices": [
+      "Cheese",
+      "Ice cream",
+      "Water",
+      "Rock"
+     ],
+     "answer": "Rock",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-015",
+     "prompt": "What tool measures how fast the wind blows?",
+     "choices": [
+      "Barometer",
+      "Anemometer",
+      "Compass",
+      "Telescope"
+     ],
+     "answer": "Anemometer",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-300",
+     "prompt": "Which animal has a hump, and is called the ship of the desert?",
+     "choices": [
+      "horse",
+      "cow",
+      "goat",
+      "camel"
+     ],
+     "answer": "camel",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-285",
+     "prompt": "How many legs does a horse have?",
+     "choices": [
+      "4",
+      "2",
+      "6",
+      "8"
+     ],
+     "answer": "4",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-134",
+     "prompt": "Fish breathe underwater using what?",
+     "choices": [
+      "lungs",
+      "gills",
+      "wings",
+      "horns"
+     ],
+     "answer": "gills",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 34,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-130",
+     "prompt": "7 − 1",
+     "answer": 6,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-021",
+     "prompt": "9 − 7",
+     "answer": 2,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-109",
+     "prompt": "5 + 8",
+     "answer": 13,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-304",
+     "prompt": "Which invention lets you see tiny things up close?",
+     "choices": [
+      "Microscope",
+      "Telescope",
+      "Compass",
+      "Calendar"
+     ],
+     "answer": "Microscope",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-059",
+     "prompt": "What did ancient Romans build to wash and relax in?",
+     "choices": [
+      "Ski slopes",
+      "Theme parks",
+      "Airports",
+      "Public baths"
+     ],
+     "answer": "Public baths",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-146",
+     "prompt": "Who built and flew the first airplane in 1903?",
+     "choices": [
+      "Lewis and Clark",
+      "The Marx Brothers",
+      "The Wright brothers",
+      "The Mario Brothers"
+     ],
+     "answer": "The Wright brothers",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-301",
+     "prompt": "What did Cinderella lose on the palace stairs?",
+     "choices": [
+      "A bracelet",
+      "A crown",
+      "A necklace",
+      "A glass slipper"
+     ],
+     "answer": "A glass slipper",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-024",
+     "prompt": "What did the Ugly Duckling grow up to be?",
+     "choices": [
+      "A swan",
+      "A goose",
+      "A hen",
+      "A duck"
+     ],
+     "answer": "A swan",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-186",
+     "prompt": "Who is the bear in The Jungle Book?",
+     "choices": [
+      "Paddington",
+      "Pooh",
+      "Baloo",
+      "Bagheera"
+     ],
+     "answer": "Baloo",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-271",
+     "prompt": "What do we call a place where garbage is buried?",
+     "choices": [
+      "Reef",
+      "Landfill",
+      "Glacier",
+      "Canyon"
+     ],
+     "answer": "Landfill",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-261",
+     "prompt": "What is the name of a space vehicle that has rolled on Mars to explore?",
+     "choices": [
+      "Tractor",
+      "Rover",
+      "Bus",
+      "Skateboard"
+     ],
+     "answer": "Rover",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-308",
+     "prompt": "Which weather brings lots of white flakes and cold?",
+     "choices": [
+      "Heat wave",
+      "Snowfall",
+      "Sandstorm",
+      "Sunshine"
+     ],
+     "answer": "Snowfall",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-193",
+     "prompt": "What grows on top of many goats' heads?",
+     "choices": [
+      "horns",
+      "antlers",
+      "wings",
+      "feathers"
+     ],
+     "answer": "horns",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-115",
+     "prompt": "Ring-tailed lemurs live on which island country?",
+     "choices": [
+      "Iceland",
+      "Cuba",
+      "Madagascar",
+      "Ireland"
+     ],
+     "answer": "Madagascar",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-085",
+     "prompt": "An animal that eats only plants is a what?",
+     "choices": [
+      "herbivore",
+      "carnivore",
+      "omnivore",
+      "insectivore"
+     ],
+     "answer": "herbivore",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

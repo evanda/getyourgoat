@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 101,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-087",
+     "prompt": "11 × 15 − 8 × 9",
+     "answer": 93,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-231",
+     "prompt": "213 × 4",
+     "answer": 852,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-108",
+     "prompt": "15 × 15 − 12 × 10",
+     "answer": 105,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-274",
+     "prompt": "Which Norse king was defeated at Stamford Bridge in 1066?",
+     "choices": [
+      "Sweyn Forkbeard",
+      "Harald Hardrada",
+      "Olaf Tryggvason",
+      "Cnut the Great"
+     ],
+     "answer": "Harald Hardrada",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-270",
+     "prompt": "Which Japanese city was hit by the second atomic bomb, in 1945?",
+     "choices": [
+      "Kokura",
+      "Nagasaki",
+      "Kyoto",
+      "Osaka"
+     ],
+     "answer": "Nagasaki",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-144",
+     "prompt": "Which Han emperor sent Zhang Qian west to Central Asia?",
+     "choices": [
+      "Emperor Wen",
+      "Emperor Guangwu",
+      "Emperor Gaozu",
+      "Emperor Wu"
+     ],
+     "answer": "Emperor Wu",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-097",
+     "prompt": "Which Dickens novel features the lawsuit Jarndyce and Jarndyce?",
+     "choices": [
+      "Bleak House",
+      "Little Dorrit",
+      "Hard Times",
+      "Our Mutual Friend"
+     ],
+     "answer": "Bleak House",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-111",
+     "prompt": "The Tale of the Heike recounts a war between which two clans?",
+     "choices": [
+      "Satsuma and Chōshū",
+      "Oda and Toyotomi",
+      "Taira and Minamoto",
+      "Fujiwara and Soga"
+     ],
+     "answer": "Taira and Minamoto",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-075",
+     "prompt": "Who wrote the Urdu poem \"Sare Jahan Se Accha\"?",
+     "choices": [
+      "Mir Taqi Mir",
+      "Faiz Ahmed Faiz",
+      "Mirza Ghalib",
+      "Muhammad Iqbal"
+     ],
+     "answer": "Muhammad Iqbal",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-075",
+     "prompt": "Which American geologist proposed seafloor spreading in the early 1960s?",
+     "choices": [
+      "Bruce Heezen",
+      "Maurice Ewing",
+      "Harry Hess",
+      "Tuzo Wilson"
+     ],
+     "answer": "Harry Hess",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-266",
+     "prompt": "A dry desert stream bed that floods briefly is called what in Arabia and North Africa?",
+     "choices": [
+      "Playa",
+      "Reg",
+      "Wadi",
+      "Erg"
+     ],
+     "answer": "Wadi",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-312",
+     "prompt": "Salar de Uyuni, the largest salt flat, holds large reserves of which element?",
+     "choices": [
+      "Lithium",
+      "Potassium",
+      "Cobalt",
+      "Nickel"
+     ],
+     "answer": "Lithium",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-022",
+     "prompt": "Which dialogue is Plato's longest work?",
+     "choices": [
+      "Republic",
+      "Laws",
+      "Theaetetus",
+      "Timaeus"
+     ],
+     "answer": "Laws",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-131",
+     "prompt": "How many antinomies appear in Kant's Critique of Pure Reason?",
+     "choices": [
+      "Four",
+      "Two",
+      "Three",
+      "Six"
+     ],
+     "answer": "Four",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-002",
+     "prompt": "Which Presocratic explained change through the opposed forces Love and Strife?",
+     "choices": [
+      "Anaxagoras",
+      "Leucippus",
+      "Parmenides",
+      "Empedocles"
+     ],
+     "answer": "Empedocles",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

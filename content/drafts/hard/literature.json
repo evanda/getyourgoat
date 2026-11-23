@@ -396,7 +396,7 @@
    "Hafez",
    "Nizami Ganjavi",
    "Attar of Nishapur",
-   "Saadi"
+   "Rumi"
   ],
   "answer": "Hafez",
   "difficulty": "easy",
@@ -560,7 +560,7 @@
  },
  {
   "id": "hard-lit-044",
-  "prompt": "Which Calvino novel is about a boy who lives in the trees?",
+  "prompt": "Which Calvino novel follows a young noble who vows never to set foot on the ground?",
   "choices": [
    "The Cloven Viscount",
    "Mr. Palomar",
@@ -785,7 +785,7 @@
   "choices": [
    "Ferdowsi",
    "Nizami Ganjavi",
-   "Jami",
+   "Rudaki",
    "Hafez"
   ],
   "answer": "Nizami Ganjavi",
@@ -1600,7 +1600,7 @@
  },
  {
   "id": "hard-lit-124",
-  "prompt": "Who wrote the 18th-century Chinese novel Dream of the Red Chamber?",
+  "prompt": "Who wrote the first 80 chapters of Dream of the Red Chamber?",
   "choices": [
    "Wu Jingzi",
    "Cao Xueqin",
@@ -2293,7 +2293,7 @@
   "choices": [
    "Pindar",
    "Alcaeus",
-   "Simonides",
+   "Anacreon",
    "Sappho"
   ],
   "answer": "Pindar",
@@ -3563,7 +3563,7 @@
  },
  {
   "id": "hard-lit-275",
-  "prompt": "Which Icelandic saga features the lawyer Njáll and his friend Gunnar?",
+  "prompt": "Which Icelandic saga ends with a wise lawyer burned in his own house?",
   "choices": [
    "Laxdæla saga",
    "Egils saga",

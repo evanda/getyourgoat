@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 73,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-134",
+     "prompt": "484 ÷ 11",
+     "answer": 44,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-177",
+     "prompt": "14 × 11 − 8 × 11",
+     "answer": 66,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-029",
+     "prompt": "51 × 34",
+     "answer": 1734,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-087",
+     "prompt": "Which 1939 pact between Germany and the USSR included secret protocols dividing Poland?",
+     "choices": [
+      "Pact of Steel",
+      "Anti-Comintern Pact",
+      "Molotov-Ribbentrop Pact",
+      "Tripartite Pact"
+     ],
+     "answer": "Molotov-Ribbentrop Pact",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-103",
+     "prompt": "Which Delhi Sultanate ruler moved his capital to Daulatabad in 1327?",
+     "choices": [
+      "Iltutmish",
+      "Firuz Shah Tughlaq",
+      "Muhammad bin Tughluq",
+      "Alauddin Khalji"
+     ],
+     "answer": "Muhammad bin Tughluq",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-269",
+     "prompt": "Which 1900 uprising in China targeted foreigners and was crushed by an eight-nation force?",
+     "choices": [
+      "Boxer Rebellion",
+      "Taiping Rebellion",
+      "Wuchang Uprising",
+      "Panthay Rebellion"
+     ],
+     "answer": "Boxer Rebellion",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-007",
+     "prompt": "Who wrote the novel Possession, which won the 1990 Booker Prize?",
+     "choices": [
+      "A. S. Byatt",
+      "Penelope Lively",
+      "Anita Brookner",
+      "Iris Murdoch"
+     ],
+     "answer": "A. S. Byatt",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-164",
+     "prompt": "Who wrote the story \"Gimpel the Fool\"?",
+     "choices": [
+      "Sholem Aleichem",
+      "Bernard Malamud",
+      "Isaac Bashevis Singer",
+      "Saul Bellow"
+     ],
+     "answer": "Isaac Bashevis Singer",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-131",
+     "prompt": "Who wrote the novel Oblomov?",
+     "choices": [
+      "Ivan Goncharov",
+      "Nikolai Leskov",
+      "Mikhail Saltykov-Shchedrin",
+      "Ivan Turgenev"
+     ],
+     "answer": "Ivan Goncharov",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-160",
+     "prompt": "An iridium-rich clay layer at the K-Pg boundary supported which hypothesis?",
+     "choices": [
+      "Ocean anoxia",
+      "Volcanic winter",
+      "Asteroid impact",
+      "Sea-level drop"
+     ],
+     "answer": "Asteroid impact",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-193",
+     "prompt": "Air forced up the slopes of a mountain produces which kind of lift?",
+     "choices": [
+      "Frontal",
+      "Convergent",
+      "Convective",
+      "Orographic"
+     ],
+     "answer": "Orographic",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-204",
+     "prompt": "St. Elmo's fire is a glow caused by what kind of discharge?",
+     "choices": [
+      "Leader",
+      "Arc",
+      "Spark",
+      "Corona"
+     ],
+     "answer": "Corona",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-087",
+     "prompt": "Which pope's 1879 encyclical Aeterni Patris urged study of Aquinas?",
+     "choices": [
+      "Benedict XV",
+      "Pius X",
+      "Leo XIII",
+      "Pius IX"
+     ],
+     "answer": "Leo XIII",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-028",
+     "prompt": "Which Academic skeptic argued for and against justice before Roman audiences in 155 BCE?",
+     "choices": [
+      "Carneades",
+      "Arcesilaus",
+      "Chrysippus",
+      "Panaetius"
+     ],
+     "answer": "Carneades",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-209",
+     "prompt": "Which philosopher's Twin Earth thought experiment shows meanings lie partly outside the head?",
+     "choices": [
+      "Hilary Putnam",
+      "John Searle",
+      "Saul Kripke",
+      "Donald Davidson"
+     ],
+     "answer": "Hilary Putnam",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

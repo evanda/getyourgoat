@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 40,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-053",
+     "prompt": "55²",
+     "answer": 3025,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-195",
+     "prompt": "50% of 720",
+     "answer": 360,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-035",
+     "prompt": "772 − 168",
+     "answer": 604,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-205",
+     "prompt": "Which 1884-85 conference set rules for the European partition of Africa?",
+     "choices": [
+      "Berlin Conference",
+      "Evian Conference",
+      "Congress of Vienna",
+      "Algeciras Conference"
+     ],
+     "answer": "Berlin Conference",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-115",
+     "prompt": "Which Mongol khan was Genghis Khan's son and successor as Great Khan?",
+     "choices": [
+      "Jochi",
+      "Chagatai",
+      "Ogedei",
+      "Tolui"
+     ],
+     "answer": "Ogedei",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-259",
+     "prompt": "Which leader returned from exile in 1979 to lead Iran's revolution?",
+     "choices": [
+      "Reza Pahlavi",
+      "Mohammad Mossadegh",
+      "Ayatollah Khomeini",
+      "Ali Khamenei"
+     ],
+     "answer": "Ayatollah Khomeini",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-209",
+     "prompt": "Which Roman satirist coined the phrase about \"bread and circuses\"?",
+     "choices": [
+      "Martial",
+      "Persius",
+      "Horace",
+      "Juvenal"
+     ],
+     "answer": "Juvenal",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-010",
+     "prompt": "Who wrote the poem \"The Pied Piper of Hamelin\"?",
+     "choices": [
+      "Alfred Tennyson",
+      "Matthew Arnold",
+      "Edward Lear",
+      "Robert Browning"
+     ],
+     "answer": "Robert Browning",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-160",
+     "prompt": "Who wrote A Hero of Our Time?",
+     "choices": [
+      "Nikolai Gogol",
+      "Alexander Pushkin",
+      "Ivan Turgenev",
+      "Mikhail Lermontov"
+     ],
+     "answer": "Mikhail Lermontov",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-197",
+     "prompt": "Which hot wind blows from the Sahara toward the Mediterranean?",
+     "choices": [
+      "Tramontane",
+      "Mistral",
+      "Sirocco",
+      "Bora"
+     ],
+     "answer": "Sirocco",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-138",
+     "prompt": "Which eon followed the Hadean?",
+     "choices": [
+      "Phanerozoic",
+      "Archean",
+      "Proterozoic",
+      "Cryptozoic"
+     ],
+     "answer": "Archean",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-043",
+     "prompt": "Which fine-grained extrusive rock is the volcanic equivalent of granite?",
+     "choices": [
+      "Dacite",
+      "Andesite",
+      "Rhyolite",
+      "Basalt"
+     ],
+     "answer": "Rhyolite",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-075",
+     "prompt": "Which monk answered Anselm's ontological argument with a lost-island objection?",
+     "choices": [
+      "Abelard",
+      "Roscelin",
+      "Gaunilo",
+      "Lanfranc"
+     ],
+     "answer": "Gaunilo",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-175",
+     "prompt": "Which Spanish thinker wrote The Revolt of the Masses?",
+     "choices": [
+      "Maria Zambrano",
+      "Jose Ortega y Gasset",
+      "George Santayana",
+      "Miguel de Unamuno"
+     ],
+     "answer": "Jose Ortega y Gasset",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-203",
+     "prompt": "Which Oxford philosopher wrote How to Do Things with Words?",
+     "choices": [
+      "P. F. Strawson",
+      "Gilbert Ryle",
+      "J. L. Austin",
+      "H. P. Grice"
+     ],
+     "answer": "J. L. Austin",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

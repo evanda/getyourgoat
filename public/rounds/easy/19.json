@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 19,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-271",
+     "prompt": "16 ÷ 8",
+     "answer": 2,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-202",
+     "prompt": "22 + 22",
+     "answer": 44,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-227",
+     "prompt": "13 + 5",
+     "answer": 18,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-160",
+     "prompt": "Which city is the Eiffel Tower in?",
+     "choices": [
+      "Paris",
+      "London",
+      "Rome",
+      "Berlin"
+     ],
+     "answer": "Paris",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-237",
+     "prompt": "Many Plains Native Americans lived in cone-shaped homes called what?",
+     "choices": [
+      "Igloos",
+      "Tepees",
+      "Pagodas",
+      "Cabins"
+     ],
+     "answer": "Tepees",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-155",
+     "prompt": "The space shuttle landed back on Earth like a what?",
+     "choices": [
+      "Boat",
+      "Submarine",
+      "Balloon",
+      "Airplane"
+     ],
+     "answer": "Airplane",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-235",
+     "prompt": "What kind of animal is Babar?",
+     "choices": [
+      "A rabbit",
+      "An elephant",
+      "A bear",
+      "A giraffe"
+     ],
+     "answer": "An elephant",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-008",
+     "prompt": "Who wore a red hooded cape to visit her grandmother?",
+     "choices": [
+      "Little Red Riding Hood",
+      "Cinderella",
+      "Snow White",
+      "Rapunzel"
+     ],
+     "answer": "Little Red Riding Hood",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-229",
+     "prompt": "What kind of animal is Babe in the book by Dick King-Smith?",
+     "choices": [
+      "A dog",
+      "A sheep",
+      "A calf",
+      "A pig"
+     ],
+     "answer": "A pig",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-131",
+     "prompt": "What is a big, deep hole under a mountain or hill that you can walk into?",
+     "choices": [
+      "Dune",
+      "Lake",
+      "Cave",
+      "Delta"
+     ],
+     "answer": "Cave",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-143",
+     "prompt": "What is the opening at the top of a volcano called?",
+     "choices": [
+      "Peak",
+      "Crater",
+      "Valley",
+      "Delta"
+     ],
+     "answer": "Crater",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-211",
+     "prompt": "What is the capital of France?",
+     "choices": [
+      "Rome",
+      "London",
+      "Paris",
+      "Madrid"
+     ],
+     "answer": "Paris",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-246",
+     "prompt": "Bats often sleep in dark what?",
+     "choices": [
+      "nests",
+      "caves",
+      "hives",
+      "ponds"
+     ],
+     "answer": "caves",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-212",
+     "prompt": "Which small spiky animal curls into a ball?",
+     "choices": [
+      "beaver",
+      "otter",
+      "rabbit",
+      "hedgehog"
+     ],
+     "answer": "hedgehog",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-242",
+     "prompt": "A hen sits on her eggs to keep them what?",
+     "choices": [
+      "cold",
+      "warm",
+      "wet",
+      "noisy"
+     ],
+     "answer": "warm",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 75,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-294",
+     "prompt": "22 × 19",
+     "answer": 418,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-179",
+     "prompt": "15 × 14",
+     "answer": 210,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-067",
+     "prompt": "19 × 18",
+     "answer": 342,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-277",
+     "prompt": "Which Holy Roman Emperor stood barefoot at Canossa in 1077?",
+     "choices": [
+      "Henry IV",
+      "Henry V",
+      "Frederick Barbarossa",
+      "Otto I"
+     ],
+     "answer": "Henry IV",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-092",
+     "prompt": "Which Mongol Khan led the Golden Horde's early rule in Russia after the 1237 invasion?",
+     "choices": [
+      "Mongke",
+      "Chagatai",
+      "Berke",
+      "Batu Khan"
+     ],
+     "answer": "Batu Khan",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-210",
+     "prompt": "Which Khmer king built the Bayon and Angkor Thom?",
+     "choices": [
+      "Rajendravarman",
+      "Jayavarman VII",
+      "Jayavarman II",
+      "Suryavarman II"
+     ],
+     "answer": "Jayavarman VII",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-087",
+     "prompt": "Who wrote The Time Machine?",
+     "choices": [
+      "Arthur Conan Doyle",
+      "Jules Verne",
+      "Rudyard Kipling",
+      "H. G. Wells"
+     ],
+     "answer": "H. G. Wells",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-158",
+     "prompt": "Who wrote the novel Kidnapped?",
+     "choices": [
+      "Walter Scott",
+      "John Buchan",
+      "Robert Louis Stevenson",
+      "Arthur Conan Doyle"
+     ],
+     "answer": "Robert Louis Stevenson",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-311",
+     "prompt": "Who wrote A Season in Hell?",
+     "choices": [
+      "Stéphane Mallarmé",
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Charles Baudelaire"
+     ],
+     "answer": "Arthur Rimbaud",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-200",
+     "prompt": "A large wall of dust raised by a thunderstorm outflow is called what?",
+     "choices": [
+      "Squall line",
+      "Haboob",
+      "Derecho",
+      "Williwaw"
+     ],
+     "answer": "Haboob",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-310",
+     "prompt": "The Ghawar Field in Saudi Arabia is the largest what?",
+     "choices": [
+      "Gold mine",
+      "Coal basin",
+      "Oil field",
+      "Gas field"
+     ],
+     "answer": "Oil field",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-120",
+     "prompt": "The principle that a feature cutting across rocks is younger than those rocks is called what?",
+     "choices": [
+      "Cross-cutting relationships",
+      "Faunal succession",
+      "Original horizontality",
+      "Inclusion"
+     ],
+     "answer": "Cross-cutting relationships",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-243",
+     "prompt": "Which thinker's Floating Man imagines a person with no sensation who still knows he exists?",
+     "choices": [
+      "Al-Ghazali",
+      "Averroes",
+      "Al-Farabi",
+      "Avicenna"
+     ],
+     "answer": "Avicenna",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-073",
+     "prompt": "Which movement did Augustine follow for about nine years before his conversion?",
+     "choices": [
+      "Gnosticism",
+      "Manichaeism",
+      "Arianism",
+      "Stoicism"
+     ],
+     "answer": "Manichaeism",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-039",
+     "prompt": "Which Roman Stoic was the teacher of Epictetus?",
+     "choices": [
+      "Musonius Rufus",
+      "Seneca",
+      "Cato the Younger",
+      "Arrian"
+     ],
+     "answer": "Musonius Rufus",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

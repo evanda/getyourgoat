@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 81,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-248",
+     "prompt": "30 + 6",
+     "answer": 36,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-241",
+     "prompt": "24 − 4",
+     "answer": 20,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-068",
+     "prompt": "20 + 2",
+     "answer": 22,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-310",
+     "prompt": "Which long-ago animal had a very long neck and tail and ate leaves?",
+     "choices": [
+      "Woolly mammoth",
+      "Saber-toothed cat",
+      "Long-necked dinosaur",
+      "T. rex"
+     ],
+     "answer": "Long-necked dinosaur",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-197",
+     "prompt": "Which worker made horseshoes and tools from hot metal?",
+     "choices": [
+      "Baker",
+      "Blacksmith",
+      "Barber",
+      "Sailor"
+     ],
+     "answer": "Blacksmith",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-147",
+     "prompt": "In which state did the Wright brothers first fly?",
+     "choices": [
+      "California",
+      "Florida",
+      "Alaska",
+      "North Carolina"
+     ],
+     "answer": "North Carolina",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-265",
+     "prompt": "Who is the cheeky spider in West African folk tales?",
+     "choices": [
+      "Brer Rabbit",
+      "Coyote",
+      "Raven",
+      "Anansi"
+     ],
+     "answer": "Anansi",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-240",
+     "prompt": "Who is the king of the Greek gods?",
+     "choices": [
+      "Zeus",
+      "Poseidon",
+      "Hades",
+      "Apollo"
+     ],
+     "answer": "Zeus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-167",
+     "prompt": "Which book follows Alice through a mirror?",
+     "choices": [
+      "Alice in Paris",
+      "Through the Looking-Glass",
+      "Alice at the Mill",
+      "The Mirror Girl"
+     ],
+     "answer": "Through the Looking-Glass",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-090",
+     "prompt": "What do we call a space rock with a glowing tail?",
+     "choices": [
+      "Planet",
+      "Comet",
+      "Moon",
+      "Crater"
+     ],
+     "answer": "Comet",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-142",
+     "prompt": "What comes out of a volcano when it erupts?",
+     "choices": [
+      "Rain and snow",
+      "Sand and salt",
+      "Lava and ash",
+      "Milk and honey"
+     ],
+     "answer": "Lava and ash",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-048",
+     "prompt": "What do we call the loud sound after lightning?",
+     "choices": [
+      "Thunder",
+      "Echo",
+      "Whistle",
+      "Hum"
+     ],
+     "answer": "Thunder",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-132",
+     "prompt": "Mammals feed their babies what?",
+     "choices": [
+      "worms",
+      "seeds",
+      "honey",
+      "milk"
+     ],
+     "answer": "milk",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-045",
+     "prompt": "Which animal says \"buzz\"?",
+     "choices": [
+      "bee",
+      "cow",
+      "dog",
+      "frog"
+     ],
+     "answer": "bee",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-306",
+     "prompt": "Honeycomb cells are shaped like what?",
+     "choices": [
+      "circles",
+      "hexagons",
+      "stars",
+      "hearts"
+     ],
+     "answer": "hexagons",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

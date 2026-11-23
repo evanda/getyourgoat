@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 38,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-200",
+     "prompt": "11 + 11",
+     "answer": 22,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-166",
+     "prompt": "21 − 3",
+     "answer": 18,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-136",
+     "prompt": "6 × 9",
+     "answer": 54,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-171",
+     "prompt": "Angkor Wat, a giant temple, is in which country?",
+     "choices": [
+      "Greece",
+      "Mexico",
+      "Italy",
+      "Cambodia"
+     ],
+     "answer": "Cambodia",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-107",
+     "prompt": "Columbus sailed with the Nina, the Pinta and the what?",
+     "choices": [
+      "Mayflower",
+      "Titanic",
+      "Golden Hind",
+      "Santa Maria"
+     ],
+     "answer": "Santa Maria",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-141",
+     "prompt": "Who painted the Mona Lisa?",
+     "choices": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Picasso",
+      "Walt Disney"
+     ],
+     "answer": "Leonardo da Vinci",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-157",
+     "prompt": "Who is the great lion king of Narnia?",
+     "choices": [
+      "Simba",
+      "Mufasa",
+      "Leo",
+      "Aslan"
+     ],
+     "answer": "Aslan",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-005",
+     "prompt": "What did Goldilocks eat in the bears' house?",
+     "choices": [
+      "Pancakes",
+      "Soup",
+      "Pizza",
+      "Porridge"
+     ],
+     "answer": "Porridge",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-035",
+     "prompt": "What did the Little Mermaid want to have instead of a fish tail?",
+     "choices": [
+      "Wings",
+      "Legs",
+      "A crown",
+      "Gills"
+     ],
+     "answer": "Legs",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-181",
+     "prompt": "Which sea creature is the biggest animal on Earth?",
+     "choices": [
+      "Great white shark",
+      "Blue whale",
+      "Giant squid",
+      "Orca"
+     ],
+     "answer": "Blue whale",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-162",
+     "prompt": "Which ocean is around the North Pole?",
+     "choices": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+     ],
+     "answer": "Arctic",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-174",
+     "prompt": "What is a long, thin body of water linking two bigger ones?",
+     "choices": [
+      "Dune",
+      "Peak",
+      "Strait",
+      "Delta"
+     ],
+     "answer": "Strait",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-254",
+     "prompt": "A dog's little house is called a what?",
+     "choices": [
+      "coop",
+      "kennel",
+      "stable",
+      "hive"
+     ],
+     "answer": "kennel",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-044",
+     "prompt": "Which animal says \"cluck\"?",
+     "choices": [
+      "cow",
+      "frog",
+      "lion",
+      "hen"
+     ],
+     "answer": "hen",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-225",
+     "prompt": "Which bird is a symbol of peace?",
+     "choices": [
+      "dove",
+      "vulture",
+      "crow",
+      "owl"
+     ],
+     "answer": "dove",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

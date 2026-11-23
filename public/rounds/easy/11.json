@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 11,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-095",
+     "prompt": "7 × 12",
+     "answer": 84,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-238",
+     "prompt": "5 − 3",
+     "answer": 2,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-032",
+     "prompt": "8 × 4",
+     "answer": 32,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-306",
+     "prompt": "Long ago, kings and queens wore what on their heads?",
+     "choices": [
+      "Helmets of ice",
+      "Bike helmets",
+      "Crowns",
+      "Baseball caps"
+     ],
+     "answer": "Crowns",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-159",
+     "prompt": "Neil Armstrong's spaceship to the Moon was part of which program?",
+     "choices": [
+      "Barbie",
+      "Pokemon",
+      "Lego",
+      "Apollo"
+     ],
+     "answer": "Apollo",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-064",
+     "prompt": "Romans built a long wall across northern what?",
+     "choices": [
+      "Britain",
+      "Brazil",
+      "Canada",
+      "Japan"
+     ],
+     "answer": "Britain",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-145",
+     "prompt": "Which Pooh friend loves to bounce?",
+     "choices": [
+      "Kanga",
+      "Piglet",
+      "Owl",
+      "Tigger"
+     ],
+     "answer": "Tigger",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-146",
+     "prompt": "Who is Kanga's baby?",
+     "choices": [
+      "Piglet",
+      "Tigger",
+      "Roo",
+      "Christopher"
+     ],
+     "answer": "Roo",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-245",
+     "prompt": "Which winged horse is in Greek myths?",
+     "choices": [
+      "Unicorn",
+      "Griffin",
+      "Centaur",
+      "Pegasus"
+     ],
+     "answer": "Pegasus",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-244",
+     "prompt": "How many days are in a year, usually?",
+     "choices": [
+      "100",
+      "365",
+      "300",
+      "500"
+     ],
+     "answer": "365",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-165",
+     "prompt": "What mostly pulls on the ocean to cause tides?",
+     "choices": [
+      "The Sun's color",
+      "The Moon",
+      "Wind only",
+      "Fish"
+     ],
+     "answer": "The Moon",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-231",
+     "prompt": "Which river is in London?",
+     "choices": [
+      "Seine",
+      "Nile",
+      "Hudson",
+      "Thames"
+     ],
+     "answer": "Thames",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-145",
+     "prompt": "Which animal is the biggest in the world?",
+     "choices": [
+      "blue whale",
+      "elephant",
+      "giraffe",
+      "shark"
+     ],
+     "answer": "blue whale",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-116",
+     "prompt": "Which animal hangs upside down from tree branches and moves slowly?",
+     "choices": [
+      "zebra",
+      "lion",
+      "hippo",
+      "sloth"
+     ],
+     "answer": "sloth",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-257",
+     "prompt": "A big group of flying bees is called a what?",
+     "choices": [
+      "swarm",
+      "pride",
+      "herd",
+      "litter"
+     ],
+     "answer": "swarm",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

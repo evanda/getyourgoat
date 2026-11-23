@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 4,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-159",
+     "prompt": "16 ÷ 2",
+     "answer": 8,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-129",
+     "prompt": "45 + 14",
+     "answer": 59,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-215",
+     "prompt": "26 + 26",
+     "answer": 52,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-051",
+     "prompt": "In the legend, who started Rome and was raised by a wolf?",
+     "choices": [
+      "Peter and Paul",
+      "Tom and Jerry",
+      "Hansel and Gretel",
+      "Romulus and Remus"
+     ],
+     "answer": "Romulus and Remus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-015",
+     "prompt": "Which Egyptian god was the god of the sun?",
+     "choices": [
+      "Anubis",
+      "Odin",
+      "Apollo",
+      "Ra"
+     ],
+     "answer": "Ra",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-036",
+     "prompt": "Greeks built tall stone what to hold up their temples?",
+     "choices": [
+      "Columns",
+      "Slides",
+      "Tents",
+      "Ladders"
+     ],
+     "answer": "Columns",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-208",
+     "prompt": "What sport do wizards play on flying brooms?",
+     "choices": [
+      "Quidditch",
+      "Soccer",
+      "Tennis",
+      "Basketball"
+     ],
+     "answer": "Quidditch",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-041",
+     "prompt": "Who wrote Puss in Boots and Cinderella (the famous French versions)?",
+     "choices": [
+      "Hans Christian Andersen",
+      "Roald Dahl",
+      "Lewis Carroll",
+      "Charles Perrault"
+     ],
+     "answer": "Charles Perrault",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-065",
+     "prompt": "What city does the Wizard of Oz live in?",
+     "choices": [
+      "The Ruby City",
+      "The Silver City",
+      "The Golden City",
+      "The Emerald City"
+     ],
+     "answer": "The Emerald City",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-306",
+     "prompt": "What kind of storm brings thunder, lightning, and rain?",
+     "choices": [
+      "Blizzard",
+      "Sandstorm",
+      "Snowfall",
+      "Thunderstorm"
+     ],
+     "answer": "Thunderstorm",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-099",
+     "prompt": "What do we call small rocky objects that orbit the Sun?",
+     "choices": [
+      "Volcanoes",
+      "Glaciers",
+      "Asteroids",
+      "Dunes"
+     ],
+     "answer": "Asteroids",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-257",
+     "prompt": "What do we call the middle of the day, when the Sun is highest?",
+     "choices": [
+      "Noon",
+      "Dawn",
+      "Dusk",
+      "Midnight"
+     ],
+     "answer": "Noon",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-206",
+     "prompt": "Which bird of New Zealand cannot fly?",
+     "choices": [
+      "eagle",
+      "kiwi",
+      "robin",
+      "owl"
+     ],
+     "answer": "kiwi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-183",
+     "prompt": "Which pink bird often stands on one leg?",
+     "choices": [
+      "owl",
+      "crow",
+      "flamingo",
+      "duck"
+     ],
+     "answer": "flamingo",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-174",
+     "prompt": "Which big cat has a mane?",
+     "choices": [
+      "tiger",
+      "lion",
+      "cheetah",
+      "leopard"
+     ],
+     "answer": "lion",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 90,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-208",
+     "prompt": "39 + 19",
+     "answer": 58,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-098",
+     "prompt": "12 − 5",
+     "answer": 7,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-013",
+     "prompt": "27 + 36",
+     "answer": 63,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-127",
+     "prompt": "Who is famous for inventing the telephone?",
+     "choices": [
+      "Thomas Edison",
+      "Henry Ford",
+      "Isaac Newton",
+      "Alexander Graham Bell"
+     ],
+     "answer": "Alexander Graham Bell",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-129",
+     "prompt": "Benjamin Franklin flew a kite in a storm to learn about what?",
+     "choices": [
+      "Wind speed",
+      "Electricity",
+      "Birds",
+      "Clouds"
+     ],
+     "answer": "Electricity",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-102",
+     "prompt": "Which came first?",
+     "choices": [
+      "Pyramids",
+      "Castles",
+      "Dinosaurs",
+      "Cars"
+     ],
+     "answer": "Dinosaurs",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-148",
+     "prompt": "What is the name of the wood where Pooh lives?",
+     "choices": [
+      "The Hundred Acre Wood",
+      "Sherwood Forest",
+      "The Forest of Dean",
+      "Sleepy Hollow"
+     ],
+     "answer": "The Hundred Acre Wood",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-243",
+     "prompt": "Which hero in Greek myths was super strong and did twelve labors?",
+     "choices": [
+      "Perseus",
+      "Hercules",
+      "Achilles",
+      "Theseus"
+     ],
+     "answer": "Hercules",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-101",
+     "prompt": "What was Peter Piper's thing in the tongue twister?",
+     "choices": [
+      "Plucked plums",
+      "Pulled pies",
+      "Painted pots",
+      "Picked peppers"
+     ],
+     "answer": "Picked peppers",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-302",
+     "prompt": "Which planet is Earth's closest neighbor on the inside, nearer to the Sun?",
+     "choices": [
+      "Mars",
+      "Jupiter",
+      "Venus",
+      "Saturn"
+     ],
+     "answer": "Venus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-236",
+     "prompt": "Which ocean is on the east coast of the United States?",
+     "choices": [
+      "Pacific",
+      "Arctic",
+      "Indian",
+      "Atlantic"
+     ],
+     "answer": "Atlantic",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-169",
+     "prompt": "What is the place where a river begins called?",
+     "choices": [
+      "Mouth",
+      "Delta",
+      "Source",
+      "Bay"
+     ],
+     "answer": "Source",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-018",
+     "prompt": "A baby elephant is called a what?",
+     "choices": [
+      "cub",
+      "calf",
+      "pup",
+      "kid"
+     ],
+     "answer": "calf",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-107",
+     "prompt": "Beavers build dams across what?",
+     "choices": [
+      "deserts",
+      "mountain tops",
+      "rivers",
+      "beaches"
+     ],
+     "answer": "rivers",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-033",
+     "prompt": "A group of owls is called a what?",
+     "choices": [
+      "parliament",
+      "school",
+      "pride",
+      "pack"
+     ],
+     "answer": "parliament",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

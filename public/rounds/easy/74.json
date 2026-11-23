@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 74,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-076",
+     "prompt": "4 ÷ 2",
+     "answer": 2,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-177",
+     "prompt": "50 ÷ 10",
+     "answer": 5,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-082",
+     "prompt": "31 + 31",
+     "answer": 62,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-313",
+     "prompt": "Which ancient people built pyramids in the jungles of Central America?",
+     "choices": [
+      "Vikings",
+      "Maya",
+      "Romans",
+      "Greeks"
+     ],
+     "answer": "Maya",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-008",
+     "prompt": "What plant did Egyptians use to make paper?",
+     "choices": [
+      "Papyrus",
+      "Cotton",
+      "Bamboo",
+      "Clover"
+     ],
+     "answer": "Papyrus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-094",
+     "prompt": "Which big hairy animal lived in the Ice Age?",
+     "choices": [
+      "Blue whale",
+      "Giraffe",
+      "Woolly mammoth",
+      "Zebra"
+     ],
+     "answer": "Woolly mammoth",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-075",
+     "prompt": "What did the crow drop into the pitcher to get water?",
+     "choices": [
+      "Leaves",
+      "Pebbles",
+      "Sand",
+      "Seeds"
+     ],
+     "answer": "Pebbles",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-073",
+     "prompt": "What did the ant do all summer in the fable?",
+     "choices": [
+      "Slept",
+      "Danced",
+      "Played music",
+      "Worked hard"
+     ],
+     "answer": "Worked hard",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-252",
+     "prompt": "Who is the Greek goddess of wisdom?",
+     "choices": [
+      "Athena",
+      "Hera",
+      "Artemis",
+      "Aphrodite"
+     ],
+     "answer": "Athena",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-114",
+     "prompt": "What is coal made from?",
+     "choices": [
+      "Ancient fish",
+      "Sea sand",
+      "Clouds",
+      "Ancient plants"
+     ],
+     "answer": "Ancient plants",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-210",
+     "prompt": "What is the capital of the United States?",
+     "choices": [
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "Washington, D.C."
+     ],
+     "answer": "Washington, D.C.",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-296",
+     "prompt": "Which U.S. state is the biggest by area?",
+     "choices": [
+      "Texas",
+      "Ohio",
+      "Alaska",
+      "Florida"
+     ],
+     "answer": "Alaska",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-186",
+     "prompt": "Which bird pecks holes in trees?",
+     "choices": [
+      "swan",
+      "woodpecker",
+      "pelican",
+      "duck"
+     ],
+     "answer": "woodpecker",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-191",
+     "prompt": "Goats walk on what kind of feet?",
+     "choices": [
+      "paws",
+      "flippers",
+      "hooves",
+      "webbed feet"
+     ],
+     "answer": "hooves",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-151",
+     "prompt": "Which bird dives the fastest?",
+     "choices": [
+      "ostrich",
+      "hummingbird",
+      "peregrine falcon",
+      "owl"
+     ],
+     "answer": "peregrine falcon",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 50,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-093",
+     "prompt": "17 + 7",
+     "answer": 24,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-107",
+     "prompt": "55 + 29",
+     "answer": 84,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-183",
+     "prompt": "25 − 2",
+     "answer": 23,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-116",
+     "prompt": "Which explorer sailed from Portugal to India around Africa?",
+     "choices": [
+      "Vasco da Gama",
+      "Marco Polo",
+      "Leif Erikson",
+      "Neil Armstrong"
+     ],
+     "answer": "Vasco da Gama",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-269",
+     "prompt": "Before refrigerators, an iceman delivered blocks of what?",
+     "choices": [
+      "Butter",
+      "Ice",
+      "Sand",
+      "Soap"
+     ],
+     "answer": "Ice",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-114",
+     "prompt": "Who was the first woman to fly solo across the Atlantic?",
+     "choices": [
+      "Rosa Parks",
+      "Marie Curie",
+      "Amelia Earhart",
+      "Betsy Ross"
+     ],
+     "answer": "Amelia Earhart",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-113",
+     "prompt": "Who steals Christmas in a Dr. Seuss book?",
+     "choices": [
+      "The Lorax",
+      "Horton",
+      "Sam-I-Am",
+      "The Grinch"
+     ],
+     "answer": "The Grinch",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-201",
+     "prompt": "Where was Paddington found?",
+     "choices": [
+      "A zoo",
+      "A park",
+      "A ship",
+      "A train station"
+     ],
+     "answer": "A train station",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-136",
+     "prompt": "What did Peter Rabbit steal from Mr. McGregor's garden?",
+     "choices": [
+      "Vegetables",
+      "Flowers",
+      "Fish",
+      "Cookies"
+     ],
+     "answer": "Vegetables",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-053",
+     "prompt": "Which season is usually the hottest?",
+     "choices": [
+      "Winter",
+      "Summer",
+      "Spring",
+      "Fall"
+     ],
+     "answer": "Summer",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-214",
+     "prompt": "What is the capital of Italy?",
+     "choices": [
+      "Rome",
+      "Paris",
+      "Madrid",
+      "Athens"
+     ],
+     "answer": "Rome",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-241",
+     "prompt": "What is the name of the ruler-like part of a map that shows distance?",
+     "choices": [
+      "Scale",
+      "Title",
+      "Legend",
+      "Frame"
+     ],
+     "answer": "Scale",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-198",
+     "prompt": "Which insect glows in the dark?",
+     "choices": [
+      "ant",
+      "firefly",
+      "butterfly",
+      "bee"
+     ],
+     "answer": "firefly",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-313",
+     "prompt": "Which land animal with a shell can live over 100 years?",
+     "choices": [
+      "tortoise",
+      "rabbit",
+      "goat",
+      "cat"
+     ],
+     "answer": "tortoise",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-308",
+     "prompt": "Which Australian bird has a laughing call?",
+     "choices": [
+      "penguin",
+      "swan",
+      "crow",
+      "kookaburra"
+     ],
+     "answer": "kookaburra",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

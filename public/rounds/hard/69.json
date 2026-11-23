@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 69,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-248",
+     "prompt": "63 × 26",
+     "answer": 1638,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-187",
+     "prompt": "16 × 15",
+     "answer": 240,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-171",
+     "prompt": "104 ÷ 8",
+     "answer": 13,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-228",
+     "prompt": "Which Thai kingdom, founded in 1351, fell to a Burmese army in 1767?",
+     "choices": [
+      "Lan Na",
+      "Sukhothai Kingdom",
+      "Champa",
+      "Ayutthaya Kingdom"
+     ],
+     "answer": "Ayutthaya Kingdom",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-280",
+     "prompt": "Which 1314 battle won Scotland's independence under Robert the Bruce?",
+     "choices": [
+      "Culloden",
+      "Flodden",
+      "Falkirk",
+      "Bannockburn"
+     ],
+     "answer": "Bannockburn",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-100",
+     "prompt": "Which 1949 alliance was founded to oppose Soviet power in the West?",
+     "choices": [
+      "CENTO",
+      "Warsaw Pact",
+      "SEATO",
+      "NATO"
+     ],
+     "answer": "NATO",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-253",
+     "prompt": "Who wrote the novel The Remains of the Day?",
+     "choices": [
+      "Julian Barnes",
+      "Salman Rushdie",
+      "Kazuo Ishiguro",
+      "Ian McEwan"
+     ],
+     "answer": "Kazuo Ishiguro",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-314",
+     "prompt": "Who wrote The Posthumous Memoirs of Brás Cubas?",
+     "choices": [
+      "José de Alencar",
+      "Machado de Assis",
+      "Jorge Amado",
+      "Euclides da Cunha"
+     ],
+     "answer": "Machado de Assis",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-045",
+     "prompt": "Who won the first Nobel Prize in Literature, in 1901?",
+     "choices": [
+      "Rudyard Kipling",
+      "Leo Tolstoy",
+      "Sully Prudhomme",
+      "Henrik Ibsen"
+     ],
+     "answer": "Sully Prudhomme",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-219",
+     "prompt": "The Antarctic Dry Valleys are an unusually ice-free area near which sound?",
+     "choices": [
+      "Ross Sea",
+      "Amundsen Sea",
+      "McMurdo Sound",
+      "Weddell Sea"
+     ],
+     "answer": "McMurdo Sound",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-290",
+     "prompt": "The Ogallala Aquifer lies beneath which region?",
+     "choices": [
+      "Gulf Coast",
+      "Appalachia",
+      "Pacific Northwest",
+      "Great Plains"
+     ],
+     "answer": "Great Plains",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-130",
+     "prompt": "Which period saw the first dinosaurs and early mammals appear?",
+     "choices": [
+      "Cretaceous",
+      "Triassic",
+      "Jurassic",
+      "Permian"
+     ],
+     "answer": "Triassic",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-278",
+     "prompt": "What Confucian term names the doctrine of 'rectification of names'?",
+     "choices": [
+      "Zhengming",
+      "Ziran",
+      "Xiao",
+      "Wuwei"
+     ],
+     "answer": "Zhengming",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-093",
+     "prompt": "In 1550 at Valladolid, Las Casas debated which scholar over the Indigenous peoples' rights?",
+     "choices": [
+      "Domingo de Soto",
+      "Francisco Suarez",
+      "Juan Gines de Sepulveda",
+      "Francisco de Vitoria"
+     ],
+     "answer": "Juan Gines de Sepulveda",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-152",
+     "prompt": "Jeremy Bentham dismissed natural rights as 'nonsense upon' what?",
+     "choices": [
+      "Stilts",
+      "Wheels",
+      "Ladders",
+      "Crutches"
+     ],
+     "answer": "Stilts",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 92,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-050",
+     "prompt": "54²",
+     "answer": 2916,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-302",
+     "prompt": "540 ÷ 18",
+     "answer": 30,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-010",
+     "prompt": "334 × 7",
+     "answer": 2338,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-167",
+     "prompt": "Which naval battle in 1571 saw the Holy League defeat the Ottomans?",
+     "choices": [
+      "Trafalgar",
+      "Actium",
+      "Lepanto",
+      "Salamis"
+     ],
+     "answer": "Lepanto",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-204",
+     "prompt": "Which 1925 agreements sought to guarantee Germany's western borders?",
+     "choices": [
+      "Treaty of Rapallo",
+      "Kellogg-Briand Pact",
+      "Dawes Plan",
+      "Locarno Treaties"
+     ],
+     "answer": "Locarno Treaties",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-296",
+     "prompt": "Which German physicist first produced radio waves in the lab in the 1880s?",
+     "choices": [
+      "Nikola Tesla",
+      "Ferdinand Braun",
+      "Guglielmo Marconi",
+      "Heinrich Hertz"
+     ],
+     "answer": "Heinrich Hertz",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-263",
+     "prompt": "Who wrote the novel Midnight's Children?",
+     "choices": [
+      "Vikram Seth",
+      "V. S. Naipaul",
+      "Salman Rushdie",
+      "Amitav Ghosh"
+     ],
+     "answer": "Salman Rushdie",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-019",
+     "prompt": "Who wrote the play Miss Julie?",
+     "choices": [
+      "August Strindberg",
+      "Ludvig Holberg",
+      "Hjalmar Bergman",
+      "Henrik Ibsen"
+     ],
+     "answer": "August Strindberg",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-017",
+     "prompt": "In Anna Karenina, which landowner finally marries Kitty?",
+     "choices": [
+      "Count Vronsky",
+      "Konstantin Levin",
+      "Alexei Karenin",
+      "Stiva Oblonsky"
+     ],
+     "answer": "Konstantin Levin",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-114",
+     "prompt": "Which fault type results from compression, with the hanging wall moving up?",
+     "choices": [
+      "Reverse fault",
+      "Strike-slip fault",
+      "Transform fault",
+      "Normal fault"
+     ],
+     "answer": "Reverse fault",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-173",
+     "prompt": "The boundary between the stratosphere and mesosphere is called what?",
+     "choices": [
+      "Mesopause",
+      "Stratopause",
+      "Thermopause",
+      "Tropopause"
+     ],
+     "answer": "Stratopause",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-275",
+     "prompt": "Which mountain is the highest in Antarctica?",
+     "choices": [
+      "Mount Kirkpatrick",
+      "Vinson Massif",
+      "Mount Tyree",
+      "Mount Erebus"
+     ],
+     "answer": "Vinson Massif",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-008",
+     "prompt": "Which Sophist wrote a treatise arguing that nothing exists?",
+     "choices": [
+      "Hippias",
+      "Gorgias",
+      "Prodicus",
+      "Protagoras"
+     ],
+     "answer": "Gorgias",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-119",
+     "prompt": "In Hume's Dialogues Concerning Natural Religion, who defends the argument from design?",
+     "choices": [
+      "Demea",
+      "Hylas",
+      "Cleanthes",
+      "Philo"
+     ],
+     "answer": "Cleanthes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-051",
+     "prompt": "What Greek term names weakness of will?",
+     "choices": [
+      "Atomia",
+      "Apatheia",
+      "Aporia",
+      "Akrasia"
+     ],
+     "answer": "Akrasia",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

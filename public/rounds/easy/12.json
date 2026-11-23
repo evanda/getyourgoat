@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 12,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-148",
+     "prompt": "10 − 8",
+     "answer": 2,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-178",
+     "prompt": "10 × 10",
+     "answer": 100,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-141",
+     "prompt": "46 + 46",
+     "answer": 92,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-019",
+     "prompt": "Why could Egyptians farm near the Nile?",
+     "choices": [
+      "It was always snowy",
+      "Dinosaurs plowed",
+      "Rain fell daily",
+      "Floods left rich soil"
+     ],
+     "answer": "Floods left rich soil",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-012",
+     "prompt": "Who were the pyramids built to hold?",
+     "choices": [
+      "Pharaohs",
+      "Farmers",
+      "Sailors",
+      "Bakers"
+     ],
+     "answer": "Pharaohs",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-020",
+     "prompt": "Which pharaoh built the Great Pyramid?",
+     "choices": [
+      "Khufu",
+      "Tutankhamun",
+      "Cleopatra",
+      "Napoleon"
+     ],
+     "answer": "Khufu",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-244",
+     "prompt": "What did King Midas turn into gold by touching?",
+     "choices": [
+      "Everything he touched",
+      "Only his crown",
+      "Only water",
+      "Only flowers"
+     ],
+     "answer": "Everything he touched",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-013",
+     "prompt": "What happens to Cinderella's magic at midnight?",
+     "choices": [
+      "It grows stronger",
+      "It turns to gold",
+      "She falls asleep",
+      "It ends"
+     ],
+     "answer": "It ends",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-120",
+     "prompt": "What does Thidwick the Big-Hearted Moose have on his antlers?",
+     "choices": [
+      "Lots of guests",
+      "Birds' eggs",
+      "Snow",
+      "Flowers"
+     ],
+     "answer": "Lots of guests",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-056",
+     "prompt": "In which season do flowers begin to bloom?",
+     "choices": [
+      "Winter",
+      "Fall",
+      "Spring",
+      "Summer"
+     ],
+     "answer": "Spring",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-294",
+     "prompt": "What do we call the line on a map that shows a country's edge?",
+     "choices": [
+      "Border",
+      "Legend",
+      "Scale",
+      "Title"
+     ],
+     "answer": "Border",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-190",
+     "prompt": "What do we call a round model of Earth?",
+     "choices": [
+      "Compass",
+      "Telescope",
+      "Globe",
+      "Ruler"
+     ],
+     "answer": "Globe",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-170",
+     "prompt": "A woolly mammoth looked like a hairy what?",
+     "choices": [
+      "bear",
+      "elephant",
+      "rhino",
+      "pig"
+     ],
+     "answer": "elephant",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-061",
+     "prompt": "A grown-up male goat is called a what?",
+     "choices": [
+      "billy",
+      "nanny",
+      "kid",
+      "ram"
+     ],
+     "answer": "billy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-258",
+     "prompt": "A group of gorillas is called a what?",
+     "choices": [
+      "pride",
+      "troop",
+      "school",
+      "flock"
+     ],
+     "answer": "troop",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

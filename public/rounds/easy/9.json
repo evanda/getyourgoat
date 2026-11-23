@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 9,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-154",
+     "prompt": "16 + 5",
+     "answer": 21,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-240",
+     "prompt": "23 + 9",
+     "answer": 32,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-250",
+     "prompt": "14 + 4",
+     "answer": 18,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-289",
+     "prompt": "The Ferris wheel is named after a man named what?",
+     "choices": [
+      "Henry Ford",
+      "George Ferris",
+      "Tom Ford",
+      "Bill Wheel"
+     ],
+     "answer": "George Ferris",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-245",
+     "prompt": "What did people use to light up old city streets before electricity?",
+     "choices": [
+      "Neon signs",
+      "Gas lamps",
+      "Light bulbs",
+      "Lasers"
+     ],
+     "answer": "Gas lamps",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-029",
+     "prompt": "Who was king of the Greek gods?",
+     "choices": [
+      "Apollo",
+      "Zeus",
+      "Hermes",
+      "Cupid"
+     ],
+     "answer": "Zeus",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-305",
+     "prompt": "What did the Ugly Duckling see when he looked in the water at last?",
+     "choices": [
+      "A tall duck",
+      "A white goose",
+      "A big hen",
+      "A beautiful swan"
+     ],
+     "answer": "A beautiful swan",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-268",
+     "prompt": "What did Stone Soup start with?",
+     "choices": [
+      "A stone in a pot",
+      "A chicken",
+      "A turkey",
+      "A carrot"
+     ],
+     "answer": "A stone in a pot",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-076",
+     "prompt": "Who was said to have written the famous fables about animals?",
+     "choices": [
+      "Aesop",
+      "Homer",
+      "Grimm",
+      "Hans Andersen"
+     ],
+     "answer": "Aesop",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-225",
+     "prompt": "Which mountain range runs through the western United States and Canada?",
+     "choices": [
+      "Rocky Mountains",
+      "Alps",
+      "Andes",
+      "Himalayas"
+     ],
+     "answer": "Rocky Mountains",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-168",
+     "prompt": "Where do most big rivers end up?",
+     "choices": [
+      "On a mountain",
+      "In a cloud",
+      "In a sea or ocean",
+      "In a cave"
+     ],
+     "answer": "In a sea or ocean",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-228",
+     "prompt": "What is the largest hot desert in the world?",
+     "choices": [
+      "Gobi",
+      "Sahara",
+      "Mojave",
+      "Sonoran"
+     ],
+     "answer": "Sahara",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-158",
+     "prompt": "A tadpole grows into a what?",
+     "choices": [
+      "fish",
+      "frog",
+      "snake",
+      "lizard"
+     ],
+     "answer": "frog",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-043",
+     "prompt": "Which animal says \"neigh\"?",
+     "choices": [
+      "duck",
+      "cat",
+      "horse",
+      "pig"
+     ],
+     "answer": "horse",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-312",
+     "prompt": "Which snake spreads a hood when it feels scared?",
+     "choices": [
+      "python",
+      "garter snake",
+      "boa",
+      "cobra"
+     ],
+     "answer": "cobra",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

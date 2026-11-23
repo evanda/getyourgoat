@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 3,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-005",
+     "prompt": "24 ÷ 3",
+     "answer": 8,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-283",
+     "prompt": "3 + 7",
+     "answer": 10,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-223",
+     "prompt": "29 − 3",
+     "answer": 26,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-014",
+     "prompt": "Which Egyptian god had the head of a jackal?",
+     "choices": [
+      "Ra",
+      "Zeus",
+      "Anubis",
+      "Thor"
+     ],
+     "answer": "Anubis",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-305",
+     "prompt": "What does a light bulb give off?",
+     "choices": [
+      "Music",
+      "Light",
+      "Water",
+      "Snow"
+     ],
+     "answer": "Light",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-087",
+     "prompt": "Machu Picchu was built by the Inca in which country?",
+     "choices": [
+      "Chile",
+      "Egypt",
+      "Spain",
+      "Peru"
+     ],
+     "answer": "Peru",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-155",
+     "prompt": "Who wrote The Lion, the Witch and the Wardrobe?",
+     "choices": [
+      "J. R. R. Tolkien",
+      "C. S. Lewis",
+      "A. A. Milne",
+      "Roald Dahl"
+     ],
+     "answer": "C. S. Lewis",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-092",
+     "prompt": "Who ran away with the spoon in \"Hey Diddle Diddle\"?",
+     "choices": [
+      "The dish",
+      "The cat",
+      "The fork",
+      "The cow"
+     ],
+     "answer": "The dish",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-060",
+     "prompt": "Who wants a brain in The Wizard of Oz?",
+     "choices": [
+      "The Scarecrow",
+      "The Tin Man",
+      "The Lion",
+      "Toto"
+     ],
+     "answer": "The Scarecrow",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-239",
+     "prompt": "What colors usually show water on a map?",
+     "choices": [
+      "Red",
+      "Blue",
+      "Brown",
+      "Yellow"
+     ],
+     "answer": "Blue",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-044",
+     "prompt": "What does a rain gauge measure?",
+     "choices": [
+      "Wind speed",
+      "Temperature",
+      "Cloud color",
+      "How much rain fell"
+     ],
+     "answer": "How much rain fell",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-040",
+     "prompt": "What are floating pieces of ice broken off glaciers called?",
+     "choices": [
+      "Islands",
+      "Reefs",
+      "Icebergs",
+      "Dunes"
+     ],
+     "answer": "Icebergs",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-072",
+     "prompt": "Which animal gives us wool?",
+     "choices": [
+      "cow",
+      "pig",
+      "horse",
+      "sheep"
+     ],
+     "answer": "sheep",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-177",
+     "prompt": "Which big animal has a horn on its nose?",
+     "choices": [
+      "rhino",
+      "hippo",
+      "zebra",
+      "giraffe"
+     ],
+     "answer": "rhino",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-096",
+     "prompt": "Polar bears live in which cold place?",
+     "choices": [
+      "Africa",
+      "the jungle",
+      "the desert",
+      "the Arctic"
+     ],
+     "answer": "the Arctic",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

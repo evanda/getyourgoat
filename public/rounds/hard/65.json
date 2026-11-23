@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 65,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-122",
+     "prompt": "29 × 15",
+     "answer": 435,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-138",
+     "prompt": "35% of 180",
+     "answer": 63,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-210",
+     "prompt": "87 × 32",
+     "answer": 2784,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-108",
+     "prompt": "Which 1346 battle saw English longbowmen defeat France, with Edward III?",
+     "choices": [
+      "Agincourt",
+      "Poitiers",
+      "Orleans",
+      "Crecy"
+     ],
+     "answer": "Crecy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-038",
+     "prompt": "Whose death in 395 left the Roman Empire permanently split between his sons?",
+     "choices": [
+      "Valens",
+      "Theodosius I",
+      "Constantine",
+      "Diocletian"
+     ],
+     "answer": "Theodosius I",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-075",
+     "prompt": "Which Indian empire, centered at Hampi, flourished from 1336 to the 1500s?",
+     "choices": [
+      "Maratha Empire",
+      "Chola Empire",
+      "Vijayanagara Empire",
+      "Bahmani Sultanate"
+     ],
+     "answer": "Vijayanagara Empire",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-231",
+     "prompt": "Who wrote the novel Brideshead Revisited?",
+     "choices": [
+      "George Orwell",
+      "Anthony Powell",
+      "Evelyn Waugh",
+      "Graham Greene"
+     ],
+     "answer": "Evelyn Waugh",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-304",
+     "prompt": "What is the oldest surviving anthology of Japanese poetry?",
+     "choices": [
+      "Shin Kokinshū",
+      "Hyakunin Isshu",
+      "Man'yōshū",
+      "Kokinshū"
+     ],
+     "answer": "Man'yōshū",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-198",
+     "prompt": "Who wrote the Zimbabwean novel Nervous Conditions?",
+     "choices": [
+      "Tsitsi Dangarembga",
+      "Yvonne Vera",
+      "Doris Lessing",
+      "Chenjerai Hove"
+     ],
+     "answer": "Tsitsi Dangarembga",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-129",
+     "prompt": "First vascular land plants appeared in which period?",
+     "choices": [
+      "Carboniferous",
+      "Ordovician",
+      "Silurian",
+      "Devonian"
+     ],
+     "answer": "Silurian",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-270",
+     "prompt": "A desert surface covered by gravel, left after wind removes fine particles, is a what?",
+     "choices": [
+      "Bajada",
+      "Playa",
+      "Desert pavement",
+      "Inselberg"
+     ],
+     "answer": "Desert pavement",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-241",
+     "prompt": "The pyramidal peak formed by three or more cirques, such as the Matterhorn, is called what?",
+     "choices": [
+      "Nunatak",
+      "Horn",
+      "Arete",
+      "Tor"
+     ],
+     "answer": "Horn",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-305",
+     "prompt": "Which monk converses with King Menander in the Questions of King Milinda?",
+     "choices": [
+      "Vasubandhu",
+      "Nagasena",
+      "Buddhaghosa",
+      "Nagarjuna"
+     ],
+     "answer": "Nagasena",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-095",
+     "prompt": "Which Italian thinker wrote Discourses on Livy?",
+     "choices": [
+      "Machiavelli",
+      "Bruni",
+      "Guicciardini",
+      "Castiglione"
+     ],
+     "answer": "Machiavelli",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-024",
+     "prompt": "In the Republic, the soul's three parts are reason, appetite and what?",
+     "choices": [
+      "Will",
+      "Spirit",
+      "Conscience",
+      "Memory"
+     ],
+     "answer": "Spirit",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

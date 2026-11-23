@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 44,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-282",
+     "prompt": "16 + 6",
+     "answer": 22,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-018",
+     "prompt": "5 × 1",
+     "answer": 5,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-261",
+     "prompt": "9 × 7",
+     "answer": 63,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-152",
+     "prompt": "What was the first satellite launched into space called?",
+     "choices": [
+      "Sputnik",
+      "Voyager",
+      "Hubble",
+      "Apollo"
+     ],
+     "answer": "Sputnik",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-267",
+     "prompt": "Before computers, people typed on what?",
+     "choices": [
+      "Tablets",
+      "Smartwatches",
+      "Laptops",
+      "Typewriters"
+     ],
+     "answer": "Typewriters",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-186",
+     "prompt": "Castle walls were mostly built from what?",
+     "choices": [
+      "Paper",
+      "Cloth",
+      "Stone",
+      "Glass"
+     ],
+     "answer": "Stone",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-290",
+     "prompt": "How do many fairy tales end?",
+     "choices": [
+      "With a dance",
+      "With a song",
+      "Happily ever after",
+      "With a nap"
+     ],
+     "answer": "Happily ever after",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-102",
+     "prompt": "Who is Little Boy Blue asked to blow?",
+     "choices": [
+      "His whistle",
+      "His nose",
+      "His horn",
+      "A bubble"
+     ],
+     "answer": "His horn",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-074",
+     "prompt": "What did the grasshopper do all summer?",
+     "choices": [
+      "Dug tunnels",
+      "Built a nest",
+      "Played and sang",
+      "Planted seeds"
+     ],
+     "answer": "Played and sang",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-198",
+     "prompt": "On which continent do we find the country of France?",
+     "choices": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "Australia"
+     ],
+     "answer": "Europe",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-312",
+     "prompt": "What is ice?",
+     "choices": [
+      "Hot gas",
+      "Rock",
+      "Frozen water",
+      "Sand"
+     ],
+     "answer": "Frozen water",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-140",
+     "prompt": "What do we call the shaking of the ground when plates move?",
+     "choices": [
+      "Tornado",
+      "Flood",
+      "Breeze",
+      "Earthquake"
+     ],
+     "answer": "Earthquake",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-223",
+     "prompt": "Clownfish live among the stinging arms of what?",
+     "choices": [
+      "jellyfish",
+      "sharks",
+      "sea anemones",
+      "crabs"
+     ],
+     "answer": "sea anemones",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-165",
+     "prompt": "Which dinosaur had big plates on its back?",
+     "choices": [
+      "Stegosaurus",
+      "T. rex",
+      "Triceratops",
+      "Velociraptor"
+     ],
+     "answer": "Stegosaurus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-112",
+     "prompt": "Which animal lives in the desert?",
+     "choices": [
+      "whale",
+      "penguin",
+      "seal",
+      "camel"
+     ],
+     "answer": "camel",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 96,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-137",
+     "prompt": "6 × 6",
+     "answer": 36,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-113",
+     "prompt": "14 − 8",
+     "answer": 6,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-185",
+     "prompt": "5 × 7",
+     "answer": 35,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-055",
+     "prompt": "People said all roads lead to which city?",
+     "choices": [
+      "Paris",
+      "Athens",
+      "London",
+      "Rome"
+     ],
+     "answer": "Rome",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-088",
+     "prompt": "The Inca used which animal to carry loads in the mountains?",
+     "choices": [
+      "Llamas",
+      "Elephants",
+      "Camels",
+      "Zebras"
+     ],
+     "answer": "Llamas",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-054",
+     "prompt": "What number does the Roman numeral IX mean?",
+     "choices": [
+      "11",
+      "6",
+      "9",
+      "4"
+     ],
+     "answer": "9",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-177",
+     "prompt": "Who is the pirate captain in Peter Pan?",
+     "choices": [
+      "Captain Flint",
+      "Captain Kidd",
+      "Long John Silver",
+      "Captain Hook"
+     ],
+     "answer": "Captain Hook",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-166",
+     "prompt": "What does Alice drink to change size?",
+     "choices": [
+      "Milk",
+      "Tea",
+      "A potion from a bottle",
+      "Juice"
+     ],
+     "answer": "A potion from a bottle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-059",
+     "prompt": "What color is the road Dorothy follows in Oz?",
+     "choices": [
+      "Red",
+      "Yellow",
+      "Blue",
+      "Green"
+     ],
+     "answer": "Yellow",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-199",
+     "prompt": "On which continent do we find the country of Japan?",
+     "choices": [
+      "Europe",
+      "Africa",
+      "North America",
+      "Asia"
+     ],
+     "answer": "Asia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-005",
+     "prompt": "What do we call moving air?",
+     "choices": [
+      "Rock",
+      "Wind",
+      "Soil",
+      "Sand"
+     ],
+     "answer": "Wind",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-278",
+     "prompt": "What do we call land that is wet and full of water plants?",
+     "choices": [
+      "Wetland",
+      "Desert",
+      "Mountain",
+      "Dune"
+     ],
+     "answer": "Wetland",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-190",
+     "prompt": "Goats are great at climbing what?",
+     "choices": [
+      "clouds",
+      "mountains",
+      "oceans",
+      "glass"
+     ],
+     "answer": "mountains",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-040",
+     "prompt": "Which animal says \"meow\"?",
+     "choices": [
+      "dog",
+      "cow",
+      "duck",
+      "cat"
+     ],
+     "answer": "cat",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-108",
+     "prompt": "Some animals sleep all winter. This is called what?",
+     "choices": [
+      "migration",
+      "swimming",
+      "barking",
+      "hibernation"
+     ],
+     "answer": "hibernation",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

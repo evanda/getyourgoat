@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 28,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-235",
+     "prompt": "3 + 9",
+     "answer": 12,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-043",
+     "prompt": "3 × 1",
+     "answer": 3,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-125",
+     "prompt": "11 + 6",
+     "answer": 17,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-187",
+     "prompt": "In the stories, King Arthur's knights sat at a what?",
+     "choices": [
+      "Long couch",
+      "Tiny stool",
+      "Bunk bed",
+      "Round Table"
+     ],
+     "answer": "Round Table",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-257",
+     "prompt": "Which Greek god wore winged sandals to deliver messages?",
+     "choices": [
+      "Zeus",
+      "Hermes",
+      "Ares",
+      "Apollo"
+     ],
+     "answer": "Hermes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-212",
+     "prompt": "Before email, people sent messages as what?",
+     "choices": [
+      "Letters",
+      "Texts",
+      "Tweets",
+      "Emojis"
+     ],
+     "answer": "Letters",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-257",
+     "prompt": "What did Pandora open in the Greek tale?",
+     "choices": [
+      "A chest of gold",
+      "A door",
+      "A book",
+      "A jar"
+     ],
+     "answer": "A jar",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-204",
+     "prompt": "Who is the young wizard with a lightning-bolt scar?",
+     "choices": [
+      "Harry Potter",
+      "Percy Jackson",
+      "Merlin",
+      "Gandalf"
+     ],
+     "answer": "Harry Potter",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-023",
+     "prompt": "Who finally tricked the Gingerbread Man at the river?",
+     "choices": [
+      "A wolf",
+      "A fox",
+      "A cat",
+      "A crow"
+     ],
+     "answer": "A fox",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-237",
+     "prompt": "In which direction is the North Pole from the equator?",
+     "choices": [
+      "South",
+      "East",
+      "West",
+      "North"
+     ],
+     "answer": "North",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-213",
+     "prompt": "What is the capital of Japan?",
+     "choices": [
+      "Beijing",
+      "Tokyo",
+      "Seoul",
+      "Osaka"
+     ],
+     "answer": "Tokyo",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-222",
+     "prompt": "How many halves, called hemispheres, does the equator split Earth into?",
+     "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+     ],
+     "answer": "2",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-307",
+     "prompt": "Which African animal makes a laughing sound?",
+     "choices": [
+      "swan",
+      "sheep",
+      "hyena",
+      "turtle"
+     ],
+     "answer": "hyena",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-162",
+     "prompt": "Baby dinosaurs hatched from what?",
+     "choices": [
+      "seeds",
+      "eggs",
+      "cocoons",
+      "bubbles"
+     ],
+     "answer": "eggs",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-049",
+     "prompt": "Which animal howls at night?",
+     "choices": [
+      "wolf",
+      "cow",
+      "hen",
+      "duck"
+     ],
+     "answer": "wolf",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 70,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-101",
+     "prompt": "20 − 8",
+     "answer": 12,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-222",
+     "prompt": "38 + 2",
+     "answer": 40,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-265",
+     "prompt": "24 − 9",
+     "answer": 15,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-290",
+     "prompt": "The teddy bear is named after which US president?",
+     "choices": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Theodore Roosevelt",
+      "Barack Obama"
+     ],
+     "answer": "Theodore Roosevelt",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-214",
+     "prompt": "Before washing machines, people washed clothes how?",
+     "choices": [
+      "With a robot",
+      "With a dishwasher",
+      "By hand",
+      "With a microwave"
+     ],
+     "answer": "By hand",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-173",
+     "prompt": "Mount Rushmore has carved faces of how many presidents?",
+     "choices": [
+      "2",
+      "4",
+      "6",
+      "10"
+     ],
+     "answer": "4",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-185",
+     "prompt": "Who is the boy raised by wolves in The Jungle Book?",
+     "choices": [
+      "Tarzan",
+      "Peter",
+      "Oliver",
+      "Mowgli"
+     ],
+     "answer": "Mowgli",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-274",
+     "prompt": "What is the name of King Arthur's wizard?",
+     "choices": [
+      "Gandalf",
+      "Dumbledore",
+      "Merlin",
+      "Oberon"
+     ],
+     "answer": "Merlin",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-009",
+     "prompt": "What did Little Red Riding Hood carry in her basket?",
+     "choices": [
+      "Her toys",
+      "Flowers only",
+      "A lantern",
+      "Food for her grandmother"
+     ],
+     "answer": "Food for her grandmother",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-207",
+     "prompt": "In which country is the Eiffel Tower?",
+     "choices": [
+      "Italy",
+      "France",
+      "Spain",
+      "Germany"
+     ],
+     "answer": "France",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-036",
+     "prompt": "Which gas makes up most of Earth's air?",
+     "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Helium",
+      "Gold"
+     ],
+     "answer": "Nitrogen",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-209",
+     "prompt": "In which country is the Great Wall?",
+     "choices": [
+      "China",
+      "India",
+      "Japan",
+      "Italy"
+     ],
+     "answer": "China",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-207",
+     "prompt": "Dogs have a great sense of what?",
+     "choices": [
+      "taste",
+      "hearing only",
+      "smell",
+      "color"
+     ],
+     "answer": "smell",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-019",
+     "prompt": "A baby owl is called a what?",
+     "choices": [
+      "kit",
+      "cub",
+      "owlet",
+      "pup"
+     ],
+     "answer": "owlet",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-106",
+     "prompt": "A fox's home is called a what?",
+     "choices": [
+      "hive",
+      "den",
+      "dam",
+      "nest"
+     ],
+     "answer": "den",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

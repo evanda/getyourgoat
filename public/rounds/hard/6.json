@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 6,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-303",
+     "prompt": "20 × 14",
+     "answer": 280,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-027",
+     "prompt": "20²",
+     "answer": 400,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-045",
+     "prompt": "31 × 29",
+     "answer": 899,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-116",
+     "prompt": "Which Scottish missionary-explorer did Henry Morton Stanley find in 1871?",
+     "choices": [
+      "Mungo Park",
+      "John Speke",
+      "Richard Burton",
+      "David Livingstone"
+     ],
+     "answer": "David Livingstone",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-130",
+     "prompt": "Which Habsburg capital did the Ottomans besiege unsuccessfully in 1683?",
+     "choices": [
+      "Budapest",
+      "Vienna",
+      "Belgrade",
+      "Prague"
+     ],
+     "answer": "Vienna",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-011",
+     "prompt": "Which astronomer formulated three laws of planetary motion?",
+     "choices": [
+      "Galileo",
+      "Christiaan Huygens",
+      "Johannes Kepler",
+      "Tycho Brahe"
+     ],
+     "answer": "Johannes Kepler",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-083",
+     "prompt": "Who wrote the story cycle Red Cavalry?",
+     "choices": [
+      "Mikhail Sholokhov",
+      "Isaac Babel",
+      "Boris Pasternak",
+      "Mikhail Bulgakov"
+     ],
+     "answer": "Isaac Babel",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-166",
+     "prompt": "Who is the lover of Anna in Tolstoy's Anna Karenina?",
+     "choices": [
+      "Alexei Karenin",
+      "Konstantin Levin",
+      "Stiva Oblonsky",
+      "Count Vronsky"
+     ],
+     "answer": "Count Vronsky",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-230",
+     "prompt": "Who wrote the Idylls, founding pastoral poetry in Greek?",
+     "choices": [
+      "Theocritus",
+      "Callimachus",
+      "Hesiod",
+      "Pindar"
+     ],
+     "answer": "Theocritus",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-250",
+     "prompt": "A sudden outburst flood from beneath a glacier is called what?",
+     "choices": [
+      "Seiche",
+      "Lahar",
+      "Tsunami",
+      "Jokulhlaup"
+     ],
+     "answer": "Jokulhlaup",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-045",
+     "prompt": "Diorite is the intrusive equivalent of which volcanic rock?",
+     "choices": [
+      "Andesite",
+      "Rhyolite",
+      "Trachyte",
+      "Basalt"
+     ],
+     "answer": "Andesite",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-032",
+     "prompt": "Barite, heavy and used in drilling mud, contains which element?",
+     "choices": [
+      "Barium",
+      "Beryllium",
+      "Boron",
+      "Bismuth"
+     ],
+     "answer": "Barium",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-007",
+     "prompt": "Which Eleatic philosopher also commanded the Samian fleet against Athens?",
+     "choices": [
+      "Zeno of Elea",
+      "Parmenides",
+      "Xenophanes",
+      "Melissus"
+     ],
+     "answer": "Melissus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-248",
+     "prompt": "Which work by al-Ghazali is titled The Revival of the Religious Sciences?",
+     "choices": [
+      "Maqasid al-Falasifa",
+      "Mishkat al-Anwar",
+      "Ihya Ulum al-Din",
+      "Tahafut al-Falasifa"
+     ],
+     "answer": "Ihya Ulum al-Din",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-195",
+     "prompt": "Which Vienna Circle founder was killed by a student in 1936?",
+     "choices": [
+      "Moritz Schlick",
+      "Rudolf Carnap",
+      "Otto Neurath",
+      "Hans Hahn"
+     ],
+     "answer": "Moritz Schlick",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

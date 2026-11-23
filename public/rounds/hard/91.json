@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 91,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-292",
+     "prompt": "90 × 34",
+     "answer": 3060,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-007",
+     "prompt": "45% of 140",
+     "answer": 63,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-106",
+     "prompt": "30 × 21",
+     "answer": 630,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-095",
+     "prompt": "Which Bohemian reformer was burned at the stake at Constance in 1415?",
+     "choices": [
+      "Savonarola",
+      "John Wycliffe",
+      "Jan Hus",
+      "Jerome of Prague"
+     ],
+     "answer": "Jan Hus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-008",
+     "prompt": "Which French chemist is called the father of modern chemistry, executed in 1794?",
+     "choices": [
+      "Joseph Priestley",
+      "Jean-Baptiste Dumas",
+      "Claude Berthollet",
+      "Antoine Lavoisier"
+     ],
+     "answer": "Antoine Lavoisier",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-260",
+     "prompt": "Which Greek city founded Syracuse, Sicily's great colony?",
+     "choices": [
+      "Sparta",
+      "Megara",
+      "Athens",
+      "Corinth"
+     ],
+     "answer": "Corinth",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-093",
+     "prompt": "Who is traditionally credited with composing the Ramayana?",
+     "choices": [
+      "Kalidasa",
+      "Valmiki",
+      "Vyasa",
+      "Tulsidas"
+     ],
+     "answer": "Valmiki",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-176",
+     "prompt": "Who was the first Japanese winner of the Nobel Prize in Literature?",
+     "choices": [
+      "Jun'ichirō Tanizaki",
+      "Kenzaburō Ōe",
+      "Yasunari Kawabata",
+      "Yukio Mishima"
+     ],
+     "answer": "Yasunari Kawabata",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-173",
+     "prompt": "Who guides Dante through Paradise?",
+     "choices": [
+      "Beatrice",
+      "Francesca",
+      "Matelda",
+      "Lucia"
+     ],
+     "answer": "Beatrice",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-218",
+     "prompt": "The North Atlantic Oscillation relates pressure at Iceland with pressure at which island group?",
+     "choices": [
+      "Faroes",
+      "Canaries",
+      "Bermuda",
+      "Azores"
+     ],
+     "answer": "Azores",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-067",
+     "prompt": "Which rock has partly melted and shows mixed igneous and metamorphic bands?",
+     "choices": [
+      "Gneiss",
+      "Migmatite",
+      "Mylonite",
+      "Granulite"
+     ],
+     "answer": "Migmatite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-225",
+     "prompt": "Which cold current carries icebergs south past Newfoundland?",
+     "choices": [
+      "Gulf Stream",
+      "Labrador Current",
+      "North Atlantic Drift",
+      "Irminger Current"
+     ],
+     "answer": "Labrador Current",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-160",
+     "prompt": "Which American thinker wrote Woman in the Nineteenth Century?",
+     "choices": [
+      "Lucretia Mott",
+      "Elizabeth Cady Stanton",
+      "Margaret Fuller",
+      "Sarah Grimke"
+     ],
+     "answer": "Margaret Fuller",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-257",
+     "prompt": "Which Tanzanian leader built his politics on the philosophy of ujamaa?",
+     "choices": [
+      "Julius Nyerere",
+      "Kenneth Kaunda",
+      "Jomo Kenyatta",
+      "Kwame Nkrumah"
+     ],
+     "answer": "Julius Nyerere",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-026",
+     "prompt": "Who succeeded Speusippus as head of the Academy?",
+     "choices": [
+      "Arcesilaus",
+      "Polemo",
+      "Crantor",
+      "Xenocrates"
+     ],
+     "answer": "Xenocrates",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

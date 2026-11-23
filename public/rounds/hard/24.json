@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 24,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-225",
+     "prompt": "24 × 13",
+     "answer": 312,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-017",
+     "prompt": "25% of 200",
+     "answer": 50,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-016",
+     "prompt": "8 × 11 − 7 × 6",
+     "answer": 46,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-230",
+     "prompt": "Which first Bourbon king of France converted to Catholicism in 1593?",
+     "choices": [
+      "Francis I",
+      "Henry IV",
+      "Louis XIII",
+      "Henry III"
+     ],
+     "answer": "Henry IV",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-282",
+     "prompt": "Which Moscow prince defeated the Golden Horde at Kulikovo in 1380?",
+     "choices": [
+      "Alexander Nevsky",
+      "Dmitry Donskoy",
+      "Ivan Kalita",
+      "Ivan III"
+     ],
+     "answer": "Dmitry Donskoy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-005",
+     "prompt": "Which 338 BC battle gave Philip II of Macedon control of Greece?",
+     "choices": [
+      "Chaeronea",
+      "Plataea",
+      "Leuctra",
+      "Mantinea"
+     ],
+     "answer": "Chaeronea",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-126",
+     "prompt": "Who wrote the epic allegory The Faerie Queene?",
+     "choices": [
+      "Edmund Spenser",
+      "Thomas Wyatt",
+      "Philip Sidney",
+      "John Milton"
+     ],
+     "answer": "Edmund Spenser",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-240",
+     "prompt": "Who wrote the Latin novel The Golden Ass?",
+     "choices": [
+      "Petronius",
+      "Suetonius",
+      "Apuleius",
+      "Ovid"
+     ],
+     "answer": "Apuleius",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-224",
+     "prompt": "Who wrote the novel Family (Jia), a saga of a Sichuan household?",
+     "choices": [
+      "Mao Dun",
+      "Ba Jin",
+      "Yu Dafu",
+      "Lao She"
+     ],
+     "answer": "Ba Jin",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-199",
+     "prompt": "Which cold, gusty northeast wind blows down onto the Adriatic coast?",
+     "choices": [
+      "Levanter",
+      "Mistral",
+      "Meltemi",
+      "Bora"
+     ],
+     "answer": "Bora",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-284",
+     "prompt": "Aoraki/Mount Cook is the highest peak of which range?",
+     "choices": [
+      "Kaikoura Range",
+      "Southern Alps",
+      "Remarkables",
+      "Tararua Range"
+     ],
+     "answer": "Southern Alps",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-090",
+     "prompt": "Which fault zone cuts across the Scottish Highlands from Inverness to Fort William?",
+     "choices": [
+      "Highland Boundary Fault",
+      "Moine Thrust",
+      "Great Glen Fault",
+      "Southern Upland Fault"
+     ],
+     "answer": "Great Glen Fault",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-285",
+     "prompt": "Which Japanese Zen master popularized the koan of the sound of one hand?",
+     "choices": [
+      "Eisai",
+      "Dogen",
+      "Ikkyu",
+      "Hakuin"
+     ],
+     "answer": "Hakuin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-062",
+     "prompt": "Which Peripatetic of the first century BCE edited Aristotle's treatises into the form we have?",
+     "choices": [
+      "Strato",
+      "Andronicus of Rhodes",
+      "Alexander of Aphrodisias",
+      "Theophrastus"
+     ],
+     "answer": "Andronicus of Rhodes",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-216",
+     "prompt": "A being physically like us but lacking conscious experience is called what?",
+     "choices": [
+      "A philosophical zombie",
+      "A mind-clone",
+      "A homunculus",
+      "A Cartesian demon"
+     ],
+     "answer": "A philosophical zombie",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

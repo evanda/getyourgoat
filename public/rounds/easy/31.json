@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 31,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-108",
+     "prompt": "8 − 6",
+     "answer": 2,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-056",
+     "prompt": "49 + 49",
+     "answer": 98,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-233",
+     "prompt": "23 + 23",
+     "answer": 46,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-042",
+     "prompt": "Who was the Greek goddess of wisdom?",
+     "choices": [
+      "Hera",
+      "Aphrodite",
+      "Athena",
+      "Artemis"
+     ],
+     "answer": "Athena",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-164",
+     "prompt": "In which country is the Taj Mahal?",
+     "choices": [
+      "India",
+      "Egypt",
+      "China",
+      "Turkey"
+     ],
+     "answer": "India",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-307",
+     "prompt": "In castles, archers shot what from high walls?",
+     "choices": [
+      "Pizzas",
+      "Balloons",
+      "Snowballs",
+      "Arrows"
+     ],
+     "answer": "Arrows",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-139",
+     "prompt": "Which Beatrix Potter animal is a duck?",
+     "choices": [
+      "Squirrel Nutkin",
+      "Jemima Puddle-Duck",
+      "Tom Kitten",
+      "Benjamin Bunny"
+     ],
+     "answer": "Jemima Puddle-Duck",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-152",
+     "prompt": "What does Charlotte write in her web to save Wilbur?",
+     "choices": [
+      "Words",
+      "Pictures",
+      "Songs",
+      "Numbers"
+     ],
+     "answer": "Words",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-192",
+     "prompt": "Which Wind in the Willows animal is Ratty's friend who digs burrows?",
+     "choices": [
+      "Mole",
+      "Toad",
+      "Weasel",
+      "Stoat"
+     ],
+     "answer": "Mole",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-115",
+     "prompt": "What do we call a rock that has useful metal inside it?",
+     "choices": [
+      "Sand",
+      "Pebble",
+      "Ore",
+      "Clay"
+     ],
+     "answer": "Ore",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-088",
+     "prompt": "What is a giant group of billions of stars called?",
+     "choices": [
+      "Planet",
+      "Moon",
+      "Galaxy",
+      "Orbit"
+     ],
+     "answer": "Galaxy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-091",
+     "prompt": "What do we call a streak of light when a space rock burns up in the air?",
+     "choices": [
+      "Shooting star",
+      "Rainbow",
+      "Lightning",
+      "Comet"
+     ],
+     "answer": "Shooting star",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-238",
+     "prompt": "A bird's mouth is called a what?",
+     "choices": [
+      "trunk",
+      "beak",
+      "snout",
+      "muzzle"
+     ],
+     "answer": "beak",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-182",
+     "prompt": "Which animal can spray a stinky smell?",
+     "choices": [
+      "rabbit",
+      "skunk",
+      "duck",
+      "horse"
+     ],
+     "answer": "skunk",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-105",
+     "prompt": "A rabbit's home underground is called a what?",
+     "choices": [
+      "burrow",
+      "nest",
+      "hive",
+      "dam"
+     ],
+     "answer": "burrow",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

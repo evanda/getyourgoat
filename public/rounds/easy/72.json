@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 72,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-008",
+     "prompt": "1 + 2",
+     "answer": 3,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-182",
+     "prompt": "28 + 33",
+     "answer": 61,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-256",
+     "prompt": "6 + 2",
+     "answer": 8,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-194",
+     "prompt": "Before light bulbs, castles were lit by candles and what?",
+     "choices": [
+      "Neon signs",
+      "Screens",
+      "Torches",
+      "Flashlights"
+     ],
+     "answer": "Torches",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-142",
+     "prompt": "Who painted the ceiling of the Sistine Chapel?",
+     "choices": [
+      "Leonardo da Vinci",
+      "Picasso",
+      "Michelangelo",
+      "Van Gogh"
+     ],
+     "answer": "Michelangelo",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-133",
+     "prompt": "Old steam trains burned coal to heat water into what?",
+     "choices": [
+      "Ice",
+      "Steam",
+      "Juice",
+      "Milk"
+     ],
+     "answer": "Steam",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-214",
+     "prompt": "Which country is Heidi's story set in?",
+     "choices": [
+      "Sweden",
+      "Spain",
+      "Switzerland",
+      "Scotland"
+     ],
+     "answer": "Switzerland",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-303",
+     "prompt": "What did Hansel drop to mark the trail first (before breadcrumbs)?",
+     "choices": [
+      "Seeds",
+      "Pebbles",
+      "Coins",
+      "Beans"
+     ],
+     "answer": "Pebbles",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-006",
+     "prompt": "How many bears live in Goldilocks's story?",
+     "choices": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+     ],
+     "answer": "Three",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-112",
+     "prompt": "What do we call a very hard, shiny, clear gem?",
+     "choices": [
+      "Diamond",
+      "Chalk",
+      "Clay",
+      "Coal"
+     ],
+     "answer": "Diamond",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-129",
+     "prompt": "What is land with water on three sides called?",
+     "choices": [
+      "Peninsula",
+      "Island",
+      "Lake",
+      "Delta"
+     ],
+     "answer": "Peninsula",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-013",
+     "prompt": "What is a spinning funnel of wind that touches the ground called?",
+     "choices": [
+      "Rainbow",
+      "Breeze",
+      "Drizzle",
+      "Tornado"
+     ],
+     "answer": "Tornado",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-146",
+     "prompt": "Which is the fastest land animal?",
+     "choices": [
+      "lion",
+      "cheetah",
+      "horse",
+      "rabbit"
+     ],
+     "answer": "cheetah",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-126",
+     "prompt": "How many legs does a spider have?",
+     "choices": [
+      "6",
+      "8",
+      "4",
+      "10"
+     ],
+     "answer": "8",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-160",
+     "prompt": "The chrysalis stage in a butterfly's life is called a what?",
+     "choices": [
+      "larva",
+      "fry",
+      "kit",
+      "pupa"
+     ],
+     "answer": "pupa",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

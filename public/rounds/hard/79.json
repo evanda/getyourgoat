@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 79,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-139",
+     "prompt": "38 × 23",
+     "answer": 874,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-068",
+     "prompt": "384 ÷ 12",
+     "answer": 32,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-113",
+     "prompt": "27²",
+     "answer": 729,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-196",
+     "prompt": "Which Austrian archduke was made Emperor of Mexico in 1864?",
+     "choices": [
+      "Franz Joseph",
+      "Leopold",
+      "Ferdinand",
+      "Maximilian"
+     ],
+     "answer": "Maximilian",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-155",
+     "prompt": "Which queen of Jhansi was killed fighting the British in 1858?",
+     "choices": [
+      "Rani Chennamma",
+      "Begum Hazrat Mahal",
+      "Lakshmibai",
+      "Ahilyabai Holkar"
+     ],
+     "answer": "Lakshmibai",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-174",
+     "prompt": "Which 1838 battle saw Voortrekkers defeat the Zulu under Dingane?",
+     "choices": [
+      "Kimberley",
+      "Blood River",
+      "Majuba Hill",
+      "Isandlwana"
+     ],
+     "answer": "Blood River",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-226",
+     "prompt": "Who wrote the poem \"Elegy Written in a Country Churchyard\"?",
+     "choices": [
+      "Oliver Goldsmith",
+      "William Collins",
+      "Alexander Pope",
+      "Thomas Gray"
+     ],
+     "answer": "Thomas Gray",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-216",
+     "prompt": "Who wrote the play Cyrano de Bergerac?",
+     "choices": [
+      "Molière",
+      "Victor Hugo",
+      "Alfred de Musset",
+      "Edmond Rostand"
+     ],
+     "answer": "Edmond Rostand",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-144",
+     "prompt": "Who wrote The Charterhouse of Parma?",
+     "choices": [
+      "Stendhal",
+      "Gustave Flaubert",
+      "Victor Hugo",
+      "Honoré de Balzac"
+     ],
+     "answer": "Stendhal",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-095",
+     "prompt": "A curved chain of volcanic islands above a subduction zone is called what?",
+     "choices": [
+      "Island arc",
+      "Atoll ring",
+      "Hotspot track",
+      "Seamount chain"
+     ],
+     "answer": "Island arc",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-198",
+     "prompt": "Which dusty wind blows from the Sahara over West Africa in winter?",
+     "choices": [
+      "Shamal",
+      "Simoom",
+      "Khamsin",
+      "Harmattan"
+     ],
+     "answer": "Harmattan",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-056",
+     "prompt": "White Cliffs of Dover chalk is made mostly of shells of which microscopic algae?",
+     "choices": [
+      "Foraminifera",
+      "Radiolarians",
+      "Diatoms",
+      "Coccolithophores"
+     ],
+     "answer": "Coccolithophores",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-245",
+     "prompt": "Which Persian philosopher developed the doctrine of substantial motion?",
+     "choices": [
+      "Nasir al-Din Tusi",
+      "Avicenna",
+      "Suhrawardi",
+      "Mulla Sadra"
+     ],
+     "answer": "Mulla Sadra",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-124",
+     "prompt": "In which Berkeley work do Hylas and Philonous converse?",
+     "choices": [
+      "Siris",
+      "Three Dialogues",
+      "Alciphron",
+      "De Motu"
+     ],
+     "answer": "Three Dialogues",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-017",
+     "prompt": "Which Plato dialogue asks 'What is knowledge?' and rejects perception as the answer?",
+     "choices": [
+      "Theaetetus",
+      "Statesman",
+      "Parmenides",
+      "Cratylus"
+     ],
+     "answer": "Theaetetus",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

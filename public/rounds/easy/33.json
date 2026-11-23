@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 33,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-117",
+     "prompt": "33 + 25",
+     "answer": 58,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-285",
+     "prompt": "24 + 25",
+     "answer": 49,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-083",
+     "prompt": "9 − 3",
+     "answer": 6,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-192",
+     "prompt": "A British knight is called what before his name?",
+     "choices": [
+      "Sir",
+      "Mister",
+      "Doctor",
+      "Captain"
+     ],
+     "answer": "Sir",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-063",
+     "prompt": "Roman children wrote on tablets covered in what?",
+     "choices": [
+      "Glue",
+      "Butter",
+      "Jam",
+      "Wax"
+     ],
+     "answer": "Wax",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-312",
+     "prompt": "Which famous English writer wrote A Christmas Carol?",
+     "choices": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Roald Dahl",
+      "Mark Twain"
+     ],
+     "answer": "Charles Dickens",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-112",
+     "prompt": "What color is the Cat in the Hat's tall hat?",
+     "choices": [
+      "Red and white",
+      "Blue",
+      "Green",
+      "Yellow"
+     ],
+     "answer": "Red and white",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-181",
+     "prompt": "Whose nose grows when he tells lies?",
+     "choices": [
+      "Peter Pan",
+      "Tom Thumb",
+      "Aladdin",
+      "Pinocchio"
+     ],
+     "answer": "Pinocchio",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-168",
+     "prompt": "Who wrote Pippi Longstocking?",
+     "choices": [
+      "Astrid Lindgren",
+      "Roald Dahl",
+      "Hans Andersen",
+      "Selma Lagerlof"
+     ],
+     "answer": "Astrid Lindgren",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-039",
+     "prompt": "What do we call big sheets of moving ice?",
+     "choices": [
+      "Dunes",
+      "Canyons",
+      "Geysers",
+      "Glaciers"
+     ],
+     "answer": "Glaciers",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-067",
+     "prompt": "How many planets are in our solar system?",
+     "choices": [
+      "7",
+      "9",
+      "8",
+      "10"
+     ],
+     "answer": "8",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-212",
+     "prompt": "What is the capital of England?",
+     "choices": [
+      "Paris",
+      "London",
+      "Dublin",
+      "Rome"
+     ],
+     "answer": "London",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-284",
+     "prompt": "Which farm animal has a curly tail and a snout?",
+     "choices": [
+      "cow",
+      "horse",
+      "goat",
+      "pig"
+     ],
+     "answer": "pig",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-048",
+     "prompt": "A goat's call is called a what?",
+     "choices": [
+      "moo",
+      "oink",
+      "quack",
+      "bleat"
+     ],
+     "answer": "bleat",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-103",
+     "prompt": "Bees live together in a what?",
+     "choices": [
+      "den",
+      "nest",
+      "hive",
+      "burrow"
+     ],
+     "answer": "hive",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

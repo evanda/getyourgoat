@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "hard-earth-001",
+    "pick": "Topaz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-002",
+    "pick": "Apatite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-003",
+    "pick": "Fluorite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-004",
+    "pick": "Calcite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-005",
+    "pick": "Orthoclase",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-006",
+    "pick": "Mercury",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-007",
+    "pick": "Zinc",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-008",
+    "pick": "Tin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-009",
+    "pick": "Copper",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-010",
+    "pick": "Malachite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-011",
+    "pick": "Azurite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-012",
+    "pick": "Rhodochrosite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-013",
+    "pick": "Dolomite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-014",
+    "pick": "Olivine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-015",
+    "pick": "Quartz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-016",
+    "pick": "Lazurite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-017",
+    "pick": "Copper",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-018",
+    "pick": "Kaolinite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-019",
+    "pick": "Mica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-020",
+    "pick": "Serpentine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-021",
+    "pick": "90 degrees",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-022",
+    "pick": "Amphibole",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-023",
+    "pick": "Olivine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-024",
+    "pick": "Quartz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-025",
+    "pick": "Polymorphs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-026",
+    "pick": "Al2SiO5",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-027",
+    "pick": "Reddish brown",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-028",
+    "pick": "Greenish black",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-029",
+    "pick": "Iceland spar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-030",
+    "pick": "Zircon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-031",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-032",
+    "pick": "Barium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-033",
+    "pick": "Boron",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-034",
+    "pick": "Uranium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-035",
+    "pick": "Chromium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-036",
+    "pick": "Molybdenum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-037",
+    "pick": "Rutile",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-038",
+    "pick": "Zoisite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-039",
+    "pick": "Magnesium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-040",
+    "pick": "Kimberlite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-041",
+    "pick": "Pegmatite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-042",
+    "pick": "Microcrystalline quartz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-043",
+    "pick": "Rhyolite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-044",
+    "pick": "Gabbro",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-045",
+    "pick": "Andesite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-046",
+    "pick": "Peridotite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-047",
+    "pick": "Dunite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-048",
+    "pick": "Archean",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-049",
+    "pick": "Porphyritic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-050",
+    "pick": "Scoria",
+    "confidence": "medium",
+    "problem": "Scoria often but not always sinks; some vesicular scoria floats briefly"
+  },
+  {
+    "id": "hard-earth-051",
+    "pick": "Tuff",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-052",
+    "pick": "Ignimbrite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-053",
+    "pick": "Anorthosite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-054",
+    "pick": "Breccia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-055",
+    "pick": "Shale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-056",
+    "pick": "Coccolithophores",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-057",
+    "pick": "Coquina",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-058",
+    "pick": "Oolite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-059",
+    "pick": "Greywacke",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-060",
+    "pick": "Oxygen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-061",
+    "pick": "Water evaporates",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-062",
+    "pick": "Gneiss",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-063",
+    "pick": "Schist",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-064",
+    "pick": "Low temperature, high pressure",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-065",
+    "pick": "Eclogite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-066",
+    "pick": "Hornfels",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-067",
+    "pick": "Migmatite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-068",
+    "pick": "Mylonite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-069",
+    "pick": "Anthracite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-070",
+    "pick": "Peat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-071",
+    "pick": "Ophiolite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-072",
+    "pick": "Xenolith",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-073",
+    "pick": "Batholith",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-074",
+    "pick": "Laccolith",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-075",
+    "pick": "Harry Hess",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-076",
+    "pick": "Reversals of the magnetic field",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-077",
+    "pick": "Gondwana",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-078",
+    "pick": "Rodinia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-079",
+    "pick": "Panthalassa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-080",
+    "pick": "Laurasia and Gondwana",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-081",
+    "pick": "Tuzo Wilson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-082",
+    "pick": "Transform faults",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-083",
+    "pick": "East Pacific Rise",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-084",
+    "pick": "Gakkel Ridge",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-085",
+    "pick": "Juan de Fuca",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-086",
+    "pick": "Nazca",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-087",
+    "pick": "North Anatolian Fault",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-088",
+    "pick": "Alpine Fault",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-089",
+    "pick": "African",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-090",
+    "pick": "Great Glen Fault",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-091",
+    "pick": "Hayward Fault",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-092",
+    "pick": "Missouri",
+    "confidence": "medium",
+    "problem": "Zone spans MO, AR, TN, KY, IL; much seismicity lies in TN/AR, so 'centered in' is arguable"
+  },
+  {
+    "id": "hard-earth-093",
+    "pick": "Denali Fault",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-094",
+    "pick": "Wadati and Benioff",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-095",
+    "pick": "Island arc",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-096",
+    "pick": "Accretionary wedge",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-097",
+    "pick": "Terrane",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-098",
+    "pick": "Craton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-099",
+    "pick": "Craton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-100",
+    "pick": "Orogeny",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-101",
+    "pick": "Alleghanian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-102",
+    "pick": "Isostasy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-103",
+    "pick": "Isostatic rebound",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-104",
+    "pick": "Asthenosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-105",
+    "pick": "Mantle plume",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-106",
+    "pick": "India",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-107",
+    "pick": "Permian mass extinction",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-108",
+    "pick": "Idaho",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-109",
+    "pick": "Gutenberg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-110",
+    "pick": "Love wave",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-111",
+    "pick": "Modified Mercalli",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-112",
+    "pick": "Moment magnitude",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-113",
+    "pick": "Normal fault",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-114",
+    "pick": "Reverse fault",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-115",
+    "pick": "Graben",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-116",
+    "pick": "In the center",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-117",
+    "pick": "Strike",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-118",
+    "pick": "Angular unconformity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-119",
+    "pick": "Nonconformity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-120",
+    "pick": "Cross-cutting relationships",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-121",
+    "pick": "Charles Lyell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-122",
+    "pick": "William Smith",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-123",
+    "pick": "Nicolas Steno",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-124",
+    "pick": "Arthur Holmes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-125",
+    "pick": "Canyon Diablo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-126",
+    "pick": "50,000",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-127",
+    "pick": "Potassium-argon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-128",
+    "pick": "Ordovician",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-129",
+    "pick": "Silurian",
+    "confidence": "medium",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-130",
+    "pick": "Triassic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-131",
+    "pick": "Chalk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-132",
+    "pick": "Paleogene",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-133",
+    "pick": "Last glacial period",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-134",
+    "pick": "Ediacaran",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-135",
+    "pick": "Cryogenian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-136",
+    "pick": "2.4 billion years ago",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-137",
+    "pick": "Hadean",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-138",
+    "pick": "Archean",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-139",
+    "pick": "British Columbia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-140",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-141",
+    "pick": "Archaeopteryx",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-142",
+    "pick": "Devonian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-143",
+    "pick": "End-Triassic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-144",
+    "pick": "Stromatolites",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-145",
+    "pick": "Western Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-146",
+    "pick": "Sea scorpions",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-147",
+    "pick": "Squid and octopus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-148",
+    "pick": "Ordovician and Silurian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-149",
+    "pick": "Synapsids",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-150",
+    "pick": "Lystrosaurus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-151",
+    "pick": "Land plants and animals",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-152",
+    "pick": "Continental drift",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-153",
+    "pick": "Gondwana",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-154",
+    "pick": "Last Glacial Maximum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-155",
+    "pick": "Canada",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-156",
+    "pick": "Milankovitch cycles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-157",
+    "pick": "North Dakota",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-158",
+    "pick": "Lake Missoula",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-159",
+    "pick": "Great Salt Lake",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-160",
+    "pick": "Asteroid impact",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-161",
+    "pick": "South Africa",
+    "confidence": "medium",
+    "problem": "Vredefort usually cited as largest, but original-diameter estimates vary and Chicxulub/Sudbury are sometimes ranked comparable"
+  },
+  {
+    "id": "hard-earth-162",
+    "pick": "Canada",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-163",
+    "pick": "Sumatra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-164",
+    "pick": "1816",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-165",
+    "pick": "Philippines",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-166",
+    "pick": "Iceland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-167",
+    "pick": "Martinique",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-168",
+    "pick": "Aegean Sea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-169",
+    "pick": "Novarupta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-170",
+    "pick": "Paricutin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-171",
+    "pick": "Surtsey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-172",
+    "pick": "Tropopause",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-173",
+    "pick": "Stratopause",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-174",
+    "pick": "100 km",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-175",
+    "pick": "Thermosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-176",
+    "pick": "Exosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-177",
+    "pick": "Ionosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-178",
+    "pick": "Mesosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-179",
+    "pick": "Nitrogen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-180",
+    "pick": "Argon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-181",
+    "pick": "Noctilucent clouds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-182",
+    "pick": "Polar stratospheric clouds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-183",
+    "pick": "Dobson unit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-184",
+    "pick": "Montreal Protocol",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-185",
+    "pick": "Cirrocumulus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-186",
+    "pick": "Cirrostratus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-187",
+    "pick": "Lenticular clouds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-188",
+    "pick": "Mammatus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-189",
+    "pick": "Virga",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-190",
+    "pick": "Nimbostratus",
+    "confidence": "medium",
+    "problem": "WMO classes nimbostratus as a middle-level genus, though its base is often low; 'low' is a slight oversimplification"
+  },
+  {
+    "id": "hard-earth-191",
+    "pick": "Dew point",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-192",
+    "pick": "Adiabatic cooling",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-193",
+    "pick": "Orographic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-194",
+    "pick": "Rain shadow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-195",
+    "pick": "Chinook",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-196",
+    "pick": "Mistral",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-197",
+    "pick": "Sirocco",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-198",
+    "pick": "Harmattan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-199",
+    "pick": "Bora",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-200",
+    "pick": "Haboob",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-201",
+    "pick": "Derecho",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-202",
+    "pick": "Great Lakes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-203",
+    "pick": "Sprites",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-204",
+    "pick": "Corona",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-205",
+    "pick": "26.5 C",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-206",
+    "pick": "Coriolis effect",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-207",
+    "pick": "Hadley cell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-208",
+    "pick": "Intertropical Convergence Zone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-209",
+    "pick": "Horse latitudes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-210",
+    "pick": "Roaring Forties",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-211",
+    "pick": "Temperature inversion",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-212",
+    "pick": "Humidity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-213",
+    "pick": "Isobars",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-214",
+    "pick": "1013",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-215",
+    "pick": "Wladimir Koppen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-216",
+    "pick": "La Nina",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-217",
+    "pick": "Darwin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-218",
+    "pick": "Azores",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-219",
+    "pick": "McMurdo Sound",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-220",
+    "pick": "Stratosphere",
+    "confidence": "medium",
+    "problem": "A tropospheric polar vortex also exists; 'mainly in the stratosphere' is defensible but contestable"
+  },
+  {
+    "id": "hard-earth-221",
+    "pick": "Sudden stratospheric warming",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-222",
+    "pick": "Kuroshio",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-223",
+    "pick": "Peru",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-224",
+    "pick": "Benguela",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-225",
+    "pick": "Labrador Current",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-226",
+    "pick": "Antarctic Circumpolar Current",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-227",
+    "pick": "Temperature and salinity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-228",
+    "pick": "90 degrees",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-229",
+    "pick": "Sargasso Sea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-230",
+    "pick": "Thermocline",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-231",
+    "pick": "Puerto Rico Trench",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-232",
+    "pick": "Black smokers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-233",
+    "pick": "Chemosynthesis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-234",
+    "pick": "Guyot",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-235",
+    "pick": "Fringing reef",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-236",
+    "pick": "Wave-cut platform",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-237",
+    "pick": "Mediterranean",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-238",
+    "pick": "Tanganyika",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-239",
+    "pick": "Cirque",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-240",
+    "pick": "Arete",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-241",
+    "pick": "Horn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-242",
+    "pick": "Drumlin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-243",
+    "pick": "Esker",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-244",
+    "pick": "Kettle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-245",
+    "pick": "Glacial erratic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-246",
+    "pick": "Outwash plain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-247",
+    "pick": "Roche moutonnee",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-248",
+    "pick": "Nunatak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-249",
+    "pick": "Firn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-250",
+    "pick": "Jokulhlaup",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-251",
+    "pick": "Lambert Glacier",
+    "confidence": "medium",
+    "problem": "'Largest glacier' depends on metric (area vs. discharge vs. length); Lambert is the usual claim but definitions vary"
+  },
+  {
+    "id": "hard-earth-252",
+    "pick": "Ross Ice Shelf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-253",
+    "pick": "Aletsch Glacier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-254",
+    "pick": "Pingo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-255",
+    "pick": "Solifluction",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-256",
+    "pick": "B horizon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-257",
+    "pick": "Boreal forest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-258",
+    "pick": "Vertisol",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-259",
+    "pick": "Grassland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-260",
+    "pick": "Limestone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-261",
+    "pick": "Histosol",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-262",
+    "pick": "Exfoliation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-263",
+    "pick": "Hoodoos",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-264",
+    "pick": "Yardangs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-265",
+    "pick": "Inselberg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-266",
+    "pick": "Wadi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-267",
+    "pick": "Barchan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-268",
+    "pick": "Star dune",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-269",
+    "pick": "Erg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-270",
+    "pick": "Desert pavement",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-271",
+    "pick": "K2",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-272",
+    "pick": "Karakoram",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-273",
+    "pick": "Kangchenjunga",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-274",
+    "pick": "Elbrus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-275",
+    "pick": "Vinson Massif",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-276",
+    "pick": "Puncak Jaya",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-277",
+    "pick": "Mount Kosciuszko",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-278",
+    "pick": "Chimborazo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-279",
+    "pick": "Mount Whitney",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-280",
+    "pick": "Mount Rainier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-281",
+    "pick": "Mount Mitchell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-282",
+    "pick": "Toubkal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-283",
+    "pick": "Great Dividing Range",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-284",
+    "pick": "Southern Alps",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-285",
+    "pick": "Deodat de Dolomieu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-286",
+    "pick": "Drakensberg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-287",
+    "pick": "Volga",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-288",
+    "pick": "Yangtze",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-289",
+    "pick": "Rocky Mountains",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-290",
+    "pick": "Great Plains",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-291",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-292",
+    "pick": "Iceland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-293",
+    "pick": "Travertine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-294",
+    "pick": "Taklamakan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-295",
+    "pick": "Saudi Arabia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-296",
+    "pick": "Thar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-297",
+    "pick": "Sicily",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-298",
+    "pick": "New Guinea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-299",
+    "pick": "Arabian Peninsula",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-300",
+    "pick": "Lake Assal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-301",
+    "pick": "Andes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-302",
+    "pick": "26,000",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-303",
+    "pick": "41,000",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-304",
+    "pick": "South Atlantic Anomaly",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-305",
+    "pick": "Iron meteorite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-306",
+    "pick": "Tektites",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-307",
+    "pick": "Shock lamellae",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-308",
+    "pick": "Namibia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-309",
+    "pick": "Gold",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-310",
+    "pick": "Oil field",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-311",
+    "pick": "Alberta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-312",
+    "pick": "Lithium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-313",
+    "pick": "Copper",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-314",
+    "pick": "Placer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-earth-315",
+    "pick": "Porphyry deposits",
+    "confidence": "high",
+    "problem": null
+  }
+]

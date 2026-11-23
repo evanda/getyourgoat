@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 13,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-044",
+     "prompt": "27 × 23",
+     "answer": 621,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-239",
+     "prompt": "26 × 20",
+     "answer": 520,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-079",
+     "prompt": "423 ÷ 9",
+     "answer": 47,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-190",
+     "prompt": "Which scientists described DNA's double helix in 1953?",
+     "choices": [
+      "Pauling and Hodgkin",
+      "Watson and Crick",
+      "Sanger and Gilbert",
+      "Hershey and Chase"
+     ],
+     "answer": "Watson and Crick",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-064",
+     "prompt": "Which Castilian noble known as El Cid took Valencia in 1094?",
+     "choices": [
+      "Pelayo",
+      "Alfonso VI",
+      "Ferdinand III",
+      "Rodrigo Diaz"
+     ],
+     "answer": "Rodrigo Diaz",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-194",
+     "prompt": "Which 1122 agreement ended the Investiture Controversy?",
+     "choices": [
+      "Golden Bull",
+      "Concordat of Worms",
+      "Treaty of Verdun",
+      "Peace of Augsburg"
+     ],
+     "answer": "Concordat of Worms",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-058",
+     "prompt": "Which poet wrote Requiem about Stalin's terror?",
+     "choices": [
+      "Boris Pasternak",
+      "Marina Tsvetaeva",
+      "Osip Mandelstam",
+      "Anna Akhmatova"
+     ],
+     "answer": "Anna Akhmatova",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-286",
+     "prompt": "What is Balzac's vast cycle of novels called?",
+     "choices": [
+      "Les Mandarins",
+      "Les Rougon-Macquart",
+      "La Comédie humaine",
+      "Les Thibault"
+     ],
+     "answer": "La Comédie humaine",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-228",
+     "prompt": "Who wrote the Kenyan novel A Grain of Wheat?",
+     "choices": [
+      "Wole Soyinka",
+      "Ayi Kwei Armah",
+      "Chinua Achebe",
+      "Ngũgĩ wa Thiong'o"
+     ],
+     "answer": "Ngũgĩ wa Thiong'o",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-148",
+     "prompt": "Graptolites are important index fossils mainly in which two periods?",
+     "choices": [
+      "Devonian and Carboniferous",
+      "Permian and Triassic",
+      "Jurassic and Cretaceous",
+      "Ordovician and Silurian"
+     ],
+     "answer": "Ordovician and Silurian",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-189",
+     "prompt": "Rain streaks that evaporate before reaching the ground are called what?",
+     "choices": [
+      "Fallstreak holes",
+      "Graupel",
+      "Haze",
+      "Virga"
+     ],
+     "answer": "Virga",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-176",
+     "prompt": "Which is the outermost layer of Earth's atmosphere?",
+     "choices": [
+      "Mesosphere",
+      "Ionosphere",
+      "Exosphere",
+      "Thermosphere"
+     ],
+     "answer": "Exosphere",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-254",
+     "prompt": "In which city was Maimonides born?",
+     "choices": [
+      "Toledo",
+      "Seville",
+      "Cordoba",
+      "Granada"
+     ],
+     "answer": "Cordoba",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-253",
+     "prompt": "Which Jewish poet-philosopher wrote the Kuzari?",
+     "choices": [
+      "Abraham ibn Ezra",
+      "Judah Halevi",
+      "Gersonides",
+      "Saadia Gaon"
+     ],
+     "answer": "Judah Halevi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-256",
+     "prompt": "Which Ghanaian leader wrote the philosophical work Consciencism?",
+     "choices": [
+      "Patrice Lumumba",
+      "Julius Nyerere",
+      "Leopold Senghor",
+      "Kwame Nkrumah"
+     ],
+     "answer": "Kwame Nkrumah",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

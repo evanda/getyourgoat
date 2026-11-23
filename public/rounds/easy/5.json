@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 5,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-247",
+     "prompt": "43 + 43",
+     "answer": 86,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-170",
+     "prompt": "26 − 2",
+     "answer": 24,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-232",
+     "prompt": "10 × 6",
+     "answer": 60,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-082",
+     "prompt": "Which ancient people wrote on clay tablets with wedge marks?",
+     "choices": [
+      "Vikings",
+      "Pirates",
+      "Sumerians",
+      "Cowboys"
+     ],
+     "answer": "Sumerians",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-069",
+     "prompt": "Which country first made paper?",
+     "choices": [
+      "France",
+      "China",
+      "Brazil",
+      "Canada"
+     ],
+     "answer": "China",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-044",
+     "prompt": "The marathon race is named after a place in which country?",
+     "choices": [
+      "Greece",
+      "Spain",
+      "Egypt",
+      "Mexico"
+     ],
+     "answer": "Greece",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-069",
+     "prompt": "In which fable does a boy keep yelling \"wolf\" as a joke?",
+     "choices": [
+      "The Lion and the Mouse",
+      "The Fox and the Grapes",
+      "The Ant and the Grasshopper",
+      "The Boy Who Cried Wolf"
+     ],
+     "answer": "The Boy Who Cried Wolf",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-063",
+     "prompt": "How does Dorothy get to Oz?",
+     "choices": [
+      "A boat",
+      "A tornado",
+      "A balloon",
+      "A train"
+     ],
+     "answer": "A tornado",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-040",
+     "prompt": "What did Puss in Boots wear on his feet?",
+     "choices": [
+      "Boots",
+      "Slippers",
+      "Sandals",
+      "Socks"
+     ],
+     "answer": "Boots",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-304",
+     "prompt": "Which planet is made mostly of gas and is the second biggest?",
+     "choices": [
+      "Saturn",
+      "Mars",
+      "Earth",
+      "Mercury"
+     ],
+     "answer": "Saturn",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-025",
+     "prompt": "What does ice turn into when it melts?",
+     "choices": [
+      "Gas",
+      "Rock",
+      "Liquid water",
+      "Sand"
+     ],
+     "answer": "Liquid water",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-248",
+     "prompt": "Which of these is a dwarf planet?",
+     "choices": [
+      "Mars",
+      "Venus",
+      "Pluto",
+      "Saturn"
+     ],
+     "answer": "Pluto",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-032",
+     "prompt": "A group of dolphins is called a what?",
+     "choices": [
+      "pride",
+      "flock",
+      "herd",
+      "pod"
+     ],
+     "answer": "pod",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-140",
+     "prompt": "Which of these is a bird?",
+     "choices": [
+      "bat",
+      "dolphin",
+      "butterfly",
+      "penguin"
+     ],
+     "answer": "penguin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-197",
+     "prompt": "Spiders spin webs from what?",
+     "choices": [
+      "silk",
+      "cotton",
+      "paper",
+      "hair"
+     ],
+     "answer": "silk",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

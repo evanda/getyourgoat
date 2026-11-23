@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 78,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-126",
+     "prompt": "7 − 2",
+     "answer": 5,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-048",
+     "prompt": "40 + 40",
+     "answer": 80,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-120",
+     "prompt": "30 − 7",
+     "answer": 23,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-280",
+     "prompt": "The Mona Lisa hangs in which famous Paris museum?",
+     "choices": [
+      "The Louvre",
+      "The Tate",
+      "The Smithsonian",
+      "The Prado"
+     ],
+     "answer": "The Louvre",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-139",
+     "prompt": "Louis Braille made a reading system for blind people using what?",
+     "choices": [
+      "Colors",
+      "Songs",
+      "Smells",
+      "Raised dots"
+     ],
+     "answer": "Raised dots",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-073",
+     "prompt": "Which animal starts the Chinese zodiac?",
+     "choices": [
+      "Dragon",
+      "Rat",
+      "Tiger",
+      "Ox"
+     ],
+     "answer": "Rat",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-215",
+     "prompt": "Who wrote Little Women?",
+     "choices": [
+      "Jane Austen",
+      "Louisa May Alcott",
+      "L. M. Montgomery",
+      "Beatrix Potter"
+     ],
+     "answer": "Louisa May Alcott",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-117",
+     "prompt": "Which animal hears a Who on a speck of dust?",
+     "choices": [
+      "Yertle the turtle",
+      "The Lorax",
+      "The Cat",
+      "Horton the elephant"
+     ],
+     "answer": "Horton the elephant",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-159",
+     "prompt": "The White Witch made it always winter but never what?",
+     "choices": [
+      "Spring",
+      "Christmas",
+      "Easter",
+      "Summer"
+     ],
+     "answer": "Christmas",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-075",
+     "prompt": "Which planet is the hottest, with a thick, hot air blanket?",
+     "choices": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Neptune"
+     ],
+     "answer": "Venus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-018",
+     "prompt": "What is the name for puffy, white clouds that look like cotton?",
+     "choices": [
+      "Cirrus",
+      "Stratus",
+      "Nimbus",
+      "Cumulus"
+     ],
+     "answer": "Cumulus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-093",
+     "prompt": "What shape is Earth?",
+     "choices": [
+      "Flat like a plate",
+      "Square",
+      "Shaped like a cone",
+      "Round like a ball"
+     ],
+     "answer": "Round like a ball",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-002",
+     "prompt": "A baby dog is called a what?",
+     "choices": [
+      "kitten",
+      "puppy",
+      "cub",
+      "chick"
+     ],
+     "answer": "puppy",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-199",
+     "prompt": "Crickets chirp by rubbing their what?",
+     "choices": [
+      "knees",
+      "noses",
+      "wings",
+      "tails"
+     ],
+     "answer": "wings",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-020",
+     "prompt": "A baby seal is called a what?",
+     "choices": [
+      "kid",
+      "foal",
+      "lamb",
+      "pup"
+     ],
+     "answer": "pup",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

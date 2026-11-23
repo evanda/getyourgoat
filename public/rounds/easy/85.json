@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 85,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-065",
+     "prompt": "13 + 8",
+     "answer": 21,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-291",
+     "prompt": "41 + 41",
+     "answer": 82,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-146",
+     "prompt": "6 × 7",
+     "answer": 42,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-291",
+     "prompt": "Which country first made pizza?",
+     "choices": [
+      "Japan",
+      "Brazil",
+      "Mexico",
+      "Italy"
+     ],
+     "answer": "Italy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-203",
+     "prompt": "What was the Vikings' writing called?",
+     "choices": [
+      "Emojis",
+      "Hieroglyphs",
+      "Braille",
+      "Runes"
+     ],
+     "answer": "Runes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-302",
+     "prompt": "What do astronauts wear to walk on the Moon?",
+     "choices": [
+      "Swimsuits",
+      "Raincoats",
+      "Spacesuits",
+      "Pajamas"
+     ],
+     "answer": "Spacesuits",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-082",
+     "prompt": "Who is Mother Goose famous for?",
+     "choices": [
+      "Cooking",
+      "Painting",
+      "Nursery rhymes",
+      "Dancing"
+     ],
+     "answer": "Nursery rhymes",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-176",
+     "prompt": "Where does Peter Pan live?",
+     "choices": [
+      "Neverland",
+      "Wonderland",
+      "Narnia",
+      "Oz"
+     ],
+     "answer": "Neverland",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-223",
+     "prompt": "Who wrote The Adventures of Tom Sawyer?",
+     "choices": [
+      "Charles Dickens",
+      "Mark Twain",
+      "Robert Louis Stevenson",
+      "Jack London"
+     ],
+     "answer": "Mark Twain",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-133",
+     "prompt": "What do we call a hot spring that shoots water into the air?",
+     "choices": [
+      "Glacier",
+      "Geyser",
+      "Canyon",
+      "Dune"
+     ],
+     "answer": "Geyser",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-052",
+     "prompt": "Which season comes after winter?",
+     "choices": [
+      "Summer",
+      "Spring",
+      "Fall",
+      "Winter again"
+     ],
+     "answer": "Spring",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-092",
+     "prompt": "What do we call the Sun and all that goes around it?",
+     "choices": [
+      "Milky Bay",
+      "Star map",
+      "Moon web",
+      "Solar system"
+     ],
+     "answer": "Solar system",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-125",
+     "prompt": "Penguins are what kind of animal?",
+     "choices": [
+      "birds",
+      "fish",
+      "mammals",
+      "reptiles"
+     ],
+     "answer": "birds",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-109",
+     "prompt": "Animals that travel far to warmer places are doing what?",
+     "choices": [
+      "migrating",
+      "hibernating",
+      "digging",
+      "molting"
+     ],
+     "answer": "migrating",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-087",
+     "prompt": "Animals that eat plants and meat are called what?",
+     "choices": [
+      "herbivores",
+      "carnivores",
+      "omnivores",
+      "vegans"
+     ],
+     "answer": "omnivores",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

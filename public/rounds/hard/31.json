@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 31,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-281",
+     "prompt": "10 × 11 − 7 × 11",
+     "answer": 33,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-264",
+     "prompt": "18 × 17",
+     "answer": 306,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-199",
+     "prompt": "10% of 460",
+     "answer": 46,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-141",
+     "prompt": "Which 1763 treaty ended the Seven Years' War and gave Britain New France?",
+     "choices": [
+      "Treaty of Paris",
+      "Treaty of Versailles",
+      "Treaty of Ghent",
+      "Treaty of Utrecht"
+     ],
+     "answer": "Treaty of Paris",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-102",
+     "prompt": "Which 1652 Dutch colonist founded Cape Town's settlement?",
+     "choices": [
+      "Cecil Rhodes",
+      "Jan van Riebeeck",
+      "Simon van der Stel",
+      "Paul Kruger"
+     ],
+     "answer": "Jan van Riebeeck",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-028",
+     "prompt": "Which 1916 naval clash in the North Sea was the largest of WWI?",
+     "choices": [
+      "Coronel",
+      "Dogger Bank",
+      "Heligoland Bight",
+      "Jutland"
+     ],
+     "answer": "Jutland",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-178",
+     "prompt": "Who wrote The Consolation of Philosophy while imprisoned?",
+     "choices": [
+      "Cassiodorus",
+      "Lucretius",
+      "Augustine",
+      "Boethius"
+     ],
+     "answer": "Boethius",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-207",
+     "prompt": "Who wrote the novel The Time of the Hero?",
+     "choices": [
+      "Alejo Carpentier",
+      "Julio Cortázar",
+      "Mario Vargas Llosa",
+      "José María Arguedas"
+     ],
+     "answer": "Mario Vargas Llosa",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-258",
+     "prompt": "Who wrote the play The Playboy of the Western World?",
+     "choices": [
+      "W. B. Yeats",
+      "Brendan Behan",
+      "Sean O'Casey",
+      "J. M. Synge"
+     ],
+     "answer": "J. M. Synge",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-017",
+     "prompt": "Turquoise gets its blue-green color from which metal?",
+     "choices": [
+      "Copper",
+      "Nickel",
+      "Chromium",
+      "Cobalt"
+     ],
+     "answer": "Copper",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-167",
+     "prompt": "The 1902 eruption of Mount Pelee destroyed the city of Saint-Pierre on which island?",
+     "choices": [
+      "Montserrat",
+      "Saint Lucia",
+      "Guadeloupe",
+      "Martinique"
+     ],
+     "answer": "Martinique",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-101",
+     "prompt": "The Appalachians were uplifted partly by a collision during which orogeny?",
+     "choices": [
+      "Sevier",
+      "Alleghanian",
+      "Nevadan",
+      "Laramide"
+     ],
+     "answer": "Alleghanian",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-284",
+     "prompt": "Which Japanese Zen master wrote the Shobogenzo and founded Soto in Japan?",
+     "choices": [
+      "Eisai",
+      "Dogen",
+      "Bankei",
+      "Hakuin"
+     ],
+     "answer": "Dogen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-298",
+     "prompt": "Which sage is credited with the Nyaya Sutras on logic?",
+     "choices": [
+      "Gautama Akshapada",
+      "Patanjali",
+      "Jaimini",
+      "Kanada"
+     ],
+     "answer": "Gautama Akshapada",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-077",
+     "prompt": "Which Abelard work sets conflicting authorities side by side?",
+     "choices": [
+      "Scito te ipsum",
+      "Dialectica",
+      "Sic et Non",
+      "Historia Calamitatum"
+     ],
+     "answer": "Sic et Non",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

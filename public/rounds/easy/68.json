@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 68,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-092",
+     "prompt": "8 × 7",
+     "answer": 56,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-124",
+     "prompt": "25 + 6",
+     "answer": 31,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-264",
+     "prompt": "5 − 1",
+     "answer": 4,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-200",
+     "prompt": "What were Viking ships called?",
+     "choices": [
+      "Longships",
+      "Skyboats",
+      "Bathtubs",
+      "Trains"
+     ],
+     "answer": "Longships",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-067",
+     "prompt": "In which country is the Great Wall found?",
+     "choices": [
+      "Peru",
+      "Egypt",
+      "Norway",
+      "China"
+     ],
+     "answer": "China",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-211",
+     "prompt": "Before cars, people traveled by horse and what?",
+     "choices": [
+      "Skateboard",
+      "Scooter",
+      "Rocket",
+      "Carriage"
+     ],
+     "answer": "Carriage",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-259",
+     "prompt": "Which Norse god carries a hammer and makes thunder?",
+     "choices": [
+      "Odin",
+      "Thor",
+      "Loki",
+      "Balder"
+     ],
+     "answer": "Thor",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-260",
+     "prompt": "What is the name of Thor's hammer?",
+     "choices": [
+      "Mjolnir",
+      "Excalibur",
+      "Stormbreaker",
+      "Gungnir"
+     ],
+     "answer": "Mjolnir",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-106",
+     "prompt": "What did the Queen of Hearts make, in the rhyme?",
+     "choices": [
+      "Cakes",
+      "Cookies",
+      "Tarts",
+      "Bread"
+     ],
+     "answer": "Tarts",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-149",
+     "prompt": "What is a very tall wave caused by an underwater quake called?",
+     "choices": [
+      "Ripple",
+      "Tsunami",
+      "Breeze",
+      "Puddle"
+     ],
+     "answer": "Tsunami",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-249",
+     "prompt": "What is the name of the star at the center of our solar system?",
+     "choices": [
+      "Polaris",
+      "Sirius",
+      "Sun",
+      "Vega"
+     ],
+     "answer": "Sun",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-034",
+     "prompt": "Which gas in the air do people need to breathe?",
+     "choices": [
+      "Helium",
+      "Gold",
+      "Steam",
+      "Oxygen"
+     ],
+     "answer": "Oxygen",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-114",
+     "prompt": "Llamas live in the Andes mountains of what continent?",
+     "choices": [
+      "Africa",
+      "South America",
+      "Europe",
+      "Antarctica"
+     ],
+     "answer": "South America",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-222",
+     "prompt": "Which sea animal has two long tusks and lives in cold water?",
+     "choices": [
+      "dolphin",
+      "walrus",
+      "crab",
+      "turtle"
+     ],
+     "answer": "walrus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-094",
+     "prompt": "Elephants eat mostly what?",
+     "choices": [
+      "meat",
+      "plants",
+      "fish",
+      "insects"
+     ],
+     "answer": "plants",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

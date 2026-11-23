@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 92,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-254",
+     "prompt": "25 + 3",
+     "answer": 28,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-100",
+     "prompt": "14 + 6",
+     "answer": 20,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-014",
+     "prompt": "13 + 13",
+     "answer": 26,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-298",
+     "prompt": "Which famous Roman said Veni, vidi, vici?",
+     "choices": [
+      "Augustus",
+      "Thor",
+      "Julius Caesar",
+      "Zeus"
+     ],
+     "answer": "Julius Caesar",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-191",
+     "prompt": "Before printers, monks made books by copying them how?",
+     "choices": [
+      "With a printer",
+      "With a copier",
+      "With a computer",
+      "By hand"
+     ],
+     "answer": "By hand",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-235",
+     "prompt": "How many wives did King Henry VIII of England have?",
+     "choices": [
+      "2",
+      "4",
+      "10",
+      "6"
+     ],
+     "answer": "6",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-056",
+     "prompt": "What did Sinbad do for a living in the old tales?",
+     "choices": [
+      "Sailed the seas",
+      "Farmed",
+      "Baked bread",
+      "Built castles"
+     ],
+     "answer": "Sailed the seas",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-195",
+     "prompt": "What does the very hungry caterpillar become?",
+     "choices": [
+      "A moth",
+      "A butterfly",
+      "A bee",
+      "A bird"
+     ],
+     "answer": "A butterfly",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-313",
+     "prompt": "In Charlotte's Web, what is the first word in the web?",
+     "choices": [
+      "Hello",
+      "Terrific",
+      "Radiant",
+      "Some Pig"
+     ],
+     "answer": "Some Pig",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-160",
+     "prompt": "Which ocean is between Africa and Australia?",
+     "choices": [
+      "Indian",
+      "Arctic",
+      "Atlantic",
+      "Pacific"
+     ],
+     "answer": "Indian",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-286",
+     "prompt": "What invisible force pulls things toward Earth?",
+     "choices": [
+      "Wind",
+      "Magic",
+      "Gravity",
+      "Sound"
+     ],
+     "answer": "Gravity",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-081",
+     "prompt": "What do we call the Moon when we see all of its lit side?",
+     "choices": [
+      "Full Moon",
+      "New Moon",
+      "Half Moon",
+      "Crescent"
+     ],
+     "answer": "Full Moon",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-098",
+     "prompt": "Camels can live in the hot what?",
+     "choices": [
+      "ocean",
+      "desert",
+      "jungle",
+      "snow"
+     ],
+     "answer": "desert",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-228",
+     "prompt": "Which crawling animal leaves a slime trail?",
+     "choices": [
+      "ant",
+      "beetle",
+      "bee",
+      "snail"
+     ],
+     "answer": "snail",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-295",
+     "prompt": "Which animal is a pet that says \"meow\" and loves naps?",
+     "choices": [
+      "dog",
+      "cow",
+      "cat",
+      "hen"
+     ],
+     "answer": "cat",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

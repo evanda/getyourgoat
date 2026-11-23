@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 23,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-093",
+     "prompt": "52 × 47",
+     "answer": 2444,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-002",
+     "prompt": "9 × 9 − 7 × 6",
+     "answer": 39,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-077",
+     "prompt": "46 × 22",
+     "answer": 1012,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-013",
+     "prompt": "Who wrote The Tale of Genji?",
+     "choices": [
+      "Murasaki Shikibu",
+      "Izumi Shikibu",
+      "Sei Shonagon",
+      "Ono no Komachi"
+     ],
+     "answer": "Murasaki Shikibu",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-070",
+     "prompt": "Which 1945 conference of Allied leaders met in Crimea?",
+     "choices": [
+      "Tehran",
+      "Yalta",
+      "Casablanca",
+      "Potsdam"
+     ],
+     "answer": "Yalta",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-219",
+     "prompt": "Which Dominican friar defended Indigenous peoples in the Spanish colonies?",
+     "choices": [
+      "Francisco de Vitoria",
+      "Junipero Serra",
+      "Bartolome de las Casas",
+      "Juan de Zumarraga"
+     ],
+     "answer": "Bartolome de las Casas",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-200",
+     "prompt": "Who compiled the Finnish epic Kalevala?",
+     "choices": [
+      "Johan Ludvig Runeberg",
+      "Mika Waltari",
+      "Aleksis Kivi",
+      "Elias Lönnrot"
+     ],
+     "answer": "Elias Lönnrot",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-288",
+     "prompt": "Who wrote the novel Nana?",
+     "choices": [
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Guy de Maupassant",
+      "J.-K. Huysmans"
+     ],
+     "answer": "Émile Zola",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-172",
+     "prompt": "Who wrote the novel A Passage to India?",
+     "choices": [
+      "Evelyn Waugh",
+      "Rudyard Kipling",
+      "Joseph Conrad",
+      "E. M. Forster"
+     ],
+     "answer": "E. M. Forster",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-124",
+     "prompt": "Who pioneered the radiometric geologic time scale in the early 1900s?",
+     "choices": [
+      "Clair Patterson",
+      "Arthur Holmes",
+      "Bertram Boltwood",
+      "Ernest Rutherford"
+     ],
+     "answer": "Arthur Holmes",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-034",
+     "prompt": "Uraninite, also called pitchblende, is an ore of which element?",
+     "choices": [
+      "Thorium",
+      "Plutonium",
+      "Uranium",
+      "Radium"
+     ],
+     "answer": "Uranium",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-054",
+     "prompt": "A sedimentary rock made of angular fragments cemented together is called what?",
+     "choices": [
+      "Arkose",
+      "Siltstone",
+      "Conglomerate",
+      "Breccia"
+     ],
+     "answer": "Breccia",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-132",
+     "prompt": "Which Kant work contains the 'starry heavens above me and the moral law within me'?",
+     "choices": [
+      "Critique of Judgment",
+      "Metaphysics of Morals",
+      "Critique of Pure Reason",
+      "Critique of Practical Reason"
+     ],
+     "answer": "Critique of Practical Reason",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-018",
+     "prompt": "Which Plato dialogue seeks a definition of courage with two Athenian generals?",
+     "choices": [
+      "Euthyphro",
+      "Laches",
+      "Charmides",
+      "Lysis"
+     ],
+     "answer": "Laches",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-101",
+     "prompt": "Which Spinoza work of 1670 argued for freedom to philosophize and criticized scriptural authority?",
+     "choices": [
+      "Political Treatise",
+      "Theological-Political Treatise",
+      "Principles of Cartesian Philosophy",
+      "Short Treatise"
+     ],
+     "answer": "Theological-Political Treatise",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

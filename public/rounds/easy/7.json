@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 7,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-288",
+     "prompt": "2 × 7",
+     "answer": 14,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-239",
+     "prompt": "17 − 9",
+     "answer": 8,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-051",
+     "prompt": "9 − 5",
+     "answer": 4,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-150",
+     "prompt": "In which year did people first land on the Moon?",
+     "choices": [
+      "1869",
+      "1999",
+      "1969",
+      "1929"
+     ],
+     "answer": "1969",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-010",
+     "prompt": "Which queen of Egypt lived about 2,000 years ago?",
+     "choices": [
+      "Queen Victoria",
+      "Marie Curie",
+      "Cleopatra",
+      "Cinderella"
+     ],
+     "answer": "Cleopatra",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-179",
+     "prompt": "What could be pulled up to keep people out of a castle?",
+     "choices": [
+      "Skybridge",
+      "Footbridge",
+      "Bridge of sighs",
+      "Drawbridge"
+     ],
+     "answer": "Drawbridge",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-302",
+     "prompt": "What did Goldilocks do when the bears came home?",
+     "choices": [
+      "Ate more porridge",
+      "Hid in the cupboard",
+      "Ran away",
+      "Sang a song"
+     ],
+     "answer": "Ran away",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-122",
+     "prompt": "Who wrote Charlie and the Chocolate Factory?",
+     "choices": [
+      "Dr. Seuss",
+      "E. B. White",
+      "Roald Dahl",
+      "C. S. Lewis"
+     ],
+     "answer": "Roald Dahl",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-032",
+     "prompt": "Who spun straw into gold in the tale of Rumpelstiltskin?",
+     "choices": [
+      "Rumpelstiltskin",
+      "The miller",
+      "The king",
+      "The fairy"
+     ],
+     "answer": "Rumpelstiltskin",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-074",
+     "prompt": "Which planet is farthest from the Sun?",
+     "choices": [
+      "Mars",
+      "Neptune",
+      "Earth",
+      "Saturn"
+     ],
+     "answer": "Neptune",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-063",
+     "prompt": "What does the Sun give us?",
+     "choices": [
+      "Rain and snow",
+      "Light and heat",
+      "Rocks and sand",
+      "Wind and waves"
+     ],
+     "answer": "Light and heat",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-221",
+     "prompt": "What is the bottom point of Earth called?",
+     "choices": [
+      "North Pole",
+      "Equator",
+      "Prime point",
+      "South Pole"
+     ],
+     "answer": "South Pole",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-017",
+     "prompt": "A butterfly egg hatches into a what?",
+     "choices": [
+      "caterpillar",
+      "tadpole",
+      "puppy",
+      "chick"
+     ],
+     "answer": "caterpillar",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-118",
+     "prompt": "Animals that are awake at night are called what?",
+     "choices": [
+      "diurnal",
+      "nocturnal",
+      "tropical",
+      "frozen"
+     ],
+     "answer": "nocturnal",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-120",
+     "prompt": "Dolphins are what kind of animal?",
+     "choices": [
+      "fish",
+      "reptiles",
+      "birds",
+      "mammals"
+     ],
+     "answer": "mammals",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 82,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-236",
+     "prompt": "677 × 8",
+     "answer": 5416,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-150",
+     "prompt": "59 × 45",
+     "answer": 2655,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-132",
+     "prompt": "75% of 40",
+     "answer": 30,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-085",
+     "prompt": "In which year did Pedro I declare Brazil independent from Portugal?",
+     "choices": [
+      "1822",
+      "1808",
+      "1889",
+      "1831"
+     ],
+     "answer": "1822",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-104",
+     "prompt": "Which German field marshal was nicknamed the Desert Fox?",
+     "choices": [
+      "Gerd von Rundstedt",
+      "Walter Model",
+      "Erich von Manstein",
+      "Erwin Rommel"
+     ],
+     "answer": "Erwin Rommel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-294",
+     "prompt": "Which of China's Three Kingdoms was founded by Cao Pi?",
+     "choices": [
+      "Jin",
+      "Wei",
+      "Wu",
+      "Shu"
+     ],
+     "answer": "Wei",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-254",
+     "prompt": "Who wrote the epistolary novel So Long a Letter?",
+     "choices": [
+      "Mariama Bâ",
+      "Buchi Emecheta",
+      "Ama Ata Aidoo",
+      "Flora Nwapa"
+     ],
+     "answer": "Mariama Bâ",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-274",
+     "prompt": "Who wrote the poem cycle Duino Elegies?",
+     "choices": [
+      "Hugo von Hofmannsthal",
+      "Georg Trakl",
+      "Rainer Maria Rilke",
+      "Stefan George"
+     ],
+     "answer": "Rainer Maria Rilke",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-014",
+     "prompt": "Who wrote the play The Lion and the Jewel?",
+     "choices": [
+      "Athol Fugard",
+      "Ngũgĩ wa Thiong'o",
+      "Wole Soyinka",
+      "Chinua Achebe"
+     ],
+     "answer": "Wole Soyinka",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-058",
+     "prompt": "Limestone made of tiny rounded concentric grains is called what?",
+     "choices": [
+      "Oolite",
+      "Travertine",
+      "Chalk",
+      "Coquina"
+     ],
+     "answer": "Oolite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-265",
+     "prompt": "An isolated rock hill rising abruptly from a plain, such as Uluru, is called what?",
+     "choices": [
+      "Mesa",
+      "Drumlin",
+      "Inselberg",
+      "Butte"
+     ],
+     "answer": "Inselberg",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-221",
+     "prompt": "A rapid rise in polar stratospheric temperature in winter is called what?",
+     "choices": [
+      "Sudden stratospheric warming",
+      "Arctic oscillation",
+      "Ozone recovery",
+      "Polar amplification"
+     ],
+     "answer": "Sudden stratospheric warming",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-047",
+     "prompt": "What Greek term names the Pyrrhonists' suspension of judgment?",
+     "choices": [
+      "Epoche",
+      "Aporia",
+      "Anamnesis",
+      "Akrasia"
+     ],
+     "answer": "Epoche",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-270",
+     "prompt": "Which Legalist statesman reformed Qin and is credited with the Book of Lord Shang?",
+     "choices": [
+      "Shen Buhai",
+      "Li Si",
+      "Shang Yang",
+      "Han Feizi"
+     ],
+     "answer": "Shang Yang",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-144",
+     "prompt": "Which Nietzsche book first announces that God is dead?",
+     "choices": [
+      "The Gay Science",
+      "Beyond Good and Evil",
+      "Twilight of the Idols",
+      "Daybreak"
+     ],
+     "answer": "The Gay Science",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

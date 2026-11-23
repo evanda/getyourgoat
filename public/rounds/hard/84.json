@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 84,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-072",
+     "prompt": "26 × 18",
+     "answer": 468,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-047",
+     "prompt": "687 × 9",
+     "answer": 6183,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-174",
+     "prompt": "46 × 29",
+     "answer": 1334,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-157",
+     "prompt": "Which Mughal emperor expanded the empire furthest, ruling 1658-1707?",
+     "choices": [
+      "Aurangzeb",
+      "Akbar",
+      "Bahadur Shah I",
+      "Shah Jahan"
+     ],
+     "answer": "Aurangzeb",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-272",
+     "prompt": "Which English scientist coined the word 'cell' after viewing cork?",
+     "choices": [
+      "Marcello Malpighi",
+      "Antonie van Leeuwenhoek",
+      "Isaac Newton",
+      "Robert Hooke"
+     ],
+     "answer": "Robert Hooke",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-182",
+     "prompt": "Which 1757 battle began British East India Company rule in Bengal?",
+     "choices": [
+      "Seringapatam",
+      "Plassey",
+      "Buxar",
+      "Panipat"
+     ],
+     "answer": "Plassey",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-139",
+     "prompt": "Who won the Booker Prize for Life of Pi?",
+     "choices": [
+      "Yann Martel",
+      "Michael Ondaatje",
+      "Ian McEwan",
+      "Peter Carey"
+     ],
+     "answer": "Yann Martel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-265",
+     "prompt": "Who wrote the romance Lancelot, the Knight of the Cart?",
+     "choices": [
+      "Marie de France",
+      "Thomas Malory",
+      "Wolfram von Eschenbach",
+      "Chrétien de Troyes"
+     ],
+     "answer": "Chrétien de Troyes",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-282",
+     "prompt": "Who wrote the novel The Feast of the Goat?",
+     "choices": [
+      "Roberto Bolaño",
+      "Carlos Fuentes",
+      "Mario Vargas Llosa",
+      "Gabriel García Márquez"
+     ],
+     "answer": "Mario Vargas Llosa",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-179",
+     "prompt": "Which gas makes up about 78 percent of dry air?",
+     "choices": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Argon",
+      "Nitrogen"
+     ],
+     "answer": "Nitrogen",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-143",
+     "prompt": "Which extinction about 201 million years ago cleared the way for dinosaur dominance?",
+     "choices": [
+      "End-Triassic",
+      "End-Permian",
+      "End-Ordovician",
+      "End-Devonian"
+     ],
+     "answer": "End-Triassic",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-166",
+     "prompt": "The 1783 Laki fissure eruption occurred in which country?",
+     "choices": [
+      "Chile",
+      "Japan",
+      "Iceland",
+      "Italy"
+     ],
+     "answer": "Iceland",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-268",
+     "prompt": "Which School of Names thinker wrote the 'White Horse' dialogue?",
+     "choices": [
+      "Han Feizi",
+      "Shen Dao",
+      "Hui Shi",
+      "Gongsun Long"
+     ],
+     "answer": "Gongsun Long",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-293",
+     "prompt": "Which Joseon Neo-Confucian debated the Four-Seven question with Gi Daeseung?",
+     "choices": [
+      "Jo Gwangjo",
+      "Yi Hwang",
+      "Yi I",
+      "Jeong Yakyong"
+     ],
+     "answer": "Yi Hwang",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-269",
+     "prompt": "Which early thinker is said by Mencius to refuse to give a hair to benefit the world?",
+     "choices": [
+      "Shen Dao",
+      "Yang Zhu",
+      "Mozi",
+      "Zou Yan"
+     ],
+     "answer": "Yang Zhu",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

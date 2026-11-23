@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 23,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-033",
+     "prompt": "8 − 4",
+     "answer": 4,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-201",
+     "prompt": "19 + 33",
+     "answer": 52,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-206",
+     "prompt": "12 ÷ 4",
+     "answer": 3,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-095",
+     "prompt": "Did dinosaurs live before or after the first people?",
+     "choices": [
+      "At the same time",
+      "Long after",
+      "Just after",
+      "Long before"
+     ],
+     "answer": "Long before",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-153",
+     "prompt": "Which planet did the Curiosity rover explore?",
+     "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Pluto"
+     ],
+     "answer": "Mars",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-250",
+     "prompt": "Which animals alive now are relatives of dinosaurs?",
+     "choices": [
+      "Frogs",
+      "Cows",
+      "Birds",
+      "Dogs"
+     ],
+     "answer": "Birds",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-044",
+     "prompt": "What animals followed the Pied Piper out of the town of Hamelin?",
+     "choices": [
+      "Rats",
+      "Cats",
+      "Birds",
+      "Frogs"
+     ],
+     "answer": "Rats",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-250",
+     "prompt": "What did the goddess Athena give the city of Athens?",
+     "choices": [
+      "A golden gate",
+      "A sword",
+      "The olive tree",
+      "A horse"
+     ],
+     "answer": "The olive tree",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-004",
+     "prompt": "Which house was strong enough to stop the wolf?",
+     "choices": [
+      "The brick house",
+      "The straw house",
+      "The stick house",
+      "The tent"
+     ],
+     "answer": "The brick house",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-288",
+     "prompt": "What shape is a snowflake usually?",
+     "choices": [
+      "Six-sided",
+      "Round",
+      "Square",
+      "Triangle"
+     ],
+     "answer": "Six-sided",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-202",
+     "prompt": "On which continent do kangaroos live wild?",
+     "choices": [
+      "Africa",
+      "Australia",
+      "Asia",
+      "Europe"
+     ],
+     "answer": "Australia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-029",
+     "prompt": "What do we call the weather report that says what weather is coming?",
+     "choices": [
+      "Fossil",
+      "Climate",
+      "Season",
+      "Forecast"
+     ],
+     "answer": "Forecast",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-054",
+     "prompt": "Which bird says \"gobble\"?",
+     "choices": [
+      "owl",
+      "turkey",
+      "crow",
+      "duck"
+     ],
+     "answer": "turkey",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-037",
+     "prompt": "Which animal says \"quack\"?",
+     "choices": [
+      "duck",
+      "cow",
+      "cat",
+      "sheep"
+     ],
+     "answer": "duck",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-007",
+     "prompt": "A baby pig is called a what?",
+     "choices": [
+      "calf",
+      "foal",
+      "piglet",
+      "pup"
+     ],
+     "answer": "piglet",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

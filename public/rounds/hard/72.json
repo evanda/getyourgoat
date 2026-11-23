@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 72,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-088",
+     "prompt": "25²",
+     "answer": 625,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-215",
+     "prompt": "365 − 131",
+     "answer": 234,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-223",
+     "prompt": "336 ÷ 16",
+     "answer": 21,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-030",
+     "prompt": "Which war from 1853 to 1856 saw Britain, France and Ottomans fight Russia?",
+     "choices": [
+      "Russo-Turkish War",
+      "Crimean War",
+      "Seven Years' War",
+      "Franco-Prussian War"
+     ],
+     "answer": "Crimean War",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-254",
+     "prompt": "Which Tay Son leader defeated Qing invaders in 1789?",
+     "choices": [
+      "Ho Quy Ly",
+      "Nguyen Hue",
+      "Gia Long",
+      "Le Loi"
+     ],
+     "answer": "Nguyen Hue",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-096",
+     "prompt": "Which Chinese leader launched the Great Leap Forward in 1958?",
+     "choices": [
+      "Deng Xiaoping",
+      "Zhou Enlai",
+      "Liu Shaoqi",
+      "Mao Zedong"
+     ],
+     "answer": "Mao Zedong",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-306",
+     "prompt": "Who wrote Journey to the End of the Night?",
+     "choices": [
+      "Jean-Paul Sartre",
+      "Louis-Ferdinand Céline",
+      "André Malraux",
+      "André Gide"
+     ],
+     "answer": "Louis-Ferdinand Céline",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-184",
+     "prompt": "Who wrote the revenge tragedy The Spanish Tragedy?",
+     "choices": [
+      "John Webster",
+      "Thomas Kyd",
+      "Thomas Middleton",
+      "Christopher Marlowe"
+     ],
+     "answer": "Thomas Kyd",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-023",
+     "prompt": "Who wrote the satirical novel Fortress Besieged?",
+     "choices": [
+      "Lao She",
+      "Qian Zhongshu",
+      "Zhang Ailing",
+      "Lin Yutang"
+     ],
+     "answer": "Qian Zhongshu",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-174",
+     "prompt": "The Karman line, a common edge of space, lies at what altitude?",
+     "choices": [
+      "400 km",
+      "50 km",
+      "200 km",
+      "100 km"
+     ],
+     "answer": "100 km",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-012",
+     "prompt": "Which pink manganese carbonate mineral is Argentina's national stone?",
+     "choices": [
+      "Kunzite",
+      "Rhodonite",
+      "Rose quartz",
+      "Rhodochrosite"
+     ],
+     "answer": "Rhodochrosite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-168",
+     "prompt": "The Minoan eruption of Santorini is dated to the Bronze Age in which sea?",
+     "choices": [
+      "Tyrrhenian Sea",
+      "Aegean Sea",
+      "Adriatic Sea",
+      "Ionian Sea"
+     ],
+     "answer": "Aegean Sea",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-070",
+     "prompt": "Which early Christian writer asked 'What has Athens to do with Jerusalem?'",
+     "choices": [
+      "Origen",
+      "Tertullian",
+      "Clement of Alexandria",
+      "Justin Martyr"
+     ],
+     "answer": "Tertullian",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-011",
+     "prompt": "In Plato's Republic, which Sophist claims justice is the advantage of the stronger?",
+     "choices": [
+      "Cephalus",
+      "Thrasymachus",
+      "Glaucon",
+      "Callicles"
+     ],
+     "answer": "Thrasymachus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-227",
+     "prompt": "Which philosopher defended error theory in Inventing Right and Wrong?",
+     "choices": [
+      "R. M. Hare",
+      "C. L. Stevenson",
+      "J. L. Mackie",
+      "Bernard Williams"
+     ],
+     "answer": "J. L. Mackie",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

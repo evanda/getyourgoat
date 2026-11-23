@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 43,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-162",
+     "prompt": "52 × 48",
+     "answer": 2496,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-137",
+     "prompt": "533 ÷ 13",
+     "answer": 41,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-153",
+     "prompt": "15 × 7 − 8 × 10",
+     "answer": 25,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-047",
+     "prompt": "Which Greek city-state led the Delian League?",
+     "choices": [
+      "Corinth",
+      "Thebes",
+      "Athens",
+      "Sparta"
+     ],
+     "answer": "Athens",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-017",
+     "prompt": "In which year BC did Cyrus the Great take Babylon?",
+     "choices": [
+      "539 BC",
+      "490 BC",
+      "331 BC",
+      "559 BC"
+     ],
+     "answer": "539 BC",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-213",
+     "prompt": "Which Swedish king died winning the 1632 Battle of Lutzen?",
+     "choices": [
+      "Gustavus Adolphus",
+      "Charles X Gustav",
+      "Charles XII",
+      "Eric XIV"
+     ],
+     "answer": "Gustavus Adolphus",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-085",
+     "prompt": "Who wrote Malgudi Days, set in a fictional South Indian town?",
+     "choices": [
+      "Khushwant Singh",
+      "R. K. Narayan",
+      "Raja Rao",
+      "Mulk Raj Anand"
+     ],
+     "answer": "R. K. Narayan",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-069",
+     "prompt": "Who wrote the novel The Leopard (Il Gattopardo)?",
+     "choices": [
+      "Italo Svevo",
+      "Alberto Moravia",
+      "Giuseppe Tomasi di Lampedusa",
+      "Giovanni Verga"
+     ],
+     "answer": "Giuseppe Tomasi di Lampedusa",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-227",
+     "prompt": "Who wrote the novel Babbitt?",
+     "choices": [
+      "Sherwood Anderson",
+      "Sinclair Lewis",
+      "John Dos Passos",
+      "Theodore Dreiser"
+     ],
+     "answer": "Sinclair Lewis",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-077",
+     "prompt": "Which southern supercontinent included South America, Africa, India, Antarctica and Australia?",
+     "choices": [
+      "Laurasia",
+      "Pannotia",
+      "Gondwana",
+      "Rodinia"
+     ],
+     "answer": "Gondwana",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-083",
+     "prompt": "Which mid-ocean ridge has the fastest spreading rate?",
+     "choices": [
+      "Mid-Atlantic Ridge",
+      "East Pacific Rise",
+      "Gakkel Ridge",
+      "Southwest Indian Ridge"
+     ],
+     "answer": "East Pacific Rise",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-023",
+     "prompt": "In Bowen's reaction series, which mineral crystallizes first from cooling magma?",
+     "choices": [
+      "Muscovite",
+      "Quartz",
+      "Biotite",
+      "Olivine"
+     ],
+     "answer": "Olivine",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-044",
+     "prompt": "Which Epicurean carved his teachings on a huge wall in Lycia?",
+     "choices": [
+      "Lucretius",
+      "Colotes",
+      "Diogenes of Oenoanda",
+      "Philodemus"
+     ],
+     "answer": "Diogenes of Oenoanda",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-282",
+     "prompt": "Which Central Asian monk translated Nagarjuna's treatises into Chinese?",
+     "choices": [
+      "Xuanzang",
+      "Faxian",
+      "Kumarajiva",
+      "Paramartha"
+     ],
+     "answer": "Kumarajiva",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-104",
+     "prompt": "Which work by Leibniz defends God's justice against the problem of evil?",
+     "choices": [
+      "New Essays",
+      "Discourse on Metaphysics",
+      "Theodicy",
+      "Monadology"
+     ],
+     "answer": "Theodicy",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

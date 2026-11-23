@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 25,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-174",
+     "prompt": "14 − 4",
+     "answer": 10,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-153",
+     "prompt": "5 × 3",
+     "answer": 15,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-230",
+     "prompt": "10 × 8",
+     "answer": 80,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-080",
+     "prompt": "China's long history is told by ruling families called what?",
+     "choices": [
+      "Dynasties",
+      "Choirs",
+      "Teams",
+      "Bands"
+     ],
+     "answer": "Dynasties",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-050",
+     "prompt": "What language did ancient Romans speak?",
+     "choices": [
+      "Greek",
+      "French",
+      "Latin",
+      "English"
+     ],
+     "answer": "Latin",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-117",
+     "prompt": "The Pilgrims crossed the Atlantic on which ship?",
+     "choices": [
+      "Santa Maria",
+      "Mayflower",
+      "Titanic",
+      "Pinta"
+     ],
+     "answer": "Mayflower",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-174",
+     "prompt": "Who wrote Peter Pan?",
+     "choices": [
+      "C. S. Lewis",
+      "Roald Dahl",
+      "J. M. Barrie",
+      "A. A. Milne"
+     ],
+     "answer": "J. M. Barrie",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-012",
+     "prompt": "Who helped Cinderella get ready for the ball?",
+     "choices": [
+      "Her fairy godmother",
+      "A good witch",
+      "A mermaid",
+      "Her sister"
+     ],
+     "answer": "Her fairy godmother",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-236",
+     "prompt": "What colour is Clifford the Big Red Dog?",
+     "choices": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+     ],
+     "answer": "Red",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-069",
+     "prompt": "Which planet is closest to the Sun?",
+     "choices": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Neptune"
+     ],
+     "answer": "Mercury",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-030",
+     "prompt": "Which kind of weather is very dry for a long time?",
+     "choices": [
+      "Flood",
+      "Blizzard",
+      "Drought",
+      "Monsoon"
+     ],
+     "answer": "Drought",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-097",
+     "prompt": "What do we call a tool that makes faraway things look closer in the sky?",
+     "choices": [
+      "Telescope",
+      "Microscope",
+      "Compass",
+      "Ruler"
+     ],
+     "answer": "Telescope",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-265",
+     "prompt": "Which reptile carries its home on its back?",
+     "choices": [
+      "turtle",
+      "snake",
+      "lizard",
+      "crocodile"
+     ],
+     "answer": "turtle",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-251",
+     "prompt": "Animals that have all died out are called what?",
+     "choices": [
+      "nocturnal",
+      "wild",
+      "extinct",
+      "tame"
+     ],
+     "answer": "extinct",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-185",
+     "prompt": "Which bird shows off a big fan of tail feathers?",
+     "choices": [
+      "peacock",
+      "owl",
+      "crow",
+      "penguin"
+     ],
+     "answer": "peacock",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

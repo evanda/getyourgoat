@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 28,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-078",
+     "prompt": "45% of 340",
+     "answer": 153,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-167",
+     "prompt": "43 × 23",
+     "answer": 989,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-086",
+     "prompt": "11 × 8 − 8 × 6",
+     "answer": 40,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-162",
+     "prompt": "Which Hussite general led armies using war wagons?",
+     "choices": [
+      "Jan Hus",
+      "Jan Zizka",
+      "Sigismund",
+      "Wenceslas IV"
+     ],
+     "answer": "Jan Zizka",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-252",
+     "prompt": "Which emperor's 212 edict granted citizenship to nearly all free inhabitants?",
+     "choices": [
+      "Commodus",
+      "Marcus Aurelius",
+      "Elagabalus",
+      "Caracalla"
+     ],
+     "answer": "Caracalla",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-180",
+     "prompt": "Which Dutch navigator in 1642 sighted Tasmania and New Zealand?",
+     "choices": [
+      "Jacob Roggeveen",
+      "Willem Barentsz",
+      "Willem Janszoon",
+      "Abel Tasman"
+     ],
+     "answer": "Abel Tasman",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-082",
+     "prompt": "Who wrote the novel Lorna Doone?",
+     "choices": [
+      "R. D. Blackmore",
+      "Charles Kingsley",
+      "Thomas Hardy",
+      "George Meredith"
+     ],
+     "answer": "R. D. Blackmore",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-229",
+     "prompt": "Who wrote Out of Africa under the name Isak Dinesen?",
+     "choices": [
+      "Sigrid Undset",
+      "Tove Jansson",
+      "Karen Blixen",
+      "Selma Lagerlöf"
+     ],
+     "answer": "Karen Blixen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-249",
+     "prompt": "Who wrote Oku no Hosomichi, The Narrow Road to the Deep North?",
+     "choices": [
+      "Yosa Buson",
+      "Kobayashi Issa",
+      "Masaoka Shiki",
+      "Matsuo Bashō"
+     ],
+     "answer": "Matsuo Bashō",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-239",
+     "prompt": "A bowl-shaped hollow carved at a glacier's head is called what?",
+     "choices": [
+      "Arete",
+      "Cirque",
+      "Drumlin",
+      "Horn"
+     ],
+     "answer": "Cirque",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-048",
+     "prompt": "Komatiite, an unusually hot ultramafic lava, is mostly found in rocks of which eon?",
+     "choices": [
+      "Hadean",
+      "Archean",
+      "Proterozoic",
+      "Phanerozoic"
+     ],
+     "answer": "Archean",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-018",
+     "prompt": "Which clay mineral is the main ingredient of china clay used in porcelain?",
+     "choices": [
+      "Chlorite",
+      "Kaolinite",
+      "Smectite",
+      "Illite"
+     ],
+     "answer": "Kaolinite",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-259",
+     "prompt": "Confucius was born in which state?",
+     "choices": [
+      "Chu",
+      "Qi",
+      "Wei",
+      "Lu"
+     ],
+     "answer": "Lu",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-071",
+     "prompt": "Which British monk opposed Augustine on grace and original sin?",
+     "choices": [
+      "Nestorius",
+      "Donatus",
+      "Pelagius",
+      "Arius"
+     ],
+     "answer": "Pelagius",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-188",
+     "prompt": "Which Adorno and Horkheimer book appeared in 1947 under the title Dialectic of what?",
+     "choices": [
+      "Reason",
+      "Capitalism",
+      "Revolution",
+      "Enlightenment"
+     ],
+     "answer": "Enlightenment",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 64,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-019",
+     "prompt": "5 − 5",
+     "answer": 0,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-301",
+     "prompt": "26 + 4",
+     "answer": 30,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-121",
+     "prompt": "13 − 6",
+     "answer": 7,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-166",
+     "prompt": "The Leaning Tower of Pisa is in which country?",
+     "choices": [
+      "Spain",
+      "France",
+      "Italy",
+      "Greece"
+     ],
+     "answer": "Italy",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-039",
+     "prompt": "Which Greek monster had snakes for hair?",
+     "choices": [
+      "Pegasus",
+      "Cyclops",
+      "Centaur",
+      "Medusa"
+     ],
+     "answer": "Medusa",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-210",
+     "prompt": "Before electric lights, people used what at night?",
+     "choices": [
+      "Phones",
+      "Flashlights",
+      "Candles",
+      "TVs"
+     ],
+     "answer": "Candles",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-156",
+     "prompt": "What do the children walk through to find Narnia?",
+     "choices": [
+      "A wardrobe",
+      "A door in a tree",
+      "A mirror",
+      "A tunnel"
+     ],
+     "answer": "A wardrobe",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-103",
+     "prompt": "In which weather did Doctor Foster go to Gloucester?",
+     "choices": [
+      "Snow",
+      "Rain",
+      "Sun",
+      "Wind"
+     ],
+     "answer": "Rain",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-051",
+     "prompt": "What did the Elves do in The Elves and the Shoemaker?",
+     "choices": [
+      "Stole the leather",
+      "Made shoes at night",
+      "Sang songs",
+      "Cooked dinner"
+     ],
+     "answer": "Made shoes at night",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-260",
+     "prompt": "What do we call a machine that goes around a planet to take pictures?",
+     "choices": [
+      "Kite",
+      "Satellite",
+      "Sailboat",
+      "Balloon"
+     ],
+     "answer": "Satellite",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-184",
+     "prompt": "What do we call a thing that helps ships find their way, with a needle?",
+     "choices": [
+      "Ruler",
+      "Clock",
+      "Compass",
+      "Whistle"
+     ],
+     "answer": "Compass",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-146",
+     "prompt": "Which U.S. state is made of volcanic islands in the Pacific?",
+     "choices": [
+      "Kansas",
+      "Ohio",
+      "Iowa",
+      "Hawaii"
+     ],
+     "answer": "Hawaii",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-274",
+     "prompt": "The word dinosaur means \"terrible\" what?",
+     "choices": [
+      "bird",
+      "lizard",
+      "frog",
+      "fish"
+     ],
+     "answer": "lizard",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-009",
+     "prompt": "A baby duck is called a what?",
+     "choices": [
+      "duckling",
+      "gosling",
+      "cygnet",
+      "chick"
+     ],
+     "answer": "duckling",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-076",
+     "prompt": "Which farm animal is known for rolling in mud to stay cool?",
+     "choices": [
+      "horse",
+      "hen",
+      "goat",
+      "pig"
+     ],
+     "answer": "pig",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

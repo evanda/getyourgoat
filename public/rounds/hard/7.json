@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 7,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-111",
+     "prompt": "20% of 580",
+     "answer": 116,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-141",
+     "prompt": "853 × 7",
+     "answer": 5971,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-296",
+     "prompt": "597 − 200",
+     "answer": 397,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-159",
+     "prompt": "Which British explorer was beaten to the South Pole by Amundsen and died in 1912?",
+     "choices": [
+      "Ernest Shackleton",
+      "Edward Wilson",
+      "Robert Falcon Scott",
+      "Lawrence Oates"
+     ],
+     "answer": "Robert Falcon Scott",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-209",
+     "prompt": "Which Ottoman sultan abolished the Janissaries in 1826?",
+     "choices": [
+      "Mahmud II",
+      "Selim III",
+      "Mehmed IV",
+      "Abdulhamid I"
+     ],
+     "answer": "Mahmud II",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-059",
+     "prompt": "Which Boer War siege lasted from 1899 to 1900 in a Cape town famed for Baden-Powell?",
+     "choices": [
+      "Kimberley",
+      "Ladysmith",
+      "Mafeking",
+      "Pretoria"
+     ],
+     "answer": "Mafeking",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-059",
+     "prompt": "Who wrote The Mysteries of Udolpho?",
+     "choices": [
+      "Ann Radcliffe",
+      "Horace Walpole",
+      "Matthew Lewis",
+      "Mary Shelley"
+     ],
+     "answer": "Ann Radcliffe",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-259",
+     "prompt": "Who wrote the novel My Ántonia?",
+     "choices": [
+      "Edith Wharton",
+      "Willa Cather",
+      "Ellen Glasgow",
+      "Pearl Buck"
+     ],
+     "answer": "Willa Cather",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-034",
+     "prompt": "In One Hundred Years of Solitude, what is the fictional town called?",
+     "choices": [
+      "Comala",
+      "Macondo",
+      "Santa María",
+      "Yoknapatawpha"
+     ],
+     "answer": "Macondo",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-081",
+     "prompt": "The cycle of opening and closing of ocean basins is named after which geophysicist?",
+     "choices": [
+      "Tuzo Wilson",
+      "Harry Hess",
+      "Alfred Wegener",
+      "Arthur Holmes"
+     ],
+     "answer": "Tuzo Wilson",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-206",
+     "prompt": "Tropical cyclones rarely form within about 5 degrees of the equator because of weak what?",
+     "choices": [
+      "Solar heating",
+      "Sea-surface temperatures",
+      "Coriolis effect",
+      "Humidity"
+     ],
+     "answer": "Coriolis effect",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-152",
+     "prompt": "Mesosaurus fossils in both South America and Africa supported which idea?",
+     "choices": [
+      "Continental drift",
+      "Mass extinction",
+      "Punctuated equilibrium",
+      "Sea-level change"
+     ],
+     "answer": "Continental drift",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-154",
+     "prompt": "Mill wrote it is better to be Socrates dissatisfied than a what satisfied?",
+     "choices": [
+      "Sophist",
+      "Pig",
+      "Tyrant",
+      "Fool"
+     ],
+     "answer": "Fool",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-149",
+     "prompt": "Which British philosopher wrote The Methods of Ethics?",
+     "choices": [
+      "Henry Sidgwick",
+      "T. H. Green",
+      "F. H. Bradley",
+      "John Stuart Mill"
+     ],
+     "answer": "Henry Sidgwick",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-134",
+     "prompt": "Which German idealist wrote the Science of Knowledge, or Wissenschaftslehre?",
+     "choices": [
+      "Schelling",
+      "Jacobi",
+      "Fichte",
+      "Hegel"
+     ],
+     "answer": "Fichte",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 34,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-115",
+     "prompt": "35% of 220",
+     "answer": 77,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-082",
+     "prompt": "25% of 520",
+     "answer": 130,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-063",
+     "prompt": "807 − 269",
+     "answer": 538,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-212",
+     "prompt": "Which Byzantine emperor defeated the Persians and retrieved the True Cross?",
+     "choices": [
+      "Justinian I",
+      "Leo III",
+      "Maurice",
+      "Heraclius"
+     ],
+     "answer": "Heraclius",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-290",
+     "prompt": "What dynasty name did Empress Wu Zetian proclaim in 690?",
+     "choices": [
+      "Tang",
+      "Zhou",
+      "Sui",
+      "Liang"
+     ],
+     "answer": "Zhou",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-145",
+     "prompt": "Which Chinese leader began market-oriented reforms in 1978?",
+     "choices": [
+      "Deng Xiaoping",
+      "Jiang Zemin",
+      "Mao Zedong",
+      "Hua Guofeng"
+     ],
+     "answer": "Deng Xiaoping",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-078",
+     "prompt": "Who wrote On the Nature of Things (De rerum natura)?",
+     "choices": [
+      "Horace",
+      "Lucretius",
+      "Catullus",
+      "Virgil"
+     ],
+     "answer": "Lucretius",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-049",
+     "prompt": "In which Shakespeare play does Petruchio woo Katherina?",
+     "choices": [
+      "Much Ado About Nothing",
+      "Love's Labour's Lost",
+      "The Merry Wives of Windsor",
+      "The Taming of the Shrew"
+     ],
+     "answer": "The Taming of the Shrew",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-189",
+     "prompt": "Who wrote the novel The Makioka Sisters?",
+     "choices": [
+      "Yasunari Kawabata",
+      "Osamu Dazai",
+      "Yukio Mishima",
+      "Jun'ichirō Tanizaki"
+     ],
+     "answer": "Jun'ichirō Tanizaki",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-249",
+     "prompt": "Granular, partly compacted snow between fresh snow and glacial ice is called what?",
+     "choices": [
+      "Firn",
+      "Sastrugi",
+      "Graupel",
+      "Rime"
+     ],
+     "answer": "Firn",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-288",
+     "prompt": "Which is the longest river in Asia?",
+     "choices": [
+      "Yangtze",
+      "Ob",
+      "Yellow River",
+      "Mekong"
+     ],
+     "answer": "Yangtze",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-242",
+     "prompt": "A streamlined hill of glacial till shaped like an upturned spoon is a what?",
+     "choices": [
+      "Drumlin",
+      "Kame",
+      "Esker",
+      "Kettle"
+     ],
+     "answer": "Drumlin",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-228",
+     "prompt": "Which philosopher wrote After Virtue?",
+     "choices": [
+      "Alasdair MacIntyre",
+      "Michael Sandel",
+      "Charles Taylor",
+      "Bernard Williams"
+     ],
+     "answer": "Alasdair MacIntyre",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-140",
+     "prompt": "Which philosopher wrote The Ego and Its Own?",
+     "choices": [
+      "Bruno Bauer",
+      "Ludwig Feuerbach",
+      "Moses Hess",
+      "Max Stirner"
+     ],
+     "answer": "Max Stirner",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-258",
+     "prompt": "Which Senegalese poet-president helped develop negritude?",
+     "choices": [
+      "Aime Cesaire",
+      "Leopold Senghor",
+      "Abdoulaye Wade",
+      "Cheikh Anta Diop"
+     ],
+     "answer": "Leopold Senghor",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

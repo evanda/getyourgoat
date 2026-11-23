@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 80,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-123",
+     "prompt": "12 − 9",
+     "answer": 3,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-010",
+     "prompt": "7 × 8",
+     "answer": 56,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-258",
+     "prompt": "8 + 8",
+     "answer": 16,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-137",
+     "prompt": "Galileo used a telescope to study what?",
+     "choices": [
+      "The ocean floor",
+      "The Moon and planets",
+      "Insects",
+      "Soup"
+     ],
+     "answer": "The Moon and planets",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-236",
+     "prompt": "Pirates' black flag is called the what?",
+     "choices": [
+      "Jolly Roger",
+      "Black Betty",
+      "Merry Max",
+      "Happy Harry"
+     ],
+     "answer": "Jolly Roger",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-130",
+     "prompt": "A falling apple is said to have got Isaac Newton thinking about what?",
+     "choices": [
+      "Magnets",
+      "Pies",
+      "Gravity",
+      "Seeds"
+     ],
+     "answer": "Gravity",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-115",
+     "prompt": "Which Seuss character speaks for the trees?",
+     "choices": [
+      "Horton",
+      "The Lorax",
+      "The Grinch",
+      "Yertle"
+     ],
+     "answer": "The Lorax",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-096",
+     "prompt": "Who lives in a shoe and has so many children?",
+     "choices": [
+      "The old woman",
+      "The cobbler",
+      "The giant",
+      "The farmer"
+     ],
+     "answer": "The old woman",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-087",
+     "prompt": "Who lost her sheep and could never find them?",
+     "choices": [
+      "Little Miss Muffet",
+      "Little Bo Peep",
+      "Mary Quite Contrary",
+      "Old Mother Hubbard"
+     ],
+     "answer": "Little Bo Peep",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-208",
+     "prompt": "In which country are the Pyramids of Giza?",
+     "choices": [
+      "Egypt",
+      "Mexico",
+      "India",
+      "Peru"
+     ],
+     "answer": "Egypt",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-287",
+     "prompt": "What is it called when liquid water turns into ice?",
+     "choices": [
+      "Boiling",
+      "Freezing",
+      "Melting",
+      "Drying"
+     ],
+     "answer": "Freezing",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-122",
+     "prompt": "Which huge canyon in Arizona is famous worldwide?",
+     "choices": [
+      "Death Pit",
+      "Grand Canyon",
+      "Great Gap",
+      "Big Bowl"
+     ],
+     "answer": "Grand Canyon",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-163",
+     "prompt": "Which dinosaur had a big head and tiny arms?",
+     "choices": [
+      "Stegosaurus",
+      "Triceratops",
+      "T. rex",
+      "Brachiosaurus"
+     ],
+     "answer": "T. rex",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-241",
+     "prompt": "Geese fly south in a shape like what letter?",
+     "choices": [
+      "V",
+      "O",
+      "Z",
+      "T"
+     ],
+     "answer": "V",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-267",
+     "prompt": "Which fish can puff up like a balloon?",
+     "choices": [
+      "goldfish",
+      "eel",
+      "pufferfish",
+      "trout"
+     ],
+     "answer": "pufferfish",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

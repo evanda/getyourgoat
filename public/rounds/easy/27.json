@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 27,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-195",
+     "prompt": "2 + 2",
+     "answer": 4,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-203",
+     "prompt": "9 + 6",
+     "answer": 15,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-006",
+     "prompt": "4 × 5",
+     "answer": 20,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-279",
+     "prompt": "Which Indian leader taught peaceful protest?",
+     "choices": [
+      "Nelson Mandela",
+      "Abraham Lincoln",
+      "Neil Armstrong",
+      "Mahatma Gandhi"
+     ],
+     "answer": "Mahatma Gandhi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-238",
+     "prompt": "Inuit people built winter homes from blocks of what?",
+     "choices": [
+      "Sand",
+      "Bricks",
+      "Snow",
+      "Cheese"
+     ],
+     "answer": "Snow",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-207",
+     "prompt": "Vikings settled on an island named for what?",
+     "choices": [
+      "Fire",
+      "Sand",
+      "Candy",
+      "Ice"
+     ],
+     "answer": "Ice",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-207",
+     "prompt": "What is Harry's owl called?",
+     "choices": [
+      "Errol",
+      "Hedwig",
+      "Pigwidgeon",
+      "Scabbers"
+     ],
+     "answer": "Hedwig",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-029",
+     "prompt": "What did the princess feel under many mattresses in The Princess and the Pea?",
+     "choices": [
+      "A button",
+      "A pebble",
+      "A coin",
+      "A pea"
+     ],
+     "answer": "A pea",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-314",
+     "prompt": "What do the Oompa-Loompas love most?",
+     "choices": [
+      "Cheese",
+      "Sweet peas",
+      "Cocoa beans",
+      "Honey"
+     ],
+     "answer": "Cocoa beans",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-051",
+     "prompt": "How many seasons are there in a year?",
+     "choices": [
+      "2",
+      "3",
+      "4",
+      "6"
+     ],
+     "answer": "4",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-284",
+     "prompt": "What do we call a huge sheet of ice covering land, like at the poles?",
+     "choices": [
+      "Sand dune",
+      "Rain cloud",
+      "Lava lake",
+      "Ice cap"
+     ],
+     "answer": "Ice cap",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-159",
+     "prompt": "Which is the smallest ocean?",
+     "choices": [
+      "Pacific",
+      "Arctic",
+      "Atlantic",
+      "Indian"
+     ],
+     "answer": "Arctic",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-270",
+     "prompt": "Which bird says \"honk\"?",
+     "choices": [
+      "owl",
+      "goose",
+      "hen",
+      "robin"
+     ],
+     "answer": "goose",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-216",
+     "prompt": "Snakes shed their what as they grow?",
+     "choices": [
+      "feathers",
+      "horns",
+      "eyes",
+      "skin"
+     ],
+     "answer": "skin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-217",
+     "prompt": "Humpback whales are famous for singing what?",
+     "choices": [
+      "songs",
+      "poems",
+      "jokes",
+      "lullabies"
+     ],
+     "answer": "songs",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

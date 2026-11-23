@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 95,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-262",
+     "prompt": "9 × 13 − 6 × 6",
+     "answer": 81,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-299",
+     "prompt": "48 × 29",
+     "answer": 1392,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-244",
+     "prompt": "7 × 15 − 7 × 11",
+     "answer": 28,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-225",
+     "prompt": "Which Prussian field marshal marched to help Wellington at Waterloo?",
+     "choices": [
+      "Blucher",
+      "Yorck",
+      "Scharnhorst",
+      "Clausewitz"
+     ],
+     "answer": "Blucher",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-311",
+     "prompt": "In 1853 Commodore Perry's ships entered which Japanese bay?",
+     "choices": [
+      "Kagoshima Bay",
+      "Osaka Bay",
+      "Edo Bay",
+      "Nagasaki Bay"
+     ],
+     "answer": "Edo Bay",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-154",
+     "prompt": "Which 636 battle gave Arab armies control of Syria from Byzantium?",
+     "choices": [
+      "Talas",
+      "Yarmouk",
+      "Manzikert",
+      "Tours"
+     ],
+     "answer": "Yarmouk",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-161",
+     "prompt": "Who wrote the play Doctor Faustus?",
+     "choices": [
+      "Thomas Kyd",
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Webster"
+     ],
+     "answer": "Christopher Marlowe",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-008",
+     "prompt": "Who wrote the poetry collection Death of a Naturalist?",
+     "choices": [
+      "Patrick Kavanagh",
+      "Seamus Heaney",
+      "Derek Mahon",
+      "Ted Hughes"
+     ],
+     "answer": "Seamus Heaney",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-065",
+     "prompt": "Who wrote the novel Rickshaw Boy (Camel Xiangzi)?",
+     "choices": [
+      "Ba Jin",
+      "Mao Dun",
+      "Lao She",
+      "Shen Congwen"
+     ],
+     "answer": "Lao She",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-011",
+     "prompt": "Which deep blue copper carbonate mineral is often found with malachite?",
+     "choices": [
+      "Kyanite",
+      "Azurite",
+      "Lazurite",
+      "Sodalite"
+     ],
+     "answer": "Azurite",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-263",
+     "prompt": "Tall, thin rock spires at Bryce Canyon are called what?",
+     "choices": [
+      "Hoodoos",
+      "Mesas",
+      "Buttes",
+      "Arches"
+     ],
+     "answer": "Hoodoos",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-304",
+     "prompt": "The region of weak magnetic field over South America and the South Atlantic is called what?",
+     "choices": [
+      "South Atlantic Anomaly",
+      "Van Allen Gap",
+      "Brunhes Zone",
+      "Bermuda Anomaly"
+     ],
+     "answer": "South Atlantic Anomaly",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-096",
+     "prompt": "Which Bacon doctrine names errors born of language, the Idols of the what?",
+     "choices": [
+      "Cave",
+      "Theatre",
+      "Marketplace",
+      "Tribe"
+     ],
+     "answer": "Marketplace",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-170",
+     "prompt": "What term does Heidegger give to the 'enframing' essence of modern technology?",
+     "choices": [
+      "Dasein",
+      "Gestell",
+      "Gelassenheit",
+      "Ereignis"
+     ],
+     "answer": "Gestell",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-190",
+     "prompt": "Which 1905 essay introduced Russell's theory of descriptions?",
+     "choices": [
+      "On Denoting",
+      "The Philosophy of Logical Atomism",
+      "On Referring",
+      "Mathematical Logic"
+     ],
+     "answer": "On Denoting",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

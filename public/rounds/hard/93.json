@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 93,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-161",
+     "prompt": "36 × 26",
+     "answer": 936,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-038",
+     "prompt": "17 × 15",
+     "answer": 255,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-163",
+     "prompt": "50% of 100",
+     "answer": 50,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-050",
+     "prompt": "Which 1898 incident at Fashoda pitted Britain against which country?",
+     "choices": [
+      "Germany",
+      "France",
+      "Belgium",
+      "Italy"
+     ],
+     "answer": "France",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-283",
+     "prompt": "Which British surgeon pioneered antiseptic surgery using carbolic acid?",
+     "choices": [
+      "John Snow",
+      "Edward Jenner",
+      "Joseph Lister",
+      "Ignaz Semmelweis"
+     ],
+     "answer": "Joseph Lister",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-222",
+     "prompt": "Which 1895 treaty ended the First Sino-Japanese War?",
+     "choices": [
+      "Treaty of Nanking",
+      "Treaty of Shimonoseki",
+      "Treaty of Tientsin",
+      "Treaty of Portsmouth"
+     ],
+     "answer": "Treaty of Shimonoseki",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-270",
+     "prompt": "Who wrote the play Juno and the Paycock?",
+     "choices": [
+      "J. M. Synge",
+      "Brian Friel",
+      "Sean O'Casey",
+      "Oscar Wilde"
+     ],
+     "answer": "Sean O'Casey",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-246",
+     "prompt": "Who wrote the trilogy Kristin Lavransdatter?",
+     "choices": [
+      "Tove Jansson",
+      "Sigrid Undset",
+      "Karen Blixen",
+      "Selma Lagerlöf"
+     ],
+     "answer": "Sigrid Undset",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-051",
+     "prompt": "Who wrote the memoir If This Is a Man about Auschwitz?",
+     "choices": [
+      "Giorgio Bassani",
+      "Italo Svevo",
+      "Carlo Levi",
+      "Primo Levi"
+     ],
+     "answer": "Primo Levi",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-154",
+     "prompt": "The Younger Dryas, a cold snap about 12,900 years ago, interrupted warming after which interval?",
+     "choices": [
+      "Pliocene",
+      "Little Ice Age",
+      "Eemian",
+      "Last Glacial Maximum"
+     ],
+     "answer": "Last Glacial Maximum",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-208",
+     "prompt": "Where trade winds from both hemispheres meet is called the what?",
+     "choices": [
+      "Subtropical jet",
+      "Intertropical Convergence Zone",
+      "Polar front",
+      "Horse latitudes"
+     ],
+     "answer": "Intertropical Convergence Zone",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-233",
+     "prompt": "Life around hydrothermal vents relies on energy from what process?",
+     "choices": [
+      "Fermentation",
+      "Photosynthesis",
+      "Filter feeding",
+      "Chemosynthesis"
+     ],
+     "answer": "Chemosynthesis",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-085",
+     "prompt": "Which Scholastic term names a thing's 'whatness', its essence?",
+     "choices": [
+      "Accident",
+      "Haecceity",
+      "Quiddity",
+      "Hypostasis"
+     ],
+     "answer": "Quiddity",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-289",
+     "prompt": "Which Kyoto School founder wrote An Inquiry into the Good?",
+     "choices": [
+      "Watsuji Tetsuro",
+      "Nishitani Keiji",
+      "Nishida Kitaro",
+      "Tanabe Hajime"
+     ],
+     "answer": "Nishida Kitaro",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-249",
+     "prompt": "Which Andalusian wrote The Ring of the Dove, a treatise on love?",
+     "choices": [
+      "Ibn Hazm",
+      "Ibn Tufayl",
+      "Averroes",
+      "Ibn Bajja"
+     ],
+     "answer": "Ibn Hazm",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

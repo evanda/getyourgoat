@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 74,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-220",
+     "prompt": "632 − 180",
+     "answer": 452,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-118",
+     "prompt": "624 ÷ 16",
+     "answer": 39,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-284",
+     "prompt": "14²",
+     "answer": 196,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-106",
+     "prompt": "Which Roman emperor began the invasion of Britain in AD 43?",
+     "choices": [
+      "Vespasian",
+      "Claudius",
+      "Caligula",
+      "Nero"
+     ],
+     "answer": "Claudius",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-147",
+     "prompt": "Which 1721 treaty ended the Great Northern War, giving Russia the Baltic coast?",
+     "choices": [
+      "Treaty of Karlowitz",
+      "Treaty of Utrecht",
+      "Treaty of Nystad",
+      "Treaty of Hubertusburg"
+     ],
+     "answer": "Treaty of Nystad",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-275",
+     "prompt": "Which Russian empress expanded Russia, ruling 1762-1796?",
+     "choices": [
+      "Catherine I",
+      "Anna Ivanovna",
+      "Catherine the Great",
+      "Elizabeth Petrovna"
+     ],
+     "answer": "Catherine the Great",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-050",
+     "prompt": "Who wrote the novel Evelina?",
+     "choices": [
+      "Ann Radcliffe",
+      "Maria Edgeworth",
+      "Charlotte Smith",
+      "Fanny Burney"
+     ],
+     "answer": "Fanny Burney",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-120",
+     "prompt": "Who wrote the novel Sons and Lovers?",
+     "choices": [
+      "Joseph Conrad",
+      "E. M. Forster",
+      "D. H. Lawrence",
+      "Thomas Hardy"
+     ],
+     "answer": "D. H. Lawrence",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-165",
+     "prompt": "Who wrote the novel The House of Mirth?",
+     "choices": [
+      "Willa Cather",
+      "Kate Chopin",
+      "Ellen Glasgow",
+      "Edith Wharton"
+     ],
+     "answer": "Edith Wharton",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-040",
+     "prompt": "Which volcanic pipe rock is the main primary source of diamonds?",
+     "choices": [
+      "Kimberlite",
+      "Andesite",
+      "Carbonatite",
+      "Basalt"
+     ],
+     "answer": "Kimberlite",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-051",
+     "prompt": "Rock made of consolidated volcanic ash is called what?",
+     "choices": [
+      "Chert",
+      "Schist",
+      "Basalt",
+      "Tuff"
+     ],
+     "answer": "Tuff",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-103",
+     "prompt": "Scandinavia is still rising after the loss of ice sheets; this is called what?",
+     "choices": [
+      "Eustatic rise",
+      "Orogenic collapse",
+      "Thermal uplift",
+      "Isostatic rebound"
+     ],
+     "answer": "Isostatic rebound",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-013",
+     "prompt": "Which Plato dialogue asks whether the pious is loved by the gods because it is pious?",
+     "choices": [
+      "Meno",
+      "Laches",
+      "Euthyphro",
+      "Crito"
+     ],
+     "answer": "Euthyphro",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-103",
+     "prompt": "Which Latin phrase for 'God or Nature' is tied to Spinoza?",
+     "choices": [
+      "Natura naturans",
+      "Sub specie aeternitatis",
+      "Causa sui",
+      "Deus sive Natura"
+     ],
+     "answer": "Deus sive Natura",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-281",
+     "prompt": "In the Mu koan, which master replies 'Mu' about a dog's Buddha-nature?",
+     "choices": [
+      "Linji",
+      "Dogen",
+      "Hakuin",
+      "Zhaozhou"
+     ],
+     "answer": "Zhaozhou",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

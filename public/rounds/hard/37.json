@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 37,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-202",
+     "prompt": "44 × 42",
+     "answer": 1848,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-135",
+     "prompt": "62 × 29",
+     "answer": 1798,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-182",
+     "prompt": "25 × 18",
+     "answer": 450,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-244",
+     "prompt": "Which Danish astronomer made precise naked-eye observations from Hven?",
+     "choices": [
+      "Johannes Kepler",
+      "Niels Bohr",
+      "Ole Romer",
+      "Tycho Brahe"
+     ],
+     "answer": "Tycho Brahe",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-242",
+     "prompt": "Which 1942-43 battle ended with German surrender on the Volga?",
+     "choices": [
+      "Kursk",
+      "Stalingrad",
+      "Leningrad",
+      "Moscow"
+     ],
+     "answer": "Stalingrad",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-091",
+     "prompt": "Which 1830 revolution made Louis-Philippe king of the French?",
+     "choices": [
+      "Paris Commune",
+      "Fronde",
+      "July Revolution",
+      "February Revolution"
+     ],
+     "answer": "July Revolution",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-191",
+     "prompt": "Which hero is killed by Hagen in the Nibelungenlied?",
+     "choices": [
+      "Gunther",
+      "Etzel",
+      "Dietrich",
+      "Siegfried"
+     ],
+     "answer": "Siegfried",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-090",
+     "prompt": "Who wrote The Temple of the Golden Pavilion?",
+     "choices": [
+      "Yukio Mishima",
+      "Kenzaburō Ōe",
+      "Kōbō Abe",
+      "Yasunari Kawabata"
+     ],
+     "answer": "Yukio Mishima",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-012",
+     "prompt": "Who wrote the existential novel Nausea?",
+     "choices": [
+      "Jean Genet",
+      "Simone de Beauvoir",
+      "Albert Camus",
+      "Jean-Paul Sartre"
+     ],
+     "answer": "Jean-Paul Sartre",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-126",
+     "prompt": "Radiocarbon dating is useful back to roughly how many years?",
+     "choices": [
+      "500,000",
+      "5 million",
+      "500",
+      "50,000"
+     ],
+     "answer": "50,000",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-142",
+     "prompt": "Tiktaalik, a transitional fish-tetrapod, lived in which period?",
+     "choices": [
+      "Devonian",
+      "Triassic",
+      "Permian",
+      "Silurian"
+     ],
+     "answer": "Devonian",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-113",
+     "prompt": "Which type of fault has a hanging wall that moves down relative to the footwall?",
+     "choices": [
+      "Thrust fault",
+      "Normal fault",
+      "Strike-slip fault",
+      "Reverse fault"
+     ],
+     "answer": "Normal fault",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-194",
+     "prompt": "Which Oxford philosopher introduced prima facie duties in The Right and the Good?",
+     "choices": [
+      "W. D. Ross",
+      "G. E. Moore",
+      "H. A. Prichard",
+      "R. M. Hare"
+     ],
+     "answer": "W. D. Ross",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-107",
+     "prompt": "Which philosopher coined the term aesthetics for the study of sensory beauty?",
+     "choices": [
+      "Gotthold Lessing",
+      "Alexander Baumgarten",
+      "Moses Mendelssohn",
+      "Johann Winckelmann"
+     ],
+     "answer": "Alexander Baumgarten",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-122",
+     "prompt": "Which Irish friend of Locke posed the problem of a blind man made to see?",
+     "choices": [
+      "Peter King",
+      "Robert Boyle",
+      "John Toland",
+      "William Molyneux"
+     ],
+     "answer": "William Molyneux",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

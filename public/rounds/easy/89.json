@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 89,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-228",
+     "prompt": "12 − 8",
+     "answer": 4,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-058",
+     "prompt": "24 − 2",
+     "answer": 22,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-009",
+     "prompt": "5 + 5",
+     "answer": 10,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-136",
+     "prompt": "Alexander Fleming found a medicine called what?",
+     "choices": [
+      "Penicillin",
+      "Aspirin",
+      "Vitamin C",
+      "Candy"
+     ],
+     "answer": "Penicillin",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-078",
+     "prompt": "Which wise teacher from China is famous for his sayings?",
+     "choices": [
+      "Socrates",
+      "Homer",
+      "Confucius",
+      "Aesop"
+     ],
+     "answer": "Confucius",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-074",
+     "prompt": "The Terracotta Army has thousands of statues made of what?",
+     "choices": [
+      "Gold",
+      "Chocolate",
+      "Clay",
+      "Ice"
+     ],
+     "answer": "Clay",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-147",
+     "prompt": "Who is the real boy in Pooh's stories?",
+     "choices": [
+      "Peter Pan",
+      "Christopher Robin",
+      "Tom Sawyer",
+      "Oliver"
+     ],
+     "answer": "Christopher Robin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-226",
+     "prompt": "Which river do Tom and Huck live near?",
+     "choices": [
+      "The Nile",
+      "The Thames",
+      "The Mississippi",
+      "The Amazon"
+     ],
+     "answer": "The Mississippi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-107",
+     "prompt": "Who ate no fat in the rhyme, while his wife ate no lean?",
+     "choices": [
+      "Jack Horner",
+      "Jack Sprat",
+      "Simple Simon",
+      "Peter Piper"
+     ],
+     "answer": "Jack Sprat",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-189",
+     "prompt": "What part of a map explains what the symbols mean?",
+     "choices": [
+      "Title",
+      "Border",
+      "Page",
+      "Legend"
+     ],
+     "answer": "Legend",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-068",
+     "prompt": "Which planet do we live on?",
+     "choices": [
+      "Mars",
+      "Earth",
+      "Venus",
+      "Jupiter"
+     ],
+     "answer": "Earth",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-102",
+     "prompt": "Which kind of rock forms from cooled lava or magma?",
+     "choices": [
+      "Igneous",
+      "Sedimentary",
+      "Metamorphic",
+      "Fossil"
+     ],
+     "answer": "Igneous",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-004",
+     "prompt": "A baby cow is called a what?",
+     "choices": [
+      "foal",
+      "lamb",
+      "kid",
+      "calf"
+     ],
+     "answer": "calf",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-121",
+     "prompt": "Whales are what kind of animal?",
+     "choices": [
+      "mammals",
+      "fish",
+      "reptiles",
+      "insects"
+     ],
+     "answer": "mammals",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-067",
+     "prompt": "A happy cat often makes what sound?",
+     "choices": [
+      "bark",
+      "moo",
+      "purr",
+      "hiss"
+     ],
+     "answer": "purr",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 87,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-188",
+     "prompt": "7 + 2",
+     "answer": 9,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-244",
+     "prompt": "18 + 18",
+     "answer": 36,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-196",
+     "prompt": "8 × 6",
+     "answer": 48,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-115",
+     "prompt": "Who was the first to fly alone nonstop across the Atlantic?",
+     "choices": [
+      "Neil Armstrong",
+      "Orville Wright",
+      "Thomas Edison",
+      "Charles Lindbergh"
+     ],
+     "answer": "Charles Lindbergh",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-277",
+     "prompt": "Charles Darwin studied animals on which famous islands?",
+     "choices": [
+      "Hawaiian Islands",
+      "Galapagos Islands",
+      "Canary Islands",
+      "Faroe Islands"
+     ],
+     "answer": "Galapagos Islands",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-111",
+     "prompt": "Which British captain mapped coasts of Australia and New Zealand?",
+     "choices": [
+      "James Bond",
+      "James Madison",
+      "James Watt",
+      "James Cook"
+     ],
+     "answer": "James Cook",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-224",
+     "prompt": "What does Tom Sawyer trick his friends into doing?",
+     "choices": [
+      "Painting a fence",
+      "Washing dishes",
+      "Digging a hole",
+      "Sweeping a floor"
+     ],
+     "answer": "Painting a fence",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-164",
+     "prompt": "Who shouts \"Off with her head!\" in Wonderland?",
+     "choices": [
+      "The Queen of Hearts",
+      "The Duchess",
+      "The Cheshire Cat",
+      "The King"
+     ],
+     "answer": "The Queen of Hearts",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-017",
+     "prompt": "Who fell asleep for a hundred years after a spindle pricked her finger?",
+     "choices": [
+      "Snow White",
+      "Cinderella",
+      "Rapunzel",
+      "Sleeping Beauty"
+     ],
+     "answer": "Sleeping Beauty",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-309",
+     "prompt": "What do we call a very hot stretch of days?",
+     "choices": [
+      "Cold snap",
+      "Heat wave",
+      "Blizzard",
+      "Drizzle"
+     ],
+     "answer": "Heat wave",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-094",
+     "prompt": "What do we call a person who travels into space?",
+     "choices": [
+      "Archaeologist",
+      "Geologist",
+      "Astronaut",
+      "Pilot"
+     ],
+     "answer": "Astronaut",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-032",
+     "prompt": "What do we call light, gentle rain?",
+     "choices": [
+      "Drizzle",
+      "Hail",
+      "Blizzard",
+      "Tornado"
+     ],
+     "answer": "Drizzle",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-027",
+     "prompt": "A group of wolves is called a what?",
+     "choices": [
+      "pride",
+      "school",
+      "pack",
+      "herd"
+     ],
+     "answer": "pack",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-133",
+     "prompt": "Which body covering do all birds have?",
+     "choices": [
+      "feathers",
+      "fur",
+      "scales",
+      "shells"
+     ],
+     "answer": "feathers",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-263",
+     "prompt": "Which big cat has black lines like tear marks on its face?",
+     "choices": [
+      "tiger",
+      "lion",
+      "cheetah",
+      "jaguar"
+     ],
+     "answer": "cheetah",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

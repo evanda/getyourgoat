@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 86,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-152",
+     "prompt": "48 + 48",
+     "answer": 96,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-119",
+     "prompt": "8 + 1",
+     "answer": 9,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-040",
+     "prompt": "26 + 8",
+     "answer": 34,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-076",
+     "prompt": "Which tool that points north was invented in China?",
+     "choices": [
+      "Compass",
+      "Telescope",
+      "Microscope",
+      "Thermometer"
+     ],
+     "answer": "Compass",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-231",
+     "prompt": "In which city is the Liberty Bell?",
+     "choices": [
+      "Dallas",
+      "Seattle",
+      "Denver",
+      "Philadelphia"
+     ],
+     "answer": "Philadelphia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-178",
+     "prompt": "What do we call a deep ditch of water around a castle?",
+     "choices": [
+      "Pond",
+      "Tunnel",
+      "Moat",
+      "Porch"
+     ],
+     "answer": "Moat",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-193",
+     "prompt": "Who loves fast motor cars in The Wind in the Willows?",
+     "choices": [
+      "Mole",
+      "Ratty",
+      "Badger",
+      "Mr. Toad"
+     ],
+     "answer": "Mr. Toad",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-018",
+     "prompt": "What did Jack climb in the tale of Jack and the Beanstalk?",
+     "choices": [
+      "A tall tower",
+      "A mountain",
+      "A giant beanstalk",
+      "A rope ladder"
+     ],
+     "answer": "A giant beanstalk",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-225",
+     "prompt": "Who is Tom's best friend in Mark Twain's tales?",
+     "choices": [
+      "Oliver Twist",
+      "Peter Pan",
+      "Jim Hawkins",
+      "Huckleberry Finn"
+     ],
+     "answer": "Huckleberry Finn",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-273",
+     "prompt": "What green stuff in leaves uses sunlight to make food?",
+     "choices": [
+      "Chlorophyll",
+      "Marble",
+      "Plastic",
+      "Salt"
+     ],
+     "answer": "Chlorophyll",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-180",
+     "prompt": "What is the deepest part of the ocean called?",
+     "choices": [
+      "Peak",
+      "Trench",
+      "Plain",
+      "Dune"
+     ],
+     "answer": "Trench",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-281",
+     "prompt": "What do we call a tall, flat-topped hill with steep sides?",
+     "choices": [
+      "Dune",
+      "Delta",
+      "Mesa",
+      "Bay"
+     ],
+     "answer": "Mesa",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-290",
+     "prompt": "A newborn kangaroo is about as big as a what?",
+     "choices": [
+      "cow",
+      "jellybean",
+      "dog",
+      "bike"
+     ],
+     "answer": "jellybean",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-149",
+     "prompt": "Which bird is the biggest?",
+     "choices": [
+      "ostrich",
+      "eagle",
+      "owl",
+      "swan"
+     ],
+     "answer": "ostrich",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-062",
+     "prompt": "A grown-up female goat is called a what?",
+     "choices": [
+      "billy",
+      "nanny",
+      "kid",
+      "rooster"
+     ],
+     "answer": "nanny",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

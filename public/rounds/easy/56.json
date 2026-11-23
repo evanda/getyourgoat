@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 56,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-024",
+     "prompt": "36 + 2",
+     "answer": 38,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-294",
+     "prompt": "18 − 7",
+     "answer": 11,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-210",
+     "prompt": "21 + 5",
+     "answer": 26,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-284",
+     "prompt": "The big room in a castle for feasts is the Great what?",
+     "choices": [
+      "Hall",
+      "Bath",
+      "Garage",
+      "Shed"
+     ],
+     "answer": "Hall",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-097",
+     "prompt": "Which girl in England found giant sea-reptile fossils by the sea?",
+     "choices": [
+      "Marie Curie",
+      "Mary Anning",
+      "Amelia Earhart",
+      "Rosa Parks"
+     ],
+     "answer": "Mary Anning",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-246",
+     "prompt": "Which dinosaur's name means king of the tyrant lizards?",
+     "choices": [
+      "Triceratops",
+      "Stegosaurus",
+      "T. rex",
+      "Brachiosaurus"
+     ],
+     "answer": "T. rex",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-072",
+     "prompt": "What did the fox call the grapes he could never reach?",
+     "choices": [
+      "Sour",
+      "Sweet",
+      "Tiny",
+      "Rotten"
+     ],
+     "answer": "Sour",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-108",
+     "prompt": "What is Rub-a-dub-dub's tub full of?",
+     "choices": [
+      "Three men",
+      "Three pigs",
+      "Three cats",
+      "Three bears"
+     ],
+     "answer": "Three men",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-066",
+     "prompt": "What is Dorothy's home state in The Wizard of Oz?",
+     "choices": [
+      "Texas",
+      "Ohio",
+      "Kansas",
+      "Maine"
+     ],
+     "answer": "Kansas",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-077",
+     "prompt": "Which planet comes right after Earth, going away from the Sun?",
+     "choices": [
+      "Venus",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+     ],
+     "answer": "Mars",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-096",
+     "prompt": "What do we call a person who studies weather?",
+     "choices": [
+      "Meteorologist",
+      "Geologist",
+      "Zoologist",
+      "Chemist"
+     ],
+     "answer": "Meteorologist",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-298",
+     "prompt": "Which country is shaped like a boot?",
+     "choices": [
+      "Spain",
+      "Italy",
+      "Norway",
+      "Egypt"
+     ],
+     "answer": "Italy",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-245",
+     "prompt": "Colorful fish live around a coral what?",
+     "choices": [
+      "reef",
+      "roof",
+      "tree",
+      "hill"
+     ],
+     "answer": "reef",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-221",
+     "prompt": "Which sea animal has a long tusk like a unicorn horn?",
+     "choices": [
+      "narwhal",
+      "dolphin",
+      "shark",
+      "walrus"
+     ],
+     "answer": "narwhal",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-034",
+     "prompt": "A group of ants living together is a what?",
+     "choices": [
+      "herd",
+      "colony",
+      "flock",
+      "pack"
+     ],
+     "answer": "colony",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 61,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-280",
+     "prompt": "11 − 2",
+     "answer": 9,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-001",
+     "prompt": "34 + 34",
+     "answer": 68,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-270",
+     "prompt": "9 − 8",
+     "answer": 1,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-258",
+     "prompt": "Which Greek hero's only weak spot was his heel?",
+     "choices": [
+      "Hercules",
+      "Odysseus",
+      "Achilles",
+      "Zeus"
+     ],
+     "answer": "Achilles",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-092",
+     "prompt": "Bronze is made by mixing tin with what metal?",
+     "choices": [
+      "Copper",
+      "Gold",
+      "Iron",
+      "Lead"
+     ],
+     "answer": "Copper",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-224",
+     "prompt": "An old bicycle with one huge wheel in front is called a what?",
+     "choices": [
+      "Penny-farthing",
+      "Unicycle",
+      "Tricycle",
+      "Scooter"
+     ],
+     "answer": "Penny-farthing",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-125",
+     "prompt": "What do children find in chocolate bars to win a factory tour?",
+     "choices": [
+      "A silver coin",
+      "A key",
+      "A gold star",
+      "A golden ticket"
+     ],
+     "answer": "A golden ticket",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-196",
+     "prompt": "Which food does the caterpillar eat on Monday?",
+     "choices": [
+      "One apple",
+      "One pear",
+      "Two plums",
+      "Three strawberries"
+     ],
+     "answer": "One apple",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-109",
+     "prompt": "What did the itsy bitsy spider climb up?",
+     "choices": [
+      "A tree",
+      "A wall",
+      "A chair",
+      "The water spout"
+     ],
+     "answer": "The water spout",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-206",
+     "prompt": "Which is the biggest country in the world by area?",
+     "choices": [
+      "Canada",
+      "China",
+      "Russia",
+      "Brazil"
+     ],
+     "answer": "Russia",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-135",
+     "prompt": "What is the crust?",
+     "choices": [
+      "Earth's center",
+      "A kind of cloud",
+      "A kind of ocean",
+      "Earth's outer layer"
+     ],
+     "answer": "Earth's outer layer",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-282",
+     "prompt": "What is a small, shallow body of still water?",
+     "choices": [
+      "Ocean",
+      "Pond",
+      "Glacier",
+      "Canyon"
+     ],
+     "answer": "Pond",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-286",
+     "prompt": "Which animal has a long trunk, big ears and tusks?",
+     "choices": [
+      "hippo",
+      "elephant",
+      "rhino",
+      "zebra"
+     ],
+     "answer": "elephant",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-066",
+     "prompt": "Which animal is called a person's best friend?",
+     "choices": [
+      "goat",
+      "dog",
+      "lion",
+      "snake"
+     ],
+     "answer": "dog",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-309",
+     "prompt": "Which orange-haired ape lives in trees in Asia?",
+     "choices": [
+      "orangutan",
+      "gorilla",
+      "zebra",
+      "lion"
+     ],
+     "answer": "orangutan",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

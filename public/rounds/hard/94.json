@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 94,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-274",
+     "prompt": "41 × 14",
+     "answer": 574,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-136",
+     "prompt": "366 − 251",
+     "answer": 115,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-023",
+     "prompt": "711 − 120",
+     "answer": 591,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-301",
+     "prompt": "Which British commander won the Battle of Omdurman in 1898?",
+     "choices": [
+      "Kitchener",
+      "Roberts",
+      "Wolseley",
+      "Gordon"
+     ],
+     "answer": "Kitchener",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-255",
+     "prompt": "Which Scottish physicist unified electricity, magnetism and light in equations?",
+     "choices": [
+      "Lord Kelvin",
+      "Michael Faraday",
+      "James Clerk Maxwell",
+      "Heinrich Hertz"
+     ],
+     "answer": "James Clerk Maxwell",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-001",
+     "prompt": "Which king died at Bosworth Field in 1485?",
+     "choices": [
+      "Richard III",
+      "Edward IV",
+      "Henry VI",
+      "Henry V"
+     ],
+     "answer": "Richard III",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-038",
+     "prompt": "Who wrote the play The Robbers (Die Räuber)?",
+     "choices": [
+      "Johann Goethe",
+      "Georg Büchner",
+      "Friedrich Schiller",
+      "Heinrich von Kleist"
+     ],
+     "answer": "Friedrich Schiller",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-300",
+     "prompt": "Who wrote the comedy The School for Scandal?",
+     "choices": [
+      "William Congreve",
+      "Oliver Goldsmith",
+      "John Gay",
+      "Richard Brinsley Sheridan"
+     ],
+     "answer": "Richard Brinsley Sheridan",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-125",
+     "prompt": "Who wrote the dystopian novel We, a model for later dystopias?",
+     "choices": [
+      "Mikhail Bulgakov",
+      "Yevgeny Zamyatin",
+      "Andrei Platonov",
+      "Boris Pilnyak"
+     ],
+     "answer": "Yevgeny Zamyatin",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-229",
+     "prompt": "Which sea in the North Atlantic has no land boundaries, only ocean currents?",
+     "choices": [
+      "Sargasso Sea",
+      "Norwegian Sea",
+      "Labrador Sea",
+      "Irish Sea"
+     ],
+     "answer": "Sargasso Sea",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-026",
+     "prompt": "Kyanite, andalusite and sillimanite share which chemical formula?",
+     "choices": [
+      "Fe3O4",
+      "CaCO3",
+      "Mg2SiO4",
+      "Al2SiO5"
+     ],
+     "answer": "Al2SiO5",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-271",
+     "prompt": "Which mountain is the second highest on Earth?",
+     "choices": [
+      "K2",
+      "Lhotse",
+      "Kangchenjunga",
+      "Makalu"
+     ],
+     "answer": "K2",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-081",
+     "prompt": "Which Dominican taught Aquinas and was called 'the Great'?",
+     "choices": [
+      "Albertus Magnus",
+      "Siger of Brabant",
+      "Bonaventure",
+      "Robert Kilwardby"
+     ],
+     "answer": "Albertus Magnus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-208",
+     "prompt": "Which philosopher proposed Swampman in a thought experiment about meaning?",
+     "choices": [
+      "Jerry Fodor",
+      "Donald Davidson",
+      "W. V. O. Quine",
+      "Daniel Dennett"
+     ],
+     "answer": "Donald Davidson",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-292",
+     "prompt": "Which Japanese author wrote The Book of Tea in English?",
+     "choices": [
+      "Okakura Kakuzo",
+      "Suzuki Daisetsu",
+      "Kuki Shuzo",
+      "Nitobe Inazo"
+     ],
+     "answer": "Okakura Kakuzo",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

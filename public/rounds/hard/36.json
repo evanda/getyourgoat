@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 36,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-257",
+     "prompt": "7 × 15 − 8 × 12",
+     "answer": 9,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-151",
+     "prompt": "48 × 15",
+     "answer": 720,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-042",
+     "prompt": "21²",
+     "answer": 441,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-121",
+     "prompt": "Which Maratha leader founded his kingdom in 1674?",
+     "choices": [
+      "Shivaji",
+      "Shahu",
+      "Baji Rao I",
+      "Sambhaji"
+     ],
+     "answer": "Shivaji",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-012",
+     "prompt": "Who founded the Han dynasty?",
+     "choices": [
+      "Wang Mang",
+      "Xiang Yu",
+      "Cao Cao",
+      "Liu Bang"
+     ],
+     "answer": "Liu Bang",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-257",
+     "prompt": "Which 1555 agreement let German princes choose Lutheranism or Catholicism?",
+     "choices": [
+      "Peace of Augsburg",
+      "Edict of Nantes",
+      "Concordat of Worms",
+      "Peace of Westphalia"
+     ],
+     "answer": "Peace of Augsburg",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-170",
+     "prompt": "Who wrote the novel Steppenwolf?",
+     "choices": [
+      "Hermann Hesse",
+      "Franz Kafka",
+      "Hermann Broch",
+      "Thomas Mann"
+     ],
+     "answer": "Hermann Hesse",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-291",
+     "prompt": "Which pilgrim in Journey to the West is the gluttonous pig-like disciple?",
+     "choices": [
+      "Tang Sanzang",
+      "Sun Wukong",
+      "Zhu Bajie",
+      "Sha Wujing"
+     ],
+     "answer": "Zhu Bajie",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-108",
+     "prompt": "Who wrote the lyric collection Canzoniere?",
+     "choices": [
+      "Guido Cavalcanti",
+      "Giovanni Boccaccio",
+      "Dante Alighieri",
+      "Petrarch"
+     ],
+     "answer": "Petrarch",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-177",
+     "prompt": "Which charged atmospheric region reflects AM radio waves at night?",
+     "choices": [
+      "Tropopause",
+      "Ozonosphere",
+      "Magnetopause",
+      "Ionosphere"
+     ],
+     "answer": "Ionosphere",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-172",
+     "prompt": "The boundary between the troposphere and the stratosphere is called what?",
+     "choices": [
+      "Tropopause",
+      "Mesopause",
+      "Stratopause",
+      "Ionopause"
+     ],
+     "answer": "Tropopause",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-019",
+     "prompt": "Muscovite and biotite are both members of which mineral group?",
+     "choices": [
+      "Pyroxene",
+      "Mica",
+      "Amphibole",
+      "Feldspar"
+     ],
+     "answer": "Mica",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-307",
+     "prompt": "Which Indian Buddhist poet wrote the Bodhicaryavatara?",
+     "choices": [
+      "Aryadeva",
+      "Dignaga",
+      "Candrakirti",
+      "Shantideva"
+     ],
+     "answer": "Shantideva",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-105",
+     "prompt": "Which principle of Leibniz holds that things sharing all properties are one and the same?",
+     "choices": [
+      "Law of continuity",
+      "Principle of plenitude",
+      "Pre-established harmony",
+      "Identity of indiscernibles"
+     ],
+     "answer": "Identity of indiscernibles",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-252",
+     "prompt": "Which Jewish thinker wrote the Book of Beliefs and Opinions?",
+     "choices": [
+      "Judah Halevi",
+      "Maimonides",
+      "Solomon ibn Gabirol",
+      "Saadia Gaon"
+     ],
+     "answer": "Saadia Gaon",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

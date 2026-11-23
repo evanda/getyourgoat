@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 9,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-237",
+     "prompt": "509 − 229",
+     "answer": 280,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-276",
+     "prompt": "330 ÷ 11",
+     "answer": 30,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-145",
+     "prompt": "117 ÷ 9",
+     "answer": 13,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-195",
+     "prompt": "Which Flemish anatomist published De humani corporis fabrica in 1543?",
+     "choices": [
+      "Ambroise Pare",
+      "Galen",
+      "Andreas Vesalius",
+      "William Harvey"
+     ],
+     "answer": "Andreas Vesalius",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-250",
+     "prompt": "Which South Indian dynasty raided Southeast Asia by sea under Rajendra I?",
+     "choices": [
+      "Chera",
+      "Chola",
+      "Pandya",
+      "Pallava"
+     ],
+     "answer": "Chola",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-074",
+     "prompt": "Which dynastic conflict in England lasted from 1455 to 1487?",
+     "choices": [
+      "Barons' War",
+      "Wars of the Roses",
+      "Hundred Years' War",
+      "Anarchy"
+     ],
+     "answer": "Wars of the Roses",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-175",
+     "prompt": "Who wrote the Prose Edda?",
+     "choices": [
+      "Sæmundr the Wise",
+      "Egill Skallagrímsson",
+      "Snorri Sturluson",
+      "Saxo Grammaticus"
+     ],
+     "answer": "Snorri Sturluson",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-143",
+     "prompt": "Who declined the 1964 Nobel Prize in Literature?",
+     "choices": [
+      "Samuel Beckett",
+      "Albert Camus",
+      "Boris Pasternak",
+      "Jean-Paul Sartre"
+     ],
+     "answer": "Jean-Paul Sartre",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-140",
+     "prompt": "Who wrote the children's novel The Railway Children?",
+     "choices": [
+      "Frances Hodgson Burnett",
+      "E. Nesbit",
+      "Arthur Ransome",
+      "Enid Blyton"
+     ],
+     "answer": "E. Nesbit",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-133",
+     "prompt": "The Holocene epoch began after the end of which interval?",
+     "choices": [
+      "Eocene",
+      "Last glacial period",
+      "Medieval warm period",
+      "Pliocene"
+     ],
+     "answer": "Last glacial period",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-196",
+     "prompt": "The cold north wind that sweeps down the Rhone valley to the Mediterranean is the what?",
+     "choices": [
+      "Bora",
+      "Levante",
+      "Sirocco",
+      "Mistral"
+     ],
+     "answer": "Mistral",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-226",
+     "prompt": "Which ocean current is the largest by volume, circling Antarctica?",
+     "choices": [
+      "Agulhas",
+      "Antarctic Circumpolar Current",
+      "Gulf Stream",
+      "Kuroshio"
+     ],
+     "answer": "Antarctic Circumpolar Current",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-222",
+     "prompt": "Which philosopher wrote Reasons and Persons, with its teletransporter cases?",
+     "choices": [
+      "Thomas Nagel",
+      "Bernard Williams",
+      "Peter Singer",
+      "Derek Parfit"
+     ],
+     "answer": "Derek Parfit",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-001",
+     "prompt": "Which Presocratic remarked that horses would draw gods that look like horses?",
+     "choices": [
+      "Heraclitus",
+      "Empedocles",
+      "Xenophanes",
+      "Anaxagoras"
+     ],
+     "answer": "Xenophanes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-295",
+     "prompt": "Which Indian school's two basic principles are purusha and prakriti?",
+     "choices": [
+      "Samkhya",
+      "Vaisheshika",
+      "Mimamsa",
+      "Nyaya"
+     ],
+     "answer": "Samkhya",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 51,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-191",
+     "prompt": "566 − 156",
+     "answer": 410,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-218",
+     "prompt": "47 × 21",
+     "answer": 987,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-164",
+     "prompt": "364 ÷ 14",
+     "answer": 26,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-199",
+     "prompt": "Which Greek battle in 479 BC ended the Persian invasion on land?",
+     "choices": [
+      "Marathon",
+      "Thermopylae",
+      "Plataea",
+      "Issus"
+     ],
+     "answer": "Plataea",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-224",
+     "prompt": "Which Andean culture built Chan Chan, an adobe capital on Peru's coast?",
+     "choices": [
+      "The Nazca",
+      "The Moche",
+      "The Wari",
+      "The Chimu"
+     ],
+     "answer": "The Chimu",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-201",
+     "prompt": "Which conquistador crossed Panama and sighted the Pacific in 1513?",
+     "choices": [
+      "Vasco Nunez de Balboa",
+      "Francisco Pizarro",
+      "Ponce de Leon",
+      "Hernan Cortes"
+     ],
+     "answer": "Vasco Nunez de Balboa",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-009",
+     "prompt": "Who wrote the novel Sister Carrie?",
+     "choices": [
+      "Upton Sinclair",
+      "Frank Norris",
+      "Sinclair Lewis",
+      "Theodore Dreiser"
+     ],
+     "answer": "Theodore Dreiser",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-106",
+     "prompt": "Which Goethe novel of 1774 sparked a wave of imitative suicides?",
+     "choices": [
+      "Elective Affinities",
+      "Hyperion",
+      "Wilhelm Meister",
+      "The Sorrows of Young Werther"
+     ],
+     "answer": "The Sorrows of Young Werther",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-162",
+     "prompt": "Who wrote the novel The Death of Artemio Cruz?",
+     "choices": [
+      "Juan Rulfo",
+      "Octavio Paz",
+      "Elena Poniatowska",
+      "Carlos Fuentes"
+     ],
+     "answer": "Carlos Fuentes",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-134",
+     "prompt": "Which Precambrian period precedes the Cambrian and holds early complex animals?",
+     "choices": [
+      "Cryogenian",
+      "Orosirian",
+      "Ediacaran",
+      "Tonian"
+     ],
+     "answer": "Ediacaran",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-282",
+     "prompt": "Which is the highest peak in the Atlas Mountains?",
+     "choices": [
+      "Ras Dashen",
+      "Mount Kenya",
+      "Toubkal",
+      "Tahat"
+     ],
+     "answer": "Toubkal",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-267",
+     "prompt": "A crescent-shaped dune formed by wind from one direction is called what?",
+     "choices": [
+      "Barchan",
+      "Star dune",
+      "Parabolic dune",
+      "Seif"
+     ],
+     "answer": "Barchan",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-043",
+     "prompt": "Which Epicurean's library of papyri was found at Herculaneum?",
+     "choices": [
+      "Hermarchus",
+      "Metrodorus",
+      "Philodemus",
+      "Lucretius"
+     ],
+     "answer": "Philodemus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-123",
+     "prompt": "Which Locke work argued that the state should tolerate differing religious belief?",
+     "choices": [
+      "Essays on the Law of Nature",
+      "The Reasonableness of Christianity",
+      "Some Thoughts Concerning Education",
+      "A Letter Concerning Toleration"
+     ],
+     "answer": "A Letter Concerning Toleration",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-229",
+     "prompt": "In Rawls's theory, the hypothetical starting point is called the original what?",
+     "choices": [
+      "Position",
+      "Agreement",
+      "Contract",
+      "Condition"
+     ],
+     "answer": "Position",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

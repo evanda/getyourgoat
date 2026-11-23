@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 86,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-062",
+     "prompt": "7 × 15 − 9 × 11",
+     "answer": 6,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-099",
+     "prompt": "672 ÷ 16",
+     "answer": 42,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-275",
+     "prompt": "11 × 7 − 11 × 7",
+     "answer": 0,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-198",
+     "prompt": "Which Philippine chief killed Ferdinand Magellan in 1521?",
+     "choices": [
+      "Sulayman",
+      "Lapulapu",
+      "Humabon",
+      "Rajah Kolambu"
+     ],
+     "answer": "Lapulapu",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-056",
+     "prompt": "Which Umayyad survivor founded an emirate in Cordoba in 756?",
+     "choices": [
+      "Al-Hakam II",
+      "Abd al-Rahman III",
+      "Tariq ibn Ziyad",
+      "Abd al-Rahman I"
+     ],
+     "answer": "Abd al-Rahman I",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-073",
+     "prompt": "Which 1685 act by Louis XIV revoked the Edict of Nantes?",
+     "choices": [
+      "Edict of Fontainebleau",
+      "Edict of Milan",
+      "Edict of Worms",
+      "Edict of Restitution"
+     ],
+     "answer": "Edict of Fontainebleau",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-064",
+     "prompt": "Who wrote the Norwegian novel Hunger (Sult)?",
+     "choices": [
+      "Jens Bjørneboe",
+      "Henrik Ibsen",
+      "Sigrid Undset",
+      "Knut Hamsun"
+     ],
+     "answer": "Knut Hamsun",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-219",
+     "prompt": "Who wrote the Sanskrit play Shakuntala?",
+     "choices": [
+      "Shudraka",
+      "Bhasa",
+      "Kalidasa",
+      "Bhavabhuti"
+     ],
+     "answer": "Kalidasa",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-256",
+     "prompt": "Who wrote the novel Cranford?",
+     "choices": [
+      "George Eliot",
+      "Charlotte Brontë",
+      "Margaret Oliphant",
+      "Elizabeth Gaskell"
+     ],
+     "answer": "Elizabeth Gaskell",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-186",
+     "prompt": "Which thin, milky high cloud often produces halos around the Sun?",
+     "choices": [
+      "Cirrocumulus",
+      "Cirrostratus",
+      "Altostratus",
+      "Nimbostratus"
+     ],
+     "answer": "Cirrostratus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-100",
+     "prompt": "The process of mountain building is called what?",
+     "choices": [
+      "Epeirogeny",
+      "Diagenesis",
+      "Eustasy",
+      "Orogeny"
+     ],
+     "answer": "Orogeny",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-003",
+     "prompt": "Which mineral is 4 on the Mohs scale?",
+     "choices": [
+      "Calcite",
+      "Fluorite",
+      "Gypsum",
+      "Apatite"
+     ],
+     "answer": "Fluorite",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-025",
+     "prompt": "Who was Plato's nephew and his successor as head of the Academy?",
+     "choices": [
+      "Polemo",
+      "Speusippus",
+      "Xenocrates",
+      "Aristotle"
+     ],
+     "answer": "Speusippus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-255",
+     "prompt": "Which Ghanaian-born philosopher taught at Halle and Jena in the 1730s?",
+     "choices": [
+      "Kwame Anthony Appiah",
+      "Olaudah Equiano",
+      "Ottobah Cugoano",
+      "Anton Wilhelm Amo"
+     ],
+     "answer": "Anton Wilhelm Amo",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-308",
+     "prompt": "Which Pali term means non-self?",
+     "choices": [
+      "Anatta",
+      "Dukkha",
+      "Anicca",
+      "Sati"
+     ],
+     "answer": "Anatta",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

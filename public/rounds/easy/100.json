@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 100,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-253",
+     "prompt": "4 + 3",
+     "answer": 7,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-214",
+     "prompt": "19 + 5",
+     "answer": 24,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-023",
+     "prompt": "13 + 3",
+     "answer": 16,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-070",
+     "prompt": "Long ago, people in China made the first what?",
+     "choices": [
+      "Bicycles",
+      "Telephones",
+      "Fireworks",
+      "Skateboards"
+     ],
+     "answer": "Fireworks",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-089",
+     "prompt": "The giant stone heads on Easter Island are called what?",
+     "choices": [
+      "Pyramids",
+      "Moai",
+      "Sphinxes",
+      "Totems"
+     ],
+     "answer": "Moai",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-233",
+     "prompt": "Who gave the famous I Have a Dream speech?",
+     "choices": [
+      "Abraham Lincoln",
+      "Martin Luther King Jr.",
+      "George Washington",
+      "Neil Armstrong"
+     ],
+     "answer": "Martin Luther King Jr.",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-062",
+     "prompt": "What does the Cowardly Lion want?",
+     "choices": [
+      "A heart",
+      "A brain",
+      "Courage",
+      "A home"
+     ],
+     "answer": "Courage",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-221",
+     "prompt": "Who is the one-legged pirate cook in Treasure Island?",
+     "choices": [
+      "Captain Hook",
+      "Blackbeard",
+      "Captain Flint",
+      "Long John Silver"
+     ],
+     "answer": "Long John Silver",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-150",
+     "prompt": "What kind of animal is Charlotte?",
+     "choices": [
+      "A mouse",
+      "A goose",
+      "A spider",
+      "A rat"
+     ],
+     "answer": "A spider",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-127",
+     "prompt": "What is flat land with few hills called?",
+     "choices": [
+      "Mountain",
+      "Plain",
+      "Volcano",
+      "Peak"
+     ],
+     "answer": "Plain",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-254",
+     "prompt": "Does the Moon have air to breathe?",
+     "choices": [
+      "Yes",
+      "Only at night",
+      "No",
+      "Only in summer"
+     ],
+     "answer": "No",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-106",
+     "prompt": "What is melted rock called after it flows out of a volcano?",
+     "choices": [
+      "Magma",
+      "Lava",
+      "Mud",
+      "Water"
+     ],
+     "answer": "Lava",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-176",
+     "prompt": "Camels store fat in their what?",
+     "choices": [
+      "tails",
+      "ears",
+      "feet",
+      "humps"
+     ],
+     "answer": "humps",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-204",
+     "prompt": "Crabs walk which way?",
+     "choices": [
+      "backward",
+      "upside down",
+      "in circles",
+      "sideways"
+     ],
+     "answer": "sideways",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-013",
+     "prompt": "A baby lion is called a what?",
+     "choices": [
+      "cub",
+      "kitten",
+      "pup",
+      "foal"
+     ],
+     "answer": "cub",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

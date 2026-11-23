@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 1,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-061",
+     "prompt": "4 + 5",
+     "answer": 9,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-027",
+     "prompt": "5 + 3",
+     "answer": 8,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-205",
+     "prompt": "7 × 10",
+     "answer": 70,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-057",
+     "prompt": "Which month is named after Julius Caesar?",
+     "choices": [
+      "March",
+      "July",
+      "June",
+      "May"
+     ],
+     "answer": "July",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-022",
+     "prompt": "About how old is the Great Pyramid?",
+     "choices": [
+      "450 years",
+      "45 years",
+      "4,500 years",
+      "45,000 years"
+     ],
+     "answer": "4,500 years",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-215",
+     "prompt": "Before TV, families gathered to listen to the what?",
+     "choices": [
+      "Cell phone",
+      "Computer",
+      "Video game",
+      "Radio"
+     ],
+     "answer": "Radio",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-128",
+     "prompt": "In Matilda, what does the girl love to do?",
+     "choices": [
+      "Read books",
+      "Play football",
+      "Climb trees",
+      "Bake cakes"
+     ],
+     "answer": "Read books",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-237",
+     "prompt": "Who carves Pinocchio from wood?",
+     "choices": [
+      "Merlin",
+      "Jiminy",
+      "Gandalf",
+      "Geppetto"
+     ],
+     "answer": "Geppetto",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-183",
+     "prompt": "In Disney's Pinocchio, who acts as Pinocchio's conscience?",
+     "choices": [
+      "A spider",
+      "Jiminy Cricket",
+      "A ladybug",
+      "A bee"
+     ],
+     "answer": "Jiminy Cricket",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-163",
+     "prompt": "Is ocean water salty or sweet?",
+     "choices": [
+      "Sweet",
+      "Sour",
+      "Salty",
+      "Spicy"
+     ],
+     "answer": "Salty",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-154",
+     "prompt": "What do we call a tiny rock that is small enough to hold in your hand?",
+     "choices": [
+      "Mountain",
+      "Pebble",
+      "Boulder",
+      "Cliff"
+     ],
+     "answer": "Pebble",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-272",
+     "prompt": "What do we call a living thing and the place it lives, working together?",
+     "choices": [
+      "Ecosystem",
+      "Skyscraper",
+      "Stadium",
+      "Museum"
+     ],
+     "answer": "Ecosystem",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-104",
+     "prompt": "Birds lay their eggs in a what?",
+     "choices": [
+      "den",
+      "hive",
+      "burrow",
+      "nest"
+     ],
+     "answer": "nest",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-088",
+     "prompt": "Bees make what sweet food?",
+     "choices": [
+      "milk",
+      "jam",
+      "butter",
+      "honey"
+     ],
+     "answer": "honey",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-057",
+     "prompt": "A male chicken is called a what?",
+     "choices": [
+      "rooster",
+      "hen",
+      "chick",
+      "duckling"
+     ],
+     "answer": "rooster",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

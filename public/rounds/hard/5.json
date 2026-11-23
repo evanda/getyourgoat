@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 5,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-229",
+     "prompt": "240 ÷ 10",
+     "answer": 24,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-015",
+     "prompt": "128 ÷ 8",
+     "answer": 16,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-196",
+     "prompt": "721 − 187",
+     "answer": 534,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-079",
+     "prompt": "Which 1842 treaty ended the First Opium War, ceding Hong Kong Island?",
+     "choices": [
+      "Treaty of Tientsin",
+      "Treaty of Shimonoseki",
+      "Treaty of Nanking",
+      "Treaty of Aigun"
+     ],
+     "answer": "Treaty of Nanking",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-285",
+     "prompt": "Which 1410 battle saw Poland-Lithuania crush the Teutonic Knights?",
+     "choices": [
+      "Grunwald",
+      "Mohi",
+      "Legnica",
+      "Warsaw"
+     ],
+     "answer": "Grunwald",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-237",
+     "prompt": "Which Sikh ruler built an empire in Punjab in the early 1800s?",
+     "choices": [
+      "Ranjit Singh",
+      "Guru Gobind Singh",
+      "Guru Nanak",
+      "Banda Bahadur"
+     ],
+     "answer": "Ranjit Singh",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-284",
+     "prompt": "Who wrote the Turkish novel Memed, My Hawk?",
+     "choices": [
+      "Orhan Pamuk",
+      "Ahmet Hamdi Tanpınar",
+      "Aziz Nesin",
+      "Yaşar Kemal"
+     ],
+     "answer": "Yaşar Kemal",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-070",
+     "prompt": "Who wrote the novel At Swim-Two-Birds?",
+     "choices": [
+      "Samuel Beckett",
+      "James Joyce",
+      "Flann O'Brien",
+      "Brendan Behan"
+     ],
+     "answer": "Flann O'Brien",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-132",
+     "prompt": "Which Austen novel parodies the Gothic romance?",
+     "choices": [
+      "Mansfield Park",
+      "Persuasion",
+      "Emma",
+      "Northanger Abbey"
+     ],
+     "answer": "Northanger Abbey",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-285",
+     "prompt": "The Dolomites take their name from which geologist?",
+     "choices": [
+      "Louis Agassiz",
+      "Horace de Saussure",
+      "Leopold von Buch",
+      "Deodat de Dolomieu"
+     ],
+     "answer": "Deodat de Dolomieu",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-214",
+     "prompt": "Standard sea-level atmospheric pressure is about how many hectopascals?",
+     "choices": [
+      "1500",
+      "1013",
+      "760",
+      "29.9"
+     ],
+     "answer": "1013",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-076",
+     "prompt": "Symmetrical magnetic stripes on the seafloor record repeated what?",
+     "choices": [
+      "Reversals of the magnetic field",
+      "Changes in sea level",
+      "Volcanic eruptions",
+      "Wandering of the rotation axis"
+     ],
+     "answer": "Reversals of the magnetic field",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-217",
+     "prompt": "Which view says mental states are by-products with no causal effect?",
+     "choices": [
+      "Panpsychism",
+      "Functionalism",
+      "Occasionalism",
+      "Epiphenomenalism"
+     ],
+     "answer": "Epiphenomenalism",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-303",
+     "prompt": "Whom does Uddalaka teach 'tat tvam asi' in the Chandogya Upanishad?",
+     "choices": [
+      "Yajnavalkya",
+      "Shvetaketu",
+      "Janaka",
+      "Nachiketa"
+     ],
+     "answer": "Shvetaketu",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-121",
+     "prompt": "Which work by Adam Smith introduces the impartial spectator?",
+     "choices": [
+      "The Theory of Moral Sentiments",
+      "Lectures on Jurisprudence",
+      "Essays on Philosophical Subjects",
+      "The Wealth of Nations"
+     ],
+     "answer": "The Theory of Moral Sentiments",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

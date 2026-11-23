@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 99,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-031",
+     "prompt": "29 + 29",
+     "answer": 58,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-213",
+     "prompt": "7 + 6",
+     "answer": 13,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-026",
+     "prompt": "9 − 9",
+     "answer": 0,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-096",
+     "prompt": "What do we call bones that turned to stone over time?",
+     "choices": [
+      "Fossils",
+      "Pebbles",
+      "Jewels",
+      "Crystals"
+     ],
+     "answer": "Fossils",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-056",
+     "prompt": "What were Romans' water-carrying stone bridges called?",
+     "choices": [
+      "Aqueducts",
+      "Drawbridges",
+      "Skyscrapers",
+      "Ski lifts"
+     ],
+     "answer": "Aqueducts",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-017",
+     "prompt": "The Rosetta Stone helped people learn to read what?",
+     "choices": [
+      "Viking runes",
+      "Hieroglyphs",
+      "Roman numbers",
+      "Morse code"
+     ],
+     "answer": "Hieroglyphs",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-031",
+     "prompt": "What was the witch's house made of in Hansel and Gretel?",
+     "choices": [
+      "Stone",
+      "Candy and gingerbread",
+      "Straw",
+      "Wood only"
+     ],
+     "answer": "Candy and gingerbread",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-254",
+     "prompt": "Which hero beat Medusa, who had snakes for hair?",
+     "choices": [
+      "Hercules",
+      "Jason",
+      "Perseus",
+      "Odysseus"
+     ],
+     "answer": "Perseus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-160",
+     "prompt": "Who wrote Alice's Adventures in Wonderland?",
+     "choices": [
+      "Lewis Carroll",
+      "C. S. Lewis",
+      "Beatrix Potter",
+      "J. M. Barrie"
+     ],
+     "answer": "Lewis Carroll",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-300",
+     "prompt": "Which continent is also a country?",
+     "choices": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+     ],
+     "answer": "Australia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-280",
+     "prompt": "What do we call the triangle of land where a river meets the sea?",
+     "choices": [
+      "Peak",
+      "Dune",
+      "Delta",
+      "Cave"
+     ],
+     "answer": "Delta",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-047",
+     "prompt": "What do we call it when a river spills over its banks?",
+     "choices": [
+      "Drought",
+      "Flood",
+      "Breeze",
+      "Eclipse"
+     ],
+     "answer": "Flood",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-006",
+     "prompt": "A baby sheep is called a what?",
+     "choices": [
+      "kid",
+      "lamb",
+      "cub",
+      "chick"
+     ],
+     "answer": "lamb",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-261",
+     "prompt": "Which red-furred animal has a bushy tail?",
+     "choices": [
+      "fox",
+      "zebra",
+      "seal",
+      "cow"
+     ],
+     "answer": "fox",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-194",
+     "prompt": "Many goats have a little what under the chin?",
+     "choices": [
+      "wing",
+      "beard",
+      "tusk",
+      "mask"
+     ],
+     "answer": "beard",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

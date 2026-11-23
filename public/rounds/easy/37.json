@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 37,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-074",
+     "prompt": "2 × 5",
+     "answer": 10,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-015",
+     "prompt": "35 + 35",
+     "answer": 70,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-037",
+     "prompt": "27 + 27",
+     "answer": 54,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-105",
+     "prompt": "In 1492, Columbus sailed across which ocean?",
+     "choices": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+     ],
+     "answer": "Atlantic Ocean",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-266",
+     "prompt": "Early movies had no sound, so they were called what?",
+     "choices": [
+      "Noisy films",
+      "Radio films",
+      "Silent films",
+      "Pop films"
+     ],
+     "answer": "Silent films",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-145",
+     "prompt": "Tim Berners-Lee invented the World Wide what?",
+     "choices": [
+      "Ocean",
+      "Web",
+      "Tree",
+      "Road"
+     ],
+     "answer": "Web",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-138",
+     "prompt": "Which Potter character is a hedgehog washerwoman?",
+     "choices": [
+      "Mrs. Tabitha",
+      "Jemima",
+      "Mrs. Tiggy-Winkle",
+      "Mrs. Rabbit"
+     ],
+     "answer": "Mrs. Tiggy-Winkle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-033",
+     "prompt": "Who was the emperor fooled by in The Emperor's New Clothes?",
+     "choices": [
+      "Two knights",
+      "His own sons",
+      "A wizard",
+      "Two tricksters"
+     ],
+     "answer": "Two tricksters",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-016",
+     "prompt": "Who let down her long golden hair from a tower?",
+     "choices": [
+      "Rapunzel",
+      "Cinderella",
+      "Belle",
+      "Snow White"
+     ],
+     "answer": "Rapunzel",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-022",
+     "prompt": "Water falling from clouds is called what?",
+     "choices": [
+      "Precipitation",
+      "Evaporation",
+      "Erosion",
+      "Gravity"
+     ],
+     "answer": "Precipitation",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-255",
+     "prompt": "Is there wind on the Moon?",
+     "choices": [
+      "Yes",
+      "No",
+      "Only at noon",
+      "Only in winter"
+     ],
+     "answer": "No",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-100",
+     "prompt": "What do we call a person who studies volcanoes?",
+     "choices": [
+      "Chef",
+      "Volcanologist",
+      "Dentist",
+      "Pilot"
+     ],
+     "answer": "Volcanologist",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-077",
+     "prompt": "Which animal in stories pulls Santa's sleigh?",
+     "choices": [
+      "reindeer",
+      "cow",
+      "goat",
+      "zebra"
+     ],
+     "answer": "reindeer",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-188",
+     "prompt": "Goat pupils are shaped like what?",
+     "choices": [
+      "circles",
+      "stars",
+      "hearts",
+      "rectangles"
+     ],
+     "answer": "rectangles",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-029",
+     "prompt": "A group of cows is called a what?",
+     "choices": [
+      "herd",
+      "flock",
+      "pack",
+      "school"
+     ],
+     "answer": "herd",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

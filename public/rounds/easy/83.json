@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 83,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-267",
+     "prompt": "5 + 1",
+     "answer": 6,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-278",
+     "prompt": "5 + 4",
+     "answer": 9,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-189",
+     "prompt": "36 + 6",
+     "answer": 42,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-303",
+     "prompt": "Which tool helps you look at faraway stars?",
+     "choices": [
+      "Spoon",
+      "Compass",
+      "Clock",
+      "Telescope"
+     ],
+     "answer": "Telescope",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-262",
+     "prompt": "Columbus believed he had sailed all the way to which continent?",
+     "choices": [
+      "Mars",
+      "Egypt",
+      "Asia",
+      "Australia"
+     ],
+     "answer": "Asia",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-223",
+     "prompt": "Long ago, school children wrote on a small board called a what?",
+     "choices": [
+      "Laptop",
+      "Whiteboard",
+      "Phone",
+      "Slate"
+     ],
+     "answer": "Slate",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-273",
+     "prompt": "Who pulled a sword from a stone to become king?",
+     "choices": [
+      "Robin Hood",
+      "Merlin",
+      "Lancelot",
+      "King Arthur"
+     ],
+     "answer": "King Arthur",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-199",
+     "prompt": "What does Max wear in Where the Wild Things Are?",
+     "choices": [
+      "A cowboy hat",
+      "A wolf suit",
+      "A pirate coat",
+      "A fox hat"
+     ],
+     "answer": "A wolf suit",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-282",
+     "prompt": "What is a book's writer called?",
+     "choices": [
+      "A painter",
+      "A singer",
+      "An author",
+      "A printer"
+     ],
+     "answer": "An author",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-132",
+     "prompt": "What do we call the icicle-shaped rock that hangs from a cave ceiling?",
+     "choices": [
+      "Stalagmite",
+      "Stalactite",
+      "Glacier",
+      "Geyser"
+     ],
+     "answer": "Stalactite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-250",
+     "prompt": "What is the Big Dipper part of?",
+     "choices": [
+      "A planet",
+      "A constellation",
+      "A moon",
+      "A comet"
+     ],
+     "answer": "A constellation",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-026",
+     "prompt": "At what temperature in Celsius does water freeze?",
+     "choices": [
+      "10 degrees",
+      "0 degrees",
+      "50 degrees",
+      "100 degrees"
+     ],
+     "answer": "0 degrees",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-253",
+     "prompt": "Chickens sleep in a house called a what?",
+     "choices": [
+      "coop",
+      "stable",
+      "kennel",
+      "hive"
+     ],
+     "answer": "coop",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-259",
+     "prompt": "Which wild goat has long curved horns and climbs cliffs?",
+     "choices": [
+      "zebra",
+      "camel",
+      "ibex",
+      "llama"
+     ],
+     "answer": "ibex",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-123",
+     "prompt": "Frogs belong to a group called what?",
+     "choices": [
+      "reptiles",
+      "mammals",
+      "amphibians",
+      "insects"
+     ],
+     "answer": "amphibians",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 83,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-288",
+     "prompt": "10% of 600",
+     "answer": 60,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-048",
+     "prompt": "20 × 12",
+     "answer": 240,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-060",
+     "prompt": "19 × 19",
+     "answer": 361,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-138",
+     "prompt": "Which Saxon king was crowned emperor in Rome in 962?",
+     "choices": [
+      "Otto III",
+      "Otto I",
+      "Henry the Fowler",
+      "Conrad II"
+     ],
+     "answer": "Otto I",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-123",
+     "prompt": "Which Burmese king sacked Ayutthaya in 1767?",
+     "choices": [
+      "Bayinnaung",
+      "Alaungpaya",
+      "Hsinbyushin",
+      "Anawrahta"
+     ],
+     "answer": "Hsinbyushin",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-002",
+     "prompt": "Which caliph was Charlemagne's contemporary, famed in One Thousand and One Nights?",
+     "choices": [
+      "Al-Ma'mun",
+      "Harun al-Rashid",
+      "Al-Mansur",
+      "Muawiya"
+     ],
+     "answer": "Harun al-Rashid",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-092",
+     "prompt": "Who wrote the novel God's Bits of Wood?",
+     "choices": [
+      "Cheikh Hamidou Kane",
+      "Mongo Beti",
+      "Camara Laye",
+      "Ousmane Sembène"
+     ],
+     "answer": "Ousmane Sembène",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-113",
+     "prompt": "Who wanders Dublin on one day in Joyce's Ulysses, as the advertising canvasser?",
+     "choices": [
+      "Simon Dedalus",
+      "Stephen Dedalus",
+      "Leopold Bloom",
+      "Buck Mulligan"
+     ],
+     "answer": "Leopold Bloom",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-195",
+     "prompt": "Who was the first woman to win the Nobel Prize in Literature?",
+     "choices": [
+      "Grazia Deledda",
+      "Sigrid Undset",
+      "Gabriela Mistral",
+      "Selma Lagerlöf"
+     ],
+     "answer": "Selma Lagerlöf",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-153",
+     "prompt": "Fossils of the seed fern Glossopteris support the former existence of which landmass?",
+     "choices": [
+      "Laurasia",
+      "Rodinia",
+      "Euramerica",
+      "Gondwana"
+     ],
+     "answer": "Gondwana",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-184",
+     "prompt": "The 1987 treaty that phased out ozone-depleting chemicals is called what?",
+     "choices": [
+      "Kyoto Protocol",
+      "Vienna Convention",
+      "Montreal Protocol",
+      "Paris Agreement"
+     ],
+     "answer": "Montreal Protocol",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-182",
+     "prompt": "Which stratospheric clouds help drive ozone destruction over Antarctica?",
+     "choices": [
+      "Noctilucent clouds",
+      "Contrails",
+      "Cirrostratus",
+      "Polar stratospheric clouds"
+     ],
+     "answer": "Polar stratospheric clouds",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-226",
+     "prompt": "Which philosopher's Jim and the Indians case challenges utilitarianism?",
+     "choices": [
+      "John Rawls",
+      "Bernard Williams",
+      "Derek Parfit",
+      "R. M. Hare"
+     ],
+     "answer": "Bernard Williams",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-272",
+     "prompt": "Which thinker of the Yin-Yang school developed the cycle of Five Phases?",
+     "choices": [
+      "Shen Dao",
+      "Gongsun Long",
+      "Zou Yan",
+      "Dong Zhongshu"
+     ],
+     "answer": "Zou Yan",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-015",
+     "prompt": "Which Plato dialogue is set on Socrates' last day and argues for the soul's immortality?",
+     "choices": [
+      "Phaedrus",
+      "Gorgias",
+      "Crito",
+      "Phaedo"
+     ],
+     "answer": "Phaedo",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

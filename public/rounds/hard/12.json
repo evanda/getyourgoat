@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 12,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-241",
+     "prompt": "25 × 14",
+     "answer": 350,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-001",
+     "prompt": "16 × 18",
+     "answer": 288,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-127",
+     "prompt": "871 − 122",
+     "answer": 749,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-117",
+     "prompt": "Which German bacteriologist identified the tuberculosis bacillus in 1882?",
+     "choices": [
+      "Robert Koch",
+      "Louis Pasteur",
+      "Paul Ehrlich",
+      "Emil von Behring"
+     ],
+     "answer": "Robert Koch",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-243",
+     "prompt": "Which Mexican president, a Zapotec, resisted the French intervention of the 1860s?",
+     "choices": [
+      "Santa Anna",
+      "Porfirio Diaz",
+      "Benito Juarez",
+      "Vicente Guerrero"
+     ],
+     "answer": "Benito Juarez",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-088",
+     "prompt": "Which leader founded the Republic of China in 1912 as provisional president?",
+     "choices": [
+      "Chiang Kai-shek",
+      "Yuan Shikai",
+      "Cixi",
+      "Sun Yat-sen"
+     ],
+     "answer": "Sun Yat-sen",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-190",
+     "prompt": "Who wrote the verse drama Prometheus Unbound?",
+     "choices": [
+      "Lord Byron",
+      "John Keats",
+      "Percy Bysshe Shelley",
+      "William Blake"
+     ],
+     "answer": "Percy Bysshe Shelley",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-026",
+     "prompt": "Which four-novel cycle was Mishima's last work?",
+     "choices": [
+      "The Rice Road",
+      "The Sea of Fertility",
+      "The Spring Snow Cycle",
+      "The Pleasure Quartet"
+     ],
+     "answer": "The Sea of Fertility",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-183",
+     "prompt": "Who wrote the novel No Longer Human?",
+     "choices": [
+      "Natsume Sōseki",
+      "Yukio Mishima",
+      "Kōbō Abe",
+      "Osamu Dazai"
+     ],
+     "answer": "Osamu Dazai",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-277",
+     "prompt": "Which peak is the highest on the Australian mainland?",
+     "choices": [
+      "Mount Townsend",
+      "Mount Kosciuszko",
+      "Mount Bogong",
+      "Mount Wilhelm"
+     ],
+     "answer": "Mount Kosciuszko",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-020",
+     "prompt": "Chrysotile, the most common form of asbestos, belongs to which mineral group?",
+     "choices": [
+      "Zeolite",
+      "Amphibole",
+      "Mica",
+      "Serpentine"
+     ],
+     "answer": "Serpentine",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-065",
+     "prompt": "Which dense metamorphic rock of garnet and pyroxene forms at very high pressure?",
+     "choices": [
+      "Amphibolite",
+      "Granulite",
+      "Greenschist",
+      "Eclogite"
+     ],
+     "answer": "Eclogite",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-306",
+     "prompt": "Which Theravada scholar wrote the Visuddhimagga?",
+     "choices": [
+      "Nagasena",
+      "Dharmakirti",
+      "Asanga",
+      "Buddhaghosa"
+     ],
+     "answer": "Buddhaghosa",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-078",
+     "prompt": "Which twelfth-century theologian's Sentences became the standard university textbook?",
+     "choices": [
+      "Hugh of Saint Victor",
+      "Peter Abelard",
+      "Gratian",
+      "Peter Lombard"
+     ],
+     "answer": "Peter Lombard",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-176",
+     "prompt": "Which French thinker wrote Gravity and Grace?",
+     "choices": [
+      "Iris Murdoch",
+      "Edith Stein",
+      "Simone Weil",
+      "Simone de Beauvoir"
+     ],
+     "answer": "Simone Weil",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

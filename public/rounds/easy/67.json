@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 67,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-237",
+     "prompt": "58 + 24",
+     "answer": 82,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-286",
+     "prompt": "10 + 7",
+     "answer": 17,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-022",
+     "prompt": "33 + 33",
+     "answer": 66,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-275",
+     "prompt": "Which president was famous for wearing a tall hat?",
+     "choices": [
+      "Barack Obama",
+      "Theodore Roosevelt",
+      "John Kennedy",
+      "Abraham Lincoln"
+     ],
+     "answer": "Abraham Lincoln",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-072",
+     "prompt": "The Silk Road was a long trade path between China and where?",
+     "choices": [
+      "Europe",
+      "The Moon",
+      "Antarctica",
+      "Hawaii"
+     ],
+     "answer": "Europe",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-068",
+     "prompt": "What is the Great Wall of China mostly made from?",
+     "choices": [
+      "Stone and brick",
+      "Glass",
+      "Plastic",
+      "Ice"
+     ],
+     "answer": "Stone and brick",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-127",
+     "prompt": "What is Matilda special at?",
+     "choices": [
+      "Singing",
+      "Using her mind to move things",
+      "Swimming",
+      "Cooking"
+     ],
+     "answer": "Using her mind to move things",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-098",
+     "prompt": "What was Old Mother Hubbard's cupboard?",
+     "choices": [
+      "Full",
+      "Locked",
+      "Bare",
+      "Broken"
+     ],
+     "answer": "Bare",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-190",
+     "prompt": "Who wrote The Wind in the Willows?",
+     "choices": [
+      "A. A. Milne",
+      "Beatrix Potter",
+      "Kenneth Grahame",
+      "J. M. Barrie"
+     ],
+     "answer": "Kenneth Grahame",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-060",
+     "prompt": "What causes day and night?",
+     "choices": [
+      "The Moon moving",
+      "Clouds",
+      "Wind",
+      "Earth spinning"
+     ],
+     "answer": "Earth spinning",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-311",
+     "prompt": "What is steam?",
+     "choices": [
+      "Ice",
+      "Snow",
+      "Sand",
+      "Water as a hot gas"
+     ],
+     "answer": "Water as a hot gas",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-219",
+     "prompt": "Places near the equator are usually what?",
+     "choices": [
+      "Hot",
+      "Freezing",
+      "Snowy",
+      "Icy"
+     ],
+     "answer": "Hot",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-047",
+     "prompt": "A sheep says what?",
+     "choices": [
+      "moo",
+      "oink",
+      "baa",
+      "quack"
+     ],
+     "answer": "baa",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-201",
+     "prompt": "An octopus can squirt what to hide?",
+     "choices": [
+      "ink",
+      "milk",
+      "glitter",
+      "soda"
+     ],
+     "answer": "ink",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-068",
+     "prompt": "A happy dog often wags its what?",
+     "choices": [
+      "ears",
+      "nose",
+      "knees",
+      "tail"
+     ],
+     "answer": "tail",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

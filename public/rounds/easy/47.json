@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 47,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-287",
+     "prompt": "6 − 6",
+     "answer": 0,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-209",
+     "prompt": "7 − 5",
+     "answer": 2,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-290",
+     "prompt": "8 ÷ 2",
+     "answer": 4,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-281",
+     "prompt": "The castle that inspired Disney's castle is in which country?",
+     "choices": [
+      "Japan",
+      "Germany",
+      "Brazil",
+      "Egypt"
+     ],
+     "answer": "Germany",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-061",
+     "prompt": "What was the Roman robe called?",
+     "choices": [
+      "Kimono",
+      "Toga",
+      "Poncho",
+      "Kilt"
+     ],
+     "answer": "Toga",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-086",
+     "prompt": "Maya and Aztec people made a drink from the beans of which tree?",
+     "choices": [
+      "Apple tree",
+      "Pine tree",
+      "Cacao tree",
+      "Maple tree"
+     ],
+     "answer": "Cacao tree",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-266",
+     "prompt": "Which animal is a trickster in Uncle Remus stories?",
+     "choices": [
+      "Brer Bear",
+      "Brer Duck",
+      "Brer Rabbit",
+      "Brer Frog"
+     ],
+     "answer": "Brer Rabbit",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-307",
+     "prompt": "What is Little Bo Peep's tool for guiding sheep?",
+     "choices": [
+      "A broom",
+      "A crook",
+      "A spade",
+      "A net"
+     ],
+     "answer": "A crook",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-154",
+     "prompt": "What kind of animal is Stuart Little?",
+     "choices": [
+      "A rabbit",
+      "A hamster",
+      "A mouse",
+      "A squirrel"
+     ],
+     "answer": "A mouse",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-171",
+     "prompt": "What is a big body of fresh water with land all around it?",
+     "choices": [
+      "Lake",
+      "Ocean",
+      "Gulf",
+      "Strait"
+     ],
+     "answer": "Lake",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-121",
+     "prompt": "What big hole in the ground was cut by a river over many years?",
+     "choices": [
+      "Volcano",
+      "Island",
+      "Canyon",
+      "Glacier"
+     ],
+     "answer": "Canyon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-085",
+     "prompt": "What do we call it when the Moon blocks the Sun's light?",
+     "choices": [
+      "Lunar eclipse",
+      "Solar eclipse",
+      "Full moon",
+      "Sunset"
+     ],
+     "answer": "Solar eclipse",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-100",
+     "prompt": "Giant pandas live wild in which country?",
+     "choices": [
+      "Egypt",
+      "Peru",
+      "France",
+      "China"
+     ],
+     "answer": "China",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-016",
+     "prompt": "A baby goose is called a what?",
+     "choices": [
+      "cygnet",
+      "duckling",
+      "chick",
+      "gosling"
+     ],
+     "answer": "gosling",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-294",
+     "prompt": "Which animal sleeps hanging upside down in caves?",
+     "choices": [
+      "lion",
+      "bat",
+      "cow",
+      "pig"
+     ],
+     "answer": "bat",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

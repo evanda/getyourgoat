@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 53,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-078",
+     "prompt": "37 + 3",
+     "answer": 40,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-292",
+     "prompt": "7 + 9",
+     "answer": 16,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-042",
+     "prompt": "19 − 4",
+     "answer": 15,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-227",
+     "prompt": "Before clocks, people told time with the sun using a what?",
+     "choices": [
+      "Compass",
+      "Thermometer",
+      "Ruler",
+      "Sundial"
+     ],
+     "answer": "Sundial",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-162",
+     "prompt": "The Statue of Liberty was a gift from which country?",
+     "choices": [
+      "Canada",
+      "Egypt",
+      "France",
+      "Japan"
+     ],
+     "answer": "France",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-243",
+     "prompt": "Years before year 1 are marked with which letters?",
+     "choices": [
+      "AM",
+      "PM",
+      "TV",
+      "BC"
+     ],
+     "answer": "BC",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-086",
+     "prompt": "What scared Little Miss Muffet away?",
+     "choices": [
+      "A mouse",
+      "A bee",
+      "A spider",
+      "A snake"
+     ],
+     "answer": "A spider",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-297",
+     "prompt": "What animal is the Frog Prince before the kiss?",
+     "choices": [
+      "A bird",
+      "A fish",
+      "A mouse",
+      "A frog"
+     ],
+     "answer": "A frog",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-124",
+     "prompt": "What are the factory workers called?",
+     "choices": [
+      "Oompa-Loompas",
+      "Minions",
+      "Munchkins",
+      "Elves"
+     ],
+     "answer": "Oompa-Loompas",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-151",
+     "prompt": "What do we call a large piece of rock?",
+     "choices": [
+      "Pebble",
+      "Grain",
+      "Dust",
+      "Boulder"
+     ],
+     "answer": "Boulder",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-258",
+     "prompt": "What do we call the time when the Sun comes up?",
+     "choices": [
+      "Sunset",
+      "Dusk",
+      "Midnight",
+      "Sunrise"
+     ],
+     "answer": "Sunrise",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-062",
+     "prompt": "What is the Sun?",
+     "choices": [
+      "A planet",
+      "A moon",
+      "A star",
+      "A comet"
+     ],
+     "answer": "A star",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-111",
+     "prompt": "Which animal lives in the sea?",
+     "choices": [
+      "camel",
+      "goat",
+      "dolphin",
+      "horse"
+     ],
+     "answer": "dolphin",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-203",
+     "prompt": "Which furry animal floats on its back in the sea?",
+     "choices": [
+      "beaver",
+      "rabbit",
+      "sea otter",
+      "fox"
+     ],
+     "answer": "sea otter",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-011",
+     "prompt": "A baby kangaroo is called a what?",
+     "choices": [
+      "cub",
+      "kit",
+      "joey",
+      "pup"
+     ],
+     "answer": "joey",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

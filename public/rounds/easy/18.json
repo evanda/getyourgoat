@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 18,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-289",
+     "prompt": "17 + 17",
+     "answer": 34,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-252",
+     "prompt": "34 + 2",
+     "answer": 36,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-249",
+     "prompt": "5 × 6",
+     "answer": 30,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-311",
+     "prompt": "Ancient Egyptians built boats to sail along which river?",
+     "choices": [
+      "Mississippi",
+      "Amazon",
+      "Thames",
+      "Nile"
+     ],
+     "answer": "Nile",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-043",
+     "prompt": "What did Greeks go to a theater to see?",
+     "choices": [
+      "Movies",
+      "Cartoons",
+      "Races on TV",
+      "Plays"
+     ],
+     "answer": "Plays",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-113",
+     "prompt": "Edmund Hillary and Tenzing Norgay were first to climb what?",
+     "choices": [
+      "Mount Fuji",
+      "Mount Everest",
+      "Mount Olympus",
+      "Pikes Peak"
+     ],
+     "answer": "Mount Everest",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-010",
+     "prompt": "Who lost a glass slipper at the royal ball?",
+     "choices": [
+      "Snow White",
+      "Belle",
+      "Cinderella",
+      "Rapunzel"
+     ],
+     "answer": "Cinderella",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-299",
+     "prompt": "What magic object did Sleeping Beauty prick her finger on?",
+     "choices": [
+      "A thorn",
+      "A spindle",
+      "A needle",
+      "A rose"
+     ],
+     "answer": "A spindle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-130",
+     "prompt": "What is James's home in James and the Giant Peach?",
+     "choices": [
+      "A tree house",
+      "A castle",
+      "A giant peach",
+      "A boat"
+     ],
+     "answer": "A giant peach",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-071",
+     "prompt": "Which planet is the biggest?",
+     "choices": [
+      "Earth",
+      "Mars",
+      "Mercury",
+      "Jupiter"
+     ],
+     "answer": "Jupiter",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-083",
+     "prompt": "What is the Moon's surface covered with that look like bowls?",
+     "choices": [
+      "Oceans",
+      "Forests",
+      "Craters",
+      "Cities"
+     ],
+     "answer": "Craters",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-082",
+     "prompt": "About how long does the Moon take to go around Earth?",
+     "choices": [
+      "One day",
+      "One year",
+      "One hour",
+      "One month"
+     ],
+     "answer": "One month",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-252",
+     "prompt": "A veterinarian is a doctor for what?",
+     "choices": [
+      "trees",
+      "cars",
+      "toys",
+      "animals"
+     ],
+     "answer": "animals",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-231",
+     "prompt": "How many wings does a butterfly have?",
+     "choices": [
+      "2",
+      "6",
+      "4",
+      "8"
+     ],
+     "answer": "4",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-247",
+     "prompt": "Frogs like to live near a what?",
+     "choices": [
+      "desert",
+      "volcano",
+      "pond",
+      "attic"
+     ],
+     "answer": "pond",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

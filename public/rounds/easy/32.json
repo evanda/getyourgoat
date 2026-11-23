@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 32,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-134",
+     "prompt": "7 × 3",
+     "answer": 21,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-167",
+     "prompt": "10 × 5",
+     "answer": 50,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-097",
+     "prompt": "20 + 20",
+     "answer": 40,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-261",
+     "prompt": "How many animals are in the Chinese zodiac?",
+     "choices": [
+      "7",
+      "12",
+      "10",
+      "20"
+     ],
+     "answer": "12",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-175",
+     "prompt": "Christ the Redeemer is a giant statue in which country?",
+     "choices": [
+      "Italy",
+      "Canada",
+      "Egypt",
+      "Brazil"
+     ],
+     "answer": "Brazil",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-028",
+     "prompt": "On which mountain did the Greek gods live?",
+     "choices": [
+      "Mount Olympus",
+      "Mount Everest",
+      "Mount Fuji",
+      "Mount Rushmore"
+     ],
+     "answer": "Mount Olympus",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-094",
+     "prompt": "What did Little Jack Horner pull out of his pie?",
+     "choices": [
+      "A pear",
+      "A cherry",
+      "A plum",
+      "An apple"
+     ],
+     "answer": "A plum",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-247",
+     "prompt": "What creature is half man and half horse?",
+     "choices": [
+      "A minotaur",
+      "A centaur",
+      "A satyr",
+      "A siren"
+     ],
+     "answer": "A centaur",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-118",
+     "prompt": "In which book do two Things come out of a box?",
+     "choices": [
+      "Green Eggs and Ham",
+      "Fox in Socks",
+      "The Cat in the Hat",
+      "Oh, the Places"
+     ],
+     "answer": "The Cat in the Hat",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-137",
+     "prompt": "What is the layer of hot, soft rock between crust and core called?",
+     "choices": [
+      "Crust",
+      "Sky",
+      "Mantle",
+      "Shell"
+     ],
+     "answer": "Mantle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-152",
+     "prompt": "What is the hardest natural material?",
+     "choices": [
+      "Gold",
+      "Wood",
+      "Diamond",
+      "Glass"
+     ],
+     "answer": "Diamond",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-299",
+     "prompt": "Which continent has the most people?",
+     "choices": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "Australia"
+     ],
+     "answer": "Asia",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-296",
+     "prompt": "Which sea animal squirts ink and has a soft body?",
+     "choices": [
+      "shark",
+      "seal",
+      "whale",
+      "octopus"
+     ],
+     "answer": "octopus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-195",
+     "prompt": "Bees tell friends where flowers are by doing a what?",
+     "choices": [
+      "song",
+      "drawing",
+      "dance",
+      "race"
+     ],
+     "answer": "dance",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-310",
+     "prompt": "Horses can sleep while doing what?",
+     "choices": [
+      "swimming",
+      "standing up",
+      "flying",
+      "hanging"
+     ],
+     "answer": "standing up",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

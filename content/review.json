@@ -218,5 +218,141 @@
  "hard-hist-128": {
   "decision": "drop",
   "reason": "Other island sultanates fit."
+ },
+ "hard-lit-031": {
+  "decision": "keep",
+  "reason": "Saadi was also of Shiraz; replaced distractor."
+ },
+ "hard-lit-044": {
+  "decision": "keep",
+  "reason": "Giveaway; reworded."
+ },
+ "hard-lit-061": {
+  "decision": "keep",
+  "reason": "Jami also wrote a Layla and Majnun; replaced distractor."
+ },
+ "hard-lit-124": {
+  "decision": "keep",
+  "reason": "Last 40 chapters are disputed; now asks about the first 80."
+ },
+ "hard-lit-177": {
+  "decision": "keep",
+  "reason": "Simonides also wrote victory odes; replaced distractor."
+ },
+ "hard-lit-275": {
+  "decision": "keep",
+  "reason": "Giveaway; reworded."
+ },
+ "hard-lit-041": {
+  "decision": "drop",
+  "reason": "Prompt gives the title away."
+ },
+ "hard-lit-215": {
+  "decision": "drop",
+  "reason": "Naming the three sisters gives the title away."
+ },
+ "hard-earth-190": {
+  "decision": "keep",
+  "reason": "WMO classes nimbostratus as middle-level; dropped \"low\"."
+ },
+ "hard-earth-050": {
+  "decision": "drop",
+  "reason": "Scoria does not always sink."
+ },
+ "hard-earth-092": {
+  "decision": "drop",
+  "reason": "\"Centered in\" is arguable across five states."
+ },
+ "hard-earth-161": {
+  "decision": "drop",
+  "reason": "Largest-impact ranking varies by estimate."
+ },
+ "hard-earth-220": {
+  "decision": "drop",
+  "reason": "A tropospheric polar vortex also exists."
+ },
+ "hard-earth-251": {
+  "decision": "drop",
+  "reason": "\"Largest glacier\" depends on the measure."
+ },
+ "easy-hist-097": {
+  "decision": "keep",
+  "reason": "Her finds were marine reptiles, not dinosaurs."
+ },
+ "easy-hist-118": {
+  "decision": "keep",
+  "reason": "\"Became\" overstated; now \"remembers\"."
+ },
+ "easy-hist-198": {
+  "decision": "keep",
+  "reason": "Sealed, not signed."
+ },
+ "easy-hist-262": {
+  "decision": "keep",
+  "reason": "He thought he reached the Indies (Asia), not India."
+ },
+ "easy-hist-300": {
+  "decision": "keep",
+  "reason": "Egyptian origin contestable; dropped it."
+ },
+ "easy-hist-126": {
+  "decision": "drop",
+  "reason": "Edison vs Swan is contested."
+ },
+ "easy-hist-219": {
+  "decision": "drop",
+  "reason": "Prompt says \"wells\"."
+ },
+ "easy-hist-222": {
+  "decision": "drop",
+  "reason": "Radio is also right."
+ },
+ "easy-hist-265": {
+  "decision": "drop",
+  "reason": "Early cars also ran on steam and electricity."
+ },
+ "hard-phil-086": {
+  "decision": "keep",
+  "reason": "Traditional, not formal, source; now says \"traditionally credited\"."
+ },
+ "hard-phil-138": {
+  "decision": "keep",
+  "reason": "He was a Privatdozent, not a professor."
+ },
+ "hard-phil-225": {
+  "decision": "keep",
+  "reason": "Essay dates to 1986, not 2005; dropped the year."
+ },
+ "hard-phil-183": {
+  "decision": "drop",
+  "reason": "Prompt repeats the answer phrase."
+ },
+ "hard-phil-161": {
+  "decision": "drop",
+  "reason": "Bain used the phrase before James."
+ },
+ "hard-phil-165": {
+  "decision": "drop",
+  "reason": "Negritude was developed jointly."
+ },
+ "hard-phil-029": {
+  "decision": "drop",
+  "reason": "Some credit his grandson."
+ },
+ "hard-phil-045": {
+  "decision": "drop",
+  "reason": "Tetrapharmakos is a later label."
+ },
+ "hard-phil-219": {
+  "decision": "drop",
+  "reason": "Idealism also fits."
+ },
+ "hard-phil-310": {
+  "decision": "drop",
+  "reason": "Syadvada also fits."
+ },
+ "hard-hist-007": {
+  "decision": "keep",
+  "reason": "Prompt named \"the Navigator\"; reworded."
  }
 }

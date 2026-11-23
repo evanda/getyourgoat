@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 62,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-067",
+     "prompt": "3 × 5",
+     "answer": 15,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-212",
+     "prompt": "44 + 38",
+     "answer": 82,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-034",
+     "prompt": "1 + 5",
+     "answer": 6,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-077",
+     "prompt": "Which drink first came from China?",
+     "choices": [
+      "Cola",
+      "Tea",
+      "Lemonade",
+      "Milkshake"
+     ],
+     "answer": "Tea",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-032",
+     "prompt": "What did winners of the ancient Olympics get?",
+     "choices": [
+      "Olive leaf crown",
+      "Gold medal",
+      "Silver trophy",
+      "Bag of coins"
+     ],
+     "answer": "Olive leaf crown",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-272",
+     "prompt": "Whose face is on the US one-dollar bill?",
+     "choices": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Benjamin Franklin",
+      "Thomas Edison"
+     ],
+     "answer": "George Washington",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-161",
+     "prompt": "What does Alice follow down a hole?",
+     "choices": [
+      "A black cat",
+      "A little mouse",
+      "A red bird",
+      "A white rabbit"
+     ],
+     "answer": "A white rabbit",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-089",
+     "prompt": "What color was Mary's lamb's fleece?",
+     "choices": [
+      "Black",
+      "Brown",
+      "Pink",
+      "White as snow"
+     ],
+     "answer": "White as snow",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-175",
+     "prompt": "What is the name of Peter Pan's fairy friend?",
+     "choices": [
+      "Wendy",
+      "Tinker Bell",
+      "Belle",
+      "Fern"
+     ],
+     "answer": "Tinker Bell",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-251",
+     "prompt": "Which star helps people find north?",
+     "choices": [
+      "North Star",
+      "Moon Star",
+      "Red Star",
+      "Blue Moon"
+     ],
+     "answer": "North Star",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-243",
+     "prompt": "What do we call a giant river of ice that moves slowly?",
+     "choices": [
+      "Waterfall",
+      "Geyser",
+      "Glacier",
+      "Canyon"
+     ],
+     "answer": "Glacier",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-290",
+     "prompt": "Which season has the longest days?",
+     "choices": [
+      "Winter",
+      "Spring",
+      "Fall",
+      "Summer"
+     ],
+     "answer": "Summer",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-282",
+     "prompt": "Which pet is known for barking?",
+     "choices": [
+      "goldfish",
+      "dog",
+      "hamster",
+      "parrot"
+     ],
+     "answer": "dog",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-025",
+     "prompt": "A baby zebra is called a what?",
+     "choices": [
+      "foal",
+      "calf",
+      "cub",
+      "kid"
+     ],
+     "answer": "foal",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-180",
+     "prompt": "Which animal is famous for changing its color?",
+     "choices": [
+      "turtle",
+      "hippo",
+      "crocodile",
+      "chameleon"
+     ],
+     "answer": "chameleon",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

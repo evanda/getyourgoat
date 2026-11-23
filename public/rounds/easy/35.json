@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 35,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-161",
+     "prompt": "45 ÷ 9",
+     "answer": 5,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-072",
+     "prompt": "17 − 5",
+     "answer": 12,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-211",
+     "prompt": "7 + 8",
+     "answer": 15,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-011",
+     "prompt": "In which country is the Great Pyramid of Giza?",
+     "choices": [
+      "Italy",
+      "Greece",
+      "India",
+      "Egypt"
+     ],
+     "answer": "Egypt",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-049",
+     "prompt": "What was the name of Rome's giant stadium?",
+     "choices": [
+      "Parthenon",
+      "Colosseum",
+      "Eiffel Tower",
+      "Big Ben"
+     ],
+     "answer": "Colosseum",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-300",
+     "prompt": "Which very old tool tells the time using shadows?",
+     "choices": [
+      "Sundial",
+      "Phone",
+      "Cuckoo clock",
+      "Stopwatch"
+     ],
+     "answer": "Sundial",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-131",
+     "prompt": "What do you call the nice giant in a Dahl book?",
+     "choices": [
+      "The Giant King",
+      "The BFG",
+      "Big Bob",
+      "The Fox"
+     ],
+     "answer": "The BFG",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-280",
+     "prompt": "What does Edmund love in The Lion, the Witch and the Wardrobe?",
+     "choices": [
+      "Turkish delight",
+      "Pizza",
+      "Ice cream",
+      "Cookies"
+     ],
+     "answer": "Turkish delight",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-209",
+     "prompt": "Who are Harry Potter's two best friends?",
+     "choices": [
+      "Draco and Neville",
+      "Luna and Fred",
+      "Ginny and George",
+      "Ron and Hermione"
+     ],
+     "answer": "Ron and Hermione",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-070",
+     "prompt": "Which planet is called the Red Planet?",
+     "choices": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+     ],
+     "answer": "Mars",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-301",
+     "prompt": "What is the name of the ocean that touches Antarctica, along with others?",
+     "choices": [
+      "Candy Ocean",
+      "Red Ocean",
+      "Silent Ocean",
+      "Southern Ocean"
+     ],
+     "answer": "Southern Ocean",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-186",
+     "prompt": "Which direction is opposite north?",
+     "choices": [
+      "East",
+      "South",
+      "West",
+      "Up"
+     ],
+     "answer": "South",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-022",
+     "prompt": "A baby giraffe is called a what?",
+     "choices": [
+      "kid",
+      "calf",
+      "foal",
+      "cub"
+     ],
+     "answer": "calf",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-168",
+     "prompt": "A scientist who studies dinosaurs is called a what?",
+     "choices": [
+      "astronomer",
+      "chemist",
+      "baker",
+      "paleontologist"
+     ],
+     "answer": "paleontologist",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-113",
+     "prompt": "White mountain goats live high up in the what?",
+     "choices": [
+      "mountains",
+      "ocean",
+      "desert",
+      "swamp"
+     ],
+     "answer": "mountains",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

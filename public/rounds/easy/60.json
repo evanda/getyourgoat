@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 60,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-164",
+     "prompt": "58 + 25",
+     "answer": 83,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-197",
+     "prompt": "25 − 8",
+     "answer": 17,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-017",
+     "prompt": "5 × 2",
+     "answer": 10,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-201",
+     "prompt": "Real Viking helmets usually had what on them?",
+     "choices": [
+      "Big horns",
+      "No horns",
+      "Feathers",
+      "Antlers"
+     ],
+     "answer": "No horns",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-229",
+     "prompt": "Which president's face is on the US penny?",
+     "choices": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Barack Obama",
+      "Theodore Roosevelt"
+     ],
+     "answer": "Abraham Lincoln",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-003",
+     "prompt": "What did ancient Egyptians call their kings?",
+     "choices": [
+      "Sultans",
+      "Emperors",
+      "Chiefs",
+      "Pharaohs"
+     ],
+     "answer": "Pharaohs",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-277",
+     "prompt": "Which Japanese folk tale boy was born from a peach?",
+     "choices": [
+      "Kintaro",
+      "Taro",
+      "Urashima",
+      "Momotaro"
+     ],
+     "answer": "Momotaro",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-189",
+     "prompt": "Who wrote Just So Stories about how the leopard got its spots?",
+     "choices": [
+      "Roald Dahl",
+      "Hans Andersen",
+      "E. B. White",
+      "Rudyard Kipling"
+     ],
+     "answer": "Rudyard Kipling",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-304",
+     "prompt": "In The Gingerbread Man, who baked him?",
+     "choices": [
+      "An old woman",
+      "A king",
+      "A fox",
+      "A baker boy"
+     ],
+     "answer": "An old woman",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-264",
+     "prompt": "When is your shadow longest?",
+     "choices": [
+      "At noon",
+      "Never changes",
+      "Morning or evening",
+      "At midnight"
+     ],
+     "answer": "Morning or evening",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-139",
+     "prompt": "What do we call the huge slabs of rock that make up Earth's crust?",
+     "choices": [
+      "Tectonic plates",
+      "Dinner plates",
+      "Ice plates",
+      "Sand plates"
+     ],
+     "answer": "Tectonic plates",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-054",
+     "prompt": "Which season is usually the coldest?",
+     "choices": [
+      "Winter",
+      "Summer",
+      "Spring",
+      "Fall"
+     ],
+     "answer": "Winter",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-144",
+     "prompt": "Koalas, like kangaroos, are what kind of animal?",
+     "choices": [
+      "reptiles",
+      "insects",
+      "birds",
+      "marsupials"
+     ],
+     "answer": "marsupials",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-275",
+     "prompt": "Which insect zooms around ponds on four long wings?",
+     "choices": [
+      "ladybug",
+      "ant",
+      "dragonfly",
+      "cricket"
+     ],
+     "answer": "dragonfly",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-264",
+     "prompt": "Bats find their way in the dark using what?",
+     "choices": [
+      "lamps",
+      "maps",
+      "wings only",
+      "echoes"
+     ],
+     "answer": "echoes",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

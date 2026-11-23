@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 57,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-111",
+     "prompt": "29 − 5",
+     "answer": 24,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-297",
+     "prompt": "24 − 7",
+     "answer": 17,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-069",
+     "prompt": "25 + 25",
+     "answer": 50,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-278",
+     "prompt": "Monday is named after which object in the sky?",
+     "choices": [
+      "The Sun",
+      "A comet",
+      "The Moon",
+      "A star"
+     ],
+     "answer": "The Moon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-220",
+     "prompt": "Before furnaces, homes were warmed by a what?",
+     "choices": [
+      "Fireplace",
+      "Microwave",
+      "Air fryer",
+      "Fan"
+     ],
+     "answer": "Fireplace",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-048",
+     "prompt": "The Parthenon sits on a hill called what?",
+     "choices": [
+      "Acropolis",
+      "Colosseum",
+      "Pantheon",
+      "Forum"
+     ],
+     "answer": "Acropolis",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-049",
+     "prompt": "In Beauty and the Beast, who does Belle meet in the castle?",
+     "choices": [
+      "A dragon",
+      "A giant",
+      "A troll",
+      "A beast"
+     ],
+     "answer": "A beast",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-287",
+     "prompt": "What are Aesop's short animal stories with a lesson called?",
+     "choices": [
+      "Diaries",
+      "Fables",
+      "Maps",
+      "Menus"
+     ],
+     "answer": "Fables",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-093",
+     "prompt": "What did Jack jump over in the nursery rhyme?",
+     "choices": [
+      "A fence",
+      "A log",
+      "A puddle",
+      "A candlestick"
+     ],
+     "answer": "A candlestick",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-095",
+     "prompt": "What do we call a person who studies rocks?",
+     "choices": [
+      "Biologist",
+      "Geologist",
+      "Chef",
+      "Painter"
+     ],
+     "answer": "Geologist",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-147",
+     "prompt": "What do we call a scale that measures how strong an earthquake is?",
+     "choices": [
+      "Ruler scale",
+      "Candy scale",
+      "Richter scale",
+      "Wind scale"
+     ],
+     "answer": "Richter scale",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-195",
+     "prompt": "On which continent is the Sahara Desert?",
+     "choices": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "South America"
+     ],
+     "answer": "Africa",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-229",
+     "prompt": "Bees help flowers by spreading what?",
+     "choices": [
+      "pollen",
+      "water",
+      "milk",
+      "snow"
+     ],
+     "answer": "pollen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-236",
+     "prompt": "A horse's feet are called what?",
+     "choices": [
+      "paws",
+      "claws",
+      "flippers",
+      "hooves"
+     ],
+     "answer": "hooves",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-141",
+     "prompt": "A shark is a kind of what?",
+     "choices": [
+      "fish",
+      "mammal",
+      "reptile",
+      "whale"
+     ],
+     "answer": "fish",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

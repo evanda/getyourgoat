@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 82,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-143",
+     "prompt": "21 + 21",
+     "answer": 42,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-099",
+     "prompt": "4 × 9",
+     "answer": 36,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-171",
+     "prompt": "22 + 31",
+     "answer": 53,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-006",
+     "prompt": "What do we call bodies wrapped in cloth long ago in Egypt?",
+     "choices": [
+      "Statues",
+      "Scrolls",
+      "Mummies",
+      "Puppets"
+     ],
+     "answer": "Mummies",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-226",
+     "prompt": "In 1849, many people rushed to California to find what?",
+     "choices": [
+      "Candy",
+      "Oil",
+      "Gold",
+      "Pizza"
+     ],
+     "answer": "Gold",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-188",
+     "prompt": "In the legend, King Arthur pulled a sword from what?",
+     "choices": [
+      "A stone",
+      "A pie",
+      "A hat",
+      "A drawer"
+     ],
+     "answer": "A stone",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-091",
+     "prompt": "What did the cow jump over in the nursery rhyme?",
+     "choices": [
+      "A fence",
+      "The moon",
+      "A star",
+      "A hill"
+     ],
+     "answer": "The moon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-048",
+     "prompt": "Who was Cinderella's mean family?",
+     "choices": [
+      "Her stepmother and stepsisters",
+      "Her aunts",
+      "Her cousins",
+      "Her grandmother"
+     ],
+     "answer": "Her stepmother and stepsisters",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-227",
+     "prompt": "Who wrote Black Beauty?",
+     "choices": [
+      "Jane Austen",
+      "Anna Sewell",
+      "Louisa Alcott",
+      "Beatrix Potter"
+     ],
+     "answer": "Anna Sewell",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-087",
+     "prompt": "What do we call a group of stars that makes a picture in the sky?",
+     "choices": [
+      "Planet",
+      "Comet",
+      "Crater",
+      "Constellation"
+     ],
+     "answer": "Constellation",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-246",
+     "prompt": "What do we call a year with an extra day in February?",
+     "choices": [
+      "Leap year",
+      "Jump year",
+      "Long year",
+      "Tall year"
+     ],
+     "answer": "Leap year",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-242",
+     "prompt": "What do we call the small N, E, S, W picture on a map?",
+     "choices": [
+      "Map legend",
+      "Globe stand",
+      "Time clock",
+      "Compass rose"
+     ],
+     "answer": "Compass rose",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-164",
+     "prompt": "Triceratops had how many horns on its face?",
+     "choices": [
+      "two",
+      "five",
+      "one",
+      "three"
+     ],
+     "answer": "three",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-178",
+     "prompt": "How many arms does an octopus have?",
+     "choices": [
+      "6",
+      "8",
+      "10",
+      "4"
+     ],
+     "answer": "8",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-014",
+     "prompt": "A baby deer is called a what?",
+     "choices": [
+      "chick",
+      "fawn",
+      "kid",
+      "lamb"
+     ],
+     "answer": "fawn",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 98,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-079",
+     "prompt": "5 × 4",
+     "answer": 20,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-231",
+     "prompt": "19 − 2",
+     "answer": 17,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-063",
+     "prompt": "10 × 3",
+     "answer": 30,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-206",
+     "prompt": "What were Viking homes called?",
+     "choices": [
+      "Igloos",
+      "Tepees",
+      "Longhouses",
+      "Skyscrapers"
+     ],
+     "answer": "Longhouses",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-221",
+     "prompt": "Long ago, people wrote on long rolled-up papers called what?",
+     "choices": [
+      "Pizzas",
+      "Scrolls",
+      "Towels",
+      "Flags"
+     ],
+     "answer": "Scrolls",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-120",
+     "prompt": "Long ago, sailors found their way by looking at what?",
+     "choices": [
+      "The stars",
+      "The TV",
+      "The radio",
+      "The clouds only"
+     ],
+     "answer": "The stars",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-232",
+     "prompt": "What kind of creature is Smaug in The Hobbit?",
+     "choices": [
+      "A dragon",
+      "A troll",
+      "A giant",
+      "A wizard"
+     ],
+     "answer": "A dragon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-205",
+     "prompt": "What is the name of Harry's school?",
+     "choices": [
+      "Narnia Hall",
+      "Oakwood",
+      "Rivendell",
+      "Hogwarts"
+     ],
+     "answer": "Hogwarts",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-007",
+     "prompt": "What did Goldilocks break at the bears' house?",
+     "choices": [
+      "Mama Bear's cup",
+      "Baby Bear's chair",
+      "Papa Bear's bed",
+      "A window"
+     ],
+     "answer": "Baby Bear's chair",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-226",
+     "prompt": "Which mountains are found in Switzerland and nearby countries?",
+     "choices": [
+      "Andes",
+      "Rockies",
+      "Himalayas",
+      "Alps"
+     ],
+     "answer": "Alps",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-233",
+     "prompt": "Which great waterfall is on the border of the U.S. and Canada?",
+     "choices": [
+      "Angel Falls",
+      "Old Falls",
+      "Niagara Falls",
+      "Moon Falls"
+     ],
+     "answer": "Niagara Falls",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-123",
+     "prompt": "What tiny pieces of rock make up a beach?",
+     "choices": [
+      "Sand",
+      "Salt",
+      "Ice",
+      "Clay"
+     ],
+     "answer": "Sand",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-024",
+     "prompt": "A baby fish is called a what?",
+     "choices": [
+      "kit",
+      "pup",
+      "cub",
+      "fry"
+     ],
+     "answer": "fry",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-289",
+     "prompt": "A tiger's stripes help it hide in what?",
+     "choices": [
+      "tall grass",
+      "snow",
+      "the sea",
+      "clouds"
+     ],
+     "answer": "tall grass",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-297",
+     "prompt": "Which tiny animal makes silk to wrap itself before becoming a moth?",
+     "choices": [
+      "silkworm",
+      "ant",
+      "bee",
+      "ladybug"
+     ],
+     "answer": "silkworm",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

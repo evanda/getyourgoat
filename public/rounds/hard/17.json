@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 17,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-278",
+     "prompt": "25% of 380",
+     "answer": 95,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-184",
+     "prompt": "41 × 23",
+     "answer": 943,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-021",
+     "prompt": "25 × 17",
+     "answer": 425,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-160",
+     "prompt": "The 1274 BC Battle of Kadesh pitted Egypt against which empire?",
+     "choices": [
+      "The Mitanni",
+      "The Babylonians",
+      "The Assyrians",
+      "The Hittites"
+     ],
+     "answer": "The Hittites",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-083",
+     "prompt": "Which Alexander general founded the Seleucid Empire?",
+     "choices": [
+      "Perdiccas",
+      "Ptolemy I",
+      "Seleucus I",
+      "Lysimachus"
+     ],
+     "answer": "Seleucus I",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-146",
+     "prompt": "Which Dutch leader of the revolt against Spain was assassinated in 1584?",
+     "choices": [
+      "Johan de Witt",
+      "William the Silent",
+      "Maurice of Nassau",
+      "Frederick Henry"
+     ],
+     "answer": "William the Silent",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-031",
+     "prompt": "Which Persian lyric poet of Shiraz wrote a famed Divan?",
+     "choices": [
+      "Hafez",
+      "Nizami Ganjavi",
+      "Attar of Nishapur",
+      "Rumi"
+     ],
+     "answer": "Hafez",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-115",
+     "prompt": "Who wrote Notebook of a Return to the Native Land?",
+     "choices": [
+      "Aimé Césaire",
+      "Frantz Fanon",
+      "Léon Damas",
+      "Léopold Senghor"
+     ],
+     "answer": "Aimé Césaire",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-301",
+     "prompt": "Who wrote the first Gothic novel, The Castle of Otranto?",
+     "choices": [
+      "William Beckford",
+      "Matthew Lewis",
+      "Horace Walpole",
+      "Ann Radcliffe"
+     ],
+     "answer": "Horace Walpole",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-105",
+     "prompt": "A column of hot rock rising from deep in the mantle is called what?",
+     "choices": [
+      "Rift axis",
+      "Subduction slab",
+      "Convection cell",
+      "Mantle plume"
+     ],
+     "answer": "Mantle plume",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-171",
+     "prompt": "Which new island formed off Iceland in the 1960s by a submarine eruption?",
+     "choices": [
+      "Heimaey",
+      "Eldey",
+      "Grimsey",
+      "Surtsey"
+     ],
+     "answer": "Surtsey",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-238",
+     "prompt": "Which African lake is the longest freshwater lake in the world?",
+     "choices": [
+      "Turkana",
+      "Victoria",
+      "Tanganyika",
+      "Malawi"
+     ],
+     "answer": "Tanganyika",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-309",
+     "prompt": "How many skandhas, or aggregates, does early Buddhism list?",
+     "choices": [
+      "Seven",
+      "Three",
+      "Five",
+      "Twelve"
+     ],
+     "answer": "Five",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-036",
+     "prompt": "Which Stoic wrote the Hymn to Zeus and succeeded Zeno as head of the school?",
+     "choices": [
+      "Chrysippus",
+      "Panaetius",
+      "Cleanthes",
+      "Posidonius"
+     ],
+     "answer": "Cleanthes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-164",
+     "prompt": "Which philosopher wrote The Souls of Black Folk and described double consciousness?",
+     "choices": [
+      "Frederick Douglass",
+      "Booker T. Washington",
+      "Alain Locke",
+      "W. E. B. Du Bois"
+     ],
+     "answer": "W. E. B. Du Bois",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

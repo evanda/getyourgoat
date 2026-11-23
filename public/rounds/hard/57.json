@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 57,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-201",
+     "prompt": "10% of 560",
+     "answer": 56,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-014",
+     "prompt": "37 × 16",
+     "answer": 592,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-298",
+     "prompt": "37²",
+     "answer": 1369,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-278",
+     "prompt": "Which Aksumite king converted to Christianity in the 4th century?",
+     "choices": [
+      "Menelik I",
+      "Ezana",
+      "Kaleb",
+      "Lalibela"
+     ],
+     "answer": "Ezana",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-004",
+     "prompt": "Which English scientist discovered electromagnetic induction in 1831?",
+     "choices": [
+      "Humphry Davy",
+      "Joseph Henry",
+      "James Clerk Maxwell",
+      "Michael Faraday"
+     ],
+     "answer": "Michael Faraday",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-305",
+     "prompt": "Soviet tanks crushed a 1956 revolution in which country?",
+     "choices": [
+      "Hungary",
+      "Poland",
+      "East Germany",
+      "Czechoslovakia"
+     ],
+     "answer": "Hungary",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-118",
+     "prompt": "Who wrote the novel Villette?",
+     "choices": [
+      "George Eliot",
+      "Charlotte Brontë",
+      "Anne Brontë",
+      "Elizabeth Gaskell"
+     ],
+     "answer": "Charlotte Brontë",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-299",
+     "prompt": "Who wrote the play The Balcony, set in a brothel?",
+     "choices": [
+      "Albert Camus",
+      "Eugène Ionesco",
+      "Jean Anouilh",
+      "Jean Genet"
+     ],
+     "answer": "Jean Genet",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-234",
+     "prompt": "Which Austen novel features the heroine Anne Elliot?",
+     "choices": [
+      "Persuasion",
+      "Emma",
+      "Mansfield Park",
+      "Sense and Sensibility"
+     ],
+     "answer": "Persuasion",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-191",
+     "prompt": "The temperature at which air becomes saturated is called what?",
+     "choices": [
+      "Flash point",
+      "Wet bulb",
+      "Dew point",
+      "Freezing point"
+     ],
+     "answer": "Dew point",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-094",
+     "prompt": "The dipping zone of earthquakes marking a subducting slab is named after which two scientists?",
+     "choices": [
+      "Mohorovicic and Lehmann",
+      "Wadati and Benioff",
+      "Love and Rayleigh",
+      "Richter and Gutenberg"
+     ],
+     "answer": "Wadati and Benioff",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-047",
+     "prompt": "Which ultramafic rock is composed of more than 90 percent olivine?",
+     "choices": [
+      "Dunite",
+      "Gabbro",
+      "Pyroxenite",
+      "Norite"
+     ],
+     "answer": "Dunite",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-082",
+     "prompt": "Which scholastic is linked with the term haecceity, a thing's 'thisness'?",
+     "choices": [
+      "Thomas Aquinas",
+      "Henry of Ghent",
+      "Bonaventure",
+      "Duns Scotus"
+     ],
+     "answer": "Duns Scotus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-294",
+     "prompt": "Which Indian materialist school rejected rebirth and the authority of the Vedas?",
+     "choices": [
+      "Mimamsa",
+      "Samkhya",
+      "Nyaya",
+      "Charvaka"
+     ],
+     "answer": "Charvaka",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-202",
+     "prompt": "Which philosopher coined the phrase ghost in the machine?",
+     "choices": [
+      "Gilbert Ryle",
+      "A. J. Ayer",
+      "P. F. Strawson",
+      "J. L. Austin"
+     ],
+     "answer": "Gilbert Ryle",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

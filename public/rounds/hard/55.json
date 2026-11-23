@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 55,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-221",
+     "prompt": "15 × 14 − 10 × 8",
+     "answer": 130,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-061",
+     "prompt": "24²",
+     "answer": 576,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-181",
+     "prompt": "23 × 15",
+     "answer": 345,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-163",
+     "prompt": "Which Greek physician's writings dominated Roman and medieval medicine?",
+     "choices": [
+      "Hippocrates",
+      "Dioscorides",
+      "Galen",
+      "Avicenna"
+     ],
+     "answer": "Galen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-053",
+     "prompt": "Which Moscow ruler ended Mongol overlordship in 1480?",
+     "choices": [
+      "Ivan III",
+      "Ivan IV",
+      "Basil II",
+      "Vasily III"
+     ],
+     "answer": "Ivan III",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-175",
+     "prompt": "Which 1591 battle saw Morocco's forces destroy the Songhai army?",
+     "choices": [
+      "Isandlwana",
+      "Adwa",
+      "Tondibi",
+      "Omdurman"
+     ],
+     "answer": "Tondibi",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-220",
+     "prompt": "Who wrote the novel One Hundred Years of Solitude?",
+     "choices": [
+      "Julio Cortázar",
+      "Isabel Allende",
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa"
+     ],
+     "answer": "Gabriel García Márquez",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-101",
+     "prompt": "Who is the wild friend of Gilgamesh in the Mesopotamian epic?",
+     "choices": [
+      "Humbaba",
+      "Siduri",
+      "Enkidu",
+      "Utnapishtim"
+     ],
+     "answer": "Enkidu",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-122",
+     "prompt": "Which Dickens novel has Sydney Carton and the French Revolution?",
+     "choices": [
+      "Barnaby Rudge",
+      "Little Dorrit",
+      "A Tale of Two Cities",
+      "Hard Times"
+     ],
+     "answer": "A Tale of Two Cities",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-038",
+     "prompt": "Tanzanite is the blue-violet gem variety of which mineral?",
+     "choices": [
+      "Tourmaline",
+      "Beryl",
+      "Spinel",
+      "Zoisite"
+     ],
+     "answer": "Zoisite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-257",
+     "prompt": "Podzol soils are typical of which biome?",
+     "choices": [
+      "Boreal forest",
+      "Tropical rainforest",
+      "Desert",
+      "Savanna"
+     ],
+     "answer": "Boreal forest",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-104",
+     "prompt": "Which weak, slowly flowing layer of the upper mantle lies below the lithosphere?",
+     "choices": [
+      "Outer core",
+      "Moho",
+      "Asthenosphere",
+      "Mesosphere"
+     ],
+     "answer": "Asthenosphere",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-061",
+     "prompt": "Who succeeded Aristotle as head of the Lyceum and wrote Characters?",
+     "choices": [
+      "Theophrastus",
+      "Aristoxenus",
+      "Strato",
+      "Eudemus"
+     ],
+     "answer": "Theophrastus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-135",
+     "prompt": "Which poet wrote On the Aesthetic Education of Man?",
+     "choices": [
+      "Johann Goethe",
+      "Novalis",
+      "Friedrich Schiller",
+      "Friedrich Holderlin"
+     ],
+     "answer": "Friedrich Schiller",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-074",
+     "prompt": "Which Irish thinker of the ninth century wrote the Periphyseon?",
+     "choices": [
+      "Columbanus",
+      "Bede",
+      "Alcuin",
+      "John Scotus Eriugena"
+     ],
+     "answer": "John Scotus Eriugena",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

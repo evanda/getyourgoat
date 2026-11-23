@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 14,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-030",
+     "prompt": "330 ÷ 15",
+     "answer": 22,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-228",
+     "prompt": "726 − 287",
+     "answer": 439,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-227",
+     "prompt": "15% of 140",
+     "answer": 21,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-052",
+     "prompt": "Which tsar freed Russia's serfs in 1861?",
+     "choices": [
+      "Peter III",
+      "Nicholas I",
+      "Alexander III",
+      "Alexander II"
+     ],
+     "answer": "Alexander II",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-235",
+     "prompt": "Which Norwegian explorer sailed the Fram toward the North Pole in 1893-96?",
+     "choices": [
+      "Otto Sverdrup",
+      "Robert Peary",
+      "Fridtjof Nansen",
+      "Roald Amundsen"
+     ],
+     "answer": "Fridtjof Nansen",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-153",
+     "prompt": "Which astronomer's calculations led to the 1846 discovery of Neptune, with Galle observing?",
+     "choices": [
+      "Urbain Le Verrier",
+      "William Lassell",
+      "Giovanni Schiaparelli",
+      "Percival Lowell"
+     ],
+     "answer": "Urbain Le Verrier",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-268",
+     "prompt": "Who wrote the novel The Joys of Motherhood?",
+     "choices": [
+      "Ama Ata Aidoo",
+      "Buchi Emecheta",
+      "Tsitsi Dangarembga",
+      "Flora Nwapa"
+     ],
+     "answer": "Buchi Emecheta",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-027",
+     "prompt": "Which Dickens novel features the schoolmaster Mr. Gradgrind?",
+     "choices": [
+      "Bleak House",
+      "Nicholas Nickleby",
+      "Hard Times",
+      "Little Dorrit"
+     ],
+     "answer": "Hard Times",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-148",
+     "prompt": "Who wrote the play The Way of the World?",
+     "choices": [
+      "William Wycherley",
+      "John Vanbrugh",
+      "William Congreve",
+      "George Etherege"
+     ],
+     "answer": "William Congreve",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-049",
+     "prompt": "Large crystals set in a fine-grained matrix describe which igneous texture?",
+     "choices": [
+      "Porphyritic",
+      "Vesicular",
+      "Aphanitic",
+      "Pegmatitic"
+     ],
+     "answer": "Porphyritic",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-146",
+     "prompt": "Eurypterids, giant Paleozoic predators, are commonly called what?",
+     "choices": [
+      "Sea spiders",
+      "Trilobite crabs",
+      "Armored squid",
+      "Sea scorpions"
+     ],
+     "answer": "Sea scorpions",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-237",
+     "prompt": "The Messinian salinity crisis nearly dried up which sea about 6 million years ago?",
+     "choices": [
+      "Red",
+      "Mediterranean",
+      "Caspian",
+      "Black"
+     ],
+     "answer": "Mediterranean",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-246",
+     "prompt": "Which Sufi thinker wrote the Bezels of Wisdom and taught the unity of being?",
+     "choices": [
+      "Ibn Arabi",
+      "Rumi",
+      "Al-Ghazali",
+      "Al-Hallaj"
+     ],
+     "answer": "Ibn Arabi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-150",
+     "prompt": "Which British idealist wrote Appearance and Reality?",
+     "choices": [
+      "T. H. Green",
+      "F. H. Bradley",
+      "J. M. E. McTaggart",
+      "Bernard Bosanquet"
+     ],
+     "answer": "F. H. Bradley",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-234",
+     "prompt": "Which philosopher was called 'the philosopher of the Arabs'?",
+     "choices": [
+      "Al-Kindi",
+      "Avicenna",
+      "Al-Razi",
+      "Al-Farabi"
+     ],
+     "answer": "Al-Kindi",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

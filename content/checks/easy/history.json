@@ -598,5 +598,1295 @@
     "pick": "Dog",
     "confidence": "high",
     "problem": null
+  },
+  {
+    "id": "easy-hist-101",
+    "pick": "Lizard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-102",
+    "pick": "Dinosaurs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-103",
+    "pick": "The pyramids",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-104",
+    "pick": "Ice Age",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-105",
+    "pick": "Atlantic Ocean",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-106",
+    "pick": "1492",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-107",
+    "pick": "Santa Maria",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-108",
+    "pick": "Spain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-109",
+    "pick": "Magellan's",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-110",
+    "pick": "Marco Polo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-111",
+    "pick": "James Cook",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-112",
+    "pick": "Sacagawea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-113",
+    "pick": "Mount Everest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-114",
+    "pick": "Amelia Earhart",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-115",
+    "pick": "Charles Lindbergh",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-116",
+    "pick": "Vasco da Gama",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-117",
+    "pick": "Mayflower",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-118",
+    "pick": "Thanksgiving",
+    "confidence": "medium",
+    "problem": "Historians note the 1621 feast was only later linked to Thanksgiving; 'became' is a myth-tinged simplification"
+  },
+  {
+    "id": "easy-hist-119",
+    "pick": "Chimpanzees",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-120",
+    "pick": "The stars",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-121",
+    "pick": "North",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-122",
+    "pick": "Cartographer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-123",
+    "pick": "Round",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-124",
+    "pick": "Wind in sails",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-125",
+    "pick": "Big canoes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-126",
+    "pick": "Thomas Edison",
+    "confidence": "medium",
+    "problem": "Contested first: Joseph Swan made a working bulb around the same time"
+  },
+  {
+    "id": "easy-hist-127",
+    "pick": "Alexander Graham Bell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-128",
+    "pick": "Printing press",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-129",
+    "pick": "Electricity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-130",
+    "pick": "Gravity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-131",
+    "pick": "Scientist",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-132",
+    "pick": "Milk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-133",
+    "pick": "Steam",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-134",
+    "pick": "Assembly line",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-135",
+    "pick": "They painted it",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-136",
+    "pick": "Penicillin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-137",
+    "pick": "The Moon and planets",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-138",
+    "pick": "A room",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-139",
+    "pick": "Raised dots",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-140",
+    "pick": "Peanut",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-141",
+    "pick": "Leonardo da Vinci",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-142",
+    "pick": "Michelangelo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-143",
+    "pick": "William Shakespeare",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-144",
+    "pick": "Dashes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-145",
+    "pick": "Web",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-146",
+    "pick": "The Wright brothers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-147",
+    "pick": "North Carolina",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-148",
+    "pick": "Hot air balloon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-149",
+    "pick": "Neil Armstrong",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-150",
+    "pick": "1969",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-151",
+    "pick": "Yuri Gagarin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-152",
+    "pick": "Sputnik",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-153",
+    "pick": "Mars",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-154",
+    "pick": "NASA",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-155",
+    "pick": "Airplane",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-156",
+    "pick": "Propellers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-157",
+    "pick": "12 seconds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-158",
+    "pick": "Bicycles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-159",
+    "pick": "Apollo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-160",
+    "pick": "Paris",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-161",
+    "pick": "Gustave Eiffel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-162",
+    "pick": "France",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-163",
+    "pick": "London",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-164",
+    "pick": "India",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-165",
+    "pick": "His wife",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-166",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-167",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-168",
+    "pick": "England",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-169",
+    "pick": "New York City",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-170",
+    "pick": "San Francisco",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-171",
+    "pick": "Cambodia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-172",
+    "pick": "The White House",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-173",
+    "pick": "4",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-174",
+    "pick": "France",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-175",
+    "pick": "Brazil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-176",
+    "pick": "Mexico",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-177",
+    "pick": "Statue of Liberty",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-178",
+    "pick": "Moat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-179",
+    "pick": "Drawbridge",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-180",
+    "pick": "Keep",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-181",
+    "pick": "Armor",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-182",
+    "pick": "Horses",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-183",
+    "pick": "Page",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-184",
+    "pick": "Lances",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-185",
+    "pick": "Arms",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-186",
+    "pick": "Stone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-187",
+    "pick": "Round Table",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-188",
+    "pick": "A stone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-189",
+    "pick": "Sherwood Forest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-190",
+    "pick": "Ages",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-191",
+    "pick": "By hand",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-192",
+    "pick": "Sir",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-193",
+    "pick": "A jester",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-194",
+    "pick": "Torches",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-195",
+    "pick": "Portcullis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-196",
+    "pick": "Flour",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-197",
+    "pick": "Blacksmith",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-198",
+    "pick": "Magna Carta",
+    "confidence": "high",
+    "problem": "Minor: King John sealed Magna Carta rather than signed it"
+  },
+  {
+    "id": "easy-hist-199",
+    "pick": "Northern Europe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-200",
+    "pick": "Longships",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-201",
+    "pick": "No horns",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-202",
+    "pick": "Leif Erikson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-203",
+    "pick": "Runes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-204",
+    "pick": "Thor",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-205",
+    "pick": "Thursday",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-206",
+    "pick": "Longhouses",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-207",
+    "pick": "Ice",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-208",
+    "pick": "Wood",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-209",
+    "pick": "Sagas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-210",
+    "pick": "Candles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-211",
+    "pick": "Carriage",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-212",
+    "pick": "Letters",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-213",
+    "pick": "Quill",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-214",
+    "pick": "By hand",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-215",
+    "pick": "Radio",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-216",
+    "pick": "Barter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-217",
+    "pick": "The news",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-218",
+    "pick": "A fire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-219",
+    "pick": "Well",
+    "confidence": "high",
+    "problem": "Prompt gives away the answer (says 'wells' before asking where water came from)"
+  },
+  {
+    "id": "easy-hist-220",
+    "pick": "Fireplace",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-221",
+    "pick": "Scrolls",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-222",
+    "pick": "Flags",
+    "confidence": "medium",
+    "problem": "Radios is arguably also correct; ships have long messaged each other by radio"
+  },
+  {
+    "id": "easy-hist-223",
+    "pick": "Slate",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-224",
+    "pick": "Penny-farthing",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-225",
+    "pick": "Horses",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-226",
+    "pick": "Gold",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-227",
+    "pick": "Sundial",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-228",
+    "pick": "George Washington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-229",
+    "pick": "Abraham Lincoln",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-230",
+    "pick": "Independence Day",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-231",
+    "pick": "Philadelphia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-232",
+    "pick": "Bus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-233",
+    "pick": "Martin Luther King Jr.",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-234",
+    "pick": "South Africa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-235",
+    "pick": "6",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-236",
+    "pick": "Jolly Roger",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-237",
+    "pick": "Tepees",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-238",
+    "pick": "Snow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-239",
+    "pick": "Oregon Trail",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-240",
+    "pick": "Century",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-241",
+    "pick": "Archaeologists",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-242",
+    "pick": "Museum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-243",
+    "pick": "BC",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-244",
+    "pick": "5",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-245",
+    "pick": "Gas lamps",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-246",
+    "pick": "T. rex",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-247",
+    "pick": "Triceratops",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-248",
+    "pick": "Stegosaurus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-249",
+    "pick": "Eggs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-250",
+    "pick": "Birds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-251",
+    "pick": "Plants",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-252",
+    "pick": "Paleontologists",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-253",
+    "pick": "Skins",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-254",
+    "pick": "Wood",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-255",
+    "pick": "Seeds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-256",
+    "pick": "Tree trunks",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-257",
+    "pick": "Hermes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-258",
+    "pick": "Achilles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-259",
+    "pick": "Zeus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-260",
+    "pick": "Dragons",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-261",
+    "pick": "12",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-262",
+    "pick": "India",
+    "confidence": "medium",
+    "problem": "Simplification: Columbus thought he had reached the Indies/East Asia, not India specifically"
+  },
+  {
+    "id": "easy-hist-263",
+    "pick": "Roald Amundsen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-264",
+    "pick": "Antarctica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-265",
+    "pick": "Gasoline",
+    "confidence": "medium",
+    "problem": "Many early cars ran on steam or electricity, not only gasoline"
+  },
+  {
+    "id": "easy-hist-266",
+    "pick": "Silent films",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-267",
+    "pick": "Typewriters",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-268",
+    "pick": "Black and white",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-269",
+    "pick": "Ice",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-270",
+    "pick": "Paper maps",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-271",
+    "pick": "Ships",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-272",
+    "pick": "George Washington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-273",
+    "pick": "George Washington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-274",
+    "pick": "13",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-275",
+    "pick": "Abraham Lincoln",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-276",
+    "pick": "Queen Elizabeth II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-277",
+    "pick": "Galapagos Islands",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-278",
+    "pick": "The Moon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-279",
+    "pick": "Mahatma Gandhi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-280",
+    "pick": "The Louvre",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-281",
+    "pick": "Germany",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-282",
+    "pick": "Earth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-283",
+    "pick": "Sally Ride",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-284",
+    "pick": "Hall",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-285",
+    "pick": "Treasure",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-286",
+    "pick": "Trees",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-287",
+    "pick": "Albert Einstein",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-288",
+    "pick": "Boat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-289",
+    "pick": "George Ferris",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-290",
+    "pick": "Theodore Roosevelt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-291",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-292",
+    "pick": "Aboriginal Australians",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-293",
+    "pick": "10",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-294",
+    "pick": "Wilbur and Orville",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-295",
+    "pick": "The afterlife",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-296",
+    "pick": "Myths",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-297",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-298",
+    "pick": "Julius Caesar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-299",
+    "pick": "Old",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-300",
+    "pick": "Sundial",
+    "confidence": "medium",
+    "problem": "Calling the sundial an Egyptian invention is contestable; early sundials also appear in Babylonia"
+  },
+  {
+    "id": "easy-hist-301",
+    "pick": "Atlantic Ocean",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-302",
+    "pick": "Spacesuits",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-303",
+    "pick": "Telescope",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-304",
+    "pick": "Microscope",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-305",
+    "pick": "Light",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-306",
+    "pick": "Crowns",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-307",
+    "pick": "Arrows",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-308",
+    "pick": "King Arthur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-309",
+    "pick": "Rome",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-310",
+    "pick": "Long-necked dinosaur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-311",
+    "pick": "Nile",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-312",
+    "pick": "Charles Dickens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-313",
+    "pick": "Maya",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-314",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-315",
+    "pick": "Sticks and sparks",
+    "confidence": "high",
+    "problem": null
   }
 ]

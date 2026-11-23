@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 89,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-289",
+     "prompt": "75% of 540",
+     "answer": 405,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-064",
+     "prompt": "23 × 13",
+     "answer": 299,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-041",
+     "prompt": "17 × 17",
+     "answer": 289,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-169",
+     "prompt": "Which Irish scientist formulated the law relating gas pressure and volume in 1662?",
+     "choices": [
+      "Robert Boyle",
+      "Robert Hooke",
+      "Edmund Halley",
+      "John Dalton"
+     ],
+     "answer": "Robert Boyle",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-018",
+     "prompt": "Which 1916 battle was the longest of World War I on the Western Front, in northeastern France?",
+     "choices": [
+      "Ypres",
+      "Verdun",
+      "Passchendaele",
+      "Somme"
+     ],
+     "answer": "Verdun",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-042",
+     "prompt": "Which Mysore ruler, called the Tiger of Mysore, died in 1799?",
+     "choices": [
+      "Hyder Ali",
+      "Tipu Sultan",
+      "Ranjit Singh",
+      "Nana Sahib"
+     ],
+     "answer": "Tipu Sultan",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-295",
+     "prompt": "Who wrote the novel Tristram Shandy?",
+     "choices": [
+      "Henry Fielding",
+      "Samuel Richardson",
+      "Tobias Smollett",
+      "Laurence Sterne"
+     ],
+     "answer": "Laurence Sterne",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-243",
+     "prompt": "In the Mahabharata, who is the archer prince who receives the Gita?",
+     "choices": [
+      "Yudhishthira",
+      "Bhima",
+      "Arjuna",
+      "Karna"
+     ],
+     "answer": "Arjuna",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-136",
+     "prompt": "Who wrote the science fiction novel Dune?",
+     "choices": [
+      "Philip K. Dick",
+      "Frank Herbert",
+      "Isaac Asimov",
+      "Arthur C. Clarke"
+     ],
+     "answer": "Frank Herbert",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-306",
+     "prompt": "Glassy objects formed when impacts melt Earth's surface rock are called what?",
+     "choices": [
+      "Chondrules",
+      "Fulgurites",
+      "Obsidianites",
+      "Tektites"
+     ],
+     "answer": "Tektites",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-027",
+     "prompt": "What color is the streak of hematite?",
+     "choices": [
+      "Reddish brown",
+      "Black",
+      "Yellow",
+      "Green"
+     ],
+     "answer": "Reddish brown",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-258",
+     "prompt": "Which soil order is clay-rich and cracks when dry, then swells when wet?",
+     "choices": [
+      "Mollisol",
+      "Vertisol",
+      "Oxisol",
+      "Histosol"
+     ],
+     "answer": "Vertisol",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-241",
+     "prompt": "Which philosopher wrote Views of the Inhabitants of the Virtuous City?",
+     "choices": [
+      "Al-Kindi",
+      "Al-Farabi",
+      "Avicenna",
+      "Ibn Bajja"
+     ],
+     "answer": "Al-Farabi",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-142",
+     "prompt": "Under which pseudonym did Kierkegaard publish The Concept of Anxiety?",
+     "choices": [
+      "Vigilius Haufniensis",
+      "Johannes de Silentio",
+      "Victor Eremita",
+      "Johannes Climacus"
+     ],
+     "answer": "Vigilius Haufniensis",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-261",
+     "prompt": "Which Song Confucian compiled the Four Books as the core curriculum?",
+     "choices": [
+      "Cheng Yi",
+      "Zhu Xi",
+      "Zhou Dunyi",
+      "Wang Yangming"
+     ],
+     "answer": "Zhu Xi",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

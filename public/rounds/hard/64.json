@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 64,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-011",
+     "prompt": "323 − 136",
+     "answer": 187,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-156",
+     "prompt": "15% of 340",
+     "answer": 51,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-076",
+     "prompt": "16 × 12",
+     "answer": 192,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-276",
+     "prompt": "Which Boer republic was led by Paul Kruger?",
+     "choices": [
+      "Orange Free State",
+      "Griqualand",
+      "Natal",
+      "Transvaal"
+     ],
+     "answer": "Transvaal",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-152",
+     "prompt": "Germany's Operation Citadel in 1943 led to which battle?",
+     "choices": [
+      "Stalingrad",
+      "Moscow",
+      "Smolensk",
+      "Kursk"
+     ],
+     "answer": "Kursk",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-069",
+     "prompt": "Which Wessex king defeated the Danes at Edington in 878?",
+     "choices": [
+      "Alfred the Great",
+      "Egbert",
+      "Edmund Ironside",
+      "Athelstan"
+     ],
+     "answer": "Alfred the Great",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-053",
+     "prompt": "Which Chilean poet won the 1945 Nobel Prize in Literature?",
+     "choices": [
+      "Gabriela Mistral",
+      "Vicente Huidobro",
+      "Violeta Parra",
+      "Pablo Neruda"
+     ],
+     "answer": "Gabriela Mistral",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-095",
+     "prompt": "Which Nicaraguan poet launched modernismo with Azul?",
+     "choices": [
+      "Rubén Darío",
+      "José Asunción Silva",
+      "Amado Nervo",
+      "José Martí"
+     ],
+     "answer": "Rubén Darío",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-025",
+     "prompt": "What is the medieval collection of Welsh tales called?",
+     "choices": [
+      "The Táin",
+      "The Kalevala",
+      "The Edda",
+      "The Mabinogion"
+     ],
+     "answer": "The Mabinogion",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-063",
+     "prompt": "Which metamorphic rock has visible, shiny mica flakes aligned in layers?",
+     "choices": [
+      "Hornfels",
+      "Quartzite",
+      "Schist",
+      "Slate"
+     ],
+     "answer": "Schist",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-311",
+     "prompt": "Athabasca oil sands are located in which Canadian province?",
+     "choices": [
+      "British Columbia",
+      "Alberta",
+      "Manitoba",
+      "Saskatchewan"
+     ],
+     "answer": "Alberta",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-209",
+     "prompt": "The calm, dry belts near 30 degrees latitude are known as what?",
+     "choices": [
+      "Horse latitudes",
+      "Roaring Forties",
+      "Doldrums",
+      "Furious Fifties"
+     ],
+     "answer": "Horse latitudes",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-251",
+     "prompt": "Which Indian-born poet-philosopher wrote The Reconstruction of Religious Thought in Islam?",
+     "choices": [
+      "Abul Kalam Azad",
+      "Muhammad Iqbal",
+      "Syed Ahmad Khan",
+      "Shah Waliullah"
+     ],
+     "answer": "Muhammad Iqbal",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-106",
+     "prompt": "Which English theologian defended Newton's views in a famous correspondence with Leibniz?",
+     "choices": [
+      "Richard Bentley",
+      "Joseph Butler",
+      "William Whiston",
+      "Samuel Clarke"
+     ],
+     "answer": "Samuel Clarke",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-167",
+     "prompt": "Which phenomenologist, Husserl's assistant, became a Carmelite nun and died at Auschwitz?",
+     "choices": [
+      "Simone Weil",
+      "Gerda Walther",
+      "Hannah Arendt",
+      "Edith Stein"
+     ],
+     "answer": "Edith Stein",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

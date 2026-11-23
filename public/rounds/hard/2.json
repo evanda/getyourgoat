@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 2,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-208",
+     "prompt": "67 × 42",
+     "answer": 2814,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-217",
+     "prompt": "75% of 440",
+     "answer": 330,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-009",
+     "prompt": "540 ÷ 12",
+     "answer": 45,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-127",
+     "prompt": "Which 1071 battle saw the Seljuks defeat the Byzantines?",
+     "choices": [
+      "Dorylaeum",
+      "Kosovo",
+      "Manzikert",
+      "Yarmouk"
+     ],
+     "answer": "Manzikert",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-014",
+     "prompt": "Which 1402 battle did Timur win over the Ottoman sultan Bayezid I?",
+     "choices": [
+      "Nicopolis",
+      "Ankara",
+      "Kosovo",
+      "Varna"
+     ],
+     "answer": "Ankara",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-286",
+     "prompt": "Which Sasanian king captured the Roman emperor Valerian in 260?",
+     "choices": [
+      "Bahram II",
+      "Shapur I",
+      "Khosrow I",
+      "Ardashir I"
+     ],
+     "answer": "Shapur I",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-028",
+     "prompt": "Who wrote the novel Barchester Towers?",
+     "choices": [
+      "George Meredith",
+      "Anthony Trollope",
+      "William Thackeray",
+      "Charles Kingsley"
+     ],
+     "answer": "Anthony Trollope",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-086",
+     "prompt": "Who wrote the play The Duchess of Malfi?",
+     "choices": [
+      "John Ford",
+      "Ben Jonson",
+      "John Webster",
+      "Thomas Middleton"
+     ],
+     "answer": "John Webster",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-205",
+     "prompt": "Who wrote the poem \"Waiting for the Barbarians\"?",
+     "choices": [
+      "C. P. Cavafy",
+      "Odysseas Elytis",
+      "Kostis Palamas",
+      "George Seferis"
+     ],
+     "answer": "C. P. Cavafy",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-007",
+     "prompt": "Sphalerite is the main ore of which metal?",
+     "choices": [
+      "Nickel",
+      "Tin",
+      "Copper",
+      "Zinc"
+     ],
+     "answer": "Zinc",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-260",
+     "prompt": "Terra rossa is a red soil that develops over which rock?",
+     "choices": [
+      "Limestone",
+      "Granite",
+      "Shale",
+      "Basalt"
+     ],
+     "answer": "Limestone",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-061",
+     "prompt": "Evaporite deposits such as rock salt and gypsum form when what happens?",
+     "choices": [
+      "Water evaporates",
+      "Rock is heated",
+      "Magma cools",
+      "Ice melts"
+     ],
+     "answer": "Water evaporates",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-125",
+     "prompt": "Which Dijon academy prize essay of 1750 made Rousseau famous?",
+     "choices": [
+      "Discourse on the Arts and Sciences",
+      "The Social Contract",
+      "Discourse on Inequality",
+      "Emile"
+     ],
+     "answer": "Discourse on the Arts and Sciences",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-156",
+     "prompt": "Comte's law of three stages runs theological, metaphysical and what?",
+     "choices": [
+      "Industrial",
+      "Rational",
+      "Scientific",
+      "Positive"
+     ],
+     "answer": "Positive",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-065",
+     "prompt": "Which Neoplatonist wrote the Isagoge, an introduction to Aristotle's Categories?",
+     "choices": [
+      "Proclus",
+      "Iamblichus",
+      "Simplicius",
+      "Porphyry"
+     ],
+     "answer": "Porphyry",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

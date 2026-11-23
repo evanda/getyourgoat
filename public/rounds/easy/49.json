@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 49,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-268",
+     "prompt": "16 + 4",
+     "answer": 20,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-045",
+     "prompt": "2 + 7",
+     "answer": 9,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-193",
+     "prompt": "9 × 9",
+     "answer": 81,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-268",
+     "prompt": "Very old photographs are usually what color?",
+     "choices": [
+      "Black and white",
+      "Blue and green",
+      "Pink and orange",
+      "Purple and red"
+     ],
+     "answer": "Black and white",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-099",
+     "prompt": "Where did the first humans live?",
+     "choices": [
+      "Europe",
+      "Antarctica",
+      "Australia",
+      "Africa"
+     ],
+     "answer": "Africa",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-hist-058",
+     "prompt": "Who was the first Roman emperor?",
+     "choices": [
+      "Nero",
+      "Julius Caesar",
+      "Augustus",
+      "Romulus"
+     ],
+     "answer": "Augustus",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-256",
+     "prompt": "Which Greek hero sailed on the Argo to find a golden fleece?",
+     "choices": [
+      "Jason",
+      "Perseus",
+      "Hercules",
+      "Achilles"
+     ],
+     "answer": "Jason",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-064",
+     "prompt": "Who wrote The Wonderful Wizard of Oz?",
+     "choices": [
+      "L. Frank Baum",
+      "Roald Dahl",
+      "E. B. White",
+      "C. S. Lewis"
+     ],
+     "answer": "L. Frank Baum",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-077",
+     "prompt": "In which country did Aesop live, long ago?",
+     "choices": [
+      "Egypt",
+      "China",
+      "England",
+      "Greece"
+     ],
+     "answer": "Greece",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-310",
+     "prompt": "Which direction does the Sun appear to move across the sky, east to what?",
+     "choices": [
+      "West",
+      "North",
+      "South",
+      "Up"
+     ],
+     "answer": "West",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-008",
+     "prompt": "What colorful arc appears when sun shines through rain?",
+     "choices": [
+      "Comet",
+      "Halo",
+      "Rainbow",
+      "Eclipse"
+     ],
+     "answer": "Rainbow",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-177",
+     "prompt": "What do coral reefs get built by?",
+     "choices": [
+      "Tiny sea animals",
+      "Giant sharks",
+      "Wind",
+      "Waves of sand"
+     ],
+     "answer": "Tiny sea animals",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-010",
+     "prompt": "A baby frog starts life as a what?",
+     "choices": [
+      "kit",
+      "tadpole",
+      "fawn",
+      "grub"
+     ],
+     "answer": "tadpole",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-046",
+     "prompt": "Which animal makes a loud roar?",
+     "choices": [
+      "mouse",
+      "lion",
+      "duck",
+      "hen"
+     ],
+     "answer": "lion",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-287",
+     "prompt": "Which animal has a very long tail and swings through trees?",
+     "choices": [
+      "cow",
+      "pig",
+      "monkey",
+      "duck"
+     ],
+     "answer": "monkey",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

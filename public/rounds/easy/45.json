@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 45,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-038",
+     "prompt": "13 + 4",
+     "answer": 17,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-055",
+     "prompt": "4 × 4",
+     "answer": 16,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-295",
+     "prompt": "7 × 6",
+     "answer": 42,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-309",
+     "prompt": "Which Roman city had a huge Forum for meetings and markets?",
+     "choices": [
+      "Athens",
+      "Rome",
+      "Cairo",
+      "Paris"
+     ],
+     "answer": "Rome",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-138",
+     "prompt": "The first computers were as big as what?",
+     "choices": [
+      "A pea",
+      "A shoe",
+      "A room",
+      "A pencil"
+     ],
+     "answer": "A room",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-hist-213",
+     "prompt": "Long ago, people wrote with a bird feather called a what?",
+     "choices": [
+      "Keyboard",
+      "Quill",
+      "Mouse",
+      "Marker"
+     ],
+     "answer": "Quill",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-140",
+     "prompt": "Which animal is Squirrel Nutkin?",
+     "choices": [
+      "A squirrel",
+      "A mouse",
+      "A cat",
+      "A rabbit"
+     ],
+     "answer": "A squirrel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-239",
+     "prompt": "Who is the wild boy raised by apes in a famous jungle tale?",
+     "choices": [
+      "Mowgli",
+      "Tarzan",
+      "Robin",
+      "Peter Pan"
+     ],
+     "answer": "Tarzan",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-lit-283",
+     "prompt": "What do we call the person who draws the pictures in a book?",
+     "choices": [
+      "A baker",
+      "An illustrator",
+      "A pilot",
+      "A banker"
+     ],
+     "answer": "An illustrator",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-230",
+     "prompt": "Which river flows through Paris?",
+     "choices": [
+      "Seine",
+      "Thames",
+      "Nile",
+      "Danube"
+     ],
+     "answer": "Seine",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-earth-019",
+     "prompt": "Which clouds are thin and wispy, high in the sky?",
+     "choices": [
+      "Cumulus",
+      "Stratus",
+      "Cirrus",
+      "Fog"
+     ],
+     "answer": "Cirrus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-217",
+     "prompt": "What is the capital of Egypt?",
+     "choices": [
+      "Rome",
+      "Lima",
+      "Cairo",
+      "Paris"
+     ],
+     "answer": "Cairo",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-305",
+     "prompt": "Which animal slithers along the ground?",
+     "choices": [
+      "snake",
+      "cow",
+      "duck",
+      "rabbit"
+     ],
+     "answer": "snake",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-303",
+     "prompt": "The word hippopotamus means \"river\" what?",
+     "choices": [
+      "cow",
+      "pig",
+      "horse",
+      "fish"
+     ],
+     "answer": "horse",
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-anim-311",
+     "prompt": "Which small lizard has sticky feet and can climb walls?",
+     "choices": [
+      "cobra",
+      "turtle",
+      "gecko",
+      "frog"
+     ],
+     "answer": "gecko",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

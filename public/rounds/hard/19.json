@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 19,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-247",
+     "prompt": "34 × 18",
+     "answer": 612,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-019",
+     "prompt": "63 × 31",
+     "answer": 1953,
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-arith-056",
+     "prompt": "15²",
+     "answer": 225,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-077",
+     "prompt": "The 1526 Battle of Panipat established which ruler in India?",
+     "choices": [
+      "Babur",
+      "Sher Shah Suri",
+      "Humayun",
+      "Akbar"
+     ],
+     "answer": "Babur",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-062",
+     "prompt": "Which Danish king ruled England, Denmark and Norway in the 1020s-30s?",
+     "choices": [
+      "Sweyn Forkbeard",
+      "Cnut the Great",
+      "Harald Bluetooth",
+      "Harthacnut"
+     ],
+     "answer": "Cnut the Great",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-247",
+     "prompt": "Which Prussian king seized Silesia in 1740?",
+     "choices": [
+      "Frederick William I",
+      "Frederick William II",
+      "Frederick II",
+      "Wilhelm I"
+     ],
+     "answer": "Frederick II",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-128",
+     "prompt": "Who wrote the Polish novel Quo Vadis?",
+     "choices": [
+      "Stefan Żeromski",
+      "Bolesław Prus",
+      "Władysław Reymont",
+      "Henryk Sienkiewicz"
+     ],
+     "answer": "Henryk Sienkiewicz",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-201",
+     "prompt": "Which Tang poet is called the \"Poet Sage\"?",
+     "choices": [
+      "Bai Juyi",
+      "Du Fu",
+      "Li Bai",
+      "Wang Wei"
+     ],
+     "answer": "Du Fu",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-308",
+     "prompt": "Who is the hero of the Irish epic the Táin?",
+     "choices": [
+      "Cú Chulainn",
+      "Conchobar",
+      "Oisín",
+      "Fionn mac Cumhaill"
+     ],
+     "answer": "Cú Chulainn",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-293",
+     "prompt": "Mineral-rich terraces at Mammoth Hot Springs are made of which rock?",
+     "choices": [
+      "Basalt",
+      "Travertine",
+      "Gypsum",
+      "Obsidian"
+     ],
+     "answer": "Travertine",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-248",
+     "prompt": "A mountain peak that protrudes through an ice sheet is called what?",
+     "choices": [
+      "Tor",
+      "Butte",
+      "Nunatak",
+      "Horn"
+     ],
+     "answer": "Nunatak",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-202",
+     "prompt": "Lake-effect snow is most associated with which region of North America?",
+     "choices": [
+      "Great Lakes",
+      "Appalachian Plateau",
+      "Gulf Coast",
+      "Rocky Mountains"
+     ],
+     "answer": "Great Lakes",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-210",
+     "prompt": "Which philosopher devised the ravens paradox of confirmation?",
+     "choices": [
+      "Rudolf Carnap",
+      "Nelson Goodman",
+      "Carl Hempel",
+      "Karl Popper"
+     ],
+     "answer": "Carl Hempel",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-198",
+     "prompt": "Which philosopher is known for the concept of family resemblance?",
+     "choices": [
+      "Bertrand Russell",
+      "J. L. Austin",
+      "Gilbert Ryle",
+      "Ludwig Wittgenstein"
+     ],
+     "answer": "Ludwig Wittgenstein",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-204",
+     "prompt": "Which philosopher of language is known for conversational implicature?",
+     "choices": [
+      "John Searle",
+      "J. L. Austin",
+      "P. F. Strawson",
+      "H. P. Grice"
+     ],
+     "answer": "H. P. Grice",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

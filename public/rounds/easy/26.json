@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 26,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-028",
+     "prompt": "12 ÷ 2",
+     "answer": 6,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-176",
+     "prompt": "12 − 4",
+     "answer": 8,
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-arith-091",
+     "prompt": "35 + 7",
+     "answer": 42,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-264",
+     "prompt": "Explorers raced to the South Pole, which is on which continent?",
+     "choices": [
+      "Antarctica",
+      "Asia",
+      "Africa",
+      "Europe"
+     ],
+     "answer": "Antarctica",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-190",
+     "prompt": "The time of knights and castles is called the Middle what?",
+     "choices": [
+      "Days",
+      "Weeks",
+      "Ages",
+      "Hours"
+     ],
+     "answer": "Ages",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-033",
+     "prompt": "Who is said to have told fables like The Tortoise and the Hare?",
+     "choices": [
+      "Plato",
+      "Aesop",
+      "Zeus",
+      "Hercules"
+     ],
+     "answer": "Aesop",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-022",
+     "prompt": "What did the Gingerbread Man shout as he ran away?",
+     "choices": [
+      "\"Come and find me!\"",
+      "\"I am so hungry!\"",
+      "\"You can't catch me!\"",
+      "\"Hello, friends!\""
+     ],
+     "answer": "\"You can't catch me!\"",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-067",
+     "prompt": "In Aesop's fable, who wins the race, the tortoise or the hare?",
+     "choices": [
+      "The hare",
+      "The tortoise",
+      "The fox",
+      "The snail"
+     ],
+     "answer": "The tortoise",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-030",
+     "prompt": "Who made a trail of breadcrumbs in the forest?",
+     "choices": [
+      "Jack and Jill",
+      "Peter and Wendy",
+      "Hansel and Gretel",
+      "Tom and Huck"
+     ],
+     "answer": "Hansel and Gretel",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-240",
+     "prompt": "What colors are often used for mountains on a map?",
+     "choices": [
+      "Brown",
+      "Blue",
+      "Pink",
+      "White"
+     ],
+     "answer": "Brown",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-earth-204",
+     "prompt": "On which continent do wild lions mostly live?",
+     "choices": [
+      "Europe",
+      "Antarctica",
+      "South America",
+      "Africa"
+     ],
+     "answer": "Africa",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-010",
+     "prompt": "What color is at the top of a rainbow?",
+     "choices": [
+      "Green",
+      "Red",
+      "Yellow",
+      "Purple"
+     ],
+     "answer": "Red",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-063",
+     "prompt": "Which bird can copy words you say?",
+     "choices": [
+      "owl",
+      "duck",
+      "parrot",
+      "swan"
+     ],
+     "answer": "parrot",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-157",
+     "prompt": "Which land animal has the biggest ears?",
+     "choices": [
+      "elephant",
+      "rabbit",
+      "mouse",
+      "horse"
+     ],
+     "answer": "elephant",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-156",
+     "prompt": "Which is the biggest ape?",
+     "choices": [
+      "monkey",
+      "baboon",
+      "lemur",
+      "gorilla"
+     ],
+     "answer": "gorilla",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

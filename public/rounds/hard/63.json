@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 63,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-269",
+     "prompt": "34 × 13",
+     "answer": 442,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-286",
+     "prompt": "23 × 19",
+     "answer": 437,
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-arith-043",
+     "prompt": "196 ÷ 7",
+     "answer": 28,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-132",
+     "prompt": "Which German plan called for a rapid defeat of France through Belgium?",
+     "choices": [
+      "Manstein Plan",
+      "Plan XVII",
+      "Marne Plan",
+      "Schlieffen Plan"
+     ],
+     "answer": "Schlieffen Plan",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-236",
+     "prompt": "Which Khmer king built Angkor Wat in the early 1100s?",
+     "choices": [
+      "Yasovarman I",
+      "Indravarman I",
+      "Jayavarman VII",
+      "Suryavarman II"
+     ],
+     "answer": "Suryavarman II",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-291",
+     "prompt": "Which Inca ruler led the 1536 rebellion against the Spanish?",
+     "choices": [
+      "Tupac Amaru",
+      "Atahualpa",
+      "Manco Inca",
+      "Huascar"
+     ],
+     "answer": "Manco Inca",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-283",
+     "prompt": "Who won the 2004 Nobel Prize in Literature, author of The Piano Teacher?",
+     "choices": [
+      "Elfriede Jelinek",
+      "Herta Müller",
+      "Alice Munro",
+      "Doris Lessing"
+     ],
+     "answer": "Elfriede Jelinek",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-294",
+     "prompt": "Who wrote the novel Man's Fate (La Condition humaine)?",
+     "choices": [
+      "André Malraux",
+      "Jean-Paul Sartre",
+      "Antoine de Saint-Exupéry",
+      "Albert Camus"
+     ],
+     "answer": "André Malraux",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-063",
+     "prompt": "Who wrote the Booker-winning novel The Famished Road?",
+     "choices": [
+      "Chinua Achebe",
+      "Wole Soyinka",
+      "Chimamanda Ngozi Adichie",
+      "Ben Okri"
+     ],
+     "answer": "Ben Okri",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-298",
+     "prompt": "Which is the second largest island in the world?",
+     "choices": [
+      "New Guinea",
+      "Baffin Island",
+      "Madagascar",
+      "Borneo"
+     ],
+     "answer": "New Guinea",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-009",
+     "prompt": "Chalcopyrite is the most widespread ore mineral of which metal?",
+     "choices": [
+      "Iron",
+      "Zinc",
+      "Copper",
+      "Nickel"
+     ],
+     "answer": "Copper",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-119",
+     "prompt": "An unconformity with sedimentary rocks lying on eroded igneous or metamorphic rock is a what?",
+     "choices": [
+      "Paraconformity",
+      "Conformity",
+      "Nonconformity",
+      "Disconformity"
+     ],
+     "answer": "Nonconformity",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-072",
+     "prompt": "Which bishop of Milan guided Augustine toward Christianity?",
+     "choices": [
+      "Athanasius",
+      "Gregory",
+      "Ambrose",
+      "Jerome"
+     ],
+     "answer": "Ambrose",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-146",
+     "prompt": "Which Nietzsche work has the subtitle How One Becomes What One Is?",
+     "choices": [
+      "The Antichrist",
+      "Daybreak",
+      "Twilight of the Idols",
+      "Ecce Homo"
+     ],
+     "answer": "Ecce Homo",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-171",
+     "prompt": "Heidegger became rector of which university in 1933?",
+     "choices": [
+      "Marburg",
+      "Berlin",
+      "Heidelberg",
+      "Freiburg"
+     ],
+     "answer": "Freiburg",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

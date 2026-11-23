@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 29,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-094",
+     "prompt": "15 × 10 − 6 × 8",
+     "answer": 102,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-123",
+     "prompt": "10 × 14 − 8 × 12",
+     "answer": 44,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-200",
+     "prompt": "549 − 138",
+     "answer": 411,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-289",
+     "prompt": "Which Austrian statesman dominated the Congress of Vienna?",
+     "choices": [
+      "Metternich",
+      "Talleyrand",
+      "Castlereagh",
+      "Bismarck"
+     ],
+     "answer": "Metternich",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-288",
+     "prompt": "Which dynasty followed the Qin in China?",
+     "choices": [
+      "Shang",
+      "Zhou",
+      "Tang",
+      "Han"
+     ],
+     "answer": "Han",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-hist-191",
+     "prompt": "Which Swedish king was defeated by Peter the Great at Poltava in 1709?",
+     "choices": [
+      "Charles X Gustav",
+      "Gustavus Adolphus",
+      "Charles XII",
+      "Gustav III"
+     ],
+     "answer": "Charles XII",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-199",
+     "prompt": "Who wrote the novel Berlin Alexanderplatz?",
+     "choices": [
+      "Erich Kästner",
+      "Hermann Hesse",
+      "Alfred Döblin",
+      "Thomas Mann"
+     ],
+     "answer": "Alfred Döblin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-lit-192",
+     "prompt": "Who wrote Memoirs of Hadrian?",
+     "choices": [
+      "Colette",
+      "Marguerite Duras",
+      "Marguerite Yourcenar",
+      "Nathalie Sarraute"
+     ],
+     "answer": "Marguerite Yourcenar",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-225",
+     "prompt": "Which Shakespeare play is generally counted as his shortest?",
+     "choices": [
+      "The Tempest",
+      "The Comedy of Errors",
+      "A Midsummer Night's Dream",
+      "Macbeth"
+     ],
+     "answer": "The Comedy of Errors",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-194",
+     "prompt": "A dry region on the lee side of a mountain range lies in a what?",
+     "choices": [
+      "Rain shadow",
+      "Heat low",
+      "Cold pool",
+      "Monsoon trough"
+     ],
+     "answer": "Rain shadow",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-157",
+     "prompt": "Glacial Lake Agassiz once covered parts of Manitoba and which US state?",
+     "choices": [
+      "Montana",
+      "North Dakota",
+      "Michigan",
+      "Wisconsin"
+     ],
+     "answer": "North Dakota",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-289",
+     "prompt": "The Great Divide of North America runs along the crest of which range?",
+     "choices": [
+      "Cascades",
+      "Sierra Nevada",
+      "Rocky Mountains",
+      "Appalachians"
+     ],
+     "answer": "Rocky Mountains",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-138",
+     "prompt": "Which young Berlin lecturer scheduled classes against Hegel's in 1820 and drew few listeners?",
+     "choices": [
+      "Ludwig Feuerbach",
+      "Arthur Schopenhauer",
+      "Friedrich Schelling",
+      "Friedrich Schleiermacher"
+     ],
+     "answer": "Arthur Schopenhauer",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-240",
+     "prompt": "Which theologian founded the Ash'arite school of kalam?",
+     "choices": [
+      "Ibn Hazm",
+      "Al-Ghazali",
+      "Al-Maturidi",
+      "Abu al-Hasan al-Ash'ari"
+     ],
+     "answer": "Abu al-Hasan al-Ash'ari",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-phil-080",
+     "prompt": "Which Rhineland abbess wrote the visionary work Scivias?",
+     "choices": [
+      "Julian of Norwich",
+      "Hildegard of Bingen",
+      "Catherine of Siena",
+      "Hrotsvitha"
+     ],
+     "answer": "Hildegard of Bingen",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

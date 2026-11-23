@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 33,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-243",
+     "prompt": "25 × 24",
+     "answer": 600,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-148",
+     "prompt": "32 × 28",
+     "answer": 896,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-133",
+     "prompt": "663 ÷ 17",
+     "answer": 39,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-099",
+     "prompt": "Which kingdom was partitioned by Russia, Prussia and Austria in 1772-1795?",
+     "choices": [
+      "Hungary",
+      "Sweden",
+      "Poland-Lithuania",
+      "Bohemia"
+     ],
+     "answer": "Poland-Lithuania",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-hist-170",
+     "prompt": "Which Frankish king converted to Catholic Christianity around 500?",
+     "choices": [
+      "Pepin the Short",
+      "Clovis I",
+      "Childeric I",
+      "Dagobert I"
+     ],
+     "answer": "Clovis I",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-081",
+     "prompt": "Which Egyptian ruler founded a modernizing dynasty in 1805?",
+     "choices": [
+      "Muhammad Ali",
+      "Nasser",
+      "Said Pasha",
+      "Ismail Pasha"
+     ],
+     "answer": "Muhammad Ali",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-152",
+     "prompt": "Who wrote the novel A Clockwork Orange?",
+     "choices": [
+      "Anthony Burgess",
+      "Kingsley Amis",
+      "William Golding",
+      "Alan Sillitoe"
+     ],
+     "answer": "Anthony Burgess",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-285",
+     "prompt": "Who wrote the essay collection The Labyrinth of Solitude?",
+     "choices": [
+      "José Vasconcelos",
+      "Alfonso Reyes",
+      "Octavio Paz",
+      "Carlos Fuentes"
+     ],
+     "answer": "Octavio Paz",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-292",
+     "prompt": "Who wrote the play Yerma?",
+     "choices": [
+      "Ramón del Valle-Inclán",
+      "Federico García Lorca",
+      "Antonio Buero Vallejo",
+      "Jacinto Benavente"
+     ],
+     "answer": "Federico García Lorca",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-102",
+     "prompt": "The floating of Earth's crust on denser mantle is explained by which principle?",
+     "choices": [
+      "Diagenesis",
+      "Superposition",
+      "Eustasy",
+      "Isostasy"
+     ],
+     "answer": "Isostasy",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-008",
+     "prompt": "Cassiterite is the principal ore of which metal?",
+     "choices": [
+      "Zinc",
+      "Tin",
+      "Lead",
+      "Tungsten"
+     ],
+     "answer": "Tin",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-earth-240",
+     "prompt": "A sharp ridge between two cirques is called what?",
+     "choices": [
+      "Esker",
+      "Horn",
+      "Col",
+      "Arete"
+     ],
+     "answer": "Arete",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-283",
+     "prompt": "Which Chinese monk travelled to India and brought back Yogacara texts?",
+     "choices": [
+      "Xuanzang",
+      "Kumarajiva",
+      "Yijing",
+      "Faxian"
+     ],
+     "answer": "Xuanzang",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-phil-006",
+     "prompt": "Who is credited as the first atomist and as Democritus's teacher?",
+     "choices": [
+      "Anaxagoras",
+      "Protagoras",
+      "Leucippus",
+      "Epicurus"
+     ],
+     "answer": "Leucippus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-033",
+     "prompt": "Which woman philosopher left a wealthy home to marry the Cynic Crates?",
+     "choices": [
+      "Arete of Cyrene",
+      "Hypatia",
+      "Hipparchia",
+      "Diotima"
+     ],
+     "answer": "Hipparchia",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

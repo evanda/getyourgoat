@@ -1,0 +1,193 @@
+{
+ "level": "hard",
+ "number": 88,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "hard-arith-169",
+     "prompt": "44 × 13",
+     "answer": 572,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-046",
+     "prompt": "36 × 25",
+     "answer": 900,
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-arith-254",
+     "prompt": "25% of 120",
+     "answer": 30,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hard-hist-229",
+     "prompt": "Which Mali ruler founded the empire after the Battle of Kirina c.1235?",
+     "choices": [
+      "Sundiata Keita",
+      "Askia Muhammad",
+      "Sonni Ali",
+      "Mansa Musa"
+     ],
+     "answer": "Sundiata Keita",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-021",
+     "prompt": "Which 1600 battle secured Tokugawa Ieyasu's power in Japan?",
+     "choices": [
+      "Sekigahara",
+      "Nagashino",
+      "Kawanakajima",
+      "Okehazama"
+     ],
+     "answer": "Sekigahara",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-hist-094",
+     "prompt": "Which Assyrian king assembled a great library at Nineveh?",
+     "choices": [
+      "Sargon II",
+      "Ashurbanipal",
+      "Tiglath-Pileser III",
+      "Sennacherib"
+     ],
+     "answer": "Ashurbanipal",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "hard-lit-297",
+     "prompt": "Who wrote the novel The Glass Bead Game?",
+     "choices": [
+      "Günter Grass",
+      "Heinrich Böll",
+      "Thomas Mann",
+      "Hermann Hesse"
+     ],
+     "answer": "Hermann Hesse",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-lit-062",
+     "prompt": "Who wrote the epic Orlando Furioso?",
+     "choices": [
+      "Ludovico Ariosto",
+      "Matteo Boiardo",
+      "Luigi Pulci",
+      "Torquato Tasso"
+     ],
+     "answer": "Ludovico Ariosto",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-lit-255",
+     "prompt": "Who wrote the WWI poem \"In Flanders Fields\"?",
+     "choices": [
+      "John McCrae",
+      "Edward Thomas",
+      "Wilfred Owen",
+      "Rupert Brooke"
+     ],
+     "answer": "John McCrae",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "hard-earth-276",
+     "prompt": "Which peak is the highest in Oceania, in Indonesian New Guinea?",
+     "choices": [
+      "Mount Kosciuszko",
+      "Puncak Jaya",
+      "Mount Wilhelm",
+      "Mount Cook"
+     ],
+     "answer": "Puncak Jaya",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-earth-093",
+     "prompt": "Which large strike-slip fault curves through the Alaska Range?",
+     "choices": [
+      "Queen Charlotte Fault",
+      "Border Ranges Fault",
+      "Denali Fault",
+      "Fairweather Fault"
+     ],
+     "answer": "Denali Fault",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-earth-313",
+     "prompt": "Chuquicamata is a huge open-pit mine for which metal in Chile?",
+     "choices": [
+      "Silver",
+      "Copper",
+      "Nitrate",
+      "Iron"
+     ],
+     "answer": "Copper",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "hard-phil-166",
+     "prompt": "At Davos in 1929, Heidegger debated which neo-Kantian?",
+     "choices": [
+      "Max Scheler",
+      "Paul Natorp",
+      "Ernst Cassirer",
+      "Hermann Cohen"
+     ],
+     "answer": "Ernst Cassirer",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-147",
+     "prompt": "At which university did Nietzsche hold his professorship?",
+     "choices": [
+      "Bonn",
+      "Leipzig",
+      "Basel",
+      "Zurich"
+     ],
+     "answer": "Basel",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-phil-133",
+     "prompt": "Which Kantian formula tells us never to treat humanity merely as a means?",
+     "choices": [
+      "Formula of Autonomy",
+      "Formula of Humanity",
+      "Kingdom of Ends",
+      "Formula of Universal Law"
+     ],
+     "answer": "Formula of Humanity",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

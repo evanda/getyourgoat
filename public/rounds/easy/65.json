@@ -1,0 +1,193 @@
+{
+ "level": "easy",
+ "number": 65,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "easy-arith-175",
+     "prompt": "23 + 3",
+     "answer": 26,
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-arith-257",
+     "prompt": "49 + 11",
+     "answer": 60,
+     "difficulty": "hard"
+    },
+    {
+     "id": "easy-arith-094",
+     "prompt": "11 × 3",
+     "answer": 33,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "easy-hist-230",
+     "prompt": "What do Americans celebrate on July 4?",
+     "choices": [
+      "Thanksgiving",
+      "Labor Day",
+      "Independence Day",
+      "Halloween"
+     ],
+     "answer": "Independence Day",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-143",
+     "prompt": "Who wrote the play Romeo and Juliet?",
+     "choices": [
+      "Charles Dickens",
+      "Roald Dahl",
+      "Mark Twain",
+      "William Shakespeare"
+     ],
+     "answer": "William Shakespeare",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-hist-007",
+     "prompt": "What kind of picture writing did ancient Egyptians use?",
+     "choices": [
+      "Emojis",
+      "Braille",
+      "Morse code",
+      "Hieroglyphs"
+     ],
+     "answer": "Hieroglyphs",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "easy-lit-043",
+     "prompt": "What is the Pied Piper's instrument?",
+     "choices": [
+      "A drum",
+      "A pipe",
+      "A violin",
+      "A trumpet"
+     ],
+     "answer": "A pipe",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-lit-110",
+     "prompt": "Which city did Pussycat visit to see the Queen?",
+     "choices": [
+      "Paris",
+      "Dublin",
+      "London",
+      "York"
+     ],
+     "answer": "London",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-lit-246",
+     "prompt": "Who flew too close to the sun with wings made of wax?",
+     "choices": [
+      "Perseus",
+      "Theseus",
+      "Icarus",
+      "Hermes"
+     ],
+     "answer": "Icarus",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "easy-earth-270",
+     "prompt": "What do we call making new things from old, like cans and paper?",
+     "choices": [
+      "Wasting",
+      "Burying",
+      "Recycling",
+      "Melting ice"
+     ],
+     "answer": "Recycling",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-256",
+     "prompt": "Is the Sun bigger or smaller than Earth?",
+     "choices": [
+      "Bigger",
+      "Smaller",
+      "The same",
+      "It changes"
+     ],
+     "answer": "Bigger",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-earth-103",
+     "prompt": "Which kind of rock forms from layers of sand and mud pressed together?",
+     "choices": [
+      "Igneous",
+      "Metamorphic",
+      "Volcanic",
+      "Sedimentary"
+     ],
+     "answer": "Sedimentary",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "animals",
+   "variants": [
+    {
+     "id": "easy-anim-090",
+     "prompt": "Hummingbirds sip sweet what from flowers?",
+     "choices": [
+      "milk",
+      "nectar",
+      "soda",
+      "syrup"
+     ],
+     "answer": "nectar",
+     "difficulty": "medium"
+    },
+    {
+     "id": "easy-anim-065",
+     "prompt": "Which small pet runs on a wheel?",
+     "choices": [
+      "hamster",
+      "goldfish",
+      "horse",
+      "parrot"
+     ],
+     "answer": "hamster",
+     "difficulty": "easy"
+    },
+    {
+     "id": "easy-anim-073",
+     "prompt": "Which bird gives us most of our eggs?",
+     "choices": [
+      "chicken",
+      "owl",
+      "eagle",
+      "penguin"
+     ],
+     "answer": "chicken",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}
