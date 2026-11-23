@@ -6,5 +6,21 @@
  "earth-114": {
   "decision": "keep",
   "reason": "Pacific mean depth (~4,000 m) exceeds Indian; checker agreed, medium confidence."
+ },
+ "hist-073": {
+  "decision": "keep",
+  "reason": "Prompt named the capital (giveaway); reworded to the region."
+ },
+ "hist-120": {
+  "decision": "keep",
+  "reason": "\"Self-governing\" was ambiguous vs 1931; now asks Confederation year (1867)."
+ },
+ "hist-172": {
+  "decision": "keep",
+  "reason": "Giveaway; rewritten to ask the country (Peru)."
+ },
+ "hist-224": {
+  "decision": "keep",
+  "reason": "Algebra comes from his book title, not his name; now asks only about algorithm."
  }
 }

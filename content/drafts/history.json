@@ -937,7 +937,7 @@
  },
  {
   "id": "hist-073",
-  "prompt": "Which ancient African kingdom, with capital Aksum, became Christian in the 300s?",
+  "prompt": "Which ancient kingdom in what is now Ethiopia became Christian in the 300s?",
   "choices": [
    "Aksum",
    "Mali",
@@ -1548,7 +1548,7 @@
  },
  {
   "id": "hist-120",
-  "prompt": "In which year did Canada become a self-governing country?",
+  "prompt": "In which year did Canadian Confederation take place?",
   "choices": [
    "1776",
    "1901",
@@ -1773,7 +1773,7 @@
   "choices": [
    "Vladimir Lenin",
    "Joseph Stalin",
-   "Leon Tolstoy",
+   "Leo Tolstoy",
    "Nikita Khrushchev"
   ],
   "answer": "Vladimir Lenin",
@@ -2224,14 +2224,14 @@
  },
  {
   "id": "hist-172",
-  "prompt": "Which ancient Peruvian people created the giant Nazca Lines?",
+  "prompt": "The giant Nazca Lines are drawn in the desert of which country?",
   "choices": [
-   "The Aztecs",
-   "The Olmec",
-   "The Toltec",
-   "The Nazca"
+   "Peru",
+   "Mexico",
+   "Chile",
+   "Bolivia"
   ],
-  "answer": "The Nazca",
+  "answer": "Peru",
   "difficulty": "medium",
   "topic": "nazca lines people"
  },
@@ -2900,7 +2900,7 @@
  },
  {
   "id": "hist-224",
-  "prompt": "Which Persian scholar's name gave us the word 'algebra' and 'algorithm'?",
+  "prompt": "The word 'algorithm' comes from which Persian scholar's name?",
   "choices": [
    "Avicenna",
    "Omar Khayyam",

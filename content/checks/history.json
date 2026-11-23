@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "hist-001",
+    "pick": "Ancient Egypt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-002",
+    "pick": "Nile",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-003",
+    "pick": "Alexander the Great",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-004",
+    "pick": "Athens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-005",
+    "pick": "Iraq",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-006",
+    "pick": "Cuneiform",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-007",
+    "pick": "Hannibal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-008",
+    "pick": "Julius Caesar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-009",
+    "pick": "Rome",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-010",
+    "pick": "Hadrian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-011",
+    "pick": "Mount Vesuvius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-012",
+    "pick": "Persian Empire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-013",
+    "pick": "Qin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-014",
+    "pick": "Qin Shi Huang",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-015",
+    "pick": "A lighthouse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-016",
+    "pick": "Maurya Empire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-017",
+    "pick": "Greece",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-018",
+    "pick": "Mediterranean Sea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-019",
+    "pick": "Cleopatra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-020",
+    "pick": "Tutankhamun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-021",
+    "pick": "Howard Carter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-022",
+    "pick": "The Maya",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-023",
+    "pick": "Tenochtitlan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-024",
+    "pick": "The Inca Empire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-025",
+    "pick": "Hernan Cortes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-026",
+    "pick": "Francisco Pizarro",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-027",
+    "pick": "Constantine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-028",
+    "pick": "Constantinople",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-029",
+    "pick": "5th century",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-030",
+    "pick": "Aristotle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-031",
+    "pick": "Socrates",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-032",
+    "pick": "Genghis Khan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-033",
+    "pick": "The Nabataeans",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-034",
+    "pick": "The Minoans",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-035",
+    "pick": "Persian Empire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-036",
+    "pick": "Tunisia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-037",
+    "pick": "Diocletian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-038",
+    "pick": "Marathon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-039",
+    "pick": "Leonidas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-040",
+    "pick": "Hammurabi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-041",
+    "pick": "Egyptian hieroglyphs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-042",
+    "pick": "Indus Valley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-043",
+    "pick": "Confucius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-044",
+    "pick": "Ming",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-045",
+    "pick": "Mansa Musa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-046",
+    "pick": "Khufu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-047",
+    "pick": "Alexander the Great",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-048",
+    "pick": "Darius III",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-049",
+    "pick": "The ancient Greeks",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-050",
+    "pick": "Rome",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-051",
+    "pick": "Charlemagne",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-052",
+    "pick": "King John",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-053",
+    "pick": "Urban II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-054",
+    "pick": "Saladin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-055",
+    "pick": "14th century",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-056",
+    "pick": "Hundred Years' War",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-057",
+    "pick": "1453",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-058",
+    "pick": "Mehmed II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-059",
+    "pick": "Germany",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-060",
+    "pick": "Leif Erikson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-061",
+    "pick": "Kublai Khan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-062",
+    "pick": "Marco Polo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-063",
+    "pick": "Ibn Battuta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-064",
+    "pick": "Zheng He",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-065",
+    "pick": "Shogun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-066",
+    "pick": "Kyoto",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-067",
+    "pick": "Shah Jahan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-068",
+    "pick": "Agra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-069",
+    "pick": "Babur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-070",
+    "pick": "Ottoman Empire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-071",
+    "pick": "Timbuktu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-072",
+    "pick": "Zimbabwe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-073",
+    "pick": "Aksum",
+    "confidence": "high",
+    "problem": "Prompt gives away the answer: it names the capital Aksum and the correct choice is Aksum."
+  },
+  {
+    "id": "hist-074",
+    "pick": "Menelik II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-075",
+    "pick": "Shaka",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-076",
+    "pick": "Cambodia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-077",
+    "pick": "Indonesia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-078",
+    "pick": "Sejong the Great",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-079",
+    "pick": "Yi Sun-sin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-080",
+    "pick": "The Manchus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-081",
+    "pick": "Tang",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-082",
+    "pick": "Timur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-083",
+    "pick": "Silk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-084",
+    "pick": "Venice",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-085",
+    "pick": "The Medici",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-086",
+    "pick": "Michelangelo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-087",
+    "pick": "Martin Luther",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-088",
+    "pick": "Henry VIII",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-089",
+    "pick": "1588",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-090",
+    "pick": "Elizabeth I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-091",
+    "pick": "Louis XIV",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-092",
+    "pick": "Peter the Great",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-093",
+    "pick": "Vasco da Gama",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-094",
+    "pick": "Bartolomeu Dias",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-095",
+    "pick": "Spain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-096",
+    "pick": "1492",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-097",
+    "pick": "Leonardo da Vinci",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-098",
+    "pick": "Nicolaus Copernicus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-099",
+    "pick": "1776",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-100",
+    "pick": "George Washington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-101",
+    "pick": "The Mayflower",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-102",
+    "pick": "Louisiana Purchase",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-103",
+    "pick": "Abraham Lincoln",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-104",
+    "pick": "Gettysburg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-105",
+    "pick": "1861",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-106",
+    "pick": "Franklin D. Roosevelt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-107",
+    "pick": "Pearl Harbor",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-108",
+    "pick": "Martin Luther King Jr.",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-109",
+    "pick": "Sacagawea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-110",
+    "pick": "1914",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-111",
+    "pick": "The Constitution",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-112",
+    "pick": "1869",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-113",
+    "pick": "Kitty Hawk, North Carolina",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-114",
+    "pick": "Toussaint Louverture",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-115",
+    "pick": "Simon Bolivar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-116",
+    "pick": "1821",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-117",
+    "pick": "Portugal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-118",
+    "pick": "Fidel Castro",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-119",
+    "pick": "1962",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-120",
+    "pick": "1867",
+    "confidence": "medium",
+    "problem": "\"Self-governing country\" is ambiguous: 1867 Confederation is the usual answer, but 1931 (Statute of Westminster, full legislative independence) is also defensible and is a choice."
+  },
+  {
+    "id": "hist-121",
+    "pick": "Harriet Tubman",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-122",
+    "pick": "Rosa Parks",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-123",
+    "pick": "Charles Lindbergh",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-124",
+    "pick": "1789",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-125",
+    "pick": "The Bastille",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-126",
+    "pick": "Napoleon Bonaparte",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-127",
+    "pick": "Waterloo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-128",
+    "pick": "Saint Helena",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-129",
+    "pick": "Victoria",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-130",
+    "pick": "Great Britain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-131",
+    "pick": "James Watt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-132",
+    "pick": "Otto von Bismarck",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-133",
+    "pick": "Giuseppe Garibaldi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-134",
+    "pick": "Archduke Franz Ferdinand",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-135",
+    "pick": "Treaty of Versailles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-136",
+    "pick": "1917",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-137",
+    "pick": "Vladimir Lenin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-138",
+    "pick": "Joseph Stalin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-139",
+    "pick": "Winston Churchill",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-140",
+    "pick": "France",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-141",
+    "pick": "1939",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-142",
+    "pick": "Adolf Hitler",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-143",
+    "pick": "Berlin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-144",
+    "pick": "1989",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-145",
+    "pick": "Soviet Union",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-146",
+    "pick": "Yuri Gagarin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-147",
+    "pick": "1969",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-148",
+    "pick": "Neil Armstrong",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-149",
+    "pick": "1991",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-150",
+    "pick": "1912",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-151",
+    "pick": "HMS Beagle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-152",
+    "pick": "Marie Curie",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-153",
+    "pick": "Alexander Fleming",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-154",
+    "pick": "Louis Pasteur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-155",
+    "pick": "Galileo Galilei",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-156",
+    "pick": "Edward Jenner",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-157",
+    "pick": "Albert Einstein",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-158",
+    "pick": "Isaac Newton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-159",
+    "pick": "Ramses II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-160",
+    "pick": "Hatshepsut",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-161",
+    "pick": "Akhenaten",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-162",
+    "pick": "Mesopotamia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-163",
+    "pick": "Carthage",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-164",
+    "pick": "Scipio Africanus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-165",
+    "pick": "Spartacus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-166",
+    "pick": "Actium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-167",
+    "pick": "Marcus Aurelius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-168",
+    "pick": "Herodotus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-169",
+    "pick": "Pericles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-170",
+    "pick": "Peloponnesian War",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-171",
+    "pick": "Xerxes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-172",
+    "pick": "The Nazca",
+    "confidence": "high",
+    "problem": "Prompt gives away the answer: \"Nazca Lines\" makes \"The Nazca\" trivially obvious."
+  },
+  {
+    "id": "hist-173",
+    "pick": "St. Louis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-174",
+    "pick": "The Olmec",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-175",
+    "pick": "Montezuma II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-176",
+    "pick": "Atahualpa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-177",
+    "pick": "Kamikaze",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-178",
+    "pick": "Edo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-179",
+    "pick": "Tokugawa Ieyasu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-180",
+    "pick": "Ming",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-181",
+    "pick": "Puyi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-182",
+    "pick": "Mao Zedong",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-183",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-184",
+    "pick": "Hulagu Khan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-185",
+    "pick": "Baghdad",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-186",
+    "pick": "Umayyad",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-187",
+    "pick": "Osman I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-188",
+    "pick": "Safavid",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-189",
+    "pick": "British East India Company",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-190",
+    "pick": "Mahatma Gandhi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-191",
+    "pick": "1947",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-192",
+    "pick": "Pakistan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-193",
+    "pick": "Temujin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-194",
+    "pick": "Kush",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-195",
+    "pick": "Ferdinand de Lesseps",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-196",
+    "pick": "1994",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-197",
+    "pick": "Robben Island",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-198",
+    "pick": "Gamal Abdel Nasser",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-199",
+    "pick": "Kwame Nkrumah",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-200",
+    "pick": "Jomo Kenyatta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-201",
+    "pick": "Haile Selassie",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-202",
+    "pick": "James Cook",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-203",
+    "pick": "Roald Amundsen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-204",
+    "pick": "1953",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-205",
+    "pick": "Treaty of Waitangi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-206",
+    "pick": "Moai",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-207",
+    "pick": "Henry Hudson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-208",
+    "pick": "Samuel de Champlain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-209",
+    "pick": "1607",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-210",
+    "pick": "Oliver Cromwell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-211",
+    "pick": "Charles I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-212",
+    "pick": "1666",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-213",
+    "pick": "Frederick II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-214",
+    "pick": "Isabella I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-215",
+    "pick": "Florence Nightingale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-216",
+    "pick": "1929",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-217",
+    "pick": "Nicholas II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-218",
+    "pick": "Margaret Thatcher",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-219",
+    "pick": "Papyrus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-220",
+    "pick": "Euclid",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-221",
+    "pick": "Hippocrates",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-222",
+    "pick": "Eratosthenes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-223",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-224",
+    "pick": "Al-Khwarizmi",
+    "confidence": "high",
+    "problem": "Wording is inaccurate: 'algorithm' comes from his name, but 'algebra' comes from the title of his book (al-jabr), not his name."
+  },
+  {
+    "id": "hist-225",
+    "pick": "1859",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-226",
+    "pick": "Wilhelm Roentgen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-227",
+    "pick": "Dmitri Mendeleev",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-228",
+    "pick": "Manhattan Project",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-229",
+    "pick": "France",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-230",
+    "pick": "The Great Wall",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-231",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-232",
+    "pick": "Latin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-233",
+    "pick": "Scandinavia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-234",
+    "pick": "Thomas Jefferson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-235",
+    "pick": "George Washington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-236",
+    "pick": "Great Britain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-237",
+    "pick": "John F. Kennedy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-238",
+    "pick": "Henry VIII",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-239",
+    "pick": "Athens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-240",
+    "pick": "1914",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-241",
+    "pick": "1918",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-242",
+    "pick": "United States and Soviet Union",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-243",
+    "pick": "Santa Maria",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-244",
+    "pick": "Great Pyramid of Giza",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-245",
+    "pick": "Texas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-246",
+    "pick": "California",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-247",
+    "pick": "Boston",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-248",
+    "pick": "London",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-249",
+    "pick": "Pythagoras",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-250",
+    "pick": "Japan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-251",
+    "pick": "Mexico",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-252",
+    "pick": "Peru",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-253",
+    "pick": "Longships",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-254",
+    "pick": "Jerusalem",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-255",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-256",
+    "pick": "Apollo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-257",
+    "pick": "Egypt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-258",
+    "pick": "Atlantic and Pacific",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-259",
+    "pick": "Benito Mussolini",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-260",
+    "pick": "Vercingetorix",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-261",
+    "pick": "Justinian I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-262",
+    "pick": "The Mamluks",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-263",
+    "pick": "Congress of Vienna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-264",
+    "pick": "Treaty of Tordesillas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-265",
+    "pick": "Chandragupta Maurya",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-266",
+    "pick": "Dien Bien Phu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-267",
+    "pick": "Nigeria",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-268",
+    "pick": "Henry V",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-269",
+    "pick": "Sun Tzu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-270",
+    "pick": "Amerigo Vespucci",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-271",
+    "pick": "Richard Nixon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-272",
+    "pick": "John Wilkes Booth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-273",
+    "pick": "Ho Chi Minh",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-274",
+    "pick": "Duke of Wellington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-275",
+    "pick": "Horatio Nelson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-276",
+    "pick": "Edward VIII",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-277",
+    "pick": "Iron Curtain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-278",
+    "pick": "Charles de Gaulle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-279",
+    "pick": "San Francisco",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-280",
+    "pick": "Chicago",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-281",
+    "pick": "Socrates",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-282",
+    "pick": "Turkey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-283",
+    "pick": "Woodrow Wilson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-284",
+    "pick": "Kaiser Wilhelm II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-285",
+    "pick": "Amsterdam",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-286",
+    "pick": "The Bible",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-287",
+    "pick": "Gladiator fights",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-288",
+    "pick": "Pocahontas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-289",
+    "pick": "Henry Ford",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-290",
+    "pick": "Rome",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-291",
+    "pick": "Robert E. Lee",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-292",
+    "pick": "Ulysses S. Grant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-293",
+    "pick": "Samuel Morse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-294",
+    "pick": "The Sumerians",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-295",
+    "pick": "Polis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-296",
+    "pick": "Alan Shepard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-297",
+    "pick": "Valentina Tereshkova",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-298",
+    "pick": "1997",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-299",
+    "pick": "Boudica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hist-300",
+    "pick": "The Visigoths",
+    "confidence": "high",
+    "problem": null
+  }
+]

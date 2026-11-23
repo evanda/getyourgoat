@@ -1,0 +1,602 @@
+[
+  {
+    "id": "phil-001",
+    "pick": "Plato",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-002",
+    "pick": "Aristotle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-003",
+    "pick": "Socrates",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-004",
+    "pick": "The Lyceum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-005",
+    "pick": "Zeno of Citium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-006",
+    "pick": "The Garden",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-007",
+    "pick": "Diogenes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-008",
+    "pick": "Aristotle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-009",
+    "pick": "Plato",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-010",
+    "pick": "Marcus Aurelius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-011",
+    "pick": "A slave",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-012",
+    "pick": "Nero",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-013",
+    "pick": "Heraclitus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-014",
+    "pick": "Water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-015",
+    "pick": "Right triangles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-016",
+    "pick": "Zeno of Elea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-017",
+    "pick": "Democritus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-018",
+    "pick": "Skepticism",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-019",
+    "pick": "Cynicism",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-020",
+    "pick": "Neoplatonism",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-021",
+    "pick": "Protagoras",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-022",
+    "pick": "Cicero",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-023",
+    "pick": "Lucretius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-024",
+    "pick": "Socrates",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-025",
+    "pick": "Aristotle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-026",
+    "pick": "Boethius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-027",
+    "pick": "Augustine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-028",
+    "pick": "Rome",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-029",
+    "pick": "Aristotle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-030",
+    "pick": "Flourishing",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-031",
+    "pick": "End or purpose",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-032",
+    "pick": "Anaximander",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-033",
+    "pick": "Parmenides",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-034",
+    "pick": "Alexandria",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-035",
+    "pick": "Love",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-036",
+    "pick": "Socrates",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-037",
+    "pick": "Arrian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-038",
+    "pick": "Stoicism",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-039",
+    "pick": "Porch",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-040",
+    "pick": "5th",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-041",
+    "pick": "Political",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-042",
+    "pick": "Aristotle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-043",
+    "pick": "Aristotle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-044",
+    "pick": "Aristotle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-045",
+    "pick": "The Analects",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-046",
+    "pick": "Laozi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-047",
+    "pick": "Zhuangzi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-048",
+    "pick": "Mencius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-049",
+    "pick": "Xunzi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-050",
+    "pick": "Han Feizi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-051",
+    "pick": "Mozi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-052",
+    "pick": "The Way",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-053",
+    "pick": "Effortless action",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-054",
+    "pick": "Siddhartha Gautama",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-055",
+    "pick": "Buddhism",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-056",
+    "pick": "Nirvana",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-057",
+    "pick": "Nagarjuna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-058",
+    "pick": "Shankara",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-059",
+    "pick": "Jainism",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-060",
+    "pick": "Nonviolence",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-061",
+    "pick": "Mahabharata",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-062",
+    "pick": "Avicenna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-063",
+    "pick": "Averroes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-064",
+    "pick": "Al-Ghazali",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-065",
+    "pick": "Averroes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-066",
+    "pick": "Ibn Khaldun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-067",
+    "pick": "Al-Farabi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-068",
+    "pick": "Maimonides",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-069",
+    "pick": "Thomas Aquinas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-070",
+    "pick": "Anselm",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-071",
+    "pick": "William of Ockham",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-072",
+    "pick": "Peter Abelard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-073",
+    "pick": "Scholasticism",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-074",
+    "pick": "Erasmus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-075",
+    "pick": "Thomas More",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-076",
+    "pick": "Machiavelli",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-077",
+    "pick": "Montaigne",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-078",
+    "pick": "Pascal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-079",
+    "pick": "Thomas Hobbes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-080",
+    "pick": "John Locke",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-081",
+    "pick": "Spinoza",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-082",
+    "pick": "Spinoza",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-083",
+    "pick": "Leibniz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-084",
+    "pick": "Leibniz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-085",
+    "pick": "George Berkeley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-086",
+    "pick": "David Hume",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-087",
+    "pick": "David Hume",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-088",
+    "pick": "David Hume",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-089",
+    "pick": "Descartes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-090",
+    "pick": "Descartes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-091",
+    "pick": "Francis Bacon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-092",
+    "pick": "Rousseau",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-093",
+    "pick": "Rousseau",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-094",
+    "pick": "Voltaire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-095",
+    "pick": "Montesquieu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-096",
+    "pick": "Denis Diderot",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-097",
+    "pick": "Adam Smith",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-098",
+    "pick": "Mary Wollstonecraft",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-099",
+    "pick": "Thomas Paine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "phil-100",
+    "pick": "Edmund Burke",
+    "confidence": "high",
+    "problem": null
+  }
+]

@@ -1,0 +1,1802 @@
+[
+ {
+  "id": "lit-001",
+  "pick": "Herman Melville",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-002",
+  "pick": "Charles Dickens",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-003",
+  "pick": "Charlotte Brontë",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-004",
+  "pick": "Emily Brontë",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-005",
+  "pick": "Mary Shelley",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-006",
+  "pick": "Bram Stoker",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-007",
+  "pick": "J. R. R. Tolkien",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-008",
+  "pick": "C. S. Lewis",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-009",
+  "pick": "Lewis Carroll",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-010",
+  "pick": "Roald Dahl",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-011",
+  "pick": "Dr. Seuss",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-012",
+  "pick": "Maurice Sendak",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-013",
+  "pick": "E. B. White",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-014",
+  "pick": "Louisa May Alcott",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-015",
+  "pick": "L. M. Montgomery",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-016",
+  "pick": "Mark Twain",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-017",
+  "pick": "George Orwell",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-018",
+  "pick": "George Orwell",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-019",
+  "pick": "F. Scott Fitzgerald",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-020",
+  "pick": "Harper Lee",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-021",
+  "pick": "Ernest Hemingway",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-022",
+  "pick": "John Steinbeck",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-023",
+  "pick": "J. D. Salinger",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-024",
+  "pick": "Victor Hugo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-025",
+  "pick": "Alexandre Dumas",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-026",
+  "pick": "Jules Verne",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-027",
+  "pick": "Antoine de Saint-Exupéry",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-028",
+  "pick": "Leo Tolstoy",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-029",
+  "pick": "Fyodor Dostoevsky",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-030",
+  "pick": "Miguel de Cervantes",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-031",
+  "pick": "Robert Louis Stevenson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-032",
+  "pick": "Daniel Defoe",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-033",
+  "pick": "Jonathan Swift",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-034",
+  "pick": "Charles Dickens",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-035",
+  "pick": "Charles Dickens",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-036",
+  "pick": "J. M. Barrie",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-037",
+  "pick": "A. A. Milne",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-038",
+  "pick": "Kenneth Grahame",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-039",
+  "pick": "Rudyard Kipling",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-040",
+  "pick": "Beatrix Potter",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-041",
+  "pick": "L. Frank Baum",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-042",
+  "pick": "J. K. Rowling",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-043",
+  "pick": "Suzanne Collins",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-044",
+  "pick": "Ray Bradbury",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-045",
+  "pick": "H. G. Wells",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-046",
+  "pick": "Arthur Conan Doyle",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-047",
+  "pick": "Agatha Christie",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-048",
+  "pick": "Oscar Wilde",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-049",
+  "pick": "Nathaniel Hawthorne",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-050",
+  "pick": "Edgar Allan Poe",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-051",
+  "pick": "Moby-Dick",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-052",
+  "pick": "Wuthering Heights",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-053",
+  "pick": "To Kill a Mockingbird",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-054",
+  "pick": "The Catcher in the Rye",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-055",
+  "pick": "Sense and Sensibility",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-056",
+  "pick": "Oliver Twist",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-057",
+  "pick": "Ebenezer Scrooge",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-058",
+  "pick": "Hercule Poirot",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-059",
+  "pick": "Dr. Watson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-060",
+  "pick": "Transylvania",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-061",
+  "pick": "Nautilus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-062",
+  "pick": "Hispaniola",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-063",
+  "pick": "Pequod",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-064",
+  "pick": "Captain Hook",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-065",
+  "pick": "Frodo Baggins",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-066",
+  "pick": "Toto",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-067",
+  "pick": "Aslan",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-068",
+  "pick": "Eeyore",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-069",
+  "pick": "James and the Giant Peach",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-070",
+  "pick": "Matilda",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-071",
+  "pick": "Four",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-072",
+  "pick": "Jane Eyre",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-073",
+  "pick": "A Midsummer Night's Dream",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-074",
+  "pick": "The Tempest",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-075",
+  "pick": "The Merchant of Venice",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-076",
+  "pick": "Othello",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-077",
+  "pick": "Macbeth",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-078",
+  "pick": "Hamlet",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-079",
+  "pick": "Much Ado About Nothing",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-080",
+  "pick": "Twelfth Night",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-081",
+  "pick": "As You Like It",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-082",
+  "pick": "Lilliput",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-083",
+  "pick": "The Dormouse",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-084",
+  "pick": "The Cheshire Cat",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-085",
+  "pick": "The Queen of Hearts",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-086",
+  "pick": "Smaug",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-087",
+  "pick": "Gandalf",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-088",
+  "pick": "Mowgli",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-089",
+  "pick": "Bear",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-090",
+  "pick": "Mr. Toad",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-091",
+  "pick": "Pig",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-092",
+  "pick": "Words",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-093",
+  "pick": "The Scarlet Letter",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-094",
+  "pick": "Victor Frankenstein",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-095",
+  "pick": "Great Expectations",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-096",
+  "pick": "Sancho Panza",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-097",
+  "pick": "Les Misérables",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-098",
+  "pick": "The Count of Monte Cristo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-099",
+  "pick": "Quasimodo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-100",
+  "pick": "D'Artagnan",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-101",
+  "pick": "Robert Frost",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-102",
+  "pick": "Walt Whitman",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-103",
+  "pick": "Percy Bysshe Shelley",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-104",
+  "pick": "John Keats",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-105",
+  "pick": "Samuel Taylor Coleridge",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-106",
+  "pick": "John Milton",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-107",
+  "pick": "Geoffrey Chaucer",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-108",
+  "pick": "William Wordsworth",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-109",
+  "pick": "Scotland",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-110",
+  "pick": "Emily Dickinson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-111",
+  "pick": "Allen Ginsberg",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-112",
+  "pick": "T. S. Eliot",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-113",
+  "pick": "Dylan Thomas",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-114",
+  "pick": "W. B. Yeats",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-115",
+  "pick": "Pablo Neruda",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-116",
+  "pick": "Rabindranath Tagore",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-117",
+  "pick": "Persian",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-118",
+  "pick": "Ferdowsi",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-119",
+  "pick": "Virgil",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-120",
+  "pick": "Ovid",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-121",
+  "pick": "Hesiod",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-122",
+  "pick": "Lesbos",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-123",
+  "pick": "Rudyard Kipling",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-124",
+  "pick": "Alfred, Lord Tennyson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-125",
+  "pick": "William Blake",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-126",
+  "pick": "Elizabeth Barrett Browning",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-127",
+  "pick": "Henry Wadsworth Longfellow",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-128",
+  "pick": "Matsuo Bashō",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-129",
+  "pick": "Edward Lear",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-130",
+  "pick": "Shel Silverstein",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-131",
+  "pick": "Maya Angelou",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-132",
+  "pick": "Langston Hughes",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-133",
+  "pick": "14",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-134",
+  "pick": "Five",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-135",
+  "pick": "Japan",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-136",
+  "pick": "Iambic pentameter",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-137",
+  "pick": "Old English",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-138",
+  "pick": "Grendel",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-139",
+  "pick": "Henrik Ibsen",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-140",
+  "pick": "Oscar Wilde",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-141",
+  "pick": "George Bernard Shaw",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-142",
+  "pick": "Arthur Miller",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-143",
+  "pick": "Tennessee Williams",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-144",
+  "pick": "Thornton Wilder",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-145",
+  "pick": "Samuel Beckett",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-146",
+  "pick": "Anton Chekhov",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-147",
+  "pick": "Sophocles",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-148",
+  "pick": "Euripides",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-149",
+  "pick": "Molière",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-150",
+  "pick": "Johann Wolfgang von Goethe",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-151",
+  "pick": "Ithaca",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-152",
+  "pick": "Odysseus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-153",
+  "pick": "Polyphemus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-154",
+  "pick": "Achilles",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-155",
+  "pick": "Achilles",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-156",
+  "pick": "Paris",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-157",
+  "pick": "Troy",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-158",
+  "pick": "Dido",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-159",
+  "pick": "Penelope",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-160",
+  "pick": "Circe",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-161",
+  "pick": "Theseus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-162",
+  "pick": "Perseus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-163",
+  "pick": "Argo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-164",
+  "pick": "Atlas",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-165",
+  "pick": "Prometheus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-166",
+  "pick": "Poseidon",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-167",
+  "pick": "Jupiter",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-168",
+  "pick": "Venus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-169",
+  "pick": "Cerberus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-170",
+  "pick": "Medusa",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-171",
+  "pick": "Thor",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-172",
+  "pick": "Odin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-173",
+  "pick": "Loki",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-174",
+  "pick": "Yggdrasil",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-175",
+  "pick": "Bifröst",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-176",
+  "pick": "The doom of the gods",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-177",
+  "pick": "Mesopotamia",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-178",
+  "pick": "Mahabharata",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-179",
+  "pick": "Ramayana",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-180",
+  "pick": "Ravana",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-181",
+  "pick": "Hanuman",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-182",
+  "pick": "Scheherazade",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-183",
+  "pick": "Ali Baba and the Forty Thieves",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-184",
+  "pick": "The tortoise",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-185",
+  "pick": "The Brothers Grimm",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-186",
+  "pick": "Hans Christian Andersen",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-187",
+  "pick": "Denmark",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-188",
+  "pick": "Carlo Collodi",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-189",
+  "pick": "Charles Perrault",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-190",
+  "pick": "Johanna Spyri",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-191",
+  "pick": "Astrid Lindgren",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-192",
+  "pick": "Tove Jansson",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-193",
+  "pick": "Michael Ende",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-194",
+  "pick": "Anna Sewell",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-195",
+  "pick": "Frances Hodgson Burnett",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-196",
+  "pick": "Madeleine L'Engle",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-197",
+  "pick": "Lois Lowry",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-198",
+  "pick": "Norton Juster",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-199",
+  "pick": "Eric Carle",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-200",
+  "pick": "Alexander Pushkin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-201",
+  "pick": "Nikolai Gogol",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-202",
+  "pick": "Mikhail Bulgakov",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-203",
+  "pick": "Boris Pasternak",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-204",
+  "pick": "Aleksandr Solzhenitsyn",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-205",
+  "pick": "Ivan Turgenev",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-206",
+  "pick": "Albert Camus",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-207",
+  "pick": "Marcel Proust",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-208",
+  "pick": "Gustave Flaubert",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-209",
+  "pick": "Voltaire",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-210",
+  "pick": "Stendhal",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-211",
+  "pick": "Émile Zola",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-212",
+  "pick": "Charles Baudelaire",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-213",
+  "pick": "Around the World in Eighty Days",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-214",
+  "pick": "Gaston Leroux",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-215",
+  "pick": "Franz Kafka",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-216",
+  "pick": "Hermann Hesse",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-217",
+  "pick": "Thomas Mann",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-218",
+  "pick": "Erich Maria Remarque",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-219",
+  "pick": "Günter Grass",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-220",
+  "pick": "Friedrich Schiller",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-221",
+  "pick": "Juan Rulfo",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-222",
+  "pick": "Isabel Allende",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-223",
+  "pick": "Jorge Luis Borges",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-224",
+  "pick": "Julio Cortázar",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-225",
+  "pick": "Laura Esquivel",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-226",
+  "pick": "Paulo Coelho",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-227",
+  "pick": "Machado de Assis",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-228",
+  "pick": "Spanish",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-229",
+  "pick": "Federico García Lorca",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-230",
+  "pick": "Giovanni Boccaccio",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-231",
+  "pick": "Niccolò Machiavelli",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-232",
+  "pick": "Umberto Eco",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-233",
+  "pick": "Italo Calvino",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-234",
+  "pick": "Laura",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-235",
+  "pick": "Murasaki Shikibu",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-236",
+  "pick": "Sei Shōnagon",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-237",
+  "pick": "Natsume Sōseki",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-238",
+  "pick": "Ryūnosuke Akutagawa",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-239",
+  "pick": "Haruki Murakami",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-240",
+  "pick": "Yasunari Kawabata",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-241",
+  "pick": "Sun Wukong",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-242",
+  "pick": "Han",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-243",
+  "pick": "Lu Xun",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-244",
+  "pick": "Mo Yan",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-245",
+  "pick": "Li Bai",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-246",
+  "pick": "Chinua Achebe",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-247",
+  "pick": "Nigeria",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-248",
+  "pick": "Wole Soyinka",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-249",
+  "pick": "Alan Paton",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-250",
+  "pick": "Chimamanda Ngozi Adichie",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-251",
+  "pick": "Naguib Mahfouz",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-252",
+  "pick": "Kahlil Gibran",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-253",
+  "pick": "Adam Mickiewicz",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-254",
+  "pick": "Jaroslav Hašek",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-255",
+  "pick": "Karel Čapek",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-256",
+  "pick": "Milan Kundera",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-257",
+  "pick": "Nikos Kazantzakis",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-258",
+  "pick": "Jostein Gaarder",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-259",
+  "pick": "Cinderella",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-260",
+  "pick": "Snow White",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-261",
+  "pick": "Rapunzel",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-262",
+  "pick": "Her grandmother",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-263",
+  "pick": "Seven",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-264",
+  "pick": "Romeo and Juliet",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-265",
+  "pick": "Baker Street",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-266",
+  "pick": "A brain",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-267",
+  "pick": "Yellow bricks",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-268",
+  "pick": "The Grinch",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-269",
+  "pick": "A white whale",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-270",
+  "pick": "Sherwood Forest",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-271",
+  "pick": "King Arthur",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-272",
+  "pick": "Merlin",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-273",
+  "pick": "Treasure Island",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-274",
+  "pick": "Tom Sawyer",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-275",
+  "pick": "Simile",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-276",
+  "pick": "An epic",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-277",
+  "pick": "Onomatopoeia",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-278",
+  "pick": "A Christmas Carol",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-279",
+  "pick": "Excalibur",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-280",
+  "pick": "Mark Twain",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-281",
+  "pick": "George Orwell",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-282",
+  "pick": "The Brontës",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-283",
+  "pick": "George Eliot",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-284",
+  "pick": "William Faulkner",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-285",
+  "pick": "Ralph Ellison",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-286",
+  "pick": "Joseph Heller",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-287",
+  "pick": "William Golding",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-288",
+  "pick": "Aldous Huxley",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-289",
+  "pick": "Virginia Woolf",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-290",
+  "pick": "James Joyce",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-291",
+  "pick": "Joseph Conrad",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-292",
+  "pick": "Thomas Hardy",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-293",
+  "pick": "George Eliot",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-294",
+  "pick": "Jack London",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-295",
+  "pick": "Ishmael",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-296",
+  "pick": "Jim",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-297",
+  "pick": "17th century",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-298",
+  "pick": "19th century",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-299",
+  "pick": "14th century",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "lit-300",
+  "pick": "Daphne du Maurier",
+  "confidence": "high",
+  "problem": null
+ }
+]
