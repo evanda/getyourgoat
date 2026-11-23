@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-007",
-     "prompt": "Which Eleatic philosopher also commanded the Samian fleet against Athens?",
+     "id": "hard-tech-231",
+     "prompt": "Which American patented the lockstitch sewing machine in 1846?",
      "choices": [
-      "Zeno of Elea",
-      "Parmenides",
-      "Xenophanes",
-      "Melissus"
+      "Elias Howe",
+      "Isaac Singer",
+      "Allen Wilson",
+      "Walter Hunt"
      ],
-     "answer": "Melissus",
+     "answer": "Elias Howe",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-248",
-     "prompt": "Which work by al-Ghazali is titled The Revival of the Religious Sciences?",
+     "id": "hard-tech-057",
+     "prompt": "Which Cornish engineer ran a high-pressure steam locomotive on rails at Penydarren in 1804?",
      "choices": [
-      "Maqasid al-Falasifa",
-      "Mishkat al-Anwar",
-      "Ihya Ulum al-Din",
-      "Tahafut al-Falasifa"
+      "George Stephenson",
+      "William Murdoch",
+      "Richard Trevithick",
+      "Timothy Hackworth"
      ],
-     "answer": "Ihya Ulum al-Din",
-     "difficulty": "hard"
+     "answer": "Richard Trevithick",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-195",
-     "prompt": "Which Vienna Circle founder was killed by a student in 1936?",
+     "id": "hard-tech-104",
+     "prompt": "Which engineer rebuilt Eddystone Lighthouse in 1759 using dovetailed granite blocks?",
      "choices": [
-      "Moritz Schlick",
-      "Rudolf Carnap",
-      "Otto Neurath",
-      "Hans Hahn"
+      "Isambard Brunel",
+      "John Smeaton",
+      "Thomas Telford",
+      "Robert Stevenson"
      ],
-     "answer": "Moritz Schlick",
+     "answer": "John Smeaton",
      "difficulty": "medium"
     }
    ]

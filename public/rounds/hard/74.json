@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-013",
-     "prompt": "Which Plato dialogue asks whether the pious is loved by the gods because it is pious?",
+     "id": "hard-tech-226",
+     "prompt": "Which blacksmith introduced the self-scouring steel plow in 1837?",
      "choices": [
-      "Meno",
-      "Laches",
-      "Euthyphro",
-      "Crito"
+      "Eli Whitney",
+      "Jethro Tull",
+      "John Deere",
+      "Cyrus McCormick"
      ],
-     "answer": "Euthyphro",
-     "difficulty": "easy"
+     "answer": "John Deere",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-103",
-     "prompt": "Which Latin phrase for 'God or Nature' is tied to Spinoza?",
+     "id": "hard-tech-276",
+     "prompt": "Which Danish astronomer built the Uraniborg observatory on the island of Hven?",
      "choices": [
-      "Natura naturans",
-      "Sub specie aeternitatis",
-      "Causa sui",
-      "Deus sive Natura"
+      "Ole Roemer",
+      "Johannes Kepler",
+      "Tycho Brahe",
+      "Niels Bohr"
      ],
-     "answer": "Deus sive Natura",
-     "difficulty": "easy"
+     "answer": "Tycho Brahe",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-281",
-     "prompt": "In the Mu koan, which master replies 'Mu' about a dog's Buddha-nature?",
+     "id": "hard-tech-029",
+     "prompt": "What was the Inca road network called?",
      "choices": [
-      "Linji",
-      "Dogen",
-      "Hakuin",
-      "Zhaozhou"
+      "Qhapaq Nan",
+      "Tambo",
+      "Sacbe",
+      "Chasqui"
      ],
-     "answer": "Zhaozhou",
+     "answer": "Qhapaq Nan",
      "difficulty": "hard"
     }
    ]

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-217",
-     "prompt": "Which view says mental states are by-products with no causal effect?",
+     "id": "hard-tech-216",
+     "prompt": "Which American devised the punched-card tabulator for the 1890 US census?",
      "choices": [
-      "Panpsychism",
-      "Functionalism",
-      "Occasionalism",
-      "Epiphenomenalism"
+      "Thomas Watson",
+      "Herman Hollerith",
+      "Charles Babbage",
+      "James Powers"
      ],
-     "answer": "Epiphenomenalism",
+     "answer": "Herman Hollerith",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-303",
-     "prompt": "Whom does Uddalaka teach 'tat tvam asi' in the Chandogya Upanishad?",
+     "id": "hard-tech-227",
+     "prompt": "Which American developed quick-freezing of food in the 1920s?",
      "choices": [
-      "Yajnavalkya",
-      "Shvetaketu",
-      "Janaka",
-      "Nachiketa"
+      "Henry Heinz",
+      "Willis Carrier",
+      "Gail Borden",
+      "Clarence Birdseye"
      ],
-     "answer": "Shvetaketu",
-     "difficulty": "hard"
+     "answer": "Clarence Birdseye",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-121",
-     "prompt": "Which work by Adam Smith introduces the impartial spectator?",
+     "id": "hard-tech-003",
+     "prompt": "Which Greek engineer of 3rd-century BC Alexandria built the first water organ, the hydraulis?",
      "choices": [
-      "The Theory of Moral Sentiments",
-      "Lectures on Jurisprudence",
-      "Essays on Philosophical Subjects",
-      "The Wealth of Nations"
+      "Vitruvius",
+      "Ctesibius",
+      "Hero of Alexandria",
+      "Archimedes"
      ],
-     "answer": "The Theory of Moral Sentiments",
-     "difficulty": "medium"
+     "answer": "Ctesibius",
+     "difficulty": "hard"
     }
    ]
   }

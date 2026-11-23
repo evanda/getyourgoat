@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-289",
-     "prompt": "Which Chinese tradition stresses harmony with nature and the Way?",
+     "id": "tech-128",
+     "prompt": "Which country built the Global Positioning System?",
      "choices": [
-      "Daoism",
-      "Legalism",
-      "Confucianism",
-      "Mohism"
+      "Russia",
+      "France",
+      "United States",
+      "Japan"
      ],
-     "answer": "Daoism",
+     "answer": "United States",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-210",
+     "prompt": "Josephine Cochrane invented an early commercial what in the 1880s?",
+     "choices": [
+      "Sewing machine",
+      "Washing machine",
+      "Dishwasher",
+      "Vacuum cleaner"
+     ],
+     "answer": "Dishwasher",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-174",
+     "prompt": "Which 1800s device sent dot-and-dash coded messages along wires?",
+     "choices": [
+      "Television",
+      "Telephone",
+      "Radio",
+      "Telegraph"
+     ],
+     "answer": "Telegraph",
      "difficulty": "easy"
-    },
-    {
-     "id": "phil-111",
-     "prompt": "Which philosopher wrote Fear and Trembling?",
-     "choices": [
-      "Kierkegaard",
-      "Nietzsche",
-      "Schopenhauer",
-      "Sartre"
-     ],
-     "answer": "Kierkegaard",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-064",
-     "prompt": "Who wrote The Incoherence of the Philosophers?",
-     "choices": [
-      "Al-Ghazali",
-      "Avicenna",
-      "Averroes",
-      "Ibn Khaldun"
-     ],
-     "answer": "Al-Ghazali",
-     "difficulty": "medium"
     }
    ]
   }

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-083",
-     "prompt": "Which fourteenth-century Paris master developed an impetus theory of motion?",
+     "id": "hard-tech-152",
+     "prompt": "Which undertaker invented the automatic telephone exchange in 1891?",
      "choices": [
-      "William of Ockham",
-      "Jean Buridan",
-      "Nicole Oresme",
-      "Albert of Saxony"
+      "Elisha Gray",
+      "Alexander Bell",
+      "Almon Strowger",
+      "Emile Berliner"
      ],
-     "answer": "Jean Buridan",
+     "answer": "Almon Strowger",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-169",
+     "prompt": "Which Dutch physiologist built the string galvanometer for early ECG recordings?",
+     "choices": [
+      "Willem Kolff",
+      "Hermann Helmholtz",
+      "Willem Einthoven",
+      "Christiaan Barnard"
+     ],
+     "answer": "Willem Einthoven",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-192",
-     "prompt": "Which philosopher offered 'Here is a hand' as a proof of the external world?",
+     "id": "hard-tech-313",
+     "prompt": "Which Ohio saloonkeeper invented the cash register in 1879?",
      "choices": [
-      "J. L. Austin",
-      "A. J. Ayer",
-      "Bertrand Russell",
-      "G. E. Moore"
+      "John Patterson",
+      "Herman Hollerith",
+      "James Ritty",
+      "Charles Kettering"
      ],
-     "answer": "G. E. Moore",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-019",
-     "prompt": "Which Plato dialogue seeks a definition of temperance, or sophrosyne?",
-     "choices": [
-      "Euthyphro",
-      "Charmides",
-      "Lysis",
-      "Laches"
-     ],
-     "answer": "Charmides",
+     "answer": "James Ritty",
      "difficulty": "hard"
     }
    ]

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-038",
-     "prompt": "Seneca's Letters to Lucilius belong to which school?",
+     "id": "tech-035",
+     "prompt": "What was a medieval siege tower used for?",
      "choices": [
-      "Stoicism",
-      "Epicureanism",
-      "Cynicism",
-      "Skepticism"
+      "Spotting ships",
+      "Storing grain",
+      "Getting soldiers over walls",
+      "Grinding flour"
      ],
-     "answer": "Stoicism",
+     "answer": "Getting soldiers over walls",
      "difficulty": "medium"
     },
     {
-     "id": "phil-288",
-     "prompt": "Who wrote Philosophical Investigations?",
+     "id": "tech-019",
+     "prompt": "Which country is famous for windmills that drained low-lying land?",
      "choices": [
-      "Ludwig Wittgenstein",
-      "Bertrand Russell",
-      "A. J. Ayer",
-      "Rudolf Carnap"
+      "Switzerland",
+      "Netherlands",
+      "Egypt",
+      "Spain"
      ],
-     "answer": "Ludwig Wittgenstein",
-     "difficulty": "medium"
+     "answer": "Netherlands",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-053",
-     "prompt": "Daoist wu wei is often rendered as what?",
+     "id": "tech-176",
+     "prompt": "Whose 1876 patent is the best-known US telephone patent?",
      "choices": [
-      "Effortless action",
-      "Strict duty",
-      "Quiet prayer",
-      "Careful study"
+      "Samuel Morse",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Elisha Gray"
      ],
-     "answer": "Effortless action",
-     "difficulty": "hard"
+     "answer": "Alexander Graham Bell",
+     "difficulty": "medium"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-271",
-     "prompt": "Which pupil of Xunzi became chancellor of Qin?",
+     "id": "hard-tech-281",
+     "prompt": "Which German physicist generated and detected radio waves in the lab in 1887?",
      "choices": [
-      "Li Si",
-      "Han Feizi",
-      "Shang Yang",
-      "Lu Buwei"
+      "Heinrich Hertz",
+      "James Clerk Maxwell",
+      "Oliver Lodge",
+      "Guglielmo Marconi"
      ],
-     "answer": "Li Si",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-037",
-     "prompt": "Which Stoic, friend of Scipio Aemilianus, helped bring Stoicism to Rome?",
-     "choices": [
-      "Panaetius",
-      "Cleanthes",
-      "Chrysippus",
-      "Epictetus"
-     ],
-     "answer": "Panaetius",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-180",
-     "prompt": "Which Sartrean term names self-deception about one's freedom?",
-     "choices": [
-      "Bad faith",
-      "Facticity",
-      "Nothingness",
-      "Anguish"
-     ],
-     "answer": "Bad faith",
+     "answer": "Heinrich Hertz",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-242",
+     "prompt": "Which architect engineered the dome of Florence Cathedral, completed in 1436?",
+     "choices": [
+      "Michelozzo",
+      "Leon Battista Alberti",
+      "Filippo Brunelleschi",
+      "Donato Bramante"
+     ],
+     "answer": "Filippo Brunelleschi",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-072",
+     "prompt": "The world's first major cast-iron bridge, opened 1779, spans which river?",
+     "choices": [
+      "Thames",
+      "Trent",
+      "Tyne",
+      "Severn"
+     ],
+     "answer": "Severn",
+     "difficulty": "medium"
     }
    ]
   }

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-142",
-     "prompt": "Who named the hard problem of consciousness?",
+     "id": "tech-123",
+     "prompt": "What is the New York underground railway system commonly called?",
      "choices": [
-      "David Chalmers",
-      "John Searle",
-      "Daniel Dennett",
-      "Thomas Nagel"
+      "The tram",
+      "The metro",
+      "The tube",
+      "The subway"
      ],
-     "answer": "David Chalmers",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-239",
-     "prompt": "In what language did Nietzsche write?",
-     "choices": [
-      "German",
-      "French",
-      "Latin",
-      "Dutch"
-     ],
-     "answer": "German",
+     "answer": "The subway",
      "difficulty": "easy"
     },
     {
-     "id": "phil-228",
-     "prompt": "Most of Plato's works are written in what form?",
+     "id": "tech-046",
+     "prompt": "What did the printing press make cheaper and more widespread?",
      "choices": [
-      "Dialogues",
-      "Letters",
-      "Poems",
-      "Plays"
+      "Clothing",
+      "Medicine",
+      "Weapons",
+      "Books"
      ],
-     "answer": "Dialogues",
+     "answer": "Books",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-302",
+     "prompt": "USB stands for Universal Serial what?",
+     "choices": [
+      "Bus",
+      "Binary",
+      "Base",
+      "Band"
+     ],
+     "answer": "Bus",
      "difficulty": "easy"
     }
    ]

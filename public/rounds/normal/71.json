@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-081",
-     "prompt": "Who wrote the Ethics, set out in geometric style?",
+     "id": "tech-047",
+     "prompt": "The Roman Barbegal complex in France was a large ancient what?",
      "choices": [
-      "Spinoza",
-      "Leibniz",
-      "Descartes",
-      "Hobbes"
+      "Watermill grain-grinding site",
+      "Iron smelter",
+      "Aqueduct pump",
+      "Glassworks"
      ],
-     "answer": "Spinoza",
+     "answer": "Watermill grain-grinding site",
+     "difficulty": "hard"
+    },
+    {
+     "id": "tech-272",
+     "prompt": "A barcode is read by a scanner using what?",
+     "choices": [
+      "Sound",
+      "Radio waves",
+      "Reflected light",
+      "Magnetic ink"
+     ],
+     "answer": "Reflected light",
      "difficulty": "easy"
     },
     {
-     "id": "phil-130",
-     "prompt": "Who co-wrote Principia Mathematica with Alfred North Whitehead?",
+     "id": "tech-171",
+     "prompt": "Most Edison-style bulbs glow when current heats what?",
      "choices": [
-      "Bertrand Russell",
-      "G. E. Moore",
-      "Wittgenstein",
-      "Gottlob Frege"
+      "A neon gas",
+      "A magnet",
+      "A diode",
+      "A thin filament"
      ],
-     "answer": "Bertrand Russell",
+     "answer": "A thin filament",
      "difficulty": "medium"
-    },
-    {
-     "id": "phil-284",
-     "prompt": "In Plato's Timaeus, what is the divine craftsman called?",
-     "choices": [
-      "The Demiurge",
-      "The Unmoved Mover",
-      "The One",
-      "The Logos"
-     ],
-     "answer": "The Demiurge",
-     "difficulty": "hard"
     }
    ]
   }

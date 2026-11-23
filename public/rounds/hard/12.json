@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-306",
-     "prompt": "Which Theravada scholar wrote the Visuddhimagga?",
+     "id": "hard-tech-225",
+     "prompt": "Which American patented a mechanical grain reaper in 1834?",
      "choices": [
-      "Nagasena",
-      "Dharmakirti",
-      "Asanga",
-      "Buddhaghosa"
+      "Obed Hussey",
+      "Cyrus McCormick",
+      "Eli Whitney",
+      "John Deere"
      ],
-     "answer": "Buddhaghosa",
+     "answer": "Cyrus McCormick",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-061",
+     "prompt": "Who invented the spinning jenny around 1764?",
+     "choices": [
+      "James Hargreaves",
+      "John Kay",
+      "Samuel Crompton",
+      "Richard Arkwright"
+     ],
+     "answer": "James Hargreaves",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-245",
+     "prompt": "Which Hungarian engineer cast the giant cannon used at Constantinople in 1453?",
+     "choices": [
+      "Taqi al-Din",
+      "Mimar Sinan",
+      "Hunyadi",
+      "Orban"
+     ],
+     "answer": "Orban",
      "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-078",
-     "prompt": "Which twelfth-century theologian's Sentences became the standard university textbook?",
-     "choices": [
-      "Hugh of Saint Victor",
-      "Peter Abelard",
-      "Gratian",
-      "Peter Lombard"
-     ],
-     "answer": "Peter Lombard",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-176",
-     "prompt": "Which French thinker wrote Gravity and Grace?",
-     "choices": [
-      "Iris Murdoch",
-      "Edith Stein",
-      "Simone Weil",
-      "Simone de Beauvoir"
-     ],
-     "answer": "Simone Weil",
-     "difficulty": "medium"
     }
    ]
   }

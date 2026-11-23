@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-236",
-     "prompt": "Thomas Aquinas was born in which country?",
+     "id": "tech-079",
+     "prompt": "Which ocean liner sank on its 1912 maiden voyage?",
      "choices": [
-      "Italy",
-      "France",
-      "Germany",
-      "Spain"
+      "Queen Mary",
+      "Titanic",
+      "Bismarck",
+      "Lusitania"
      ],
-     "answer": "Italy",
+     "answer": "Titanic",
      "difficulty": "easy"
     },
     {
-     "id": "phil-012",
-     "prompt": "Seneca was the tutor of which Roman emperor?",
+     "id": "tech-262",
+     "prompt": "A transistor mainly acts as a tiny what?",
      "choices": [
-      "Nero",
-      "Augustus",
-      "Trajan",
-      "Hadrian"
+      "Capacitor bank",
+      "Battery",
+      "Antenna",
+      "Electronic switch or amplifier"
      ],
-     "answer": "Nero",
+     "answer": "Electronic switch or amplifier",
      "difficulty": "medium"
     },
     {
-     "id": "phil-177",
-     "prompt": "What is the term for an argument attacking the person instead of the claim?",
+     "id": "tech-205",
+     "prompt": "Which Swedish-American engineer made the zipper practical around 1913?",
      "choices": [
-      "Ad hominem",
-      "Straw man",
-      "Slippery slope",
-      "Red herring"
+      "Gideon Sundback",
+      "Walter Hunt",
+      "Whitcomb Judson",
+      "Elias Howe"
      ],
-     "answer": "Ad hominem",
-     "difficulty": "easy"
+     "answer": "Gideon Sundback",
+     "difficulty": "hard"
     }
    ]
   }

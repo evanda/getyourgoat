@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-225",
-     "prompt": "The Greek word logos can mean what?",
+     "id": "tech-203",
+     "prompt": "Which company invented the Post-it note?",
      "choices": [
-      "Word or reason",
-      "Fire",
-      "Soul",
-      "Citizen"
+      "Kodak",
+      "Xerox",
+      "3M",
+      "IBM"
      ],
-     "answer": "Word or reason",
+     "answer": "3M",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-175",
+     "prompt": "Which decade saw the first lasting transatlantic telegraph cable?",
+     "choices": [
+      "1930s",
+      "1860s",
+      "1900s",
+      "1830s"
+     ],
+     "answer": "1860s",
      "difficulty": "medium"
     },
     {
-     "id": "phil-037",
-     "prompt": "Which author recorded Epictetus's Discourses?",
+     "id": "tech-017",
+     "prompt": "What powered early European mechanical clocks?",
      "choices": [
-      "Arrian",
-      "Xenophon",
-      "Plutarch",
-      "Lucian"
+      "Falling weights",
+      "Water jets",
+      "Electric motors",
+      "Steam"
      ],
-     "answer": "Arrian",
+     "answer": "Falling weights",
      "difficulty": "hard"
-    },
-    {
-     "id": "phil-133",
-     "prompt": "Who wrote The Structure of Scientific Revolutions?",
-     "choices": [
-      "Thomas Kuhn",
-      "Karl Popper",
-      "Imre Lakatos",
-      "Paul Feyerabend"
-     ],
-     "answer": "Thomas Kuhn",
-     "difficulty": "medium"
     }
    ]
   }

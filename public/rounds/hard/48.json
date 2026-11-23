@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-084",
-     "prompt": "Which pope did William of Ockham oppose in the poverty dispute?",
+     "id": "hard-tech-067",
+     "prompt": "What does the Bessemer process blow through molten pig iron to make steel?",
      "choices": [
-      "Clement V",
-      "Boniface VIII",
-      "John XXII",
-      "Innocent III"
+      "Hydrogen",
+      "Carbon dioxide",
+      "Air",
+      "Steam"
      ],
-     "answer": "John XXII",
-     "difficulty": "hard"
+     "answer": "Air",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-094",
-     "prompt": "Which Dutch jurist wrote On the Law of War and Peace?",
+     "id": "hard-tech-212",
+     "prompt": "Which IBM computer beat Garry Kasparov in a 1997 chess match?",
      "choices": [
-      "Jean Bodin",
-      "Hugo Grotius",
-      "Francisco Suarez",
-      "Samuel Pufendorf"
+      "Blue Gene",
+      "Big Blue",
+      "Deep Blue",
+      "Watson"
      ],
-     "answer": "Hugo Grotius",
+     "answer": "Deep Blue",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-066",
-     "prompt": "Which Neoplatonist stressed theurgy, or ritual action, as the soul's path upward?",
+     "id": "hard-tech-021",
+     "prompt": "Whose Book of Optics, written around 1021, analyzed the camera obscura?",
      "choices": [
-      "Damascius",
-      "Iamblichus",
-      "Porphyry",
-      "Plotinus"
+      "Al-Khwarizmi",
+      "Ibn al-Haytham",
+      "Al-Razi",
+      "Avicenna"
      ],
-     "answer": "Iamblichus",
-     "difficulty": "hard"
+     "answer": "Ibn al-Haytham",
+     "difficulty": "medium"
     }
    ]
   }

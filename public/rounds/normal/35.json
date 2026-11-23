@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-115",
-     "prompt": "Who wrote On Liberty and set out the harm principle?",
+     "id": "tech-279",
+     "prompt": "Which US Navy admiral helped create the COBOL language?",
      "choices": [
-      "John Stuart Mill",
-      "Jeremy Bentham",
-      "John Locke",
-      "Herbert Spencer"
+      "Ada Lovelace",
+      "Hedy Lamarr",
+      "Margaret Hamilton",
+      "Grace Hopper"
      ],
-     "answer": "John Stuart Mill",
+     "answer": "Grace Hopper",
+     "difficulty": "hard"
+    },
+    {
+     "id": "tech-281",
+     "prompt": "At which European research lab did Tim Berners-Lee invent the Web?",
+     "choices": [
+      "ESA",
+      "Cambridge Labs",
+      "NASA",
+      "CERN"
+     ],
+     "answer": "CERN",
      "difficulty": "medium"
     },
     {
-     "id": "phil-295",
-     "prompt": "In an argument, a claim offered as support is called a what?",
+     "id": "tech-143",
+     "prompt": "Edison's famed research lab was in which New Jersey town?",
      "choices": [
-      "Premise",
-      "Fallacy",
-      "Paradox",
-      "Dogma"
+      "Menlo Park",
+      "Newark",
+      "Trenton",
+      "Princeton"
      ],
-     "answer": "Premise",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-090",
-     "prompt": "Which philosopher imagined a deceiving evil demon?",
-     "choices": [
-      "Descartes",
-      "Hume",
-      "Berkeley",
-      "Locke"
-     ],
-     "answer": "Descartes",
+     "answer": "Menlo Park",
      "difficulty": "medium"
     }
    ]

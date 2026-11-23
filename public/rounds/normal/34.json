@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-092",
-     "prompt": "Who wrote The Social Contract?",
+     "id": "tech-304",
+     "prompt": "In a computer, RAM is what kind of memory?",
      "choices": [
-      "Rousseau",
-      "Voltaire",
-      "Diderot",
-      "Montesquieu"
+      "Short-term working memory",
+      "Permanent storage",
+      "Sound memory",
+      "Display memory"
      ],
-     "answer": "Rousseau",
+     "answer": "Short-term working memory",
      "difficulty": "easy"
     },
     {
-     "id": "phil-150",
-     "prompt": "Who wrote What Is Property? and said property is theft?",
+     "id": "tech-112",
+     "prompt": "Who launched the first liquid-fuelled rocket in 1926?",
      "choices": [
-      "Pierre-Joseph Proudhon",
-      "Mikhail Bakunin",
-      "Karl Marx",
-      "Peter Kropotkin"
+      "Konstantin Tsiolkovsky",
+      "Robert Goddard",
+      "Wernher von Braun",
+      "Hermann Oberth"
      ],
-     "answer": "Pierre-Joseph Proudhon",
-     "difficulty": "medium"
+     "answer": "Robert Goddard",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-154",
-     "prompt": "Who wrote I and Thou?",
+     "id": "tech-103",
+     "prompt": "Which Russian-American built the first mass-produced helicopter in the 1940s?",
      "choices": [
-      "Martin Buber",
-      "Emmanuel Levinas",
-      "Franz Rosenzweig",
-      "Hannah Arendt"
+      "Frank Whittle",
+      "Anthony Fokker",
+      "Orville Wright",
+      "Igor Sikorsky"
      ],
-     "answer": "Martin Buber",
-     "difficulty": "hard"
+     "answer": "Igor Sikorsky",
+     "difficulty": "easy"
     }
    ]
   }

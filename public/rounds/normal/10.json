@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-207",
-     "prompt": "In Indian thought, samsara is what?",
+     "id": "tech-114",
+     "prompt": "Which agency operated the Space Shuttle?",
      "choices": [
-      "The cycle of rebirth",
-      "A holy book",
-      "A kind of yoga",
-      "A festival"
+      "NASA",
+      "JAXA",
+      "Roscosmos",
+      "ESA"
      ],
-     "answer": "The cycle of rebirth",
+     "answer": "NASA",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-077",
+     "prompt": "Which engineer designed the iron steamship SS Great Britain?",
+     "choices": [
+      "George Stephenson",
+      "Joseph Bazalgette",
+      "Isambard Kingdom Brunel",
+      "Thomas Telford"
+     ],
+     "answer": "Isambard Kingdom Brunel",
      "difficulty": "medium"
     },
     {
-     "id": "phil-062",
-     "prompt": "Who wrote The Canon of Medicine and The Book of Healing?",
+     "id": "tech-052",
+     "prompt": "In which century did steam engines begin powering factories in Britain?",
      "choices": [
-      "Avicenna",
-      "Averroes",
-      "Al-Farabi",
-      "Al-Kindi"
+      "15th century",
+      "20th century",
+      "12th century",
+      "18th century"
      ],
-     "answer": "Avicenna",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-265",
-     "prompt": "Which outlook stresses human reason and human worth?",
-     "choices": [
-      "Humanism",
-      "Fatalism",
-      "Mysticism",
-      "Asceticism"
-     ],
-     "answer": "Humanism",
+     "answer": "18th century",
      "difficulty": "easy"
     }
    ]

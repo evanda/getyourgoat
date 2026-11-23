@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-047",
-     "prompt": "Which Chinese thinker dreamed he was a butterfly?",
+     "id": "tech-013",
+     "prompt": "Which ancient people built the Pantheon's huge concrete dome?",
      "choices": [
-      "Zhuangzi",
-      "Laozi",
-      "Mencius",
-      "Xunzi"
+      "Persians",
+      "Egyptians",
+      "Romans",
+      "Greeks"
      ],
-     "answer": "Zhuangzi",
+     "answer": "Romans",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-111",
+     "prompt": "Which rocket carried Apollo astronauts toward the Moon?",
+     "choices": [
+      "Falcon 9",
+      "Atlas",
+      "Saturn V",
+      "Ariane 5"
+     ],
+     "answer": "Saturn V",
      "difficulty": "medium"
     },
     {
-     "id": "phil-141",
-     "prompt": "Which philosopher proposed the Chinese Room argument?",
+     "id": "tech-053",
+     "prompt": "Which weaving device, patented by John Kay in 1733, sped up cloth making?",
      "choices": [
-      "John Searle",
-      "Alan Turing",
-      "Daniel Dennett",
-      "David Chalmers"
+      "Water frame",
+      "Flying shuttle",
+      "Power loom",
+      "Spinning jenny"
      ],
-     "answer": "John Searle",
+     "answer": "Flying shuttle",
      "difficulty": "medium"
-    },
-    {
-     "id": "phil-067",
-     "prompt": "Which Muslim thinker was called the Second Teacher after Aristotle?",
-     "choices": [
-      "Al-Farabi",
-      "Avicenna",
-      "Al-Kindi",
-      "Averroes"
-     ],
-     "answer": "Al-Farabi",
-     "difficulty": "hard"
     }
    ]
   }

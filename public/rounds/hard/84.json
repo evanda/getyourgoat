@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-268",
-     "prompt": "Which School of Names thinker wrote the 'White Horse' dialogue?",
+     "id": "hard-tech-144",
+     "prompt": "Which Frenchman built an optical semaphore telegraph network in the 1790s?",
      "choices": [
-      "Han Feizi",
-      "Shen Dao",
-      "Hui Shi",
-      "Gongsun Long"
+      "Louis Daguerre",
+      "Joseph Niepce",
+      "Andre Ampere",
+      "Claude Chappe"
      ],
-     "answer": "Gongsun Long",
+     "answer": "Claude Chappe",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-293",
-     "prompt": "Which Joseon Neo-Confucian debated the Four-Seven question with Gi Daeseung?",
+     "id": "hard-tech-224",
+     "prompt": "Which module, launched in 1998, was the first piece of the International Space Station?",
      "choices": [
-      "Jo Gwangjo",
-      "Yi Hwang",
-      "Yi I",
-      "Jeong Yakyong"
+      "Zarya",
+      "Zvezda",
+      "Destiny",
+      "Unity"
      ],
-     "answer": "Yi Hwang",
+     "answer": "Zarya",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-269",
-     "prompt": "Which early thinker is said by Mencius to refuse to give a hair to benefit the world?",
+     "id": "hard-tech-272",
+     "prompt": "Hoover Dam impounds which river?",
      "choices": [
-      "Shen Dao",
-      "Yang Zhu",
-      "Mozi",
-      "Zou Yan"
+      "Columbia",
+      "Colorado",
+      "Rio Grande",
+      "Missouri"
      ],
-     "answer": "Yang Zhu",
-     "difficulty": "hard"
+     "answer": "Colorado",
+     "difficulty": "easy"
     }
    ]
   }

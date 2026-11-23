@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-246",
-     "prompt": "Which Sufi thinker wrote the Bezels of Wisdom and taught the unity of being?",
+     "id": "hard-tech-266",
+     "prompt": "Which Dutch inventor tested a rowed submarine on the Thames in the 1620s?",
      "choices": [
-      "Ibn Arabi",
-      "Rumi",
-      "Al-Ghazali",
-      "Al-Hallaj"
+      "Jan Leeghwater",
+      "Cornelis Drebbel",
+      "Christiaan Huygens",
+      "Simon Stevin"
      ],
-     "answer": "Ibn Arabi",
+     "answer": "Cornelis Drebbel",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-150",
-     "prompt": "Which British idealist wrote Appearance and Reality?",
+     "id": "hard-tech-108",
+     "prompt": "Which gardener-turned-architect designed the 1851 Crystal Palace?",
      "choices": [
-      "T. H. Green",
-      "F. H. Bradley",
-      "J. M. E. McTaggart",
-      "Bernard Bosanquet"
+      "Owen Jones",
+      "Isambard Brunel",
+      "Joseph Paxton",
+      "Charles Barry"
      ],
-     "answer": "F. H. Bradley",
+     "answer": "Joseph Paxton",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-234",
-     "prompt": "Which philosopher was called 'the philosopher of the Arabs'?",
+     "id": "hard-tech-314",
+     "prompt": "Which American woman devised a machine for making flat-bottomed paper bags in 1870?",
      "choices": [
-      "Al-Kindi",
-      "Avicenna",
-      "Al-Razi",
-      "Al-Farabi"
+      "Mary Anderson",
+      "Josephine Cochrane",
+      "Margaret Knight",
+      "Hedy Lamarr"
      ],
-     "answer": "Al-Kindi",
-     "difficulty": "easy"
+     "answer": "Margaret Knight",
+     "difficulty": "hard"
     }
    ]
   }

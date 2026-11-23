@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-223",
-     "prompt": "Which paradox is the sentence This sentence is false?",
+     "id": "tech-016",
+     "prompt": "An ancient clepsydra measured time using what?",
      "choices": [
-      "Liar paradox",
-      "Sorites paradox",
-      "Barber paradox",
-      "Zeno's paradox"
+      "Flowing water",
+      "Burning oil",
+      "Falling sand",
+      "Moving shadow"
      ],
-     "answer": "Liar paradox",
+     "answer": "Flowing water",
      "difficulty": "medium"
     },
     {
-     "id": "phil-050",
-     "prompt": "Which thinker is the great figure of Chinese Legalism?",
+     "id": "tech-069",
+     "prompt": "Who invented dynamite in 1867?",
      "choices": [
-      "Han Feizi",
-      "Mozi",
-      "Mencius",
-      "Laozi"
+      "Isaac Newton",
+      "Alfred Nobel",
+      "Louis Pasteur",
+      "Ascanio Sobrero"
      ],
-     "answer": "Han Feizi",
+     "answer": "Alfred Nobel",
      "difficulty": "hard"
     },
     {
-     "id": "phil-072",
-     "prompt": "Which medieval thinker's love affair with Heloise is famous?",
+     "id": "tech-309",
+     "prompt": "Elisha Otis's 1850s safety brake made which machine safe for passengers?",
      "choices": [
-      "Peter Abelard",
-      "Anselm",
-      "Aquinas",
-      "Bonaventure"
+      "Cable car",
+      "Escalator",
+      "Elevator",
+      "Crane"
      ],
-     "answer": "Peter Abelard",
+     "answer": "Elevator",
      "difficulty": "medium"
     }
    ]

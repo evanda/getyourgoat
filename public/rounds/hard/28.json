@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-259",
-     "prompt": "Confucius was born in which state?",
+     "id": "hard-tech-205",
+     "prompt": "Which research center built the Alto computer in 1973?",
      "choices": [
-      "Chu",
-      "Qi",
-      "Wei",
-      "Lu"
+      "Xerox PARC",
+      "SRI",
+      "Bell Labs",
+      "IBM Research"
      ],
-     "answer": "Lu",
+     "answer": "Xerox PARC",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-071",
-     "prompt": "Which British monk opposed Augustine on grace and original sin?",
+     "id": "hard-tech-213",
+     "prompt": "Which company developed AlphaGo, which beat Lee Sedol in 2016?",
      "choices": [
-      "Nestorius",
-      "Donatus",
-      "Pelagius",
-      "Arius"
+      "IBM",
+      "Microsoft Research",
+      "DeepMind",
+      "OpenAI"
      ],
-     "answer": "Pelagius",
+     "answer": "DeepMind",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-188",
-     "prompt": "Which Adorno and Horkheimer book appeared in 1947 under the title Dialectic of what?",
+     "id": "hard-tech-278",
+     "prompt": "Which Dutch professor's Leiden lab produced the Leyden jar in 1745?",
      "choices": [
-      "Reason",
-      "Capitalism",
-      "Revolution",
-      "Enlightenment"
+      "Willebrord Snellius",
+      "Pieter van Musschenbroek",
+      "Herman Boerhaave",
+      "Christiaan Huygens"
      ],
-     "answer": "Enlightenment",
+     "answer": "Pieter van Musschenbroek",
      "difficulty": "medium"
     }
    ]

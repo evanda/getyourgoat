@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-103",
-     "prompt": "In which city did Kant spend nearly his whole life?",
+     "id": "tech-021",
+     "prompt": "Sailors and astronomers used an astrolabe to measure what?",
      "choices": [
-      "Konigsberg",
-      "Berlin",
-      "Vienna",
-      "Weimar"
+      "Height of stars above the horizon",
+      "Ocean depth",
+      "Wind speed",
+      "Ship weight"
      ],
-     "answer": "Konigsberg",
+     "answer": "Height of stars above the horizon",
      "difficulty": "medium"
     },
     {
-     "id": "phil-256",
-     "prompt": "Which of these thinkers was Persian?",
+     "id": "tech-254",
+     "prompt": "The Geiger counter detects what?",
      "choices": [
-      "Avicenna",
-      "Aristotle",
-      "David Hume",
-      "Immanuel Kant"
+      "Earthquakes",
+      "Wind speed",
+      "Radiation",
+      "Sound"
      ],
-     "answer": "Avicenna",
-     "difficulty": "easy"
+     "answer": "Radiation",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-022",
-     "prompt": "Which Roman statesman wrote On Duties?",
+     "id": "tech-141",
+     "prompt": "A dynamo converts what into electricity?",
      "choices": [
-      "Cicero",
-      "Seneca",
-      "Lucretius",
-      "Virgil"
+      "Heat from the sun",
+      "Chemical fuel",
+      "Sound",
+      "Motion"
      ],
-     "answer": "Cicero",
+     "answer": "Motion",
      "difficulty": "medium"
     }
    ]

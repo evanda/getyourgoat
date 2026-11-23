@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-271",
-     "prompt": "In everyday speech, an epicure is fond of what?",
+     "id": "tech-029",
+     "prompt": "Bronze is mostly copper mixed with which metal?",
      "choices": [
-      "Fine food and pleasure",
-      "Hard work",
-      "Silence",
-      "Poverty"
+      "Lead",
+      "Zinc",
+      "Silver",
+      "Tin"
      ],
-     "answer": "Fine food and pleasure",
+     "answer": "Tin",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-220",
+     "prompt": "Bakelite, from 1907, was the first fully what?",
+     "choices": [
+      "Synthetic plastic",
+      "Alloy",
+      "Glass",
+      "Fibre"
+     ],
+     "answer": "Synthetic plastic",
      "difficulty": "medium"
     },
     {
-     "id": "phil-174",
-     "prompt": "Which view holds that every event has prior causes that fix it?",
+     "id": "tech-271",
+     "prompt": "Which Japanese company invented the QR code in 1994?",
      "choices": [
-      "Determinism",
-      "Fatalism",
-      "Skepticism",
-      "Nihilism"
+      "Denso Wave",
+      "Nintendo",
+      "Sony",
+      "Toshiba"
      ],
-     "answer": "Determinism",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-224",
-     "prompt": "Which paradox asks when grains of sand become a heap?",
-     "choices": [
-      "Sorites paradox",
-      "Liar paradox",
-      "Barber paradox",
-      "Zeno's paradox"
-     ],
-     "answer": "Sorites paradox",
-     "difficulty": "medium"
+     "answer": "Denso Wave",
+     "difficulty": "hard"
     }
    ]
   }

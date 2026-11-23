@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-185",
-     "prompt": "Which Foucault concept names state power over life and populations?",
+     "id": "hard-tech-193",
+     "prompt": "Which Toshiba engineer invented flash memory in the early 1980s?",
      "choices": [
-      "Biopower",
-      "Genealogy",
-      "Heterotopia",
-      "Episteme"
+      "Fujio Masuoka",
+      "Shuji Nakamura",
+      "Masaru Ibuka",
+      "Robert Dennard"
      ],
-     "answer": "Biopower",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-277",
-     "prompt": "In Mencius, what is about to happen to the child who prompts compassion in any onlooker?",
-     "choices": [
-      "Being swept by a flood",
-      "Falling into a well",
-      "Being bitten by a snake",
-      "Walking into a fire"
-     ],
-     "answer": "Falling into a well",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-287",
-     "prompt": "Which monk founded Shingon Buddhism in Japan?",
-     "choices": [
-      "Dogen",
-      "Honen",
-      "Saicho",
-      "Kukai"
-     ],
-     "answer": "Kukai",
+     "answer": "Fujio Masuoka",
      "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-034",
+     "prompt": "What are the gently sloping underground water channels of ancient Iran called?",
+     "choices": [
+      "Ziggurats",
+      "Badgirs",
+      "Qanats",
+      "Yakhchals"
+     ],
+     "answer": "Qanats",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-102",
+     "prompt": "Which chemist's 1815 safety lamp reduced coal-mine explosions?",
+     "choices": [
+      "Michael Faraday",
+      "Joseph Priestley",
+      "John Dalton",
+      "Humphry Davy"
+     ],
+     "answer": "Humphry Davy",
+     "difficulty": "easy"
     }
    ]
   }

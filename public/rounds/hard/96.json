@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-177",
-     "prompt": "Which British philosopher-novelist wrote The Sovereignty of Good?",
+     "id": "hard-tech-293",
+     "prompt": "Which American built the steam-powered rotary printing press in 1843?",
      "choices": [
-      "Mary Midgley",
-      "Philippa Foot",
-      "G. E. M. Anscombe",
-      "Iris Murdoch"
+      "Ottmar Mergenthaler",
+      "Richard Hoe",
+      "Johannes Gutenberg",
+      "Friedrich Koenig"
      ],
-     "answer": "Iris Murdoch",
+     "answer": "Richard Hoe",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-145",
-     "prompt": "Which pair of Greek gods stand for order and ecstasy in Nietzsche's The Birth of Tragedy?",
+     "id": "hard-tech-095",
+     "prompt": "Which German engineer developed the rotary piston engine first run in 1957?",
      "choices": [
-      "Athena and Ares",
-      "Hermes and Pan",
-      "Zeus and Hera",
-      "Apollo and Dionysus"
+      "Rudolf Diesel",
+      "Ferdinand Porsche",
+      "Nikolaus Otto",
+      "Felix Wankel"
      ],
-     "answer": "Apollo and Dionysus",
-     "difficulty": "easy"
+     "answer": "Felix Wankel",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-092",
-     "prompt": "Which philosopher was burned at the stake in Rome in 1600?",
+     "id": "hard-tech-168",
+     "prompt": "At which London hospital did Fleming notice penicillin mold in 1928?",
      "choices": [
-      "Pietro Pomponazzi",
-      "Giordano Bruno",
-      "Bernardino Telesio",
-      "Tommaso Campanella"
+      "Guy's",
+      "St Bartholomew's",
+      "St Thomas'",
+      "St Mary's"
      ],
-     "answer": "Giordano Bruno",
-     "difficulty": "easy"
+     "answer": "St Mary's",
+     "difficulty": "hard"
     }
    ]
   }

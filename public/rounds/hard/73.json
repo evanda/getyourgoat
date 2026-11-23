@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-087",
-     "prompt": "Which pope's 1879 encyclical Aeterni Patris urged study of Aquinas?",
+     "id": "hard-tech-118",
+     "prompt": "Concorde was developed jointly by Britain and which other country?",
      "choices": [
-      "Benedict XV",
-      "Pius X",
-      "Leo XIII",
-      "Pius IX"
+      "Germany",
+      "United States",
+      "France",
+      "Italy"
      ],
-     "answer": "Leo XIII",
+     "answer": "France",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-069",
+     "prompt": "Which process, patented by Henry Cort in 1784, made wrought iron from pig iron?",
+     "choices": [
+      "Cementation",
+      "Puddling",
+      "Bloomery",
+      "Crucible"
+     ],
+     "answer": "Puddling",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-028",
-     "prompt": "Which Academic skeptic argued for and against justice before Roman audiences in 155 BCE?",
+     "id": "hard-tech-302",
+     "prompt": "Which Scottish engineer popularized crushed-stone road surfacing in the early 1800s?",
      "choices": [
-      "Carneades",
-      "Arcesilaus",
-      "Chrysippus",
-      "Panaetius"
+      "John Rennie",
+      "John McAdam",
+      "Pierre Tresaguet",
+      "Thomas Telford"
      ],
-     "answer": "Carneades",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-209",
-     "prompt": "Which philosopher's Twin Earth thought experiment shows meanings lie partly outside the head?",
-     "choices": [
-      "Hilary Putnam",
-      "John Searle",
-      "Saul Kripke",
-      "Donald Davidson"
-     ],
-     "answer": "Hilary Putnam",
-     "difficulty": "easy"
+     "answer": "John McAdam",
+     "difficulty": "medium"
     }
    ]
   }

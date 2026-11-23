@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-002",
-     "prompt": "Which philosopher tutored the young Alexander the Great?",
+     "id": "tech-113",
+     "prompt": "Which German rocket of World War II was the first long-range ballistic missile?",
      "choices": [
-      "Aristotle",
-      "Plato",
-      "Socrates",
-      "Diogenes"
+      "Katyusha",
+      "V-2",
+      "Scud",
+      "V-1"
      ],
-     "answer": "Aristotle",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-280",
-     "prompt": "Which of these is an ancient Greek school of philosophy?",
-     "choices": [
-      "Stoicism",
-      "Daoism",
-      "Jainism",
-      "Shinto"
-     ],
-     "answer": "Stoicism",
+     "answer": "V-2",
      "difficulty": "medium"
     },
     {
-     "id": "phil-262",
-     "prompt": "Which philosopher called himself a gadfly stinging Athens?",
+     "id": "tech-030",
+     "prompt": "Steel is iron combined with a small amount of which element?",
      "choices": [
-      "Socrates",
-      "Plato",
-      "Aristotle",
-      "Diogenes"
+      "Oxygen",
+      "Carbon",
+      "Nitrogen",
+      "Sulfur"
      ],
-     "answer": "Socrates",
-     "difficulty": "easy"
+     "answer": "Carbon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-088",
+     "prompt": "Which Dutch scientist built the first pendulum clock in 1656?",
+     "choices": [
+      "Willem Janszoon",
+      "Antonie van Leeuwenhoek",
+      "Hans Lippershey",
+      "Christiaan Huygens"
+     ],
+     "answer": "Christiaan Huygens",
+     "difficulty": "hard"
     }
    ]
   }

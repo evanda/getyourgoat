@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-132",
-     "prompt": "Which Kant work contains the 'starry heavens above me and the moral law within me'?",
+     "id": "hard-tech-190",
+     "prompt": "Which company employed Jack Kilby when he built the first integrated circuit in 1958?",
      "choices": [
-      "Critique of Judgment",
-      "Metaphysics of Morals",
-      "Critique of Pure Reason",
-      "Critique of Practical Reason"
+      "Fairchild",
+      "Motorola",
+      "Intel",
+      "Texas Instruments"
      ],
-     "answer": "Critique of Practical Reason",
+     "answer": "Texas Instruments",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-018",
-     "prompt": "Which Plato dialogue seeks a definition of courage with two Athenian generals?",
+     "id": "hard-tech-123",
+     "prompt": "Which space shuttle deployed the Hubble Space Telescope in 1990?",
      "choices": [
-      "Euthyphro",
-      "Laches",
-      "Charmides",
-      "Lysis"
+      "Discovery",
+      "Endeavour",
+      "Atlantis",
+      "Columbia"
      ],
-     "answer": "Laches",
-     "difficulty": "medium"
+     "answer": "Discovery",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-101",
-     "prompt": "Which Spinoza work of 1670 argued for freedom to philosophize and criticized scriptural authority?",
+     "id": "hard-tech-055",
+     "prompt": "Which engineer patented the 1698 Miner's Friend steam pump?",
      "choices": [
-      "Political Treatise",
-      "Theological-Political Treatise",
-      "Principles of Cartesian Philosophy",
-      "Short Treatise"
+      "Thomas Newcomen",
+      "Thomas Savery",
+      "Denis Papin",
+      "Matthew Boulton"
      ],
-     "answer": "Theological-Political Treatise",
+     "answer": "Thomas Savery",
      "difficulty": "medium"
     }
    ]

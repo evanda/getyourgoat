@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-026",
-     "prompt": "Who wrote The Consolation of Philosophy while imprisoned?",
+     "id": "tech-039",
+     "prompt": "The spinning wheel is used to turn fibre into what?",
      "choices": [
-      "Boethius",
-      "Augustine",
-      "Aquinas",
-      "Cassiodorus"
+      "Thread or yarn",
+      "Paper",
+      "Rope for ships",
+      "Glass"
      ],
-     "answer": "Boethius",
+     "answer": "Thread or yarn",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-266",
+     "prompt": "Which 1920 play introduced the word robot?",
+     "choices": [
+      "Metropolis",
+      "Dracula",
+      "R.U.R.",
+      "Frankenstein"
+     ],
+     "answer": "R.U.R.",
      "difficulty": "medium"
     },
     {
-     "id": "phil-080",
-     "prompt": "Who wrote the Two Treatises of Government?",
+     "id": "tech-258",
+     "prompt": "A submarine periscope lets crew do what?",
      "choices": [
-      "John Locke",
-      "Thomas Hobbes",
-      "Rousseau",
-      "Montesquieu"
+      "Hear underwater",
+      "See above the water's surface",
+      "Dive deeper",
+      "Detect mines"
      ],
-     "answer": "John Locke",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-291",
-     "prompt": "Stoicism began in which ancient country?",
-     "choices": [
-      "Greece",
-      "Egypt",
-      "Persia",
-      "China"
-     ],
-     "answer": "Greece",
+     "answer": "See above the water's surface",
      "difficulty": "easy"
     }
    ]

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-215",
-     "prompt": "Who wrote Two Concepts of Liberty?",
+     "id": "tech-265",
+     "prompt": "Drones are best described as what?",
      "choices": [
-      "Isaiah Berlin",
-      "Karl Popper",
-      "Friedrich Hayek",
-      "John Rawls"
+      "Hot air balloons",
+      "Satellites",
+      "Unmanned aircraft",
+      "Underwater robots"
      ],
-     "answer": "Isaiah Berlin",
-     "difficulty": "hard"
+     "answer": "Unmanned aircraft",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-169",
-     "prompt": "Which idea says only one's own mind is sure to exist?",
+     "id": "tech-042",
+     "prompt": "Which numbers did Europe adopt from Arab scholars, which came from India?",
      "choices": [
-      "Solipsism",
-      "Stoicism",
-      "Dualism",
-      "Monism"
+      "Egyptian numerals",
+      "Greek numerals",
+      "Hindu-Arabic numerals",
+      "Roman numerals"
      ],
-     "answer": "Solipsism",
+     "answer": "Hindu-Arabic numerals",
      "difficulty": "medium"
     },
     {
-     "id": "phil-093",
-     "prompt": "Who wrote the educational work Emile?",
+     "id": "tech-130",
+     "prompt": "Sonar locates underwater objects using what?",
      "choices": [
-      "Rousseau",
-      "Voltaire",
-      "Diderot",
-      "Montesquieu"
+      "Heat",
+      "Sound waves",
+      "Radio waves",
+      "Magnetism"
      ],
-     "answer": "Rousseau",
-     "difficulty": "medium"
+     "answer": "Sound waves",
+     "difficulty": "easy"
     }
    ]
   }

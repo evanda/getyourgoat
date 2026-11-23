@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-154",
-     "prompt": "Mill wrote it is better to be Socrates dissatisfied than a what satisfied?",
+     "id": "hard-tech-075",
+     "prompt": "The Hall-Heroult process of 1886 made which metal cheap?",
      "choices": [
-      "Sophist",
-      "Pig",
-      "Tyrant",
-      "Fool"
+      "Titanium",
+      "Zinc",
+      "Magnesium",
+      "Aluminium"
      ],
-     "answer": "Fool",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-149",
-     "prompt": "Which British philosopher wrote The Methods of Ethics?",
-     "choices": [
-      "Henry Sidgwick",
-      "T. H. Green",
-      "F. H. Bradley",
-      "John Stuart Mill"
-     ],
-     "answer": "Henry Sidgwick",
+     "answer": "Aluminium",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-134",
-     "prompt": "Which German idealist wrote the Science of Knowledge, or Wissenschaftslehre?",
+     "id": "hard-tech-126",
+     "prompt": "Where was the golden spike driven in 1869 to complete the first US transcontinental railroad?",
      "choices": [
-      "Schelling",
-      "Jacobi",
-      "Fichte",
-      "Hegel"
+      "Sacramento",
+      "Promontory Summit",
+      "Omaha",
+      "Ogden"
      ],
-     "answer": "Fichte",
+     "answer": "Promontory Summit",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-191",
+     "prompt": "Intel's 1971 4004 was the first commercial what?",
+     "choices": [
+      "Transistor",
+      "Microprocessor",
+      "Laser",
+      "Hard drive"
+     ],
+     "answer": "Microprocessor",
      "difficulty": "easy"
     }
    ]

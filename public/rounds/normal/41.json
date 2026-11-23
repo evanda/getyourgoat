@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-204",
-     "prompt": "The Sanskrit word karma literally means what?",
+     "id": "tech-156",
+     "prompt": "Bell Labs made the first practical silicon solar cell in which decade?",
      "choices": [
-      "Action",
-      "Luck",
-      "Sin",
-      "Prayer"
+      "1990s",
+      "1920s",
+      "1970s",
+      "1950s"
      ],
-     "answer": "Action",
+     "answer": "1950s",
+     "difficulty": "hard"
+    },
+    {
+     "id": "tech-303",
+     "prompt": "What does CPU stand for?",
+     "choices": [
+      "Computer Power Unit",
+      "Central Processing Unit",
+      "Central Program Unit",
+      "Core Program Utility"
+     ],
+     "answer": "Central Processing Unit",
      "difficulty": "easy"
     },
     {
-     "id": "phil-097",
-     "prompt": "Which Scottish thinker wrote The Wealth of Nations?",
+     "id": "tech-308",
+     "prompt": "Which Renaissance artist sketched a parachute design around 1485?",
      "choices": [
-      "Adam Smith",
-      "David Hume",
-      "John Locke",
-      "Thomas Reid"
+      "Leonardo da Vinci",
+      "Raphael",
+      "Michelangelo",
+      "Botticelli"
      ],
-     "answer": "Adam Smith",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-251",
-     "prompt": "Which of these philosophers was Chinese?",
-     "choices": [
-      "Mencius",
-      "Plato",
-      "Descartes",
-      "Averroes"
-     ],
-     "answer": "Mencius",
+     "answer": "Leonardo da Vinci",
      "difficulty": "easy"
     }
    ]

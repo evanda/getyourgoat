@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-013",
-     "prompt": "Which pre-Socratic said that you cannot step into the same river twice?",
+     "id": "tech-282",
+     "prompt": "ARPANET, the forerunner of the internet, was funded by which country?",
      "choices": [
-      "Heraclitus",
-      "Parmenides",
-      "Thales",
-      "Anaximander"
+      "Soviet Union",
+      "United Kingdom",
+      "United States",
+      "Japan"
      ],
-     "answer": "Heraclitus",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-137",
-     "prompt": "Which thinker coined the phrase banality of evil?",
-     "choices": [
-      "Hannah Arendt",
-      "Simone de Beauvoir",
-      "Simone Weil",
-      "Ayn Rand"
-     ],
-     "answer": "Hannah Arendt",
+     "answer": "United States",
      "difficulty": "medium"
     },
     {
-     "id": "phil-065",
-     "prompt": "Who answered with The Incoherence of the Incoherence?",
+     "id": "tech-109",
+     "prompt": "Who became the first human in space in 1961?",
      "choices": [
-      "Averroes",
-      "Al-Ghazali",
-      "Avicenna",
-      "Al-Farabi"
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "John Glenn",
+      "Neil Armstrong"
      ],
-     "answer": "Averroes",
-     "difficulty": "hard"
+     "answer": "Yuri Gagarin",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-196",
+     "prompt": "Fibre-optic cables carry data as what?",
+     "choices": [
+      "Radio waves",
+      "Sound",
+      "Electric current",
+      "Pulses of light"
+     ],
+     "answer": "Pulses of light",
+     "difficulty": "easy"
     }
    ]
   }

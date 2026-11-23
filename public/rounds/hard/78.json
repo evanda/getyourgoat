@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-059",
-     "prompt": "What traditional title collects Aristotle's logical treatises?",
+     "id": "hard-tech-179",
+     "prompt": "Which Dutch spectacle-maker first applied for a telescope patent in 1608?",
      "choices": [
-      "The Organon",
-      "The Enneads",
-      "The Corpus",
-      "The Canon"
+      "Jacob Metius",
+      "Hans Lipperhey",
+      "Zacharias Janssen",
+      "Galileo Galilei"
      ],
-     "answer": "The Organon",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-038",
-     "prompt": "Which Stoic from Apamea in Syria taught the young Cicero?",
-     "choices": [
-      "Cleanthes",
-      "Panaetius",
-      "Antipater",
-      "Posidonius"
-     ],
-     "answer": "Posidonius",
+     "answer": "Hans Lipperhey",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-115",
-     "prompt": "Which thinker wrote Sketch for a Historical Picture of the Progress of the Human Mind?",
+     "id": "hard-tech-184",
+     "prompt": "Which company's Zurich lab built the scanning tunneling microscope in 1981?",
      "choices": [
-      "Montesquieu",
-      "Turgot",
-      "d'Alembert",
-      "Condorcet"
+      "Siemens",
+      "Philips",
+      "IBM",
+      "Bell Labs"
      ],
-     "answer": "Condorcet",
+     "answer": "IBM",
      "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-063",
+     "prompt": "Which hybrid of the jenny and water frame did Samuel Crompton complete in 1779?",
+     "choices": [
+      "Cotton gin",
+      "Spinning mule",
+      "Carding engine",
+      "Throstle frame"
+     ],
+     "answer": "Spinning mule",
+     "difficulty": "hard"
     }
    ]
   }

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-301",
-     "prompt": "Which Upanishadic sage is tied to the 'neti neti' teaching in the Brihadaranyaka?",
+     "id": "hard-tech-049",
+     "prompt": "In which German city did Gutenberg print his Bible around 1455?",
      "choices": [
-      "Uddalaka",
-      "Narada",
-      "Yajnavalkya",
-      "Shvetaketu"
+      "Mainz",
+      "Nuremberg",
+      "Strasbourg",
+      "Cologne"
      ],
-     "answer": "Yajnavalkya",
+     "answer": "Mainz",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-081",
+     "prompt": "Which DuPont chemist stumbled upon Teflon (PTFE) in 1938?",
+     "choices": [
+      "Paul Flory",
+      "Wallace Carothers",
+      "Stephanie Kwolek",
+      "Roy Plunkett"
+     ],
+     "answer": "Roy Plunkett",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-079",
-     "prompt": "Which Chartres master is said to have compared moderns to dwarfs on giants' shoulders?",
+     "id": "hard-tech-093",
+     "prompt": "Which German built the first practical four-stroke engine in 1876?",
      "choices": [
-      "John of Salisbury",
-      "Bernard of Chartres",
-      "William of Conches",
-      "Thierry of Chartres"
+      "Gottlieb Daimler",
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Nikolaus Otto"
      ],
-     "answer": "Bernard of Chartres",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-155",
-     "prompt": "Who coined the word agnostic?",
-     "choices": [
-      "Herbert Spencer",
-      "Charles Darwin",
-      "T. H. Huxley",
-      "John Tyndall"
-     ],
-     "answer": "T. H. Huxley",
+     "answer": "Nikolaus Otto",
      "difficulty": "easy"
     }
    ]

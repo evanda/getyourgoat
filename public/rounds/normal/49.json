@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-158",
-     "prompt": "Metaphysics asks questions about what?",
+     "id": "tech-059",
+     "prompt": "Which Cornish engineer ran the first steam railway locomotive in 1804?",
      "choices": [
-      "The nature of reality",
-      "Taxes",
-      "The stars",
-      "Language rules"
+      "Richard Trevithick",
+      "George Stephenson",
+      "William Murdoch",
+      "Thomas Newcomen"
      ],
-     "answer": "The nature of reality",
-     "difficulty": "easy"
+     "answer": "Richard Trevithick",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-005",
-     "prompt": "Who founded the Stoic school of philosophy?",
+     "id": "tech-229",
+     "prompt": "Which French doctor invented the stethoscope in 1816?",
      "choices": [
-      "Zeno of Citium",
-      "Epicurus",
-      "Pyrrho",
-      "Plotinus"
+      "Rene Laennec",
+      "Joseph Lister",
+      "Louis Pasteur",
+      "Edward Jenner"
      ],
-     "answer": "Zeno of Citium",
-     "difficulty": "easy"
+     "answer": "Rene Laennec",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-266",
-     "prompt": "Living with strict self-denial is called what?",
+     "id": "tech-195",
+     "prompt": "What does SMS stand for in mobile phones?",
      "choices": [
-      "Asceticism",
-      "Hedonism",
-      "Humanism",
-      "Egoism"
+      "Short Message Service",
+      "Simple Mail System",
+      "Super Mobile Signal",
+      "Speed Message Standard"
      ],
-     "answer": "Asceticism",
+     "answer": "Short Message Service",
      "difficulty": "easy"
     }
    ]

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-210",
-     "prompt": "Which philosopher devised the ravens paradox of confirmation?",
+     "id": "hard-tech-077",
+     "prompt": "Which Italian chemist first made nitroglycerin, in 1847?",
      "choices": [
-      "Rudolf Carnap",
-      "Nelson Goodman",
-      "Carl Hempel",
-      "Karl Popper"
+      "Ascanio Sobrero",
+      "Cesare Lombroso",
+      "Alfred Nobel",
+      "Pierre Berthelot"
      ],
-     "answer": "Carl Hempel",
+     "answer": "Ascanio Sobrero",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-296",
+     "prompt": "Which Hungarian patented the ballpoint pen in 1938?",
+     "choices": [
+      "Georg Bauer",
+      "Laszlo Biro",
+      "Marcel Bich",
+      "Edmund Fisher"
+     ],
+     "answer": "Laszlo Biro",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-198",
-     "prompt": "Which philosopher is known for the concept of family resemblance?",
+     "id": "hard-tech-036",
+     "prompt": "The earliest evidence of wheeled vehicles dates to which period?",
      "choices": [
-      "Bertrand Russell",
-      "J. L. Austin",
-      "Gilbert Ryle",
-      "Ludwig Wittgenstein"
+      "8th millennium BC",
+      "6th millennium BC",
+      "2nd millennium BC",
+      "4th millennium BC"
      ],
-     "answer": "Ludwig Wittgenstein",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-204",
-     "prompt": "Which philosopher of language is known for conversational implicature?",
-     "choices": [
-      "John Searle",
-      "J. L. Austin",
-      "P. F. Strawson",
-      "H. P. Grice"
-     ],
-     "answer": "H. P. Grice",
+     "answer": "4th millennium BC",
      "difficulty": "medium"
     }
    ]

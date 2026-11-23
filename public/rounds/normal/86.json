@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-190",
-     "prompt": "Which Irish-born bishop was an idealist philosopher?",
+     "id": "tech-178",
+     "prompt": "Who first proved radio waves exist in the 1880s?",
      "choices": [
-      "George Berkeley",
-      "John Locke",
-      "Edmund Burke",
-      "David Hume"
+      "James Maxwell",
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Heinrich Hertz"
      ],
-     "answer": "George Berkeley",
+     "answer": "Heinrich Hertz",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-222",
+     "prompt": "Stainless steel resists rust thanks to added what?",
+     "choices": [
+      "Zinc",
+      "Copper",
+      "Tin",
+      "Chromium"
+     ],
+     "answer": "Chromium",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-125",
+     "prompt": "John Holland designed an early practical what for the US Navy around 1900?",
+     "choices": [
+      "Submarine",
+      "Torpedo bomber",
+      "Aircraft carrier",
+      "Tank"
+     ],
+     "answer": "Submarine",
      "difficulty": "hard"
-    },
-    {
-     "id": "phil-201",
-     "prompt": "Mencius is a major thinker in which tradition?",
-     "choices": [
-      "Confucianism",
-      "Daoism",
-      "Legalism",
-      "Mohism"
-     ],
-     "answer": "Confucianism",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-119",
-     "prompt": "Who wrote the essay Self-Reliance?",
-     "choices": [
-      "Ralph Waldo Emerson",
-      "Henry David Thoreau",
-      "Walt Whitman",
-      "Edgar Allan Poe"
-     ],
-     "answer": "Ralph Waldo Emerson",
-     "difficulty": "medium"
     }
    ]
   }

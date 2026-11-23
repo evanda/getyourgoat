@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-136",
-     "prompt": "In which Hegel work does the owl of Minerva fly only at dusk?",
+     "id": "hard-tech-150",
+     "prompt": "Which company introduced the Compact Cassette in 1963?",
      "choices": [
-      "Phenomenology of Spirit",
-      "Philosophy of History",
-      "Science of Logic",
-      "Elements of the Philosophy of Right"
+      "Ampex",
+      "Sony",
+      "Philips",
+      "Matsushita"
      ],
-     "answer": "Elements of the Philosophy of Right",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-196",
-     "prompt": "Which Vienna Circle member wrote Der logische Aufbau der Welt?",
-     "choices": [
-      "Otto Neurath",
-      "Herbert Feigl",
-      "Moritz Schlick",
-      "Rudolf Carnap"
-     ],
-     "answer": "Rudolf Carnap",
+     "answer": "Philips",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-027",
-     "prompt": "Which head of the Academy first steered it toward skepticism?",
+     "id": "hard-tech-149",
+     "prompt": "Which company demonstrated the Magnetophon tape recorder in 1935?",
      "choices": [
-      "Arcesilaus",
-      "Xenocrates",
-      "Polemo",
-      "Speusippus"
+      "Philips",
+      "Telefunken",
+      "AEG",
+      "Siemens"
      ],
-     "answer": "Arcesilaus",
+     "answer": "AEG",
      "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-070",
+     "prompt": "Which Shropshire ironmaster first smelted iron with coke in 1709?",
+     "choices": [
+      "Abraham Darby",
+      "John Wilkinson",
+      "Henry Cort",
+      "Benjamin Huntsman"
+     ],
+     "answer": "Abraham Darby",
+     "difficulty": "medium"
     }
    ]
   }

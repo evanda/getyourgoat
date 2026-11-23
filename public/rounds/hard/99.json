@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-012",
-     "prompt": "In the Republic, who retells the story of the Ring of Gyges?",
+     "id": "hard-tech-203",
+     "prompt": "Which IBM team leader created FORTRAN, released in 1957?",
      "choices": [
-      "Polemarchus",
-      "Adeimantus",
-      "Thrasymachus",
-      "Glaucon"
+      "John McCarthy",
+      "Niklaus Wirth",
+      "John Backus",
+      "Dennis Ritchie"
      ],
-     "answer": "Glaucon",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-315",
-     "prompt": "Which Indian thinker wrote Annihilation of Caste?",
-     "choices": [
-      "Jawaharlal Nehru",
-      "B. R. Ambedkar",
-      "Jyotirao Phule",
-      "M. K. Gandhi"
-     ],
-     "answer": "B. R. Ambedkar",
+     "answer": "John Backus",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-262",
-     "prompt": "Which Neo-Confucian distinguished li, principle, from qi, material force?",
+     "id": "hard-tech-181",
+     "prompt": "Which instrument maker introduced the mercury thermometer in 1714?",
      "choices": [
-      "Shao Yong",
-      "Wang Yangming",
-      "Zhang Zai",
-      "Zhu Xi"
+      "Daniel Fahrenheit",
+      "Lord Kelvin",
+      "Anders Celsius",
+      "Rene Reaumur"
      ],
-     "answer": "Zhu Xi",
+     "answer": "Daniel Fahrenheit",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-249",
+     "prompt": "Which West African city is famed for the world's largest mud-brick building, its Great Mosque?",
+     "choices": [
+      "Gao",
+      "Djenne",
+      "Timbuktu",
+      "Kano"
+     ],
+     "answer": "Djenne",
      "difficulty": "medium"
     }
    ]

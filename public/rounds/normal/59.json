@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-077",
-     "prompt": "Who is considered the creator of the personal essay with his Essays?",
+     "id": "tech-027",
+     "prompt": "Which counting tool uses beads that slide on rods?",
      "choices": [
-      "Montaigne",
-      "Pascal",
-      "Voltaire",
-      "Rabelais"
+      "Abacus",
+      "Sextant",
+      "Slide rule",
+      "Astrolabe"
      ],
-     "answer": "Montaigne",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-257",
-     "prompt": "Which of these thinkers was a woman?",
-     "choices": [
-      "Hypatia",
-      "Aristotle",
-      "Epicurus",
-      "Seneca"
-     ],
-     "answer": "Hypatia",
+     "answer": "Abacus",
      "difficulty": "easy"
     },
     {
-     "id": "phil-182",
-     "prompt": "Which branch of philosophy studies value in general?",
+     "id": "tech-280",
+     "prompt": "Who invented the World Wide Web in 1989?",
      "choices": [
-      "Axiology",
-      "Ontology",
-      "Epistemology",
-      "Cosmology"
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee",
+      "Vint Cerf"
      ],
-     "answer": "Axiology",
-     "difficulty": "hard"
+     "answer": "Tim Berners-Lee",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-149",
+     "prompt": "A steam turbine generates power by spinning what?",
+     "choices": [
+      "Blades",
+      "Pistons",
+      "Magnets only",
+      "Chains"
+     ],
+     "answer": "Blades",
+     "difficulty": "medium"
     }
    ]
   }

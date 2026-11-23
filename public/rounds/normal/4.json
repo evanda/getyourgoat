@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-122",
-     "prompt": "Which American philosopher is linked to progressive education reform?",
+     "id": "tech-219",
+     "prompt": "Which company invented nylon in the 1930s?",
      "choices": [
-      "John Dewey",
-      "William James",
-      "Charles Peirce",
-      "George Santayana"
+      "Bayer",
+      "Kodak",
+      "DuPont",
+      "Dow"
      ],
-     "answer": "John Dewey",
+     "answer": "DuPont",
      "difficulty": "medium"
     },
     {
-     "id": "phil-249",
-     "prompt": "In what language did Marcus Aurelius write the Meditations?",
+     "id": "tech-241",
+     "prompt": "Which American developed the first polio vaccine, announced in 1955?",
      "choices": [
-      "Greek",
-      "Latin",
-      "Hebrew",
-      "Aramaic"
+      "Edward Jenner",
+      "Jonas Salk",
+      "Albert Sabin",
+      "Louis Pasteur"
      ],
-     "answer": "Greek",
-     "difficulty": "hard"
+     "answer": "Jonas Salk",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-032",
-     "prompt": "Which Presocratic is linked to the apeiron, the boundless?",
+     "id": "tech-216",
+     "prompt": "King Camp Gillette is famous for popularising what product?",
      "choices": [
-      "Anaximander",
-      "Thales",
-      "Heraclitus",
-      "Parmenides"
+      "Safety razor with disposable blades",
+      "Soap bar",
+      "Electric toothbrush",
+      "Hair dryer"
      ],
-     "answer": "Anaximander",
+     "answer": "Safety razor with disposable blades",
      "difficulty": "medium"
     }
    ]

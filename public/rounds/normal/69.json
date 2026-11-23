@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-094",
-     "prompt": "Who wrote Candide?",
+     "id": "tech-062",
+     "prompt": "Humphry Davy's 1815 safety lamp protected which workers?",
      "choices": [
-      "Voltaire",
-      "Rousseau",
-      "Diderot",
-      "Montesquieu"
+      "Lighthouse keepers",
+      "Coal miners",
+      "Sailors",
+      "Soldiers"
      ],
-     "answer": "Voltaire",
-     "difficulty": "easy"
+     "answer": "Coal miners",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-161",
-     "prompt": "Which branch of philosophy studies correct reasoning?",
+     "id": "tech-233",
+     "prompt": "Penicillin was first found in what?",
      "choices": [
-      "Logic",
-      "Aesthetics",
-      "Ethics",
-      "Cosmology"
+      "A flower",
+      "Seaweed",
+      "Bacterium",
+      "Mould"
      ],
-     "answer": "Logic",
-     "difficulty": "easy"
+     "answer": "Mould",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-157",
-     "prompt": "Epistemology is the study of what?",
+     "id": "tech-257",
+     "prompt": "A sextant helps navigators to measure what?",
      "choices": [
-      "Knowledge",
-      "Beauty",
-      "Morality",
-      "Reality"
+      "Angle of a star above the horizon",
+      "Wind direction",
+      "Ship speed",
+      "Water depth"
      ],
-     "answer": "Knowledge",
-     "difficulty": "easy"
+     "answer": "Angle of a star above the horizon",
+     "difficulty": "medium"
     }
    ]
   }

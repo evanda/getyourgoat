@@ -1,0 +1,4097 @@
+[
+ {
+  "id": "hard-tech-001",
+  "prompt": "Which ancient Greek geared bronze device, found in a 1901 shipwreck, modeled the heavens?",
+  "choices": [
+   "Tower of the Winds",
+   "Antikythera mechanism",
+   "Archimedes screw",
+   "Aeolipile"
+  ],
+  "answer": "Antikythera mechanism",
+  "difficulty": "easy",
+  "topic": "antikythera"
+ },
+ {
+  "id": "hard-tech-002",
+  "prompt": "Which engineer of Roman-era Egypt described the aeolipile, a steam-driven spinning sphere?",
+  "choices": [
+   "Philo of Byzantium",
+   "Archimedes",
+   "Hero of Alexandria",
+   "Ctesibius"
+  ],
+  "answer": "Hero of Alexandria",
+  "difficulty": "medium",
+  "topic": "aeolipile-hero"
+ },
+ {
+  "id": "hard-tech-003",
+  "prompt": "Which Greek engineer of 3rd-century BC Alexandria built the first water organ, the hydraulis?",
+  "choices": [
+   "Vitruvius",
+   "Ctesibius",
+   "Hero of Alexandria",
+   "Archimedes"
+  ],
+  "answer": "Ctesibius",
+  "difficulty": "hard",
+  "topic": "hydraulis-ctesibius"
+ },
+ {
+  "id": "hard-tech-004",
+  "prompt": "Which medieval siege engine hurled stones using a falling counterweight?",
+  "choices": [
+   "Trebuchet",
+   "Ballista",
+   "Onager",
+   "Scorpio"
+  ],
+  "answer": "Trebuchet",
+  "difficulty": "easy",
+  "topic": "trebuchet"
+ },
+ {
+  "id": "hard-tech-005",
+  "prompt": "Which Roman torsion catapult was named after a wild ass for its kick?",
+  "choices": [
+   "Onager",
+   "Helepolis",
+   "Scorpio",
+   "Testudo"
+  ],
+  "answer": "Onager",
+  "difficulty": "medium",
+  "topic": "onager"
+ },
+ {
+  "id": "hard-tech-006",
+  "prompt": "Which Roman wrote the treatise De architectura around 25 BC?",
+  "choices": [
+   "Frontinus",
+   "Columella",
+   "Apollodorus of Damascus",
+   "Vitruvius"
+  ],
+  "answer": "Vitruvius",
+  "difficulty": "easy",
+  "topic": "vitruvius"
+ },
+ {
+  "id": "hard-tech-007",
+  "prompt": "Which Roman water commissioner wrote a famous c. AD 97 account of Rome's aqueducts?",
+  "choices": [
+   "Seneca",
+   "Pliny the Elder",
+   "Frontinus",
+   "Vitruvius"
+  ],
+  "answer": "Frontinus",
+  "difficulty": "hard",
+  "topic": "frontinus-aqueducts"
+ },
+ {
+  "id": "hard-tech-008",
+  "prompt": "Roman marine concrete set underwater thanks to a volcanic ash called what?",
+  "choices": [
+   "Pozzolana",
+   "Gypsum",
+   "Travertine",
+   "Alabaster"
+  ],
+  "answer": "Pozzolana",
+  "difficulty": "medium",
+  "topic": "pozzolana"
+ },
+ {
+  "id": "hard-tech-009",
+  "prompt": "Which Han court official is traditionally credited with improving papermaking in AD 105?",
+  "choices": [
+   "Su Song",
+   "Bi Sheng",
+   "Zhang Heng",
+   "Cai Lun"
+  ],
+  "answer": "Cai Lun",
+  "difficulty": "easy",
+  "topic": "cai-lun"
+ },
+ {
+  "id": "hard-tech-010",
+  "prompt": "Which Han polymath built a seismoscope in AD 132?",
+  "choices": [
+   "Zhang Heng",
+   "Shen Kuo",
+   "Zu Chongzhi",
+   "Cai Lun"
+  ],
+  "answer": "Zhang Heng",
+  "difficulty": "easy",
+  "topic": "zhang-heng-seismoscope"
+ },
+ {
+  "id": "hard-tech-011",
+  "prompt": "Bi Sheng's c. 1040 movable type in China was made from what material?",
+  "choices": [
+   "Baked clay",
+   "Bronze",
+   "Carved wood",
+   "Lead alloy"
+  ],
+  "answer": "Baked clay",
+  "difficulty": "medium",
+  "topic": "bi-sheng-clay"
+ },
+ {
+  "id": "hard-tech-012",
+  "prompt": "Which Buddhist text, printed in AD 868, is the oldest dated printed book?",
+  "choices": [
+   "Heart Sutra",
+   "Lotus Sutra",
+   "Tripitaka Koreana",
+   "Diamond Sutra"
+  ],
+  "answer": "Diamond Sutra",
+  "difficulty": "medium",
+  "topic": "diamond-sutra"
+ },
+ {
+  "id": "hard-tech-013",
+  "prompt": "Which Korean Buddhist text of 1377 was printed with metal movable type?",
+  "choices": [
+   "Tripitaka Koreana",
+   "Diamond Sutra",
+   "Jikji",
+   "Hunminjeongeum"
+  ],
+  "answer": "Jikji",
+  "difficulty": "hard",
+  "topic": "jikji"
+ },
+ {
+  "id": "hard-tech-014",
+  "prompt": "Which Song official built a water-driven astronomical clock tower in Kaifeng around 1090?",
+  "choices": [
+   "Zhang Heng",
+   "Su Song",
+   "Yi Xing",
+   "Shen Kuo"
+  ],
+  "answer": "Su Song",
+  "difficulty": "medium",
+  "topic": "su-song-clock"
+ },
+ {
+  "id": "hard-tech-015",
+  "prompt": "Whose Song-dynasty Dream Pool Essays described the magnetized needle compass?",
+  "choices": [
+   "Su Song",
+   "Shen Kuo",
+   "Zu Chongzhi",
+   "Guo Shoujing"
+  ],
+  "answer": "Shen Kuo",
+  "difficulty": "hard",
+  "topic": "shen-kuo-compass"
+ },
+ {
+  "id": "hard-tech-016",
+  "prompt": "Which ingredient of gunpowder serves as its oxidizer?",
+  "choices": [
+   "Saltpeter",
+   "Sulfur",
+   "Quicklime",
+   "Charcoal"
+  ],
+  "answer": "Saltpeter",
+  "difficulty": "easy",
+  "topic": "saltpeter"
+ },
+ {
+  "id": "hard-tech-017",
+  "prompt": "Under which dynasty did Chinese alchemists first record gunpowder formulas, in the 9th century?",
+  "choices": [
+   "Tang",
+   "Han",
+   "Song",
+   "Ming"
+  ],
+  "answer": "Tang",
+  "difficulty": "medium",
+  "topic": "gunpowder-tang"
+ },
+ {
+  "id": "hard-tech-018",
+  "prompt": "Which engineer from Heliopolis is credited with bringing Greek fire to Byzantium around 672?",
+  "choices": [
+   "Leo the Isaurian",
+   "Anthemius",
+   "Heraclius",
+   "Kallinikos"
+  ],
+  "answer": "Kallinikos",
+  "difficulty": "hard",
+  "topic": "greek-fire-kallinikos"
+ },
+ {
+  "id": "hard-tech-019",
+  "prompt": "Who wrote the 1206 Book of Knowledge of Ingenious Mechanical Devices?",
+  "choices": [
+   "Taqi al-Din",
+   "Al-Biruni",
+   "Ibn al-Haytham",
+   "Al-Jazari"
+  ],
+  "answer": "Al-Jazari",
+  "difficulty": "medium",
+  "topic": "al-jazari"
+ },
+ {
+  "id": "hard-tech-020",
+  "prompt": "Which three brothers of 9th-century Baghdad wrote a famed Book of Ingenious Devices?",
+  "choices": [
+   "Banu Qasi",
+   "Banu Hilal",
+   "Banu Nasr",
+   "Banu Musa"
+  ],
+  "answer": "Banu Musa",
+  "difficulty": "hard",
+  "topic": "banu-musa"
+ },
+ {
+  "id": "hard-tech-021",
+  "prompt": "Whose Book of Optics, written around 1021, analyzed the camera obscura?",
+  "choices": [
+   "Al-Khwarizmi",
+   "Ibn al-Haytham",
+   "Al-Razi",
+   "Avicenna"
+  ],
+  "answer": "Ibn al-Haytham",
+  "difficulty": "medium",
+  "topic": "ibn-haytham-optics"
+ },
+ {
+  "id": "hard-tech-022",
+  "prompt": "Which Ottoman astronomer founded an Istanbul observatory in 1577?",
+  "choices": [
+   "Taqi al-Din",
+   "Mimar Sinan",
+   "Piri Reis",
+   "Ulugh Beg"
+  ],
+  "answer": "Taqi al-Din",
+  "difficulty": "hard",
+  "topic": "taqi-al-din"
+ },
+ {
+  "id": "hard-tech-023",
+  "prompt": "Which Timurid ruler built a great observatory at Samarkand in the 1420s?",
+  "choices": [
+   "Akbar",
+   "Ulugh Beg",
+   "Shah Rukh",
+   "Babur"
+  ],
+  "answer": "Ulugh Beg",
+  "difficulty": "medium",
+  "topic": "ulugh-beg"
+ },
+ {
+  "id": "hard-tech-024",
+  "prompt": "Which instrument, with a rotating star-map plate, let Islamic astronomers tell time from star altitude?",
+  "choices": [
+   "Armillary sphere",
+   "Astrolabe",
+   "Cross-staff",
+   "Octant"
+  ],
+  "answer": "Astrolabe",
+  "difficulty": "easy",
+  "topic": "astrolabe"
+ },
+ {
+  "id": "hard-tech-025",
+  "prompt": "Southern India's crucible steel, source of Damascus blades, was called what?",
+  "choices": [
+   "Bessemer steel",
+   "Wootz",
+   "Tamahagane",
+   "Blister steel"
+  ],
+  "answer": "Wootz",
+  "difficulty": "medium",
+  "topic": "wootz"
+ },
+ {
+  "id": "hard-tech-026",
+  "prompt": "Delhi's famous rust-resistant iron pillar dates from which dynasty's rule?",
+  "choices": [
+   "Chola",
+   "Mughal",
+   "Gupta",
+   "Maurya"
+  ],
+  "answer": "Gupta",
+  "difficulty": "medium",
+  "topic": "delhi-iron-pillar"
+ },
+ {
+  "id": "hard-tech-027",
+  "prompt": "Which Andean empire kept records with knotted cords called quipu?",
+  "choices": [
+   "Inca",
+   "Aztec",
+   "Olmec",
+   "Maya"
+  ],
+  "answer": "Inca",
+  "difficulty": "easy",
+  "topic": "quipu"
+ },
+ {
+  "id": "hard-tech-028",
+  "prompt": "What are the Aztec raised garden plots built in lake shallows called?",
+  "choices": [
+   "Milpas",
+   "Waru waru",
+   "Andenes",
+   "Chinampas"
+  ],
+  "answer": "Chinampas",
+  "difficulty": "hard",
+  "topic": "chinampas"
+ },
+ {
+  "id": "hard-tech-029",
+  "prompt": "What was the Inca road network called?",
+  "choices": [
+   "Qhapaq Nan",
+   "Tambo",
+   "Sacbe",
+   "Chasqui"
+  ],
+  "answer": "Qhapaq Nan",
+  "difficulty": "hard",
+  "topic": "qhapaq-nan"
+ },
+ {
+  "id": "hard-tech-030",
+  "prompt": "A pivoted pole with bucket and counterweight, used to irrigate Nile fields, is called a what?",
+  "choices": [
+   "Shaduf",
+   "Treadwheel",
+   "Noria",
+   "Sakia"
+  ],
+  "answer": "Shaduf",
+  "difficulty": "medium",
+  "topic": "shaduf"
+ },
+ {
+  "id": "hard-tech-031",
+  "prompt": "Which river-driven water-lifting wheel is famous at Hama, Syria?",
+  "choices": [
+   "Noria",
+   "Shaduf",
+   "Water organ",
+   "Treadwheel"
+  ],
+  "answer": "Noria",
+  "difficulty": "medium",
+  "topic": "noria-hama"
+ },
+ {
+  "id": "hard-tech-032",
+  "prompt": "The Pont du Gard Roman aqueduct bridge stands in which modern country?",
+  "choices": [
+   "Spain",
+   "Italy",
+   "France",
+   "Turkey"
+  ],
+  "answer": "France",
+  "difficulty": "easy",
+  "topic": "pont-du-gard"
+ },
+ {
+  "id": "hard-tech-033",
+  "prompt": "Which Roman censor began the Via Appia in 312 BC?",
+  "choices": [
+   "Gaius Flaminius",
+   "Agrippa",
+   "Trajan",
+   "Appius Claudius Caecus"
+  ],
+  "answer": "Appius Claudius Caecus",
+  "difficulty": "hard",
+  "topic": "via-appia"
+ },
+ {
+  "id": "hard-tech-034",
+  "prompt": "What are the gently sloping underground water channels of ancient Iran called?",
+  "choices": [
+   "Ziggurats",
+   "Badgirs",
+   "Qanats",
+   "Yakhchals"
+  ],
+  "answer": "Qanats",
+  "difficulty": "medium",
+  "topic": "qanat"
+ },
+ {
+  "id": "hard-tech-035",
+  "prompt": "Which ancient Persian structure was used to store ice in desert climates?",
+  "choices": [
+   "Badgir",
+   "Yakhchal",
+   "Qanat",
+   "Ziggurat"
+  ],
+  "answer": "Yakhchal",
+  "difficulty": "hard",
+  "topic": "yakhchal"
+ },
+ {
+  "id": "hard-tech-036",
+  "prompt": "The earliest evidence of wheeled vehicles dates to which period?",
+  "choices": [
+   "8th millennium BC",
+   "6th millennium BC",
+   "2nd millennium BC",
+   "4th millennium BC"
+  ],
+  "answer": "4th millennium BC",
+  "difficulty": "medium",
+  "topic": "wheel-date"
+ },
+ {
+  "id": "hard-tech-037",
+  "prompt": "Bronze is an alloy of copper and which metal?",
+  "choices": [
+   "Nickel",
+   "Tin",
+   "Lead",
+   "Zinc"
+  ],
+  "answer": "Tin",
+  "difficulty": "easy",
+  "topic": "bronze-tin"
+ },
+ {
+  "id": "hard-tech-038",
+  "prompt": "Which Song official invented the pound lock for canals in 984?",
+  "choices": [
+   "Qiao Weiyue",
+   "Su Song",
+   "Guo Shoujing",
+   "Li Bing"
+  ],
+  "answer": "Qiao Weiyue",
+  "difficulty": "hard",
+  "topic": "pound-lock"
+ },
+ {
+  "id": "hard-tech-039",
+  "prompt": "Which official engineered the Dujiangyan irrigation system in Sichuan around 256 BC?",
+  "choices": [
+   "Li Bing",
+   "Guo Shoujing",
+   "Zheng Guo",
+   "Sunshu Ao"
+  ],
+  "answer": "Li Bing",
+  "difficulty": "medium",
+  "topic": "dujiangyan"
+ },
+ {
+  "id": "hard-tech-040",
+  "prompt": "Which Japanese steel, smelted in a tatara furnace, is used for katana blades?",
+  "choices": [
+   "Blister steel",
+   "Wootz",
+   "Bessemer steel",
+   "Tamahagane"
+  ],
+  "answer": "Tamahagane",
+  "difficulty": "medium",
+  "topic": "tamahagane"
+ },
+ {
+  "id": "hard-tech-041",
+  "prompt": "Which Korean admiral used armored turtle ships against Japanese fleets in the 1590s?",
+  "choices": [
+   "Yi Sun-sin",
+   "Kim Yu-sin",
+   "Yi Seong-gye",
+   "Gang Gam-chan"
+  ],
+  "answer": "Yi Sun-sin",
+  "difficulty": "easy",
+  "topic": "turtle-ship"
+ },
+ {
+  "id": "hard-tech-042",
+  "prompt": "Which Englishman devised a horse-drawn seed drill in 1701?",
+  "choices": [
+   "Jethro Tull",
+   "Robert Bakewell",
+   "Thomas Coke",
+   "Charles Townshend"
+  ],
+  "answer": "Jethro Tull",
+  "difficulty": "easy",
+  "topic": "seed-drill"
+ },
+ {
+  "id": "hard-tech-043",
+  "prompt": "Viking longship hulls used overlapping planks, a method called what?",
+  "choices": [
+   "Clinker",
+   "Coracle",
+   "Dugout",
+   "Carvel"
+  ],
+  "answer": "Clinker",
+  "difficulty": "medium",
+  "topic": "clinker-build"
+ },
+ {
+  "id": "hard-tech-044",
+  "prompt": "Which triangular sail, common on Arab dhows, lets a ship sail closer to the wind?",
+  "choices": [
+   "Gaff",
+   "Spinnaker",
+   "Lateen",
+   "Square sail"
+  ],
+  "answer": "Lateen",
+  "difficulty": "medium",
+  "topic": "lateen-sail"
+ },
+ {
+  "id": "hard-tech-045",
+  "prompt": "Which East Asian ship type with battened sails and bulkheaded hulls did Marco Polo describe?",
+  "choices": [
+   "Dhow",
+   "Cog",
+   "Junk",
+   "Caravel"
+  ],
+  "answer": "Junk",
+  "difficulty": "medium",
+  "topic": "junk"
+ },
+ {
+  "id": "hard-tech-046",
+  "prompt": "Which small, maneuverable ship type did Portugal develop for 15th-century voyages of exploration?",
+  "choices": [
+   "Dhow",
+   "Caravel",
+   "Cog",
+   "Galleon"
+  ],
+  "answer": "Caravel",
+  "difficulty": "easy",
+  "topic": "caravel"
+ },
+ {
+  "id": "hard-tech-047",
+  "prompt": "Which flat-bottomed, single-masted ship type carried Hanseatic League trade?",
+  "choices": [
+   "Carrack",
+   "Cog",
+   "Galleass",
+   "Caravel"
+  ],
+  "answer": "Cog",
+  "difficulty": "medium",
+  "topic": "cog"
+ },
+ {
+  "id": "hard-tech-048",
+  "prompt": "Which English clockmaker built the H4 marine chronometer, finished in 1759?",
+  "choices": [
+   "Thomas Mudge",
+   "John Harrison",
+   "George Graham",
+   "Thomas Tompion"
+  ],
+  "answer": "John Harrison",
+  "difficulty": "easy",
+  "topic": "harrison-h4"
+ },
+ {
+  "id": "hard-tech-049",
+  "prompt": "In which German city did Gutenberg print his Bible around 1455?",
+  "choices": [
+   "Mainz",
+   "Nuremberg",
+   "Strasbourg",
+   "Cologne"
+  ],
+  "answer": "Mainz",
+  "difficulty": "easy",
+  "topic": "gutenberg-mainz"
+ },
+ {
+  "id": "hard-tech-050",
+  "prompt": "Which clock regulator, using a foliot, drove the first European mechanical clocks?",
+  "choices": [
+   "Pendulum",
+   "Verge escapement",
+   "Remontoire",
+   "Anchor escapement"
+  ],
+  "answer": "Verge escapement",
+  "difficulty": "hard",
+  "topic": "verge-escapement"
+ },
+ {
+  "id": "hard-tech-051",
+  "prompt": "Which Dutch scientist patented the first pendulum clock in 1657?",
+  "choices": [
+   "Robert Hooke",
+   "Willem Drebbel",
+   "Galileo Galilei",
+   "Christiaan Huygens"
+  ],
+  "answer": "Christiaan Huygens",
+  "difficulty": "easy",
+  "topic": "huygens-clock"
+ },
+ {
+  "id": "hard-tech-052",
+  "prompt": "Where were the first practical windmills, with vertical axes, used in the early medieval era?",
+  "choices": [
+   "England",
+   "China",
+   "The Netherlands",
+   "Persia"
+  ],
+  "answer": "Persia",
+  "difficulty": "hard",
+  "topic": "persian-windmill"
+ },
+ {
+  "id": "hard-tech-053",
+  "prompt": "Which Roman-era complex near Arles used 16 water wheels to mill grain?",
+  "choices": [
+   "Pompeii",
+   "Ostia",
+   "Hierapolis",
+   "Barbegal"
+  ],
+  "answer": "Barbegal",
+  "difficulty": "hard",
+  "topic": "barbegal"
+ },
+ {
+  "id": "hard-tech-054",
+  "prompt": "Whose 1712 atmospheric engine pumped water out of mines?",
+  "choices": [
+   "Thomas Newcomen",
+   "Richard Trevithick",
+   "James Watt",
+   "Thomas Savery"
+  ],
+  "answer": "Thomas Newcomen",
+  "difficulty": "easy",
+  "topic": "newcomen"
+ },
+ {
+  "id": "hard-tech-055",
+  "prompt": "Which engineer patented the 1698 Miner's Friend steam pump?",
+  "choices": [
+   "Thomas Newcomen",
+   "Thomas Savery",
+   "Denis Papin",
+   "Matthew Boulton"
+  ],
+  "answer": "Thomas Savery",
+  "difficulty": "medium",
+  "topic": "savery-pump"
+ },
+ {
+  "id": "hard-tech-056",
+  "prompt": "Which 1769 patent by James Watt cut the steam engine's fuel use sharply?",
+  "choices": [
+   "Centrifugal governor",
+   "Double-acting cylinder",
+   "Separate condenser",
+   "Sun-and-planet gear"
+  ],
+  "answer": "Separate condenser",
+  "difficulty": "medium",
+  "topic": "watt-condenser"
+ },
+ {
+  "id": "hard-tech-057",
+  "prompt": "Which Cornish engineer ran a high-pressure steam locomotive on rails at Penydarren in 1804?",
+  "choices": [
+   "George Stephenson",
+   "William Murdoch",
+   "Richard Trevithick",
+   "Timothy Hackworth"
+  ],
+  "answer": "Richard Trevithick",
+  "difficulty": "easy",
+  "topic": "trevithick-1804"
+ },
+ {
+  "id": "hard-tech-058",
+  "prompt": "Which locomotive won the 1829 Rainhill Trials?",
+  "choices": [
+   "Rocket",
+   "Locomotion",
+   "Novelty",
+   "Sans Pareil"
+  ],
+  "answer": "Rocket",
+  "difficulty": "easy",
+  "topic": "rainhill-rocket"
+ },
+ {
+  "id": "hard-tech-059",
+  "prompt": "Which 1825 English line was the first public railway to use steam locomotives?",
+  "choices": [
+   "Stratford and Moreton",
+   "Liverpool and Manchester",
+   "Stockton and Darlington",
+   "Surrey Iron Railway"
+  ],
+  "answer": "Stockton and Darlington",
+  "difficulty": "hard",
+  "topic": "stockton-darlington"
+ },
+ {
+  "id": "hard-tech-060",
+  "prompt": "In which decade did Eli Whitney patent the cotton gin?",
+  "choices": [
+   "1760s",
+   "1840s",
+   "1790s",
+   "1820s"
+  ],
+  "answer": "1790s",
+  "difficulty": "easy",
+  "topic": "cotton-gin-decade"
+ },
+ {
+  "id": "hard-tech-061",
+  "prompt": "Who invented the spinning jenny around 1764?",
+  "choices": [
+   "James Hargreaves",
+   "John Kay",
+   "Samuel Crompton",
+   "Richard Arkwright"
+  ],
+  "answer": "James Hargreaves",
+  "difficulty": "medium",
+  "topic": "spinning-jenny"
+ },
+ {
+  "id": "hard-tech-062",
+  "prompt": "Which roller-spinning machine did Richard Arkwright patent in 1769?",
+  "choices": [
+   "Power loom",
+   "Water frame",
+   "Flying shuttle",
+   "Spinning mule"
+  ],
+  "answer": "Water frame",
+  "difficulty": "medium",
+  "topic": "water-frame"
+ },
+ {
+  "id": "hard-tech-063",
+  "prompt": "Which hybrid of the jenny and water frame did Samuel Crompton complete in 1779?",
+  "choices": [
+   "Cotton gin",
+   "Spinning mule",
+   "Carding engine",
+   "Throstle frame"
+  ],
+  "answer": "Spinning mule",
+  "difficulty": "hard",
+  "topic": "spinning-mule"
+ },
+ {
+  "id": "hard-tech-064",
+  "prompt": "John Kay's 1733 patent improved weaving with which device?",
+  "choices": [
+   "Jacquard head",
+   "Power loom",
+   "Spinning jenny",
+   "Flying shuttle"
+  ],
+  "answer": "Flying shuttle",
+  "difficulty": "medium",
+  "topic": "flying-shuttle"
+ },
+ {
+  "id": "hard-tech-065",
+  "prompt": "Which Frenchman's 1804 loom used punched cards to weave patterns?",
+  "choices": [
+   "Joseph Marie Jacquard",
+   "Edmund Cartwright",
+   "Jacques de Vaucanson",
+   "James Hargreaves"
+  ],
+  "answer": "Joseph Marie Jacquard",
+  "difficulty": "easy",
+  "topic": "jacquard"
+ },
+ {
+  "id": "hard-tech-066",
+  "prompt": "Who patented a power loom in 1785?",
+  "choices": [
+   "Samuel Crompton",
+   "Richard Roberts",
+   "Edmund Cartwright",
+   "John Kay"
+  ],
+  "answer": "Edmund Cartwright",
+  "difficulty": "hard",
+  "topic": "cartwright-loom"
+ },
+ {
+  "id": "hard-tech-067",
+  "prompt": "What does the Bessemer process blow through molten pig iron to make steel?",
+  "choices": [
+   "Hydrogen",
+   "Carbon dioxide",
+   "Air",
+   "Steam"
+  ],
+  "answer": "Air",
+  "difficulty": "medium",
+  "topic": "bessemer-air"
+ },
+ {
+  "id": "hard-tech-068",
+  "prompt": "Which steelmaking process, using a regenerative furnace by the Siemens brothers, arose in the 1860s?",
+  "choices": [
+   "Crucible",
+   "Puddling",
+   "Open-hearth",
+   "Cementation"
+  ],
+  "answer": "Open-hearth",
+  "difficulty": "medium",
+  "topic": "open-hearth"
+ },
+ {
+  "id": "hard-tech-069",
+  "prompt": "Which process, patented by Henry Cort in 1784, made wrought iron from pig iron?",
+  "choices": [
+   "Cementation",
+   "Puddling",
+   "Bloomery",
+   "Crucible"
+  ],
+  "answer": "Puddling",
+  "difficulty": "medium",
+  "topic": "puddling"
+ },
+ {
+  "id": "hard-tech-070",
+  "prompt": "Which Shropshire ironmaster first smelted iron with coke in 1709?",
+  "choices": [
+   "Abraham Darby",
+   "John Wilkinson",
+   "Henry Cort",
+   "Benjamin Huntsman"
+  ],
+  "answer": "Abraham Darby",
+  "difficulty": "medium",
+  "topic": "darby-coke"
+ },
+ {
+  "id": "hard-tech-071",
+  "prompt": "Which Sheffield clockmaker developed crucible steel in the 1740s?",
+  "choices": [
+   "Henry Cort",
+   "Benjamin Huntsman",
+   "Abraham Darby",
+   "Henry Bessemer"
+  ],
+  "answer": "Benjamin Huntsman",
+  "difficulty": "medium",
+  "topic": "huntsman-steel"
+ },
+ {
+  "id": "hard-tech-072",
+  "prompt": "The world's first major cast-iron bridge, opened 1779, spans which river?",
+  "choices": [
+   "Thames",
+   "Trent",
+   "Tyne",
+   "Severn"
+  ],
+  "answer": "Severn",
+  "difficulty": "medium",
+  "topic": "ironbridge-severn"
+ },
+ {
+  "id": "hard-tech-073",
+  "prompt": "The Haber-Bosch process makes which compound from nitrogen and hydrogen?",
+  "choices": [
+   "Nitric acid",
+   "Ammonia",
+   "Urea",
+   "Hydrazine"
+  ],
+  "answer": "Ammonia",
+  "difficulty": "medium",
+  "topic": "haber-bosch"
+ },
+ {
+  "id": "hard-tech-074",
+  "prompt": "The Solvay process is used to make which chemical?",
+  "choices": [
+   "Sodium hydroxide",
+   "Sulfuric acid",
+   "Chlorine",
+   "Sodium carbonate"
+  ],
+  "answer": "Sodium carbonate",
+  "difficulty": "hard",
+  "topic": "solvay"
+ },
+ {
+  "id": "hard-tech-075",
+  "prompt": "The Hall-Heroult process of 1886 made which metal cheap?",
+  "choices": [
+   "Titanium",
+   "Zinc",
+   "Magnesium",
+   "Aluminium"
+  ],
+  "answer": "Aluminium",
+  "difficulty": "medium",
+  "topic": "hall-heroult"
+ },
+ {
+  "id": "hard-tech-076",
+  "prompt": "Alfred Nobel's dynamite stabilized which explosive with kieselguhr?",
+  "choices": [
+   "Guncotton",
+   "Nitroglycerin",
+   "TNT",
+   "Picric acid"
+  ],
+  "answer": "Nitroglycerin",
+  "difficulty": "easy",
+  "topic": "dynamite"
+ },
+ {
+  "id": "hard-tech-077",
+  "prompt": "Which Italian chemist first made nitroglycerin, in 1847?",
+  "choices": [
+   "Ascanio Sobrero",
+   "Cesare Lombroso",
+   "Alfred Nobel",
+   "Pierre Berthelot"
+  ],
+  "answer": "Ascanio Sobrero",
+  "difficulty": "hard",
+  "topic": "sobrero"
+ },
+ {
+  "id": "hard-tech-078",
+  "prompt": "Bakelite, from 1907, was the first fully synthetic what?",
+  "choices": [
+   "Rubber",
+   "Fiber",
+   "Plastic",
+   "Fuel"
+  ],
+  "answer": "Plastic",
+  "difficulty": "easy",
+  "topic": "bakelite"
+ },
+ {
+  "id": "hard-tech-079",
+  "prompt": "Charles Goodyear's 1839 vulcanization heated rubber with which element?",
+  "choices": [
+   "Chlorine",
+   "Carbon",
+   "Sulfur",
+   "Phosphorus"
+  ],
+  "answer": "Sulfur",
+  "difficulty": "medium",
+  "topic": "vulcanization-sulfur"
+ },
+ {
+  "id": "hard-tech-080",
+  "prompt": "Which DuPont chemist led the team that created nylon in 1935?",
+  "choices": [
+   "Leo Baekeland",
+   "Stephanie Kwolek",
+   "Wallace Carothers",
+   "Roy Plunkett"
+  ],
+  "answer": "Wallace Carothers",
+  "difficulty": "easy",
+  "topic": "nylon-carothers"
+ },
+ {
+  "id": "hard-tech-081",
+  "prompt": "Which DuPont chemist stumbled upon Teflon (PTFE) in 1938?",
+  "choices": [
+   "Paul Flory",
+   "Wallace Carothers",
+   "Stephanie Kwolek",
+   "Roy Plunkett"
+  ],
+  "answer": "Roy Plunkett",
+  "difficulty": "hard",
+  "topic": "teflon-plunkett"
+ },
+ {
+  "id": "hard-tech-082",
+  "prompt": "Which DuPont chemist invented Kevlar in 1965?",
+  "choices": [
+   "Stephanie Kwolek",
+   "Leo Baekeland",
+   "Wallace Carothers",
+   "Roy Plunkett"
+  ],
+  "answer": "Stephanie Kwolek",
+  "difficulty": "medium",
+  "topic": "kevlar"
+ },
+ {
+  "id": "hard-tech-083",
+  "prompt": "Which British firm developed float glass in the 1950s?",
+  "choices": [
+   "Pilkington",
+   "Corning",
+   "Saint-Gobain",
+   "Schott"
+  ],
+  "answer": "Pilkington",
+  "difficulty": "medium",
+  "topic": "float-glass"
+ },
+ {
+  "id": "hard-tech-084",
+  "prompt": "Who patented Portland cement in 1824?",
+  "choices": [
+   "William Parsons",
+   "John Smeaton",
+   "Joseph Aspdin",
+   "Isambard Brunel"
+  ],
+  "answer": "Joseph Aspdin",
+  "difficulty": "medium",
+  "topic": "portland-cement"
+ },
+ {
+  "id": "hard-tech-085",
+  "prompt": "Which Sheffield metallurgist developed stainless steel in 1913?",
+  "choices": [
+   "Harry Brearley",
+   "Robert Hadfield",
+   "Henry Bessemer",
+   "Benjamin Huntsman"
+  ],
+  "answer": "Harry Brearley",
+  "difficulty": "medium",
+  "topic": "stainless-brearley"
+ },
+ {
+  "id": "hard-tech-086",
+  "prompt": "Where was the first self-sustaining nuclear chain reaction achieved, in 1942?",
+  "choices": [
+   "Los Alamos",
+   "Columbia University",
+   "University of Chicago",
+   "Oak Ridge"
+  ],
+  "answer": "University of Chicago",
+  "difficulty": "medium",
+  "topic": "chicago-pile-1"
+ },
+ {
+  "id": "hard-tech-087",
+  "prompt": "Which Belgian built the first commercially practical DC dynamo in 1871?",
+  "choices": [
+   "Werner Siemens",
+   "Charles Brush",
+   "Hippolyte Pixii",
+   "Zenobe Gramme"
+  ],
+  "answer": "Zenobe Gramme",
+  "difficulty": "medium",
+  "topic": "gramme-dynamo"
+ },
+ {
+  "id": "hard-tech-088",
+  "prompt": "In which city did Edison's Pearl Street Station open in 1882?",
+  "choices": [
+   "New York",
+   "Menlo Park",
+   "Philadelphia",
+   "Chicago"
+  ],
+  "answer": "New York",
+  "difficulty": "easy",
+  "topic": "pearl-street"
+ },
+ {
+  "id": "hard-tech-089",
+  "prompt": "Which engineer patented the compound steam turbine in 1884?",
+  "choices": [
+   "Lord Kelvin",
+   "Charles Parsons",
+   "William Rankine",
+   "Gustaf de Laval"
+  ],
+  "answer": "Charles Parsons",
+  "difficulty": "medium",
+  "topic": "parsons-turbine"
+ },
+ {
+  "id": "hard-tech-090",
+  "prompt": "Which experimental turbine ship raced past the fleet at the 1897 Spithead review?",
+  "choices": [
+   "Dreadnought",
+   "Savannah",
+   "Turbinia",
+   "Great Eastern"
+  ],
+  "answer": "Turbinia",
+  "difficulty": "medium",
+  "topic": "turbinia"
+ },
+ {
+  "id": "hard-tech-091",
+  "prompt": "Which Austrian engineer invented an adjustable-blade water turbine in 1913?",
+  "choices": [
+   "Viktor Kaplan",
+   "Ludwig Prandtl",
+   "Lester Pelton",
+   "James Francis"
+  ],
+  "answer": "Viktor Kaplan",
+  "difficulty": "medium",
+  "topic": "kaplan-turbine"
+ },
+ {
+  "id": "hard-tech-092",
+  "prompt": "In a Diesel engine, what ignites the fuel?",
+  "choices": [
+   "Spark plug",
+   "Compression heat",
+   "Magneto",
+   "Pilot flame"
+  ],
+  "answer": "Compression heat",
+  "difficulty": "easy",
+  "topic": "diesel-compression"
+ },
+ {
+  "id": "hard-tech-093",
+  "prompt": "Which German built the first practical four-stroke engine in 1876?",
+  "choices": [
+   "Gottlieb Daimler",
+   "Karl Benz",
+   "Rudolf Diesel",
+   "Nikolaus Otto"
+  ],
+  "answer": "Nikolaus Otto",
+  "difficulty": "easy",
+  "topic": "otto-engine"
+ },
+ {
+  "id": "hard-tech-094",
+  "prompt": "Karl Benz's 1886 three-wheeled motor vehicle was called what?",
+  "choices": [
+   "Duryea Motor Wagon",
+   "Patent-Motorwagen",
+   "Cugnot fardier",
+   "Daimler Reitwagen"
+  ],
+  "answer": "Patent-Motorwagen",
+  "difficulty": "easy",
+  "topic": "benz-motorwagen"
+ },
+ {
+  "id": "hard-tech-095",
+  "prompt": "Which German engineer developed the rotary piston engine first run in 1957?",
+  "choices": [
+   "Rudolf Diesel",
+   "Ferdinand Porsche",
+   "Nikolaus Otto",
+   "Felix Wankel"
+  ],
+  "answer": "Felix Wankel",
+  "difficulty": "hard",
+  "topic": "wankel"
+ },
+ {
+  "id": "hard-tech-096",
+  "prompt": "Who invented the rechargeable lead-acid battery in 1859?",
+  "choices": [
+   "Gaston Plante",
+   "Georges Leclanche",
+   "Alessandro Volta",
+   "John Daniell"
+  ],
+  "answer": "Gaston Plante",
+  "difficulty": "medium",
+  "topic": "lead-acid-plante"
+ },
+ {
+  "id": "hard-tech-097",
+  "prompt": "Which company first sold a commercial lithium-ion battery, in 1991?",
+  "choices": [
+   "Panasonic",
+   "Samsung",
+   "Toshiba",
+   "Sony"
+  ],
+  "answer": "Sony",
+  "difficulty": "easy",
+  "topic": "li-ion-sony"
+ },
+ {
+  "id": "hard-tech-098",
+  "prompt": "Which laboratory unveiled the first practical silicon solar cell in 1954?",
+  "choices": [
+   "Westinghouse",
+   "General Electric",
+   "RCA",
+   "Bell Labs"
+  ],
+  "answer": "Bell Labs",
+  "difficulty": "medium",
+  "topic": "solar-cell-1954"
+ },
+ {
+  "id": "hard-tech-099",
+  "prompt": "Which Welsh scientist built the first fuel cell in 1839?",
+  "choices": [
+   "William Grove",
+   "Humphry Davy",
+   "John Daniell",
+   "Michael Faraday"
+  ],
+  "answer": "William Grove",
+  "difficulty": "medium",
+  "topic": "grove-fuel-cell"
+ },
+ {
+  "id": "hard-tech-100",
+  "prompt": "Which Cleveland inventor built a 12 kW wind-electric turbine in 1887?",
+  "choices": [
+   "Elihu Thomson",
+   "Charles Brush",
+   "Edward Weston",
+   "Poul la Cour"
+  ],
+  "answer": "Charles Brush",
+  "difficulty": "medium",
+  "topic": "brush-wind"
+ },
+ {
+  "id": "hard-tech-101",
+  "prompt": "Which Scottish engineer lit his Redruth home with coal gas in the 1790s?",
+  "choices": [
+   "James Watt",
+   "Matthew Boulton",
+   "Thomas Telford",
+   "William Murdoch"
+  ],
+  "answer": "William Murdoch",
+  "difficulty": "medium",
+  "topic": "murdoch-gas"
+ },
+ {
+  "id": "hard-tech-102",
+  "prompt": "Which chemist's 1815 safety lamp reduced coal-mine explosions?",
+  "choices": [
+   "Michael Faraday",
+   "Joseph Priestley",
+   "John Dalton",
+   "Humphry Davy"
+  ],
+  "answer": "Humphry Davy",
+  "difficulty": "easy",
+  "topic": "davy-lamp"
+ },
+ {
+  "id": "hard-tech-103",
+  "prompt": "Whose 1820s lens of concentric rings transformed lighthouses?",
+  "choices": [
+   "Augustin Fresnel",
+   "Leon Foucault",
+   "Louis Daguerre",
+   "Dominique Arago"
+  ],
+  "answer": "Augustin Fresnel",
+  "difficulty": "medium",
+  "topic": "fresnel-lens"
+ },
+ {
+  "id": "hard-tech-104",
+  "prompt": "Which engineer rebuilt Eddystone Lighthouse in 1759 using dovetailed granite blocks?",
+  "choices": [
+   "Isambard Brunel",
+   "John Smeaton",
+   "Thomas Telford",
+   "Robert Stevenson"
+  ],
+  "answer": "John Smeaton",
+  "difficulty": "medium",
+  "topic": "smeaton-eddystone"
+ },
+ {
+  "id": "hard-tech-105",
+  "prompt": "Which engineer designed the iron-hulled screw steamer SS Great Britain, launched 1843?",
+  "choices": [
+   "Thomas Telford",
+   "Robert Stephenson",
+   "Joseph Bazalgette",
+   "Isambard Brunel"
+  ],
+  "answer": "Isambard Brunel",
+  "difficulty": "easy",
+  "topic": "ss-great-britain"
+ },
+ {
+  "id": "hard-tech-106",
+  "prompt": "Which engineer's 1826 Menai Suspension Bridge briefly held the longest span record?",
+  "choices": [
+   "Isambard Brunel",
+   "Thomas Telford",
+   "Robert Stephenson",
+   "John Rennie"
+  ],
+  "answer": "Thomas Telford",
+  "difficulty": "medium",
+  "topic": "menai-telford"
+ },
+ {
+  "id": "hard-tech-107",
+  "prompt": "The Brooklyn Bridge, opened 1883, pioneered which cable material for suspension spans?",
+  "choices": [
+   "Cast-iron rods",
+   "Wrought-iron chain",
+   "Steel wire",
+   "Hemp rope"
+  ],
+  "answer": "Steel wire",
+  "difficulty": "hard",
+  "topic": "brooklyn-steel-wire"
+ },
+ {
+  "id": "hard-tech-108",
+  "prompt": "Which gardener-turned-architect designed the 1851 Crystal Palace?",
+  "choices": [
+   "Owen Jones",
+   "Isambard Brunel",
+   "Joseph Paxton",
+   "Charles Barry"
+  ],
+  "answer": "Joseph Paxton",
+  "difficulty": "medium",
+  "topic": "paxton"
+ },
+ {
+  "id": "hard-tech-109",
+  "prompt": "Which inventor demonstrated a safety elevator brake in New York in 1854?",
+  "choices": [
+   "William Le Baron Jenney",
+   "Elisha Otis",
+   "Werner Siemens",
+   "Frank Sprague"
+  ],
+  "answer": "Elisha Otis",
+  "difficulty": "medium",
+  "topic": "otis"
+ },
+ {
+  "id": "hard-tech-110",
+  "prompt": "Which French diplomat headed the company that built the Suez Canal?",
+  "choices": [
+   "Ferdinand de Lesseps",
+   "Gustave Eiffel",
+   "Louis Bonaparte",
+   "Luigi Negrelli"
+  ],
+  "answer": "Ferdinand de Lesseps",
+  "difficulty": "medium",
+  "topic": "suez-lesseps"
+ },
+ {
+  "id": "hard-tech-111",
+  "prompt": "Which brothers launched the first crewed hot-air balloon flight in France in 1783?",
+  "choices": [
+   "Robert",
+   "Montgolfier",
+   "Wright",
+   "Lumiere"
+  ],
+  "answer": "Montgolfier",
+  "difficulty": "easy",
+  "topic": "montgolfier"
+ },
+ {
+  "id": "hard-tech-112",
+  "prompt": "Which English baronet identified lift, drag, thrust and weight and flew gliders from 1799?",
+  "choices": [
+   "Octave Chanute",
+   "George Cayley",
+   "Otto Lilienthal",
+   "Samuel Langley"
+  ],
+  "answer": "George Cayley",
+  "difficulty": "medium",
+  "topic": "cayley"
+ },
+ {
+  "id": "hard-tech-113",
+  "prompt": "Which German glider pioneer made thousands of flights in the 1890s before dying in a crash in 1896?",
+  "choices": [
+   "Octave Chanute",
+   "Otto Lilienthal",
+   "Percy Pilcher",
+   "George Cayley"
+  ],
+  "answer": "Otto Lilienthal",
+  "difficulty": "medium",
+  "topic": "lilienthal"
+ },
+ {
+  "id": "hard-tech-114",
+  "prompt": "Which German count's rigid airships first flew in 1900?",
+  "choices": [
+   "Hugo Eckener",
+   "Henri Giffard",
+   "Alberto Santos-Dumont",
+   "Ferdinand von Zeppelin"
+  ],
+  "answer": "Ferdinand von Zeppelin",
+  "difficulty": "easy",
+  "topic": "zeppelin"
+ },
+ {
+  "id": "hard-tech-115",
+  "prompt": "Which Heinkel aircraft made the first jet-powered flight in 1939?",
+  "choices": [
+   "Bell XP-59",
+   "Gloster E.28/39",
+   "Me 262",
+   "He 178"
+  ],
+  "answer": "He 178",
+  "difficulty": "hard",
+  "topic": "he-178"
+ },
+ {
+  "id": "hard-tech-116",
+  "prompt": "Which Russian-born engineer built the first practical single-rotor helicopter, the VS-300?",
+  "choices": [
+   "Juan de la Cierva",
+   "Paul Cornu",
+   "Anton Flettner",
+   "Igor Sikorsky"
+  ],
+  "answer": "Igor Sikorsky",
+  "difficulty": "medium",
+  "topic": "sikorsky-vs300"
+ },
+ {
+  "id": "hard-tech-117",
+  "prompt": "Which aircraft did Chuck Yeager fly past Mach 1 in 1947?",
+  "choices": [
+   "North American X-15",
+   "Bell X-1",
+   "Douglas Skyrocket",
+   "Lockheed Starfighter"
+  ],
+  "answer": "Bell X-1",
+  "difficulty": "easy",
+  "topic": "bell-x1"
+ },
+ {
+  "id": "hard-tech-118",
+  "prompt": "Concorde was developed jointly by Britain and which other country?",
+  "choices": [
+   "Germany",
+   "United States",
+   "France",
+   "Italy"
+  ],
+  "answer": "France",
+  "difficulty": "easy",
+  "topic": "concorde"
+ },
+ {
+  "id": "hard-tech-119",
+  "prompt": "Which Soviet designer's R-7 rocket launched Sputnik 1?",
+  "choices": [
+   "Vladimir Chelomei",
+   "Valentin Glushko",
+   "Sergei Korolev",
+   "Mikhail Yangel"
+  ],
+  "answer": "Sergei Korolev",
+  "difficulty": "easy",
+  "topic": "korolev-r7"
+ },
+ {
+  "id": "hard-tech-120",
+  "prompt": "Which scientist launched the first liquid-fueled rocket, in Massachusetts in 1926?",
+  "choices": [
+   "Hermann Oberth",
+   "Robert Goddard",
+   "Wernher von Braun",
+   "Konstantin Tsiolkovsky"
+  ],
+  "answer": "Robert Goddard",
+  "difficulty": "easy",
+  "topic": "goddard-1926"
+ },
+ {
+  "id": "hard-tech-121",
+  "prompt": "Which engine powered the first stage of the Saturn V?",
+  "choices": [
+   "J-2",
+   "F-1",
+   "RS-25",
+   "RL10"
+  ],
+  "answer": "F-1",
+  "difficulty": "hard",
+  "topic": "f1-engine"
+ },
+ {
+  "id": "hard-tech-122",
+  "prompt": "Which Soviet probe made the first soft landing on the Moon, in 1966?",
+  "choices": [
+   "Lunokhod 1",
+   "Luna 9",
+   "Luna 16",
+   "Luna 2"
+  ],
+  "answer": "Luna 9",
+  "difficulty": "hard",
+  "topic": "luna-9"
+ },
+ {
+  "id": "hard-tech-123",
+  "prompt": "Which space shuttle deployed the Hubble Space Telescope in 1990?",
+  "choices": [
+   "Discovery",
+   "Endeavour",
+   "Atlantis",
+   "Columbia"
+  ],
+  "answer": "Discovery",
+  "difficulty": "easy",
+  "topic": "hubble-discovery"
+ },
+ {
+  "id": "hard-tech-124",
+  "prompt": "Standard railway gauge, 4 ft 8.5 in, equals about how many millimetres?",
+  "choices": [
+   "1,067",
+   "1,520",
+   "1,676",
+   "1,435"
+  ],
+  "answer": "1,435",
+  "difficulty": "medium",
+  "topic": "standard-gauge"
+ },
+ {
+  "id": "hard-tech-125",
+  "prompt": "Which American invented the compressed-air railway brake in 1869?",
+  "choices": [
+   "George Pullman",
+   "Cornelius Vanderbilt",
+   "Eli Janney",
+   "George Westinghouse"
+  ],
+  "answer": "George Westinghouse",
+  "difficulty": "medium",
+  "topic": "westinghouse-brake"
+ },
+ {
+  "id": "hard-tech-126",
+  "prompt": "Where was the golden spike driven in 1869 to complete the first US transcontinental railroad?",
+  "choices": [
+   "Sacramento",
+   "Promontory Summit",
+   "Omaha",
+   "Ogden"
+  ],
+  "answer": "Promontory Summit",
+  "difficulty": "easy",
+  "topic": "golden-spike"
+ },
+ {
+  "id": "hard-tech-127",
+  "prompt": "Japan's Shinkansen opened in 1964 linking Tokyo and which city?",
+  "choices": [
+   "Nagoya",
+   "Hiroshima",
+   "Kyoto",
+   "Osaka"
+  ],
+  "answer": "Osaka",
+  "difficulty": "medium",
+  "topic": "shinkansen-1964"
+ },
+ {
+  "id": "hard-tech-128",
+  "prompt": "Which city opened the world's first underground passenger railway in 1863?",
+  "choices": [
+   "Budapest",
+   "London",
+   "New York",
+   "Paris"
+  ],
+  "answer": "London",
+  "difficulty": "easy",
+  "topic": "underground-1863"
+ },
+ {
+  "id": "hard-tech-129",
+  "prompt": "At which Michigan plant did Ford introduce the moving assembly line in 1913?",
+  "choices": [
+   "River Rouge",
+   "Highland Park",
+   "Piquette Avenue",
+   "Willow Run"
+  ],
+  "answer": "Highland Park",
+  "difficulty": "hard",
+  "topic": "ford-highland-park"
+ },
+ {
+  "id": "hard-tech-130",
+  "prompt": "Which Scottish veterinarian patented the pneumatic tyre in 1888?",
+  "choices": [
+   "Charles Goodyear",
+   "Harvey Firestone",
+   "John Boyd Dunlop",
+   "Robert Thomson"
+  ],
+  "answer": "John Boyd Dunlop",
+  "difficulty": "easy",
+  "topic": "dunlop-tyre"
+ },
+ {
+  "id": "hard-tech-131",
+  "prompt": "Which woman made the first long-distance car journey, from Mannheim to Pforzheim, in 1888?",
+  "choices": [
+   "Mary Anderson",
+   "Louise Renault",
+   "Bertha Benz",
+   "Bertha Krupp"
+  ],
+  "answer": "Bertha Benz",
+  "difficulty": "easy",
+  "topic": "bertha-benz"
+ },
+ {
+  "id": "hard-tech-132",
+  "prompt": "Which engineer developed the electric starter motor for the 1912 Cadillac?",
+  "choices": [
+   "Henry Leland",
+   "Harry Ricardo",
+   "Charles Kettering",
+   "Louis Chevrolet"
+  ],
+  "answer": "Charles Kettering",
+  "difficulty": "medium",
+  "topic": "kettering-starter"
+ },
+ {
+  "id": "hard-tech-133",
+  "prompt": "Which Volvo engineer invented the three-point seat belt in 1959?",
+  "choices": [
+   "Nils Bohlin",
+   "Gustaf Larson",
+   "Gideon Sundback",
+   "Ralph Nader"
+  ],
+  "answer": "Nils Bohlin",
+  "difficulty": "hard",
+  "topic": "bohlin-seatbelt"
+ },
+ {
+  "id": "hard-tech-134",
+  "prompt": "Which American's Clermont began steamboat service on the Hudson in 1807?",
+  "choices": [
+   "James Rumsey",
+   "Robert Fulton",
+   "John Fitch",
+   "John Stevens"
+  ],
+  "answer": "Robert Fulton",
+  "difficulty": "easy",
+  "topic": "fulton-clermont"
+ },
+ {
+  "id": "hard-tech-135",
+  "prompt": "Which Swedish-American engineer designed the ironclad USS Monitor?",
+  "choices": [
+   "John Roach",
+   "Cornelius Bushnell",
+   "John Ericsson",
+   "Isambard Brunel"
+  ],
+  "answer": "John Ericsson",
+  "difficulty": "easy",
+  "topic": "ericsson-monitor"
+ },
+ {
+  "id": "hard-tech-136",
+  "prompt": "HMS Dreadnought of 1906 pioneered all-big-gun armament plus what type of propulsion?",
+  "choices": [
+   "Steam turbines",
+   "Diesel engines",
+   "Paddle wheels",
+   "Nuclear reactors"
+  ],
+  "answer": "Steam turbines",
+  "difficulty": "medium",
+  "topic": "dreadnought-turbines"
+ },
+ {
+  "id": "hard-tech-137",
+  "prompt": "Which trucking magnate launched container shipping with the Ideal X in 1956?",
+  "choices": [
+   "Cornelius Vanderbilt",
+   "J. P. Morgan",
+   "Malcolm McLean",
+   "Henry Kaiser"
+  ],
+  "answer": "Malcolm McLean",
+  "difficulty": "easy",
+  "topic": "mclean-container"
+ },
+ {
+  "id": "hard-tech-138",
+  "prompt": "Which submarine, launched in 1954, was the first nuclear-powered vessel?",
+  "choices": [
+   "USS Triton",
+   "USS Nautilus",
+   "USS Thresher",
+   "USS Skate"
+  ],
+  "answer": "USS Nautilus",
+  "difficulty": "easy",
+  "topic": "nautilus"
+ },
+ {
+  "id": "hard-tech-139",
+  "prompt": "Which American built the one-man submarine Turtle, used against a British ship in 1776?",
+  "choices": [
+   "Simon Lake",
+   "Robert Fulton",
+   "John Holland",
+   "David Bushnell"
+  ],
+  "answer": "David Bushnell",
+  "difficulty": "hard",
+  "topic": "bushnell-turtle"
+ },
+ {
+  "id": "hard-tech-140",
+  "prompt": "Which British physicist led development of the Chain Home radar network?",
+  "choices": [
+   "Henry Tizard",
+   "Frank Whittle",
+   "Robert Watson-Watt",
+   "Barnes Wallis"
+  ],
+  "answer": "Robert Watson-Watt",
+  "difficulty": "easy",
+  "topic": "watson-watt"
+ },
+ {
+  "id": "hard-tech-141",
+  "prompt": "Which device invented at Birmingham in 1940 made compact microwave radar possible?",
+  "choices": [
+   "Cathode-ray tube",
+   "Traveling-wave tube",
+   "Cavity magnetron",
+   "Klystron"
+  ],
+  "answer": "Cavity magnetron",
+  "difficulty": "hard",
+  "topic": "cavity-magnetron"
+ },
+ {
+  "id": "hard-tech-142",
+  "prompt": "Morse's 1844 message What hath God wrought went between Washington and which city?",
+  "choices": [
+   "Baltimore",
+   "Philadelphia",
+   "New York",
+   "Boston"
+  ],
+  "answer": "Baltimore",
+  "difficulty": "medium",
+  "topic": "morse-1844"
+ },
+ {
+  "id": "hard-tech-143",
+  "prompt": "Which ship laid the lasting 1866 transatlantic telegraph cable?",
+  "choices": [
+   "Great Eastern",
+   "Agamemnon",
+   "Britannia",
+   "Great Britain"
+  ],
+  "answer": "Great Eastern",
+  "difficulty": "medium",
+  "topic": "great-eastern-cable"
+ },
+ {
+  "id": "hard-tech-144",
+  "prompt": "Which Frenchman built an optical semaphore telegraph network in the 1790s?",
+  "choices": [
+   "Louis Daguerre",
+   "Joseph Niepce",
+   "Andre Ampere",
+   "Claude Chappe"
+  ],
+  "answer": "Claude Chappe",
+  "difficulty": "medium",
+  "topic": "chappe"
+ },
+ {
+  "id": "hard-tech-145",
+  "prompt": "The baud unit is named for which French telegraph engineer?",
+  "choices": [
+   "Gustave Eiffel",
+   "Louis Braille",
+   "Claude Chappe",
+   "Emile Baudot"
+  ],
+  "answer": "Emile Baudot",
+  "difficulty": "hard",
+  "topic": "baudot"
+ },
+ {
+  "id": "hard-tech-146",
+  "prompt": "Edison's first 1877 phonograph recorded sound on what material?",
+  "choices": [
+   "Tinfoil",
+   "Steel wire",
+   "Wax disc",
+   "Magnetic tape"
+  ],
+  "answer": "Tinfoil",
+  "difficulty": "medium",
+  "topic": "phonograph-tinfoil"
+ },
+ {
+  "id": "hard-tech-147",
+  "prompt": "Which German-American patented the flat-disc gramophone in 1887?",
+  "choices": [
+   "Emile Berliner",
+   "Thomas Edison",
+   "Charles Tainter",
+   "Alexander Bell"
+  ],
+  "answer": "Emile Berliner",
+  "difficulty": "medium",
+  "topic": "berliner"
+ },
+ {
+  "id": "hard-tech-148",
+  "prompt": "Which Danish engineer's 1898 Telegraphone recorded sound magnetically?",
+  "choices": [
+   "Hans Oersted",
+   "Niels Bohr",
+   "Valdemar Poulsen",
+   "Poul la Cour"
+  ],
+  "answer": "Valdemar Poulsen",
+  "difficulty": "hard",
+  "topic": "poulsen"
+ },
+ {
+  "id": "hard-tech-149",
+  "prompt": "Which company demonstrated the Magnetophon tape recorder in 1935?",
+  "choices": [
+   "Philips",
+   "Telefunken",
+   "AEG",
+   "Siemens"
+  ],
+  "answer": "AEG",
+  "difficulty": "hard",
+  "topic": "magnetophon"
+ },
+ {
+  "id": "hard-tech-150",
+  "prompt": "Which company introduced the Compact Cassette in 1963?",
+  "choices": [
+   "Ampex",
+   "Sony",
+   "Philips",
+   "Matsushita"
+  ],
+  "answer": "Philips",
+  "difficulty": "medium",
+  "topic": "compact-cassette"
+ },
+ {
+  "id": "hard-tech-151",
+  "prompt": "Which Scottish engineer gave the first public demonstration of working television in 1926?",
+  "choices": [
+   "Alan Blumlein",
+   "Vladimir Zworykin",
+   "Philo Farnsworth",
+   "John Logie Baird"
+  ],
+  "answer": "John Logie Baird",
+  "difficulty": "easy",
+  "topic": "baird-1926"
+ },
+ {
+  "id": "hard-tech-152",
+  "prompt": "Which undertaker invented the automatic telephone exchange in 1891?",
+  "choices": [
+   "Elisha Gray",
+   "Alexander Bell",
+   "Almon Strowger",
+   "Emile Berliner"
+  ],
+  "answer": "Almon Strowger",
+  "difficulty": "hard",
+  "topic": "strowger"
+ },
+ {
+  "id": "hard-tech-153",
+  "prompt": "Who proposed in 1966 that glass fiber could carry long-distance telecommunications?",
+  "choices": [
+   "Charles Kao",
+   "Narinder Kapany",
+   "Robert Maurer",
+   "Theodore Maiman"
+  ],
+  "answer": "Charles Kao",
+  "difficulty": "medium",
+  "topic": "kao-fiber"
+ },
+ {
+  "id": "hard-tech-154",
+  "prompt": "Which satellite relayed the first live transatlantic television in 1962?",
+  "choices": [
+   "Syncom 2",
+   "Early Bird",
+   "Telstar",
+   "Echo 1"
+  ],
+  "answer": "Telstar",
+  "difficulty": "easy",
+  "topic": "telstar"
+ },
+ {
+  "id": "hard-tech-155",
+  "prompt": "Which writer proposed geostationary communications satellites in 1945?",
+  "choices": [
+   "Arthur C. Clarke",
+   "Robert Heinlein",
+   "Isaac Asimov",
+   "Wernher von Braun"
+  ],
+  "answer": "Arthur C. Clarke",
+  "difficulty": "medium",
+  "topic": "clarke-geostationary"
+ },
+ {
+  "id": "hard-tech-156",
+  "prompt": "Which company's engineer made the first handheld mobile phone call in 1973?",
+  "choices": [
+   "Bell Labs",
+   "Motorola",
+   "Nokia",
+   "Ericsson"
+  ],
+  "answer": "Motorola",
+  "difficulty": "easy",
+  "topic": "motorola-1973"
+ },
+ {
+  "id": "hard-tech-157",
+  "prompt": "What was the first product scanned with a UPC barcode, in 1974?",
+  "choices": [
+   "A pack of chewing gum",
+   "A box of cereal",
+   "A bottle of cola",
+   "A can of soup"
+  ],
+  "answer": "A pack of chewing gum",
+  "difficulty": "hard",
+  "topic": "first-upc-scan"
+ },
+ {
+  "id": "hard-tech-158",
+  "prompt": "Which Toyota group supplier created the QR code in 1994?",
+  "choices": [
+   "Denso Wave",
+   "Mitsubishi Electric",
+   "Panasonic",
+   "Hitachi"
+  ],
+  "answer": "Denso Wave",
+  "difficulty": "medium",
+  "topic": "qr-code"
+ },
+ {
+  "id": "hard-tech-159",
+  "prompt": "Whose 1868 patent led to the first commercially successful typewriter?",
+  "choices": [
+   "Christopher Latham Sholes",
+   "Thomas Edison",
+   "Mark Twain",
+   "Remington"
+  ],
+  "answer": "Christopher Latham Sholes",
+  "difficulty": "easy",
+  "topic": "sholes-typewriter"
+ },
+ {
+  "id": "hard-tech-160",
+  "prompt": "Which Englishman invented the negative-positive calotype photographic process?",
+  "choices": [
+   "Frederick Archer",
+   "William Henry Fox Talbot",
+   "Louis Daguerre",
+   "John Herschel"
+  ],
+  "answer": "William Henry Fox Talbot",
+  "difficulty": "medium",
+  "topic": "talbot-calotype"
+ },
+ {
+  "id": "hard-tech-161",
+  "prompt": "Which Frenchman made the earliest surviving camera photograph, around 1826?",
+  "choices": [
+   "Hippolyte Bayard",
+   "Louis Daguerre",
+   "Etienne Marey",
+   "Nicephore Niepce"
+  ],
+  "answer": "Nicephore Niepce",
+  "difficulty": "medium",
+  "topic": "niepce"
+ },
+ {
+  "id": "hard-tech-162",
+  "prompt": "Which company's 1888 slogan was You press the button, we do the rest?",
+  "choices": [
+   "Leica",
+   "Polaroid",
+   "Kodak",
+   "Agfa"
+  ],
+  "answer": "Kodak",
+  "difficulty": "easy",
+  "topic": "kodak-slogan"
+ },
+ {
+  "id": "hard-tech-163",
+  "prompt": "Which Kodak engineer built the first digital camera in 1975?",
+  "choices": [
+   "Steven Sasson",
+   "George Eastman",
+   "Bryce Bayer",
+   "Willard Boyle"
+  ],
+  "answer": "Steven Sasson",
+  "difficulty": "hard",
+  "topic": "sasson"
+ },
+ {
+  "id": "hard-tech-164",
+  "prompt": "Which brothers gave the first paid public film screening in Paris in 1895?",
+  "choices": [
+   "Skladanowsky",
+   "Gaumont",
+   "Lumiere",
+   "Pathe"
+  ],
+  "answer": "Lumiere",
+  "difficulty": "easy",
+  "topic": "lumiere"
+ },
+ {
+  "id": "hard-tech-165",
+  "prompt": "Which French physician invented the stethoscope in 1816?",
+  "choices": [
+   "Paul Broca",
+   "Louis Pasteur",
+   "Claude Bernard",
+   "Rene Laennec"
+  ],
+  "answer": "Rene Laennec",
+  "difficulty": "easy",
+  "topic": "laennec"
+ },
+ {
+  "id": "hard-tech-166",
+  "prompt": "Which dentist publicly demonstrated ether anesthesia at Massachusetts General in 1846?",
+  "choices": [
+   "William Morton",
+   "Horace Wells",
+   "Crawford Long",
+   "Joseph Lister"
+  ],
+  "answer": "William Morton",
+  "difficulty": "hard",
+  "topic": "morton-ether"
+ },
+ {
+  "id": "hard-tech-167",
+  "prompt": "Which surgeon introduced carbolic acid antisepsis in 1867?",
+  "choices": [
+   "Louis Pasteur",
+   "Joseph Lister",
+   "James Simpson",
+   "Ignaz Semmelweis"
+  ],
+  "answer": "Joseph Lister",
+  "difficulty": "easy",
+  "topic": "lister"
+ },
+ {
+  "id": "hard-tech-168",
+  "prompt": "At which London hospital did Fleming notice penicillin mold in 1928?",
+  "choices": [
+   "Guy's",
+   "St Bartholomew's",
+   "St Thomas'",
+   "St Mary's"
+  ],
+  "answer": "St Mary's",
+  "difficulty": "hard",
+  "topic": "fleming-st-marys"
+ },
+ {
+  "id": "hard-tech-169",
+  "prompt": "Which Dutch physiologist built the string galvanometer for early ECG recordings?",
+  "choices": [
+   "Willem Kolff",
+   "Hermann Helmholtz",
+   "Willem Einthoven",
+   "Christiaan Barnard"
+  ],
+  "answer": "Willem Einthoven",
+  "difficulty": "medium",
+  "topic": "einthoven"
+ },
+ {
+  "id": "hard-tech-170",
+  "prompt": "Which British engineer built the first CT scanner, in 1971?",
+  "choices": [
+   "Ian Donald",
+   "Godfrey Hounsfield",
+   "Peter Mansfield",
+   "John Charnley"
+  ],
+  "answer": "Godfrey Hounsfield",
+  "difficulty": "medium",
+  "topic": "hounsfield"
+ },
+ {
+  "id": "hard-tech-171",
+  "prompt": "In 1958 Ake Senning implanted the first human pacemaker in which country?",
+  "choices": [
+   "Britain",
+   "Sweden",
+   "United States",
+   "Germany"
+  ],
+  "answer": "Sweden",
+  "difficulty": "hard",
+  "topic": "first-pacemaker"
+ },
+ {
+  "id": "hard-tech-172",
+  "prompt": "Which American surgeon first used a heart-lung machine in open-heart surgery in 1953?",
+  "choices": [
+   "Walt Lillehei",
+   "Denton Cooley",
+   "John Gibbon",
+   "Michael DeBakey"
+  ],
+  "answer": "John Gibbon",
+  "difficulty": "hard",
+  "topic": "gibbon-bypass"
+ },
+ {
+  "id": "hard-tech-173",
+  "prompt": "Which Italian physician invented the cuff blood-pressure device in 1896?",
+  "choices": [
+   "Karl Vierordt",
+   "Samuel von Basch",
+   "Nikolai Korotkov",
+   "Scipione Riva-Rocci"
+  ],
+  "answer": "Scipione Riva-Rocci",
+  "difficulty": "medium",
+  "topic": "riva-rocci"
+ },
+ {
+  "id": "hard-tech-174",
+  "prompt": "Which German scientist invented the ophthalmoscope in 1851?",
+  "choices": [
+   "Rudolf Virchow",
+   "Wilhelm Roentgen",
+   "Hermann von Helmholtz",
+   "Robert Koch"
+  ],
+  "answer": "Hermann von Helmholtz",
+  "difficulty": "medium",
+  "topic": "helmholtz-ophthalmoscope"
+ },
+ {
+  "id": "hard-tech-175",
+  "prompt": "Which Dutch physician built the first working kidney dialysis machine in 1943?",
+  "choices": [
+   "Belding Scribner",
+   "Nils Alwall",
+   "Willem Kolff",
+   "Willem Einthoven"
+  ],
+  "answer": "Willem Kolff",
+  "difficulty": "medium",
+  "topic": "kolff-dialysis"
+ },
+ {
+  "id": "hard-tech-176",
+  "prompt": "Which chemist invented the polymerase chain reaction in 1983?",
+  "choices": [
+   "Craig Venter",
+   "Kary Mullis",
+   "Paul Berg",
+   "Frederick Sanger"
+  ],
+  "answer": "Kary Mullis",
+  "difficulty": "medium",
+  "topic": "mullis-pcr"
+ },
+ {
+  "id": "hard-tech-177",
+  "prompt": "Which Glasgow obstetrician pioneered medical ultrasound in the 1950s?",
+  "choices": [
+   "Inge Edler",
+   "Ian Donald",
+   "Karl Dussik",
+   "Godfrey Hounsfield"
+  ],
+  "answer": "Ian Donald",
+  "difficulty": "hard",
+  "topic": "ian-donald"
+ },
+ {
+  "id": "hard-tech-178",
+  "prompt": "Which Dutch draper observed microbes with single-lens microscopes in the 1670s?",
+  "choices": [
+   "Jan Swammerdam",
+   "Antonie van Leeuwenhoek",
+   "Zacharias Janssen",
+   "Robert Hooke"
+  ],
+  "answer": "Antonie van Leeuwenhoek",
+  "difficulty": "easy",
+  "topic": "leeuwenhoek"
+ },
+ {
+  "id": "hard-tech-179",
+  "prompt": "Which Dutch spectacle-maker first applied for a telescope patent in 1608?",
+  "choices": [
+   "Jacob Metius",
+   "Hans Lipperhey",
+   "Zacharias Janssen",
+   "Galileo Galilei"
+  ],
+  "answer": "Hans Lipperhey",
+  "difficulty": "hard",
+  "topic": "lipperhey"
+ },
+ {
+  "id": "hard-tech-180",
+  "prompt": "Which kind of telescope did Isaac Newton build in 1668?",
+  "choices": [
+   "Reflecting",
+   "Radio",
+   "Refracting",
+   "Catadioptric"
+  ],
+  "answer": "Reflecting",
+  "difficulty": "easy",
+  "topic": "newton-telescope"
+ },
+ {
+  "id": "hard-tech-181",
+  "prompt": "Which instrument maker introduced the mercury thermometer in 1714?",
+  "choices": [
+   "Daniel Fahrenheit",
+   "Lord Kelvin",
+   "Anders Celsius",
+   "Rene Reaumur"
+  ],
+  "answer": "Daniel Fahrenheit",
+  "difficulty": "easy",
+  "topic": "fahrenheit"
+ },
+ {
+  "id": "hard-tech-182",
+  "prompt": "Which Italian invented the mercury barometer in 1643?",
+  "choices": [
+   "Otto von Guericke",
+   "Blaise Pascal",
+   "Galileo Galilei",
+   "Evangelista Torricelli"
+  ],
+  "answer": "Evangelista Torricelli",
+  "difficulty": "easy",
+  "topic": "torricelli"
+ },
+ {
+  "id": "hard-tech-183",
+  "prompt": "Which German engineer co-built the first electron microscope in 1931?",
+  "choices": [
+   "Hans Busch",
+   "Ernst Ruska",
+   "Manfred von Ardenne",
+   "Dennis Gabor"
+  ],
+  "answer": "Ernst Ruska",
+  "difficulty": "medium",
+  "topic": "ruska"
+ },
+ {
+  "id": "hard-tech-184",
+  "prompt": "Which company's Zurich lab built the scanning tunneling microscope in 1981?",
+  "choices": [
+   "Siemens",
+   "Philips",
+   "IBM",
+   "Bell Labs"
+  ],
+  "answer": "IBM",
+  "difficulty": "medium",
+  "topic": "stm-ibm"
+ },
+ {
+  "id": "hard-tech-185",
+  "prompt": "Which English clergyman invented the slide rule around 1622?",
+  "choices": [
+   "Edmund Gunter",
+   "John Napier",
+   "Henry Briggs",
+   "William Oughtred"
+  ],
+  "answer": "William Oughtred",
+  "difficulty": "hard",
+  "topic": "oughtred"
+ },
+ {
+  "id": "hard-tech-186",
+  "prompt": "Which Briton patented the thermionic diode valve in 1904?",
+  "choices": [
+   "William Crookes",
+   "Lee de Forest",
+   "John Ambrose Fleming",
+   "Oliver Heaviside"
+  ],
+  "answer": "John Ambrose Fleming",
+  "difficulty": "medium",
+  "topic": "fleming-valve"
+ },
+ {
+  "id": "hard-tech-187",
+  "prompt": "Which American added a control grid to create the Audion triode in 1906?",
+  "choices": [
+   "Lee de Forest",
+   "Edwin Armstrong",
+   "Reginald Fessenden",
+   "Irving Langmuir"
+  ],
+  "answer": "Lee de Forest",
+  "difficulty": "medium",
+  "topic": "audion"
+ },
+ {
+  "id": "hard-tech-188",
+  "prompt": "Which American engineer developed wideband FM radio in the 1930s?",
+  "choices": [
+   "David Sarnoff",
+   "Philo Farnsworth",
+   "Lee de Forest",
+   "Edwin Armstrong"
+  ],
+  "answer": "Edwin Armstrong",
+  "difficulty": "medium",
+  "topic": "armstrong-fm"
+ },
+ {
+  "id": "hard-tech-189",
+  "prompt": "Which physicist shared the 1947 Bell Labs transistor invention with Bardeen and Brattain?",
+  "choices": [
+   "Robert Noyce",
+   "Gordon Moore",
+   "Walter Schottky",
+   "William Shockley"
+  ],
+  "answer": "William Shockley",
+  "difficulty": "medium",
+  "topic": "shockley"
+ },
+ {
+  "id": "hard-tech-190",
+  "prompt": "Which company employed Jack Kilby when he built the first integrated circuit in 1958?",
+  "choices": [
+   "Fairchild",
+   "Motorola",
+   "Intel",
+   "Texas Instruments"
+  ],
+  "answer": "Texas Instruments",
+  "difficulty": "medium",
+  "topic": "kilby-ti"
+ },
+ {
+  "id": "hard-tech-191",
+  "prompt": "Intel's 1971 4004 was the first commercial what?",
+  "choices": [
+   "Transistor",
+   "Microprocessor",
+   "Laser",
+   "Hard drive"
+  ],
+  "answer": "Microprocessor",
+  "difficulty": "easy",
+  "topic": "intel-4004"
+ },
+ {
+  "id": "hard-tech-192",
+  "prompt": "Which IBM engineer invented the single-transistor DRAM cell in 1966?",
+  "choices": [
+   "Gordon Moore",
+   "Federico Faggin",
+   "Robert Dennard",
+   "Fujio Masuoka"
+  ],
+  "answer": "Robert Dennard",
+  "difficulty": "hard",
+  "topic": "dennard-dram"
+ },
+ {
+  "id": "hard-tech-193",
+  "prompt": "Which Toshiba engineer invented flash memory in the early 1980s?",
+  "choices": [
+   "Fujio Masuoka",
+   "Shuji Nakamura",
+   "Masaru Ibuka",
+   "Robert Dennard"
+  ],
+  "answer": "Fujio Masuoka",
+  "difficulty": "hard",
+  "topic": "masuoka-flash"
+ },
+ {
+  "id": "hard-tech-194",
+  "prompt": "Which GE engineer demonstrated the first practical visible-light LED in 1962?",
+  "choices": [
+   "Isamu Akasaki",
+   "Shuji Nakamura",
+   "Nick Holonyak",
+   "Oleg Losev"
+  ],
+  "answer": "Nick Holonyak",
+  "difficulty": "hard",
+  "topic": "holonyak-led"
+ },
+ {
+  "id": "hard-tech-195",
+  "prompt": "Which company employed Shuji Nakamura when he developed the bright blue LED in the early 1990s?",
+  "choices": [
+   "Nichia",
+   "Toshiba",
+   "Sony",
+   "Panasonic"
+  ],
+  "answer": "Nichia",
+  "difficulty": "hard",
+  "topic": "nichia-blue-led"
+ },
+ {
+  "id": "hard-tech-196",
+  "prompt": "What material formed the working medium of the first laser, built in 1960?",
+  "choices": [
+   "Helium-neon gas",
+   "Synthetic ruby",
+   "Gallium arsenide",
+   "Neodymium glass"
+  ],
+  "answer": "Synthetic ruby",
+  "difficulty": "medium",
+  "topic": "maiman-ruby"
+ },
+ {
+  "id": "hard-tech-197",
+  "prompt": "A radar discovery by Percy Spencer at Raytheon in 1945 led to which appliance?",
+  "choices": [
+   "Microwave oven",
+   "Refrigerator",
+   "Toaster",
+   "Electric kettle"
+  ],
+  "answer": "Microwave oven",
+  "difficulty": "easy",
+  "topic": "microwave-oven"
+ },
+ {
+  "id": "hard-tech-198",
+  "prompt": "Which IBM system introduced the hard disk drive in 1956?",
+  "choices": [
+   "System/360",
+   "Stretch",
+   "UNIVAC",
+   "RAMAC"
+  ],
+  "answer": "RAMAC",
+  "difficulty": "hard",
+  "topic": "ibm-ramac"
+ },
+ {
+  "id": "hard-tech-199",
+  "prompt": "Which university built the ENIAC computer, completed in 1945?",
+  "choices": [
+   "MIT",
+   "University of Pennsylvania",
+   "Iowa State",
+   "Harvard"
+  ],
+  "answer": "University of Pennsylvania",
+  "difficulty": "easy",
+  "topic": "eniac-penn"
+ },
+ {
+  "id": "hard-tech-200",
+  "prompt": "Which Post Office engineer built the Colossus codebreaking computers?",
+  "choices": [
+   "Gordon Welchman",
+   "Alan Turing",
+   "Tommy Flowers",
+   "Max Newman"
+  ],
+  "answer": "Tommy Flowers",
+  "difficulty": "medium",
+  "topic": "colossus-flowers"
+ },
+ {
+  "id": "hard-tech-201",
+  "prompt": "Which German engineer completed the programmable Z3 computer in 1941?",
+  "choices": [
+   "John Atanasoff",
+   "Heinz Nixdorf",
+   "Konrad Zuse",
+   "Helmut Hoelzer"
+  ],
+  "answer": "Konrad Zuse",
+  "difficulty": "medium",
+  "topic": "zuse-z3"
+ },
+ {
+  "id": "hard-tech-202",
+  "prompt": "Which Navy officer wrote the first compiler, the A-0 system, in 1952?",
+  "choices": [
+   "Kathleen Booth",
+   "Ada Lovelace",
+   "Jean Bartik",
+   "Grace Hopper"
+  ],
+  "answer": "Grace Hopper",
+  "difficulty": "easy",
+  "topic": "hopper-compiler"
+ },
+ {
+  "id": "hard-tech-203",
+  "prompt": "Which IBM team leader created FORTRAN, released in 1957?",
+  "choices": [
+   "John McCarthy",
+   "Niklaus Wirth",
+   "John Backus",
+   "Dennis Ritchie"
+  ],
+  "answer": "John Backus",
+  "difficulty": "medium",
+  "topic": "backus-fortran"
+ },
+ {
+  "id": "hard-tech-204",
+  "prompt": "Unix was rewritten in which language in 1973?",
+  "choices": [
+   "C",
+   "Fortran",
+   "Pascal",
+   "BCPL"
+  ],
+  "answer": "C",
+  "difficulty": "medium",
+  "topic": "unix-c"
+ },
+ {
+  "id": "hard-tech-205",
+  "prompt": "Which research center built the Alto computer in 1973?",
+  "choices": [
+   "Xerox PARC",
+   "SRI",
+   "Bell Labs",
+   "IBM Research"
+  ],
+  "answer": "Xerox PARC",
+  "difficulty": "easy",
+  "topic": "xerox-alto"
+ },
+ {
+  "id": "hard-tech-206",
+  "prompt": "Which Intel chip powered the original 1981 IBM PC?",
+  "choices": [
+   "8088",
+   "6502",
+   "Z80",
+   "4004"
+  ],
+  "answer": "8088",
+  "difficulty": "hard",
+  "topic": "ibm-pc-8088"
+ },
+ {
+  "id": "hard-tech-207",
+  "prompt": "Which institution's supercomputing center released the Mosaic web browser in 1993?",
+  "choices": [
+   "CERN",
+   "MIT",
+   "Stanford",
+   "NCSA"
+  ],
+  "answer": "NCSA",
+  "difficulty": "easy",
+  "topic": "mosaic-ncsa"
+ },
+ {
+  "id": "hard-tech-208",
+  "prompt": "At which European organization did Tim Berners-Lee propose the World Wide Web in 1989?",
+  "choices": [
+   "CERN",
+   "Philips",
+   "Siemens",
+   "ESA"
+  ],
+  "answer": "CERN",
+  "difficulty": "easy",
+  "topic": "berners-lee-cern"
+ },
+ {
+  "id": "hard-tech-209",
+  "prompt": "The first ARPANET message in 1969 went from UCLA to which institute?",
+  "choices": [
+   "MIT Lincoln Lab",
+   "Bell Labs",
+   "Carnegie Mellon",
+   "Stanford Research Institute"
+  ],
+  "answer": "Stanford Research Institute",
+  "difficulty": "hard",
+  "topic": "arpanet-first-message"
+ },
+ {
+  "id": "hard-tech-210",
+  "prompt": "Who chose the @ sign for networked email in 1971?",
+  "choices": [
+   "Larry Roberts",
+   "Vint Cerf",
+   "Bob Kahn",
+   "Ray Tomlinson"
+  ],
+  "answer": "Ray Tomlinson",
+  "difficulty": "medium",
+  "topic": "tomlinson-at-sign"
+ },
+ {
+  "id": "hard-tech-211",
+  "prompt": "Which Finnish student released the first Linux kernel in 1991?",
+  "choices": [
+   "Tim Berners-Lee",
+   "Richard Stallman",
+   "Linus Torvalds",
+   "Bjarne Stroustrup"
+  ],
+  "answer": "Linus Torvalds",
+  "difficulty": "easy",
+  "topic": "linux-torvalds"
+ },
+ {
+  "id": "hard-tech-212",
+  "prompt": "Which IBM computer beat Garry Kasparov in a 1997 chess match?",
+  "choices": [
+   "Blue Gene",
+   "Big Blue",
+   "Deep Blue",
+   "Watson"
+  ],
+  "answer": "Deep Blue",
+  "difficulty": "easy",
+  "topic": "deep-blue"
+ },
+ {
+  "id": "hard-tech-213",
+  "prompt": "Which company developed AlphaGo, which beat Lee Sedol in 2016?",
+  "choices": [
+   "IBM",
+   "Microsoft Research",
+   "DeepMind",
+   "OpenAI"
+  ],
+  "answer": "DeepMind",
+  "difficulty": "easy",
+  "topic": "alphago"
+ },
+ {
+  "id": "hard-tech-214",
+  "prompt": "Which 2017 Google paper introduced the Transformer neural architecture?",
+  "choices": [
+   "Attention Is All You Need",
+   "ImageNet Classification",
+   "Generative Adversarial Nets",
+   "Playing Atari with Deep RL"
+  ],
+  "answer": "Attention Is All You Need",
+  "difficulty": "medium",
+  "topic": "transformer-paper"
+ },
+ {
+  "id": "hard-tech-215",
+  "prompt": "Which mathematician's 1936 paper On Computable Numbers described a universal machine?",
+  "choices": [
+   "John von Neumann",
+   "Alonzo Church",
+   "Alan Turing",
+   "Kurt Godel"
+  ],
+  "answer": "Alan Turing",
+  "difficulty": "easy",
+  "topic": "turing-1936"
+ },
+ {
+  "id": "hard-tech-216",
+  "prompt": "Which American devised the punched-card tabulator for the 1890 US census?",
+  "choices": [
+   "Thomas Watson",
+   "Herman Hollerith",
+   "Charles Babbage",
+   "James Powers"
+  ],
+  "answer": "Herman Hollerith",
+  "difficulty": "easy",
+  "topic": "hollerith"
+ },
+ {
+  "id": "hard-tech-217",
+  "prompt": "Which researcher unveiled the computer mouse in the 1968 Mother of All Demos?",
+  "choices": [
+   "Ted Nelson",
+   "Ivan Sutherland",
+   "Alan Kay",
+   "Douglas Engelbart"
+  ],
+  "answer": "Douglas Engelbart",
+  "difficulty": "easy",
+  "topic": "engelbart-mouse"
+ },
+ {
+  "id": "hard-tech-218",
+  "prompt": "Which engineer co-invented Ethernet at Xerox PARC in 1973?",
+  "choices": [
+   "Bob Metcalfe",
+   "Vint Cerf",
+   "Chuck Thacker",
+   "Robert Taylor"
+  ],
+  "answer": "Bob Metcalfe",
+  "difficulty": "medium",
+  "topic": "ethernet-metcalfe"
+ },
+ {
+  "id": "hard-tech-219",
+  "prompt": "Bluetooth is named for a medieval king of which country?",
+  "choices": [
+   "Finland",
+   "Norway",
+   "Sweden",
+   "Denmark"
+  ],
+  "answer": "Denmark",
+  "difficulty": "easy",
+  "topic": "bluetooth-harald"
+ },
+ {
+  "id": "hard-tech-220",
+  "prompt": "Which engineer invented stereolithography 3D printing in 1984?",
+  "choices": [
+   "Adrian Bowyer",
+   "Scott Crump",
+   "Carl Deckard",
+   "Chuck Hull"
+  ],
+  "answer": "Chuck Hull",
+  "difficulty": "medium",
+  "topic": "chuck-hull"
+ },
+ {
+  "id": "hard-tech-221",
+  "prompt": "Which lunar module landed the Apollo 11 astronauts on the Moon in 1969?",
+  "choices": [
+   "Columbia",
+   "Intrepid",
+   "Aquarius",
+   "Eagle"
+  ],
+  "answer": "Eagle",
+  "difficulty": "easy",
+  "topic": "apollo-eagle"
+ },
+ {
+  "id": "hard-tech-222",
+  "prompt": "Which Soviet craft, launched in 1971, was the first space station?",
+  "choices": [
+   "Mir",
+   "Almaz 2",
+   "Salyut 1",
+   "Skylab"
+  ],
+  "answer": "Salyut 1",
+  "difficulty": "medium",
+  "topic": "salyut-1"
+ },
+ {
+  "id": "hard-tech-223",
+  "prompt": "Which spacecraft carried Yuri Gagarin into orbit in 1961?",
+  "choices": [
+   "Voskhod 1",
+   "Soyuz 1",
+   "Vostok 1",
+   "Sputnik 5"
+  ],
+  "answer": "Vostok 1",
+  "difficulty": "easy",
+  "topic": "vostok-1"
+ },
+ {
+  "id": "hard-tech-224",
+  "prompt": "Which module, launched in 1998, was the first piece of the International Space Station?",
+  "choices": [
+   "Zarya",
+   "Zvezda",
+   "Destiny",
+   "Unity"
+  ],
+  "answer": "Zarya",
+  "difficulty": "hard",
+  "topic": "iss-zarya"
+ },
+ {
+  "id": "hard-tech-225",
+  "prompt": "Which American patented a mechanical grain reaper in 1834?",
+  "choices": [
+   "Obed Hussey",
+   "Cyrus McCormick",
+   "Eli Whitney",
+   "John Deere"
+  ],
+  "answer": "Cyrus McCormick",
+  "difficulty": "medium",
+  "topic": "mccormick-reaper"
+ },
+ {
+  "id": "hard-tech-226",
+  "prompt": "Which blacksmith introduced the self-scouring steel plow in 1837?",
+  "choices": [
+   "Eli Whitney",
+   "Jethro Tull",
+   "John Deere",
+   "Cyrus McCormick"
+  ],
+  "answer": "John Deere",
+  "difficulty": "medium",
+  "topic": "john-deere"
+ },
+ {
+  "id": "hard-tech-227",
+  "prompt": "Which American developed quick-freezing of food in the 1920s?",
+  "choices": [
+   "Henry Heinz",
+   "Willis Carrier",
+   "Gail Borden",
+   "Clarence Birdseye"
+  ],
+  "answer": "Clarence Birdseye",
+  "difficulty": "medium",
+  "topic": "birdseye"
+ },
+ {
+  "id": "hard-tech-228",
+  "prompt": "Which Frenchman developed canning in 1809, winning a prize from Napoleon's government?",
+  "choices": [
+   "Nicolas Appert",
+   "Peter Durand",
+   "Louis Pasteur",
+   "Gail Borden"
+  ],
+  "answer": "Nicolas Appert",
+  "difficulty": "medium",
+  "topic": "appert-canning"
+ },
+ {
+  "id": "hard-tech-229",
+  "prompt": "Which German engineer built the first practical compression refrigerator in the 1870s?",
+  "choices": [
+   "John Gorrie",
+   "Jacob Perkins",
+   "Willis Carrier",
+   "Carl von Linde"
+  ],
+  "answer": "Carl von Linde",
+  "difficulty": "hard",
+  "topic": "linde-refrigeration"
+ },
+ {
+  "id": "hard-tech-230",
+  "prompt": "Which engineer designed the first modern air conditioning system in 1902?",
+  "choices": [
+   "Carl von Linde",
+   "Thomas Midgley",
+   "Willis Carrier",
+   "Frederick Jones"
+  ],
+  "answer": "Willis Carrier",
+  "difficulty": "medium",
+  "topic": "carrier-ac"
+ },
+ {
+  "id": "hard-tech-231",
+  "prompt": "Which American patented the lockstitch sewing machine in 1846?",
+  "choices": [
+   "Elias Howe",
+   "Isaac Singer",
+   "Allen Wilson",
+   "Walter Hunt"
+  ],
+  "answer": "Elias Howe",
+  "difficulty": "hard",
+  "topic": "elias-howe"
+ },
+ {
+  "id": "hard-tech-232",
+  "prompt": "Which Swedish-American engineer perfected the modern zipper in 1913?",
+  "choices": [
+   "Elias Howe",
+   "Whitcomb Judson",
+   "Gideon Sundback",
+   "Walter Hunt"
+  ],
+  "answer": "Gideon Sundback",
+  "difficulty": "medium",
+  "topic": "sundback-zipper"
+ },
+ {
+  "id": "hard-tech-233",
+  "prompt": "Which Swiss engineer invented Velcro after studying burrs?",
+  "choices": [
+   "George de Mestral",
+   "Gideon Sundback",
+   "Percy Spencer",
+   "Hans Geiger"
+  ],
+  "answer": "George de Mestral",
+  "difficulty": "medium",
+  "topic": "velcro"
+ },
+ {
+  "id": "hard-tech-234",
+  "prompt": "Which English chemist invented the friction match in 1826?",
+  "choices": [
+   "Humphry Davy",
+   "Gustaf Lundstrom",
+   "John Walker",
+   "Robert Boyle"
+  ],
+  "answer": "John Walker",
+  "difficulty": "hard",
+  "topic": "friction-match"
+ },
+ {
+  "id": "hard-tech-235",
+  "prompt": "Which Japanese island saw the first European matchlock guns arrive in 1543?",
+  "choices": [
+   "Okinawa",
+   "Dejima",
+   "Tanegashima",
+   "Kyushu"
+  ],
+  "answer": "Tanegashima",
+  "difficulty": "hard",
+  "topic": "tanegashima"
+ },
+ {
+  "id": "hard-tech-236",
+  "prompt": "Which American patented barbed wire in 1874?",
+  "choices": [
+   "Samuel Colt",
+   "Richard Gatling",
+   "Joseph Glidden",
+   "Cyrus McCormick"
+  ],
+  "answer": "Joseph Glidden",
+  "difficulty": "medium",
+  "topic": "barbed-wire"
+ },
+ {
+  "id": "hard-tech-237",
+  "prompt": "Which American patented a hand-cranked rapid-fire gun in 1862?",
+  "choices": [
+   "John Browning",
+   "Hiram Maxim",
+   "Samuel Colt",
+   "Richard Gatling"
+  ],
+  "answer": "Richard Gatling",
+  "difficulty": "medium",
+  "topic": "gatling"
+ },
+ {
+  "id": "hard-tech-238",
+  "prompt": "Where did tanks first see combat, in September 1916?",
+  "choices": [
+   "Gallipoli",
+   "Ypres",
+   "Verdun",
+   "The Somme"
+  ],
+  "answer": "The Somme",
+  "difficulty": "hard",
+  "topic": "first-tanks"
+ },
+ {
+  "id": "hard-tech-239",
+  "prompt": "What Latin word for ram gave the battering ram its Roman name?",
+  "choices": [
+   "Taurus",
+   "Aries",
+   "Vinea",
+   "Testudo"
+  ],
+  "answer": "Aries",
+  "difficulty": "hard",
+  "topic": "aries-ram"
+ },
+ {
+  "id": "hard-tech-240",
+  "prompt": "What is the overhanging castle parapet with holes for dropping missiles called?",
+  "choices": [
+   "Machicolation",
+   "Crenellation",
+   "Barbican",
+   "Portcullis"
+  ],
+  "answer": "Machicolation",
+  "difficulty": "medium",
+  "topic": "machicolation"
+ },
+ {
+  "id": "hard-tech-241",
+  "prompt": "Which architect designed Hagia Sophia alongside Anthemius of Tralles?",
+  "choices": [
+   "Rabirius",
+   "Apollodorus of Damascus",
+   "Mimar Sinan",
+   "Isidore of Miletus"
+  ],
+  "answer": "Isidore of Miletus",
+  "difficulty": "hard",
+  "topic": "hagia-sophia"
+ },
+ {
+  "id": "hard-tech-242",
+  "prompt": "Which architect engineered the dome of Florence Cathedral, completed in 1436?",
+  "choices": [
+   "Michelozzo",
+   "Leon Battista Alberti",
+   "Filippo Brunelleschi",
+   "Donato Bramante"
+  ],
+  "answer": "Filippo Brunelleschi",
+  "difficulty": "easy",
+  "topic": "brunelleschi"
+ },
+ {
+  "id": "hard-tech-243",
+  "prompt": "Which official is credited with designing Egypt's first stone pyramid at Saqqara?",
+  "choices": [
+   "Imhotep",
+   "Hemiunu",
+   "Senenmut",
+   "Ptahhotep"
+  ],
+  "answer": "Imhotep",
+  "difficulty": "easy",
+  "topic": "imhotep"
+ },
+ {
+  "id": "hard-tech-244",
+  "prompt": "In which country did eyeglasses first appear, around 1286?",
+  "choices": [
+   "Italy",
+   "England",
+   "China",
+   "Germany"
+  ],
+  "answer": "Italy",
+  "difficulty": "medium",
+  "topic": "eyeglasses"
+ },
+ {
+  "id": "hard-tech-245",
+  "prompt": "Which Hungarian engineer cast the giant cannon used at Constantinople in 1453?",
+  "choices": [
+   "Taqi al-Din",
+   "Mimar Sinan",
+   "Hunyadi",
+   "Orban"
+  ],
+  "answer": "Orban",
+  "difficulty": "hard",
+  "topic": "orban-cannon"
+ },
+ {
+  "id": "hard-tech-246",
+  "prompt": "Which Frenchman built the 1769 steam-powered fardier, an early road vehicle?",
+  "choices": [
+   "Richard Trevithick",
+   "Oliver Evans",
+   "William Murdoch",
+   "Nicolas-Joseph Cugnot"
+  ],
+  "answer": "Nicolas-Joseph Cugnot",
+  "difficulty": "hard",
+  "topic": "cugnot"
+ },
+ {
+  "id": "hard-tech-247",
+  "prompt": "Which volcanic glass did Mesoamericans use for razor-sharp blades?",
+  "choices": [
+   "Obsidian",
+   "Basalt",
+   "Jade",
+   "Flint"
+  ],
+  "answer": "Obsidian",
+  "difficulty": "easy",
+  "topic": "obsidian"
+ },
+ {
+  "id": "hard-tech-248",
+  "prompt": "What was the Aztec wooden sword set with obsidian blades called?",
+  "choices": [
+   "Tlaximaltepoztli",
+   "Tepoztopilli",
+   "Macuahuitl",
+   "Atlatl"
+  ],
+  "answer": "Macuahuitl",
+  "difficulty": "medium",
+  "topic": "macuahuitl"
+ },
+ {
+  "id": "hard-tech-249",
+  "prompt": "Which West African city is famed for the world's largest mud-brick building, its Great Mosque?",
+  "choices": [
+   "Gao",
+   "Djenne",
+   "Timbuktu",
+   "Kano"
+  ],
+  "answer": "Djenne",
+  "difficulty": "medium",
+  "topic": "djenne"
+ },
+ {
+  "id": "hard-tech-250",
+  "prompt": "Which Tanzanian people smelted carbon steel in preheated furnaces nearly 2,000 years ago?",
+  "choices": [
+   "Haya",
+   "Maasai",
+   "Chagga",
+   "Swahili"
+  ],
+  "answer": "Haya",
+  "difficulty": "hard",
+  "topic": "haya-steel"
+ },
+ {
+  "id": "hard-tech-251",
+  "prompt": "Which Mysore ruler used iron-cased rockets against the British in the 1790s?",
+  "choices": [
+   "Shivaji",
+   "Hyder Ali",
+   "Tipu Sultan",
+   "Ranjit Singh"
+  ],
+  "answer": "Tipu Sultan",
+  "difficulty": "medium",
+  "topic": "tipu-rockets"
+ },
+ {
+  "id": "hard-tech-252",
+  "prompt": "Which Han official used water-powered bellows in iron smelting in AD 31?",
+  "choices": [
+   "Ma Jun",
+   "Cai Lun",
+   "Du Shi",
+   "Zhang Heng"
+  ],
+  "answer": "Du Shi",
+  "difficulty": "hard",
+  "topic": "du-shi-bellows"
+ },
+ {
+  "id": "hard-tech-253",
+  "prompt": "Which Japanese inventor built a famed automatic power loom in 1924?",
+  "choices": [
+   "Masaru Ibuka",
+   "Soichiro Honda",
+   "Sakichi Toyoda",
+   "Konosuke Matsushita"
+  ],
+  "answer": "Sakichi Toyoda",
+  "difficulty": "medium",
+  "topic": "toyoda-loom"
+ },
+ {
+  "id": "hard-tech-254",
+  "prompt": "Which engineer led development of the Shinkansen bullet train?",
+  "choices": [
+   "Sakichi Toyoda",
+   "Kiichiro Toyoda",
+   "Hideo Shima",
+   "Eiji Toyoda"
+  ],
+  "answer": "Hideo Shima",
+  "difficulty": "hard",
+  "topic": "hideo-shima"
+ },
+ {
+  "id": "hard-tech-255",
+  "prompt": "Which Nissin founder invented instant ramen in 1958?",
+  "choices": [
+   "Soichiro Honda",
+   "Konosuke Matsushita",
+   "Akio Morita",
+   "Momofuku Ando"
+  ],
+  "answer": "Momofuku Ando",
+  "difficulty": "medium",
+  "topic": "instant-ramen"
+ },
+ {
+  "id": "hard-tech-256",
+  "prompt": "Which Joseon engineer built the self-striking water clock in 1434?",
+  "choices": [
+   "Jeong Dojeon",
+   "Heo Jun",
+   "Yi Sun-sin",
+   "Jang Yeong-sil"
+  ],
+  "answer": "Jang Yeong-sil",
+  "difficulty": "hard",
+  "topic": "jang-yeong-sil"
+ },
+ {
+  "id": "hard-tech-257",
+  "prompt": "Which Korean kingdom introduced a standardized rain gauge in 1441?",
+  "choices": [
+   "Baekje",
+   "Silla",
+   "Joseon",
+   "Goryeo"
+  ],
+  "answer": "Joseon",
+  "difficulty": "hard",
+  "topic": "rain-gauge"
+ },
+ {
+  "id": "hard-tech-258",
+  "prompt": "Which Andalusian surgeon's c. 1000 Al-Tasrif illustrated surgical instruments?",
+  "choices": [
+   "Al-Razi",
+   "Al-Zahrawi",
+   "Ibn Rushd",
+   "Avicenna"
+  ],
+  "answer": "Al-Zahrawi",
+  "difficulty": "medium",
+  "topic": "al-zahrawi"
+ },
+ {
+  "id": "hard-tech-259",
+  "prompt": "Which Persian scholar wrote the Canon of Medicine, finished in 1025?",
+  "choices": [
+   "Omar Khayyam",
+   "Avicenna",
+   "Al-Biruni",
+   "Al-Razi"
+  ],
+  "answer": "Avicenna",
+  "difficulty": "easy",
+  "topic": "avicenna"
+ },
+ {
+  "id": "hard-tech-260",
+  "prompt": "Which Ottoman architect built the Selimiye Mosque in Edirne, finished in 1575?",
+  "choices": [
+   "Mehmed Aga",
+   "Isidore of Miletus",
+   "Davut Aga",
+   "Mimar Sinan"
+  ],
+  "answer": "Mimar Sinan",
+  "difficulty": "medium",
+  "topic": "sinan-selimiye"
+ },
+ {
+  "id": "hard-tech-261",
+  "prompt": "Under Akbar, Mughal metalworkers cast what seamless object by lost-wax casting?",
+  "choices": [
+   "Throne",
+   "Celestial globe",
+   "Bell",
+   "Cannon"
+  ],
+  "answer": "Celestial globe",
+  "difficulty": "hard",
+  "topic": "mughal-globe"
+ },
+ {
+  "id": "hard-tech-262",
+  "prompt": "On which Greek island did Eupalinos dig a 6th-century BC tunnel from both ends?",
+  "choices": [
+   "Rhodes",
+   "Samos",
+   "Lesbos",
+   "Crete"
+  ],
+  "answer": "Samos",
+  "difficulty": "hard",
+  "topic": "eupalinos"
+ },
+ {
+  "id": "hard-tech-263",
+  "prompt": "Which emperor's engineer Apollodorus of Damascus bridged the Danube in AD 105?",
+  "choices": [
+   "Augustus",
+   "Hadrian",
+   "Claudius",
+   "Trajan"
+  ],
+  "answer": "Trajan",
+  "difficulty": "medium",
+  "topic": "trajan-danube"
+ },
+ {
+  "id": "hard-tech-264",
+  "prompt": "What is the Roman underfloor heating system called?",
+  "choices": [
+   "Cloaca",
+   "Hypocaust",
+   "Atrium",
+   "Impluvium"
+  ],
+  "answer": "Hypocaust",
+  "difficulty": "easy",
+  "topic": "hypocaust"
+ },
+ {
+  "id": "hard-tech-265",
+  "prompt": "Which Scottish engineer built the Bell Rock Lighthouse, completed in 1810?",
+  "choices": [
+   "Thomas Telford",
+   "Robert Stevenson",
+   "John Rennie",
+   "John Smeaton"
+  ],
+  "answer": "Robert Stevenson",
+  "difficulty": "hard",
+  "topic": "bell-rock"
+ },
+ {
+  "id": "hard-tech-266",
+  "prompt": "Which Dutch inventor tested a rowed submarine on the Thames in the 1620s?",
+  "choices": [
+   "Jan Leeghwater",
+   "Cornelis Drebbel",
+   "Christiaan Huygens",
+   "Simon Stevin"
+  ],
+  "answer": "Cornelis Drebbel",
+  "difficulty": "hard",
+  "topic": "drebbel-submarine"
+ },
+ {
+  "id": "hard-tech-267",
+  "prompt": "Which Dutch engineer drained the Beemster lake in the 1610s?",
+  "choices": [
+   "Simon Stevin",
+   "Cornelis Drebbel",
+   "Jan Leeghwater",
+   "Christiaan Huygens"
+  ],
+  "answer": "Jan Leeghwater",
+  "difficulty": "hard",
+  "topic": "leeghwater"
+ },
+ {
+  "id": "hard-tech-268",
+  "prompt": "Which German physicist discovered X-rays in 1895?",
+  "choices": [
+   "Wilhelm Roentgen",
+   "Max Planck",
+   "Philipp Lenard",
+   "Heinrich Hertz"
+  ],
+  "answer": "Wilhelm Roentgen",
+  "difficulty": "easy",
+  "topic": "roentgen"
+ },
+ {
+  "id": "hard-tech-269",
+  "prompt": "Which Renaissance polymath sketched an aerial screw resembling a helicopter?",
+  "choices": [
+   "Francesco di Giorgio",
+   "Leonardo da Vinci",
+   "Galileo Galilei",
+   "Filippo Brunelleschi"
+  ],
+  "answer": "Leonardo da Vinci",
+  "difficulty": "easy",
+  "topic": "leonardo-aerial-screw"
+ },
+ {
+  "id": "hard-tech-270",
+  "prompt": "Which engineer built Locomotion No. 1 for the 1825 Stockton and Darlington opening?",
+  "choices": [
+   "Richard Trevithick",
+   "Isambard Brunel",
+   "George Stephenson",
+   "Timothy Hackworth"
+  ],
+  "answer": "George Stephenson",
+  "difficulty": "easy",
+  "topic": "locomotion-1"
+ },
+ {
+  "id": "hard-tech-271",
+  "prompt": "In which Ohio city did the Wright brothers run their bicycle shop?",
+  "choices": [
+   "Akron",
+   "Toledo",
+   "Dayton",
+   "Cleveland"
+  ],
+  "answer": "Dayton",
+  "difficulty": "easy",
+  "topic": "wright-dayton"
+ },
+ {
+  "id": "hard-tech-272",
+  "prompt": "Hoover Dam impounds which river?",
+  "choices": [
+   "Columbia",
+   "Colorado",
+   "Rio Grande",
+   "Missouri"
+  ],
+  "answer": "Colorado",
+  "difficulty": "easy",
+  "topic": "hoover-dam"
+ },
+ {
+  "id": "hard-tech-273",
+  "prompt": "Egypt's Aswan High Dam, completed in 1970, regulates which river?",
+  "choices": [
+   "Congo",
+   "Tigris",
+   "Euphrates",
+   "Nile"
+  ],
+  "answer": "Nile",
+  "difficulty": "easy",
+  "topic": "aswan-dam"
+ },
+ {
+  "id": "hard-tech-274",
+  "prompt": "The Panama Canal opened in which decade?",
+  "choices": [
+   "1900s",
+   "1890s",
+   "1910s",
+   "1920s"
+  ],
+  "answer": "1910s",
+  "difficulty": "easy",
+  "topic": "panama-canal-decade"
+ },
+ {
+  "id": "hard-tech-275",
+  "prompt": "The 1940 collapse of the Tacoma Narrows Bridge occurred in which US state?",
+  "choices": [
+   "Washington",
+   "California",
+   "Maryland",
+   "Oregon"
+  ],
+  "answer": "Washington",
+  "difficulty": "easy",
+  "topic": "tacoma-narrows"
+ },
+ {
+  "id": "hard-tech-276",
+  "prompt": "Which Danish astronomer built the Uraniborg observatory on the island of Hven?",
+  "choices": [
+   "Ole Roemer",
+   "Johannes Kepler",
+   "Tycho Brahe",
+   "Niels Bohr"
+  ],
+  "answer": "Tycho Brahe",
+  "difficulty": "medium",
+  "topic": "tycho-uraniborg"
+ },
+ {
+  "id": "hard-tech-277",
+  "prompt": "Which German's 1654 Magdeburg hemispheres demonstrated air pressure?",
+  "choices": [
+   "Otto von Guericke",
+   "Blaise Pascal",
+   "Evangelista Torricelli",
+   "Robert Boyle"
+  ],
+  "answer": "Otto von Guericke",
+  "difficulty": "medium",
+  "topic": "guericke"
+ },
+ {
+  "id": "hard-tech-278",
+  "prompt": "Which Dutch professor's Leiden lab produced the Leyden jar in 1745?",
+  "choices": [
+   "Willebrord Snellius",
+   "Pieter van Musschenbroek",
+   "Herman Boerhaave",
+   "Christiaan Huygens"
+  ],
+  "answer": "Pieter van Musschenbroek",
+  "difficulty": "medium",
+  "topic": "leyden-jar"
+ },
+ {
+  "id": "hard-tech-279",
+  "prompt": "Which Englishman built the first electromagnet in 1825?",
+  "choices": [
+   "William Sturgeon",
+   "Michael Faraday",
+   "Joseph Henry",
+   "Humphry Davy"
+  ],
+  "answer": "William Sturgeon",
+  "difficulty": "medium",
+  "topic": "sturgeon"
+ },
+ {
+  "id": "hard-tech-280",
+  "prompt": "Which engineer patented the AC induction motor in 1888?",
+  "choices": [
+   "Thomas Edison",
+   "Galileo Ferraris",
+   "Nikola Tesla",
+   "George Westinghouse"
+  ],
+  "answer": "Nikola Tesla",
+  "difficulty": "easy",
+  "topic": "tesla-induction"
+ },
+ {
+  "id": "hard-tech-281",
+  "prompt": "Which German physicist generated and detected radio waves in the lab in 1887?",
+  "choices": [
+   "Heinrich Hertz",
+   "James Clerk Maxwell",
+   "Oliver Lodge",
+   "Guglielmo Marconi"
+  ],
+  "answer": "Heinrich Hertz",
+  "difficulty": "easy",
+  "topic": "hertz-radio-waves"
+ },
+ {
+  "id": "hard-tech-282",
+  "prompt": "Which GE researcher developed the ductile tungsten filament around 1910?",
+  "choices": [
+   "Lewis Latimer",
+   "William Coolidge",
+   "Elmer Sperry",
+   "Irving Langmuir"
+  ],
+  "answer": "William Coolidge",
+  "difficulty": "medium",
+  "topic": "coolidge-tungsten"
+ },
+ {
+  "id": "hard-tech-283",
+  "prompt": "Which Frenchman unveiled neon lighting to the public in Paris in 1910?",
+  "choices": [
+   "Ernest Solvay",
+   "Georges Claude",
+   "Henri Becquerel",
+   "Louis Lumiere"
+  ],
+  "answer": "Georges Claude",
+  "difficulty": "hard",
+  "topic": "georges-claude-neon"
+ },
+ {
+  "id": "hard-tech-284",
+  "prompt": "Which Luxembourg-born metallurgist devised the 1940 process for producing titanium metal?",
+  "choices": [
+   "Paul Heroult",
+   "Carl Bosch",
+   "William Kroll",
+   "Charles Hall"
+  ],
+  "answer": "William Kroll",
+  "difficulty": "hard",
+  "topic": "kroll-process"
+ },
+ {
+  "id": "hard-tech-285",
+  "prompt": "Which university isolated graphene in 2004?",
+  "choices": [
+   "Tokyo",
+   "Cambridge",
+   "MIT",
+   "Manchester"
+  ],
+  "answer": "Manchester",
+  "difficulty": "medium",
+  "topic": "graphene-manchester"
+ },
+ {
+  "id": "hard-tech-286",
+  "prompt": "Which Bell Labs engineer detected cosmic radio waves in 1932?",
+  "choices": [
+   "Robert Wilson",
+   "Arno Penzias",
+   "Grote Reber",
+   "Karl Jansky"
+  ],
+  "answer": "Karl Jansky",
+  "difficulty": "medium",
+  "topic": "jansky"
+ },
+ {
+  "id": "hard-tech-287",
+  "prompt": "Which invention, spreading from Central Asia by the 8th century, steadied mounted cavalry?",
+  "choices": [
+   "Stirrup",
+   "Saddle horn",
+   "Horseshoe",
+   "Bit"
+  ],
+  "answer": "Stirrup",
+  "difficulty": "easy",
+  "topic": "stirrup"
+ },
+ {
+  "id": "hard-tech-288",
+  "prompt": "Which city's Old Town Hall displays the Orloj, an astronomical clock from 1410?",
+  "choices": [
+   "Krakow",
+   "Vienna",
+   "Strasbourg",
+   "Prague"
+  ],
+  "answer": "Prague",
+  "difficulty": "easy",
+  "topic": "orloj-prague"
+ },
+ {
+  "id": "hard-tech-289",
+  "prompt": "Which Italian town introduced watermarked paper in the 13th century?",
+  "choices": [
+   "Florence",
+   "Fabriano",
+   "Bologna",
+   "Venice"
+  ],
+  "answer": "Fabriano",
+  "difficulty": "medium",
+  "topic": "fabriano-paper"
+ },
+ {
+  "id": "hard-tech-290",
+  "prompt": "Which Italian instrument maker invented the piano around 1700?",
+  "choices": [
+   "Andrea Amati",
+   "Bartolomeo Cristofori",
+   "Gasparo da Salo",
+   "Antonio Stradivari"
+  ],
+  "answer": "Bartolomeo Cristofori",
+  "difficulty": "medium",
+  "topic": "cristofori"
+ },
+ {
+  "id": "hard-tech-291",
+  "prompt": "Which Belgian patented the saxophone in 1846?",
+  "choices": [
+   "Adolphe Sax",
+   "Hector Berlioz",
+   "Antoine Courtois",
+   "Theobald Boehm"
+  ],
+  "answer": "Adolphe Sax",
+  "difficulty": "easy",
+  "topic": "adolphe-sax"
+ },
+ {
+  "id": "hard-tech-292",
+  "prompt": "Which American engineer began building voltage-controlled synthesizers in 1964?",
+  "choices": [
+   "Leo Fender",
+   "Robert Moog",
+   "Les Paul",
+   "Don Buchla"
+  ],
+  "answer": "Robert Moog",
+  "difficulty": "medium",
+  "topic": "moog"
+ },
+ {
+  "id": "hard-tech-293",
+  "prompt": "Which American built the steam-powered rotary printing press in 1843?",
+  "choices": [
+   "Ottmar Mergenthaler",
+   "Richard Hoe",
+   "Johannes Gutenberg",
+   "Friedrich Koenig"
+  ],
+  "answer": "Richard Hoe",
+  "difficulty": "medium",
+  "topic": "hoe-rotary-press"
+ },
+ {
+  "id": "hard-tech-294",
+  "prompt": "Which German-born inventor created the Linotype machine in 1884?",
+  "choices": [
+   "Friedrich Koenig",
+   "Tolbert Lanston",
+   "Ottmar Mergenthaler",
+   "Richard Hoe"
+  ],
+  "answer": "Ottmar Mergenthaler",
+  "difficulty": "medium",
+  "topic": "linotype"
+ },
+ {
+  "id": "hard-tech-295",
+  "prompt": "Which Bavarian invented lithography in 1796?",
+  "choices": [
+   "Johann Gutenberg",
+   "Joseph Niepce",
+   "Aloys Fleischmann",
+   "Alois Senefelder"
+  ],
+  "answer": "Alois Senefelder",
+  "difficulty": "medium",
+  "topic": "senefelder"
+ },
+ {
+  "id": "hard-tech-296",
+  "prompt": "Which Hungarian patented the ballpoint pen in 1938?",
+  "choices": [
+   "Georg Bauer",
+   "Laszlo Biro",
+   "Marcel Bich",
+   "Edmund Fisher"
+  ],
+  "answer": "Laszlo Biro",
+  "difficulty": "medium",
+  "topic": "biro"
+ },
+ {
+  "id": "hard-tech-297",
+  "prompt": "Which English inventor's 1885 Rover is regarded as the first modern safety bicycle?",
+  "choices": [
+   "Pierre Lallement",
+   "John Kemp Starley",
+   "James Starley",
+   "Dan Albone"
+  ],
+  "answer": "John Kemp Starley",
+  "difficulty": "hard",
+  "topic": "rover-safety"
+ },
+ {
+  "id": "hard-tech-298",
+  "prompt": "Which British engineer invented the hovercraft in the 1950s?",
+  "choices": [
+   "Barnes Wallis",
+   "Christopher Cockerell",
+   "Alec Issigonis",
+   "Frank Whittle"
+  ],
+  "answer": "Christopher Cockerell",
+  "difficulty": "medium",
+  "topic": "cockerell"
+ },
+ {
+  "id": "hard-tech-299",
+  "prompt": "For which pharaoh was the Great Pyramid of Giza built?",
+  "choices": [
+   "Menkaure",
+   "Khafre",
+   "Djoser",
+   "Khufu"
+  ],
+  "answer": "Khufu",
+  "difficulty": "easy",
+  "topic": "khufu"
+ },
+ {
+  "id": "hard-tech-300",
+  "prompt": "Which Mesoamerican city's Pyramid of the Sun is among its largest structures?",
+  "choices": [
+   "Tenochtitlan",
+   "Chichen Itza",
+   "Tikal",
+   "Teotihuacan"
+  ],
+  "answer": "Teotihuacan",
+  "difficulty": "easy",
+  "topic": "teotihuacan"
+ },
+ {
+  "id": "hard-tech-301",
+  "prompt": "Which ancient warship had three banks of oars?",
+  "choices": [
+   "Trireme",
+   "Quinquereme",
+   "Bireme",
+   "Galley slave ship"
+  ],
+  "answer": "Trireme",
+  "difficulty": "easy",
+  "topic": "trireme"
+ },
+ {
+  "id": "hard-tech-302",
+  "prompt": "Which Scottish engineer popularized crushed-stone road surfacing in the early 1800s?",
+  "choices": [
+   "John Rennie",
+   "John McAdam",
+   "Pierre Tresaguet",
+   "Thomas Telford"
+  ],
+  "answer": "John McAdam",
+  "difficulty": "medium",
+  "topic": "macadam"
+ },
+ {
+  "id": "hard-tech-303",
+  "prompt": "Which engineer built London's main sewers after the Great Stink of 1858?",
+  "choices": [
+   "Thomas Crapper",
+   "John Snow",
+   "Joseph Bazalgette",
+   "Isambard Brunel"
+  ],
+  "answer": "Joseph Bazalgette",
+  "difficulty": "medium",
+  "topic": "bazalgette"
+ },
+ {
+  "id": "hard-tech-304",
+  "prompt": "Which Frenchman engineered the iron framework inside the Statue of Liberty?",
+  "choices": [
+   "Gustave Eiffel",
+   "Eugene Viollet-le-Duc",
+   "Ferdinand de Lesseps",
+   "Frederic Bartholdi"
+  ],
+  "answer": "Gustave Eiffel",
+  "difficulty": "medium",
+  "topic": "eiffel-liberty"
+ },
+ {
+  "id": "hard-tech-305",
+  "prompt": "Which English engineer patented the lawn mower in 1830?",
+  "choices": [
+   "James Nasmyth",
+   "Henry Maudslay",
+   "Edwin Budding",
+   "Joseph Whitworth"
+  ],
+  "answer": "Edwin Budding",
+  "difficulty": "hard",
+  "topic": "budding-mower"
+ },
+ {
+  "id": "hard-tech-306",
+  "prompt": "Which Scottish engineer invented the steam hammer in 1839?",
+  "choices": [
+   "James Watt",
+   "Henry Maudslay",
+   "William Fairbairn",
+   "James Nasmyth"
+  ],
+  "answer": "James Nasmyth",
+  "difficulty": "hard",
+  "topic": "nasmyth-steam-hammer"
+ },
+ {
+  "id": "hard-tech-307",
+  "prompt": "Which London engineer built the all-metal screw-cutting lathe around 1800?",
+  "choices": [
+   "Henry Maudslay",
+   "Marc Brunel",
+   "Joseph Whitworth",
+   "Joseph Bramah"
+  ],
+  "answer": "Henry Maudslay",
+  "difficulty": "hard",
+  "topic": "maudslay-lathe"
+ },
+ {
+  "id": "hard-tech-308",
+  "prompt": "Which Englishman's 1841 system standardized screw threads?",
+  "choices": [
+   "Joseph Whitworth",
+   "Richard Roberts",
+   "James Nasmyth",
+   "Henry Maudslay"
+  ],
+  "answer": "Joseph Whitworth",
+  "difficulty": "medium",
+  "topic": "whitworth-thread"
+ },
+ {
+  "id": "hard-tech-309",
+  "prompt": "What natural mineral did early Chinese magnetic compasses use?",
+  "choices": [
+   "Hematite",
+   "Lodestone",
+   "Cinnabar",
+   "Pyrite"
+  ],
+  "answer": "Lodestone",
+  "difficulty": "medium",
+  "topic": "lodestone"
+ },
+ {
+  "id": "hard-tech-310",
+  "prompt": "Which ancient Greek device measured time using dripping water?",
+  "choices": [
+   "Clepsydra",
+   "Sundial",
+   "Hourglass",
+   "Gnomon"
+  ],
+  "answer": "Clepsydra",
+  "difficulty": "easy",
+  "topic": "clepsydra"
+ },
+ {
+  "id": "hard-tech-311",
+  "prompt": "Which Hungarian doctor introduced handwashing to cut childbed fever in Vienna in 1847?",
+  "choices": [
+   "Robert Koch",
+   "Joseph Lister",
+   "Ignaz Semmelweis",
+   "Louis Pasteur"
+  ],
+  "answer": "Ignaz Semmelweis",
+  "difficulty": "medium",
+  "topic": "semmelweis"
+ },
+ {
+  "id": "hard-tech-312",
+  "prompt": "Which American patented the three-position traffic signal in 1923?",
+  "choices": [
+   "Elijah McCoy",
+   "Granville Woods",
+   "Garrett Morgan",
+   "Lewis Latimer"
+  ],
+  "answer": "Garrett Morgan",
+  "difficulty": "hard",
+  "topic": "garrett-morgan"
+ },
+ {
+  "id": "hard-tech-313",
+  "prompt": "Which Ohio saloonkeeper invented the cash register in 1879?",
+  "choices": [
+   "John Patterson",
+   "Herman Hollerith",
+   "James Ritty",
+   "Charles Kettering"
+  ],
+  "answer": "James Ritty",
+  "difficulty": "hard",
+  "topic": "ritty-cash-register"
+ },
+ {
+  "id": "hard-tech-314",
+  "prompt": "Which American woman devised a machine for making flat-bottomed paper bags in 1870?",
+  "choices": [
+   "Mary Anderson",
+   "Josephine Cochrane",
+   "Margaret Knight",
+   "Hedy Lamarr"
+  ],
+  "answer": "Margaret Knight",
+  "difficulty": "hard",
+  "topic": "margaret-knight"
+ },
+ {
+  "id": "hard-tech-315",
+  "prompt": "In which decade did Louis Braille devise his tactile reading system?",
+  "choices": [
+   "1850s",
+   "1820s",
+   "1890s",
+   "1780s"
+  ],
+  "answer": "1820s",
+  "difficulty": "medium",
+  "topic": "braille-decade"
+ }
+]

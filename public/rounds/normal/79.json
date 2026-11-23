@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-095",
-     "prompt": "Who wrote The Spirit of the Laws, favoring separation of powers?",
+     "id": "tech-250",
+     "prompt": "A sphygmomanometer measures what?",
      "choices": [
-      "Montesquieu",
-      "Rousseau",
-      "Voltaire",
-      "Locke"
+      "Lung capacity",
+      "Body fat",
+      "Pulse oxygen",
+      "Blood pressure"
      ],
-     "answer": "Montesquieu",
+     "answer": "Blood pressure",
      "difficulty": "medium"
     },
     {
-     "id": "phil-030",
-     "prompt": "The Greek word eudaimonia is usually rendered as what?",
+     "id": "tech-048",
+     "prompt": "Which scholar wrote the 11th-century Book of Optics?",
      "choices": [
-      "Flourishing",
-      "Wisdom",
-      "Justice",
-      "Fate"
+      "Omar Khayyam",
+      "Ibn al-Haytham",
+      "Avicenna",
+      "Al-Khwarizmi"
      ],
-     "answer": "Flourishing",
-     "difficulty": "medium"
+     "answer": "Ibn al-Haytham",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-301",
-     "prompt": "Which English philosopher described the newborn mind as a blank slate?",
+     "id": "tech-093",
+     "prompt": "Which two French brothers launched the first hot-air balloon flight in 1783?",
      "choices": [
-      "John Locke",
-      "Thomas Hobbes",
-      "George Berkeley",
-      "Francis Bacon"
+      "Wright brothers",
+      "Goodyear brothers",
+      "Montgolfier brothers",
+      "Lumiere brothers"
      ],
-     "answer": "John Locke",
-     "difficulty": "medium"
+     "answer": "Montgolfier brothers",
+     "difficulty": "easy"
     }
    ]
   }

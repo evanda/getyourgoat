@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-048",
-     "prompt": "Which skeptic's Outlines of Pyrrhonism is our main source on that school?",
+     "id": "hard-tech-133",
+     "prompt": "Which Volvo engineer invented the three-point seat belt in 1959?",
      "choices": [
-      "Carneades",
-      "Sextus Empiricus",
-      "Timon",
-      "Aenesidemus"
+      "Nils Bohlin",
+      "Gustaf Larson",
+      "Gideon Sundback",
+      "Ralph Nader"
      ],
-     "answer": "Sextus Empiricus",
+     "answer": "Nils Bohlin",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-240",
+     "prompt": "What is the overhanging castle parapet with holes for dropping missiles called?",
+     "choices": [
+      "Machicolation",
+      "Crenellation",
+      "Barbican",
+      "Portcullis"
+     ],
+     "answer": "Machicolation",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-200",
-     "prompt": "Who translated Wittgenstein's Philosophical Investigations into English?",
+     "id": "hard-tech-142",
+     "prompt": "Morse's 1844 message What hath God wrought went between Washington and which city?",
      "choices": [
-      "Mary Warnock",
-      "G. E. M. Anscombe",
-      "Philippa Foot",
-      "Iris Murdoch"
+      "Baltimore",
+      "Philadelphia",
+      "New York",
+      "Boston"
      ],
-     "answer": "G. E. M. Anscombe",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-086",
-     "prompt": "Which medieval thinker is traditionally credited with the doctrine of double effect?",
-     "choices": [
-      "Anselm",
-      "Thomas Aquinas",
-      "Augustine",
-      "Duns Scotus"
-     ],
-     "answer": "Thomas Aquinas",
-     "difficulty": "hard"
+     "answer": "Baltimore",
+     "difficulty": "medium"
     }
    ]
   }

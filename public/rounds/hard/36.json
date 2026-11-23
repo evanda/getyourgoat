@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-307",
-     "prompt": "Which Indian Buddhist poet wrote the Bodhicaryavatara?",
+     "id": "hard-tech-311",
+     "prompt": "Which Hungarian doctor introduced handwashing to cut childbed fever in Vienna in 1847?",
      "choices": [
-      "Aryadeva",
-      "Dignaga",
-      "Candrakirti",
-      "Shantideva"
+      "Robert Koch",
+      "Joseph Lister",
+      "Ignaz Semmelweis",
+      "Louis Pasteur"
      ],
-     "answer": "Shantideva",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-105",
-     "prompt": "Which principle of Leibniz holds that things sharing all properties are one and the same?",
-     "choices": [
-      "Law of continuity",
-      "Principle of plenitude",
-      "Pre-established harmony",
-      "Identity of indiscernibles"
-     ],
-     "answer": "Identity of indiscernibles",
+     "answer": "Ignaz Semmelweis",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-252",
-     "prompt": "Which Jewish thinker wrote the Book of Beliefs and Opinions?",
+     "id": "hard-tech-157",
+     "prompt": "What was the first product scanned with a UPC barcode, in 1974?",
      "choices": [
-      "Judah Halevi",
-      "Maimonides",
-      "Solomon ibn Gabirol",
-      "Saadia Gaon"
+      "A pack of chewing gum",
+      "A box of cereal",
+      "A bottle of cola",
+      "A can of soup"
      ],
-     "answer": "Saadia Gaon",
+     "answer": "A pack of chewing gum",
      "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-200",
+     "prompt": "Which Post Office engineer built the Colossus codebreaking computers?",
+     "choices": [
+      "Gordon Welchman",
+      "Alan Turing",
+      "Tommy Flowers",
+      "Max Newman"
+     ],
+     "answer": "Tommy Flowers",
+     "difficulty": "medium"
     }
    ]
   }

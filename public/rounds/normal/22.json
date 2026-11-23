@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-240",
-     "prompt": "In everyday speech, a stoic person does what?",
+     "id": "tech-005",
+     "prompt": "Which farm tool turns over soil in rows before planting?",
      "choices": [
-      "Faces hardship calmly",
-      "Gets angry fast",
-      "Boasts loudly",
-      "Forgets easily"
+      "Flail",
+      "Plough",
+      "Sickle",
+      "Rake"
      ],
-     "answer": "Faces hardship calmly",
+     "answer": "Plough",
      "difficulty": "easy"
     },
     {
-     "id": "phil-232",
-     "prompt": "Jean-Paul Sartre was a philosopher from which country?",
+     "id": "tech-147",
+     "prompt": "Hoover Dam harnesses which river?",
      "choices": [
-      "France",
-      "Germany",
-      "Italy",
-      "Spain"
+      "Columbia River",
+      "Mississippi River",
+      "Colorado River",
+      "Missouri River"
      ],
-     "answer": "France",
+     "answer": "Colorado River",
      "difficulty": "easy"
     },
     {
-     "id": "phil-004",
-     "prompt": "Aristotle founded which school in Athens?",
+     "id": "tech-264",
+     "prompt": "3D printers build objects by adding what?",
      "choices": [
-      "The Lyceum",
-      "The Academy",
-      "The Garden",
-      "The Porch"
+      "Sound waves",
+      "Layers of material",
+      "Pressure",
+      "Liquid metal only"
      ],
-     "answer": "The Lyceum",
-     "difficulty": "medium"
+     "answer": "Layers of material",
+     "difficulty": "easy"
     }
    ]
   }

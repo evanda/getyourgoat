@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-172",
-     "prompt": "Which school judges ideas by their practical effects?",
+     "id": "tech-204",
+     "prompt": "Which process, invented by Chester Carlson in 1938, led to photocopiers?",
      "choices": [
-      "Pragmatism",
-      "Rationalism",
-      "Idealism",
-      "Scholasticism"
+      "Daguerreotype",
+      "Lithography",
+      "Mimeograph",
+      "Xerography"
      ],
-     "answer": "Pragmatism",
-     "difficulty": "medium"
+     "answer": "Xerography",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-162",
-     "prompt": "Which branch of philosophy studies what exists and what being is?",
+     "id": "tech-076",
+     "prompt": "Robert Fulton's Clermont of 1807 was a successful what?",
      "choices": [
-      "Ontology",
-      "Epistemology",
-      "Aesthetics",
-      "Axiology"
+      "Steamboat",
+      "Submarine",
+      "Airship",
+      "Locomotive"
      ],
-     "answer": "Ontology",
+     "answer": "Steamboat",
      "difficulty": "easy"
     },
     {
-     "id": "phil-250",
-     "prompt": "Which of these philosophers was Greek?",
+     "id": "tech-144",
+     "prompt": "Edison's Pearl Street station of 1882 supplied power to which city?",
      "choices": [
-      "Aristotle",
-      "Confucius",
-      "Kant",
-      "Nietzsche"
+      "New York",
+      "London",
+      "Boston",
+      "Chicago"
      ],
-     "answer": "Aristotle",
-     "difficulty": "easy"
+     "answer": "New York",
+     "difficulty": "hard"
     }
    ]
   }

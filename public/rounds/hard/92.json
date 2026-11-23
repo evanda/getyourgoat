@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-008",
-     "prompt": "Which Sophist wrote a treatise arguing that nothing exists?",
+     "id": "hard-tech-086",
+     "prompt": "Where was the first self-sustaining nuclear chain reaction achieved, in 1942?",
      "choices": [
-      "Hippias",
-      "Gorgias",
-      "Prodicus",
-      "Protagoras"
+      "Los Alamos",
+      "Columbia University",
+      "University of Chicago",
+      "Oak Ridge"
      ],
-     "answer": "Gorgias",
+     "answer": "University of Chicago",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-119",
-     "prompt": "In Hume's Dialogues Concerning Natural Religion, who defends the argument from design?",
+     "id": "hard-tech-160",
+     "prompt": "Which Englishman invented the negative-positive calotype photographic process?",
      "choices": [
-      "Demea",
-      "Hylas",
-      "Cleanthes",
-      "Philo"
+      "Frederick Archer",
+      "William Henry Fox Talbot",
+      "Louis Daguerre",
+      "John Herschel"
      ],
-     "answer": "Cleanthes",
+     "answer": "William Henry Fox Talbot",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-051",
-     "prompt": "What Greek term names weakness of will?",
+     "id": "hard-tech-256",
+     "prompt": "Which Joseon engineer built the self-striking water clock in 1434?",
      "choices": [
-      "Atomia",
-      "Apatheia",
-      "Aporia",
-      "Akrasia"
+      "Jeong Dojeon",
+      "Heo Jun",
+      "Yi Sun-sin",
+      "Jang Yeong-sil"
      ],
-     "answer": "Akrasia",
-     "difficulty": "medium"
+     "answer": "Jang Yeong-sil",
+     "difficulty": "hard"
     }
    ]
   }

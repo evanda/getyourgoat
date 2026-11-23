@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-212",
-     "prompt": "Which group of 1920s Viennese thinkers promoted logical positivism?",
+     "id": "tech-167",
+     "prompt": "Which fuel from oil was widely used in 1800s lamps?",
      "choices": [
-      "The Vienna Circle",
-      "The Frankfurt School",
-      "The Kyoto School",
-      "The Stoa"
+      "Petrol",
+      "Propane",
+      "Diesel",
+      "Kerosene"
      ],
-     "answer": "The Vienna Circle",
+     "answer": "Kerosene",
      "difficulty": "medium"
     },
     {
-     "id": "phil-138",
-     "prompt": "Who founded the philosophy called Objectivism?",
+     "id": "tech-154",
+     "prompt": "Calder Hall of 1956 was the first commercial nuclear power station of which country?",
      "choices": [
-      "Ayn Rand",
-      "Friedrich Hayek",
-      "Milton Friedman",
-      "Robert Nozick"
+      "Germany",
+      "Canada",
+      "Japan",
+      "United Kingdom"
      ],
-     "answer": "Ayn Rand",
-     "difficulty": "medium"
+     "answer": "United Kingdom",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-008",
-     "prompt": "Who wrote the Nicomachean Ethics?",
+     "id": "tech-083",
+     "prompt": "John Boyd Dunlop's 1888 invention improved what?",
      "choices": [
-      "Aristotle",
-      "Plato",
-      "Epicurus",
-      "Seneca"
+      "Brake pads",
+      "Bicycle tyres",
+      "Chain drives",
+      "Handlebars"
      ],
-     "answer": "Aristotle",
-     "difficulty": "easy"
+     "answer": "Bicycle tyres",
+     "difficulty": "medium"
     }
    ]
   }

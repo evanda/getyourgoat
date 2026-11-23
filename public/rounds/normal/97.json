@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-234",
-     "prompt": "John Locke was a philosopher from which country?",
+     "id": "tech-037",
+     "prompt": "The heavy wheeled plough helped medieval farmers work what kind of land?",
      "choices": [
-      "England",
-      "France",
-      "Germany",
-      "Italy"
+      "Heavy clay soil",
+      "Frozen tundra",
+      "Desert sand",
+      "Rocky mountain slopes"
      ],
-     "answer": "England",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-203",
-     "prompt": "The Buddha was born in what is now which country?",
-     "choices": [
-      "Nepal",
-      "Sri Lanka",
-      "Tibet",
-      "Bhutan"
-     ],
-     "answer": "Nepal",
+     "answer": "Heavy clay soil",
      "difficulty": "medium"
     },
     {
-     "id": "phil-171",
-     "prompt": "Which philosophy teaches pleasure is the highest good?",
+     "id": "tech-036",
+     "prompt": "Horseshoes were nailed to horses to protect what?",
      "choices": [
-      "Hedonism",
-      "Stoicism",
-      "Asceticism",
-      "Nihilism"
+      "Their legs from wolves",
+      "Their tails",
+      "Their hooves",
+      "Their saddles"
      ],
-     "answer": "Hedonism",
+     "answer": "Their hooves",
      "difficulty": "easy"
+    },
+    {
+     "id": "tech-056",
+     "prompt": "The Jacquard loom of 1804 used what to control patterns?",
+     "choices": [
+      "Steam jets",
+      "Pedals",
+      "Magnets",
+      "Punched cards"
+     ],
+     "answer": "Punched cards",
+     "difficulty": "hard"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-071",
-     "prompt": "Occam's razor is named after which friar?",
+     "id": "tech-276",
+     "prompt": "ENIAC, an early electronic computer of 1945, was built in which country?",
      "choices": [
-      "William of Ockham",
-      "Thomas Aquinas",
-      "Duns Scotus",
-      "Roger Bacon"
+      "Soviet Union",
+      "United States",
+      "Germany",
+      "Japan"
      ],
-     "answer": "William of Ockham",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-024",
-     "prompt": "Who was Plato's teacher?",
-     "choices": [
-      "Socrates",
-      "Pythagoras",
-      "Heraclitus",
-      "Protagoras"
-     ],
-     "answer": "Socrates",
+     "answer": "United States",
      "difficulty": "easy"
     },
     {
-     "id": "phil-270",
-     "prompt": "Reasoning from observed cases to a general rule is called what?",
+     "id": "tech-003",
+     "prompt": "What natural force turns a water wheel?",
      "choices": [
-      "Induction",
-      "Deduction",
-      "Reduction",
-      "Intuition"
+      "Wind",
+      "Flowing water",
+      "Magnetism",
+      "Steam"
      ],
-     "answer": "Induction",
-     "difficulty": "medium"
+     "answer": "Flowing water",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-057",
+     "prompt": "Who built the famous locomotive Rocket in 1829?",
+     "choices": [
+      "Isambard Brunel",
+      "James Watt",
+      "Thomas Edison",
+      "George and Robert Stephenson"
+     ],
+     "answer": "George and Robert Stephenson",
+     "difficulty": "easy"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-292",
-     "prompt": "The Stoics taught that the chief good is what?",
+     "id": "tech-315",
+     "prompt": "Joseph Paxton's 1851 Crystal Palace was built mainly of what?",
      "choices": [
-      "Virtue",
-      "Wealth",
-      "Fame",
-      "Pleasure"
+      "Wood and thatch",
+      "Iron and glass",
+      "Steel and concrete",
+      "Stone and brick"
      ],
-     "answer": "Virtue",
+     "answer": "Iron and glass",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-312",
+     "prompt": "Whose engineering company built the Eiffel Tower in 1889?",
+     "choices": [
+      "Gustave Eiffel",
+      "Joseph Paxton",
+      "Isambard Brunel",
+      "Thomas Telford"
+     ],
+     "answer": "Gustave Eiffel",
      "difficulty": "easy"
     },
     {
-     "id": "phil-264",
-     "prompt": "All men are mortal; Socrates is a man; so he is mortal. This is a what?",
+     "id": "tech-206",
+     "prompt": "Which Swiss engineer invented Velcro after studying burrs?",
      "choices": [
-      "Syllogism",
-      "Paradox",
-      "Dilemma",
-      "Axiom"
+      "Gideon Sundback",
+      "Percy Spencer",
+      "George de Mestral",
+      "Adolf Dassler"
      ],
-     "answer": "Syllogism",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-242",
-     "prompt": "Platonic love is named after which philosopher?",
-     "choices": [
-      "Plato",
-      "Socrates",
-      "Aristotle",
-      "Homer"
-     ],
-     "answer": "Plato",
-     "difficulty": "easy"
+     "answer": "George de Mestral",
+     "difficulty": "medium"
     }
    ]
   }

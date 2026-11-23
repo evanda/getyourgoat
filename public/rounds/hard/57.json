@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-082",
-     "prompt": "Which scholastic is linked with the term haecceity, a thing's 'thisness'?",
+     "id": "hard-tech-073",
+     "prompt": "The Haber-Bosch process makes which compound from nitrogen and hydrogen?",
      "choices": [
-      "Thomas Aquinas",
-      "Henry of Ghent",
-      "Bonaventure",
-      "Duns Scotus"
+      "Nitric acid",
+      "Ammonia",
+      "Urea",
+      "Hydrazine"
      ],
-     "answer": "Duns Scotus",
+     "answer": "Ammonia",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-294",
-     "prompt": "Which Indian materialist school rejected rebirth and the authority of the Vedas?",
+     "id": "hard-tech-210",
+     "prompt": "Who chose the @ sign for networked email in 1971?",
      "choices": [
-      "Mimamsa",
-      "Samkhya",
-      "Nyaya",
-      "Charvaka"
+      "Larry Roberts",
+      "Vint Cerf",
+      "Bob Kahn",
+      "Ray Tomlinson"
      ],
-     "answer": "Charvaka",
+     "answer": "Ray Tomlinson",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-202",
-     "prompt": "Which philosopher coined the phrase ghost in the machine?",
+     "id": "hard-tech-164",
+     "prompt": "Which brothers gave the first paid public film screening in Paris in 1895?",
      "choices": [
-      "Gilbert Ryle",
-      "A. J. Ayer",
-      "P. F. Strawson",
-      "J. L. Austin"
+      "Skladanowsky",
+      "Gaumont",
+      "Lumiere",
+      "Pathe"
      ],
-     "answer": "Gilbert Ryle",
+     "answer": "Lumiere",
      "difficulty": "easy"
     }
    ]

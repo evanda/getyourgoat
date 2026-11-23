@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-127",
-     "prompt": "Who wrote Being and Time?",
+     "id": "tech-075",
+     "prompt": "Which canal, opened in 1914, links the Atlantic and Pacific oceans?",
      "choices": [
-      "Martin Heidegger",
-      "Edmund Husserl",
-      "Jean-Paul Sartre",
-      "Hans-Georg Gadamer"
+      "Erie Canal",
+      "Suez Canal",
+      "Panama Canal",
+      "Kiel Canal"
      ],
-     "answer": "Martin Heidegger",
+     "answer": "Panama Canal",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-051",
+     "prompt": "Whose 1712 atmospheric engine pumped water from mines?",
+     "choices": [
+      "George Stephenson",
+      "Richard Trevithick",
+      "James Watt",
+      "Thomas Newcomen"
+     ],
+     "answer": "Thomas Newcomen",
      "difficulty": "medium"
     },
     {
-     "id": "phil-261",
-     "prompt": "Which of these thinkers lived most recently?",
+     "id": "tech-310",
+     "prompt": "Which material framework made the first skyscrapers possible in the 1880s?",
      "choices": [
-      "Jean-Paul Sartre",
-      "Immanuel Kant",
-      "David Hume",
-      "Aristotle"
+      "Timber",
+      "Brick",
+      "Steel",
+      "Stone"
      ],
-     "answer": "Jean-Paul Sartre",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-217",
-     "prompt": "Which view holds that only physical matter exists?",
-     "choices": [
-      "Materialism",
-      "Idealism",
-      "Dualism",
-      "Mysticism"
-     ],
-     "answer": "Materialism",
-     "difficulty": "easy"
+     "answer": "Steel",
+     "difficulty": "medium"
     }
    ]
   }

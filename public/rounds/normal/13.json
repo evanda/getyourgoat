@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-132",
-     "prompt": "Which philosopher of science championed falsifiability?",
+     "id": "tech-263",
+     "prompt": "Jack Kilby built an early what at Texas Instruments in 1958?",
      "choices": [
-      "Karl Popper",
-      "Thomas Kuhn",
-      "Imre Lakatos",
-      "Paul Feyerabend"
+      "Integrated circuit",
+      "Calculator",
+      "Radio",
+      "Television"
      ],
-     "answer": "Karl Popper",
+     "answer": "Integrated circuit",
      "difficulty": "medium"
     },
     {
-     "id": "phil-107",
-     "prompt": "Which philosopher declared that God is dead?",
+     "id": "tech-026",
+     "prompt": "Zhang Heng's seismoscope of 132 AD was designed to detect what?",
      "choices": [
-      "Nietzsche",
-      "Marx",
-      "Kant",
-      "Spinoza"
+      "Floods",
+      "Storms",
+      "Eclipses",
+      "Earthquakes"
      ],
-     "answer": "Nietzsche",
-     "difficulty": "easy"
+     "answer": "Earthquakes",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-277",
-     "prompt": "Which of these thinkers was Indian?",
+     "id": "tech-184",
+     "prompt": "Which inventor created the phonograph in 1877?",
      "choices": [
-      "Shankara",
-      "Plato",
-      "Avicenna",
-      "Confucius"
+      "Alexander Bell",
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Emile Berliner"
      ],
-     "answer": "Shankara",
-     "difficulty": "easy"
+     "answer": "Thomas Edison",
+     "difficulty": "medium"
     }
    ]
   }

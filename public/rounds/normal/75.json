@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-211",
-     "prompt": "Adorno and Horkheimer belonged to which school of thought?",
+     "id": "tech-009",
+     "prompt": "Which country first invented paper?",
      "choices": [
-      "Frankfurt School",
-      "Vienna Circle",
-      "Kyoto School",
-      "Stoa"
+      "Egypt",
+      "Greece",
+      "China",
+      "India"
      ],
-     "answer": "Frankfurt School",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-089",
-     "prompt": "The adjective Cartesian refers to which philosopher?",
-     "choices": [
-      "Descartes",
-      "Kant",
-      "Hegel",
-      "Spinoza"
-     ],
-     "answer": "Descartes",
+     "answer": "China",
      "difficulty": "easy"
     },
     {
-     "id": "phil-023",
-     "prompt": "Which Roman poet-philosopher wrote On the Nature of Things?",
+     "id": "tech-198",
+     "prompt": "Telstar 1, launched in 1962, was the first satellite to relay what?",
      "choices": [
-      "Lucretius",
-      "Cicero",
-      "Seneca",
-      "Ovid"
+      "Radio from Mars",
+      "GPS signals",
+      "Weather maps",
+      "Live television across the Atlantic"
      ],
-     "answer": "Lucretius",
-     "difficulty": "medium"
+     "answer": "Live television across the Atlantic",
+     "difficulty": "hard"
+    },
+    {
+     "id": "tech-034",
+     "prompt": "Roman and Greek engineers used catapults to launch what?",
+     "choices": [
+      "Ships into water",
+      "Messages to allies",
+      "Projectiles at enemies",
+      "Water into fields"
+     ],
+     "answer": "Projectiles at enemies",
+     "difficulty": "easy"
     }
    ]
   }

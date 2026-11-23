@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-140",
-     "prompt": "Which French thinker is associated with deconstruction?",
+     "id": "tech-289",
+     "prompt": "What does the H in HTML stand for?",
      "choices": [
-      "Jacques Derrida",
-      "Michel Foucault",
-      "Jacques Lacan",
-      "Jean-Paul Sartre"
+      "High-speed",
+      "Host",
+      "Hypertext",
+      "Hyperlink"
      ],
-     "answer": "Jacques Derrida",
+     "answer": "Hypertext",
      "difficulty": "medium"
     },
     {
-     "id": "phil-108",
-     "prompt": "Who wrote Thus Spoke Zarathustra?",
+     "id": "tech-072",
+     "prompt": "Pasteurisation is routinely used to make which drink safer?",
      "choices": [
-      "Nietzsche",
-      "Schopenhauer",
-      "Heidegger",
-      "Kierkegaard"
+      "Coffee",
+      "Mineral water",
+      "Milk",
+      "Tea"
      ],
-     "answer": "Nietzsche",
-     "difficulty": "easy"
+     "answer": "Milk",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-063",
-     "prompt": "Which Andalusian thinker was nicknamed The Commentator on Aristotle?",
+     "id": "tech-173",
+     "prompt": "Which gas-discharge lamp uses mercury vapour and a phosphor coating?",
      "choices": [
-      "Averroes",
-      "Avicenna",
-      "Maimonides",
-      "Al-Ghazali"
+      "Halogen lamp",
+      "Fluorescent lamp",
+      "Oil lamp",
+      "Arc lamp"
      ],
-     "answer": "Averroes",
+     "answer": "Fluorescent lamp",
      "difficulty": "medium"
     }
    ]

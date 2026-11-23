@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-309",
-     "prompt": "How many skandhas, or aggregates, does early Buddhism list?",
+     "id": "hard-tech-182",
+     "prompt": "Which Italian invented the mercury barometer in 1643?",
      "choices": [
-      "Seven",
-      "Three",
-      "Five",
-      "Twelve"
+      "Otto von Guericke",
+      "Blaise Pascal",
+      "Galileo Galilei",
+      "Evangelista Torricelli"
      ],
-     "answer": "Five",
+     "answer": "Evangelista Torricelli",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-036",
-     "prompt": "Which Stoic wrote the Hymn to Zeus and succeeded Zeno as head of the school?",
+     "id": "hard-tech-129",
+     "prompt": "At which Michigan plant did Ford introduce the moving assembly line in 1913?",
      "choices": [
-      "Chrysippus",
-      "Panaetius",
-      "Cleanthes",
-      "Posidonius"
+      "River Rouge",
+      "Highland Park",
+      "Piquette Avenue",
+      "Willow Run"
      ],
-     "answer": "Cleanthes",
-     "difficulty": "medium"
+     "answer": "Highland Park",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-164",
-     "prompt": "Which philosopher wrote The Souls of Black Folk and described double consciousness?",
+     "id": "hard-tech-135",
+     "prompt": "Which Swedish-American engineer designed the ironclad USS Monitor?",
      "choices": [
-      "Frederick Douglass",
-      "Booker T. Washington",
-      "Alain Locke",
-      "W. E. B. Du Bois"
+      "John Roach",
+      "Cornelius Bushnell",
+      "John Ericsson",
+      "Isambard Brunel"
      ],
-     "answer": "W. E. B. Du Bois",
+     "answer": "John Ericsson",
      "difficulty": "easy"
     }
    ]

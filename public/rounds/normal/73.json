@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-259",
-     "prompt": "Which of these thinkers was Dutch?",
+     "id": "tech-012",
+     "prompt": "The ancient Greek Antikythera mechanism modelled what?",
      "choices": [
-      "Spinoza",
-      "David Hume",
-      "Immanuel Kant",
-      "Friedrich Nietzsche"
+      "Harvest seasons",
+      "Ocean tides",
+      "Earthquake zones",
+      "Movements of sun, moon and planets"
      ],
-     "answer": "Spinoza",
-     "difficulty": "medium"
+     "answer": "Movements of sun, moon and planets",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-031",
-     "prompt": "The Greek word telos means what?",
+     "id": "tech-231",
+     "prompt": "X-rays are mainly used in medicine to see what?",
      "choices": [
-      "End or purpose",
-      "Virtue",
-      "Matter",
-      "Soul"
+      "Bones inside the body",
+      "Heartbeat sounds",
+      "Blood sugar",
+      "Body temperature"
      ],
-     "answer": "End or purpose",
-     "difficulty": "medium"
+     "answer": "Bones inside the body",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-106",
-     "prompt": "Who wrote The World as Will and Representation?",
+     "id": "tech-138",
+     "prompt": "The volt is named after which scientist?",
      "choices": [
-      "Schopenhauer",
-      "Nietzsche",
-      "Kierkegaard",
-      "Hegel"
+      "Andre Ampere",
+      "Alessandro Volta",
+      "James Watt",
+      "Georg Ohm"
      ],
-     "answer": "Schopenhauer",
+     "answer": "Alessandro Volta",
      "difficulty": "medium"
     }
    ]

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-057",
-     "prompt": "What Greek term does Aristotle use for potentiality, paired with energeia?",
+     "id": "hard-tech-177",
+     "prompt": "Which Glasgow obstetrician pioneered medical ultrasound in the 1950s?",
      "choices": [
-      "Hexis",
-      "Ousia",
-      "Logos",
-      "Dynamis"
+      "Inge Edler",
+      "Ian Donald",
+      "Karl Dussik",
+      "Godfrey Hounsfield"
      ],
-     "answer": "Dynamis",
+     "answer": "Ian Donald",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-273",
-     "prompt": "How many hexagrams does the Yijing contain?",
+     "id": "hard-tech-132",
+     "prompt": "Which engineer developed the electric starter motor for the 1912 Cadillac?",
      "choices": [
-      "128",
-      "32",
-      "81",
-      "64"
+      "Henry Leland",
+      "Harry Ricardo",
+      "Charles Kettering",
+      "Louis Chevrolet"
      ],
-     "answer": "64",
-     "difficulty": "easy"
+     "answer": "Charles Kettering",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-221",
-     "prompt": "Which term names acts that go beyond the call of duty?",
+     "id": "hard-tech-001",
+     "prompt": "Which ancient Greek geared bronze device, found in a 1901 shipwreck, modeled the heavens?",
      "choices": [
-      "Supererogatory",
-      "Prima facie",
-      "Obligatory",
-      "Deontic"
+      "Tower of the Winds",
+      "Antikythera mechanism",
+      "Archimedes screw",
+      "Aeolipile"
      ],
-     "answer": "Supererogatory",
-     "difficulty": "medium"
+     "answer": "Antikythera mechanism",
+     "difficulty": "easy"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-046",
-     "prompt": "Who is traditionally credited with the Tao Te Ching?",
+     "id": "tech-159",
+     "prompt": "Lithium-ion batteries are widely used in what?",
      "choices": [
-      "Laozi",
-      "Confucius",
-      "Mencius",
-      "Sun Tzu"
+      "Clocks only",
+      "Mining drills only",
+      "Phones and electric cars",
+      "Candles"
      ],
-     "answer": "Laozi",
+     "answer": "Phones and electric cars",
      "difficulty": "easy"
     },
     {
-     "id": "phil-260",
-     "prompt": "Which of these thinkers lived earliest?",
+     "id": "tech-158",
+     "prompt": "Geothermal power taps what?",
      "choices": [
-      "Thales",
-      "Plato",
-      "Aristotle",
-      "Epicurus"
+      "Wind",
+      "Ocean waves",
+      "Heat from underground",
+      "Sunlight"
      ],
-     "answer": "Thales",
+     "answer": "Heat from underground",
      "difficulty": "easy"
     },
     {
-     "id": "phil-183",
-     "prompt": "Hermeneutics is the study of what?",
+     "id": "tech-187",
+     "prompt": "Which Japanese company launched the Walkman in 1979?",
      "choices": [
-      "Interpretation",
-      "Beauty",
-      "Sound reasoning",
-      "Moral duty"
+      "Sony",
+      "Panasonic",
+      "Toshiba",
+      "Sharp"
      ],
-     "answer": "Interpretation",
-     "difficulty": "hard"
+     "answer": "Sony",
+     "difficulty": "easy"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-112",
-     "prompt": "Kierkegaard was a thinker from which country?",
+     "id": "tech-236",
+     "prompt": "Which French chemist helped prove germ theory?",
      "choices": [
-      "Denmark",
-      "Norway",
-      "Germany",
-      "Sweden"
+      "Pierre Curie",
+      "Marie Curie",
+      "Louis Pasteur",
+      "Antoine Lavoisier"
      ],
-     "answer": "Denmark",
+     "answer": "Louis Pasteur",
      "difficulty": "medium"
     },
     {
-     "id": "phil-100",
-     "prompt": "Who wrote Reflections on the Revolution in France?",
+     "id": "tech-239",
+     "prompt": "Ultrasound scans use what to image the body?",
      "choices": [
-      "Edmund Burke",
-      "Thomas Paine",
-      "David Hume",
-      "Jeremy Bentham"
+      "X-rays",
+      "High-frequency sound",
+      "Magnets",
+      "Radio signals"
      ],
-     "answer": "Edmund Burke",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-056",
-     "prompt": "What is the Buddhist state of liberation from suffering called?",
-     "choices": [
-      "Nirvana",
-      "Karma",
-      "Samsara",
-      "Atman"
-     ],
-     "answer": "Nirvana",
+     "answer": "High-frequency sound",
      "difficulty": "easy"
+    },
+    {
+     "id": "tech-292",
+     "prompt": "Moore's law observed that chip transistor counts roughly do what?",
+     "choices": [
+      "Double every two years",
+      "Stay constant",
+      "Triple every month",
+      "Halve every year"
+     ],
+     "answer": "Double every two years",
+     "difficulty": "medium"
     }
    ]
   }

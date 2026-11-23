@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-027",
-     "prompt": "Which saint and bishop wrote the Confessions?",
+     "id": "tech-166",
+     "prompt": "Edwin Drake drilled the first commercial US oil well in 1859 in which state?",
      "choices": [
-      "Augustine",
-      "Aquinas",
-      "Anselm",
-      "Jerome"
+      "California",
+      "Oklahoma",
+      "Pennsylvania",
+      "Texas"
      ],
-     "answer": "Augustine",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-049",
-     "prompt": "Which Confucian argued that human nature tends toward bad?",
-     "choices": [
-      "Xunzi",
-      "Mencius",
-      "Zhuangzi",
-      "Mozi"
-     ],
-     "answer": "Xunzi",
+     "answer": "Pennsylvania",
      "difficulty": "hard"
     },
     {
-     "id": "phil-079",
-     "prompt": "Who wrote Leviathan?",
+     "id": "tech-221",
+     "prompt": "Which process made cheap aluminium possible in the 1880s?",
      "choices": [
-      "Thomas Hobbes",
-      "John Locke",
-      "Rousseau",
-      "David Hume"
+      "Hall-Heroult electrolysis",
+      "Haber process",
+      "Cracking",
+      "Bessemer converting"
      ],
-     "answer": "Thomas Hobbes",
-     "difficulty": "easy"
+     "answer": "Hall-Heroult electrolysis",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-099",
+     "prompt": "Which British engineer patented the turbojet engine in 1930?",
+     "choices": [
+      "Hugh Dowding",
+      "Barnes Wallis",
+      "Igor Sikorsky",
+      "Frank Whittle"
+     ],
+     "answer": "Frank Whittle",
+     "difficulty": "medium"
     }
    ]
   }

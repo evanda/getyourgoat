@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-247",
-     "prompt": "On which island was Pythagoras born?",
+     "id": "tech-277",
+     "prompt": "Colossus, built in Britain in World War II, was used to do what?",
      "choices": [
-      "Samos",
-      "Crete",
-      "Rhodes",
-      "Lesbos"
+      "Guide bombers",
+      "Break German codes",
+      "Track submarines",
+      "Forecast weather"
      ],
-     "answer": "Samos",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-105",
-     "prompt": "Who wrote the Phenomenology of Spirit?",
-     "choices": [
-      "Hegel",
-      "Kant",
-      "Schelling",
-      "Fichte"
-     ],
-     "answer": "Hegel",
+     "answer": "Break German codes",
      "difficulty": "medium"
     },
     {
-     "id": "phil-238",
-     "prompt": "Rousseau was born in which city?",
+     "id": "tech-270",
+     "prompt": "Which technology underlies Bitcoin?",
      "choices": [
-      "Geneva",
-      "Paris",
-      "Lyon",
-      "Zurich"
+      "Fibre optics",
+      "Telegraph",
+      "Blockchain",
+      "Radar"
      ],
-     "answer": "Geneva",
+     "answer": "Blockchain",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-248",
+     "prompt": "Contact lenses sit directly on what?",
+     "choices": [
+      "The teeth",
+      "The skin of the hand",
+      "The eye",
+      "The ear"
+     ],
+     "answer": "The eye",
      "difficulty": "easy"
     }
    ]

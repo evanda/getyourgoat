@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-016",
-     "prompt": "Which philosopher devised the paradox of Achilles and the tortoise?",
+     "id": "tech-058",
+     "prompt": "Which country opened the first public steam railways in the 1820s?",
      "choices": [
-      "Zeno of Elea",
-      "Zeno of Citium",
-      "Heraclitus",
-      "Democritus"
+      "England",
+      "United States",
+      "Germany",
+      "France"
      ],
-     "answer": "Zeno of Elea",
+     "answer": "England",
      "difficulty": "medium"
     },
     {
-     "id": "phil-193",
-     "prompt": "Descartes died in Sweden after tutoring which monarch?",
+     "id": "tech-243",
+     "prompt": "In which country was the first human heart transplant performed in 1967?",
      "choices": [
-      "Queen Christina",
-      "Queen Elizabeth",
-      "Catherine the Great",
-      "Queen Anne"
+      "Germany",
+      "Britain",
+      "United States",
+      "South Africa"
      ],
-     "answer": "Queen Christina",
-     "difficulty": "hard"
+     "answer": "South Africa",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-116",
-     "prompt": "Which English thinker designed the Panopticon prison?",
+     "id": "tech-122",
+     "prompt": "The US transcontinental railroad was completed in which decade?",
      "choices": [
-      "Jeremy Bentham",
-      "John Stuart Mill",
-      "Henry Sidgwick",
-      "David Hume"
+      "1930s",
+      "1820s",
+      "1900s",
+      "1860s"
      ],
-     "answer": "Jeremy Bentham",
+     "answer": "1860s",
      "difficulty": "medium"
     }
    ]

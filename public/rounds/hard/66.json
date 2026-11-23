@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-021",
-     "prompt": "In which Plato dialogue does the story of Atlantis first appear?",
+     "id": "hard-tech-167",
+     "prompt": "Which surgeon introduced carbolic acid antisepsis in 1867?",
      "choices": [
-      "Timaeus",
-      "Laws",
-      "Phaedo",
-      "Sophist"
+      "Louis Pasteur",
+      "Joseph Lister",
+      "James Simpson",
+      "Ignaz Semmelweis"
      ],
-     "answer": "Timaeus",
+     "answer": "Joseph Lister",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-053",
-     "prompt": "What Greek term does Plato use for particulars 'participating' in the Forms?",
+     "id": "hard-tech-277",
+     "prompt": "Which German's 1654 Magdeburg hemispheres demonstrated air pressure?",
      "choices": [
-      "Katharsis",
-      "Methexis",
-      "Eudaimonia",
-      "Anamnesis"
+      "Otto von Guericke",
+      "Blaise Pascal",
+      "Evangelista Torricelli",
+      "Robert Boyle"
      ],
-     "answer": "Methexis",
-     "difficulty": "hard"
+     "answer": "Otto von Guericke",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-231",
-     "prompt": "Which philosopher used the Wilt Chamberlain example against patterned justice?",
+     "id": "hard-tech-094",
+     "prompt": "Karl Benz's 1886 three-wheeled motor vehicle was called what?",
      "choices": [
-      "Robert Nozick",
-      "Michael Walzer",
-      "John Rawls",
-      "Ronald Dworkin"
+      "Duryea Motor Wagon",
+      "Patent-Motorwagen",
+      "Cugnot fardier",
+      "Daimler Reitwagen"
      ],
-     "answer": "Robert Nozick",
-     "difficulty": "medium"
+     "answer": "Patent-Motorwagen",
+     "difficulty": "easy"
     }
    ]
   }

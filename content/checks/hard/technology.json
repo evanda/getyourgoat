@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "hard-tech-001",
+    "pick": "Antikythera mechanism",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-002",
+    "pick": "Hero of Alexandria",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-003",
+    "pick": "Ctesibius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-004",
+    "pick": "Trebuchet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-005",
+    "pick": "Onager",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-006",
+    "pick": "Vitruvius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-007",
+    "pick": "Frontinus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-008",
+    "pick": "Pozzolana",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-009",
+    "pick": "Cai Lun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-010",
+    "pick": "Zhang Heng",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-011",
+    "pick": "Baked clay",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-012",
+    "pick": "Diamond Sutra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-013",
+    "pick": "Jikji",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-014",
+    "pick": "Su Song",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-015",
+    "pick": "Shen Kuo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-016",
+    "pick": "Saltpeter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-017",
+    "pick": "Tang",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-018",
+    "pick": "Kallinikos",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-019",
+    "pick": "Al-Jazari",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-020",
+    "pick": "Banu Musa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-021",
+    "pick": "Ibn al-Haytham",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-022",
+    "pick": "Taqi al-Din",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-023",
+    "pick": "Ulugh Beg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-024",
+    "pick": "Astrolabe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-025",
+    "pick": "Wootz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-026",
+    "pick": "Gupta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-027",
+    "pick": "Inca",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-028",
+    "pick": "Chinampas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-029",
+    "pick": "Qhapaq Nan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-030",
+    "pick": "Shaduf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-031",
+    "pick": "Noria",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-032",
+    "pick": "France",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-033",
+    "pick": "Appius Claudius Caecus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-034",
+    "pick": "Qanats",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-035",
+    "pick": "Yakhchal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-036",
+    "pick": "4th millennium BC",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-037",
+    "pick": "Tin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-038",
+    "pick": "Qiao Weiyue",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-039",
+    "pick": "Li Bing",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-040",
+    "pick": "Tamahagane",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-041",
+    "pick": "Yi Sun-sin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-042",
+    "pick": "Jethro Tull",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-043",
+    "pick": "Clinker",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-044",
+    "pick": "Lateen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-045",
+    "pick": "Junk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-046",
+    "pick": "Caravel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-047",
+    "pick": "Cog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-048",
+    "pick": "John Harrison",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-049",
+    "pick": "Mainz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-050",
+    "pick": "Verge escapement",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-051",
+    "pick": "Christiaan Huygens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-052",
+    "pick": "Persia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-053",
+    "pick": "Barbegal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-054",
+    "pick": "Thomas Newcomen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-055",
+    "pick": "Thomas Savery",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-056",
+    "pick": "Separate condenser",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-057",
+    "pick": "Richard Trevithick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-058",
+    "pick": "Rocket",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-059",
+    "pick": "Stockton and Darlington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-060",
+    "pick": "1790s",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-061",
+    "pick": "James Hargreaves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-062",
+    "pick": "Water frame",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-063",
+    "pick": "Spinning mule",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-064",
+    "pick": "Flying shuttle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-065",
+    "pick": "Joseph Marie Jacquard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-066",
+    "pick": "Edmund Cartwright",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-067",
+    "pick": "Air",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-068",
+    "pick": "Open-hearth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-069",
+    "pick": "Puddling",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-070",
+    "pick": "Abraham Darby",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-071",
+    "pick": "Benjamin Huntsman",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-072",
+    "pick": "Severn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-073",
+    "pick": "Ammonia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-074",
+    "pick": "Sodium carbonate",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-075",
+    "pick": "Aluminium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-076",
+    "pick": "Nitroglycerin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-077",
+    "pick": "Ascanio Sobrero",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-078",
+    "pick": "Plastic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-079",
+    "pick": "Sulfur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-080",
+    "pick": "Wallace Carothers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-081",
+    "pick": "Roy Plunkett",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-082",
+    "pick": "Stephanie Kwolek",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-083",
+    "pick": "Pilkington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-084",
+    "pick": "Joseph Aspdin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-085",
+    "pick": "Harry Brearley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-086",
+    "pick": "University of Chicago",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-087",
+    "pick": "Zenobe Gramme",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-088",
+    "pick": "New York",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-089",
+    "pick": "Charles Parsons",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-090",
+    "pick": "Turbinia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-091",
+    "pick": "Viktor Kaplan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-092",
+    "pick": "Compression heat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-093",
+    "pick": "Nikolaus Otto",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-094",
+    "pick": "Patent-Motorwagen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-095",
+    "pick": "Felix Wankel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-096",
+    "pick": "Gaston Plante",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-097",
+    "pick": "Sony",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-098",
+    "pick": "Bell Labs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-099",
+    "pick": "William Grove",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-100",
+    "pick": "Charles Brush",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-101",
+    "pick": "William Murdoch",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-102",
+    "pick": "Humphry Davy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-103",
+    "pick": "Augustin Fresnel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-104",
+    "pick": "John Smeaton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-105",
+    "pick": "Isambard Brunel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-106",
+    "pick": "Thomas Telford",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-107",
+    "pick": "Steel wire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-108",
+    "pick": "Joseph Paxton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-109",
+    "pick": "Elisha Otis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-110",
+    "pick": "Ferdinand de Lesseps",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-111",
+    "pick": "Montgolfier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-112",
+    "pick": "George Cayley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-113",
+    "pick": "Otto Lilienthal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-114",
+    "pick": "Ferdinand von Zeppelin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-115",
+    "pick": "He 178",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-116",
+    "pick": "Igor Sikorsky",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-117",
+    "pick": "Bell X-1",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-118",
+    "pick": "France",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-119",
+    "pick": "Sergei Korolev",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-120",
+    "pick": "Robert Goddard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-121",
+    "pick": "F-1",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-122",
+    "pick": "Luna 9",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-123",
+    "pick": "Discovery",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-124",
+    "pick": "1,435",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-125",
+    "pick": "George Westinghouse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-126",
+    "pick": "Promontory Summit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-127",
+    "pick": "Osaka",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-128",
+    "pick": "London",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-129",
+    "pick": "Highland Park",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-130",
+    "pick": "John Boyd Dunlop",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-131",
+    "pick": "Bertha Benz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-132",
+    "pick": "Charles Kettering",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-133",
+    "pick": "Nils Bohlin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-134",
+    "pick": "Robert Fulton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-135",
+    "pick": "John Ericsson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-136",
+    "pick": "Steam turbines",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-137",
+    "pick": "Malcolm McLean",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-138",
+    "pick": "USS Nautilus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-139",
+    "pick": "David Bushnell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-140",
+    "pick": "Robert Watson-Watt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-141",
+    "pick": "Cavity magnetron",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-142",
+    "pick": "Baltimore",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-143",
+    "pick": "Great Eastern",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-144",
+    "pick": "Claude Chappe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-145",
+    "pick": "Emile Baudot",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-146",
+    "pick": "Tinfoil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-147",
+    "pick": "Emile Berliner",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-148",
+    "pick": "Valdemar Poulsen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-149",
+    "pick": "AEG",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-150",
+    "pick": "Philips",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-151",
+    "pick": "John Logie Baird",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-152",
+    "pick": "Almon Strowger",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-153",
+    "pick": "Charles Kao",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-154",
+    "pick": "Telstar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-155",
+    "pick": "Arthur C. Clarke",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-156",
+    "pick": "Motorola",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-157",
+    "pick": "A pack of chewing gum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-158",
+    "pick": "Denso Wave",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-159",
+    "pick": "Christopher Latham Sholes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-160",
+    "pick": "William Henry Fox Talbot",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-161",
+    "pick": "Nicephore Niepce",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-162",
+    "pick": "Kodak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-163",
+    "pick": "Steven Sasson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-164",
+    "pick": "Lumiere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-165",
+    "pick": "Rene Laennec",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-166",
+    "pick": "William Morton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-167",
+    "pick": "Joseph Lister",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-168",
+    "pick": "St Mary's",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-169",
+    "pick": "Willem Einthoven",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-170",
+    "pick": "Godfrey Hounsfield",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-171",
+    "pick": "Sweden",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-172",
+    "pick": "John Gibbon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-173",
+    "pick": "Scipione Riva-Rocci",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-174",
+    "pick": "Hermann von Helmholtz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-175",
+    "pick": "Willem Kolff",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-176",
+    "pick": "Kary Mullis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-177",
+    "pick": "Ian Donald",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-178",
+    "pick": "Antonie van Leeuwenhoek",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-179",
+    "pick": "Hans Lipperhey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-180",
+    "pick": "Reflecting",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-181",
+    "pick": "Daniel Fahrenheit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-182",
+    "pick": "Evangelista Torricelli",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-183",
+    "pick": "Ernst Ruska",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-184",
+    "pick": "IBM",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-185",
+    "pick": "William Oughtred",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-186",
+    "pick": "John Ambrose Fleming",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-187",
+    "pick": "Lee de Forest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-188",
+    "pick": "Edwin Armstrong",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-189",
+    "pick": "William Shockley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-190",
+    "pick": "Texas Instruments",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-191",
+    "pick": "Microprocessor",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-192",
+    "pick": "Robert Dennard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-193",
+    "pick": "Fujio Masuoka",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-194",
+    "pick": "Nick Holonyak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-195",
+    "pick": "Nichia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-196",
+    "pick": "Synthetic ruby",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-197",
+    "pick": "Microwave oven",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-198",
+    "pick": "RAMAC",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-199",
+    "pick": "University of Pennsylvania",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-200",
+    "pick": "Tommy Flowers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-201",
+    "pick": "Konrad Zuse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-202",
+    "pick": "Grace Hopper",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-203",
+    "pick": "John Backus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-204",
+    "pick": "C",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-205",
+    "pick": "Xerox PARC",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-206",
+    "pick": "8088",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-207",
+    "pick": "NCSA",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-208",
+    "pick": "CERN",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-209",
+    "pick": "Stanford Research Institute",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-210",
+    "pick": "Ray Tomlinson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-211",
+    "pick": "Linus Torvalds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-212",
+    "pick": "Deep Blue",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-213",
+    "pick": "DeepMind",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-214",
+    "pick": "Attention Is All You Need",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-215",
+    "pick": "Alan Turing",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-216",
+    "pick": "Herman Hollerith",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-217",
+    "pick": "Douglas Engelbart",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-218",
+    "pick": "Bob Metcalfe",
+    "confidence": "medium",
+    "problem": "Chuck Thacker is a named co-inventor on the Ethernet patent (with Metcalfe, Boggs, Lampson), so the distractor is arguably also correct"
+  },
+  {
+    "id": "hard-tech-219",
+    "pick": "Denmark",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-220",
+    "pick": "Chuck Hull",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-221",
+    "pick": "Eagle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-222",
+    "pick": "Salyut 1",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-223",
+    "pick": "Vostok 1",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-224",
+    "pick": "Zarya",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-225",
+    "pick": "Cyrus McCormick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-226",
+    "pick": "John Deere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-227",
+    "pick": "Clarence Birdseye",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-228",
+    "pick": "Nicolas Appert",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-229",
+    "pick": "Carl von Linde",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-230",
+    "pick": "Willis Carrier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-231",
+    "pick": "Elias Howe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-232",
+    "pick": "Gideon Sundback",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-233",
+    "pick": "George de Mestral",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-234",
+    "pick": "John Walker",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-235",
+    "pick": "Tanegashima",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-236",
+    "pick": "Joseph Glidden",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-237",
+    "pick": "Richard Gatling",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-238",
+    "pick": "The Somme",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-239",
+    "pick": "Aries",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-240",
+    "pick": "Machicolation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-241",
+    "pick": "Isidore of Miletus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-242",
+    "pick": "Filippo Brunelleschi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-243",
+    "pick": "Imhotep",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-244",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-245",
+    "pick": "Orban",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-246",
+    "pick": "Nicolas-Joseph Cugnot",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-247",
+    "pick": "Obsidian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-248",
+    "pick": "Macuahuitl",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-249",
+    "pick": "Djenne",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-250",
+    "pick": "Haya",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-251",
+    "pick": "Tipu Sultan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-252",
+    "pick": "Du Shi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-253",
+    "pick": "Sakichi Toyoda",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-254",
+    "pick": "Hideo Shima",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-255",
+    "pick": "Momofuku Ando",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-256",
+    "pick": "Jang Yeong-sil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-257",
+    "pick": "Joseon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-258",
+    "pick": "Al-Zahrawi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-259",
+    "pick": "Avicenna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-260",
+    "pick": "Mimar Sinan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-261",
+    "pick": "Celestial globe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-262",
+    "pick": "Samos",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-263",
+    "pick": "Trajan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-264",
+    "pick": "Hypocaust",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-265",
+    "pick": "Robert Stevenson",
+    "confidence": "medium",
+    "problem": "John Rennie was officially chief engineer of Bell Rock and credit was long disputed; the distractor Rennie can be argued correct"
+  },
+  {
+    "id": "hard-tech-266",
+    "pick": "Cornelis Drebbel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-267",
+    "pick": "Jan Leeghwater",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-268",
+    "pick": "Wilhelm Roentgen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-269",
+    "pick": "Leonardo da Vinci",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-270",
+    "pick": "George Stephenson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-271",
+    "pick": "Dayton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-272",
+    "pick": "Colorado",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-273",
+    "pick": "Nile",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-274",
+    "pick": "1910s",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-275",
+    "pick": "Washington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-276",
+    "pick": "Tycho Brahe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-277",
+    "pick": "Otto von Guericke",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-278",
+    "pick": "Pieter van Musschenbroek",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-279",
+    "pick": "William Sturgeon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-280",
+    "pick": "Nikola Tesla",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-281",
+    "pick": "Heinrich Hertz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-282",
+    "pick": "William Coolidge",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-283",
+    "pick": "Georges Claude",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-284",
+    "pick": "William Kroll",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-285",
+    "pick": "Manchester",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-286",
+    "pick": "Karl Jansky",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-287",
+    "pick": "Stirrup",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-288",
+    "pick": "Prague",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-289",
+    "pick": "Fabriano",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-290",
+    "pick": "Bartolomeo Cristofori",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-291",
+    "pick": "Adolphe Sax",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-292",
+    "pick": "Robert Moog",
+    "confidence": "medium",
+    "problem": "Don Buchla (offered) independently began building voltage-controlled modular synthesizers in 1963-64; prompt does not exclude him"
+  },
+  {
+    "id": "hard-tech-293",
+    "pick": "Richard Hoe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-294",
+    "pick": "Ottmar Mergenthaler",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-295",
+    "pick": "Alois Senefelder",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-296",
+    "pick": "Laszlo Biro",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-297",
+    "pick": "John Kemp Starley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-298",
+    "pick": "Christopher Cockerell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-299",
+    "pick": "Khufu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-300",
+    "pick": "Teotihuacan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-301",
+    "pick": "Trireme",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-302",
+    "pick": "John McAdam",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-303",
+    "pick": "Joseph Bazalgette",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-304",
+    "pick": "Gustave Eiffel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-305",
+    "pick": "Edwin Budding",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-306",
+    "pick": "James Nasmyth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-307",
+    "pick": "Henry Maudslay",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-308",
+    "pick": "Joseph Whitworth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-309",
+    "pick": "Lodestone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-310",
+    "pick": "Clepsydra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-311",
+    "pick": "Ignaz Semmelweis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-312",
+    "pick": "Garrett Morgan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-313",
+    "pick": "James Ritty",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-314",
+    "pick": "Margaret Knight",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-tech-315",
+    "pick": "1820s",
+    "confidence": "high",
+    "problem": null
+  }
+]

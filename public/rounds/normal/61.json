@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-283",
-     "prompt": "What did Aristotle call the first cause of all motion?",
+     "id": "tech-261",
+     "prompt": "Which lab invented the transistor in 1947?",
      "choices": [
-      "The Unmoved Mover",
-      "The Demiurge",
-      "The One",
-      "The Logos"
+      "Intel",
+      "Bell Labs",
+      "Xerox PARC",
+      "IBM"
      ],
-     "answer": "The Unmoved Mover",
+     "answer": "Bell Labs",
+     "difficulty": "hard"
+    },
+    {
+     "id": "tech-084",
+     "prompt": "Which metal is liquid at room temperature and was used in old thermometers?",
+     "choices": [
+      "Tin",
+      "Lead",
+      "Mercury",
+      "Zinc"
+     ],
+     "answer": "Mercury",
      "difficulty": "medium"
     },
     {
-     "id": "phil-252",
-     "prompt": "Which of these philosophers was German?",
+     "id": "tech-269",
+     "prompt": "Which carmaker launched its first car, the Roadster, in 2008?",
      "choices": [
-      "Immanuel Kant",
-      "Rene Descartes",
-      "John Locke",
-      "Confucius"
+      "General Motors",
+      "Tesla",
+      "Ford",
+      "Toyota"
      ],
-     "answer": "Immanuel Kant",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-218",
-     "prompt": "Which view identifies God with the universe itself?",
-     "choices": [
-      "Pantheism",
-      "Deism",
-      "Theism",
-      "Atheism"
-     ],
-     "answer": "Pantheism",
+     "answer": "Tesla",
      "difficulty": "medium"
     }
    ]

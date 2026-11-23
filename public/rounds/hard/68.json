@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-242",
-     "prompt": "Which philosopher wrote Hayy ibn Yaqzan, a tale of a self-taught man on an island?",
+     "id": "hard-tech-230",
+     "prompt": "Which engineer designed the first modern air conditioning system in 1902?",
      "choices": [
-      "Ibn Tufayl",
-      "Averroes",
-      "Ibn Bajja",
-      "Ibn Arabi"
+      "Carl von Linde",
+      "Thomas Midgley",
+      "Willis Carrier",
+      "Frederick Jones"
      ],
-     "answer": "Ibn Tufayl",
+     "answer": "Willis Carrier",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-224",
-     "prompt": "Which philosopher wrote A Defense of Abortion, with the violinist analogy?",
+     "id": "hard-tech-087",
+     "prompt": "Which Belgian built the first commercially practical DC dynamo in 1871?",
      "choices": [
-      "Martha Nussbaum",
-      "Philippa Foot",
-      "Elizabeth Anscombe",
-      "Judith Jarvis Thomson"
+      "Werner Siemens",
+      "Charles Brush",
+      "Hippolyte Pixii",
+      "Zenobe Gramme"
      ],
-     "answer": "Judith Jarvis Thomson",
+     "answer": "Zenobe Gramme",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-223",
+     "prompt": "Which spacecraft carried Yuri Gagarin into orbit in 1961?",
+     "choices": [
+      "Voskhod 1",
+      "Soyuz 1",
+      "Vostok 1",
+      "Sputnik 5"
+     ],
+     "answer": "Vostok 1",
      "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-276",
-     "prompt": "In the Zhuangzi, whose skill at carving oxen shows living in accord with the Dao?",
-     "choices": [
-      "Confucius",
-      "Cook Ding",
-      "Wheelwright Bian",
-      "Hui Shi"
-     ],
-     "answer": "Cook Ding",
-     "difficulty": "medium"
     }
    ]
   }

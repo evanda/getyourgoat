@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-045",
-     "prompt": "Confucius's sayings were gathered in which book?",
+     "id": "tech-191",
+     "prompt": "Which French brothers held an early public film screening in 1895?",
      "choices": [
-      "The Analects",
-      "The Tao Te Ching",
-      "The Art of War",
-      "The Book of Songs"
+      "Montgolfier brothers",
+      "Marx brothers",
+      "Lumiere brothers",
+      "Wright brothers"
      ],
-     "answer": "The Analects",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-087",
-     "prompt": "Which philosopher is known for the problem of induction?",
-     "choices": [
-      "David Hume",
-      "John Locke",
-      "Immanuel Kant",
-      "Thomas Hobbes"
-     ],
-     "answer": "David Hume",
+     "answer": "Lumiere brothers",
      "difficulty": "medium"
     },
     {
-     "id": "phil-159",
-     "prompt": "Ethics is the branch of philosophy about what?",
+     "id": "tech-298",
+     "prompt": "In which country was Tetris created in 1984?",
      "choices": [
-      "Right and wrong",
-      "Beauty",
-      "Knowledge",
-      "Logic"
+      "Soviet Union",
+      "Germany",
+      "United States",
+      "Japan"
      ],
-     "answer": "Right and wrong",
+     "answer": "Soviet Union",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-096",
+     "prompt": "Near which North Carolina town did the Wrights first fly?",
+     "choices": [
+      "Charlotte",
+      "Raleigh",
+      "Kitty Hawk",
+      "Roanoke"
+     ],
+     "answer": "Kitty Hawk",
      "difficulty": "easy"
     }
    ]

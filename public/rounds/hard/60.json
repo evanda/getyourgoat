@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-296",
-     "prompt": "Which sage is credited with the Yoga Sutras?",
+     "id": "hard-tech-156",
+     "prompt": "Which company's engineer made the first handheld mobile phone call in 1973?",
      "choices": [
-      "Patanjali",
-      "Kanada",
-      "Gautama",
-      "Kapila"
+      "Bell Labs",
+      "Motorola",
+      "Nokia",
+      "Ericsson"
      ],
-     "answer": "Patanjali",
+     "answer": "Motorola",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-295",
+     "prompt": "Which Bavarian invented lithography in 1796?",
+     "choices": [
+      "Johann Gutenberg",
+      "Joseph Niepce",
+      "Aloys Fleischmann",
+      "Alois Senefelder"
+     ],
+     "answer": "Alois Senefelder",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-032",
-     "prompt": "Which Cynic was the teacher of Zeno of Citium?",
+     "id": "hard-tech-111",
+     "prompt": "Which brothers launched the first crewed hot-air balloon flight in France in 1783?",
      "choices": [
-      "Crates of Thebes",
-      "Diogenes of Sinope",
-      "Antisthenes",
-      "Menippus"
+      "Robert",
+      "Montgolfier",
+      "Wright",
+      "Lumiere"
      ],
-     "answer": "Crates of Thebes",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-290",
-     "prompt": "Which Meiji thinker wrote An Encouragement of Learning?",
-     "choices": [
-      "Inoue Tetsujiro",
-      "Mori Arinori",
-      "Nakae Chomin",
-      "Fukuzawa Yukichi"
-     ],
-     "answer": "Fukuzawa Yukichi",
-     "difficulty": "hard"
+     "answer": "Montgolfier",
+     "difficulty": "easy"
     }
    ]
   }

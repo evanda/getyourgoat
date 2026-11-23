@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-113",
-     "prompt": "Which French physician-philosopher wrote Man a Machine?",
+     "id": "hard-tech-188",
+     "prompt": "Which American engineer developed wideband FM radio in the 1930s?",
      "choices": [
-      "d'Holbach",
-      "La Mettrie",
-      "Helvetius",
-      "Condillac"
+      "David Sarnoff",
+      "Philo Farnsworth",
+      "Lee de Forest",
+      "Edwin Armstrong"
      ],
-     "answer": "La Mettrie",
+     "answer": "Edwin Armstrong",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-300",
-     "prompt": "Which Vedanta thinker founded the dualist Dvaita school?",
+     "id": "hard-tech-176",
+     "prompt": "Which chemist invented the polymerase chain reaction in 1983?",
      "choices": [
-      "Ramanuja",
-      "Shankara",
-      "Madhva",
-      "Vallabha"
+      "Craig Venter",
+      "Kary Mullis",
+      "Paul Berg",
+      "Frederick Sanger"
      ],
-     "answer": "Madhva",
-     "difficulty": "hard"
+     "answer": "Kary Mullis",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-205",
-     "prompt": "Which philosopher gave the Naming and Necessity lectures in 1970?",
+     "id": "hard-tech-145",
+     "prompt": "The baud unit is named for which French telegraph engineer?",
      "choices": [
-      "Saul Kripke",
-      "David Lewis",
-      "Donald Davidson",
-      "Hilary Putnam"
+      "Gustave Eiffel",
+      "Louis Braille",
+      "Claude Chappe",
+      "Emile Baudot"
      ],
-     "answer": "Saul Kripke",
-     "difficulty": "easy"
+     "answer": "Emile Baudot",
+     "difficulty": "hard"
     }
    ]
   }

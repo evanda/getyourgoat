@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-096",
-     "prompt": "Which Bacon doctrine names errors born of language, the Idols of the what?",
+     "id": "hard-tech-248",
+     "prompt": "What was the Aztec wooden sword set with obsidian blades called?",
      "choices": [
-      "Cave",
-      "Theatre",
-      "Marketplace",
-      "Tribe"
+      "Tlaximaltepoztli",
+      "Tepoztopilli",
+      "Macuahuitl",
+      "Atlatl"
      ],
-     "answer": "Marketplace",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-170",
-     "prompt": "What term does Heidegger give to the 'enframing' essence of modern technology?",
-     "choices": [
-      "Dasein",
-      "Gestell",
-      "Gelassenheit",
-      "Ereignis"
-     ],
-     "answer": "Gestell",
+     "answer": "Macuahuitl",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-190",
-     "prompt": "Which 1905 essay introduced Russell's theory of descriptions?",
+     "id": "hard-tech-080",
+     "prompt": "Which DuPont chemist led the team that created nylon in 1935?",
      "choices": [
-      "On Denoting",
-      "The Philosophy of Logical Atomism",
-      "On Referring",
-      "Mathematical Logic"
+      "Leo Baekeland",
+      "Stephanie Kwolek",
+      "Wallace Carothers",
+      "Roy Plunkett"
      ],
-     "answer": "On Denoting",
+     "answer": "Wallace Carothers",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-206",
+     "prompt": "Which Intel chip powered the original 1981 IBM PC?",
+     "choices": [
+      "8088",
+      "6502",
+      "Z80",
+      "4004"
+     ],
+     "answer": "8088",
+     "difficulty": "hard"
     }
    ]
   }

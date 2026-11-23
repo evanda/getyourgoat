@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-214",
-     "prompt": "The African concept of ubuntu stresses what?",
+     "id": "tech-038",
+     "prompt": "The noria was an ancient device that lifted what?",
      "choices": [
-      "Shared humanity",
-      "Personal wealth",
-      "Ritual purity",
-      "Battle honor"
+      "Ship cargo",
+      "Stone blocks",
+      "Grain sacks",
+      "Water for irrigation"
      ],
-     "answer": "Shared humanity",
-     "difficulty": "medium"
+     "answer": "Water for irrigation",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-113",
-     "prompt": "Who co-wrote The Communist Manifesto with Karl Marx?",
+     "id": "tech-063",
+     "prompt": "Samuel Colt patented which firearm design in 1836?",
      "choices": [
-      "Friedrich Engels",
-      "Vladimir Lenin",
-      "Hegel",
-      "Proudhon"
+      "Musket",
+      "Crossbow",
+      "Revolver",
+      "Machine gun"
      ],
-     "answer": "Friedrich Engels",
-     "difficulty": "easy"
+     "answer": "Revolver",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-025",
-     "prompt": "Which philosopher studied under Plato for about twenty years?",
+     "id": "tech-238",
+     "prompt": "MRI scanners use strong what to image the body?",
      "choices": [
-      "Aristotle",
-      "Epicurus",
-      "Zeno",
-      "Democritus"
+      "X-rays",
+      "Lasers",
+      "Magnets",
+      "Sound waves"
      ],
-     "answer": "Aristotle",
+     "answer": "Magnets",
      "difficulty": "easy"
     }
    ]

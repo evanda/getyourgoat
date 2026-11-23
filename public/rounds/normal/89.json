@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-128",
-     "prompt": "Who founded the school of phenomenology?",
+     "id": "tech-126",
+     "prompt": "Which Briton invented the hovercraft in the 1950s?",
      "choices": [
-      "Edmund Husserl",
-      "Martin Heidegger",
-      "Merleau-Ponty",
-      "Jean-Paul Sartre"
+      "Frank Whittle",
+      "Barnes Wallis",
+      "Alec Issigonis",
+      "Christopher Cockerell"
      ],
-     "answer": "Edmund Husserl",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-085",
-     "prompt": "Which philosopher held that to be is to be perceived?",
-     "choices": [
-      "George Berkeley",
-      "David Hume",
-      "John Locke",
-      "Immanuel Kant"
-     ],
-     "answer": "George Berkeley",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-117",
-     "prompt": "Which philosopher wrote The Subjection of Women?",
-     "choices": [
-      "John Stuart Mill",
-      "Jeremy Bentham",
-      "Mary Wollstonecraft",
-      "Auguste Comte"
-     ],
-     "answer": "John Stuart Mill",
+     "answer": "Christopher Cockerell",
      "difficulty": "hard"
+    },
+    {
+     "id": "tech-028",
+     "prompt": "Chainmail armour is made from what?",
+     "choices": [
+      "Linked metal rings",
+      "Leather strips",
+      "Metal plates",
+      "Woven wool"
+     ],
+     "answer": "Linked metal rings",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-087",
+     "prompt": "John Harrison's chronometer solved which sea navigation problem?",
+     "choices": [
+      "Measuring depth",
+      "Avoiding icebergs",
+      "Finding longitude",
+      "Finding latitude"
+     ],
+     "answer": "Finding longitude",
+     "difficulty": "medium"
     }
    ]
   }

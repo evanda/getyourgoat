@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-230",
-     "prompt": "Skepticism questions whether we can have what?",
+     "id": "tech-305",
+     "prompt": "Which early browser, released in 1993, helped popularise the Web?",
      "choices": [
-      "Certain knowledge",
-      "Friends",
-      "Wealth",
-      "Free time"
+      "Edge",
+      "Mosaic",
+      "Safari",
+      "Chrome"
      ],
-     "answer": "Certain knowledge",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-069",
-     "prompt": "Who wrote the Summa Theologica?",
-     "choices": [
-      "Thomas Aquinas",
-      "Augustine",
-      "Anselm",
-      "William of Ockham"
-     ],
-     "answer": "Thomas Aquinas",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-275",
-     "prompt": "Who wrote Being and Nothingness?",
-     "choices": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Martin Heidegger",
-      "Simone de Beauvoir"
-     ],
-     "answer": "Jean-Paul Sartre",
+     "answer": "Mosaic",
      "difficulty": "medium"
+    },
+    {
+     "id": "tech-245",
+     "prompt": "Which two scientists proposed the double helix structure of DNA in 1953?",
+     "choices": [
+      "Pasteur and Koch",
+      "Curie and Rutherford",
+      "Mendel and Darwin",
+      "Watson and Crick"
+     ],
+     "answer": "Watson and Crick",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-212",
+     "prompt": "Which Elizabethan courtier designed an early flush toilet in 1596?",
+     "choices": [
+      "Thomas Crapper",
+      "Walter Raleigh",
+      "John Harington",
+      "Francis Drake"
+     ],
+     "answer": "John Harington",
+     "difficulty": "hard"
     }
    ]
   }

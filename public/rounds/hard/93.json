@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-085",
-     "prompt": "Which Scholastic term names a thing's 'whatness', its essence?",
+     "id": "hard-tech-026",
+     "prompt": "Delhi's famous rust-resistant iron pillar dates from which dynasty's rule?",
      "choices": [
-      "Accident",
-      "Haecceity",
-      "Quiddity",
-      "Hypostasis"
+      "Chola",
+      "Mughal",
+      "Gupta",
+      "Maurya"
      ],
-     "answer": "Quiddity",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-289",
-     "prompt": "Which Kyoto School founder wrote An Inquiry into the Good?",
-     "choices": [
-      "Watsuji Tetsuro",
-      "Nishitani Keiji",
-      "Nishida Kitaro",
-      "Tanabe Hajime"
-     ],
-     "answer": "Nishida Kitaro",
+     "answer": "Gupta",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-249",
-     "prompt": "Which Andalusian wrote The Ring of the Dove, a treatise on love?",
+     "id": "hard-tech-009",
+     "prompt": "Which Han court official is traditionally credited with improving papermaking in AD 105?",
      "choices": [
-      "Ibn Hazm",
-      "Ibn Tufayl",
-      "Averroes",
-      "Ibn Bajja"
+      "Su Song",
+      "Bi Sheng",
+      "Zhang Heng",
+      "Cai Lun"
      ],
-     "answer": "Ibn Hazm",
-     "difficulty": "hard"
+     "answer": "Cai Lun",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-119",
+     "prompt": "Which Soviet designer's R-7 rocket launched Sputnik 1?",
+     "choices": [
+      "Vladimir Chelomei",
+      "Valentin Glushko",
+      "Sergei Korolev",
+      "Mikhail Yangel"
+     ],
+     "answer": "Sergei Korolev",
+     "difficulty": "easy"
     }
    ]
   }

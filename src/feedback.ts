@@ -8,7 +8,7 @@ export type { Flag, Submission };
 export type Pace = NonNullable<Submission['pace']>;
 export type DifficultyVote = NonNullable<Submission['difficulty']>;
 
-export const BUILD = 'alpha-0.3';
+export const BUILD = 'alpha-0.4';
 
 export function newId(): string {
   try {

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-124",
-     "prompt": "Which philosopher said that existence precedes essence?",
+     "id": "tech-200",
+     "prompt": "Which machine types characters onto paper using keys?",
      "choices": [
-      "Sartre",
-      "Camus",
-      "Heidegger",
-      "Kierkegaard"
+      "Printing press",
+      "Typewriter",
+      "Telegraph",
+      "Abacus"
      ],
-     "answer": "Sartre",
+     "answer": "Typewriter",
      "difficulty": "easy"
     },
     {
-     "id": "phil-083",
-     "prompt": "Which philosopher's theory of monads is famous?",
+     "id": "tech-306",
+     "prompt": "YouTube was founded in which year?",
      "choices": [
-      "Leibniz",
-      "Spinoza",
-      "Descartes",
-      "Berkeley"
+      "1995",
+      "2012",
+      "2000",
+      "2005"
      ],
-     "answer": "Leibniz",
-     "difficulty": "medium"
+     "answer": "2005",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-160",
-     "prompt": "Aesthetics is the branch of philosophy about what?",
+     "id": "tech-110",
+     "prompt": "Which 1969 mission first landed humans on the Moon?",
      "choices": [
-      "Beauty and art",
-      "Right and wrong",
-      "Knowledge",
-      "Language"
+      "Gemini 4",
+      "Apollo 11",
+      "Sputnik 2",
+      "Apollo 13"
      ],
-     "answer": "Beauty and art",
+     "answer": "Apollo 11",
      "difficulty": "easy"
     }
    ]

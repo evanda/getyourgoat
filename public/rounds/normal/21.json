@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-070",
-     "prompt": "Which archbishop of Canterbury formulated the ontological argument?",
+     "id": "tech-251",
+     "prompt": "Which instrument uses lenses to magnify tiny objects?",
      "choices": [
-      "Anselm",
-      "Aquinas",
-      "Augustine",
-      "Abelard"
+      "Periscope",
+      "Microscope",
+      "Telescope",
+      "Kaleidoscope"
      ],
-     "answer": "Anselm",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-096",
-     "prompt": "Who was lead editor of the great French Encyclopedie?",
-     "choices": [
-      "Denis Diderot",
-      "Voltaire",
-      "Montesquieu",
-      "Rousseau"
-     ],
-     "answer": "Denis Diderot",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-055",
-     "prompt": "The Four Noble Truths are central to which tradition?",
-     "choices": [
-      "Buddhism",
-      "Jainism",
-      "Sikhism",
-      "Daoism"
-     ],
-     "answer": "Buddhism",
+     "answer": "Microscope",
      "difficulty": "easy"
+    },
+    {
+     "id": "tech-215",
+     "prompt": "Which American inventor patented the safety pin in 1849?",
+     "choices": [
+      "Charles Goodyear",
+      "Walter Hunt",
+      "Elias Howe",
+      "Eli Whitney"
+     ],
+     "answer": "Walter Hunt",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-237",
+     "prompt": "An electrocardiogram records what?",
+     "choices": [
+      "Muscle size",
+      "Electrical activity of the heart",
+      "Lung volume",
+      "Brain waves"
+     ],
+     "answer": "Electrical activity of the heart",
+     "difficulty": "medium"
     }
    ]
   }

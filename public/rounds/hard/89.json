@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-241",
-     "prompt": "Which philosopher wrote Views of the Inhabitants of the Virtuous City?",
+     "id": "hard-tech-014",
+     "prompt": "Which Song official built a water-driven astronomical clock tower in Kaifeng around 1090?",
      "choices": [
-      "Al-Kindi",
-      "Al-Farabi",
-      "Avicenna",
-      "Ibn Bajja"
+      "Zhang Heng",
+      "Su Song",
+      "Yi Xing",
+      "Shen Kuo"
      ],
-     "answer": "Al-Farabi",
+     "answer": "Su Song",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-142",
-     "prompt": "Under which pseudonym did Kierkegaard publish The Concept of Anxiety?",
+     "id": "hard-tech-165",
+     "prompt": "Which French physician invented the stethoscope in 1816?",
      "choices": [
-      "Vigilius Haufniensis",
-      "Johannes de Silentio",
-      "Victor Eremita",
-      "Johannes Climacus"
+      "Paul Broca",
+      "Louis Pasteur",
+      "Claude Bernard",
+      "Rene Laennec"
      ],
-     "answer": "Vigilius Haufniensis",
-     "difficulty": "hard"
+     "answer": "Rene Laennec",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-261",
-     "prompt": "Which Song Confucian compiled the Four Books as the core curriculum?",
+     "id": "hard-tech-147",
+     "prompt": "Which German-American patented the flat-disc gramophone in 1887?",
      "choices": [
-      "Cheng Yi",
-      "Zhu Xi",
-      "Zhou Dunyi",
-      "Wang Yangming"
+      "Emile Berliner",
+      "Thomas Edison",
+      "Charles Tainter",
+      "Alexander Bell"
      ],
-     "answer": "Zhu Xi",
+     "answer": "Emile Berliner",
      "difficulty": "medium"
     }
    ]

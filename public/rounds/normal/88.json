@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-233",
-     "prompt": "René Descartes was born in which country?",
+     "id": "tech-095",
+     "prompt": "Which brothers made the first powered airplane flight in 1903?",
      "choices": [
-      "France",
-      "Italy",
-      "Spain",
-      "Germany"
+      "Wright brothers",
+      "Marx brothers",
+      "Montgolfier brothers",
+      "Lumiere brothers"
      ],
-     "answer": "France",
+     "answer": "Wright brothers",
      "difficulty": "easy"
     },
     {
-     "id": "phil-200",
-     "prompt": "Laozi is regarded as the founder of which tradition?",
+     "id": "tech-201",
+     "prompt": "The QWERTY layout was designed for early what?",
      "choices": [
-      "Daoism",
-      "Confucianism",
-      "Legalism",
-      "Mohism"
+      "Telegraphs",
+      "Telephones",
+      "Typewriters",
+      "Computers"
      ],
-     "answer": "Daoism",
-     "difficulty": "easy"
+     "answer": "Typewriters",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-237",
-     "prompt": "Karl Marx was born in which country?",
+     "id": "tech-213",
+     "prompt": "Who invented modern electric air conditioning in 1902?",
      "choices": [
-      "Germany",
-      "France",
-      "Russia",
-      "England"
+      "Henry Ford",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Willis Carrier"
      ],
-     "answer": "Germany",
-     "difficulty": "easy"
+     "answer": "Willis Carrier",
+     "difficulty": "medium"
     }
    ]
   }

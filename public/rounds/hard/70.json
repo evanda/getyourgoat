@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-239",
-     "prompt": "Which theological school stressed reason, divine justice and a created Qur'an?",
+     "id": "hard-tech-222",
+     "prompt": "Which Soviet craft, launched in 1971, was the first space station?",
      "choices": [
-      "The Ash'ariyya",
-      "The Mu'tazila",
-      "The Zahiris",
-      "The Hanbalis"
+      "Mir",
+      "Almaz 2",
+      "Salyut 1",
+      "Skylab"
      ],
-     "answer": "The Mu'tazila",
+     "answer": "Salyut 1",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-143",
-     "prompt": "Whom did Kierkegaard break his engagement with?",
+     "id": "hard-tech-294",
+     "prompt": "Which German-born inventor created the Linotype machine in 1884?",
      "choices": [
-      "Regine Olsen",
-      "Ida Lund",
-      "Regine Rasmussen",
-      "Cordelia Olsen"
+      "Friedrich Koenig",
+      "Tolbert Lanston",
+      "Ottmar Mergenthaler",
+      "Richard Hoe"
      ],
-     "answer": "Regine Olsen",
+     "answer": "Ottmar Mergenthaler",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-127",
-     "prompt": "Which Frenchwoman wrote the Declaration of the Rights of Woman and of the Female Citizen?",
+     "id": "hard-tech-092",
+     "prompt": "In a Diesel engine, what ignites the fuel?",
      "choices": [
-      "Germaine de Stael",
-      "Madame Roland",
-      "Sophie de Condorcet",
-      "Olympe de Gouges"
+      "Spark plug",
+      "Compression heat",
+      "Magneto",
+      "Pilot flame"
      ],
-     "answer": "Olympe de Gouges",
-     "difficulty": "medium"
+     "answer": "Compression heat",
+     "difficulty": "easy"
     }
    ]
   }

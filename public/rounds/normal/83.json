@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-293",
-     "prompt": "Epicurus taught that the aim of life is what?",
+     "id": "tech-067",
+     "prompt": "Which carmaker introduced the moving assembly line in 1913?",
      "choices": [
-      "Calm pleasure",
-      "Wealth",
-      "Military glory",
-      "Fame"
+      "General Motors",
+      "Ford",
+      "Toyota",
+      "Chrysler"
      ],
-     "answer": "Calm pleasure",
+     "answer": "Ford",
      "difficulty": "medium"
     },
     {
-     "id": "phil-123",
-     "prompt": "Who coined the phrase survival of the fittest?",
+     "id": "tech-098",
+     "prompt": "What was the name of Lindbergh's 1927 plane?",
      "choices": [
-      "Herbert Spencer",
-      "Charles Darwin",
-      "John Stuart Mill",
-      "Thomas Huxley"
+      "Winged Eagle",
+      "Spirit of St. Louis",
+      "Memphis Belle",
+      "Enola Gay"
      ],
-     "answer": "Herbert Spencer",
-     "difficulty": "hard"
+     "answer": "Spirit of St. Louis",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-294",
-     "prompt": "Which of these is a logical fallacy?",
+     "id": "tech-232",
+     "prompt": "Who discovered penicillin in 1928?",
      "choices": [
-      "Straw man",
-      "Syllogism",
-      "Axiom",
-      "Premise"
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Robert Koch",
+      "Alexander Fleming"
      ],
-     "answer": "Straw man",
+     "answer": "Alexander Fleming",
      "difficulty": "easy"
     }
    ]

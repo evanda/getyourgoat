@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "r1-phil-1",
-     "prompt": "Who wrote The Republic?",
+     "id": "r1-tech-1",
+     "prompt": "Who patented the cotton gin in 1794?",
      "choices": [
-      "Plato",
-      "Aristotle",
-      "Socrates",
-      "Epicurus"
+      "Eli Whitney",
+      "Samuel Morse",
+      "Cyrus McCormick",
+      "Elias Howe"
      ],
-     "answer": "Plato",
+     "answer": "Eli Whitney",
      "difficulty": "easy"
     },
     {
-     "id": "r1-phil-2",
-     "prompt": "\"I think, therefore I am\" is the best-known line of which philosopher?",
+     "id": "r1-tech-2",
+     "prompt": "What was a battering ram built to do?",
      "choices": [
-      "René Descartes",
-      "Baruch Spinoza",
-      "Immanuel Kant",
-      "John Locke"
+      "Break down gates",
+      "Cross rivers",
+      "Grind grain",
+      "Lift stones"
      ],
-     "answer": "René Descartes",
+     "answer": "Break down gates",
      "difficulty": "easy"
     },
     {
-     "id": "r1-phil-3",
-     "prompt": "Who wrote the Critique of Pure Reason?",
+     "id": "r1-tech-3",
+     "prompt": "Who added a separate condenser to the steam engine in 1769?",
      "choices": [
-      "Immanuel Kant",
-      "G. W. F. Hegel",
-      "David Hume",
-      "Gottfried Leibniz"
+      "James Watt",
+      "Thomas Newcomen",
+      "George Stephenson",
+      "Richard Arkwright"
      ],
-     "answer": "Immanuel Kant",
+     "answer": "James Watt",
      "difficulty": "medium"
     }
    ]

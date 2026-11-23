@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-298",
-     "prompt": "The title Buddha means what?",
+     "id": "tech-080",
+     "prompt": "Which German engineer patented the diesel engine in 1892?",
      "choices": [
-      "The Awakened One",
-      "The Holy Mountain",
-      "The Golden Path",
-      "The Silent Sage"
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Nikolaus Otto",
+      "Gottlieb Daimler"
      ],
-     "answer": "The Awakened One",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-074",
-     "prompt": "Who wrote In Praise of Folly?",
-     "choices": [
-      "Erasmus",
-      "Thomas More",
-      "Machiavelli",
-      "Montaigne"
-     ],
-     "answer": "Erasmus",
+     "answer": "Rudolf Diesel",
      "difficulty": "medium"
     },
     {
-     "id": "phil-269",
-     "prompt": "The belief that people can choose their actions is called what?",
+     "id": "tech-018",
+     "prompt": "Windmills were first widely used to do what?",
      "choices": [
-      "Free will",
-      "Karma",
-      "Destiny",
-      "Fate"
+      "Generate electricity",
+      "Grind grain",
+      "Spin cotton",
+      "Cut timber"
      ],
-     "answer": "Free will",
+     "answer": "Grind grain",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-121",
+     "prompt": "Which city opened the world's first underground railway in 1863?",
+     "choices": [
+      "London",
+      "New York",
+      "Berlin",
+      "Paris"
+     ],
+     "answer": "London",
      "difficulty": "easy"
     }
    ]

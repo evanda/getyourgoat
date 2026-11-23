@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-235",
-     "prompt": "Which Baghdad institution fostered the Greek-to-Arabic translation movement?",
+     "id": "hard-tech-228",
+     "prompt": "Which Frenchman developed canning in 1809, winning a prize from Napoleon's government?",
      "choices": [
-      "Al-Azhar",
-      "The House of Wisdom",
-      "The Nizamiyya",
-      "The Mustansiriya"
+      "Nicolas Appert",
+      "Peter Durand",
+      "Louis Pasteur",
+      "Gail Borden"
      ],
-     "answer": "The House of Wisdom",
+     "answer": "Nicolas Appert",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-207",
-     "prompt": "Which philosopher's radical translation example uses the word gavagai?",
+     "id": "hard-tech-196",
+     "prompt": "What material formed the working medium of the first laser, built in 1960?",
      "choices": [
-      "Hilary Putnam",
-      "Wilfrid Sellars",
-      "Donald Davidson",
-      "W. V. O. Quine"
+      "Helium-neon gas",
+      "Synthetic ruby",
+      "Gallium arsenide",
+      "Neodymium glass"
      ],
-     "answer": "W. V. O. Quine",
-     "difficulty": "easy"
+     "answer": "Synthetic ruby",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-041",
-     "prompt": "Which Stoic teacher did Marcus Aurelius thank for lending him Epictetus's lectures?",
+     "id": "hard-tech-117",
+     "prompt": "Which aircraft did Chuck Yeager fly past Mach 1 in 1947?",
      "choices": [
-      "Junius Rusticus",
-      "Fronto",
-      "Seneca",
-      "Musonius Rufus"
+      "North American X-15",
+      "Bell X-1",
+      "Douglas Skyrocket",
+      "Lockheed Starfighter"
      ],
-     "answer": "Junius Rusticus",
-     "difficulty": "hard"
+     "answer": "Bell X-1",
+     "difficulty": "easy"
     }
    ]
   }

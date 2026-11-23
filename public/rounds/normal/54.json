@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-057",
-     "prompt": "Which Indian philosopher founded the Madhyamaka, or Middle Way, school?",
+     "id": "tech-102",
+     "prompt": "Which pilot first flew faster than sound in 1947?",
      "choices": [
-      "Nagarjuna",
-      "Shankara",
-      "Ramanuja",
-      "Vasubandhu"
+      "Buzz Aldrin",
+      "John Glenn",
+      "Neil Armstrong",
+      "Chuck Yeager"
      ],
-     "answer": "Nagarjuna",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-241",
-     "prompt": "Someone described as Machiavellian is what?",
-     "choices": [
-      "Cunning and scheming",
-      "Kind and open",
-      "Lazy",
-      "Shy"
-     ],
-     "answer": "Cunning and scheming",
+     "answer": "Chuck Yeager",
      "difficulty": "easy"
     },
     {
-     "id": "phil-134",
-     "prompt": "Which philosopher proposed the veil of ignorance?",
+     "id": "tech-134",
+     "prompt": "Which British carmaker's 1959 Mini was designed by Alec Issigonis?",
      "choices": [
-      "John Rawls",
-      "Robert Nozick",
-      "Ronald Dworkin",
-      "Jurgen Habermas"
+      "Jaguar",
+      "Ford UK",
+      "British Motor Corporation",
+      "Rolls-Royce"
      ],
-     "answer": "John Rawls",
-     "difficulty": "easy"
+     "answer": "British Motor Corporation",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-256",
+     "prompt": "An anemometer measures what?",
+     "choices": [
+      "Air pressure",
+      "Rainfall",
+      "Humidity",
+      "Wind speed"
+     ],
+     "answer": "Wind speed",
+     "difficulty": "medium"
     }
    ]
   }

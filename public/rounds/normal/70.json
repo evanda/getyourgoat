@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-144",
-     "prompt": "Which ethicist wrote Animal Liberation?",
+     "id": "tech-085",
+     "prompt": "Which Italian astronomer improved the telescope and saw Jupiter's moons in 1610?",
      "choices": [
-      "Peter Singer",
-      "John Rawls",
-      "Derek Parfit",
-      "Robert Nozick"
+      "Copernicus",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Johannes Kepler"
      ],
-     "answer": "Peter Singer",
+     "answer": "Galileo Galilei",
      "difficulty": "easy"
     },
     {
-     "id": "phil-076",
-     "prompt": "Who wrote The Prince?",
+     "id": "tech-010",
+     "prompt": "Archimedes' screw was used to raise what?",
      "choices": [
-      "Machiavelli",
-      "Hobbes",
-      "Erasmus",
-      "Dante"
+      "Grain",
+      "Fire",
+      "Heavy stones",
+      "Water"
      ],
-     "answer": "Machiavelli",
-     "difficulty": "easy"
+     "answer": "Water",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-011",
-     "prompt": "The Stoic Epictetus began life as what?",
+     "id": "tech-073",
+     "prompt": "The Erie Canal of 1825 linked the Hudson River with which body of water?",
      "choices": [
-      "A slave",
-      "A senator",
-      "A soldier",
-      "A merchant"
+      "Lake Superior",
+      "Lake Erie",
+      "Chesapeake Bay",
+      "Gulf of Mexico"
      ],
-     "answer": "A slave",
+     "answer": "Lake Erie",
      "difficulty": "medium"
     }
    ]

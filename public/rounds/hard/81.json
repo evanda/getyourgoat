@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-046",
-     "prompt": "What Stoic term names freedom from destructive passions?",
+     "id": "hard-tech-017",
+     "prompt": "Under which dynasty did Chinese alchemists first record gunpowder formulas, in the 9th century?",
      "choices": [
-      "Eupatheia",
-      "Ataraxia",
-      "Aponia",
-      "Apatheia"
+      "Tang",
+      "Han",
+      "Song",
+      "Ming"
      ],
-     "answer": "Apatheia",
+     "answer": "Tang",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-312",
-     "prompt": "Which Tamil poet is credited with the Tirukkural?",
+     "id": "hard-tech-042",
+     "prompt": "Which Englishman devised a horse-drawn seed drill in 1701?",
      "choices": [
-      "Thiruvalluvar",
-      "Avvaiyar",
-      "Kambar",
-      "Ilango Adigal"
+      "Jethro Tull",
+      "Robert Bakewell",
+      "Thomas Coke",
+      "Charles Townshend"
      ],
-     "answer": "Thiruvalluvar",
-     "difficulty": "hard"
+     "answer": "Jethro Tull",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-010",
-     "prompt": "Plato named two dialogues after which polymath Sophist from Elis?",
+     "id": "hard-tech-288",
+     "prompt": "Which city's Old Town Hall displays the Orloj, an astronomical clock from 1410?",
      "choices": [
-      "Prodicus",
-      "Protagoras",
-      "Gorgias",
-      "Hippias"
+      "Krakow",
+      "Vienna",
+      "Strasbourg",
+      "Prague"
      ],
-     "answer": "Hippias",
-     "difficulty": "medium"
+     "answer": "Prague",
+     "difficulty": "easy"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-034",
-     "prompt": "Which Cynic from Gadara lent his name to a style of satire?",
+     "id": "hard-tech-027",
+     "prompt": "Which Andean empire kept records with knotted cords called quipu?",
      "choices": [
-      "Crates",
-      "Antisthenes",
-      "Menippus",
-      "Bion"
+      "Inca",
+      "Aztec",
+      "Olmec",
+      "Maya"
      ],
-     "answer": "Menippus",
-     "difficulty": "hard"
+     "answer": "Inca",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-102",
-     "prompt": "What term names Spinoza's idea that each thing strives to persevere in its being?",
+     "id": "hard-tech-301",
+     "prompt": "Which ancient warship had three banks of oars?",
      "choices": [
-      "Haecceity",
-      "Entelechy",
-      "Telos",
-      "Conatus"
+      "Trireme",
+      "Quinquereme",
+      "Bireme",
+      "Galley slave ship"
      ],
-     "answer": "Conatus",
-     "difficulty": "medium"
+     "answer": "Trireme",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-129",
-     "prompt": "Which 1757 treatise by Edmund Burke explored the sublime and the beautiful?",
+     "id": "hard-tech-032",
+     "prompt": "The Pont du Gard Roman aqueduct bridge stands in which modern country?",
      "choices": [
-      "An Appeal from the New to the Old Whigs",
-      "Letters on a Regicide Peace",
-      "A Philosophical Enquiry",
-      "A Vindication of Natural Society"
+      "Spain",
+      "Italy",
+      "France",
+      "Turkey"
      ],
-     "answer": "A Philosophical Enquiry",
-     "difficulty": "hard"
+     "answer": "France",
+     "difficulty": "easy"
     }
    ]
   }

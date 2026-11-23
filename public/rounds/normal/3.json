@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-229",
-     "prompt": "Who is often called the second founder of Stoicism?",
+     "id": "tech-137",
+     "prompt": "Which Italian built the first electric battery in 1800?",
      "choices": [
-      "Chrysippus",
-      "Cleanthes",
-      "Zeno of Citium",
-      "Panaetius"
+      "Galileo Galilei",
+      "Luigi Galvani",
+      "Alessandro Volta",
+      "Guglielmo Marconi"
      ],
-     "answer": "Chrysippus",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-164",
-     "prompt": "Which ethical approach is based on duties and rules?",
-     "choices": [
-      "Deontology",
-      "Consequentialism",
-      "Hedonism",
-      "Nihilism"
-     ],
-     "answer": "Deontology",
+     "answer": "Alessandro Volta",
      "difficulty": "medium"
     },
     {
-     "id": "phil-102",
-     "prompt": "Which philosopher proposed the categorical imperative?",
+     "id": "tech-285",
+     "prompt": "Who co-founded Apple with Steve Jobs in 1976?",
      "choices": [
-      "Immanuel Kant",
-      "John Stuart Mill",
-      "David Hume",
-      "Hegel"
+      "Paul Allen",
+      "Bill Gates",
+      "Tim Cook",
+      "Steve Wozniak"
      ],
-     "answer": "Immanuel Kant",
+     "answer": "Steve Wozniak",
      "difficulty": "easy"
+    },
+    {
+     "id": "tech-283",
+     "prompt": "Which character did Ray Tomlinson choose for email addresses in 1971?",
+     "choices": [
+      "At sign",
+      "Percent sign",
+      "Hash sign",
+      "Ampersand"
+     ],
+     "answer": "At sign",
+     "difficulty": "medium"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-029",
-     "prompt": "Which Greek thinker taught that virtue lies between excess and deficiency?",
+     "id": "tech-300",
+     "prompt": "What did Amazon sell first when Jeff Bezos launched it?",
      "choices": [
-      "Aristotle",
-      "Plato",
-      "Zeno",
-      "Diogenes"
+      "Shoes",
+      "Electronics",
+      "Books",
+      "Groceries"
      ],
-     "answer": "Aristotle",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-168",
-     "prompt": "Which belief says life has no inherent meaning or values?",
-     "choices": [
-      "Nihilism",
-      "Stoicism",
-      "Pragmatism",
-      "Idealism"
-     ],
-     "answer": "Nihilism",
+     "answer": "Books",
      "difficulty": "easy"
     },
     {
-     "id": "phil-272",
-     "prompt": "Sophistry means the use of what kind of argument?",
+     "id": "tech-246",
+     "prompt": "CRISPR is a technology for doing what to genes?",
      "choices": [
-      "Clever but misleading",
-      "Strictly logical",
-      "Poetic",
-      "Religious"
+      "Editing them",
+      "Photographing them",
+      "Counting them",
+      "Freezing them"
      ],
-     "answer": "Clever but misleading",
+     "answer": "Editing them",
      "difficulty": "medium"
+    },
+    {
+     "id": "tech-214",
+     "prompt": "Which French physicist invented the steam digester, forerunner of the pressure cooker, in 1679?",
+     "choices": [
+      "Antoine Lavoisier",
+      "Denis Papin",
+      "Blaise Pascal",
+      "Louis Pasteur"
+     ],
+     "answer": "Denis Papin",
+     "difficulty": "hard"
     }
    ]
   }

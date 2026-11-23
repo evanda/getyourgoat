@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-019",
-     "prompt": "Diogenes of Sinope belonged to which school?",
+     "id": "tech-119",
+     "prompt": "In which decade did Japan's Shinkansen open for Tokyo-Osaka service?",
      "choices": [
-      "Cynicism",
-      "Stoicism",
-      "Epicureanism",
-      "Skepticism"
+      "1980s",
+      "1990s",
+      "1960s",
+      "1940s"
      ],
-     "answer": "Cynicism",
+     "answer": "1960s",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-068",
+     "prompt": "Which Ford car, launched in 1908, made car ownership common?",
+     "choices": [
+      "Model T",
+      "Mustang",
+      "Thunderbird",
+      "Beetle"
+     ],
+     "answer": "Model T",
      "difficulty": "easy"
     },
     {
-     "id": "phil-285",
-     "prompt": "What did Plotinus call the ultimate source of all things?",
+     "id": "tech-041",
+     "prompt": "Cannons became decisive in 1453 when Ottoman guns broke the walls of which city?",
      "choices": [
-      "The One",
-      "The Demiurge",
-      "The Logos",
-      "The Forms"
+      "Constantinople",
+      "Vienna",
+      "Rome",
+      "Athens"
      ],
-     "answer": "The One",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-052",
-     "prompt": "What does the Daoist term Dao mean?",
-     "choices": [
-      "The Way",
-      "The Law",
-      "The Sun",
-      "The Gift"
-     ],
-     "answer": "The Way",
-     "difficulty": "easy"
+     "answer": "Constantinople",
+     "difficulty": "medium"
     }
    ]
   }

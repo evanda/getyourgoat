@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-170",
-     "prompt": "Which philosophy stresses individual freedom and responsibility in an absurd world?",
+     "id": "tech-180",
+     "prompt": "Which Scottish physicist predicted electromagnetic waves?",
      "choices": [
-      "Existentialism",
-      "Rationalism",
-      "Empiricism",
-      "Positivism"
+      "James Clerk Maxwell",
+      "Michael Faraday",
+      "James Watt",
+      "Lord Kelvin"
      ],
-     "answer": "Existentialism",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-014",
-     "prompt": "Thales of Miletus claimed that everything comes from what?",
-     "choices": [
-      "Water",
-      "Fire",
-      "Earth",
-      "Number"
-     ],
-     "answer": "Water",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-181",
-     "prompt": "A priori knowledge is known how?",
-     "choices": [
-      "Independent of experience",
-      "Through experiment",
-      "By testimony",
-      "Through faith"
-     ],
-     "answer": "Independent of experience",
+     "answer": "James Clerk Maxwell",
      "difficulty": "medium"
+    },
+    {
+     "id": "tech-163",
+     "prompt": "A household fuse protects a circuit by doing what?",
+     "choices": [
+      "Raising voltage",
+      "Breaking it when current is too high",
+      "Cooling wires",
+      "Storing energy"
+     ],
+     "answer": "Breaking it when current is too high",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-197",
+     "prompt": "Arthur C. Clarke proposed communications satellites in which orbit?",
+     "choices": [
+      "Elliptical",
+      "Polar",
+      "Geostationary",
+      "Low Earth"
+     ],
+     "answer": "Geostationary",
+     "difficulty": "hard"
     }
    ]
   }

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-005",
-     "prompt": "Which Milesian thinker held that air is the basic stuff of the cosmos?",
+     "id": "hard-tech-307",
+     "prompt": "Which London engineer built the all-metal screw-cutting lathe around 1800?",
      "choices": [
-      "Anaximander",
-      "Anaximenes",
-      "Thales",
-      "Heraclitus"
+      "Henry Maudslay",
+      "Marc Brunel",
+      "Joseph Whitworth",
+      "Joseph Bramah"
      ],
-     "answer": "Anaximenes",
+     "answer": "Henry Maudslay",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-040",
+     "prompt": "Which Japanese steel, smelted in a tatara furnace, is used for katana blades?",
+     "choices": [
+      "Blister steel",
+      "Wootz",
+      "Bessemer steel",
+      "Tamahagane"
+     ],
+     "answer": "Tamahagane",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-218",
-     "prompt": "Which view holds that God is the only true cause of events?",
+     "id": "hard-tech-137",
+     "prompt": "Which trucking magnate launched container shipping with the Ideal X in 1956?",
      "choices": [
-      "Voluntarism",
-      "Epiphenomenalism",
-      "Hylomorphism",
-      "Occasionalism"
+      "Cornelius Vanderbilt",
+      "J. P. Morgan",
+      "Malcolm McLean",
+      "Henry Kaiser"
      ],
-     "answer": "Occasionalism",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-233",
-     "prompt": "Which philosopher wrote Philosophy and the Mirror of Nature?",
-     "choices": [
-      "Donald Davidson",
-      "Hilary Putnam",
-      "Stanley Cavell",
-      "Richard Rorty"
-     ],
-     "answer": "Richard Rorty",
+     "answer": "Malcolm McLean",
      "difficulty": "easy"
     }
    ]

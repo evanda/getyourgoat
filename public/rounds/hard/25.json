@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-108",
-     "prompt": "Which Glasgow professor, teacher of Adam Smith, defended a moral sense theory?",
+     "id": "hard-tech-215",
+     "prompt": "Which mathematician's 1936 paper On Computable Numbers described a universal machine?",
      "choices": [
-      "Francis Hutcheson",
-      "Henry Home",
-      "Thomas Reid",
-      "Dugald Stewart"
+      "John von Neumann",
+      "Alonzo Church",
+      "Alan Turing",
+      "Kurt Godel"
      ],
-     "answer": "Francis Hutcheson",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-291",
-     "prompt": "Which Japanese author wrote Bushido: The Soul of Japan in English?",
-     "choices": [
-      "Yamaga Soko",
-      "Nitobe Inazo",
-      "Okakura Kakuzo",
-      "Suzuki Daisetsu"
-     ],
-     "answer": "Nitobe Inazo",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-109",
-     "prompt": "Which clergyman used the watchmaker analogy in Natural Theology?",
-     "choices": [
-      "William Paley",
-      "Richard Whately",
-      "Samuel Clarke",
-      "Joseph Butler"
-     ],
-     "answer": "William Paley",
+     "answer": "Alan Turing",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-011",
+     "prompt": "Bi Sheng's c. 1040 movable type in China was made from what material?",
+     "choices": [
+      "Baked clay",
+      "Bronze",
+      "Carved wood",
+      "Lead alloy"
+     ],
+     "answer": "Baked clay",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-305",
+     "prompt": "Which English engineer patented the lawn mower in 1830?",
+     "choices": [
+      "James Nasmyth",
+      "Henry Maudslay",
+      "Edwin Budding",
+      "Joseph Whitworth"
+     ],
+     "answer": "Edwin Budding",
+     "difficulty": "hard"
     }
    ]
   }

@@ -41,7 +41,10 @@ Royal purple and gold, the owner's choice; one look in all themes. Not pale purp
 adding one reshuffles every later round of that level. If that must happen, bump `BUILD` in
 `src/feedback.ts` so old and new feedback can be told apart.
 Arithmetic is computed: `scripts/gen-arithmetic.ts <level>` → `content/arithmetic-<level>.json`.
-Easy is for kids (~7–11) and swaps philosophy for animals.
+Categories: arithmetic, history, literature, earth science, technology (Normal/Hard);
+Easy (kids ~7–11) has animals instead of technology. Philosophy was dropped in alpha 0.4 as too
+hard; its bank lives only in git history. Technology = inventions ancient to modern, computing <15%.
+Pace per level (alpha 0.4): Easy 16 s, Normal 11 s, Hard 9 s.
 
 ## Rules decided beyond the doc (prototype; confirm before alpha)
 - `ogreSpeed` / `returnSpeed` are seconds to cross the track, not velocities.

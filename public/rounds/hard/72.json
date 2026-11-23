@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-070",
-     "prompt": "Which early Christian writer asked 'What has Athens to do with Jerusalem?'",
+     "id": "hard-tech-127",
+     "prompt": "Japan's Shinkansen opened in 1964 linking Tokyo and which city?",
      "choices": [
-      "Origen",
-      "Tertullian",
-      "Clement of Alexandria",
-      "Justin Martyr"
+      "Nagoya",
+      "Hiroshima",
+      "Kyoto",
+      "Osaka"
      ],
-     "answer": "Tertullian",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-011",
-     "prompt": "In Plato's Republic, which Sophist claims justice is the advantage of the stronger?",
-     "choices": [
-      "Cephalus",
-      "Thrasymachus",
-      "Glaucon",
-      "Callicles"
-     ],
-     "answer": "Thrasymachus",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-227",
-     "prompt": "Which philosopher defended error theory in Inventing Right and Wrong?",
-     "choices": [
-      "R. M. Hare",
-      "C. L. Stevenson",
-      "J. L. Mackie",
-      "Bernard Williams"
-     ],
-     "answer": "J. L. Mackie",
+     "answer": "Osaka",
      "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-171",
+     "prompt": "In 1958 Ake Senning implanted the first human pacemaker in which country?",
+     "choices": [
+      "Britain",
+      "Sweden",
+      "United States",
+      "Germany"
+     ],
+     "answer": "Sweden",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-154",
+     "prompt": "Which satellite relayed the first live transatlantic television in 1962?",
+     "choices": [
+      "Syncom 2",
+      "Early Bird",
+      "Telstar",
+      "Echo 1"
+     ],
+     "answer": "Telstar",
+     "difficulty": "easy"
     }
    ]
   }

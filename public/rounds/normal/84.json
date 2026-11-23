@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-210",
-     "prompt": "Voltaire spent years at the court of which king?",
+     "id": "tech-194",
+     "prompt": "Which company launched the first iPhone in 2007?",
      "choices": [
-      "Frederick the Great",
-      "Louis XIV",
-      "Peter the Great",
-      "Charles XII"
+      "Apple",
+      "Nokia",
+      "Samsung",
+      "Google"
      ],
-     "answer": "Frederick the Great",
-     "difficulty": "hard"
+     "answer": "Apple",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-118",
-     "prompt": "Which French thinker founded positivism?",
+     "id": "tech-066",
+     "prompt": "Cyrus McCormick is known for his mechanical what?",
      "choices": [
-      "Auguste Comte",
-      "John Stuart Mill",
-      "Emile Durkheim",
-      "Rousseau"
+      "Plough",
+      "Reaper",
+      "Telegraph",
+      "Loom"
      ],
-     "answer": "Auguste Comte",
+     "answer": "Reaper",
      "difficulty": "medium"
     },
     {
-     "id": "phil-036",
-     "prompt": "Plato's Apology records the defense speech of whom?",
+     "id": "tech-091",
+     "prompt": "Evangelista Torricelli invented the first what in 1643?",
      "choices": [
-      "Socrates",
-      "Aristotle",
-      "Alcibiades",
-      "Pericles"
+      "Thermometer",
+      "Hygrometer",
+      "Telescope",
+      "Barometer"
      ],
-     "answer": "Socrates",
-     "difficulty": "easy"
+     "answer": "Barometer",
+     "difficulty": "hard"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-139",
-     "prompt": "Which philosopher wrote The Essence of Christianity?",
+     "id": "hard-tech-089",
+     "prompt": "Which engineer patented the compound steam turbine in 1884?",
      "choices": [
-      "David Strauss",
-      "Max Stirner",
-      "Bruno Bauer",
-      "Ludwig Feuerbach"
+      "Lord Kelvin",
+      "Charles Parsons",
+      "William Rankine",
+      "Gustaf de Laval"
      ],
-     "answer": "Ludwig Feuerbach",
-     "difficulty": "easy"
+     "answer": "Charles Parsons",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-244",
-     "prompt": "Which philosopher founded the Illuminationist (Ishraqi) school?",
+     "id": "hard-tech-025",
+     "prompt": "Southern India's crucible steel, source of Damascus blades, was called what?",
      "choices": [
-      "Mulla Sadra",
-      "Avicenna",
-      "Suhrawardi",
-      "Ibn Arabi"
+      "Bessemer steel",
+      "Wootz",
+      "Tamahagane",
+      "Blister steel"
      ],
-     "answer": "Suhrawardi",
+     "answer": "Wootz",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-254",
+     "prompt": "Which engineer led development of the Shinkansen bullet train?",
+     "choices": [
+      "Sakichi Toyoda",
+      "Kiichiro Toyoda",
+      "Hideo Shima",
+      "Eiji Toyoda"
+     ],
+     "answer": "Hideo Shima",
      "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-014",
-     "prompt": "In which Plato dialogue does Socrates guide a slave boy to double a square?",
-     "choices": [
-      "Theaetetus",
-      "Lysis",
-      "Meno",
-      "Phaedo"
-     ],
-     "answer": "Meno",
-     "difficulty": "easy"
     }
    ]
   }

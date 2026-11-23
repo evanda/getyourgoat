@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-297",
-     "prompt": "Which sage is credited with the atomist Vaisheshika Sutras?",
+     "id": "hard-tech-235",
+     "prompt": "Which Japanese island saw the first European matchlock guns arrive in 1543?",
      "choices": [
-      "Kapila",
-      "Patanjali",
-      "Kanada",
-      "Jaimini"
+      "Okinawa",
+      "Dejima",
+      "Tanegashima",
+      "Kyushu"
      ],
-     "answer": "Kanada",
+     "answer": "Tanegashima",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-098",
-     "prompt": "Which gland did Descartes name as the seat of interaction between mind and body?",
+     "id": "hard-tech-283",
+     "prompt": "Which Frenchman unveiled neon lighting to the public in Paris in 1910?",
      "choices": [
-      "The adrenal gland",
-      "The pineal gland",
-      "The thyroid gland",
-      "The pituitary gland"
+      "Ernest Solvay",
+      "Georges Claude",
+      "Henri Becquerel",
+      "Louis Lumiere"
      ],
-     "answer": "The pineal gland",
-     "difficulty": "easy"
+     "answer": "Georges Claude",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-009",
-     "prompt": "Which Sophist, noted for fine word distinctions, told of Heracles choosing between Vice and Virtue?",
+     "id": "hard-tech-289",
+     "prompt": "Which Italian town introduced watermarked paper in the 13th century?",
      "choices": [
-      "Gorgias",
-      "Antiphon",
-      "Prodicus",
-      "Thrasymachus"
+      "Florence",
+      "Fabriano",
+      "Bologna",
+      "Venice"
      ],
-     "answer": "Prodicus",
-     "difficulty": "hard"
+     "answer": "Fabriano",
+     "difficulty": "medium"
     }
    ]
   }

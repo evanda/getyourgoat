@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-147",
-     "prompt": "Which philosopher proposed the brain in a vat scenario?",
+     "id": "tech-040",
+     "prompt": "Which ingredient of gunpowder is also called saltpetre?",
      "choices": [
-      "Hilary Putnam",
-      "John Searle",
-      "Saul Kripke",
-      "Thomas Nagel"
+      "Potassium nitrate",
+      "Charcoal",
+      "Iron oxide",
+      "Sulfur"
      ],
-     "answer": "Hilary Putnam",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-273",
-     "prompt": "The Upanishads are texts of which tradition?",
-     "choices": [
-      "Hindu",
-      "Buddhist",
-      "Jain",
-      "Sikh"
-     ],
-     "answer": "Hindu",
+     "answer": "Potassium nitrate",
      "difficulty": "medium"
     },
     {
-     "id": "phil-226",
-     "prompt": "The Greek word arete is usually translated as what?",
+     "id": "tech-153",
+     "prompt": "Which country opened the world's first grid-connected nuclear plant in 1954?",
      "choices": [
-      "Excellence or virtue",
-      "Anger",
-      "Beauty",
-      "Fate"
+      "United States",
+      "United Kingdom",
+      "France",
+      "Soviet Union"
      ],
-     "answer": "Excellence or virtue",
+     "answer": "Soviet Union",
      "difficulty": "hard"
+    },
+    {
+     "id": "tech-118",
+     "prompt": "Japan's Shinkansen is known as what kind of train?",
+     "choices": [
+      "Cable car",
+      "Bullet train",
+      "Steam train",
+      "Monorail"
+     ],
+     "answer": "Bullet train",
+     "difficulty": "easy"
     }
    ]
   }

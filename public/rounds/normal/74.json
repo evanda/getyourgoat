@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-028",
-     "prompt": "Which Roman city's sack in 410 prompted Augustine's City of God?",
+     "id": "tech-226",
+     "prompt": "The Haber-Bosch process makes which fertiliser ingredient from air?",
      "choices": [
-      "Rome",
-      "Athens",
-      "Carthage",
-      "Constantinople"
+      "Chlorine",
+      "Ammonia",
+      "Methane",
+      "Ethanol"
      ],
-     "answer": "Rome",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-082",
-     "prompt": "Which rationalist earned his living grinding lenses?",
-     "choices": [
-      "Spinoza",
-      "Leibniz",
-      "Descartes",
-      "Hobbes"
-     ],
-     "answer": "Spinoza",
+     "answer": "Ammonia",
      "difficulty": "medium"
     },
     {
-     "id": "phil-235",
-     "prompt": "Machiavelli served which Italian city-state?",
+     "id": "tech-225",
+     "prompt": "Graphene is a sheet of which element?",
      "choices": [
-      "Florence",
-      "Venice",
-      "Rome",
-      "Milan"
+      "Silicon",
+      "Carbon",
+      "Iron",
+      "Nitrogen"
      ],
-     "answer": "Florence",
+     "answer": "Carbon",
      "difficulty": "easy"
+    },
+    {
+     "id": "tech-148",
+     "prompt": "The Three Gorges Dam, the largest hydropower station, is on which river?",
+     "choices": [
+      "Ganges",
+      "Yellow River",
+      "Mekong",
+      "Yangtze"
+     ],
+     "answer": "Yangtze",
+     "difficulty": "medium"
     }
    ]
   }

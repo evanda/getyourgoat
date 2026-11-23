@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-135",
-     "prompt": "Who wrote Anarchy, State, and Utopia?",
+     "id": "tech-146",
+     "prompt": "Which famous waterfalls hosted one of the earliest big hydroelectric plants?",
      "choices": [
-      "Robert Nozick",
-      "John Rawls",
-      "Michael Sandel",
-      "Peter Singer"
+      "Victoria Falls",
+      "Angel Falls",
+      "Iguazu Falls",
+      "Niagara Falls"
      ],
-     "answer": "Robert Nozick",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-199",
-     "prompt": "Confucius came from which country?",
-     "choices": [
-      "China",
-      "Japan",
-      "Korea",
-      "India"
-     ],
-     "answer": "China",
+     "answer": "Niagara Falls",
      "difficulty": "easy"
     },
     {
-     "id": "phil-287",
-     "prompt": "Who wrote The Open Society and Its Enemies?",
+     "id": "tech-157",
+     "prompt": "Wind turbines convert wind into what?",
      "choices": [
-      "Karl Popper",
-      "Friedrich Hayek",
-      "Isaiah Berlin",
-      "John Rawls"
+      "Fuel",
+      "Electricity",
+      "Water",
+      "Steam"
      ],
-     "answer": "Karl Popper",
-     "difficulty": "medium"
+     "answer": "Electricity",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-115",
+     "prompt": "The Hubble telescope orbits above Earth to avoid what?",
+     "choices": [
+      "Radio noise",
+      "Cosmic rays",
+      "Gravity",
+      "Atmospheric blurring"
+     ],
+     "answer": "Atmospheric blurring",
+     "difficulty": "easy"
     }
    ]
   }

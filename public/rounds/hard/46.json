@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-193",
-     "prompt": "Which philosopher coined the phrase naturalistic fallacy?",
+     "id": "hard-tech-098",
+     "prompt": "Which laboratory unveiled the first practical silicon solar cell in 1954?",
      "choices": [
-      "Henry Sidgwick",
-      "W. D. Ross",
-      "R. M. Hare",
-      "G. E. Moore"
+      "Westinghouse",
+      "General Electric",
+      "RCA",
+      "Bell Labs"
      ],
-     "answer": "G. E. Moore",
+     "answer": "Bell Labs",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-247",
-     "prompt": "Which Sufi was executed in Baghdad in 922 after saying 'I am the Truth'?",
+     "id": "hard-tech-211",
+     "prompt": "Which Finnish student released the first Linux kernel in 1991?",
      "choices": [
-      "Al-Junayd",
-      "Al-Hallaj",
-      "Ibn Arabi",
-      "Rabia"
+      "Tim Berners-Lee",
+      "Richard Stallman",
+      "Linus Torvalds",
+      "Bjarne Stroustrup"
      ],
-     "answer": "Al-Hallaj",
+     "answer": "Linus Torvalds",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-163",
+     "prompt": "Which Kodak engineer built the first digital camera in 1975?",
+     "choices": [
+      "Steven Sasson",
+      "George Eastman",
+      "Bryce Bayer",
+      "Willard Boyle"
+     ],
+     "answer": "Steven Sasson",
      "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-067",
-     "prompt": "Which Neoplatonist wrote the Elements of Theology?",
-     "choices": [
-      "Plotinus",
-      "Proclus",
-      "Iamblichus",
-      "Porphyry"
-     ],
-     "answer": "Proclus",
-     "difficulty": "medium"
     }
    ]
   }

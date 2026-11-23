@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-215",
-     "prompt": "Which philosopher developed the intentional stance?",
+     "id": "hard-tech-183",
+     "prompt": "Which German engineer co-built the first electron microscope in 1931?",
      "choices": [
-      "Paul Churchland",
-      "Daniel Dennett",
-      "Jerry Fodor",
-      "John Searle"
+      "Hans Busch",
+      "Ernst Ruska",
+      "Manfred von Ardenne",
+      "Dennis Gabor"
      ],
-     "answer": "Daniel Dennett",
+     "answer": "Ernst Ruska",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-310",
+     "prompt": "Which ancient Greek device measured time using dripping water?",
+     "choices": [
+      "Clepsydra",
+      "Sundial",
+      "Hourglass",
+      "Gnomon"
+     ],
+     "answer": "Clepsydra",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-313",
-     "prompt": "Which Indian monk addressed the 1893 Parliament of the World's Religions in Chicago?",
+     "id": "hard-tech-286",
+     "prompt": "Which Bell Labs engineer detected cosmic radio waves in 1932?",
      "choices": [
-      "Sri Aurobindo",
-      "Swami Vivekananda",
-      "Dayananda Saraswati",
-      "Ramakrishna"
+      "Robert Wilson",
+      "Arno Penzias",
+      "Grote Reber",
+      "Karl Jansky"
      ],
-     "answer": "Swami Vivekananda",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-187",
-     "prompt": "Which Lyotard book defines postmodernity as incredulity toward metanarratives?",
-     "choices": [
-      "The Postmodern Condition",
-      "Simulacra and Simulation",
-      "Anti-Oedipus",
-      "Discipline and Punish"
-     ],
-     "answer": "The Postmodern Condition",
+     "answer": "Karl Jansky",
      "difficulty": "medium"
     }
    ]

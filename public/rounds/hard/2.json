@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-125",
-     "prompt": "Which Dijon academy prize essay of 1750 made Rousseau famous?",
+     "id": "hard-tech-219",
+     "prompt": "Bluetooth is named for a medieval king of which country?",
      "choices": [
-      "Discourse on the Arts and Sciences",
-      "The Social Contract",
-      "Discourse on Inequality",
-      "Emile"
+      "Finland",
+      "Norway",
+      "Sweden",
+      "Denmark"
      ],
-     "answer": "Discourse on the Arts and Sciences",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-156",
-     "prompt": "Comte's law of three stages runs theological, metaphysical and what?",
-     "choices": [
-      "Industrial",
-      "Rational",
-      "Scientific",
-      "Positive"
-     ],
-     "answer": "Positive",
+     "answer": "Denmark",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-065",
-     "prompt": "Which Neoplatonist wrote the Isagoge, an introduction to Aristotle's Categories?",
+     "id": "hard-tech-097",
+     "prompt": "Which company first sold a commercial lithium-ion battery, in 1991?",
      "choices": [
-      "Proclus",
-      "Iamblichus",
-      "Simplicius",
-      "Porphyry"
+      "Panasonic",
+      "Samsung",
+      "Toshiba",
+      "Sony"
      ],
-     "answer": "Porphyry",
-     "difficulty": "hard"
+     "answer": "Sony",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-279",
+     "prompt": "Which Englishman built the first electromagnet in 1825?",
+     "choices": [
+      "William Sturgeon",
+      "Michael Faraday",
+      "Joseph Henry",
+      "Humphry Davy"
+     ],
+     "answer": "William Sturgeon",
+     "difficulty": "medium"
     }
    ]
   }

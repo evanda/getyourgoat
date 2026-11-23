@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-286",
-     "prompt": "Which monk founded a Japanese school centered on the Lotus Sutra's title chant?",
+     "id": "hard-tech-051",
+     "prompt": "Which Dutch scientist patented the first pendulum clock in 1657?",
      "choices": [
-      "Shinran",
-      "Kukai",
-      "Nichiren",
-      "Honen"
+      "Robert Hooke",
+      "Willem Drebbel",
+      "Galileo Galilei",
+      "Christiaan Huygens"
      ],
-     "answer": "Nichiren",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-230",
-     "prompt": "Which Rawlsian principle allows inequalities only if they benefit the least advantaged?",
-     "choices": [
-      "The liberty principle",
-      "The difference principle",
-      "The harm principle",
-      "The veil principle"
-     ],
-     "answer": "The difference principle",
+     "answer": "Christiaan Huygens",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-197",
-     "prompt": "Which Vienna Circle member compared science to rebuilding a ship at sea?",
+     "id": "hard-tech-024",
+     "prompt": "Which instrument, with a rotating star-map plate, let Islamic astronomers tell time from star altitude?",
      "choices": [
-      "Carl Hempel",
-      "Rudolf Carnap",
-      "Otto Neurath",
-      "Hans Reichenbach"
+      "Armillary sphere",
+      "Astrolabe",
+      "Cross-staff",
+      "Octant"
      ],
-     "answer": "Otto Neurath",
-     "difficulty": "hard"
+     "answer": "Astrolabe",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-151",
+     "prompt": "Which Scottish engineer gave the first public demonstration of working television in 1926?",
+     "choices": [
+      "Alan Blumlein",
+      "Vladimir Zworykin",
+      "Philo Farnsworth",
+      "John Logie Baird"
+     ],
+     "answer": "John Logie Baird",
+     "difficulty": "easy"
     }
    ]
   }

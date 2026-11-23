@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-088",
-     "prompt": "Which Cardinal wrote On Learned Ignorance?",
+     "id": "hard-tech-251",
+     "prompt": "Which Mysore ruler used iron-cased rockets against the British in the 1790s?",
      "choices": [
-      "Marsilio Ficino",
-      "Pico della Mirandola",
-      "Pomponazzi",
-      "Nicholas of Cusa"
+      "Shivaji",
+      "Hyder Ali",
+      "Tipu Sultan",
+      "Ranjit Singh"
      ],
-     "answer": "Nicholas of Cusa",
+     "answer": "Tipu Sultan",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-054",
-     "prompt": "Which Greek term did Aristotle's Poetics use for the error that brings a tragic hero down?",
+     "id": "hard-tech-056",
+     "prompt": "Which 1769 patent by James Watt cut the steam engine's fuel use sharply?",
      "choices": [
-      "Anagnorisis",
-      "Catharsis",
-      "Peripeteia",
-      "Hamartia"
+      "Centrifugal governor",
+      "Double-acting cylinder",
+      "Separate condenser",
+      "Sun-and-planet gear"
      ],
-     "answer": "Hamartia",
+     "answer": "Separate condenser",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-169",
-     "prompt": "What term does Heidegger use for the human way of being?",
+     "id": "hard-tech-174",
+     "prompt": "Which German scientist invented the ophthalmoscope in 1851?",
      "choices": [
-      "Gestell",
-      "Lebenswelt",
-      "Dasein",
-      "Mitsein"
+      "Rudolf Virchow",
+      "Wilhelm Roentgen",
+      "Hermann von Helmholtz",
+      "Robert Koch"
      ],
-     "answer": "Dasein",
-     "difficulty": "easy"
+     "answer": "Hermann von Helmholtz",
+     "difficulty": "medium"
     }
    ]
   }

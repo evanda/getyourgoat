@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-042",
-     "prompt": "Which Epicurean succeeded Epicurus as head of the Garden?",
+     "id": "hard-tech-114",
+     "prompt": "Which German count's rigid airships first flew in 1900?",
      "choices": [
-      "Colotes",
-      "Lucretius",
-      "Hermarchus",
-      "Metrodorus"
+      "Hugo Eckener",
+      "Henri Giffard",
+      "Alberto Santos-Dumont",
+      "Ferdinand von Zeppelin"
      ],
-     "answer": "Hermarchus",
-     "difficulty": "hard"
+     "answer": "Ferdinand von Zeppelin",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-288",
-     "prompt": "Which National Learning scholar championed mono no aware?",
+     "id": "hard-tech-244",
+     "prompt": "In which country did eyeglasses first appear, around 1286?",
      "choices": [
-      "Motoori Norinaga",
-      "Ogyu Sorai",
-      "Kamo no Mabuchi",
-      "Hirata Atsutane"
+      "Italy",
+      "England",
+      "China",
+      "Germany"
      ],
-     "answer": "Motoori Norinaga",
-     "difficulty": "hard"
+     "answer": "Italy",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-299",
-     "prompt": "Which Vedanta thinker founded the qualified nondualist school?",
+     "id": "hard-tech-124",
+     "prompt": "Standard railway gauge, 4 ft 8.5 in, equals about how many millimetres?",
      "choices": [
-      "Shankara",
-      "Nimbarka",
-      "Madhva",
-      "Ramanuja"
+      "1,067",
+      "1,520",
+      "1,676",
+      "1,435"
      ],
-     "answer": "Ramanuja",
+     "answer": "1,435",
      "difficulty": "medium"
     }
    ]

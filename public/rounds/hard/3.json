@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-110",
-     "prompt": "Which Scottish philosopher founded the common-sense school against Hume's skepticism?",
+     "id": "hard-tech-116",
+     "prompt": "Which Russian-born engineer built the first practical single-rotor helicopter, the VS-300?",
      "choices": [
-      "Francis Hutcheson",
-      "Thomas Reid",
-      "Adam Ferguson",
-      "Dugald Stewart"
+      "Juan de la Cierva",
+      "Paul Cornu",
+      "Anton Flettner",
+      "Igor Sikorsky"
      ],
-     "answer": "Thomas Reid",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-049",
-     "prompt": "Which skeptic of Cnossos revived Pyrrhonism in the first century BCE?",
-     "choices": [
-      "Aenesidemus",
-      "Sextus Empiricus",
-      "Timon of Phlius",
-      "Agrippa"
-     ],
-     "answer": "Aenesidemus",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-069",
-     "prompt": "Which Alexandrian Jewish thinker blended Platonism with the Torah?",
-     "choices": [
-      "Plotinus",
-      "Philo",
-      "Origen",
-      "Josephus"
-     ],
-     "answer": "Philo",
+     "answer": "Igor Sikorsky",
      "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-204",
+     "prompt": "Unix was rewritten in which language in 1973?",
+     "choices": [
+      "C",
+      "Fortran",
+      "Pascal",
+      "BCPL"
+     ],
+     "answer": "C",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-007",
+     "prompt": "Which Roman water commissioner wrote a famous c. AD 97 account of Rome's aqueducts?",
+     "choices": [
+      "Seneca",
+      "Pliny the Elder",
+      "Frontinus",
+      "Vitruvius"
+     ],
+     "answer": "Frontinus",
+     "difficulty": "hard"
     }
    ]
   }

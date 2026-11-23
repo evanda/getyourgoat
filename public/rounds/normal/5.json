@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-208",
-     "prompt": "Thomas Aquinas belonged to which religious order?",
+     "id": "tech-151",
+     "prompt": "Nuclear power stations release energy by doing what to atoms?",
      "choices": [
-      "Dominican",
-      "Franciscan",
-      "Jesuit",
-      "Benedictine"
+      "Freezing them",
+      "Splitting them",
+      "Melting them",
+      "Burning them"
      ],
-     "answer": "Dominican",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-258",
-     "prompt": "Which of these thinkers was an English utilitarian?",
-     "choices": [
-      "Jeremy Bentham",
-      "Immanuel Kant",
-      "Rene Descartes",
-      "Plato"
-     ],
-     "answer": "Jeremy Bentham",
+     "answer": "Splitting them",
      "difficulty": "easy"
     },
     {
-     "id": "phil-059",
-     "prompt": "Mahavira is a central figure of which tradition?",
+     "id": "tech-252",
+     "prompt": "Electron microscopes use beams of what to image tiny things?",
      "choices": [
-      "Jainism",
-      "Sikhism",
-      "Buddhism",
-      "Zoroastrianism"
+      "Visible light",
+      "Ultraviolet",
+      "Sound",
+      "Electrons"
      ],
-     "answer": "Jainism",
+     "answer": "Electrons",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-301",
+     "prompt": "Wikipedia was launched in which year?",
+     "choices": [
+      "1991",
+      "2008",
+      "2001",
+      "1995"
+     ],
+     "answer": "2001",
      "difficulty": "medium"
     }
    ]

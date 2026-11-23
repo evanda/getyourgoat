@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-278",
-     "prompt": "What Confucian term names the doctrine of 'rectification of names'?",
+     "id": "hard-tech-062",
+     "prompt": "Which roller-spinning machine did Richard Arkwright patent in 1769?",
      "choices": [
-      "Zhengming",
-      "Ziran",
-      "Xiao",
-      "Wuwei"
+      "Power loom",
+      "Water frame",
+      "Flying shuttle",
+      "Spinning mule"
      ],
-     "answer": "Zhengming",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-093",
-     "prompt": "In 1550 at Valladolid, Las Casas debated which scholar over the Indigenous peoples' rights?",
-     "choices": [
-      "Domingo de Soto",
-      "Francisco Suarez",
-      "Juan Gines de Sepulveda",
-      "Francisco de Vitoria"
-     ],
-     "answer": "Juan Gines de Sepulveda",
+     "answer": "Water frame",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-152",
-     "prompt": "Jeremy Bentham dismissed natural rights as 'nonsense upon' what?",
+     "id": "hard-tech-125",
+     "prompt": "Which American invented the compressed-air railway brake in 1869?",
      "choices": [
-      "Stilts",
-      "Wheels",
-      "Ladders",
-      "Crutches"
+      "George Pullman",
+      "Cornelius Vanderbilt",
+      "Eli Janney",
+      "George Westinghouse"
      ],
-     "answer": "Stilts",
-     "difficulty": "easy"
+     "answer": "George Westinghouse",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-028",
+     "prompt": "What are the Aztec raised garden plots built in lake shallows called?",
+     "choices": [
+      "Milpas",
+      "Waru waru",
+      "Andenes",
+      "Chinampas"
+     ],
+     "answer": "Chinampas",
+     "difficulty": "hard"
     }
    ]
   }

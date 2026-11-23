@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-191",
-     "prompt": "Ayn Rand was born in which country?",
+     "id": "tech-255",
+     "prompt": "A seismograph records what?",
      "choices": [
-      "Russia",
-      "United States",
-      "Poland",
-      "Germany"
+      "Air pressure",
+      "Ocean currents",
+      "Magnetic fields",
+      "Ground vibrations"
      ],
-     "answer": "Russia",
-     "difficulty": "hard"
+     "answer": "Ground vibrations",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-246",
-     "prompt": "Which term names the felt qualities of experience, like seeing red?",
+     "id": "tech-307",
+     "prompt": "Hero of Alexandria's aeolipile was a spinning ball powered by what?",
      "choices": [
-      "Qualia",
-      "Noumena",
-      "Monads",
-      "Logos"
+      "Muscle power",
+      "Wind",
+      "Falling water",
+      "Steam"
      ],
-     "answer": "Qualia",
-     "difficulty": "hard"
+     "answer": "Steam",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-088",
-     "prompt": "Which philosopher is known for the is-ought problem?",
+     "id": "tech-131",
+     "prompt": "Which Swedish company introduced the three-point seat belt in 1959?",
      "choices": [
-      "David Hume",
-      "John Locke",
-      "Aristotle",
-      "Jeremy Bentham"
+      "Volvo",
+      "Saab",
+      "Scania",
+      "Ikea"
      ],
-     "answer": "David Hume",
+     "answer": "Volvo",
      "difficulty": "medium"
     }
    ]

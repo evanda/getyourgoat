@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-172",
-     "prompt": "Which philosopher wrote Creative Evolution and the notion of the elan vital?",
+     "id": "hard-tech-303",
+     "prompt": "Which engineer built London's main sewers after the Great Stink of 1858?",
      "choices": [
-      "Henri Bergson",
-      "Emile Boutroux",
-      "Maurice Blondel",
-      "Gabriel Marcel"
+      "Thomas Crapper",
+      "John Snow",
+      "Joseph Bazalgette",
+      "Isambard Brunel"
      ],
-     "answer": "Henri Bergson",
-     "difficulty": "easy"
+     "answer": "Joseph Bazalgette",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-302",
-     "prompt": "Which woman challenged Yajnavalkya in the Brihadaranyaka Upanishad?",
+     "id": "hard-tech-038",
+     "prompt": "Which Song official invented the pound lock for canals in 984?",
      "choices": [
-      "Gargi",
-      "Ghosha",
-      "Maitreyi",
-      "Lopamudra"
+      "Qiao Weiyue",
+      "Su Song",
+      "Guo Shoujing",
+      "Li Bing"
      ],
-     "answer": "Gargi",
+     "answer": "Qiao Weiyue",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-118",
-     "prompt": "Which philosopher distinguished relations of ideas from matters of fact in a famous 'fork'?",
+     "id": "hard-tech-143",
+     "prompt": "Which ship laid the lasting 1866 transatlantic telegraph cable?",
      "choices": [
-      "George Berkeley",
-      "David Hume",
-      "John Locke",
-      "Thomas Reid"
+      "Great Eastern",
+      "Agamemnon",
+      "Britannia",
+      "Great Britain"
      ],
-     "answer": "David Hume",
-     "difficulty": "easy"
+     "answer": "Great Eastern",
+     "difficulty": "medium"
     }
    ]
   }

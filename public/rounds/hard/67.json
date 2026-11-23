@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-223",
-     "prompt": "What does Parfit call the conclusion that vast populations of barely good lives can be better?",
+     "id": "hard-tech-261",
+     "prompt": "Under Akbar, Mughal metalworkers cast what seamless object by lost-wax casting?",
      "choices": [
-      "The Non-Identity Problem",
-      "The Repugnant Conclusion",
-      "The Mere Addition",
-      "The Absurd Conclusion"
+      "Throne",
+      "Celestial globe",
+      "Bell",
+      "Cannon"
      ],
-     "answer": "The Repugnant Conclusion",
+     "answer": "Celestial globe",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-308",
+     "prompt": "Which Englishman's 1841 system standardized screw threads?",
+     "choices": [
+      "Joseph Whitworth",
+      "Richard Roberts",
+      "James Nasmyth",
+      "Henry Maudslay"
+     ],
+     "answer": "Joseph Whitworth",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-030",
-     "prompt": "Which Socratic follower is regarded as a forerunner of the Cynics?",
+     "id": "hard-tech-052",
+     "prompt": "Where were the first practical windmills, with vertical axes, used in the early medieval era?",
      "choices": [
-      "Aristippus",
-      "Antisthenes",
-      "Euclides",
-      "Xenophon"
+      "England",
+      "China",
+      "The Netherlands",
+      "Persia"
      ],
-     "answer": "Antisthenes",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-063",
-     "prompt": "The title Metaphysics originally meant works placed after which of Aristotle's treatises?",
-     "choices": [
-      "The Organon",
-      "The Poetics",
-      "The Physics",
-      "The Ethics"
-     ],
-     "answer": "The Physics",
-     "difficulty": "easy"
+     "answer": "Persia",
+     "difficulty": "hard"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-075",
-     "prompt": "Which monk answered Anselm's ontological argument with a lost-island objection?",
+     "id": "hard-tech-306",
+     "prompt": "Which Scottish engineer invented the steam hammer in 1839?",
      "choices": [
-      "Abelard",
-      "Roscelin",
-      "Gaunilo",
-      "Lanfranc"
+      "James Watt",
+      "Henry Maudslay",
+      "William Fairbairn",
+      "James Nasmyth"
      ],
-     "answer": "Gaunilo",
+     "answer": "James Nasmyth",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-298",
+     "prompt": "Which British engineer invented the hovercraft in the 1950s?",
+     "choices": [
+      "Barnes Wallis",
+      "Christopher Cockerell",
+      "Alec Issigonis",
+      "Frank Whittle"
+     ],
+     "answer": "Christopher Cockerell",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-175",
-     "prompt": "Which Spanish thinker wrote The Revolt of the Masses?",
+     "id": "hard-tech-236",
+     "prompt": "Which American patented barbed wire in 1874?",
      "choices": [
-      "Maria Zambrano",
-      "Jose Ortega y Gasset",
-      "George Santayana",
-      "Miguel de Unamuno"
+      "Samuel Colt",
+      "Richard Gatling",
+      "Joseph Glidden",
+      "Cyrus McCormick"
      ],
-     "answer": "Jose Ortega y Gasset",
+     "answer": "Joseph Glidden",
      "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-203",
-     "prompt": "Which Oxford philosopher wrote How to Do Things with Words?",
-     "choices": [
-      "P. F. Strawson",
-      "Gilbert Ryle",
-      "J. L. Austin",
-      "H. P. Grice"
-     ],
-     "answer": "J. L. Austin",
-     "difficulty": "easy"
     }
    ]
   }

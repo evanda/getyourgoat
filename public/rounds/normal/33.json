@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-192",
-     "prompt": "Wittgenstein was born in which country?",
+     "id": "tech-186",
+     "prompt": "Which company introduced the compact cassette in 1963?",
      "choices": [
-      "Austria",
-      "Germany",
-      "Switzerland",
-      "Hungary"
+      "Apple",
+      "Philips",
+      "Sony",
+      "Kodak"
      ],
-     "answer": "Austria",
+     "answer": "Philips",
      "difficulty": "medium"
     },
     {
-     "id": "phil-131",
-     "prompt": "Which philosopher won the 1950 Nobel Prize in Literature?",
+     "id": "tech-268",
+     "prompt": "Rooftop solar panels turn what into electricity?",
      "choices": [
-      "Bertrand Russell",
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Henri Bergson"
+      "Heat from soil",
+      "Rain",
+      "Wind",
+      "Sunlight"
      ],
-     "answer": "Bertrand Russell",
-     "difficulty": "medium"
+     "answer": "Sunlight",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-276",
-     "prompt": "Which of these thinkers was Italian?",
+     "id": "tech-297",
+     "prompt": "Which company released the arcade game Pong in 1972?",
      "choices": [
-      "Machiavelli",
-      "Thomas Hobbes",
-      "Voltaire",
-      "Immanuel Kant"
+      "Sega",
+      "Nintendo",
+      "Atari",
+      "Sony"
      ],
-     "answer": "Machiavelli",
+     "answer": "Atari",
      "difficulty": "easy"
     }
    ]

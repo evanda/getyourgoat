@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-245",
-     "prompt": "Which Persian philosopher developed the doctrine of substantial motion?",
+     "id": "hard-tech-275",
+     "prompt": "The 1940 collapse of the Tacoma Narrows Bridge occurred in which US state?",
      "choices": [
-      "Nasir al-Din Tusi",
-      "Avicenna",
-      "Suhrawardi",
-      "Mulla Sadra"
+      "Washington",
+      "California",
+      "Maryland",
+      "Oregon"
      ],
-     "answer": "Mulla Sadra",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-124",
-     "prompt": "In which Berkeley work do Hylas and Philonous converse?",
-     "choices": [
-      "Siris",
-      "Three Dialogues",
-      "Alciphron",
-      "De Motu"
-     ],
-     "answer": "Three Dialogues",
+     "answer": "Washington",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-017",
-     "prompt": "Which Plato dialogue asks 'What is knowledge?' and rejects perception as the answer?",
+     "id": "hard-tech-058",
+     "prompt": "Which locomotive won the 1829 Rainhill Trials?",
      "choices": [
-      "Theaetetus",
-      "Statesman",
-      "Parmenides",
-      "Cratylus"
+      "Rocket",
+      "Locomotion",
+      "Novelty",
+      "Sans Pareil"
      ],
-     "answer": "Theaetetus",
-     "difficulty": "medium"
+     "answer": "Rocket",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-037",
+     "prompt": "Bronze is an alloy of copper and which metal?",
+     "choices": [
+      "Nickel",
+      "Tin",
+      "Lead",
+      "Zinc"
+     ],
+     "answer": "Tin",
+     "difficulty": "easy"
     }
    ]
   }

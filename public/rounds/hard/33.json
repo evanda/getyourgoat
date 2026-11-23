@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-283",
-     "prompt": "Which Chinese monk travelled to India and brought back Yogacara texts?",
+     "id": "hard-tech-166",
+     "prompt": "Which dentist publicly demonstrated ether anesthesia at Massachusetts General in 1846?",
      "choices": [
-      "Xuanzang",
-      "Kumarajiva",
-      "Yijing",
-      "Faxian"
+      "William Morton",
+      "Horace Wells",
+      "Crawford Long",
+      "Joseph Lister"
      ],
-     "answer": "Xuanzang",
-     "difficulty": "easy"
+     "answer": "William Morton",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-006",
-     "prompt": "Who is credited as the first atomist and as Democritus's teacher?",
+     "id": "hard-tech-186",
+     "prompt": "Which Briton patented the thermionic diode valve in 1904?",
      "choices": [
-      "Anaxagoras",
-      "Protagoras",
-      "Leucippus",
-      "Epicurus"
+      "William Crookes",
+      "Lee de Forest",
+      "John Ambrose Fleming",
+      "Oliver Heaviside"
      ],
-     "answer": "Leucippus",
+     "answer": "John Ambrose Fleming",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-033",
-     "prompt": "Which woman philosopher left a wealthy home to marry the Cynic Crates?",
+     "id": "hard-tech-237",
+     "prompt": "Which American patented a hand-cranked rapid-fire gun in 1862?",
      "choices": [
-      "Arete of Cyrene",
-      "Hypatia",
-      "Hipparchia",
-      "Diotima"
+      "John Browning",
+      "Hiram Maxim",
+      "Samuel Colt",
+      "Richard Gatling"
      ],
-     "answer": "Hipparchia",
+     "answer": "Richard Gatling",
      "difficulty": "medium"
     }
    ]

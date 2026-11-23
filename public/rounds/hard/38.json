@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-189",
-     "prompt": "Which philosopher distinguished Sinn from Bedeutung using the morning star and evening star?",
+     "id": "hard-tech-085",
+     "prompt": "Which Sheffield metallurgist developed stainless steel in 1913?",
      "choices": [
-      "Bertrand Russell",
-      "Saul Kripke",
-      "Rudolf Carnap",
-      "Gottlob Frege"
+      "Harry Brearley",
+      "Robert Hadfield",
+      "Henry Bessemer",
+      "Benjamin Huntsman"
      ],
-     "answer": "Gottlob Frege",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-052",
-     "prompt": "What Greek term names Plato's idea that learning is recollection of knowledge from before birth?",
-     "choices": [
-      "Mimesis",
-      "Katharsis",
-      "Eudaimonia",
-      "Anamnesis"
-     ],
-     "answer": "Anamnesis",
+     "answer": "Harry Brearley",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-157",
-     "prompt": "In which text does Marx say philosophers have only interpreted the world?",
+     "id": "hard-tech-128",
+     "prompt": "Which city opened the world's first underground passenger railway in 1863?",
      "choices": [
-      "The German Ideology",
-      "Theses on Feuerbach",
-      "Capital",
-      "The Holy Family"
+      "Budapest",
+      "London",
+      "New York",
+      "Paris"
      ],
-     "answer": "Theses on Feuerbach",
+     "answer": "London",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-109",
+     "prompt": "Which inventor demonstrated a safety elevator brake in New York in 1854?",
+     "choices": [
+      "William Le Baron Jenney",
+      "Elisha Otis",
+      "Werner Siemens",
+      "Frank Sprague"
+     ],
+     "answer": "Elisha Otis",
+     "difficulty": "medium"
     }
    ]
   }

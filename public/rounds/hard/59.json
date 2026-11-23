@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-091",
-     "prompt": "Which humanist proved the Donation of Constantine a forgery?",
+     "id": "hard-tech-201",
+     "prompt": "Which German engineer completed the programmable Z3 computer in 1941?",
      "choices": [
-      "Petrarch",
-      "Poggio Bracciolini",
-      "Pico della Mirandola",
-      "Lorenzo Valla"
+      "John Atanasoff",
+      "Heinz Nixdorf",
+      "Konrad Zuse",
+      "Helmut Hoelzer"
      ],
-     "answer": "Lorenzo Valla",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-111",
-     "prompt": "Which woman translated Newton's Principia into French?",
-     "choices": [
-      "Sophie Germain",
-      "Mary Astell",
-      "Emilie du Chatelet",
-      "Madame de Stael"
-     ],
-     "answer": "Emilie du Chatelet",
+     "answer": "Konrad Zuse",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-279",
-     "prompt": "Which Chan patriarch is tradition's founder of Chan in China, arriving from India?",
+     "id": "hard-tech-220",
+     "prompt": "Which engineer invented stereolithography 3D printing in 1984?",
      "choices": [
-      "Hui Neng",
-      "Xuanzang",
-      "Linji",
-      "Bodhidharma"
+      "Adrian Bowyer",
+      "Scott Crump",
+      "Carl Deckard",
+      "Chuck Hull"
      ],
-     "answer": "Bodhidharma",
-     "difficulty": "easy"
+     "answer": "Chuck Hull",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-079",
+     "prompt": "Charles Goodyear's 1839 vulcanization heated rubber with which element?",
+     "choices": [
+      "Chlorine",
+      "Carbon",
+      "Sulfur",
+      "Phosphorus"
+     ],
+     "answer": "Sulfur",
+     "difficulty": "medium"
     }
    ]
   }

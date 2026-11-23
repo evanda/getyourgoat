@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-044",
-     "prompt": "Which Greek thinker described four kinds of cause, including a final cause?",
+     "id": "tech-089",
+     "prompt": "Which Dutch lens-maker saw tiny 'animalcules' with his microscopes in the 1670s?",
      "choices": [
-      "Aristotle",
-      "Plato",
-      "Epicurus",
-      "Heraclitus"
+      "Antonie van Leeuwenhoek",
+      "Galileo",
+      "Robert Hooke",
+      "Christiaan Huygens"
      ],
-     "answer": "Aristotle",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-279",
-     "prompt": "Which of these is a branch of philosophy?",
-     "choices": [
-      "Ethics",
-      "Botany",
-      "Geology",
-      "Chemistry"
-     ],
-     "answer": "Ethics",
+     "answer": "Antonie van Leeuwenhoek",
      "difficulty": "easy"
     },
     {
-     "id": "phil-010",
-     "prompt": "Which Roman emperor wrote the Meditations?",
+     "id": "tech-023",
+     "prompt": "The ancient Pharos of Alexandria was what kind of structure?",
      "choices": [
-      "Marcus Aurelius",
-      "Nero",
-      "Augustus",
-      "Hadrian"
+      "A library",
+      "A palace",
+      "A bridge",
+      "A lighthouse"
      ],
-     "answer": "Marcus Aurelius",
+     "answer": "A lighthouse",
      "difficulty": "easy"
+    },
+    {
+     "id": "tech-060",
+     "prompt": "The Bessemer process of the 1850s made large quantities of what cheaply?",
+     "choices": [
+      "Glass",
+      "Cement",
+      "Steel",
+      "Paper"
+     ],
+     "answer": "Steel",
+     "difficulty": "medium"
     }
    ]
   }

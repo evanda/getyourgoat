@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-213",
-     "prompt": "Which American logician introduced pragmatism in the 1870s?",
+     "id": "tech-218",
+     "prompt": "Kevlar is best known for use in what?",
      "choices": [
-      "Charles Sanders Peirce",
-      "John Dewey",
-      "George Santayana",
-      "Josiah Royce"
+      "Window glass",
+      "Tyres",
+      "Ships' sails",
+      "Bulletproof vests"
      ],
-     "answer": "Charles Sanders Peirce",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-007",
-     "prompt": "Which Greek thinker is famous for living in a large jar?",
-     "choices": [
-      "Diogenes",
-      "Plato",
-      "Zeno",
-      "Thales"
-     ],
-     "answer": "Diogenes",
+     "answer": "Bulletproof vests",
      "difficulty": "easy"
     },
     {
-     "id": "phil-286",
-     "prompt": "Which term did Kant use for things as they are in themselves?",
+     "id": "tech-208",
+     "prompt": "Percy Spencer noticed a melted chocolate bar while working with what?",
      "choices": [
-      "Noumena",
-      "Phenomena",
-      "Monads",
-      "Forms"
+      "Light bulbs",
+      "Radar equipment",
+      "Telegraph wire",
+      "Photographic film"
      ],
-     "answer": "Noumena",
+     "answer": "Radar equipment",
      "difficulty": "hard"
+    },
+    {
+     "id": "tech-002",
+     "prompt": "What did a medieval trebuchet do?",
+     "choices": [
+      "Tunnelled under walls",
+      "Sprayed fire from tubes",
+      "Rolled out as a shield",
+      "Hurled huge stones at walls"
+     ],
+     "answer": "Hurled huge stones at walls",
+     "difficulty": "easy"
     }
    ]
   }

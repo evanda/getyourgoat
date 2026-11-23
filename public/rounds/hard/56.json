@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-179",
-     "prompt": "Which Sartre play contains the line 'Hell is other people'?",
+     "id": "hard-tech-078",
+     "prompt": "Bakelite, from 1907, was the first fully synthetic what?",
      "choices": [
-      "The Flies",
-      "The Condemned of Altona",
-      "Dirty Hands",
-      "No Exit"
+      "Rubber",
+      "Fiber",
+      "Plastic",
+      "Fuel"
      ],
-     "answer": "No Exit",
+     "answer": "Plastic",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-163",
-     "prompt": "Which Spanish-born Harvard philosopher wrote The Life of Reason?",
+     "id": "hard-tech-060",
+     "prompt": "In which decade did Eli Whitney patent the cotton gin?",
      "choices": [
-      "Alfred Whitehead",
-      "George Santayana",
-      "William Hocking",
-      "Josiah Royce"
+      "1760s",
+      "1840s",
+      "1790s",
+      "1820s"
      ],
-     "answer": "George Santayana",
-     "difficulty": "medium"
+     "answer": "1790s",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-050",
-     "prompt": "Which pupil of Pyrrho wrote the satirical poems called Silloi?",
+     "id": "hard-tech-136",
+     "prompt": "HMS Dreadnought of 1906 pioneered all-big-gun armament plus what type of propulsion?",
      "choices": [
-      "Timon of Phlius",
-      "Aenesidemus",
-      "Arcesilaus",
-      "Colotes"
+      "Steam turbines",
+      "Diesel engines",
+      "Paddle wheels",
+      "Nuclear reactors"
      ],
-     "answer": "Timon of Phlius",
-     "difficulty": "hard"
+     "answer": "Steam turbines",
+     "difficulty": "medium"
     }
    ]
   }

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-160",
-     "prompt": "Which American thinker wrote Woman in the Nineteenth Century?",
+     "id": "hard-tech-259",
+     "prompt": "Which Persian scholar wrote the Canon of Medicine, finished in 1025?",
      "choices": [
-      "Lucretia Mott",
-      "Elizabeth Cady Stanton",
-      "Margaret Fuller",
-      "Sarah Grimke"
+      "Omar Khayyam",
+      "Avicenna",
+      "Al-Biruni",
+      "Al-Razi"
      ],
-     "answer": "Margaret Fuller",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-257",
-     "prompt": "Which Tanzanian leader built his politics on the philosophy of ujamaa?",
-     "choices": [
-      "Julius Nyerere",
-      "Kenneth Kaunda",
-      "Jomo Kenyatta",
-      "Kwame Nkrumah"
-     ],
-     "answer": "Julius Nyerere",
+     "answer": "Avicenna",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-026",
-     "prompt": "Who succeeded Speusippus as head of the Academy?",
+     "id": "hard-tech-047",
+     "prompt": "Which flat-bottomed, single-masted ship type carried Hanseatic League trade?",
      "choices": [
-      "Arcesilaus",
-      "Polemo",
-      "Crantor",
-      "Xenocrates"
+      "Carrack",
+      "Cog",
+      "Galleass",
+      "Caravel"
      ],
-     "answer": "Xenocrates",
+     "answer": "Cog",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-198",
+     "prompt": "Which IBM system introduced the hard disk drive in 1956?",
+     "choices": [
+      "System/360",
+      "Stretch",
+      "UNIVAC",
+      "RAMAC"
+     ],
+     "answer": "RAMAC",
      "difficulty": "hard"
     }
    ]

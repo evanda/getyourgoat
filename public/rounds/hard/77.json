@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-186",
-     "prompt": "Which pair of authors used the rhizome as a model of non-hierarchical thought?",
+     "id": "hard-tech-039",
+     "prompt": "Which official engineered the Dujiangyan irrigation system in Sichuan around 256 BC?",
      "choices": [
-      "Lacan and Althusser",
-      "Deleuze and Guattari",
-      "Adorno and Horkheimer",
-      "Barthes and Kristeva"
+      "Li Bing",
+      "Guo Shoujing",
+      "Zheng Guo",
+      "Sunshu Ao"
      ],
-     "answer": "Deleuze and Guattari",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-064",
-     "prompt": "Which Neoplatonist edited Plotinus's Enneads?",
-     "choices": [
-      "Damascius",
-      "Porphyry",
-      "Iamblichus",
-      "Proclus"
-     ],
-     "answer": "Porphyry",
+     "answer": "Li Bing",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-275",
-     "prompt": "Which Daoist text tells of a foolish old man who moves mountains?",
+     "id": "hard-tech-271",
+     "prompt": "In which Ohio city did the Wright brothers run their bicycle shop?",
      "choices": [
-      "The Guanzi",
-      "The Liezi",
-      "The Daodejing",
-      "The Huainanzi"
+      "Akron",
+      "Toledo",
+      "Dayton",
+      "Cleveland"
      ],
-     "answer": "The Liezi",
+     "answer": "Dayton",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-238",
+     "prompt": "Where did tanks first see combat, in September 1916?",
+     "choices": [
+      "Gallipoli",
+      "Ypres",
+      "Verdun",
+      "The Somme"
+     ],
+     "answer": "The Somme",
      "difficulty": "hard"
     }
    ]

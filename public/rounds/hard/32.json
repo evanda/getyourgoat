@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-100",
-     "prompt": "Which French Oratorian defended occasionalism in The Search After Truth?",
+     "id": "hard-tech-239",
+     "prompt": "What Latin word for ram gave the battering ram its Roman name?",
      "choices": [
-      "Antoine Arnauld",
-      "Pierre Bayle",
-      "Pierre Gassendi",
-      "Nicolas Malebranche"
+      "Taurus",
+      "Aries",
+      "Vinea",
+      "Testudo"
      ],
-     "answer": "Nicolas Malebranche",
+     "answer": "Aries",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-290",
+     "prompt": "Which Italian instrument maker invented the piano around 1700?",
+     "choices": [
+      "Andrea Amati",
+      "Bartolomeo Cristofori",
+      "Gasparo da Salo",
+      "Antonio Stradivari"
+     ],
+     "answer": "Bartolomeo Cristofori",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-058",
-     "prompt": "How many categories does Aristotle's Categories list?",
+     "id": "hard-tech-221",
+     "prompt": "Which lunar module landed the Apollo 11 astronauts on the Moon in 1969?",
      "choices": [
-      "Ten",
-      "Four",
-      "Twelve",
-      "Seven"
+      "Columbia",
+      "Intrepid",
+      "Aquarius",
+      "Eagle"
      ],
-     "answer": "Ten",
+     "answer": "Eagle",
      "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-212",
-     "prompt": "Which philosopher of science wrote Against Method?",
-     "choices": [
-      "Imre Lakatos",
-      "Thomas Kuhn",
-      "Paul Feyerabend",
-      "Karl Popper"
-     ],
-     "answer": "Paul Feyerabend",
-     "difficulty": "medium"
     }
    ]
   }

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-248",
-     "prompt": "Which philosopher did Kant say woke him from dogmatic slumber?",
+     "id": "tech-249",
+     "prompt": "What does a clinical thermometer measure?",
      "choices": [
-      "David Hume",
-      "John Locke",
-      "Leibniz",
-      "Descartes"
+      "Body temperature",
+      "Blood pressure",
+      "Pulse",
+      "Weight"
      ],
-     "answer": "David Hume",
-     "difficulty": "medium"
+     "answer": "Body temperature",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-098",
-     "prompt": "Who wrote A Vindication of the Rights of Woman?",
+     "id": "tech-136",
+     "prompt": "What natural force did Benjamin Franklin's kite experiment study?",
      "choices": [
-      "Mary Wollstonecraft",
-      "Simone de Beauvoir",
-      "Hannah Arendt",
-      "Harriet Taylor"
+      "Tides",
+      "Gravity",
+      "Wind speed",
+      "Lightning"
      ],
-     "answer": "Mary Wollstonecraft",
-     "difficulty": "medium"
+     "answer": "Lightning",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-156",
-     "prompt": "Which Swedish-born philosopher proposed the simulation argument?",
+     "id": "tech-288",
+     "prompt": "Which Finn began developing the Linux kernel in 1991?",
      "choices": [
-      "Nick Bostrom",
-      "David Chalmers",
-      "Peter Singer",
-      "Derek Parfit"
+      "Linus Torvalds",
+      "Richard Stallman",
+      "Tim Berners-Lee",
+      "Bill Joy"
      ],
-     "answer": "Nick Bostrom",
+     "answer": "Linus Torvalds",
      "difficulty": "medium"
     }
    ]

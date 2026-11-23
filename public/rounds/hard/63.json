@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-072",
-     "prompt": "Which bishop of Milan guided Augustine toward Christianity?",
+     "id": "hard-tech-309",
+     "prompt": "What natural mineral did early Chinese magnetic compasses use?",
      "choices": [
-      "Athanasius",
-      "Gregory",
-      "Ambrose",
-      "Jerome"
+      "Hematite",
+      "Lodestone",
+      "Cinnabar",
+      "Pyrite"
      ],
-     "answer": "Ambrose",
+     "answer": "Lodestone",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-234",
+     "prompt": "Which English chemist invented the friction match in 1826?",
+     "choices": [
+      "Humphry Davy",
+      "Gustaf Lundstrom",
+      "John Walker",
+      "Robert Boyle"
+     ],
+     "answer": "John Walker",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-162",
+     "prompt": "Which company's 1888 slogan was You press the button, we do the rest?",
+     "choices": [
+      "Leica",
+      "Polaroid",
+      "Kodak",
+      "Agfa"
+     ],
+     "answer": "Kodak",
      "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-146",
-     "prompt": "Which Nietzsche work has the subtitle How One Becomes What One Is?",
-     "choices": [
-      "The Antichrist",
-      "Daybreak",
-      "Twilight of the Idols",
-      "Ecce Homo"
-     ],
-     "answer": "Ecce Homo",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-171",
-     "prompt": "Heidegger became rector of which university in 1933?",
-     "choices": [
-      "Marburg",
-      "Berlin",
-      "Heidelberg",
-      "Freiburg"
-     ],
-     "answer": "Freiburg",
-     "difficulty": "medium"
     }
    ]
   }

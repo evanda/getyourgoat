@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-178",
-     "prompt": "In The Human Condition, Arendt distinguishes labor, work and what?",
+     "id": "hard-tech-161",
+     "prompt": "Which Frenchman made the earliest surviving camera photograph, around 1826?",
      "choices": [
-      "Contemplation",
-      "Thought",
-      "Leisure",
-      "Action"
+      "Hippolyte Bayard",
+      "Louis Daguerre",
+      "Etienne Marey",
+      "Nicephore Niepce"
      ],
-     "answer": "Action",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-201",
-     "prompt": "Which philosopher coined consequentialism in her 1958 essay Modern Moral Philosophy?",
-     "choices": [
-      "Mary Midgley",
-      "Iris Murdoch",
-      "G. E. M. Anscombe",
-      "Philippa Foot"
-     ],
-     "answer": "G. E. M. Anscombe",
+     "answer": "Nicephore Niepce",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-004",
-     "prompt": "Which friend of Pericles was prosecuted at Athens for impiety over claims about the sun?",
+     "id": "hard-tech-065",
+     "prompt": "Which Frenchman's 1804 loom used punched cards to weave patterns?",
      "choices": [
-      "Anaximander",
-      "Empedocles",
-      "Anaxagoras",
-      "Democritus"
+      "Joseph Marie Jacquard",
+      "Edmund Cartwright",
+      "Jacques de Vaucanson",
+      "James Hargreaves"
      ],
-     "answer": "Anaxagoras",
-     "difficulty": "hard"
+     "answer": "Joseph Marie Jacquard",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-253",
+     "prompt": "Which Japanese inventor built a famed automatic power loom in 1924?",
+     "choices": [
+      "Masaru Ibuka",
+      "Soichiro Honda",
+      "Sakichi Toyoda",
+      "Konosuke Matsushita"
+     ],
+     "answer": "Sakichi Toyoda",
+     "difficulty": "medium"
     }
    ]
   }

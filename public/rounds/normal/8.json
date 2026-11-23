@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-006",
-     "prompt": "What name was given to Epicurus's school in Athens?",
+     "id": "tech-161",
+     "prompt": "Georg Ohm's law links voltage, current and what?",
      "choices": [
-      "The Garden",
-      "The Porch",
-      "The Lyceum",
-      "The Academy"
+      "Resistance",
+      "Magnetism",
+      "Mass",
+      "Heat"
      ],
-     "answer": "The Garden",
+     "answer": "Resistance",
      "difficulty": "medium"
     },
     {
-     "id": "phil-075",
-     "prompt": "Who wrote Utopia?",
+     "id": "tech-211",
+     "prompt": "Which Briton patented a motorised vacuum cleaner in 1901?",
      "choices": [
-      "Thomas More",
-      "Erasmus",
-      "Machiavelli",
-      "Francis Bacon"
+      "Thomas Edison",
+      "William Hoover",
+      "James Dyson",
+      "Hubert Cecil Booth"
      ],
-     "answer": "Thomas More",
+     "answer": "Hubert Cecil Booth",
      "difficulty": "easy"
     },
     {
-     "id": "phil-148",
-     "prompt": "Who wrote Language, Truth and Logic?",
+     "id": "tech-244",
+     "prompt": "In which country was the first IVF baby born in 1978?",
      "choices": [
-      "A. J. Ayer",
-      "Bertrand Russell",
-      "Gilbert Ryle",
-      "J. L. Austin"
+      "United States",
+      "Australia",
+      "United Kingdom",
+      "Japan"
      ],
-     "answer": "A. J. Ayer",
-     "difficulty": "hard"
+     "answer": "United Kingdom",
+     "difficulty": "medium"
     }
    ]
   }

@@ -13,7 +13,7 @@ export const LEVEL_BLURB: Record<Level, string> = {
   hard: 'For trivia buffs, faster ogre',
 };
 
-const ADULT = ['arithmetic', 'history', 'literature', 'earth science', 'philosophy'] as const;
+const ADULT = ['arithmetic', 'history', 'literature', 'earth science', 'technology'] as const;
 export const LEVEL_CATEGORIES: Record<Level, readonly string[]> = {
   easy: ['arithmetic', 'history', 'literature', 'earth science', 'animals'],
   normal: ADULT,
@@ -22,9 +22,9 @@ export const LEVEL_CATEGORIES: Record<Level, readonly string[]> = {
 
 /** Starting pace per level; alpha votes are recorded per level to tune each one. */
 export const LEVEL_PARAMS: Record<Level, Params> = {
-  easy: { ...DEFAULTS, ogreSpeed: 20, buttDistance: 0.4 },
-  normal: { ...DEFAULTS },
-  hard: { ...DEFAULTS, ogreSpeed: 11 },
+  easy: { ...DEFAULTS, ogreSpeed: 16, buttDistance: 0.4 },
+  normal: { ...DEFAULTS, ogreSpeed: 11 },
+  hard: { ...DEFAULTS, ogreSpeed: 9 },
 };
 
 export function isLevel(v: unknown): v is Level {

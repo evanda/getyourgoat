@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-022",
-     "prompt": "Which dialogue is Plato's longest work?",
+     "id": "hard-tech-260",
+     "prompt": "Which Ottoman architect built the Selimiye Mosque in Edirne, finished in 1575?",
      "choices": [
-      "Republic",
-      "Laws",
-      "Theaetetus",
-      "Timaeus"
+      "Mehmed Aga",
+      "Isidore of Miletus",
+      "Davut Aga",
+      "Mimar Sinan"
      ],
-     "answer": "Laws",
+     "answer": "Mimar Sinan",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-131",
-     "prompt": "How many antinomies appear in Kant's Critique of Pure Reason?",
+     "id": "hard-tech-209",
+     "prompt": "The first ARPANET message in 1969 went from UCLA to which institute?",
      "choices": [
-      "Four",
-      "Two",
-      "Three",
-      "Six"
+      "MIT Lincoln Lab",
+      "Bell Labs",
+      "Carnegie Mellon",
+      "Stanford Research Institute"
      ],
-     "answer": "Four",
-     "difficulty": "medium"
+     "answer": "Stanford Research Institute",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-002",
-     "prompt": "Which Presocratic explained change through the opposed forces Love and Strife?",
+     "id": "hard-tech-159",
+     "prompt": "Whose 1868 patent led to the first commercially successful typewriter?",
      "choices": [
-      "Anaxagoras",
-      "Leucippus",
-      "Parmenides",
-      "Empedocles"
+      "Christopher Latham Sholes",
+      "Thomas Edison",
+      "Mark Twain",
+      "Remington"
      ],
-     "answer": "Empedocles",
-     "difficulty": "medium"
+     "answer": "Christopher Latham Sholes",
+     "difficulty": "easy"
     }
    ]
   }

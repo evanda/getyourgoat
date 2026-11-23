@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-189",
-     "prompt": "Which Dutch-born philosopher was banned by his Amsterdam congregation in 1656?",
+     "id": "tech-065",
+     "prompt": "Charles Goodyear is known for developing which improved material?",
      "choices": [
-      "Spinoza",
-      "Erasmus",
-      "Grotius",
-      "Leibniz"
+      "Nylon",
+      "Plastic",
+      "Concrete",
+      "Vulcanized rubber"
      ],
-     "answer": "Spinoza",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-297",
-     "prompt": "Diogenes carried a lamp in daylight, saying he was looking for what?",
-     "choices": [
-      "A man",
-      "A king",
-      "A god",
-      "A coin"
-     ],
-     "answer": "A man",
+     "answer": "Vulcanized rubber",
      "difficulty": "easy"
     },
     {
-     "id": "phil-282",
-     "prompt": "Which Indian leader developed the philosophy of satyagraha?",
+     "id": "tech-031",
+     "prompt": "Glass is mainly made by melting what?",
      "choices": [
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru",
-      "Rabindranath Tagore",
-      "Swami Vivekananda"
+      "Salt",
+      "Clay",
+      "Limestone chunks",
+      "Sand"
      ],
-     "answer": "Mahatma Gandhi",
+     "answer": "Sand",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-177",
+     "prompt": "What type of waves carry radio broadcasts?",
+     "choices": [
+      "Water waves",
+      "Sound waves",
+      "Seismic waves",
+      "Electromagnetic waves"
+     ],
+     "answer": "Electromagnetic waves",
      "difficulty": "easy"
     }
    ]

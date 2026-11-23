@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-155",
-     "prompt": "Which Harvard professor is known for a popular course called Justice?",
+     "id": "tech-185",
+     "prompt": "Vinyl records are played with what?",
      "choices": [
-      "Michael Sandel",
-      "John Rawls",
-      "Peter Singer",
-      "Robert Nozick"
+      "A stylus on a turntable",
+      "A light sensor",
+      "A magnetic head",
+      "A laser"
      ],
-     "answer": "Michael Sandel",
-     "difficulty": "medium"
+     "answer": "A stylus on a turntable",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-187",
-     "prompt": "Which argument for God points to apparent order and purpose in nature?",
+     "id": "tech-224",
+     "prompt": "Pilkington's float process of the 1950s made what?",
      "choices": [
-      "Teleological argument",
-      "Ontological argument",
-      "Cosmological argument",
-      "Moral argument"
+      "Mirrors",
+      "Safety glasses",
+      "Light bulbs",
+      "Flat glass"
      ],
-     "answer": "Teleological argument",
-     "difficulty": "medium"
+     "answer": "Flat glass",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-060",
-     "prompt": "The Sanskrit term ahimsa means what?",
+     "id": "tech-008",
+     "prompt": "Which Chinese craftsman made the first movable type, around 1040?",
      "choices": [
-      "Nonviolence",
-      "Truth",
-      "Charity",
-      "Detachment"
+      "Shen Kuo",
+      "Bi Sheng",
+      "Zhang Heng",
+      "Cai Lun"
      ],
-     "answer": "Nonviolence",
-     "difficulty": "medium"
+     "answer": "Bi Sheng",
+     "difficulty": "hard"
     }
    ]
   }

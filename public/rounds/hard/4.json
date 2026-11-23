@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-076",
-     "prompt": "Which realist master of Paris was Abelard's early teacher?",
+     "id": "hard-tech-299",
+     "prompt": "For which pharaoh was the Great Pyramid of Giza built?",
      "choices": [
-      "William of Champeaux",
-      "Roscelin",
-      "Anselm of Laon",
-      "Bernard of Chartres"
+      "Menkaure",
+      "Khafre",
+      "Djoser",
+      "Khufu"
      ],
-     "answer": "William of Champeaux",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-130",
-     "prompt": "Which Horatian motto does Kant adopt in 'What Is Enlightenment?'",
-     "choices": [
-      "Nosce teipsum",
-      "Sapere aude",
-      "Memento mori",
-      "Ad fontes"
-     ],
-     "answer": "Sapere aude",
+     "answer": "Khufu",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-148",
-     "prompt": "Which composer was Nietzsche's early friend and later target?",
+     "id": "hard-tech-304",
+     "prompt": "Which Frenchman engineered the iron framework inside the Statue of Liberty?",
      "choices": [
-      "Georg Bizet",
-      "Johannes Brahms",
-      "Franz Liszt",
-      "Richard Wagner"
+      "Gustave Eiffel",
+      "Eugene Viollet-le-Duc",
+      "Ferdinand de Lesseps",
+      "Frederic Bartholdi"
      ],
-     "answer": "Richard Wagner",
-     "difficulty": "easy"
+     "answer": "Gustave Eiffel",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-068",
+     "prompt": "Which steelmaking process, using a regenerative furnace by the Siemens brothers, arose in the 1860s?",
+     "choices": [
+      "Crucible",
+      "Puddling",
+      "Open-hearth",
+      "Cementation"
+     ],
+     "answer": "Open-hearth",
+     "difficulty": "medium"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-197",
-     "prompt": "Which thinker wrote the Groundwork of the Metaphysics of Morals?",
+     "id": "tech-165",
+     "prompt": "Which fossil fuel is mostly methane?",
      "choices": [
-      "Kant",
-      "Hegel",
-      "Mill",
-      "Hume"
+      "Peat",
+      "Crude oil",
+      "Coal",
+      "Natural gas"
      ],
-     "answer": "Kant",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-001",
-     "prompt": "Which philosopher founded the Academy in Athens?",
-     "choices": [
-      "Plato",
-      "Aristotle",
-      "Epicurus",
-      "Zeno of Citium"
-     ],
-     "answer": "Plato",
+     "answer": "Natural gas",
      "difficulty": "easy"
     },
     {
-     "id": "phil-034",
-     "prompt": "In which city did the philosopher Hypatia teach?",
+     "id": "tech-314",
+     "prompt": "The Fresnel lens greatly improved the beam of what?",
      "choices": [
-      "Alexandria",
-      "Athens",
-      "Rome",
-      "Antioch"
+      "Car headlights only",
+      "Lighthouses",
+      "Lanterns for miners",
+      "Telescopes only"
      ],
-     "answer": "Alexandria",
-     "difficulty": "medium"
+     "answer": "Lighthouses",
+     "difficulty": "hard"
+    },
+    {
+     "id": "tech-291",
+     "prompt": "How many bits are in a byte?",
+     "choices": [
+      "10",
+      "8",
+      "4",
+      "16"
+     ],
+     "answer": "8",
+     "difficulty": "easy"
     }
    ]
   }

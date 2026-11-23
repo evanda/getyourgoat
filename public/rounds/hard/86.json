@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-025",
-     "prompt": "Who was Plato's nephew and his successor as head of the Academy?",
+     "id": "hard-tech-269",
+     "prompt": "Which Renaissance polymath sketched an aerial screw resembling a helicopter?",
      "choices": [
-      "Polemo",
-      "Speusippus",
-      "Xenocrates",
-      "Aristotle"
+      "Francesco di Giorgio",
+      "Leonardo da Vinci",
+      "Galileo Galilei",
+      "Filippo Brunelleschi"
      ],
-     "answer": "Speusippus",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-255",
-     "prompt": "Which Ghanaian-born philosopher taught at Halle and Jena in the 1730s?",
-     "choices": [
-      "Kwame Anthony Appiah",
-      "Olaudah Equiano",
-      "Ottobah Cugoano",
-      "Anton Wilhelm Amo"
-     ],
-     "answer": "Anton Wilhelm Amo",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-308",
-     "prompt": "Which Pali term means non-self?",
-     "choices": [
-      "Anatta",
-      "Dukkha",
-      "Anicca",
-      "Sati"
-     ],
-     "answer": "Anatta",
+     "answer": "Leonardo da Vinci",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-180",
+     "prompt": "Which kind of telescope did Isaac Newton build in 1668?",
+     "choices": [
+      "Reflecting",
+      "Radio",
+      "Refracting",
+      "Catadioptric"
+     ],
+     "answer": "Reflecting",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-030",
+     "prompt": "A pivoted pole with bucket and counterweight, used to irrigate Nile fields, is called a what?",
+     "choices": [
+      "Shaduf",
+      "Treadwheel",
+      "Noria",
+      "Sakia"
+     ],
+     "answer": "Shaduf",
+     "difficulty": "medium"
     }
    ]
   }

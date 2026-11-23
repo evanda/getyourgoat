@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-126",
-     "prompt": "Which case led Voltaire to write his Treatise on Tolerance?",
+     "id": "hard-tech-140",
+     "prompt": "Which British physicist led development of the Chain Home radar network?",
      "choices": [
-      "The Dreyfus affair",
-      "The Sirven letter",
-      "The Lisbon quake",
-      "The Calas affair"
+      "Henry Tizard",
+      "Frank Whittle",
+      "Robert Watson-Watt",
+      "Barnes Wallis"
      ],
-     "answer": "The Calas affair",
+     "answer": "Robert Watson-Watt",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-120",
-     "prompt": "Which Edinburgh library did Hume serve as keeper?",
+     "id": "hard-tech-033",
+     "prompt": "Which Roman censor began the Via Appia in 312 BC?",
      "choices": [
-      "The Advocates' Library",
-      "The Signet Library",
-      "The Bodleian",
-      "The Royal Library"
+      "Gaius Flaminius",
+      "Agrippa",
+      "Trajan",
+      "Appius Claudius Caecus"
      ],
-     "answer": "The Advocates' Library",
-     "difficulty": "medium"
+     "answer": "Appius Claudius Caecus",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-232",
-     "prompt": "Which legal philosopher wrote The Concept of Law in 1961?",
+     "id": "hard-tech-287",
+     "prompt": "Which invention, spreading from Central Asia by the 8th century, steadied mounted cavalry?",
      "choices": [
-      "Ronald Dworkin",
-      "Hans Kelsen",
-      "Lon Fuller",
-      "H. L. A. Hart"
+      "Stirrup",
+      "Saddle horn",
+      "Horseshoe",
+      "Bit"
      ],
-     "answer": "H. L. A. Hart",
-     "difficulty": "medium"
+     "answer": "Stirrup",
+     "difficulty": "easy"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-058",
-     "prompt": "Which philosopher is the great teacher of Advaita Vedanta?",
+     "id": "tech-024",
+     "prompt": "Which empire built a vast network of paved roads across Europe?",
      "choices": [
-      "Shankara",
-      "Ramanuja",
-      "Nagarjuna",
-      "Madhva"
+      "Persian Empire",
+      "Roman Empire",
+      "Mongol Empire",
+      "Ottoman Empire"
      ],
-     "answer": "Shankara",
+     "answer": "Roman Empire",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-275",
+     "prompt": "Who wrote what is often called the first computer program, for Babbage's engine?",
+     "choices": [
+      "Marie Curie",
+      "Ada Lovelace",
+      "Florence Nightingale",
+      "Grace Hopper"
+     ],
+     "answer": "Ada Lovelace",
      "difficulty": "medium"
     },
     {
-     "id": "phil-101",
-     "prompt": "Who wrote Democracy in America?",
+     "id": "tech-020",
+     "prompt": "In which country were the first wearable eyeglasses made around 1286?",
      "choices": [
-      "Alexis de Tocqueville",
-      "Montesquieu",
-      "John Stuart Mill",
-      "Edmund Burke"
+      "China",
+      "England",
+      "Germany",
+      "Italy"
      ],
-     "answer": "Alexis de Tocqueville",
+     "answer": "Italy",
      "difficulty": "hard"
-    },
-    {
-     "id": "phil-178",
-     "prompt": "Which fallacy misrepresents an opponent's view to refute it?",
-     "choices": [
-      "Straw man",
-      "Ad hominem",
-      "Circular reasoning",
-      "Appeal to authority"
-     ],
-     "answer": "Straw man",
-     "difficulty": "medium"
     }
    ]
   }

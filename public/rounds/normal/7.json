@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-243",
-     "prompt": "Yin and yang come from the philosophy of which country?",
+     "id": "tech-090",
+     "prompt": "Which German physicist introduced the mercury thermometer in the early 1700s?",
      "choices": [
-      "China",
-      "India",
-      "Greece",
-      "Japan"
+      "Anders Celsius",
+      "Isaac Newton",
+      "Daniel Fahrenheit",
+      "Lord Kelvin"
      ],
-     "answer": "China",
-     "difficulty": "easy"
+     "answer": "Daniel Fahrenheit",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-120",
-     "prompt": "Who wrote Walden and Civil Disobedience?",
+     "id": "tech-094",
+     "prompt": "Edward Jenner's 1796 vaccine protected against which disease?",
      "choices": [
-      "Henry David Thoreau",
-      "Ralph Waldo Emerson",
-      "Walt Whitman",
-      "Benjamin Franklin"
+      "Measles",
+      "Smallpox",
+      "Cholera",
+      "Polio"
      ],
-     "answer": "Henry David Thoreau",
-     "difficulty": "easy"
+     "answer": "Smallpox",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-267",
-     "prompt": "Which political philosophy opposes all rulers and governments?",
+     "id": "tech-135",
+     "prompt": "A catalytic converter reduces what from car exhaust?",
      "choices": [
-      "Anarchism",
-      "Liberalism",
-      "Conservatism",
-      "Socialism"
+      "Engine noise",
+      "Tyre wear",
+      "Harmful pollutants",
+      "Fuel use"
      ],
-     "answer": "Anarchism",
-     "difficulty": "easy"
+     "answer": "Harmful pollutants",
+     "difficulty": "medium"
     }
    ]
   }

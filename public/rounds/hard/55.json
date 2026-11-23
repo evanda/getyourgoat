@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-061",
-     "prompt": "Who succeeded Aristotle as head of the Lyceum and wrote Characters?",
+     "id": "hard-tech-041",
+     "prompt": "Which Korean admiral used armored turtle ships against Japanese fleets in the 1590s?",
      "choices": [
-      "Theophrastus",
-      "Aristoxenus",
-      "Strato",
-      "Eudemus"
+      "Yi Sun-sin",
+      "Kim Yu-sin",
+      "Yi Seong-gye",
+      "Gang Gam-chan"
      ],
-     "answer": "Theophrastus",
+     "answer": "Yi Sun-sin",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-135",
-     "prompt": "Which poet wrote On the Aesthetic Education of Man?",
+     "id": "hard-tech-214",
+     "prompt": "Which 2017 Google paper introduced the Transformer neural architecture?",
      "choices": [
-      "Johann Goethe",
-      "Novalis",
-      "Friedrich Schiller",
-      "Friedrich Holderlin"
+      "Attention Is All You Need",
+      "ImageNet Classification",
+      "Generative Adversarial Nets",
+      "Playing Atari with Deep RL"
      ],
-     "answer": "Friedrich Schiller",
+     "answer": "Attention Is All You Need",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-074",
-     "prompt": "Which Irish thinker of the ninth century wrote the Periphyseon?",
+     "id": "hard-tech-121",
+     "prompt": "Which engine powered the first stage of the Saturn V?",
      "choices": [
-      "Columbanus",
-      "Bede",
-      "Alcuin",
-      "John Scotus Eriugena"
+      "J-2",
+      "F-1",
+      "RS-25",
+      "RL10"
      ],
-     "answer": "John Scotus Eriugena",
-     "difficulty": "medium"
+     "answer": "F-1",
+     "difficulty": "hard"
     }
    ]
   }

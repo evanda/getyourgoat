@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-184",
-     "prompt": "Which Derrida term blends 'differ' and 'defer'?",
+     "id": "hard-tech-091",
+     "prompt": "Which Austrian engineer invented an adjustable-blade water turbine in 1913?",
      "choices": [
-      "Dissemination",
-      "Aporia",
-      "Differance",
-      "Trace"
+      "Viktor Kaplan",
+      "Ludwig Prandtl",
+      "Lester Pelton",
+      "James Francis"
      ],
-     "answer": "Differance",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-250",
-     "prompt": "Which Ibn Khaldun term names the group solidarity that binds dynasties?",
-     "choices": [
-      "Shura",
-      "Ummah",
-      "Fitra",
-      "Asabiyyah"
-     ],
-     "answer": "Asabiyyah",
+     "answer": "Viktor Kaplan",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-274",
-     "prompt": "How many chapters does the Daodejing traditionally have?",
+     "id": "hard-tech-113",
+     "prompt": "Which German glider pioneer made thousands of flights in the 1890s before dying in a crash in 1896?",
      "choices": [
-      "108",
-      "81",
-      "36",
-      "64"
+      "Octave Chanute",
+      "Otto Lilienthal",
+      "Percy Pilcher",
+      "George Cayley"
      ],
-     "answer": "81",
+     "answer": "Otto Lilienthal",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-273",
+     "prompt": "Egypt's Aswan High Dam, completed in 1970, regulates which river?",
+     "choices": [
+      "Congo",
+      "Tigris",
+      "Euphrates",
+      "Nile"
+     ],
+     "answer": "Nile",
      "difficulty": "easy"
     }
    ]

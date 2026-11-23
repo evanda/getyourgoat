@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-060",
-     "prompt": "Which work of Aristotle develops the theory of the syllogism?",
+     "id": "hard-tech-016",
+     "prompt": "Which ingredient of gunpowder serves as its oxidizer?",
      "choices": [
-      "Topics",
-      "Categories",
-      "Prior Analytics",
-      "De Interpretatione"
+      "Saltpeter",
+      "Sulfur",
+      "Quicklime",
+      "Charcoal"
      ],
-     "answer": "Prior Analytics",
+     "answer": "Saltpeter",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-044",
+     "prompt": "Which triangular sail, common on Arab dhows, lets a ship sail closer to the wind?",
+     "choices": [
+      "Gaff",
+      "Spinnaker",
+      "Lateen",
+      "Square sail"
+     ],
+     "answer": "Lateen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-241",
+     "prompt": "Which architect designed Hagia Sophia alongside Anthemius of Tralles?",
+     "choices": [
+      "Rabirius",
+      "Apollodorus of Damascus",
+      "Mimar Sinan",
+      "Isidore of Miletus"
+     ],
+     "answer": "Isidore of Miletus",
      "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-116",
-     "prompt": "Which Italian wrote The New Science, on cycles of history?",
-     "choices": [
-      "Benedetto Croce",
-      "Giambattista Vico",
-      "Machiavelli",
-      "Cesare Beccaria"
-     ],
-     "answer": "Giambattista Vico",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-311",
-     "prompt": "Which text attributed to Kautilya is a treatise on statecraft?",
-     "choices": [
-      "The Panchatantra",
-      "The Arthashastra",
-      "The Kamasutra",
-      "The Manusmriti"
-     ],
-     "answer": "The Arthashastra",
-     "difficulty": "medium"
     }
    ]
   }

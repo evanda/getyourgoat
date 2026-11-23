@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-021",
-     "prompt": "Which Sophist said that man is the measure of all things?",
+     "id": "tech-253",
+     "prompt": "Who published the first widely accepted periodic table in 1869?",
      "choices": [
-      "Protagoras",
-      "Gorgias",
-      "Parmenides",
-      "Thales"
+      "John Dalton",
+      "Dmitri Mendeleev",
+      "Antoine Lavoisier",
+      "Niels Bohr"
      ],
-     "answer": "Protagoras",
+     "answer": "Dmitri Mendeleev",
      "difficulty": "medium"
     },
     {
-     "id": "phil-054",
-     "prompt": "What was the Buddha's personal name before his awakening?",
+     "id": "tech-193",
+     "prompt": "Which company's Martin Cooper made the first handheld mobile phone call in 1973?",
      "choices": [
-      "Siddhartha Gautama",
-      "Mahavira",
-      "Ashoka",
-      "Nagarjuna"
+      "Nokia",
+      "Ericsson",
+      "Samsung",
+      "Motorola"
      ],
-     "answer": "Siddhartha Gautama",
-     "difficulty": "easy"
+     "answer": "Motorola",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-121",
-     "prompt": "Who wrote The Varieties of Religious Experience?",
+     "id": "tech-081",
+     "prompt": "Nikolaus Otto built the first practical four-stroke what?",
      "choices": [
-      "William James",
-      "John Dewey",
-      "Charles Peirce",
-      "George Santayana"
+      "Internal combustion engine",
+      "Steam turbine",
+      "Jet engine",
+      "Electric motor"
      ],
-     "answer": "William James",
-     "difficulty": "hard"
+     "answer": "Internal combustion engine",
+     "difficulty": "medium"
     }
    ]
   }

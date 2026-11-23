@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-251",
-     "prompt": "Which Indian-born poet-philosopher wrote The Reconstruction of Religious Thought in Islam?",
+     "id": "hard-tech-207",
+     "prompt": "Which institution's supercomputing center released the Mosaic web browser in 1993?",
      "choices": [
-      "Abul Kalam Azad",
-      "Muhammad Iqbal",
-      "Syed Ahmad Khan",
-      "Shah Waliullah"
+      "CERN",
+      "MIT",
+      "Stanford",
+      "NCSA"
      ],
-     "answer": "Muhammad Iqbal",
-     "difficulty": "hard"
+     "answer": "NCSA",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-106",
-     "prompt": "Which English theologian defended Newton's views in a famous correspondence with Leibniz?",
+     "id": "hard-tech-071",
+     "prompt": "Which Sheffield clockmaker developed crucible steel in the 1740s?",
      "choices": [
-      "Richard Bentley",
-      "Joseph Butler",
-      "William Whiston",
-      "Samuel Clarke"
+      "Henry Cort",
+      "Benjamin Huntsman",
+      "Abraham Darby",
+      "Henry Bessemer"
      ],
-     "answer": "Samuel Clarke",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-167",
-     "prompt": "Which phenomenologist, Husserl's assistant, became a Carmelite nun and died at Auschwitz?",
-     "choices": [
-      "Simone Weil",
-      "Gerda Walther",
-      "Hannah Arendt",
-      "Edith Stein"
-     ],
-     "answer": "Edith Stein",
+     "answer": "Benjamin Huntsman",
      "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-257",
+     "prompt": "Which Korean kingdom introduced a standardized rain gauge in 1441?",
+     "choices": [
+      "Baekje",
+      "Silla",
+      "Joseon",
+      "Goryeo"
+     ],
+     "answer": "Joseon",
+     "difficulty": "hard"
     }
    ]
   }

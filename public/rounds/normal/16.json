@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-143",
-     "prompt": "Who asked What Is It Like to Be a Bat?",
+     "id": "tech-267",
+     "prompt": "A nanometre is one what of a metre?",
      "choices": [
-      "Thomas Nagel",
-      "John Searle",
-      "Hilary Putnam",
-      "Daniel Dennett"
+      "Billionth",
+      "Thousandth",
+      "Trillionth",
+      "Millionth"
      ],
-     "answer": "Thomas Nagel",
+     "answer": "Billionth",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-127",
+     "prompt": "Malcolm McLean's 1956 innovation revolutionised shipping with what?",
+     "choices": [
+      "Radar",
+      "Steel hulls",
+      "Nuclear engines",
+      "Standard shipping containers"
+     ],
+     "answer": "Standard shipping containers",
+     "difficulty": "hard"
+    },
+    {
+     "id": "tech-071",
+     "prompt": "Nicolas Appert's early 1800s invention preserved what?",
+     "choices": [
+      "Wood from rot",
+      "Metal from rust",
+      "Food in sealed containers",
+      "Water in bottles"
+     ],
+     "answer": "Food in sealed containers",
      "difficulty": "medium"
-    },
-    {
-     "id": "phil-198",
-     "prompt": "Socrates is most associated with which ancient city?",
-     "choices": [
-      "Athens",
-      "Sparta",
-      "Rome",
-      "Corinth"
-     ],
-     "answer": "Athens",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-175",
-     "prompt": "The word philosophy comes from Greek words meaning what?",
-     "choices": [
-      "Love of wisdom",
-      "Search for truth",
-      "Study of stars",
-      "Art of speech"
-     ],
-     "answer": "Love of wisdom",
-     "difficulty": "easy"
     }
    ]
   }

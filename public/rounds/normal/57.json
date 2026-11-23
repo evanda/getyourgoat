@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-296",
-     "prompt": "The word cynic comes from the Greek for which animal?",
+     "id": "tech-172",
+     "prompt": "LED stands for light-emitting what?",
      "choices": [
-      "Dog",
-      "Horse",
-      "Owl",
-      "Goat"
+      "Diode",
+      "Driver",
+      "Device",
+      "Display"
      ],
-     "answer": "Dog",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-139",
-     "prompt": "Which French thinker wrote Discipline and Punish?",
-     "choices": [
-      "Michel Foucault",
-      "Jacques Derrida",
-      "Gilles Deleuze",
-      "Roland Barthes"
-     ],
-     "answer": "Michel Foucault",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-073",
-     "prompt": "Which term names medieval university philosophy blending faith with Aristotle?",
-     "choices": [
-      "Scholasticism",
-      "Stoicism",
-      "Humanism",
-      "Empiricism"
-     ],
-     "answer": "Scholasticism",
+     "answer": "Diode",
      "difficulty": "easy"
+    },
+    {
+     "id": "tech-145",
+     "prompt": "Which inventor championed alternating current electricity?",
+     "choices": [
+      "Michael Faraday",
+      "Alexander Bell",
+      "Thomas Edison",
+      "Nikola Tesla"
+     ],
+     "answer": "Nikola Tesla",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-273",
+     "prompt": "RFID tags are read using what?",
+     "choices": [
+      "Sound",
+      "Lasers",
+      "Heat",
+      "Radio waves"
+     ],
+     "answer": "Radio waves",
+     "difficulty": "medium"
     }
    ]
   }

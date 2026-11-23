@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-091",
-     "prompt": "Who wrote the Novum Organum?",
+     "id": "tech-116",
+     "prompt": "The International Space Station circles Earth roughly how often?",
      "choices": [
-      "Francis Bacon",
-      "Thomas Hobbes",
-      "John Locke",
-      "Galileo"
+      "Every week",
+      "Every 90 minutes",
+      "Every 10 hours",
+      "Every day"
      ],
-     "answer": "Francis Bacon",
+     "answer": "Every 90 minutes",
      "difficulty": "medium"
     },
     {
-     "id": "phil-219",
-     "prompt": "Which term describes the view that God's existence is unknowable?",
+     "id": "tech-101",
+     "prompt": "Which supersonic airliner flew passengers between 1976 and 2003?",
      "choices": [
-      "Agnosticism",
-      "Atheism",
-      "Pantheism",
-      "Deism"
+      "Airbus A380",
+      "Concorde",
+      "Hindenburg",
+      "Boeing 747"
      ],
-     "answer": "Agnosticism",
-     "difficulty": "medium"
+     "answer": "Concorde",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-184",
-     "prompt": "Phenomenology focuses on what?",
+     "id": "tech-032",
+     "prompt": "Which army's longbowmen won famous battles such as Agincourt?",
      "choices": [
-      "Structures of conscious experience",
-      "The stars",
-      "Moral law",
-      "Political power"
+      "English",
+      "Spanish",
+      "French",
+      "Italian"
      ],
-     "answer": "Structures of conscious experience",
-     "difficulty": "hard"
+     "answer": "English",
+     "difficulty": "easy"
     }
    ]
   }

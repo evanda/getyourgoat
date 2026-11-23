@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-163",
-     "prompt": "Which theory judges actions by the outcomes they produce?",
+     "id": "tech-274",
+     "prompt": "Which Englishman designed the Analytical Engine, a mechanical computer, in the 1830s?",
      "choices": [
-      "Consequentialism",
-      "Deontology",
-      "Stoicism",
-      "Relativism"
+      "Isaac Newton",
+      "Charles Babbage",
+      "Michael Faraday",
+      "Alan Turing"
      ],
-     "answer": "Consequentialism",
+     "answer": "Charles Babbage",
      "difficulty": "medium"
     },
     {
-     "id": "phil-015",
-     "prompt": "Pythagoras is best known for a theorem about which shape?",
+     "id": "tech-260",
+     "prompt": "Theodore Maiman built the first working laser in which decade?",
      "choices": [
-      "Right triangles",
-      "Circles",
-      "Squares",
-      "Spheres"
+      "1960s",
+      "1980s",
+      "1950s",
+      "1930s"
      ],
-     "answer": "Right triangles",
-     "difficulty": "easy"
+     "answer": "1960s",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-129",
-     "prompt": "Who wrote the Tractatus Logico-Philosophicus?",
+     "id": "tech-164",
+     "prompt": "A transformer changes what in an AC circuit?",
      "choices": [
-      "Ludwig Wittgenstein",
-      "Bertrand Russell",
-      "Gottlob Frege",
-      "Rudolf Carnap"
+      "Direction of rotation",
+      "Colour",
+      "Frequency only",
+      "Voltage"
      ],
-     "answer": "Ludwig Wittgenstein",
+     "answer": "Voltage",
      "difficulty": "medium"
     }
    ]

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-180",
-     "prompt": "Which ethics centers on character rather than rules or results?",
+     "id": "tech-169",
+     "prompt": "William Murdoch pioneered lighting buildings with what in the 1790s?",
      "choices": [
-      "Virtue ethics",
-      "Deontology",
-      "Consequentialism",
-      "Egoism"
+      "Whale oil",
+      "Electricity",
+      "Coal gas",
+      "Candles"
      ],
-     "answer": "Virtue ethics",
-     "difficulty": "medium"
+     "answer": "Coal gas",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-195",
-     "prompt": "Which philosopher wrote An Essay Concerning Human Understanding?",
+     "id": "tech-117",
+     "prompt": "Which tunnel opened in 1994 linking England and France by rail?",
      "choices": [
-      "John Locke",
-      "David Hume",
-      "George Berkeley",
-      "Thomas Hobbes"
+      "Mont Blanc Tunnel",
+      "Gotthard Tunnel",
+      "Channel Tunnel",
+      "Seikan Tunnel"
      ],
-     "answer": "John Locke",
-     "difficulty": "medium"
+     "answer": "Channel Tunnel",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-061",
-     "prompt": "The Bhagavad Gita is part of which epic?",
+     "id": "tech-286",
+     "prompt": "Which company did Bill Gates found with Paul Allen in 1975?",
      "choices": [
-      "Mahabharata",
-      "Ramayana",
-      "Iliad",
-      "Gilgamesh"
+      "Intel",
+      "Oracle",
+      "Microsoft",
+      "Apple"
      ],
-     "answer": "Mahabharata",
+     "answer": "Microsoft",
      "difficulty": "easy"
     }
    ]

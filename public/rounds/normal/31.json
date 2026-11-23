@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-194",
-     "prompt": "Which philosopher wrote the Discourse on Method?",
+     "id": "tech-061",
+     "prompt": "The famous Iron Bridge of 1779 spans which English river?",
      "choices": [
-      "Descartes",
-      "Bacon",
-      "Spinoza",
-      "Pascal"
+      "Severn",
+      "Mersey",
+      "Thames",
+      "Tyne"
      ],
-     "answer": "Descartes",
+     "answer": "Severn",
      "difficulty": "medium"
     },
     {
-     "id": "phil-165",
-     "prompt": "Which doctrine says the best action gives the greatest good to the most people?",
+     "id": "tech-294",
+     "prompt": "Which company released ChatGPT in 2022?",
      "choices": [
-      "Utilitarianism",
-      "Stoicism",
-      "Nihilism",
-      "Cynicism"
+      "Microsoft",
+      "Google",
+      "Meta",
+      "OpenAI"
      ],
-     "answer": "Utilitarianism",
+     "answer": "OpenAI",
      "difficulty": "easy"
     },
     {
-     "id": "phil-179",
-     "prompt": "The problem of evil asks why a good God allows what?",
+     "id": "tech-181",
+     "prompt": "Which device displays moving pictures broadcast through the air or cable?",
      "choices": [
-      "Suffering",
-      "Free time",
-      "Science",
-      "Doubt"
+      "Phonograph",
+      "Radiometer",
+      "Telegraph",
+      "Television"
      ],
-     "answer": "Suffering",
+     "answer": "Television",
      "difficulty": "easy"
     }
    ]

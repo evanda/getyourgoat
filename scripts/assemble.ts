@@ -41,12 +41,12 @@ const LEVELS: Record<Level, { first: number; seed: number; trivia: [string, stri
   normal: {
     first: 2, // #1 is the hand-made launch round
     seed: 101,
-    trivia: [['history', 'history'], ['literature', 'literature'], ['earth science', 'earth-science'], ['philosophy', 'philosophy']],
+    trivia: [['history', 'history'], ['literature', 'literature'], ['earth science', 'earth-science'], ['technology', 'technology']],
   },
   hard: {
     first: 1,
     seed: 303,
-    trivia: [['history', 'history'], ['literature', 'literature'], ['earth science', 'earth-science'], ['philosophy', 'philosophy']],
+    trivia: [['history', 'history'], ['literature', 'literature'], ['earth science', 'earth-science'], ['technology', 'technology']],
   },
 };
 

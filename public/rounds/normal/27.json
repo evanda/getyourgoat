@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-167",
-     "prompt": "Which view holds that reason is the main source of knowledge?",
+     "id": "tech-097",
+     "prompt": "Who made the first solo nonstop transatlantic flight in 1927?",
      "choices": [
-      "Rationalism",
-      "Empiricism",
-      "Hedonism",
-      "Nihilism"
+      "Charles Lindbergh",
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Wiley Post"
      ],
-     "answer": "Rationalism",
+     "answer": "Charles Lindbergh",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-168",
+     "prompt": "Which fuel did Britain's Industrial Revolution rely on most?",
+     "choices": [
+      "Nuclear",
+      "Coal",
+      "Wood only",
+      "Natural gas"
+     ],
+     "answer": "Coal",
      "difficulty": "medium"
     },
     {
-     "id": "phil-151",
-     "prompt": "Which thinker's name is linked to Boolean logic?",
+     "id": "tech-070",
+     "prompt": "Which material is made by heating limestone and clay, and is the key ingredient of concrete?",
      "choices": [
-      "George Boole",
-      "Gottlob Frege",
-      "Bertrand Russell",
-      "Giuseppe Peano"
+      "Plaster of Paris",
+      "Cement",
+      "Tar",
+      "Ceramic glaze"
      ],
-     "answer": "George Boole",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-268",
-     "prompt": "Which view holds that reality is fundamentally mental?",
-     "choices": [
-      "Idealism",
-      "Materialism",
-      "Dualism",
-      "Pragmatism"
-     ],
-     "answer": "Idealism",
+     "answer": "Cement",
      "difficulty": "medium"
     }
    ]

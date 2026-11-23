@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-274",
-     "prompt": "Moral relativism says right and wrong depend on what?",
+     "id": "tech-230",
+     "prompt": "Who discovered X-rays in 1895?",
      "choices": [
-      "Culture or viewpoint",
-      "Nature alone",
-      "Logic alone",
-      "The weather"
+      "Marie Curie",
+      "Wilhelm Rontgen",
+      "Albert Einstein",
+      "Alexander Fleming"
      ],
-     "answer": "Culture or viewpoint",
-     "difficulty": "medium"
+     "answer": "Wilhelm Rontgen",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-039",
-     "prompt": "Stoicism takes its name from a Greek word meaning what?",
+     "id": "tech-043",
+     "prompt": "Which Roman architect wrote the ten-book treatise De Architectura?",
      "choices": [
-      "Porch",
-      "Garden",
-      "Cave",
-      "Tower"
+      "Cicero",
+      "Seneca",
+      "Vitruvius",
+      "Pliny"
      ],
-     "answer": "Porch",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-153",
-     "prompt": "Who wrote The Wretched of the Earth?",
-     "choices": [
-      "Frantz Fanon",
-      "Leopold Senghor",
-      "Aime Cesaire",
-      "W. E. B. Du Bois"
-     ],
-     "answer": "Frantz Fanon",
+     "answer": "Vitruvius",
      "difficulty": "hard"
+    },
+    {
+     "id": "tech-202",
+     "prompt": "Which Hungarian-born inventor patented the ballpoint pen in 1938?",
+     "choices": [
+      "Laszlo Biro",
+      "Bic",
+      "Parker",
+      "Waterman"
+     ],
+     "answer": "Laszlo Biro",
+     "difficulty": "medium"
     }
    ]
   }

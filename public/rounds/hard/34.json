@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-228",
-     "prompt": "Which philosopher wrote After Virtue?",
+     "id": "hard-tech-262",
+     "prompt": "On which Greek island did Eupalinos dig a 6th-century BC tunnel from both ends?",
      "choices": [
-      "Alasdair MacIntyre",
-      "Michael Sandel",
-      "Charles Taylor",
-      "Bernard Williams"
+      "Rhodes",
+      "Samos",
+      "Lesbos",
+      "Crete"
      ],
-     "answer": "Alasdair MacIntyre",
+     "answer": "Samos",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-252",
+     "prompt": "Which Han official used water-powered bellows in iron smelting in AD 31?",
+     "choices": [
+      "Ma Jun",
+      "Cai Lun",
+      "Du Shi",
+      "Zhang Heng"
+     ],
+     "answer": "Du Shi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-006",
+     "prompt": "Which Roman wrote the treatise De architectura around 25 BC?",
+     "choices": [
+      "Frontinus",
+      "Columella",
+      "Apollodorus of Damascus",
+      "Vitruvius"
+     ],
+     "answer": "Vitruvius",
      "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-140",
-     "prompt": "Which philosopher wrote The Ego and Its Own?",
-     "choices": [
-      "Bruno Bauer",
-      "Ludwig Feuerbach",
-      "Moses Hess",
-      "Max Stirner"
-     ],
-     "answer": "Max Stirner",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-258",
-     "prompt": "Which Senegalese poet-president helped develop negritude?",
-     "choices": [
-      "Aime Cesaire",
-      "Leopold Senghor",
-      "Abdoulaye Wade",
-      "Cheikh Anta Diop"
-     ],
-     "answer": "Leopold Senghor",
-     "difficulty": "medium"
     }
    ]
   }

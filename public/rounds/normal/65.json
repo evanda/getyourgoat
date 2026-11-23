@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-042",
-     "prompt": "Which Greek philosopher wrote the Poetics, on tragedy?",
+     "id": "tech-129",
+     "prompt": "Radar locates objects by bouncing what off them?",
      "choices": [
-      "Aristotle",
-      "Plato",
-      "Sophocles",
-      "Epicurus"
+      "X-rays",
+      "Sound waves",
+      "Radio waves",
+      "Light beams"
      ],
-     "answer": "Aristotle",
-     "difficulty": "medium"
+     "answer": "Radio waves",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-222",
-     "prompt": "Which method refutes a claim by showing it leads to absurdity?",
+     "id": "tech-044",
+     "prompt": "The Great Wall of China was mainly built to defend against whom?",
      "choices": [
-      "Reductio ad absurdum",
-      "Modus ponens",
-      "Ad hominem",
-      "Slippery slope"
+      "Southern kingdoms",
+      "Roman legions",
+      "Northern nomadic raiders",
+      "Sea pirates"
      ],
-     "answer": "Reductio ad absurdum",
-     "difficulty": "medium"
+     "answer": "Northern nomadic raiders",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-125",
-     "prompt": "Who wrote The Second Sex?",
+     "id": "tech-155",
+     "prompt": "Which element is used in most solar cells?",
      "choices": [
-      "Simone de Beauvoir",
-      "Hannah Arendt",
-      "Simone Weil",
-      "Jean-Paul Sartre"
+      "Carbon",
+      "Copper",
+      "Silicon",
+      "Lead"
      ],
-     "answer": "Simone de Beauvoir",
+     "answer": "Silicon",
      "difficulty": "easy"
     }
    ]

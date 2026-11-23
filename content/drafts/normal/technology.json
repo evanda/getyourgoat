@@ -1,0 +1,4097 @@
+[
+ {
+  "id": "tech-001",
+  "prompt": "What was a battering ram built to break down?",
+  "choices": [
+   "Siege towers",
+   "Enemy ships",
+   "Castle gates and walls",
+   "River dams"
+  ],
+  "answer": "Castle gates and walls",
+  "difficulty": "easy",
+  "topic": "battering-ram"
+ },
+ {
+  "id": "tech-002",
+  "prompt": "What did a medieval trebuchet do?",
+  "choices": [
+   "Tunnelled under walls",
+   "Sprayed fire from tubes",
+   "Rolled out as a shield",
+   "Hurled huge stones at walls"
+  ],
+  "answer": "Hurled huge stones at walls",
+  "difficulty": "easy",
+  "topic": "trebuchet"
+ },
+ {
+  "id": "tech-003",
+  "prompt": "What natural force turns a water wheel?",
+  "choices": [
+   "Wind",
+   "Flowing water",
+   "Magnetism",
+   "Steam"
+  ],
+  "answer": "Flowing water",
+  "difficulty": "easy",
+  "topic": "water-wheel"
+ },
+ {
+  "id": "tech-004",
+  "prompt": "What did Roman aqueducts carry?",
+  "choices": [
+   "Mail",
+   "Soldiers",
+   "Water",
+   "Grain"
+  ],
+  "answer": "Water",
+  "difficulty": "easy",
+  "topic": "roman-aqueduct"
+ },
+ {
+  "id": "tech-005",
+  "prompt": "Which farm tool turns over soil in rows before planting?",
+  "choices": [
+   "Flail",
+   "Plough",
+   "Sickle",
+   "Rake"
+  ],
+  "answer": "Plough",
+  "difficulty": "easy",
+  "topic": "plough"
+ },
+ {
+  "id": "tech-006",
+  "prompt": "The stirrup mainly helped a rider to do what?",
+  "choices": [
+   "Pull a plough",
+   "Climb a wall",
+   "Stay steady on a horse",
+   "Steer a ship"
+  ],
+  "answer": "Stay steady on a horse",
+  "difficulty": "medium",
+  "topic": "stirrup"
+ },
+ {
+  "id": "tech-007",
+  "prompt": "Which country first developed the magnetic compass?",
+  "choices": [
+   "Greece",
+   "Portugal",
+   "Egypt",
+   "China"
+  ],
+  "answer": "China",
+  "difficulty": "medium",
+  "topic": "compass-origin"
+ },
+ {
+  "id": "tech-008",
+  "prompt": "Which Chinese craftsman made the first movable type, around 1040?",
+  "choices": [
+   "Shen Kuo",
+   "Bi Sheng",
+   "Zhang Heng",
+   "Cai Lun"
+  ],
+  "answer": "Bi Sheng",
+  "difficulty": "hard",
+  "topic": "bi-sheng"
+ },
+ {
+  "id": "tech-009",
+  "prompt": "Which country first invented paper?",
+  "choices": [
+   "Egypt",
+   "Greece",
+   "China",
+   "India"
+  ],
+  "answer": "China",
+  "difficulty": "easy",
+  "topic": "paper-origin"
+ },
+ {
+  "id": "tech-010",
+  "prompt": "Archimedes' screw was used to raise what?",
+  "choices": [
+   "Grain",
+   "Fire",
+   "Heavy stones",
+   "Water"
+  ],
+  "answer": "Water",
+  "difficulty": "medium",
+  "topic": "archimedes-screw"
+ },
+ {
+  "id": "tech-011",
+  "prompt": "Which Greek thinker is linked to the saying 'give me a lever and I will move the world'?",
+  "choices": [
+   "Euclid",
+   "Archimedes",
+   "Aristotle",
+   "Plato"
+  ],
+  "answer": "Archimedes",
+  "difficulty": "easy",
+  "topic": "archimedes-lever"
+ },
+ {
+  "id": "tech-012",
+  "prompt": "The ancient Greek Antikythera mechanism modelled what?",
+  "choices": [
+   "Harvest seasons",
+   "Ocean tides",
+   "Earthquake zones",
+   "Movements of sun, moon and planets"
+  ],
+  "answer": "Movements of sun, moon and planets",
+  "difficulty": "hard",
+  "topic": "antikythera"
+ },
+ {
+  "id": "tech-013",
+  "prompt": "Which ancient people built the Pantheon's huge concrete dome?",
+  "choices": [
+   "Persians",
+   "Egyptians",
+   "Romans",
+   "Greeks"
+  ],
+  "answer": "Romans",
+  "difficulty": "easy",
+  "topic": "roman-concrete"
+ },
+ {
+  "id": "tech-014",
+  "prompt": "Which empire used the fire weapon known as Greek fire?",
+  "choices": [
+   "Roman Republic",
+   "Mongol Empire",
+   "Byzantine Empire",
+   "Ottoman Empire"
+  ],
+  "answer": "Byzantine Empire",
+  "difficulty": "hard",
+  "topic": "greek-fire"
+ },
+ {
+  "id": "tech-015",
+  "prompt": "A sundial tells the time using what?",
+  "choices": [
+   "Falling sand",
+   "A swinging pendulum",
+   "Dripping water",
+   "The sun's shadow"
+  ],
+  "answer": "The sun's shadow",
+  "difficulty": "easy",
+  "topic": "sundial"
+ },
+ {
+  "id": "tech-016",
+  "prompt": "An ancient clepsydra measured time using what?",
+  "choices": [
+   "Flowing water",
+   "Burning oil",
+   "Falling sand",
+   "Moving shadow"
+  ],
+  "answer": "Flowing water",
+  "difficulty": "medium",
+  "topic": "clepsydra"
+ },
+ {
+  "id": "tech-017",
+  "prompt": "What powered early European mechanical clocks?",
+  "choices": [
+   "Falling weights",
+   "Water jets",
+   "Electric motors",
+   "Steam"
+  ],
+  "answer": "Falling weights",
+  "difficulty": "hard",
+  "topic": "medieval-clock"
+ },
+ {
+  "id": "tech-018",
+  "prompt": "Windmills were first widely used to do what?",
+  "choices": [
+   "Generate electricity",
+   "Grind grain",
+   "Spin cotton",
+   "Cut timber"
+  ],
+  "answer": "Grind grain",
+  "difficulty": "easy",
+  "topic": "windmill-use"
+ },
+ {
+  "id": "tech-019",
+  "prompt": "Which country is famous for windmills that drained low-lying land?",
+  "choices": [
+   "Switzerland",
+   "Netherlands",
+   "Egypt",
+   "Spain"
+  ],
+  "answer": "Netherlands",
+  "difficulty": "easy",
+  "topic": "dutch-windmill"
+ },
+ {
+  "id": "tech-020",
+  "prompt": "In which country were the first wearable eyeglasses made around 1286?",
+  "choices": [
+   "China",
+   "England",
+   "Germany",
+   "Italy"
+  ],
+  "answer": "Italy",
+  "difficulty": "hard",
+  "topic": "eyeglasses"
+ },
+ {
+  "id": "tech-021",
+  "prompt": "Sailors and astronomers used an astrolabe to measure what?",
+  "choices": [
+   "Height of stars above the horizon",
+   "Ocean depth",
+   "Wind speed",
+   "Ship weight"
+  ],
+  "answer": "Height of stars above the horizon",
+  "difficulty": "medium",
+  "topic": "astrolabe"
+ },
+ {
+  "id": "tech-022",
+  "prompt": "Which small, nimble ship type did Portuguese explorers favour in the 1400s?",
+  "choices": [
+   "Trireme",
+   "Caravel",
+   "Galleon",
+   "Longship"
+  ],
+  "answer": "Caravel",
+  "difficulty": "medium",
+  "topic": "caravel"
+ },
+ {
+  "id": "tech-023",
+  "prompt": "The ancient Pharos of Alexandria was what kind of structure?",
+  "choices": [
+   "A library",
+   "A palace",
+   "A bridge",
+   "A lighthouse"
+  ],
+  "answer": "A lighthouse",
+  "difficulty": "easy",
+  "topic": "pharos"
+ },
+ {
+  "id": "tech-024",
+  "prompt": "Which empire built a vast network of paved roads across Europe?",
+  "choices": [
+   "Persian Empire",
+   "Roman Empire",
+   "Mongol Empire",
+   "Ottoman Empire"
+  ],
+  "answer": "Roman Empire",
+  "difficulty": "easy",
+  "topic": "roman-roads"
+ },
+ {
+  "id": "tech-025",
+  "prompt": "Which Chinese dynasty united earlier waterways into the Grand Canal around 600 AD?",
+  "choices": [
+   "Ming",
+   "Sui",
+   "Qin",
+   "Tang"
+  ],
+  "answer": "Sui",
+  "difficulty": "hard",
+  "topic": "grand-canal"
+ },
+ {
+  "id": "tech-026",
+  "prompt": "Zhang Heng's seismoscope of 132 AD was designed to detect what?",
+  "choices": [
+   "Floods",
+   "Storms",
+   "Eclipses",
+   "Earthquakes"
+  ],
+  "answer": "Earthquakes",
+  "difficulty": "hard",
+  "topic": "zhang-heng"
+ },
+ {
+  "id": "tech-027",
+  "prompt": "Which counting tool uses beads that slide on rods?",
+  "choices": [
+   "Abacus",
+   "Sextant",
+   "Slide rule",
+   "Astrolabe"
+  ],
+  "answer": "Abacus",
+  "difficulty": "easy",
+  "topic": "abacus"
+ },
+ {
+  "id": "tech-028",
+  "prompt": "Chainmail armour is made from what?",
+  "choices": [
+   "Linked metal rings",
+   "Leather strips",
+   "Metal plates",
+   "Woven wool"
+  ],
+  "answer": "Linked metal rings",
+  "difficulty": "easy",
+  "topic": "chainmail"
+ },
+ {
+  "id": "tech-029",
+  "prompt": "Bronze is mostly copper mixed with which metal?",
+  "choices": [
+   "Lead",
+   "Zinc",
+   "Silver",
+   "Tin"
+  ],
+  "answer": "Tin",
+  "difficulty": "easy",
+  "topic": "bronze-alloy"
+ },
+ {
+  "id": "tech-030",
+  "prompt": "Steel is iron combined with a small amount of which element?",
+  "choices": [
+   "Oxygen",
+   "Carbon",
+   "Nitrogen",
+   "Sulfur"
+  ],
+  "answer": "Carbon",
+  "difficulty": "medium",
+  "topic": "steel-carbon"
+ },
+ {
+  "id": "tech-031",
+  "prompt": "Glass is mainly made by melting what?",
+  "choices": [
+   "Salt",
+   "Clay",
+   "Limestone chunks",
+   "Sand"
+  ],
+  "answer": "Sand",
+  "difficulty": "easy",
+  "topic": "glass-sand"
+ },
+ {
+  "id": "tech-032",
+  "prompt": "Which army's longbowmen won famous battles such as Agincourt?",
+  "choices": [
+   "English",
+   "Spanish",
+   "French",
+   "Italian"
+  ],
+  "answer": "English",
+  "difficulty": "easy",
+  "topic": "longbow"
+ },
+ {
+  "id": "tech-033",
+  "prompt": "What advantage did a crossbow have over a longbow?",
+  "choices": [
+   "Lighter weight",
+   "Longer range",
+   "Needed less training to use",
+   "Faster firing"
+  ],
+  "answer": "Needed less training to use",
+  "difficulty": "medium",
+  "topic": "crossbow-use"
+ },
+ {
+  "id": "tech-034",
+  "prompt": "Roman and Greek engineers used catapults to launch what?",
+  "choices": [
+   "Ships into water",
+   "Messages to allies",
+   "Projectiles at enemies",
+   "Water into fields"
+  ],
+  "answer": "Projectiles at enemies",
+  "difficulty": "easy",
+  "topic": "catapult"
+ },
+ {
+  "id": "tech-035",
+  "prompt": "What was a medieval siege tower used for?",
+  "choices": [
+   "Spotting ships",
+   "Storing grain",
+   "Getting soldiers over walls",
+   "Grinding flour"
+  ],
+  "answer": "Getting soldiers over walls",
+  "difficulty": "medium",
+  "topic": "siege-tower"
+ },
+ {
+  "id": "tech-036",
+  "prompt": "Horseshoes were nailed to horses to protect what?",
+  "choices": [
+   "Their legs from wolves",
+   "Their tails",
+   "Their hooves",
+   "Their saddles"
+  ],
+  "answer": "Their hooves",
+  "difficulty": "easy",
+  "topic": "horseshoe"
+ },
+ {
+  "id": "tech-037",
+  "prompt": "The heavy wheeled plough helped medieval farmers work what kind of land?",
+  "choices": [
+   "Heavy clay soil",
+   "Frozen tundra",
+   "Desert sand",
+   "Rocky mountain slopes"
+  ],
+  "answer": "Heavy clay soil",
+  "difficulty": "medium",
+  "topic": "heavy-plough"
+ },
+ {
+  "id": "tech-038",
+  "prompt": "The noria was an ancient device that lifted what?",
+  "choices": [
+   "Ship cargo",
+   "Stone blocks",
+   "Grain sacks",
+   "Water for irrigation"
+  ],
+  "answer": "Water for irrigation",
+  "difficulty": "hard",
+  "topic": "noria"
+ },
+ {
+  "id": "tech-039",
+  "prompt": "The spinning wheel is used to turn fibre into what?",
+  "choices": [
+   "Thread or yarn",
+   "Paper",
+   "Rope for ships",
+   "Glass"
+  ],
+  "answer": "Thread or yarn",
+  "difficulty": "easy",
+  "topic": "spinning-wheel"
+ },
+ {
+  "id": "tech-040",
+  "prompt": "Which ingredient of gunpowder is also called saltpetre?",
+  "choices": [
+   "Potassium nitrate",
+   "Charcoal",
+   "Iron oxide",
+   "Sulfur"
+  ],
+  "answer": "Potassium nitrate",
+  "difficulty": "medium",
+  "topic": "gunpowder-ingredients"
+ },
+ {
+  "id": "tech-041",
+  "prompt": "Cannons became decisive in 1453 when Ottoman guns broke the walls of which city?",
+  "choices": [
+   "Constantinople",
+   "Vienna",
+   "Rome",
+   "Athens"
+  ],
+  "answer": "Constantinople",
+  "difficulty": "medium",
+  "topic": "cannon-use"
+ },
+ {
+  "id": "tech-042",
+  "prompt": "Which numbers did Europe adopt from Arab scholars, which came from India?",
+  "choices": [
+   "Egyptian numerals",
+   "Greek numerals",
+   "Hindu-Arabic numerals",
+   "Roman numerals"
+  ],
+  "answer": "Hindu-Arabic numerals",
+  "difficulty": "medium",
+  "topic": "arabic-numerals"
+ },
+ {
+  "id": "tech-043",
+  "prompt": "Which Roman architect wrote the ten-book treatise De Architectura?",
+  "choices": [
+   "Cicero",
+   "Seneca",
+   "Vitruvius",
+   "Pliny"
+  ],
+  "answer": "Vitruvius",
+  "difficulty": "hard",
+  "topic": "vitruvius"
+ },
+ {
+  "id": "tech-044",
+  "prompt": "The Great Wall of China was mainly built to defend against whom?",
+  "choices": [
+   "Southern kingdoms",
+   "Roman legions",
+   "Northern nomadic raiders",
+   "Sea pirates"
+  ],
+  "answer": "Northern nomadic raiders",
+  "difficulty": "easy",
+  "topic": "great-wall-purpose"
+ },
+ {
+  "id": "tech-045",
+  "prompt": "What gave Viking longships their ability to land directly on beaches?",
+  "choices": [
+   "Shallow keels",
+   "Heavy cannon",
+   "Metal hulls",
+   "Steam engines"
+  ],
+  "answer": "Shallow keels",
+  "difficulty": "medium",
+  "topic": "viking-longship"
+ },
+ {
+  "id": "tech-046",
+  "prompt": "What did the printing press make cheaper and more widespread?",
+  "choices": [
+   "Clothing",
+   "Medicine",
+   "Weapons",
+   "Books"
+  ],
+  "answer": "Books",
+  "difficulty": "easy",
+  "topic": "printing-press-effect"
+ },
+ {
+  "id": "tech-047",
+  "prompt": "The Roman Barbegal complex in France was a large ancient what?",
+  "choices": [
+   "Watermill grain-grinding site",
+   "Iron smelter",
+   "Aqueduct pump",
+   "Glassworks"
+  ],
+  "answer": "Watermill grain-grinding site",
+  "difficulty": "hard",
+  "topic": "ancient-hydraulic-mill"
+ },
+ {
+  "id": "tech-048",
+  "prompt": "Which scholar wrote the 11th-century Book of Optics?",
+  "choices": [
+   "Omar Khayyam",
+   "Ibn al-Haytham",
+   "Avicenna",
+   "Al-Khwarizmi"
+  ],
+  "answer": "Ibn al-Haytham",
+  "difficulty": "hard",
+  "topic": "lenses-ibn-alhaytham"
+ },
+ {
+  "id": "tech-049",
+  "prompt": "Who patented the cotton gin in 1794?",
+  "choices": [
+   "Eli Whitney",
+   "Samuel Morse",
+   "Robert Fulton",
+   "Cyrus McCormick"
+  ],
+  "answer": "Eli Whitney",
+  "difficulty": "easy",
+  "topic": "cotton-gin"
+ },
+ {
+  "id": "tech-050",
+  "prompt": "What did the cotton gin separate from cotton fibres?",
+  "choices": [
+   "Seeds",
+   "Dye",
+   "Dirt",
+   "Water"
+  ],
+  "answer": "Seeds",
+  "difficulty": "easy",
+  "topic": "cotton-gin-use"
+ },
+ {
+  "id": "tech-051",
+  "prompt": "Whose 1712 atmospheric engine pumped water from mines?",
+  "choices": [
+   "George Stephenson",
+   "Richard Trevithick",
+   "James Watt",
+   "Thomas Newcomen"
+  ],
+  "answer": "Thomas Newcomen",
+  "difficulty": "medium",
+  "topic": "newcomen"
+ },
+ {
+  "id": "tech-052",
+  "prompt": "In which century did steam engines begin powering factories in Britain?",
+  "choices": [
+   "15th century",
+   "20th century",
+   "12th century",
+   "18th century"
+  ],
+  "answer": "18th century",
+  "difficulty": "easy",
+  "topic": "steam-century"
+ },
+ {
+  "id": "tech-053",
+  "prompt": "Which weaving device, patented by John Kay in 1733, sped up cloth making?",
+  "choices": [
+   "Water frame",
+   "Flying shuttle",
+   "Power loom",
+   "Spinning jenny"
+  ],
+  "answer": "Flying shuttle",
+  "difficulty": "medium",
+  "topic": "flying-shuttle"
+ },
+ {
+  "id": "tech-054",
+  "prompt": "Who invented the spinning jenny around 1764?",
+  "choices": [
+   "Edmund Cartwright",
+   "Samuel Crompton",
+   "Richard Arkwright",
+   "James Hargreaves"
+  ],
+  "answer": "James Hargreaves",
+  "difficulty": "medium",
+  "topic": "spinning-jenny"
+ },
+ {
+  "id": "tech-055",
+  "prompt": "Who patented the first power loom in 1785?",
+  "choices": [
+   "John Kay",
+   "Eli Whitney",
+   "Joseph Jacquard",
+   "Edmund Cartwright"
+  ],
+  "answer": "Edmund Cartwright",
+  "difficulty": "hard",
+  "topic": "power-loom"
+ },
+ {
+  "id": "tech-056",
+  "prompt": "The Jacquard loom of 1804 used what to control patterns?",
+  "choices": [
+   "Steam jets",
+   "Pedals",
+   "Magnets",
+   "Punched cards"
+  ],
+  "answer": "Punched cards",
+  "difficulty": "hard",
+  "topic": "jacquard"
+ },
+ {
+  "id": "tech-057",
+  "prompt": "Who built the famous locomotive Rocket in 1829?",
+  "choices": [
+   "Isambard Brunel",
+   "James Watt",
+   "Thomas Edison",
+   "George and Robert Stephenson"
+  ],
+  "answer": "George and Robert Stephenson",
+  "difficulty": "easy",
+  "topic": "stephenson"
+ },
+ {
+  "id": "tech-058",
+  "prompt": "Which country opened the first public steam railways in the 1820s?",
+  "choices": [
+   "England",
+   "United States",
+   "Germany",
+   "France"
+  ],
+  "answer": "England",
+  "difficulty": "medium",
+  "topic": "first-railway"
+ },
+ {
+  "id": "tech-059",
+  "prompt": "Which Cornish engineer ran the first steam railway locomotive in 1804?",
+  "choices": [
+   "Richard Trevithick",
+   "George Stephenson",
+   "William Murdoch",
+   "Thomas Newcomen"
+  ],
+  "answer": "Richard Trevithick",
+  "difficulty": "hard",
+  "topic": "trevithick"
+ },
+ {
+  "id": "tech-060",
+  "prompt": "The Bessemer process of the 1850s made large quantities of what cheaply?",
+  "choices": [
+   "Glass",
+   "Cement",
+   "Steel",
+   "Paper"
+  ],
+  "answer": "Steel",
+  "difficulty": "medium",
+  "topic": "bessemer"
+ },
+ {
+  "id": "tech-061",
+  "prompt": "The famous Iron Bridge of 1779 spans which English river?",
+  "choices": [
+   "Severn",
+   "Mersey",
+   "Thames",
+   "Tyne"
+  ],
+  "answer": "Severn",
+  "difficulty": "medium",
+  "topic": "iron-bridge"
+ },
+ {
+  "id": "tech-062",
+  "prompt": "Humphry Davy's 1815 safety lamp protected which workers?",
+  "choices": [
+   "Lighthouse keepers",
+   "Coal miners",
+   "Sailors",
+   "Soldiers"
+  ],
+  "answer": "Coal miners",
+  "difficulty": "medium",
+  "topic": "safety-lamp"
+ },
+ {
+  "id": "tech-063",
+  "prompt": "Samuel Colt patented which firearm design in 1836?",
+  "choices": [
+   "Musket",
+   "Crossbow",
+   "Revolver",
+   "Machine gun"
+  ],
+  "answer": "Revolver",
+  "difficulty": "hard",
+  "topic": "colt-revolver"
+ },
+ {
+  "id": "tech-064",
+  "prompt": "Who patented a practical lockstitch sewing machine in 1846?",
+  "choices": [
+   "Charles Goodyear",
+   "Elias Howe",
+   "Isaac Singer",
+   "Walter Hunt"
+  ],
+  "answer": "Elias Howe",
+  "difficulty": "medium",
+  "topic": "sewing-machine"
+ },
+ {
+  "id": "tech-065",
+  "prompt": "Charles Goodyear is known for developing which improved material?",
+  "choices": [
+   "Nylon",
+   "Plastic",
+   "Concrete",
+   "Vulcanized rubber"
+  ],
+  "answer": "Vulcanized rubber",
+  "difficulty": "easy",
+  "topic": "vulcanized"
+ },
+ {
+  "id": "tech-066",
+  "prompt": "Cyrus McCormick is known for his mechanical what?",
+  "choices": [
+   "Plough",
+   "Reaper",
+   "Telegraph",
+   "Loom"
+  ],
+  "answer": "Reaper",
+  "difficulty": "medium",
+  "topic": "reaper"
+ },
+ {
+  "id": "tech-067",
+  "prompt": "Which carmaker introduced the moving assembly line in 1913?",
+  "choices": [
+   "General Motors",
+   "Ford",
+   "Toyota",
+   "Chrysler"
+  ],
+  "answer": "Ford",
+  "difficulty": "medium",
+  "topic": "assembly-line"
+ },
+ {
+  "id": "tech-068",
+  "prompt": "Which Ford car, launched in 1908, made car ownership common?",
+  "choices": [
+   "Model T",
+   "Mustang",
+   "Thunderbird",
+   "Beetle"
+  ],
+  "answer": "Model T",
+  "difficulty": "easy",
+  "topic": "model-t"
+ },
+ {
+  "id": "tech-069",
+  "prompt": "Who invented dynamite in 1867?",
+  "choices": [
+   "Isaac Newton",
+   "Alfred Nobel",
+   "Louis Pasteur",
+   "Ascanio Sobrero"
+  ],
+  "answer": "Alfred Nobel",
+  "difficulty": "hard",
+  "topic": "dynamite"
+ },
+ {
+  "id": "tech-070",
+  "prompt": "Which material is made by heating limestone and clay, and is the key ingredient of concrete?",
+  "choices": [
+   "Plaster of Paris",
+   "Cement",
+   "Tar",
+   "Ceramic glaze"
+  ],
+  "answer": "Cement",
+  "difficulty": "medium",
+  "topic": "portland-cement"
+ },
+ {
+  "id": "tech-071",
+  "prompt": "Nicolas Appert's early 1800s invention preserved what?",
+  "choices": [
+   "Wood from rot",
+   "Metal from rust",
+   "Food in sealed containers",
+   "Water in bottles"
+  ],
+  "answer": "Food in sealed containers",
+  "difficulty": "medium",
+  "topic": "canning"
+ },
+ {
+  "id": "tech-072",
+  "prompt": "Pasteurisation is routinely used to make which drink safer?",
+  "choices": [
+   "Coffee",
+   "Mineral water",
+   "Milk",
+   "Tea"
+  ],
+  "answer": "Milk",
+  "difficulty": "medium",
+  "topic": "pasteurization"
+ },
+ {
+  "id": "tech-073",
+  "prompt": "The Erie Canal of 1825 linked the Hudson River with which body of water?",
+  "choices": [
+   "Lake Superior",
+   "Lake Erie",
+   "Chesapeake Bay",
+   "Gulf of Mexico"
+  ],
+  "answer": "Lake Erie",
+  "difficulty": "medium",
+  "topic": "erie-canal"
+ },
+ {
+  "id": "tech-074",
+  "prompt": "The Suez Canal links the Mediterranean with which sea?",
+  "choices": [
+   "Arabian Sea",
+   "Caspian Sea",
+   "Black Sea",
+   "Red Sea"
+  ],
+  "answer": "Red Sea",
+  "difficulty": "easy",
+  "topic": "suez-canal"
+ },
+ {
+  "id": "tech-075",
+  "prompt": "Which canal, opened in 1914, links the Atlantic and Pacific oceans?",
+  "choices": [
+   "Erie Canal",
+   "Suez Canal",
+   "Panama Canal",
+   "Kiel Canal"
+  ],
+  "answer": "Panama Canal",
+  "difficulty": "easy",
+  "topic": "panama-canal"
+ },
+ {
+  "id": "tech-076",
+  "prompt": "Robert Fulton's Clermont of 1807 was a successful what?",
+  "choices": [
+   "Steamboat",
+   "Submarine",
+   "Airship",
+   "Locomotive"
+  ],
+  "answer": "Steamboat",
+  "difficulty": "easy",
+  "topic": "steamboat-fulton"
+ },
+ {
+  "id": "tech-077",
+  "prompt": "Which engineer designed the iron steamship SS Great Britain?",
+  "choices": [
+   "George Stephenson",
+   "Joseph Bazalgette",
+   "Isambard Kingdom Brunel",
+   "Thomas Telford"
+  ],
+  "answer": "Isambard Kingdom Brunel",
+  "difficulty": "medium",
+  "topic": "brunel-ss-great-britain"
+ },
+ {
+  "id": "tech-078",
+  "prompt": "Ships in the 1800s switched from paddle wheels to what for propulsion?",
+  "choices": [
+   "Oars",
+   "Sails",
+   "Jet engines",
+   "Screw propellers"
+  ],
+  "answer": "Screw propellers",
+  "difficulty": "medium",
+  "topic": "screw-propeller"
+ },
+ {
+  "id": "tech-079",
+  "prompt": "Which ocean liner sank on its 1912 maiden voyage?",
+  "choices": [
+   "Queen Mary",
+   "Titanic",
+   "Bismarck",
+   "Lusitania"
+  ],
+  "answer": "Titanic",
+  "difficulty": "easy",
+  "topic": "titanic"
+ },
+ {
+  "id": "tech-080",
+  "prompt": "Which German engineer patented the diesel engine in 1892?",
+  "choices": [
+   "Karl Benz",
+   "Rudolf Diesel",
+   "Nikolaus Otto",
+   "Gottlieb Daimler"
+  ],
+  "answer": "Rudolf Diesel",
+  "difficulty": "medium",
+  "topic": "diesel-engine"
+ },
+ {
+  "id": "tech-081",
+  "prompt": "Nikolaus Otto built the first practical four-stroke what?",
+  "choices": [
+   "Internal combustion engine",
+   "Steam turbine",
+   "Jet engine",
+   "Electric motor"
+  ],
+  "answer": "Internal combustion engine",
+  "difficulty": "medium",
+  "topic": "otto-engine"
+ },
+ {
+  "id": "tech-082",
+  "prompt": "Karl Benz is credited with building the first practical what?",
+  "choices": [
+   "Aeroplane",
+   "Train",
+   "Bicycle",
+   "Petrol-powered automobile"
+  ],
+  "answer": "Petrol-powered automobile",
+  "difficulty": "easy",
+  "topic": "benz-car"
+ },
+ {
+  "id": "tech-083",
+  "prompt": "John Boyd Dunlop's 1888 invention improved what?",
+  "choices": [
+   "Brake pads",
+   "Bicycle tyres",
+   "Chain drives",
+   "Handlebars"
+  ],
+  "answer": "Bicycle tyres",
+  "difficulty": "medium",
+  "topic": "pneumatic-tyre"
+ },
+ {
+  "id": "tech-084",
+  "prompt": "Which metal is liquid at room temperature and was used in old thermometers?",
+  "choices": [
+   "Tin",
+   "Lead",
+   "Mercury",
+   "Zinc"
+  ],
+  "answer": "Mercury",
+  "difficulty": "medium",
+  "topic": "mercury-liquid"
+ },
+ {
+  "id": "tech-085",
+  "prompt": "Which Italian astronomer improved the telescope and saw Jupiter's moons in 1610?",
+  "choices": [
+   "Copernicus",
+   "Isaac Newton",
+   "Galileo Galilei",
+   "Johannes Kepler"
+  ],
+  "answer": "Galileo Galilei",
+  "difficulty": "easy",
+  "topic": "telescope-galileo"
+ },
+ {
+  "id": "tech-086",
+  "prompt": "Who built the first practical reflecting telescope in 1668?",
+  "choices": [
+   "Robert Hooke",
+   "Isaac Newton",
+   "Galileo Galilei",
+   "Edmond Halley"
+  ],
+  "answer": "Isaac Newton",
+  "difficulty": "medium",
+  "topic": "reflecting-telescope"
+ },
+ {
+  "id": "tech-087",
+  "prompt": "John Harrison's chronometer solved which sea navigation problem?",
+  "choices": [
+   "Measuring depth",
+   "Avoiding icebergs",
+   "Finding longitude",
+   "Finding latitude"
+  ],
+  "answer": "Finding longitude",
+  "difficulty": "medium",
+  "topic": "marine-chronometer"
+ },
+ {
+  "id": "tech-088",
+  "prompt": "Which Dutch scientist built the first pendulum clock in 1656?",
+  "choices": [
+   "Willem Janszoon",
+   "Antonie van Leeuwenhoek",
+   "Hans Lippershey",
+   "Christiaan Huygens"
+  ],
+  "answer": "Christiaan Huygens",
+  "difficulty": "hard",
+  "topic": "pendulum-clock"
+ },
+ {
+  "id": "tech-089",
+  "prompt": "Which Dutch lens-maker saw tiny 'animalcules' with his microscopes in the 1670s?",
+  "choices": [
+   "Antonie van Leeuwenhoek",
+   "Galileo",
+   "Robert Hooke",
+   "Christiaan Huygens"
+  ],
+  "answer": "Antonie van Leeuwenhoek",
+  "difficulty": "easy",
+  "topic": "microscope-leeuw"
+ },
+ {
+  "id": "tech-090",
+  "prompt": "Which German physicist introduced the mercury thermometer in the early 1700s?",
+  "choices": [
+   "Anders Celsius",
+   "Isaac Newton",
+   "Daniel Fahrenheit",
+   "Lord Kelvin"
+  ],
+  "answer": "Daniel Fahrenheit",
+  "difficulty": "medium",
+  "topic": "mercury-thermometer"
+ },
+ {
+  "id": "tech-091",
+  "prompt": "Evangelista Torricelli invented the first what in 1643?",
+  "choices": [
+   "Thermometer",
+   "Hygrometer",
+   "Telescope",
+   "Barometer"
+  ],
+  "answer": "Barometer",
+  "difficulty": "hard",
+  "topic": "barometer"
+ },
+ {
+  "id": "tech-092",
+  "prompt": "Which American statesman invented the lightning rod?",
+  "choices": [
+   "Samuel Morse",
+   "Benjamin Franklin",
+   "Eli Whitney",
+   "Thomas Edison"
+  ],
+  "answer": "Benjamin Franklin",
+  "difficulty": "easy",
+  "topic": "lightning-rod"
+ },
+ {
+  "id": "tech-093",
+  "prompt": "Which two French brothers launched the first hot-air balloon flight in 1783?",
+  "choices": [
+   "Wright brothers",
+   "Goodyear brothers",
+   "Montgolfier brothers",
+   "Lumiere brothers"
+  ],
+  "answer": "Montgolfier brothers",
+  "difficulty": "easy",
+  "topic": "hot-air-balloon"
+ },
+ {
+  "id": "tech-094",
+  "prompt": "Edward Jenner's 1796 vaccine protected against which disease?",
+  "choices": [
+   "Measles",
+   "Smallpox",
+   "Cholera",
+   "Polio"
+  ],
+  "answer": "Smallpox",
+  "difficulty": "hard",
+  "topic": "jenner-vaccine"
+ },
+ {
+  "id": "tech-095",
+  "prompt": "Which brothers made the first powered airplane flight in 1903?",
+  "choices": [
+   "Wright brothers",
+   "Marx brothers",
+   "Montgolfier brothers",
+   "Lumiere brothers"
+  ],
+  "answer": "Wright brothers",
+  "difficulty": "easy",
+  "topic": "wright-brothers"
+ },
+ {
+  "id": "tech-096",
+  "prompt": "Near which North Carolina town did the Wrights first fly?",
+  "choices": [
+   "Charlotte",
+   "Raleigh",
+   "Kitty Hawk",
+   "Roanoke"
+  ],
+  "answer": "Kitty Hawk",
+  "difficulty": "easy",
+  "topic": "kitty-hawk"
+ },
+ {
+  "id": "tech-097",
+  "prompt": "Who made the first solo nonstop transatlantic flight in 1927?",
+  "choices": [
+   "Charles Lindbergh",
+   "Amelia Earhart",
+   "Howard Hughes",
+   "Wiley Post"
+  ],
+  "answer": "Charles Lindbergh",
+  "difficulty": "easy",
+  "topic": "lindbergh"
+ },
+ {
+  "id": "tech-098",
+  "prompt": "What was the name of Lindbergh's 1927 plane?",
+  "choices": [
+   "Winged Eagle",
+   "Spirit of St. Louis",
+   "Memphis Belle",
+   "Enola Gay"
+  ],
+  "answer": "Spirit of St. Louis",
+  "difficulty": "medium",
+  "topic": "spirit-st-louis"
+ },
+ {
+  "id": "tech-099",
+  "prompt": "Which British engineer patented the turbojet engine in 1930?",
+  "choices": [
+   "Hugh Dowding",
+   "Barnes Wallis",
+   "Igor Sikorsky",
+   "Frank Whittle"
+  ],
+  "answer": "Frank Whittle",
+  "difficulty": "medium",
+  "topic": "jet-engine"
+ },
+ {
+  "id": "tech-100",
+  "prompt": "Which British jet airliner entered service in 1952, the world's first?",
+  "choices": [
+   "Boeing 707",
+   "Concorde",
+   "Vickers Viscount",
+   "de Havilland Comet"
+  ],
+  "answer": "de Havilland Comet",
+  "difficulty": "hard",
+  "topic": "first-jet-airliner"
+ },
+ {
+  "id": "tech-101",
+  "prompt": "Which supersonic airliner flew passengers between 1976 and 2003?",
+  "choices": [
+   "Airbus A380",
+   "Concorde",
+   "Hindenburg",
+   "Boeing 747"
+  ],
+  "answer": "Concorde",
+  "difficulty": "easy",
+  "topic": "concorde"
+ },
+ {
+  "id": "tech-102",
+  "prompt": "Which pilot first flew faster than sound in 1947?",
+  "choices": [
+   "Buzz Aldrin",
+   "John Glenn",
+   "Neil Armstrong",
+   "Chuck Yeager"
+  ],
+  "answer": "Chuck Yeager",
+  "difficulty": "easy",
+  "topic": "sound-barrier"
+ },
+ {
+  "id": "tech-103",
+  "prompt": "Which Russian-American built the first mass-produced helicopter in the 1940s?",
+  "choices": [
+   "Frank Whittle",
+   "Anthony Fokker",
+   "Orville Wright",
+   "Igor Sikorsky"
+  ],
+  "answer": "Igor Sikorsky",
+  "difficulty": "easy",
+  "topic": "helicopter"
+ },
+ {
+  "id": "tech-104",
+  "prompt": "Ferdinand von Zeppelin is famous for what kind of aircraft?",
+  "choices": [
+   "Biplanes",
+   "Helicopters",
+   "Rigid airships",
+   "Gliders"
+  ],
+  "answer": "Rigid airships",
+  "difficulty": "easy",
+  "topic": "zeppelin"
+ },
+ {
+  "id": "tech-105",
+  "prompt": "Which airship burned at Lakehurst, New Jersey, in 1937?",
+  "choices": [
+   "Titanic",
+   "Graf Zeppelin",
+   "R101",
+   "Hindenburg"
+  ],
+  "answer": "Hindenburg",
+  "difficulty": "easy",
+  "topic": "hindenburg"
+ },
+ {
+  "id": "tech-106",
+  "prompt": "The Hindenburg was filled with which flammable gas?",
+  "choices": [
+   "Methane",
+   "Helium",
+   "Propane",
+   "Hydrogen"
+  ],
+  "answer": "Hydrogen",
+  "difficulty": "hard",
+  "topic": "hydrogen-danger"
+ },
+ {
+  "id": "tech-107",
+  "prompt": "Which country launched Sputnik, the first artificial satellite?",
+  "choices": [
+   "United States",
+   "Soviet Union",
+   "China",
+   "Germany"
+  ],
+  "answer": "Soviet Union",
+  "difficulty": "easy",
+  "topic": "sputnik"
+ },
+ {
+  "id": "tech-108",
+  "prompt": "In which decade was Sputnik launched?",
+  "choices": [
+   "1950s",
+   "1970s",
+   "1930s",
+   "1960s"
+  ],
+  "answer": "1950s",
+  "difficulty": "easy",
+  "topic": "sputnik-year"
+ },
+ {
+  "id": "tech-109",
+  "prompt": "Who became the first human in space in 1961?",
+  "choices": [
+   "Yuri Gagarin",
+   "Alan Shepard",
+   "John Glenn",
+   "Neil Armstrong"
+  ],
+  "answer": "Yuri Gagarin",
+  "difficulty": "easy",
+  "topic": "gagarin"
+ },
+ {
+  "id": "tech-110",
+  "prompt": "Which 1969 mission first landed humans on the Moon?",
+  "choices": [
+   "Gemini 4",
+   "Apollo 11",
+   "Sputnik 2",
+   "Apollo 13"
+  ],
+  "answer": "Apollo 11",
+  "difficulty": "easy",
+  "topic": "apollo11"
+ },
+ {
+  "id": "tech-111",
+  "prompt": "Which rocket carried Apollo astronauts toward the Moon?",
+  "choices": [
+   "Falcon 9",
+   "Atlas",
+   "Saturn V",
+   "Ariane 5"
+  ],
+  "answer": "Saturn V",
+  "difficulty": "medium",
+  "topic": "saturn-v"
+ },
+ {
+  "id": "tech-112",
+  "prompt": "Who launched the first liquid-fuelled rocket in 1926?",
+  "choices": [
+   "Konstantin Tsiolkovsky",
+   "Robert Goddard",
+   "Wernher von Braun",
+   "Hermann Oberth"
+  ],
+  "answer": "Robert Goddard",
+  "difficulty": "hard",
+  "topic": "goddard"
+ },
+ {
+  "id": "tech-113",
+  "prompt": "Which German rocket of World War II was the first long-range ballistic missile?",
+  "choices": [
+   "Katyusha",
+   "V-2",
+   "Scud",
+   "V-1"
+  ],
+  "answer": "V-2",
+  "difficulty": "medium",
+  "topic": "v2"
+ },
+ {
+  "id": "tech-114",
+  "prompt": "Which agency operated the Space Shuttle?",
+  "choices": [
+   "NASA",
+   "JAXA",
+   "Roscosmos",
+   "ESA"
+  ],
+  "answer": "NASA",
+  "difficulty": "easy",
+  "topic": "space-shuttle"
+ },
+ {
+  "id": "tech-115",
+  "prompt": "The Hubble telescope orbits above Earth to avoid what?",
+  "choices": [
+   "Radio noise",
+   "Cosmic rays",
+   "Gravity",
+   "Atmospheric blurring"
+  ],
+  "answer": "Atmospheric blurring",
+  "difficulty": "easy",
+  "topic": "hubble"
+ },
+ {
+  "id": "tech-116",
+  "prompt": "The International Space Station circles Earth roughly how often?",
+  "choices": [
+   "Every week",
+   "Every 90 minutes",
+   "Every 10 hours",
+   "Every day"
+  ],
+  "answer": "Every 90 minutes",
+  "difficulty": "medium",
+  "topic": "iss"
+ },
+ {
+  "id": "tech-117",
+  "prompt": "Which tunnel opened in 1994 linking England and France by rail?",
+  "choices": [
+   "Mont Blanc Tunnel",
+   "Gotthard Tunnel",
+   "Channel Tunnel",
+   "Seikan Tunnel"
+  ],
+  "answer": "Channel Tunnel",
+  "difficulty": "easy",
+  "topic": "first-train-tunnel"
+ },
+ {
+  "id": "tech-118",
+  "prompt": "Japan's Shinkansen is known as what kind of train?",
+  "choices": [
+   "Cable car",
+   "Bullet train",
+   "Steam train",
+   "Monorail"
+  ],
+  "answer": "Bullet train",
+  "difficulty": "easy",
+  "topic": "bullet-train"
+ },
+ {
+  "id": "tech-119",
+  "prompt": "In which decade did Japan's Shinkansen open for Tokyo-Osaka service?",
+  "choices": [
+   "1980s",
+   "1990s",
+   "1960s",
+   "1940s"
+  ],
+  "answer": "1960s",
+  "difficulty": "medium",
+  "topic": "shinkansen-year"
+ },
+ {
+  "id": "tech-120",
+  "prompt": "Maglev trains float above their track using what?",
+  "choices": [
+   "Magnetic force",
+   "Water cushions",
+   "Air jets",
+   "Rubber wheels"
+  ],
+  "answer": "Magnetic force",
+  "difficulty": "medium",
+  "topic": "maglev"
+ },
+ {
+  "id": "tech-121",
+  "prompt": "Which city opened the world's first underground railway in 1863?",
+  "choices": [
+   "London",
+   "New York",
+   "Berlin",
+   "Paris"
+  ],
+  "answer": "London",
+  "difficulty": "easy",
+  "topic": "london-underground"
+ },
+ {
+  "id": "tech-122",
+  "prompt": "The US transcontinental railroad was completed in which decade?",
+  "choices": [
+   "1930s",
+   "1820s",
+   "1900s",
+   "1860s"
+  ],
+  "answer": "1860s",
+  "difficulty": "medium",
+  "topic": "transcontinental-rail"
+ },
+ {
+  "id": "tech-123",
+  "prompt": "What is the New York underground railway system commonly called?",
+  "choices": [
+   "The tram",
+   "The metro",
+   "The tube",
+   "The subway"
+  ],
+  "answer": "The subway",
+  "difficulty": "easy",
+  "topic": "subway-name"
+ },
+ {
+  "id": "tech-124",
+  "prompt": "Which US vessel, launched in 1954, was the first nuclear-powered submarine?",
+  "choices": [
+   "USS Maine",
+   "USS Nautilus",
+   "USS Constitution",
+   "USS Enterprise"
+  ],
+  "answer": "USS Nautilus",
+  "difficulty": "medium",
+  "topic": "first-submarine-nuclear"
+ },
+ {
+  "id": "tech-125",
+  "prompt": "John Holland designed an early practical what for the US Navy around 1900?",
+  "choices": [
+   "Submarine",
+   "Torpedo bomber",
+   "Aircraft carrier",
+   "Tank"
+  ],
+  "answer": "Submarine",
+  "difficulty": "hard",
+  "topic": "holland-submarine"
+ },
+ {
+  "id": "tech-126",
+  "prompt": "Which Briton invented the hovercraft in the 1950s?",
+  "choices": [
+   "Frank Whittle",
+   "Barnes Wallis",
+   "Alec Issigonis",
+   "Christopher Cockerell"
+  ],
+  "answer": "Christopher Cockerell",
+  "difficulty": "hard",
+  "topic": "hovercraft"
+ },
+ {
+  "id": "tech-127",
+  "prompt": "Malcolm McLean's 1956 innovation revolutionised shipping with what?",
+  "choices": [
+   "Radar",
+   "Steel hulls",
+   "Nuclear engines",
+   "Standard shipping containers"
+  ],
+  "answer": "Standard shipping containers",
+  "difficulty": "hard",
+  "topic": "container-ship"
+ },
+ {
+  "id": "tech-128",
+  "prompt": "Which country built the Global Positioning System?",
+  "choices": [
+   "Russia",
+   "France",
+   "United States",
+   "Japan"
+  ],
+  "answer": "United States",
+  "difficulty": "medium",
+  "topic": "gps-origin"
+ },
+ {
+  "id": "tech-129",
+  "prompt": "Radar locates objects by bouncing what off them?",
+  "choices": [
+   "X-rays",
+   "Sound waves",
+   "Radio waves",
+   "Light beams"
+  ],
+  "answer": "Radio waves",
+  "difficulty": "easy",
+  "topic": "radar"
+ },
+ {
+  "id": "tech-130",
+  "prompt": "Sonar locates underwater objects using what?",
+  "choices": [
+   "Heat",
+   "Sound waves",
+   "Radio waves",
+   "Magnetism"
+  ],
+  "answer": "Sound waves",
+  "difficulty": "easy",
+  "topic": "sonar"
+ },
+ {
+  "id": "tech-131",
+  "prompt": "Which Swedish company introduced the three-point seat belt in 1959?",
+  "choices": [
+   "Volvo",
+   "Saab",
+   "Scania",
+   "Ikea"
+  ],
+  "answer": "Volvo",
+  "difficulty": "medium",
+  "topic": "seat-belt"
+ },
+ {
+  "id": "tech-132",
+  "prompt": "What device inflates in a crash to cushion drivers?",
+  "choices": [
+   "Bumper",
+   "Roll bar",
+   "Crumple zone",
+   "Airbag"
+  ],
+  "answer": "Airbag",
+  "difficulty": "easy",
+  "topic": "airbag"
+ },
+ {
+  "id": "tech-133",
+  "prompt": "Which German company built the Beetle, designed in the 1930s?",
+  "choices": [
+   "Mercedes",
+   "Volkswagen",
+   "Porsche",
+   "BMW"
+  ],
+  "answer": "Volkswagen",
+  "difficulty": "easy",
+  "topic": "beetle"
+ },
+ {
+  "id": "tech-134",
+  "prompt": "Which British carmaker's 1959 Mini was designed by Alec Issigonis?",
+  "choices": [
+   "Jaguar",
+   "Ford UK",
+   "British Motor Corporation",
+   "Rolls-Royce"
+  ],
+  "answer": "British Motor Corporation",
+  "difficulty": "medium",
+  "topic": "mini"
+ },
+ {
+  "id": "tech-135",
+  "prompt": "A catalytic converter reduces what from car exhaust?",
+  "choices": [
+   "Engine noise",
+   "Tyre wear",
+   "Harmful pollutants",
+   "Fuel use"
+  ],
+  "answer": "Harmful pollutants",
+  "difficulty": "medium",
+  "topic": "catalytic-converter"
+ },
+ {
+  "id": "tech-136",
+  "prompt": "What natural force did Benjamin Franklin's kite experiment study?",
+  "choices": [
+   "Tides",
+   "Gravity",
+   "Wind speed",
+   "Lightning"
+  ],
+  "answer": "Lightning",
+  "difficulty": "easy",
+  "topic": "franklin-kite"
+ },
+ {
+  "id": "tech-137",
+  "prompt": "Which Italian built the first electric battery in 1800?",
+  "choices": [
+   "Galileo Galilei",
+   "Luigi Galvani",
+   "Alessandro Volta",
+   "Guglielmo Marconi"
+  ],
+  "answer": "Alessandro Volta",
+  "difficulty": "medium",
+  "topic": "volta-battery"
+ },
+ {
+  "id": "tech-138",
+  "prompt": "The volt is named after which scientist?",
+  "choices": [
+   "Andre Ampere",
+   "Alessandro Volta",
+   "James Watt",
+   "Georg Ohm"
+  ],
+  "answer": "Alessandro Volta",
+  "difficulty": "medium",
+  "topic": "volta-unit"
+ },
+ {
+  "id": "tech-139",
+  "prompt": "Who discovered electromagnetic induction in 1831?",
+  "choices": [
+   "James Clerk Maxwell",
+   "Nikola Tesla",
+   "Thomas Edison",
+   "Michael Faraday"
+  ],
+  "answer": "Michael Faraday",
+  "difficulty": "medium",
+  "topic": "faraday-induction"
+ },
+ {
+  "id": "tech-140",
+  "prompt": "The watt, the unit of power, is named after which engineer?",
+  "choices": [
+   "Thomas Edison",
+   "Isaac Newton",
+   "Ada Lovelace",
+   "James Watt"
+  ],
+  "answer": "James Watt",
+  "difficulty": "medium",
+  "topic": "watt-unit"
+ },
+ {
+  "id": "tech-141",
+  "prompt": "A dynamo converts what into electricity?",
+  "choices": [
+   "Heat from the sun",
+   "Chemical fuel",
+   "Sound",
+   "Motion"
+  ],
+  "answer": "Motion",
+  "difficulty": "medium",
+  "topic": "dynamo"
+ },
+ {
+  "id": "tech-142",
+  "prompt": "Which American's lab developed a long-lasting practical light bulb in 1879?",
+  "choices": [
+   "Thomas Edison",
+   "Nikola Tesla",
+   "Henry Ford",
+   "Alexander Graham Bell"
+  ],
+  "answer": "Thomas Edison",
+  "difficulty": "easy",
+  "topic": "lightbulb-edison"
+ },
+ {
+  "id": "tech-143",
+  "prompt": "Edison's famed research lab was in which New Jersey town?",
+  "choices": [
+   "Menlo Park",
+   "Newark",
+   "Trenton",
+   "Princeton"
+  ],
+  "answer": "Menlo Park",
+  "difficulty": "medium",
+  "topic": "menlo-park"
+ },
+ {
+  "id": "tech-144",
+  "prompt": "Edison's Pearl Street station of 1882 supplied power to which city?",
+  "choices": [
+   "New York",
+   "London",
+   "Boston",
+   "Chicago"
+  ],
+  "answer": "New York",
+  "difficulty": "hard",
+  "topic": "pearl-street"
+ },
+ {
+  "id": "tech-145",
+  "prompt": "Which inventor championed alternating current electricity?",
+  "choices": [
+   "Michael Faraday",
+   "Alexander Bell",
+   "Thomas Edison",
+   "Nikola Tesla"
+  ],
+  "answer": "Nikola Tesla",
+  "difficulty": "medium",
+  "topic": "ac-tesla"
+ },
+ {
+  "id": "tech-146",
+  "prompt": "Which famous waterfalls hosted one of the earliest big hydroelectric plants?",
+  "choices": [
+   "Victoria Falls",
+   "Angel Falls",
+   "Iguazu Falls",
+   "Niagara Falls"
+  ],
+  "answer": "Niagara Falls",
+  "difficulty": "easy",
+  "topic": "niagara"
+ },
+ {
+  "id": "tech-147",
+  "prompt": "Hoover Dam harnesses which river?",
+  "choices": [
+   "Columbia River",
+   "Mississippi River",
+   "Colorado River",
+   "Missouri River"
+  ],
+  "answer": "Colorado River",
+  "difficulty": "easy",
+  "topic": "hoover-dam"
+ },
+ {
+  "id": "tech-148",
+  "prompt": "The Three Gorges Dam, the largest hydropower station, is on which river?",
+  "choices": [
+   "Ganges",
+   "Yellow River",
+   "Mekong",
+   "Yangtze"
+  ],
+  "answer": "Yangtze",
+  "difficulty": "medium",
+  "topic": "three-gorges"
+ },
+ {
+  "id": "tech-149",
+  "prompt": "A steam turbine generates power by spinning what?",
+  "choices": [
+   "Blades",
+   "Pistons",
+   "Magnets only",
+   "Chains"
+  ],
+  "answer": "Blades",
+  "difficulty": "medium",
+  "topic": "turbine"
+ },
+ {
+  "id": "tech-150",
+  "prompt": "Who invented the modern steam turbine in 1884?",
+  "choices": [
+   "James Watt",
+   "Charles Parsons",
+   "Henry Bessemer",
+   "Rudolf Diesel"
+  ],
+  "answer": "Charles Parsons",
+  "difficulty": "hard",
+  "topic": "parsons"
+ },
+ {
+  "id": "tech-151",
+  "prompt": "Nuclear power stations release energy by doing what to atoms?",
+  "choices": [
+   "Freezing them",
+   "Splitting them",
+   "Melting them",
+   "Burning them"
+  ],
+  "answer": "Splitting them",
+  "difficulty": "easy",
+  "topic": "nuclear-fission"
+ },
+ {
+  "id": "tech-152",
+  "prompt": "Which scientist led the first controlled nuclear chain reaction in 1942?",
+  "choices": [
+   "Enrico Fermi",
+   "Niels Bohr",
+   "Marie Curie",
+   "Albert Einstein"
+  ],
+  "answer": "Enrico Fermi",
+  "difficulty": "medium",
+  "topic": "first-reactor"
+ },
+ {
+  "id": "tech-153",
+  "prompt": "Which country opened the world's first grid-connected nuclear plant in 1954?",
+  "choices": [
+   "United States",
+   "United Kingdom",
+   "France",
+   "Soviet Union"
+  ],
+  "answer": "Soviet Union",
+  "difficulty": "hard",
+  "topic": "obninsk"
+ },
+ {
+  "id": "tech-154",
+  "prompt": "Calder Hall of 1956 was the first commercial nuclear power station of which country?",
+  "choices": [
+   "Germany",
+   "Canada",
+   "Japan",
+   "United Kingdom"
+  ],
+  "answer": "United Kingdom",
+  "difficulty": "hard",
+  "topic": "calder-hall"
+ },
+ {
+  "id": "tech-155",
+  "prompt": "Which element is used in most solar cells?",
+  "choices": [
+   "Carbon",
+   "Copper",
+   "Silicon",
+   "Lead"
+  ],
+  "answer": "Silicon",
+  "difficulty": "easy",
+  "topic": "solar-cell"
+ },
+ {
+  "id": "tech-156",
+  "prompt": "Bell Labs made the first practical silicon solar cell in which decade?",
+  "choices": [
+   "1990s",
+   "1920s",
+   "1970s",
+   "1950s"
+  ],
+  "answer": "1950s",
+  "difficulty": "hard",
+  "topic": "bell-solar"
+ },
+ {
+  "id": "tech-157",
+  "prompt": "Wind turbines convert wind into what?",
+  "choices": [
+   "Fuel",
+   "Electricity",
+   "Water",
+   "Steam"
+  ],
+  "answer": "Electricity",
+  "difficulty": "easy",
+  "topic": "wind-turbine"
+ },
+ {
+  "id": "tech-158",
+  "prompt": "Geothermal power taps what?",
+  "choices": [
+   "Wind",
+   "Ocean waves",
+   "Heat from underground",
+   "Sunlight"
+  ],
+  "answer": "Heat from underground",
+  "difficulty": "easy",
+  "topic": "geothermal"
+ },
+ {
+  "id": "tech-159",
+  "prompt": "Lithium-ion batteries are widely used in what?",
+  "choices": [
+   "Clocks only",
+   "Mining drills only",
+   "Phones and electric cars",
+   "Candles"
+  ],
+  "answer": "Phones and electric cars",
+  "difficulty": "easy",
+  "topic": "lithium-ion"
+ },
+ {
+  "id": "tech-160",
+  "prompt": "A hydrogen fuel cell produces electricity and what by-product?",
+  "choices": [
+   "Smoke",
+   "Carbon monoxide",
+   "Water",
+   "Ash"
+  ],
+  "answer": "Water",
+  "difficulty": "easy",
+  "topic": "fuel-cell"
+ },
+ {
+  "id": "tech-161",
+  "prompt": "Georg Ohm's law links voltage, current and what?",
+  "choices": [
+   "Resistance",
+   "Magnetism",
+   "Mass",
+   "Heat"
+  ],
+  "answer": "Resistance",
+  "difficulty": "medium",
+  "topic": "ohm"
+ },
+ {
+  "id": "tech-162",
+  "prompt": "The ampere measures what?",
+  "choices": [
+   "Power",
+   "Resistance",
+   "Electric current",
+   "Voltage"
+  ],
+  "answer": "Electric current",
+  "difficulty": "easy",
+  "topic": "ampere"
+ },
+ {
+  "id": "tech-163",
+  "prompt": "A household fuse protects a circuit by doing what?",
+  "choices": [
+   "Raising voltage",
+   "Breaking it when current is too high",
+   "Cooling wires",
+   "Storing energy"
+  ],
+  "answer": "Breaking it when current is too high",
+  "difficulty": "easy",
+  "topic": "fuse"
+ },
+ {
+  "id": "tech-164",
+  "prompt": "A transformer changes what in an AC circuit?",
+  "choices": [
+   "Direction of rotation",
+   "Colour",
+   "Frequency only",
+   "Voltage"
+  ],
+  "answer": "Voltage",
+  "difficulty": "medium",
+  "topic": "transformer"
+ },
+ {
+  "id": "tech-165",
+  "prompt": "Which fossil fuel is mostly methane?",
+  "choices": [
+   "Peat",
+   "Crude oil",
+   "Coal",
+   "Natural gas"
+  ],
+  "answer": "Natural gas",
+  "difficulty": "easy",
+  "topic": "natural-gas"
+ },
+ {
+  "id": "tech-166",
+  "prompt": "Edwin Drake drilled the first commercial US oil well in 1859 in which state?",
+  "choices": [
+   "California",
+   "Oklahoma",
+   "Pennsylvania",
+   "Texas"
+  ],
+  "answer": "Pennsylvania",
+  "difficulty": "hard",
+  "topic": "oil-drake"
+ },
+ {
+  "id": "tech-167",
+  "prompt": "Which fuel from oil was widely used in 1800s lamps?",
+  "choices": [
+   "Petrol",
+   "Propane",
+   "Diesel",
+   "Kerosene"
+  ],
+  "answer": "Kerosene",
+  "difficulty": "medium",
+  "topic": "kerosene"
+ },
+ {
+  "id": "tech-168",
+  "prompt": "Which fuel did Britain's Industrial Revolution rely on most?",
+  "choices": [
+   "Nuclear",
+   "Coal",
+   "Wood only",
+   "Natural gas"
+  ],
+  "answer": "Coal",
+  "difficulty": "medium",
+  "topic": "coal-power"
+ },
+ {
+  "id": "tech-169",
+  "prompt": "William Murdoch pioneered lighting buildings with what in the 1790s?",
+  "choices": [
+   "Whale oil",
+   "Electricity",
+   "Coal gas",
+   "Candles"
+  ],
+  "answer": "Coal gas",
+  "difficulty": "hard",
+  "topic": "gas-lighting"
+ },
+ {
+  "id": "tech-170",
+  "prompt": "What stores chemical energy and gives electric power in a torch?",
+  "choices": [
+   "Capacitor",
+   "Battery",
+   "Spring",
+   "Magnet"
+  ],
+  "answer": "Battery",
+  "difficulty": "easy",
+  "topic": "battery-aa"
+ },
+ {
+  "id": "tech-171",
+  "prompt": "Most Edison-style bulbs glow when current heats what?",
+  "choices": [
+   "A neon gas",
+   "A magnet",
+   "A diode",
+   "A thin filament"
+  ],
+  "answer": "A thin filament",
+  "difficulty": "medium",
+  "topic": "incandescent-filament"
+ },
+ {
+  "id": "tech-172",
+  "prompt": "LED stands for light-emitting what?",
+  "choices": [
+   "Diode",
+   "Driver",
+   "Device",
+   "Display"
+  ],
+  "answer": "Diode",
+  "difficulty": "easy",
+  "topic": "led"
+ },
+ {
+  "id": "tech-173",
+  "prompt": "Which gas-discharge lamp uses mercury vapour and a phosphor coating?",
+  "choices": [
+   "Halogen lamp",
+   "Fluorescent lamp",
+   "Oil lamp",
+   "Arc lamp"
+  ],
+  "answer": "Fluorescent lamp",
+  "difficulty": "medium",
+  "topic": "fluorescent"
+ },
+ {
+  "id": "tech-174",
+  "prompt": "Which 1800s device sent dot-and-dash coded messages along wires?",
+  "choices": [
+   "Television",
+   "Telephone",
+   "Radio",
+   "Telegraph"
+  ],
+  "answer": "Telegraph",
+  "difficulty": "easy",
+  "topic": "telegraph-invention"
+ },
+ {
+  "id": "tech-175",
+  "prompt": "Which decade saw the first lasting transatlantic telegraph cable?",
+  "choices": [
+   "1930s",
+   "1860s",
+   "1900s",
+   "1830s"
+  ],
+  "answer": "1860s",
+  "difficulty": "medium",
+  "topic": "transatlantic-cable"
+ },
+ {
+  "id": "tech-176",
+  "prompt": "Whose 1876 patent is the best-known US telephone patent?",
+  "choices": [
+   "Samuel Morse",
+   "Thomas Edison",
+   "Alexander Graham Bell",
+   "Elisha Gray"
+  ],
+  "answer": "Alexander Graham Bell",
+  "difficulty": "medium",
+  "topic": "bell-telephone"
+ },
+ {
+  "id": "tech-177",
+  "prompt": "What type of waves carry radio broadcasts?",
+  "choices": [
+   "Water waves",
+   "Sound waves",
+   "Seismic waves",
+   "Electromagnetic waves"
+  ],
+  "answer": "Electromagnetic waves",
+  "difficulty": "easy",
+  "topic": "radio-waves"
+ },
+ {
+  "id": "tech-178",
+  "prompt": "Who first proved radio waves exist in the 1880s?",
+  "choices": [
+   "James Maxwell",
+   "Nikola Tesla",
+   "Guglielmo Marconi",
+   "Heinrich Hertz"
+  ],
+  "answer": "Heinrich Hertz",
+  "difficulty": "medium",
+  "topic": "hertz"
+ },
+ {
+  "id": "tech-179",
+  "prompt": "Marconi sent a wireless signal across the Atlantic in 1901 from Britain to which place?",
+  "choices": [
+   "Boston",
+   "Ireland",
+   "Iceland",
+   "Newfoundland"
+  ],
+  "answer": "Newfoundland",
+  "difficulty": "medium",
+  "topic": "marconi-transatlantic"
+ },
+ {
+  "id": "tech-180",
+  "prompt": "Which Scottish physicist predicted electromagnetic waves?",
+  "choices": [
+   "James Clerk Maxwell",
+   "Michael Faraday",
+   "James Watt",
+   "Lord Kelvin"
+  ],
+  "answer": "James Clerk Maxwell",
+  "difficulty": "medium",
+  "topic": "maxwell"
+ },
+ {
+  "id": "tech-181",
+  "prompt": "Which device displays moving pictures broadcast through the air or cable?",
+  "choices": [
+   "Phonograph",
+   "Radiometer",
+   "Telegraph",
+   "Television"
+  ],
+  "answer": "Television",
+  "difficulty": "easy",
+  "topic": "tv-invention"
+ },
+ {
+  "id": "tech-182",
+  "prompt": "Which Scottish inventor gave the first public demonstration of television in 1926?",
+  "choices": [
+   "Alexander Bell",
+   "James Watt",
+   "Guglielmo Marconi",
+   "John Logie Baird"
+  ],
+  "answer": "John Logie Baird",
+  "difficulty": "medium",
+  "topic": "baird"
+ },
+ {
+  "id": "tech-183",
+  "prompt": "Colour television broadcasts became common in the US in which decade?",
+  "choices": [
+   "1980s",
+   "1960s",
+   "1930s",
+   "1990s"
+  ],
+  "answer": "1960s",
+  "difficulty": "medium",
+  "topic": "color-tv-decade"
+ },
+ {
+  "id": "tech-184",
+  "prompt": "Which inventor created the phonograph in 1877?",
+  "choices": [
+   "Alexander Bell",
+   "Guglielmo Marconi",
+   "Thomas Edison",
+   "Emile Berliner"
+  ],
+  "answer": "Thomas Edison",
+  "difficulty": "medium",
+  "topic": "phonograph"
+ },
+ {
+  "id": "tech-185",
+  "prompt": "Vinyl records are played with what?",
+  "choices": [
+   "A stylus on a turntable",
+   "A light sensor",
+   "A magnetic head",
+   "A laser"
+  ],
+  "answer": "A stylus on a turntable",
+  "difficulty": "easy",
+  "topic": "vinyl"
+ },
+ {
+  "id": "tech-186",
+  "prompt": "Which company introduced the compact cassette in 1963?",
+  "choices": [
+   "Apple",
+   "Philips",
+   "Sony",
+   "Kodak"
+  ],
+  "answer": "Philips",
+  "difficulty": "medium",
+  "topic": "cassette"
+ },
+ {
+  "id": "tech-187",
+  "prompt": "Which Japanese company launched the Walkman in 1979?",
+  "choices": [
+   "Sony",
+   "Panasonic",
+   "Toshiba",
+   "Sharp"
+  ],
+  "answer": "Sony",
+  "difficulty": "easy",
+  "topic": "walkman"
+ },
+ {
+  "id": "tech-188",
+  "prompt": "Which two companies jointly developed the compact disc?",
+  "choices": [
+   "Apple and IBM",
+   "Samsung and LG",
+   "Kodak and Fuji",
+   "Sony and Philips"
+  ],
+  "answer": "Sony and Philips",
+  "difficulty": "medium",
+  "topic": "cd-sony-philips"
+ },
+ {
+  "id": "tech-189",
+  "prompt": "Which Frenchman announced the daguerreotype photo process in 1839?",
+  "choices": [
+   "Auguste Lumiere",
+   "Henri Becquerel",
+   "Louis Pasteur",
+   "Louis Daguerre"
+  ],
+  "answer": "Louis Daguerre",
+  "difficulty": "medium",
+  "topic": "photography-daguerre"
+ },
+ {
+  "id": "tech-190",
+  "prompt": "George Eastman made photography popular with which company?",
+  "choices": [
+   "Kodak",
+   "Leica",
+   "Polaroid",
+   "Fuji"
+  ],
+  "answer": "Kodak",
+  "difficulty": "easy",
+  "topic": "kodak"
+ },
+ {
+  "id": "tech-191",
+  "prompt": "Which French brothers held an early public film screening in 1895?",
+  "choices": [
+   "Montgolfier brothers",
+   "Marx brothers",
+   "Lumiere brothers",
+   "Wright brothers"
+  ],
+  "answer": "Lumiere brothers",
+  "difficulty": "medium",
+  "topic": "movie-lumiere"
+ },
+ {
+  "id": "tech-192",
+  "prompt": "Which 1927 film was the first major feature with synchronised speech?",
+  "choices": [
+   "Casablanca",
+   "Citizen Kane",
+   "Metropolis",
+   "The Jazz Singer"
+  ],
+  "answer": "The Jazz Singer",
+  "difficulty": "hard",
+  "topic": "talkie"
+ },
+ {
+  "id": "tech-193",
+  "prompt": "Which company's Martin Cooper made the first handheld mobile phone call in 1973?",
+  "choices": [
+   "Nokia",
+   "Ericsson",
+   "Samsung",
+   "Motorola"
+  ],
+  "answer": "Motorola",
+  "difficulty": "medium",
+  "topic": "mobile-phone-first"
+ },
+ {
+  "id": "tech-194",
+  "prompt": "Which company launched the first iPhone in 2007?",
+  "choices": [
+   "Apple",
+   "Nokia",
+   "Samsung",
+   "Google"
+  ],
+  "answer": "Apple",
+  "difficulty": "easy",
+  "topic": "iphone"
+ },
+ {
+  "id": "tech-195",
+  "prompt": "What does SMS stand for in mobile phones?",
+  "choices": [
+   "Short Message Service",
+   "Simple Mail System",
+   "Super Mobile Signal",
+   "Speed Message Standard"
+  ],
+  "answer": "Short Message Service",
+  "difficulty": "easy",
+  "topic": "sms"
+ },
+ {
+  "id": "tech-196",
+  "prompt": "Fibre-optic cables carry data as what?",
+  "choices": [
+   "Radio waves",
+   "Sound",
+   "Electric current",
+   "Pulses of light"
+  ],
+  "answer": "Pulses of light",
+  "difficulty": "easy",
+  "topic": "fiber-optic"
+ },
+ {
+  "id": "tech-197",
+  "prompt": "Arthur C. Clarke proposed communications satellites in which orbit?",
+  "choices": [
+   "Elliptical",
+   "Polar",
+   "Geostationary",
+   "Low Earth"
+  ],
+  "answer": "Geostationary",
+  "difficulty": "hard",
+  "topic": "geostationary"
+ },
+ {
+  "id": "tech-198",
+  "prompt": "Telstar 1, launched in 1962, was the first satellite to relay what?",
+  "choices": [
+   "Radio from Mars",
+   "GPS signals",
+   "Weather maps",
+   "Live television across the Atlantic"
+  ],
+  "answer": "Live television across the Atlantic",
+  "difficulty": "hard",
+  "topic": "telstar"
+ },
+ {
+  "id": "tech-199",
+  "prompt": "Braille is a writing system based on what?",
+  "choices": [
+   "Sound",
+   "Pictures",
+   "Coloured lines",
+   "Raised dots"
+  ],
+  "answer": "Raised dots",
+  "difficulty": "easy",
+  "topic": "braille"
+ },
+ {
+  "id": "tech-200",
+  "prompt": "Which machine types characters onto paper using keys?",
+  "choices": [
+   "Printing press",
+   "Typewriter",
+   "Telegraph",
+   "Abacus"
+  ],
+  "answer": "Typewriter",
+  "difficulty": "easy",
+  "topic": "typewriter"
+ },
+ {
+  "id": "tech-201",
+  "prompt": "The QWERTY layout was designed for early what?",
+  "choices": [
+   "Telegraphs",
+   "Telephones",
+   "Typewriters",
+   "Computers"
+  ],
+  "answer": "Typewriters",
+  "difficulty": "medium",
+  "topic": "qwerty-origin"
+ },
+ {
+  "id": "tech-202",
+  "prompt": "Which Hungarian-born inventor patented the ballpoint pen in 1938?",
+  "choices": [
+   "Laszlo Biro",
+   "Bic",
+   "Parker",
+   "Waterman"
+  ],
+  "answer": "Laszlo Biro",
+  "difficulty": "medium",
+  "topic": "ballpoint"
+ },
+ {
+  "id": "tech-203",
+  "prompt": "Which company invented the Post-it note?",
+  "choices": [
+   "Kodak",
+   "Xerox",
+   "3M",
+   "IBM"
+  ],
+  "answer": "3M",
+  "difficulty": "easy",
+  "topic": "post-it"
+ },
+ {
+  "id": "tech-204",
+  "prompt": "Which process, invented by Chester Carlson in 1938, led to photocopiers?",
+  "choices": [
+   "Daguerreotype",
+   "Lithography",
+   "Mimeograph",
+   "Xerography"
+  ],
+  "answer": "Xerography",
+  "difficulty": "hard",
+  "topic": "xerox"
+ },
+ {
+  "id": "tech-205",
+  "prompt": "Which Swedish-American engineer made the zipper practical around 1913?",
+  "choices": [
+   "Gideon Sundback",
+   "Walter Hunt",
+   "Whitcomb Judson",
+   "Elias Howe"
+  ],
+  "answer": "Gideon Sundback",
+  "difficulty": "hard",
+  "topic": "zipper"
+ },
+ {
+  "id": "tech-206",
+  "prompt": "Which Swiss engineer invented Velcro after studying burrs?",
+  "choices": [
+   "Gideon Sundback",
+   "Percy Spencer",
+   "George de Mestral",
+   "Adolf Dassler"
+  ],
+  "answer": "George de Mestral",
+  "difficulty": "medium",
+  "topic": "velcro"
+ },
+ {
+  "id": "tech-207",
+  "prompt": "Which kitchen appliance cooks food using microwaves?",
+  "choices": [
+   "Blender",
+   "Kettle",
+   "Toaster",
+   "Microwave oven"
+  ],
+  "answer": "Microwave oven",
+  "difficulty": "easy",
+  "topic": "microwave-oven"
+ },
+ {
+  "id": "tech-208",
+  "prompt": "Percy Spencer noticed a melted chocolate bar while working with what?",
+  "choices": [
+   "Light bulbs",
+   "Radar equipment",
+   "Telegraph wire",
+   "Photographic film"
+  ],
+  "answer": "Radar equipment",
+  "difficulty": "hard",
+  "topic": "spencer"
+ },
+ {
+  "id": "tech-209",
+  "prompt": "Fridges keep food cold by circulating what?",
+  "choices": [
+   "Refrigerant",
+   "Dry ice only",
+   "Salt water",
+   "Cold air from outside"
+  ],
+  "answer": "Refrigerant",
+  "difficulty": "easy",
+  "topic": "refrigerator"
+ },
+ {
+  "id": "tech-210",
+  "prompt": "Josephine Cochrane invented an early commercial what in the 1880s?",
+  "choices": [
+   "Sewing machine",
+   "Washing machine",
+   "Dishwasher",
+   "Vacuum cleaner"
+  ],
+  "answer": "Dishwasher",
+  "difficulty": "medium",
+  "topic": "dishwasher"
+ },
+ {
+  "id": "tech-211",
+  "prompt": "Which Briton patented a motorised vacuum cleaner in 1901?",
+  "choices": [
+   "Thomas Edison",
+   "William Hoover",
+   "James Dyson",
+   "Hubert Cecil Booth"
+  ],
+  "answer": "Hubert Cecil Booth",
+  "difficulty": "easy",
+  "topic": "vacuum-cleaner"
+ },
+ {
+  "id": "tech-212",
+  "prompt": "Which Elizabethan courtier designed an early flush toilet in 1596?",
+  "choices": [
+   "Thomas Crapper",
+   "Walter Raleigh",
+   "John Harington",
+   "Francis Drake"
+  ],
+  "answer": "John Harington",
+  "difficulty": "hard",
+  "topic": "harington-toilet"
+ },
+ {
+  "id": "tech-213",
+  "prompt": "Who invented modern electric air conditioning in 1902?",
+  "choices": [
+   "Henry Ford",
+   "Thomas Edison",
+   "Nikola Tesla",
+   "Willis Carrier"
+  ],
+  "answer": "Willis Carrier",
+  "difficulty": "medium",
+  "topic": "air-conditioning"
+ },
+ {
+  "id": "tech-214",
+  "prompt": "Which French physicist invented the steam digester, forerunner of the pressure cooker, in 1679?",
+  "choices": [
+   "Antoine Lavoisier",
+   "Denis Papin",
+   "Blaise Pascal",
+   "Louis Pasteur"
+  ],
+  "answer": "Denis Papin",
+  "difficulty": "hard",
+  "topic": "pressure-cooker"
+ },
+ {
+  "id": "tech-215",
+  "prompt": "Which American inventor patented the safety pin in 1849?",
+  "choices": [
+   "Charles Goodyear",
+   "Walter Hunt",
+   "Elias Howe",
+   "Eli Whitney"
+  ],
+  "answer": "Walter Hunt",
+  "difficulty": "medium",
+  "topic": "safety-pin"
+ },
+ {
+  "id": "tech-216",
+  "prompt": "King Camp Gillette is famous for popularising what product?",
+  "choices": [
+   "Safety razor with disposable blades",
+   "Soap bar",
+   "Electric toothbrush",
+   "Hair dryer"
+  ],
+  "answer": "Safety razor with disposable blades",
+  "difficulty": "medium",
+  "topic": "disposable-razor"
+ },
+ {
+  "id": "tech-217",
+  "prompt": "Teflon, found on non-stick pans, was discovered by accident in which decade?",
+  "choices": [
+   "1960s",
+   "1980s",
+   "1890s",
+   "1930s"
+  ],
+  "answer": "1930s",
+  "difficulty": "medium",
+  "topic": "teflon"
+ },
+ {
+  "id": "tech-218",
+  "prompt": "Kevlar is best known for use in what?",
+  "choices": [
+   "Window glass",
+   "Tyres",
+   "Ships' sails",
+   "Bulletproof vests"
+  ],
+  "answer": "Bulletproof vests",
+  "difficulty": "easy",
+  "topic": "kevlar"
+ },
+ {
+  "id": "tech-219",
+  "prompt": "Which company invented nylon in the 1930s?",
+  "choices": [
+   "Bayer",
+   "Kodak",
+   "DuPont",
+   "Dow"
+  ],
+  "answer": "DuPont",
+  "difficulty": "medium",
+  "topic": "nylon"
+ },
+ {
+  "id": "tech-220",
+  "prompt": "Bakelite, from 1907, was the first fully what?",
+  "choices": [
+   "Synthetic plastic",
+   "Alloy",
+   "Glass",
+   "Fibre"
+  ],
+  "answer": "Synthetic plastic",
+  "difficulty": "medium",
+  "topic": "bakelite"
+ },
+ {
+  "id": "tech-221",
+  "prompt": "Which process made cheap aluminium possible in the 1880s?",
+  "choices": [
+   "Hall-Heroult electrolysis",
+   "Haber process",
+   "Cracking",
+   "Bessemer converting"
+  ],
+  "answer": "Hall-Heroult electrolysis",
+  "difficulty": "medium",
+  "topic": "aluminium"
+ },
+ {
+  "id": "tech-222",
+  "prompt": "Stainless steel resists rust thanks to added what?",
+  "choices": [
+   "Zinc",
+   "Copper",
+   "Tin",
+   "Chromium"
+  ],
+  "answer": "Chromium",
+  "difficulty": "easy",
+  "topic": "stainless"
+ },
+ {
+  "id": "tech-223",
+  "prompt": "Reinforced concrete is concrete strengthened with what?",
+  "choices": [
+   "Plastic sheets",
+   "Steel bars",
+   "Wood",
+   "Glass fibre only"
+  ],
+  "answer": "Steel bars",
+  "difficulty": "medium",
+  "topic": "cement-concrete-reinforced"
+ },
+ {
+  "id": "tech-224",
+  "prompt": "Pilkington's float process of the 1950s made what?",
+  "choices": [
+   "Mirrors",
+   "Safety glasses",
+   "Light bulbs",
+   "Flat glass"
+  ],
+  "answer": "Flat glass",
+  "difficulty": "hard",
+  "topic": "float-glass"
+ },
+ {
+  "id": "tech-225",
+  "prompt": "Graphene is a sheet of which element?",
+  "choices": [
+   "Silicon",
+   "Carbon",
+   "Iron",
+   "Nitrogen"
+  ],
+  "answer": "Carbon",
+  "difficulty": "easy",
+  "topic": "graphene"
+ },
+ {
+  "id": "tech-226",
+  "prompt": "The Haber-Bosch process makes which fertiliser ingredient from air?",
+  "choices": [
+   "Chlorine",
+   "Ammonia",
+   "Methane",
+   "Ethanol"
+  ],
+  "answer": "Ammonia",
+  "difficulty": "medium",
+  "topic": "haber-bosch"
+ },
+ {
+  "id": "tech-227",
+  "prompt": "Which Persian polymath wrote the Canon of Medicine, used in Europe for centuries?",
+  "choices": [
+   "Ptolemy",
+   "Galen",
+   "Avicenna",
+   "Averroes"
+  ],
+  "answer": "Avicenna",
+  "difficulty": "hard",
+  "topic": "ibn-sina"
+ },
+ {
+  "id": "tech-228",
+  "prompt": "Which doctor's tool lets him listen to your heart and lungs?",
+  "choices": [
+   "Stethoscope",
+   "Scalpel",
+   "Thermometer",
+   "Syringe"
+  ],
+  "answer": "Stethoscope",
+  "difficulty": "easy",
+  "topic": "stethoscope"
+ },
+ {
+  "id": "tech-229",
+  "prompt": "Which French doctor invented the stethoscope in 1816?",
+  "choices": [
+   "Rene Laennec",
+   "Joseph Lister",
+   "Louis Pasteur",
+   "Edward Jenner"
+  ],
+  "answer": "Rene Laennec",
+  "difficulty": "medium",
+  "topic": "laennec"
+ },
+ {
+  "id": "tech-230",
+  "prompt": "Who discovered X-rays in 1895?",
+  "choices": [
+   "Marie Curie",
+   "Wilhelm Rontgen",
+   "Albert Einstein",
+   "Alexander Fleming"
+  ],
+  "answer": "Wilhelm Rontgen",
+  "difficulty": "easy",
+  "topic": "xray"
+ },
+ {
+  "id": "tech-231",
+  "prompt": "X-rays are mainly used in medicine to see what?",
+  "choices": [
+   "Bones inside the body",
+   "Heartbeat sounds",
+   "Blood sugar",
+   "Body temperature"
+  ],
+  "answer": "Bones inside the body",
+  "difficulty": "easy",
+  "topic": "xray-use"
+ },
+ {
+  "id": "tech-232",
+  "prompt": "Who discovered penicillin in 1928?",
+  "choices": [
+   "Louis Pasteur",
+   "Joseph Lister",
+   "Robert Koch",
+   "Alexander Fleming"
+  ],
+  "answer": "Alexander Fleming",
+  "difficulty": "easy",
+  "topic": "penicillin"
+ },
+ {
+  "id": "tech-233",
+  "prompt": "Penicillin was first found in what?",
+  "choices": [
+   "A flower",
+   "Seaweed",
+   "Bacterium",
+   "Mould"
+  ],
+  "answer": "Mould",
+  "difficulty": "medium",
+  "topic": "penicillin-mould"
+ },
+ {
+  "id": "tech-234",
+  "prompt": "Which gas was used in an 1846 Boston demonstration of surgical anaesthesia?",
+  "choices": [
+   "Ether",
+   "Oxygen",
+   "Methane",
+   "Helium"
+  ],
+  "answer": "Ether",
+  "difficulty": "medium",
+  "topic": "anaesthesia"
+ },
+ {
+  "id": "tech-235",
+  "prompt": "Joseph Lister reduced surgical infections in the 1860s using what?",
+  "choices": [
+   "Boiling water",
+   "Carbolic acid",
+   "Alcohol only",
+   "Salt"
+  ],
+  "answer": "Carbolic acid",
+  "difficulty": "medium",
+  "topic": "lister"
+ },
+ {
+  "id": "tech-236",
+  "prompt": "Which French chemist helped prove germ theory?",
+  "choices": [
+   "Pierre Curie",
+   "Marie Curie",
+   "Louis Pasteur",
+   "Antoine Lavoisier"
+  ],
+  "answer": "Louis Pasteur",
+  "difficulty": "medium",
+  "topic": "germ-theory"
+ },
+ {
+  "id": "tech-237",
+  "prompt": "An electrocardiogram records what?",
+  "choices": [
+   "Muscle size",
+   "Electrical activity of the heart",
+   "Lung volume",
+   "Brain waves"
+  ],
+  "answer": "Electrical activity of the heart",
+  "difficulty": "medium",
+  "topic": "ecg"
+ },
+ {
+  "id": "tech-238",
+  "prompt": "MRI scanners use strong what to image the body?",
+  "choices": [
+   "X-rays",
+   "Lasers",
+   "Magnets",
+   "Sound waves"
+  ],
+  "answer": "Magnets",
+  "difficulty": "easy",
+  "topic": "mri"
+ },
+ {
+  "id": "tech-239",
+  "prompt": "Ultrasound scans use what to image the body?",
+  "choices": [
+   "X-rays",
+   "High-frequency sound",
+   "Magnets",
+   "Radio signals"
+  ],
+  "answer": "High-frequency sound",
+  "difficulty": "easy",
+  "topic": "ultrasound"
+ },
+ {
+  "id": "tech-240",
+  "prompt": "Insulin, first used on patients in 1922, treats which disease?",
+  "choices": [
+   "Asthma",
+   "Malaria",
+   "Polio",
+   "Diabetes"
+  ],
+  "answer": "Diabetes",
+  "difficulty": "medium",
+  "topic": "insulin"
+ },
+ {
+  "id": "tech-241",
+  "prompt": "Which American developed the first polio vaccine, announced in 1955?",
+  "choices": [
+   "Edward Jenner",
+   "Jonas Salk",
+   "Albert Sabin",
+   "Louis Pasteur"
+  ],
+  "answer": "Jonas Salk",
+  "difficulty": "medium",
+  "topic": "polio-vaccine"
+ },
+ {
+  "id": "tech-242",
+  "prompt": "A pacemaker is used to regulate what?",
+  "choices": [
+   "The heartbeat",
+   "Breathing",
+   "Blood pressure",
+   "Digestion"
+  ],
+  "answer": "The heartbeat",
+  "difficulty": "easy",
+  "topic": "pacemaker"
+ },
+ {
+  "id": "tech-243",
+  "prompt": "In which country was the first human heart transplant performed in 1967?",
+  "choices": [
+   "Germany",
+   "Britain",
+   "United States",
+   "South Africa"
+  ],
+  "answer": "South Africa",
+  "difficulty": "medium",
+  "topic": "first-heart-transplant"
+ },
+ {
+  "id": "tech-244",
+  "prompt": "In which country was the first IVF baby born in 1978?",
+  "choices": [
+   "United States",
+   "Australia",
+   "United Kingdom",
+   "Japan"
+  ],
+  "answer": "United Kingdom",
+  "difficulty": "medium",
+  "topic": "ivf"
+ },
+ {
+  "id": "tech-245",
+  "prompt": "Which two scientists proposed the double helix structure of DNA in 1953?",
+  "choices": [
+   "Pasteur and Koch",
+   "Curie and Rutherford",
+   "Mendel and Darwin",
+   "Watson and Crick"
+  ],
+  "answer": "Watson and Crick",
+  "difficulty": "medium",
+  "topic": "dna-structure"
+ },
+ {
+  "id": "tech-246",
+  "prompt": "CRISPR is a technology for doing what to genes?",
+  "choices": [
+   "Editing them",
+   "Photographing them",
+   "Counting them",
+   "Freezing them"
+  ],
+  "answer": "Editing them",
+  "difficulty": "medium",
+  "topic": "crispr"
+ },
+ {
+  "id": "tech-247",
+  "prompt": "The hypodermic syringe is used to do what?",
+  "choices": [
+   "Measure pressure",
+   "Inject medicine",
+   "Take X-rays",
+   "Cut tissue"
+  ],
+  "answer": "Inject medicine",
+  "difficulty": "easy",
+  "topic": "hypodermic"
+ },
+ {
+  "id": "tech-248",
+  "prompt": "Contact lenses sit directly on what?",
+  "choices": [
+   "The teeth",
+   "The skin of the hand",
+   "The eye",
+   "The ear"
+  ],
+  "answer": "The eye",
+  "difficulty": "easy",
+  "topic": "contact-lens"
+ },
+ {
+  "id": "tech-249",
+  "prompt": "What does a clinical thermometer measure?",
+  "choices": [
+   "Body temperature",
+   "Blood pressure",
+   "Pulse",
+   "Weight"
+  ],
+  "answer": "Body temperature",
+  "difficulty": "easy",
+  "topic": "thermometer-body"
+ },
+ {
+  "id": "tech-250",
+  "prompt": "A sphygmomanometer measures what?",
+  "choices": [
+   "Lung capacity",
+   "Body fat",
+   "Pulse oxygen",
+   "Blood pressure"
+  ],
+  "answer": "Blood pressure",
+  "difficulty": "medium",
+  "topic": "sphygmomanometer"
+ },
+ {
+  "id": "tech-251",
+  "prompt": "Which instrument uses lenses to magnify tiny objects?",
+  "choices": [
+   "Periscope",
+   "Microscope",
+   "Telescope",
+   "Kaleidoscope"
+  ],
+  "answer": "Microscope",
+  "difficulty": "easy",
+  "topic": "microscope-compound"
+ },
+ {
+  "id": "tech-252",
+  "prompt": "Electron microscopes use beams of what to image tiny things?",
+  "choices": [
+   "Visible light",
+   "Ultraviolet",
+   "Sound",
+   "Electrons"
+  ],
+  "answer": "Electrons",
+  "difficulty": "medium",
+  "topic": "electron-microscope"
+ },
+ {
+  "id": "tech-253",
+  "prompt": "Who published the first widely accepted periodic table in 1869?",
+  "choices": [
+   "John Dalton",
+   "Dmitri Mendeleev",
+   "Antoine Lavoisier",
+   "Niels Bohr"
+  ],
+  "answer": "Dmitri Mendeleev",
+  "difficulty": "medium",
+  "topic": "periodic-table"
+ },
+ {
+  "id": "tech-254",
+  "prompt": "The Geiger counter detects what?",
+  "choices": [
+   "Earthquakes",
+   "Wind speed",
+   "Radiation",
+   "Sound"
+  ],
+  "answer": "Radiation",
+  "difficulty": "medium",
+  "topic": "geiger"
+ },
+ {
+  "id": "tech-255",
+  "prompt": "A seismograph records what?",
+  "choices": [
+   "Air pressure",
+   "Ocean currents",
+   "Magnetic fields",
+   "Ground vibrations"
+  ],
+  "answer": "Ground vibrations",
+  "difficulty": "medium",
+  "topic": "seismograph"
+ },
+ {
+  "id": "tech-256",
+  "prompt": "An anemometer measures what?",
+  "choices": [
+   "Air pressure",
+   "Rainfall",
+   "Humidity",
+   "Wind speed"
+  ],
+  "answer": "Wind speed",
+  "difficulty": "medium",
+  "topic": "anemometer"
+ },
+ {
+  "id": "tech-257",
+  "prompt": "A sextant helps navigators to measure what?",
+  "choices": [
+   "Angle of a star above the horizon",
+   "Wind direction",
+   "Ship speed",
+   "Water depth"
+  ],
+  "answer": "Angle of a star above the horizon",
+  "difficulty": "medium",
+  "topic": "sextant"
+ },
+ {
+  "id": "tech-258",
+  "prompt": "A submarine periscope lets crew do what?",
+  "choices": [
+   "Hear underwater",
+   "See above the water's surface",
+   "Dive deeper",
+   "Detect mines"
+  ],
+  "answer": "See above the water's surface",
+  "difficulty": "easy",
+  "topic": "periscope"
+ },
+ {
+  "id": "tech-259",
+  "prompt": "The word LASER stands for light amplification by what?",
+  "choices": [
+   "Solar energy reflection",
+   "Static electrical resonance",
+   "Spectral emission rays",
+   "Stimulated emission of radiation"
+  ],
+  "answer": "Stimulated emission of radiation",
+  "difficulty": "medium",
+  "topic": "laser"
+ },
+ {
+  "id": "tech-260",
+  "prompt": "Theodore Maiman built the first working laser in which decade?",
+  "choices": [
+   "1960s",
+   "1980s",
+   "1950s",
+   "1930s"
+  ],
+  "answer": "1960s",
+  "difficulty": "medium",
+  "topic": "first-laser"
+ },
+ {
+  "id": "tech-261",
+  "prompt": "Which lab invented the transistor in 1947?",
+  "choices": [
+   "Intel",
+   "Bell Labs",
+   "Xerox PARC",
+   "IBM"
+  ],
+  "answer": "Bell Labs",
+  "difficulty": "hard",
+  "topic": "transistor"
+ },
+ {
+  "id": "tech-262",
+  "prompt": "A transistor mainly acts as a tiny what?",
+  "choices": [
+   "Capacitor bank",
+   "Battery",
+   "Antenna",
+   "Electronic switch or amplifier"
+  ],
+  "answer": "Electronic switch or amplifier",
+  "difficulty": "medium",
+  "topic": "transistor-use"
+ },
+ {
+  "id": "tech-263",
+  "prompt": "Jack Kilby built an early what at Texas Instruments in 1958?",
+  "choices": [
+   "Integrated circuit",
+   "Calculator",
+   "Radio",
+   "Television"
+  ],
+  "answer": "Integrated circuit",
+  "difficulty": "medium",
+  "topic": "microchip"
+ },
+ {
+  "id": "tech-264",
+  "prompt": "3D printers build objects by adding what?",
+  "choices": [
+   "Sound waves",
+   "Layers of material",
+   "Pressure",
+   "Liquid metal only"
+  ],
+  "answer": "Layers of material",
+  "difficulty": "easy",
+  "topic": "3d-printing"
+ },
+ {
+  "id": "tech-265",
+  "prompt": "Drones are best described as what?",
+  "choices": [
+   "Hot air balloons",
+   "Satellites",
+   "Unmanned aircraft",
+   "Underwater robots"
+  ],
+  "answer": "Unmanned aircraft",
+  "difficulty": "easy",
+  "topic": "drone"
+ },
+ {
+  "id": "tech-266",
+  "prompt": "Which 1920 play introduced the word robot?",
+  "choices": [
+   "Metropolis",
+   "Dracula",
+   "R.U.R.",
+   "Frankenstein"
+  ],
+  "answer": "R.U.R.",
+  "difficulty": "medium",
+  "topic": "robot-word"
+ },
+ {
+  "id": "tech-267",
+  "prompt": "A nanometre is one what of a metre?",
+  "choices": [
+   "Billionth",
+   "Thousandth",
+   "Trillionth",
+   "Millionth"
+  ],
+  "answer": "Billionth",
+  "difficulty": "easy",
+  "topic": "nanometre"
+ },
+ {
+  "id": "tech-268",
+  "prompt": "Rooftop solar panels turn what into electricity?",
+  "choices": [
+   "Heat from soil",
+   "Rain",
+   "Wind",
+   "Sunlight"
+  ],
+  "answer": "Sunlight",
+  "difficulty": "easy",
+  "topic": "solar-panel-home"
+ },
+ {
+  "id": "tech-269",
+  "prompt": "Which carmaker launched its first car, the Roadster, in 2008?",
+  "choices": [
+   "General Motors",
+   "Tesla",
+   "Ford",
+   "Toyota"
+  ],
+  "answer": "Tesla",
+  "difficulty": "medium",
+  "topic": "tesla-roadster"
+ },
+ {
+  "id": "tech-270",
+  "prompt": "Which technology underlies Bitcoin?",
+  "choices": [
+   "Fibre optics",
+   "Telegraph",
+   "Blockchain",
+   "Radar"
+  ],
+  "answer": "Blockchain",
+  "difficulty": "medium",
+  "topic": "bitcoin-based"
+ },
+ {
+  "id": "tech-271",
+  "prompt": "Which Japanese company invented the QR code in 1994?",
+  "choices": [
+   "Denso Wave",
+   "Nintendo",
+   "Sony",
+   "Toshiba"
+  ],
+  "answer": "Denso Wave",
+  "difficulty": "hard",
+  "topic": "qr-code"
+ },
+ {
+  "id": "tech-272",
+  "prompt": "A barcode is read by a scanner using what?",
+  "choices": [
+   "Sound",
+   "Radio waves",
+   "Reflected light",
+   "Magnetic ink"
+  ],
+  "answer": "Reflected light",
+  "difficulty": "easy",
+  "topic": "barcode"
+ },
+ {
+  "id": "tech-273",
+  "prompt": "RFID tags are read using what?",
+  "choices": [
+   "Sound",
+   "Lasers",
+   "Heat",
+   "Radio waves"
+  ],
+  "answer": "Radio waves",
+  "difficulty": "medium",
+  "topic": "rfid"
+ },
+ {
+  "id": "tech-274",
+  "prompt": "Which Englishman designed the Analytical Engine, a mechanical computer, in the 1830s?",
+  "choices": [
+   "Isaac Newton",
+   "Charles Babbage",
+   "Michael Faraday",
+   "Alan Turing"
+  ],
+  "answer": "Charles Babbage",
+  "difficulty": "medium",
+  "topic": "babbage"
+ },
+ {
+  "id": "tech-275",
+  "prompt": "Who wrote what is often called the first computer program, for Babbage's engine?",
+  "choices": [
+   "Marie Curie",
+   "Ada Lovelace",
+   "Florence Nightingale",
+   "Grace Hopper"
+  ],
+  "answer": "Ada Lovelace",
+  "difficulty": "medium",
+  "topic": "lovelace"
+ },
+ {
+  "id": "tech-276",
+  "prompt": "ENIAC, an early electronic computer of 1945, was built in which country?",
+  "choices": [
+   "Soviet Union",
+   "United States",
+   "Germany",
+   "Japan"
+  ],
+  "answer": "United States",
+  "difficulty": "easy",
+  "topic": "eniac"
+ },
+ {
+  "id": "tech-277",
+  "prompt": "Colossus, built in Britain in World War II, was used to do what?",
+  "choices": [
+   "Guide bombers",
+   "Break German codes",
+   "Track submarines",
+   "Forecast weather"
+  ],
+  "answer": "Break German codes",
+  "difficulty": "medium",
+  "topic": "colossus"
+ },
+ {
+  "id": "tech-278",
+  "prompt": "Which British mathematician helped break the Enigma code?",
+  "choices": [
+   "Alan Turing",
+   "Tim Berners-Lee",
+   "Isaac Newton",
+   "Charles Babbage"
+  ],
+  "answer": "Alan Turing",
+  "difficulty": "medium",
+  "topic": "turing"
+ },
+ {
+  "id": "tech-279",
+  "prompt": "Which US Navy admiral helped create the COBOL language?",
+  "choices": [
+   "Ada Lovelace",
+   "Hedy Lamarr",
+   "Margaret Hamilton",
+   "Grace Hopper"
+  ],
+  "answer": "Grace Hopper",
+  "difficulty": "hard",
+  "topic": "hopper"
+ },
+ {
+  "id": "tech-280",
+  "prompt": "Who invented the World Wide Web in 1989?",
+  "choices": [
+   "Bill Gates",
+   "Steve Jobs",
+   "Tim Berners-Lee",
+   "Vint Cerf"
+  ],
+  "answer": "Tim Berners-Lee",
+  "difficulty": "easy",
+  "topic": "www"
+ },
+ {
+  "id": "tech-281",
+  "prompt": "At which European research lab did Tim Berners-Lee invent the Web?",
+  "choices": [
+   "ESA",
+   "Cambridge Labs",
+   "NASA",
+   "CERN"
+  ],
+  "answer": "CERN",
+  "difficulty": "medium",
+  "topic": "cern"
+ },
+ {
+  "id": "tech-282",
+  "prompt": "ARPANET, the forerunner of the internet, was funded by which country?",
+  "choices": [
+   "Soviet Union",
+   "United Kingdom",
+   "United States",
+   "Japan"
+  ],
+  "answer": "United States",
+  "difficulty": "medium",
+  "topic": "arpanet"
+ },
+ {
+  "id": "tech-283",
+  "prompt": "Which character did Ray Tomlinson choose for email addresses in 1971?",
+  "choices": [
+   "At sign",
+   "Percent sign",
+   "Hash sign",
+   "Ampersand"
+  ],
+  "answer": "At sign",
+  "difficulty": "medium",
+  "topic": "email-at"
+ },
+ {
+  "id": "tech-284",
+  "prompt": "Which pair founded Google in 1998?",
+  "choices": [
+   "Bill Gates and Paul Allen",
+   "Larry Page and Sergey Brin",
+   "Jeff Bezos and Elon Musk",
+   "Steve Jobs and Steve Wozniak"
+  ],
+  "answer": "Larry Page and Sergey Brin",
+  "difficulty": "easy",
+  "topic": "google-founders"
+ },
+ {
+  "id": "tech-285",
+  "prompt": "Who co-founded Apple with Steve Jobs in 1976?",
+  "choices": [
+   "Paul Allen",
+   "Bill Gates",
+   "Tim Cook",
+   "Steve Wozniak"
+  ],
+  "answer": "Steve Wozniak",
+  "difficulty": "easy",
+  "topic": "apple-founders"
+ },
+ {
+  "id": "tech-286",
+  "prompt": "Which company did Bill Gates found with Paul Allen in 1975?",
+  "choices": [
+   "Intel",
+   "Oracle",
+   "Microsoft",
+   "Apple"
+  ],
+  "answer": "Microsoft",
+  "difficulty": "easy",
+  "topic": "microsoft"
+ },
+ {
+  "id": "tech-287",
+  "prompt": "Who invented the computer mouse in the 1960s?",
+  "choices": [
+   "Bill Gates",
+   "Alan Kay",
+   "Steve Jobs",
+   "Douglas Engelbart"
+  ],
+  "answer": "Douglas Engelbart",
+  "difficulty": "medium",
+  "topic": "mouse"
+ },
+ {
+  "id": "tech-288",
+  "prompt": "Which Finn began developing the Linux kernel in 1991?",
+  "choices": [
+   "Linus Torvalds",
+   "Richard Stallman",
+   "Tim Berners-Lee",
+   "Bill Joy"
+  ],
+  "answer": "Linus Torvalds",
+  "difficulty": "medium",
+  "topic": "linux"
+ },
+ {
+  "id": "tech-289",
+  "prompt": "What does the H in HTML stand for?",
+  "choices": [
+   "High-speed",
+   "Host",
+   "Hypertext",
+   "Hyperlink"
+  ],
+  "answer": "Hypertext",
+  "difficulty": "medium",
+  "topic": "html"
+ },
+ {
+  "id": "tech-290",
+  "prompt": "Bluetooth is named after a king of which country?",
+  "choices": [
+   "Norway",
+   "Finland",
+   "Sweden",
+   "Denmark"
+  ],
+  "answer": "Denmark",
+  "difficulty": "medium",
+  "topic": "bluetooth-name"
+ },
+ {
+  "id": "tech-291",
+  "prompt": "How many bits are in a byte?",
+  "choices": [
+   "10",
+   "8",
+   "4",
+   "16"
+  ],
+  "answer": "8",
+  "difficulty": "easy",
+  "topic": "byte"
+ },
+ {
+  "id": "tech-292",
+  "prompt": "Moore's law observed that chip transistor counts roughly do what?",
+  "choices": [
+   "Double every two years",
+   "Stay constant",
+   "Triple every month",
+   "Halve every year"
+  ],
+  "answer": "Double every two years",
+  "difficulty": "medium",
+  "topic": "moore"
+ },
+ {
+  "id": "tech-293",
+  "prompt": "Which IBM computer beat chess champion Garry Kasparov in 1997?",
+  "choices": [
+   "Alpha",
+   "Deep Blue",
+   "Watson",
+   "Eniac"
+  ],
+  "answer": "Deep Blue",
+  "difficulty": "medium",
+  "topic": "deep-blue"
+ },
+ {
+  "id": "tech-294",
+  "prompt": "Which company released ChatGPT in 2022?",
+  "choices": [
+   "Microsoft",
+   "Google",
+   "Meta",
+   "OpenAI"
+  ],
+  "answer": "OpenAI",
+  "difficulty": "easy",
+  "topic": "chatgpt"
+ },
+ {
+  "id": "tech-295",
+  "prompt": "Which research centre developed an early graphical user interface in the 1970s?",
+  "choices": [
+   "Xerox PARC",
+   "NASA",
+   "CERN",
+   "Bell Labs"
+  ],
+  "answer": "Xerox PARC",
+  "difficulty": "medium",
+  "topic": "gui"
+ },
+ {
+  "id": "tech-296",
+  "prompt": "Which storage medium was commonly called a floppy?",
+  "choices": [
+   "Floppy disk",
+   "Flash drive",
+   "Hard drive",
+   "CD"
+  ],
+  "answer": "Floppy disk",
+  "difficulty": "medium",
+  "topic": "floppy"
+ },
+ {
+  "id": "tech-297",
+  "prompt": "Which company released the arcade game Pong in 1972?",
+  "choices": [
+   "Sega",
+   "Nintendo",
+   "Atari",
+   "Sony"
+  ],
+  "answer": "Atari",
+  "difficulty": "easy",
+  "topic": "pong"
+ },
+ {
+  "id": "tech-298",
+  "prompt": "In which country was Tetris created in 1984?",
+  "choices": [
+   "Soviet Union",
+   "Germany",
+   "United States",
+   "Japan"
+  ],
+  "answer": "Soviet Union",
+  "difficulty": "medium",
+  "topic": "tetris"
+ },
+ {
+  "id": "tech-299",
+  "prompt": "Who co-founded Facebook in 2004?",
+  "choices": [
+   "Jeff Bezos",
+   "Elon Musk",
+   "Jack Dorsey",
+   "Mark Zuckerberg"
+  ],
+  "answer": "Mark Zuckerberg",
+  "difficulty": "easy",
+  "topic": "facebook"
+ },
+ {
+  "id": "tech-300",
+  "prompt": "What did Amazon sell first when Jeff Bezos launched it?",
+  "choices": [
+   "Shoes",
+   "Electronics",
+   "Books",
+   "Groceries"
+  ],
+  "answer": "Books",
+  "difficulty": "easy",
+  "topic": "amazon-start"
+ },
+ {
+  "id": "tech-301",
+  "prompt": "Wikipedia was launched in which year?",
+  "choices": [
+   "1991",
+   "2008",
+   "2001",
+   "1995"
+  ],
+  "answer": "2001",
+  "difficulty": "medium",
+  "topic": "wikipedia"
+ },
+ {
+  "id": "tech-302",
+  "prompt": "USB stands for Universal Serial what?",
+  "choices": [
+   "Bus",
+   "Binary",
+   "Base",
+   "Band"
+  ],
+  "answer": "Bus",
+  "difficulty": "easy",
+  "topic": "usb"
+ },
+ {
+  "id": "tech-303",
+  "prompt": "What does CPU stand for?",
+  "choices": [
+   "Computer Power Unit",
+   "Central Processing Unit",
+   "Central Program Unit",
+   "Core Program Utility"
+  ],
+  "answer": "Central Processing Unit",
+  "difficulty": "easy",
+  "topic": "cpu"
+ },
+ {
+  "id": "tech-304",
+  "prompt": "In a computer, RAM is what kind of memory?",
+  "choices": [
+   "Short-term working memory",
+   "Permanent storage",
+   "Sound memory",
+   "Display memory"
+  ],
+  "answer": "Short-term working memory",
+  "difficulty": "easy",
+  "topic": "ram"
+ },
+ {
+  "id": "tech-305",
+  "prompt": "Which early browser, released in 1993, helped popularise the Web?",
+  "choices": [
+   "Edge",
+   "Mosaic",
+   "Safari",
+   "Chrome"
+  ],
+  "answer": "Mosaic",
+  "difficulty": "medium",
+  "topic": "first-browser-mosaic"
+ },
+ {
+  "id": "tech-306",
+  "prompt": "YouTube was founded in which year?",
+  "choices": [
+   "1995",
+   "2012",
+   "2000",
+   "2005"
+  ],
+  "answer": "2005",
+  "difficulty": "easy",
+  "topic": "youtube"
+ },
+ {
+  "id": "tech-307",
+  "prompt": "Hero of Alexandria's aeolipile was a spinning ball powered by what?",
+  "choices": [
+   "Muscle power",
+   "Wind",
+   "Falling water",
+   "Steam"
+  ],
+  "answer": "Steam",
+  "difficulty": "medium",
+  "topic": "aeolipile"
+ },
+ {
+  "id": "tech-308",
+  "prompt": "Which Renaissance artist sketched a parachute design around 1485?",
+  "choices": [
+   "Leonardo da Vinci",
+   "Raphael",
+   "Michelangelo",
+   "Botticelli"
+  ],
+  "answer": "Leonardo da Vinci",
+  "difficulty": "easy",
+  "topic": "parachute-leonardo"
+ },
+ {
+  "id": "tech-309",
+  "prompt": "Elisha Otis's 1850s safety brake made which machine safe for passengers?",
+  "choices": [
+   "Cable car",
+   "Escalator",
+   "Elevator",
+   "Crane"
+  ],
+  "answer": "Elevator",
+  "difficulty": "medium",
+  "topic": "otis"
+ },
+ {
+  "id": "tech-310",
+  "prompt": "Which material framework made the first skyscrapers possible in the 1880s?",
+  "choices": [
+   "Timber",
+   "Brick",
+   "Steel",
+   "Stone"
+  ],
+  "answer": "Steel",
+  "difficulty": "medium",
+  "topic": "skyscraper-steel"
+ },
+ {
+  "id": "tech-311",
+  "prompt": "The first Ferris wheel debuted at which 1893 event?",
+  "choices": [
+   "Centennial Fair",
+   "Chicago World's Fair",
+   "Great Exhibition",
+   "Paris Exposition"
+  ],
+  "answer": "Chicago World's Fair",
+  "difficulty": "medium",
+  "topic": "ferris"
+ },
+ {
+  "id": "tech-312",
+  "prompt": "Whose engineering company built the Eiffel Tower in 1889?",
+  "choices": [
+   "Gustave Eiffel",
+   "Joseph Paxton",
+   "Isambard Brunel",
+   "Thomas Telford"
+  ],
+  "answer": "Gustave Eiffel",
+  "difficulty": "easy",
+  "topic": "eiffel"
+ },
+ {
+  "id": "tech-313",
+  "prompt": "Who designed London's main sewer system after the 1858 Great Stink?",
+  "choices": [
+   "Isambard Brunel",
+   "Joseph Bazalgette",
+   "Edwin Chadwick",
+   "John Snow"
+  ],
+  "answer": "Joseph Bazalgette",
+  "difficulty": "hard",
+  "topic": "bazalgette"
+ },
+ {
+  "id": "tech-314",
+  "prompt": "The Fresnel lens greatly improved the beam of what?",
+  "choices": [
+   "Car headlights only",
+   "Lighthouses",
+   "Lanterns for miners",
+   "Telescopes only"
+  ],
+  "answer": "Lighthouses",
+  "difficulty": "hard",
+  "topic": "fresnel"
+ },
+ {
+  "id": "tech-315",
+  "prompt": "Joseph Paxton's 1851 Crystal Palace was built mainly of what?",
+  "choices": [
+   "Wood and thatch",
+   "Iron and glass",
+   "Steel and concrete",
+   "Stone and brick"
+  ],
+  "answer": "Iron and glass",
+  "difficulty": "medium",
+  "topic": "crystal-palace"
+ }
+]

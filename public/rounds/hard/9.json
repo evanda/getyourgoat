@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-222",
-     "prompt": "Which philosopher wrote Reasons and Persons, with its teletransporter cases?",
+     "id": "hard-tech-112",
+     "prompt": "Which English baronet identified lift, drag, thrust and weight and flew gliders from 1799?",
      "choices": [
-      "Thomas Nagel",
-      "Bernard Williams",
-      "Peter Singer",
-      "Derek Parfit"
+      "Octave Chanute",
+      "George Cayley",
+      "Otto Lilienthal",
+      "Samuel Langley"
      ],
-     "answer": "Derek Parfit",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-001",
-     "prompt": "Which Presocratic remarked that horses would draw gods that look like horses?",
-     "choices": [
-      "Heraclitus",
-      "Empedocles",
-      "Xenophanes",
-      "Anaxagoras"
-     ],
-     "answer": "Xenophanes",
+     "answer": "George Cayley",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-295",
-     "prompt": "Which Indian school's two basic principles are purusha and prakriti?",
+     "id": "hard-tech-110",
+     "prompt": "Which French diplomat headed the company that built the Suez Canal?",
      "choices": [
-      "Samkhya",
-      "Vaisheshika",
-      "Mimamsa",
-      "Nyaya"
+      "Ferdinand de Lesseps",
+      "Gustave Eiffel",
+      "Louis Bonaparte",
+      "Luigi Negrelli"
      ],
-     "answer": "Samkhya",
+     "answer": "Ferdinand de Lesseps",
      "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-185",
+     "prompt": "Which English clergyman invented the slide rule around 1622?",
+     "choices": [
+      "Edmund Gunter",
+      "John Napier",
+      "Henry Briggs",
+      "William Oughtred"
+     ],
+     "answer": "William Oughtred",
+     "difficulty": "hard"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-043",
-     "prompt": "Which Epicurean's library of papyri was found at Herculaneum?",
+     "id": "hard-tech-280",
+     "prompt": "Which engineer patented the AC induction motor in 1888?",
      "choices": [
-      "Hermarchus",
-      "Metrodorus",
-      "Philodemus",
-      "Lucretius"
+      "Thomas Edison",
+      "Galileo Ferraris",
+      "Nikola Tesla",
+      "George Westinghouse"
      ],
-     "answer": "Philodemus",
-     "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-123",
-     "prompt": "Which Locke work argued that the state should tolerate differing religious belief?",
-     "choices": [
-      "Essays on the Law of Nature",
-      "The Reasonableness of Christianity",
-      "Some Thoughts Concerning Education",
-      "A Letter Concerning Toleration"
-     ],
-     "answer": "A Letter Concerning Toleration",
+     "answer": "Nikola Tesla",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-229",
-     "prompt": "In Rawls's theory, the hypothetical starting point is called the original what?",
+     "id": "hard-tech-197",
+     "prompt": "A radar discovery by Percy Spencer at Raytheon in 1945 led to which appliance?",
      "choices": [
-      "Position",
-      "Agreement",
-      "Contract",
-      "Condition"
+      "Microwave oven",
+      "Refrigerator",
+      "Toaster",
+      "Electric kettle"
      ],
-     "answer": "Position",
+     "answer": "Microwave oven",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-008",
+     "prompt": "Roman marine concrete set underwater thanks to a volcanic ash called what?",
+     "choices": [
+      "Pozzolana",
+      "Gypsum",
+      "Travertine",
+      "Alabaster"
+     ],
+     "answer": "Pozzolana",
+     "difficulty": "medium"
     }
    ]
   }

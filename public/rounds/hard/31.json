@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-284",
-     "prompt": "Which Japanese Zen master wrote the Shobogenzo and founded Soto in Japan?",
+     "id": "hard-tech-173",
+     "prompt": "Which Italian physician invented the cuff blood-pressure device in 1896?",
      "choices": [
-      "Eisai",
-      "Dogen",
-      "Bankei",
-      "Hakuin"
+      "Karl Vierordt",
+      "Samuel von Basch",
+      "Nikolai Korotkov",
+      "Scipione Riva-Rocci"
      ],
-     "answer": "Dogen",
+     "answer": "Scipione Riva-Rocci",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-298",
-     "prompt": "Which sage is credited with the Nyaya Sutras on logic?",
+     "id": "hard-tech-059",
+     "prompt": "Which 1825 English line was the first public railway to use steam locomotives?",
      "choices": [
-      "Gautama Akshapada",
-      "Patanjali",
-      "Jaimini",
-      "Kanada"
+      "Stratford and Moreton",
+      "Liverpool and Manchester",
+      "Stockton and Darlington",
+      "Surrey Iron Railway"
      ],
-     "answer": "Gautama Akshapada",
+     "answer": "Stockton and Darlington",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-077",
-     "prompt": "Which Abelard work sets conflicting authorities side by side?",
+     "id": "hard-tech-258",
+     "prompt": "Which Andalusian surgeon's c. 1000 Al-Tasrif illustrated surgical instruments?",
      "choices": [
-      "Scito te ipsum",
-      "Dialectica",
-      "Sic et Non",
-      "Historia Calamitatum"
+      "Al-Razi",
+      "Al-Zahrawi",
+      "Ibn Rushd",
+      "Avicenna"
      ],
-     "answer": "Sic et Non",
+     "answer": "Al-Zahrawi",
      "difficulty": "medium"
     }
    ]

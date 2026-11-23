@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-243",
-     "prompt": "Which thinker's Floating Man imagines a person with no sensation who still knows he exists?",
+     "id": "hard-tech-208",
+     "prompt": "At which European organization did Tim Berners-Lee propose the World Wide Web in 1989?",
      "choices": [
-      "Al-Ghazali",
-      "Averroes",
-      "Al-Farabi",
-      "Avicenna"
+      "CERN",
+      "Philips",
+      "Siemens",
+      "ESA"
      ],
-     "answer": "Avicenna",
+     "answer": "CERN",
      "difficulty": "easy"
     },
     {
-     "id": "hard-phil-073",
-     "prompt": "Which movement did Augustine follow for about nine years before his conversion?",
+     "id": "hard-tech-013",
+     "prompt": "Which Korean Buddhist text of 1377 was printed with metal movable type?",
      "choices": [
-      "Gnosticism",
-      "Manichaeism",
-      "Arianism",
-      "Stoicism"
+      "Tripitaka Koreana",
+      "Diamond Sutra",
+      "Jikji",
+      "Hunminjeongeum"
      ],
-     "answer": "Manichaeism",
-     "difficulty": "easy"
+     "answer": "Jikji",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-039",
-     "prompt": "Which Roman Stoic was the teacher of Epictetus?",
+     "id": "hard-tech-103",
+     "prompt": "Whose 1820s lens of concentric rings transformed lighthouses?",
      "choices": [
-      "Musonius Rufus",
-      "Seneca",
-      "Cato the Younger",
-      "Arrian"
+      "Augustin Fresnel",
+      "Leon Foucault",
+      "Louis Daguerre",
+      "Dominique Arago"
      ],
-     "answer": "Musonius Rufus",
+     "answer": "Augustin Fresnel",
      "difficulty": "medium"
     }
    ]

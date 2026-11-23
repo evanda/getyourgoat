@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-047",
-     "prompt": "What Greek term names the Pyrrhonists' suspension of judgment?",
+     "id": "hard-tech-300",
+     "prompt": "Which Mesoamerican city's Pyramid of the Sun is among its largest structures?",
      "choices": [
-      "Epoche",
-      "Aporia",
-      "Anamnesis",
-      "Akrasia"
+      "Tenochtitlan",
+      "Chichen Itza",
+      "Tikal",
+      "Teotihuacan"
      ],
-     "answer": "Epoche",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-270",
-     "prompt": "Which Legalist statesman reformed Qin and is credited with the Book of Lord Shang?",
-     "choices": [
-      "Shen Buhai",
-      "Li Si",
-      "Shang Yang",
-      "Han Feizi"
-     ],
-     "answer": "Shang Yang",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-144",
-     "prompt": "Which Nietzsche book first announces that God is dead?",
-     "choices": [
-      "The Gay Science",
-      "Beyond Good and Evil",
-      "Twilight of the Idols",
-      "Daybreak"
-     ],
-     "answer": "The Gay Science",
+     "answer": "Teotihuacan",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-045",
+     "prompt": "Which East Asian ship type with battened sails and bulkheaded hulls did Marco Polo describe?",
+     "choices": [
+      "Dhow",
+      "Cog",
+      "Junk",
+      "Caravel"
+     ],
+     "answer": "Junk",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-312",
+     "prompt": "Which American patented the three-position traffic signal in 1923?",
+     "choices": [
+      "Elijah McCoy",
+      "Granville Woods",
+      "Garrett Morgan",
+      "Lewis Latimer"
+     ],
+     "answer": "Garrett Morgan",
+     "difficulty": "hard"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-055",
-     "prompt": "What is Socrates' method of cross-examining a claim to expose contradictions called?",
+     "id": "hard-tech-054",
+     "prompt": "Whose 1712 atmospheric engine pumped water out of mines?",
      "choices": [
-      "Anamnesis",
-      "Katharsis",
-      "Mimesis",
-      "Elenchus"
+      "Thomas Newcomen",
+      "Richard Trevithick",
+      "James Watt",
+      "Thomas Savery"
      ],
-     "answer": "Elenchus",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-114",
-     "prompt": "Which baron wrote the materialist System of Nature?",
-     "choices": [
-      "d'Holbach",
-      "La Mettrie",
-      "Condorcet",
-      "Helvetius"
-     ],
-     "answer": "d'Holbach",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-181",
-     "prompt": "Which prize did Sartre decline in 1964?",
-     "choices": [
-      "The Prix Goncourt",
-      "The Nobel Peace Prize",
-      "The Legion of Honour",
-      "The Nobel Prize in Literature"
-     ],
-     "answer": "The Nobel Prize in Literature",
+     "answer": "Thomas Newcomen",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-247",
+     "prompt": "Which volcanic glass did Mesoamericans use for razor-sharp blades?",
+     "choices": [
+      "Obsidian",
+      "Basalt",
+      "Jade",
+      "Flint"
+     ],
+     "answer": "Obsidian",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-233",
+     "prompt": "Which Swiss engineer invented Velcro after studying burrs?",
+     "choices": [
+      "George de Mestral",
+      "Gideon Sundback",
+      "Percy Spencer",
+      "Hans Geiger"
+     ],
+     "answer": "George de Mestral",
+     "difficulty": "medium"
     }
    ]
   }

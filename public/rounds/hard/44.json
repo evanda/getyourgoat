@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-089",
-     "prompt": "Which Florentine scholar translated Plato's dialogues into Latin?",
+     "id": "hard-tech-232",
+     "prompt": "Which Swedish-American engineer perfected the modern zipper in 1913?",
      "choices": [
-      "Marsilio Ficino",
-      "Leonardo Bruni",
-      "Lorenzo Valla",
-      "Pico della Mirandola"
+      "Elias Howe",
+      "Whitcomb Judson",
+      "Gideon Sundback",
+      "Walter Hunt"
      ],
-     "answer": "Marsilio Ficino",
+     "answer": "Gideon Sundback",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-237",
-     "prompt": "Which Christian physician led the translation of Galen and Greek texts into Arabic?",
+     "id": "hard-tech-155",
+     "prompt": "Which writer proposed geostationary communications satellites in 1945?",
      "choices": [
-      "Qusta ibn Luqa",
-      "Hunayn ibn Ishaq",
-      "Thabit ibn Qurra",
-      "Al-Kindi"
+      "Arthur C. Clarke",
+      "Robert Heinlein",
+      "Isaac Asimov",
+      "Wernher von Braun"
      ],
-     "answer": "Hunayn ibn Ishaq",
-     "difficulty": "hard"
+     "answer": "Arthur C. Clarke",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-097",
-     "prompt": "Which Princess corresponded with Descartes, pressing him on how mind moves body?",
+     "id": "hard-tech-282",
+     "prompt": "Which GE researcher developed the ductile tungsten filament around 1910?",
      "choices": [
-      "Elisabeth of Bohemia",
-      "Anne Conway",
-      "Christina of Sweden",
-      "Margaret Cavendish"
+      "Lewis Latimer",
+      "William Coolidge",
+      "Elmer Sperry",
+      "Irving Langmuir"
      ],
-     "answer": "Elisabeth of Bohemia",
+     "answer": "William Coolidge",
      "difficulty": "medium"
     }
    ]

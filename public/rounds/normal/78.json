@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-110",
-     "prompt": "Nietzsche began his career as a professor of what subject?",
+     "id": "tech-025",
+     "prompt": "Which Chinese dynasty united earlier waterways into the Grand Canal around 600 AD?",
      "choices": [
-      "Classical philology",
-      "Theology",
-      "Law",
-      "Medicine"
+      "Ming",
+      "Sui",
+      "Qin",
+      "Tang"
      ],
-     "answer": "Classical philology",
+     "answer": "Sui",
      "difficulty": "hard"
     },
     {
-     "id": "phil-188",
-     "prompt": "Russell's teapot is an analogy about what?",
+     "id": "tech-004",
+     "prompt": "What did Roman aqueducts carry?",
      "choices": [
-      "Burden of proof",
-      "Free will",
-      "Taste",
-      "Time"
+      "Mail",
+      "Soldiers",
+      "Water",
+      "Grain"
      ],
-     "answer": "Burden of proof",
-     "difficulty": "medium"
+     "answer": "Water",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-109",
-     "prompt": "Who wrote On the Genealogy of Morality?",
+     "id": "tech-293",
+     "prompt": "Which IBM computer beat chess champion Garry Kasparov in 1997?",
      "choices": [
-      "Nietzsche",
-      "Schopenhauer",
-      "Hegel",
-      "Kierkegaard"
+      "Alpha",
+      "Deep Blue",
+      "Watson",
+      "Eniac"
      ],
-     "answer": "Nietzsche",
+     "answer": "Deep Blue",
      "difficulty": "medium"
     }
    ]

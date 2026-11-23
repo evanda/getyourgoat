@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-194",
-     "prompt": "Which Oxford philosopher introduced prima facie duties in The Right and the Good?",
+     "id": "hard-tech-004",
+     "prompt": "Which medieval siege engine hurled stones using a falling counterweight?",
      "choices": [
-      "W. D. Ross",
-      "G. E. Moore",
-      "H. A. Prichard",
-      "R. M. Hare"
+      "Trebuchet",
+      "Ballista",
+      "Onager",
+      "Scorpio"
      ],
-     "answer": "W. D. Ross",
+     "answer": "Trebuchet",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-023",
+     "prompt": "Which Timurid ruler built a great observatory at Samarkand in the 1420s?",
+     "choices": [
+      "Akbar",
+      "Ulugh Beg",
+      "Shah Rukh",
+      "Babur"
+     ],
+     "answer": "Ulugh Beg",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-107",
-     "prompt": "Which philosopher coined the term aesthetics for the study of sensory beauty?",
+     "id": "hard-tech-107",
+     "prompt": "The Brooklyn Bridge, opened 1883, pioneered which cable material for suspension spans?",
      "choices": [
-      "Gotthold Lessing",
-      "Alexander Baumgarten",
-      "Moses Mendelssohn",
-      "Johann Winckelmann"
+      "Cast-iron rods",
+      "Wrought-iron chain",
+      "Steel wire",
+      "Hemp rope"
      ],
-     "answer": "Alexander Baumgarten",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-122",
-     "prompt": "Which Irish friend of Locke posed the problem of a blind man made to see?",
-     "choices": [
-      "Peter King",
-      "Robert Boyle",
-      "John Toland",
-      "William Molyneux"
-     ],
-     "answer": "William Molyneux",
-     "difficulty": "medium"
+     "answer": "Steel wire",
+     "difficulty": "hard"
     }
    ]
   }

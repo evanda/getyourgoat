@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-081",
-     "prompt": "Which Dominican taught Aquinas and was called 'the Great'?",
+     "id": "hard-tech-050",
+     "prompt": "Which clock regulator, using a foliot, drove the first European mechanical clocks?",
      "choices": [
-      "Albertus Magnus",
-      "Siger of Brabant",
-      "Bonaventure",
-      "Robert Kilwardby"
+      "Pendulum",
+      "Verge escapement",
+      "Remontoire",
+      "Anchor escapement"
      ],
-     "answer": "Albertus Magnus",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-208",
-     "prompt": "Which philosopher proposed Swampman in a thought experiment about meaning?",
-     "choices": [
-      "Jerry Fodor",
-      "Donald Davidson",
-      "W. V. O. Quine",
-      "Daniel Dennett"
-     ],
-     "answer": "Donald Davidson",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-292",
-     "prompt": "Which Japanese author wrote The Book of Tea in English?",
-     "choices": [
-      "Okakura Kakuzo",
-      "Suzuki Daisetsu",
-      "Kuki Shuzo",
-      "Nitobe Inazo"
-     ],
-     "answer": "Okakura Kakuzo",
+     "answer": "Verge escapement",
      "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-084",
+     "prompt": "Who patented Portland cement in 1824?",
+     "choices": [
+      "William Parsons",
+      "John Smeaton",
+      "Joseph Aspdin",
+      "Isambard Brunel"
+     ],
+     "answer": "Joseph Aspdin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-096",
+     "prompt": "Who invented the rechargeable lead-acid battery in 1859?",
+     "choices": [
+      "Gaston Plante",
+      "Georges Leclanche",
+      "Alessandro Volta",
+      "John Daniell"
+     ],
+     "answer": "Gaston Plante",
+     "difficulty": "medium"
     }
    ]
   }

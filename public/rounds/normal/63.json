@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-040",
-     "prompt": "Socrates lived in which century BCE?",
+     "id": "tech-223",
+     "prompt": "Reinforced concrete is concrete strengthened with what?",
      "choices": [
-      "5th",
-      "3rd",
-      "2nd",
-      "1st"
+      "Plastic sheets",
+      "Steel bars",
+      "Wood",
+      "Glass fibre only"
      ],
-     "answer": "5th",
+     "answer": "Steel bars",
      "difficulty": "medium"
     },
     {
-     "id": "phil-205",
-     "prompt": "In Hindu thought, atman refers to what?",
+     "id": "tech-188",
+     "prompt": "Which two companies jointly developed the compact disc?",
      "choices": [
-      "The self or soul",
-      "The creator god",
-      "A sacred river",
-      "A ritual"
+      "Apple and IBM",
+      "Samsung and LG",
+      "Kodak and Fuji",
+      "Sony and Philips"
      ],
-     "answer": "The self or soul",
+     "answer": "Sony and Philips",
      "difficulty": "medium"
     },
     {
-     "id": "phil-003",
-     "prompt": "Which Greek philosopher was sentenced to drink hemlock?",
+     "id": "tech-132",
+     "prompt": "What device inflates in a crash to cushion drivers?",
      "choices": [
-      "Socrates",
-      "Aristotle",
-      "Epicurus",
-      "Heraclitus"
+      "Bumper",
+      "Roll bar",
+      "Crumple zone",
+      "Airbag"
      ],
-     "answer": "Socrates",
+     "answer": "Airbag",
      "difficulty": "easy"
     }
    ]

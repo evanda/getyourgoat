@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-290",
-     "prompt": "Which Chinese tradition stresses ritual, family duty, and virtue?",
+     "id": "tech-209",
+     "prompt": "Fridges keep food cold by circulating what?",
      "choices": [
-      "Confucianism",
-      "Daoism",
-      "Legalism",
-      "Mohism"
+      "Refrigerant",
+      "Dry ice only",
+      "Salt water",
+      "Cold air from outside"
      ],
-     "answer": "Confucianism",
+     "answer": "Refrigerant",
      "difficulty": "easy"
     },
     {
-     "id": "phil-196",
-     "prompt": "Which philosopher wrote the Pensees?",
+     "id": "tech-170",
+     "prompt": "What stores chemical energy and gives electric power in a torch?",
      "choices": [
-      "Pascal",
-      "Montaigne",
-      "Descartes",
-      "Voltaire"
+      "Capacitor",
+      "Battery",
+      "Spring",
+      "Magnet"
      ],
-     "answer": "Pascal",
+     "answer": "Battery",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-007",
+     "prompt": "Which country first developed the magnetic compass?",
+     "choices": [
+      "Greece",
+      "Portugal",
+      "Egypt",
+      "China"
+     ],
+     "answer": "China",
      "difficulty": "medium"
-    },
-    {
-     "id": "phil-202",
-     "prompt": "Under which tree is the Buddha said to have gained awakening?",
-     "choices": [
-      "Bodhi tree",
-      "Banyan tree",
-      "Olive tree",
-      "Oak tree"
-     ],
-     "answer": "Bodhi tree",
-     "difficulty": "easy"
     }
    ]
   }

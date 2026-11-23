@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-041",
-     "prompt": "Aristotle wrote that man is a what kind of animal?",
+     "id": "tech-100",
+     "prompt": "Which British jet airliner entered service in 1952, the world's first?",
      "choices": [
-      "Political",
-      "Rational only",
-      "Wandering",
-      "Religious"
+      "Boeing 707",
+      "Concorde",
+      "Vickers Viscount",
+      "de Havilland Comet"
      ],
-     "answer": "Political",
+     "answer": "de Havilland Comet",
+     "difficulty": "hard"
+    },
+    {
+     "id": "tech-227",
+     "prompt": "Which Persian polymath wrote the Canon of Medicine, used in Europe for centuries?",
+     "choices": [
+      "Ptolemy",
+      "Galen",
+      "Avicenna",
+      "Averroes"
+     ],
+     "answer": "Avicenna",
+     "difficulty": "hard"
+    },
+    {
+     "id": "tech-022",
+     "prompt": "Which small, nimble ship type did Portuguese explorers favour in the 1400s?",
+     "choices": [
+      "Trireme",
+      "Caravel",
+      "Galleon",
+      "Longship"
+     ],
+     "answer": "Caravel",
      "difficulty": "medium"
-    },
-    {
-     "id": "phil-255",
-     "prompt": "Which of these thinkers was a Roman Stoic?",
-     "choices": [
-      "Seneca",
-      "Plato",
-      "Confucius",
-      "Descartes"
-     ],
-     "answer": "Seneca",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-185",
-     "prompt": "The Ship of Theseus puzzle concerns what?",
-     "choices": [
-      "Identity over time",
-      "Free will",
-      "Beauty",
-      "Justice"
-     ],
-     "answer": "Identity over time",
-     "difficulty": "easy"
     }
    ]
   }

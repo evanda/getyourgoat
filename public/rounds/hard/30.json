@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-238",
-     "prompt": "Which Arabic term names speculative theology?",
+     "id": "hard-tech-141",
+     "prompt": "Which device invented at Birmingham in 1940 made compact microwave radar possible?",
      "choices": [
-      "Tasawwuf",
-      "Falsafa",
-      "Kalam",
-      "Fiqh"
+      "Cathode-ray tube",
+      "Traveling-wave tube",
+      "Cavity magnetron",
+      "Klystron"
      ],
-     "answer": "Kalam",
-     "difficulty": "medium"
+     "answer": "Cavity magnetron",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-016",
-     "prompt": "Which Plato dialogue features a charioteer driving two winged horses?",
+     "id": "hard-tech-194",
+     "prompt": "Which GE engineer demonstrated the first practical visible-light LED in 1962?",
      "choices": [
-      "Phaedrus",
-      "Timaeus",
-      "Philebus",
-      "Sophist"
+      "Isamu Akasaki",
+      "Shuji Nakamura",
+      "Nick Holonyak",
+      "Oleg Losev"
      ],
-     "answer": "Phaedrus",
+     "answer": "Nick Holonyak",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-217",
+     "prompt": "Which researcher unveiled the computer mouse in the 1968 Mother of All Demos?",
+     "choices": [
+      "Ted Nelson",
+      "Ivan Sutherland",
+      "Alan Kay",
+      "Douglas Engelbart"
+     ],
+     "answer": "Douglas Engelbart",
      "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-112",
-     "prompt": "Which thinker used a statue gaining senses one by one in his Treatise on Sensations?",
-     "choices": [
-      "Helvetius",
-      "Condillac",
-      "Diderot",
-      "La Mettrie"
-     ],
-     "answer": "Condillac",
-     "difficulty": "medium"
     }
    ]
   }

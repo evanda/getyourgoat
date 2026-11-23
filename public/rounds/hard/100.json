@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-211",
-     "prompt": "Which philosopher introduced the grue paradox?",
+     "id": "hard-tech-274",
+     "prompt": "The Panama Canal opened in which decade?",
      "choices": [
-      "W. V. O. Quine",
-      "Hilary Putnam",
-      "Carl Hempel",
-      "Nelson Goodman"
+      "1900s",
+      "1890s",
+      "1910s",
+      "1920s"
      ],
-     "answer": "Nelson Goodman",
+     "answer": "1910s",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-012",
+     "prompt": "Which Buddhist text, printed in AD 868, is the oldest dated printed book?",
+     "choices": [
+      "Heart Sutra",
+      "Lotus Sutra",
+      "Tripitaka Koreana",
+      "Diamond Sutra"
+     ],
+     "answer": "Diamond Sutra",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-159",
-     "prompt": "Which Russian anarchist wrote Mutual Aid: A Factor of Evolution?",
+     "id": "hard-tech-315",
+     "prompt": "In which decade did Louis Braille devise his tactile reading system?",
      "choices": [
-      "Leo Tolstoy",
-      "Sergey Nechayev",
-      "Peter Kropotkin",
-      "Mikhail Bakunin"
+      "1850s",
+      "1820s",
+      "1890s",
+      "1780s"
      ],
-     "answer": "Peter Kropotkin",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-191",
-     "prompt": "To which logician did Russell write in 1902 about his paradox?",
-     "choices": [
-      "David Hilbert",
-      "Georg Cantor",
-      "Gottlob Frege",
-      "Giuseppe Peano"
-     ],
-     "answer": "Gottlob Frege",
+     "answer": "1820s",
      "difficulty": "medium"
     }
    ]

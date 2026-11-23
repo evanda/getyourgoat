@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-040",
-     "prompt": "Which Roman Stoic wrote On the Shortness of Life?",
+     "id": "hard-tech-064",
+     "prompt": "John Kay's 1733 patent improved weaving with which device?",
      "choices": [
-      "Seneca",
-      "Cicero",
-      "Musonius Rufus",
-      "Epictetus"
+      "Jacquard head",
+      "Power loom",
+      "Spinning jenny",
+      "Flying shuttle"
      ],
-     "answer": "Seneca",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-168",
-     "prompt": "What term does Husserl use for the pre-theoretical world of lived experience?",
-     "choices": [
-      "Weltanschauung",
-      "Lebenswelt",
-      "Zeitgeist",
-      "Dasein"
-     ],
-     "answer": "Lebenswelt",
+     "answer": "Flying shuttle",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-199",
-     "prompt": "Which philosopher compared his Tractatus to a ladder to be thrown away?",
+     "id": "hard-tech-076",
+     "prompt": "Alfred Nobel's dynamite stabilized which explosive with kieselguhr?",
      "choices": [
-      "Gottlob Frege",
-      "Rudolf Carnap",
-      "Bertrand Russell",
-      "Ludwig Wittgenstein"
+      "Guncotton",
+      "Nitroglycerin",
+      "TNT",
+      "Picric acid"
      ],
-     "answer": "Ludwig Wittgenstein",
+     "answer": "Nitroglycerin",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-053",
+     "prompt": "Which Roman-era complex near Arles used 16 water wheels to mill grain?",
+     "choices": [
+      "Pompeii",
+      "Ostia",
+      "Hierapolis",
+      "Barbegal"
+     ],
+     "answer": "Barbegal",
+     "difficulty": "hard"
     }
    ]
   }

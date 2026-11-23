@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-206",
-     "prompt": "Which philosopher wrote On the Plurality of Worlds, defending modal realism?",
+     "id": "hard-tech-088",
+     "prompt": "In which city did Edison's Pearl Street Station open in 1882?",
      "choices": [
-      "Saul Kripke",
-      "Alvin Plantinga",
-      "David Lewis",
-      "Robert Stalnaker"
+      "New York",
+      "Menlo Park",
+      "Philadelphia",
+      "Chicago"
      ],
-     "answer": "David Lewis",
-     "difficulty": "medium"
+     "answer": "New York",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-304",
-     "prompt": "Which two brothers founded the Yogacara school of Buddhism?",
+     "id": "hard-tech-134",
+     "prompt": "Which American's Clermont began steamboat service on the Hudson in 1807?",
      "choices": [
-      "Asanga and Vasubandhu",
-      "Nagarjuna and Aryadeva",
-      "Buddhaghosa and Nagasena",
-      "Dignaga and Dharmakirti"
+      "James Rumsey",
+      "Robert Fulton",
+      "John Fitch",
+      "John Stevens"
      ],
-     "answer": "Asanga and Vasubandhu",
-     "difficulty": "hard"
+     "answer": "Robert Fulton",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-220",
-     "prompt": "Which view holds that free will and determinism are compatible?",
+     "id": "hard-tech-202",
+     "prompt": "Which Navy officer wrote the first compiler, the A-0 system, in 1952?",
      "choices": [
-      "Compatibilism",
-      "Fatalism",
-      "Occasionalism",
-      "Incompatibilism"
+      "Kathleen Booth",
+      "Ada Lovelace",
+      "Jean Bartik",
+      "Grace Hopper"
      ],
-     "answer": "Compatibilism",
+     "answer": "Grace Hopper",
      "difficulty": "easy"
     }
    ]

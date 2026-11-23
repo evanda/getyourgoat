@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "tech-001",
+    "pick": "Castle gates and walls",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-002",
+    "pick": "Hurled huge stones at walls",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-003",
+    "pick": "Flowing water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-004",
+    "pick": "Water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-005",
+    "pick": "Plough",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-006",
+    "pick": "Stay steady on a horse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-007",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-008",
+    "pick": "Bi Sheng",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-009",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-010",
+    "pick": "Water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-011",
+    "pick": "Archimedes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-012",
+    "pick": "Movements of sun, moon and planets",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-013",
+    "pick": "Romans",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-014",
+    "pick": "Byzantine Empire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-015",
+    "pick": "The sun's shadow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-016",
+    "pick": "Flowing water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-017",
+    "pick": "Falling weights",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-018",
+    "pick": "Grind grain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-019",
+    "pick": "Netherlands",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-020",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-021",
+    "pick": "Height of stars above the horizon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-022",
+    "pick": "Caravel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-023",
+    "pick": "A lighthouse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-024",
+    "pick": "Roman Empire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-025",
+    "pick": "Sui",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-026",
+    "pick": "Earthquakes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-027",
+    "pick": "Abacus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-028",
+    "pick": "Linked metal rings",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-029",
+    "pick": "Tin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-030",
+    "pick": "Carbon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-031",
+    "pick": "Sand",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-032",
+    "pick": "English",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-033",
+    "pick": "Needed less training to use",
+    "confidence": "medium",
+    "problem": "Longer range is arguable: heavy crossbows could match or outrange longbows"
+  },
+  {
+    "id": "tech-034",
+    "pick": "Projectiles at enemies",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-035",
+    "pick": "Getting soldiers over walls",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-036",
+    "pick": "Their hooves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-037",
+    "pick": "Heavy clay soil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-038",
+    "pick": "Water for irrigation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-039",
+    "pick": "Thread or yarn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-040",
+    "pick": "Potassium nitrate",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-041",
+    "pick": "Constantinople",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-042",
+    "pick": "Hindu-Arabic numerals",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-043",
+    "pick": "Vitruvius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-044",
+    "pick": "Northern nomadic raiders",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-045",
+    "pick": "Shallow keels",
+    "confidence": "medium",
+    "problem": null
+  },
+  {
+    "id": "tech-046",
+    "pick": "Books",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-047",
+    "pick": "Watermill grain-grinding site",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-048",
+    "pick": "Ibn al-Haytham",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-049",
+    "pick": "Eli Whitney",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-050",
+    "pick": "Seeds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-051",
+    "pick": "Thomas Newcomen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-052",
+    "pick": "18th century",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-053",
+    "pick": "Flying shuttle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-054",
+    "pick": "James Hargreaves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-055",
+    "pick": "Edmund Cartwright",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-056",
+    "pick": "Punched cards",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-057",
+    "pick": "George and Robert Stephenson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-058",
+    "pick": "England",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-059",
+    "pick": "Richard Trevithick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-060",
+    "pick": "Steel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-061",
+    "pick": "Severn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-062",
+    "pick": "Coal miners",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-063",
+    "pick": "Revolver",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-064",
+    "pick": "Elias Howe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-065",
+    "pick": "Vulcanized rubber",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-066",
+    "pick": "Reaper",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-067",
+    "pick": "Ford",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-068",
+    "pick": "Model T",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-069",
+    "pick": "Alfred Nobel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-070",
+    "pick": "Cement",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-071",
+    "pick": "Food in sealed containers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-072",
+    "pick": "Milk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-073",
+    "pick": "Lake Erie",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-074",
+    "pick": "Red Sea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-075",
+    "pick": "Panama Canal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-076",
+    "pick": "Steamboat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-077",
+    "pick": "Isambard Kingdom Brunel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-078",
+    "pick": "Screw propellers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-079",
+    "pick": "Titanic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-080",
+    "pick": "Rudolf Diesel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-081",
+    "pick": "Internal combustion engine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-082",
+    "pick": "Petrol-powered automobile",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-083",
+    "pick": "Bicycle tyres",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-084",
+    "pick": "Mercury",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-085",
+    "pick": "Galileo Galilei",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-086",
+    "pick": "Isaac Newton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-087",
+    "pick": "Finding longitude",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-088",
+    "pick": "Christiaan Huygens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-089",
+    "pick": "Antonie van Leeuwenhoek",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-090",
+    "pick": "Daniel Fahrenheit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-091",
+    "pick": "Barometer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-092",
+    "pick": "Benjamin Franklin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-093",
+    "pick": "Montgolfier brothers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-094",
+    "pick": "Smallpox",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-095",
+    "pick": "Wright brothers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-096",
+    "pick": "Kitty Hawk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-097",
+    "pick": "Charles Lindbergh",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-098",
+    "pick": "Spirit of St. Louis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-099",
+    "pick": "Frank Whittle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-100",
+    "pick": "de Havilland Comet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-101",
+    "pick": "Concorde",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-102",
+    "pick": "Chuck Yeager",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-103",
+    "pick": "Igor Sikorsky",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-104",
+    "pick": "Rigid airships",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-105",
+    "pick": "Hindenburg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-106",
+    "pick": "Hydrogen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-107",
+    "pick": "Soviet Union",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-108",
+    "pick": "1950s",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-109",
+    "pick": "Yuri Gagarin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-110",
+    "pick": "Apollo 11",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-111",
+    "pick": "Saturn V",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-112",
+    "pick": "Robert Goddard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-113",
+    "pick": "V-2",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-114",
+    "pick": "NASA",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-115",
+    "pick": "Atmospheric blurring",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-116",
+    "pick": "Every 90 minutes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-117",
+    "pick": "Channel Tunnel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-118",
+    "pick": "Bullet train",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-119",
+    "pick": "1960s",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-120",
+    "pick": "Magnetic force",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-121",
+    "pick": "London",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-122",
+    "pick": "1860s",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-123",
+    "pick": "The subway",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-124",
+    "pick": "USS Nautilus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-125",
+    "pick": "Submarine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-126",
+    "pick": "Christopher Cockerell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-127",
+    "pick": "Standard shipping containers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-128",
+    "pick": "United States",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-129",
+    "pick": "Radio waves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-130",
+    "pick": "Sound waves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-131",
+    "pick": "Volvo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-132",
+    "pick": "Airbag",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-133",
+    "pick": "Volkswagen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-134",
+    "pick": "British Motor Corporation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-135",
+    "pick": "Harmful pollutants",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-136",
+    "pick": "Lightning",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-137",
+    "pick": "Alessandro Volta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-138",
+    "pick": "Alessandro Volta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-139",
+    "pick": "Michael Faraday",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-140",
+    "pick": "James Watt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-141",
+    "pick": "Motion",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-142",
+    "pick": "Thomas Edison",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-143",
+    "pick": "Menlo Park",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-144",
+    "pick": "New York",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-145",
+    "pick": "Nikola Tesla",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-146",
+    "pick": "Niagara Falls",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-147",
+    "pick": "Colorado River",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-148",
+    "pick": "Yangtze",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-149",
+    "pick": "Blades",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-150",
+    "pick": "Charles Parsons",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-151",
+    "pick": "Splitting them",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-152",
+    "pick": "Enrico Fermi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-153",
+    "pick": "Soviet Union",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-154",
+    "pick": "United Kingdom",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-155",
+    "pick": "Silicon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-156",
+    "pick": "1950s",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-157",
+    "pick": "Electricity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-158",
+    "pick": "Heat from underground",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-159",
+    "pick": "Phones and electric cars",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-160",
+    "pick": "Water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-161",
+    "pick": "Resistance",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-162",
+    "pick": "Electric current",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-163",
+    "pick": "Breaking it when current is too high",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-164",
+    "pick": "Voltage",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-165",
+    "pick": "Natural gas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-166",
+    "pick": "Pennsylvania",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-167",
+    "pick": "Kerosene",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-168",
+    "pick": "Coal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-169",
+    "pick": "Coal gas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-170",
+    "pick": "Battery",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-171",
+    "pick": "A thin filament",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-172",
+    "pick": "Diode",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-173",
+    "pick": "Fluorescent lamp",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-174",
+    "pick": "Telegraph",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-175",
+    "pick": "1860s",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-176",
+    "pick": "Alexander Graham Bell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-177",
+    "pick": "Electromagnetic waves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-178",
+    "pick": "Heinrich Hertz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-179",
+    "pick": "Newfoundland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-180",
+    "pick": "James Clerk Maxwell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-181",
+    "pick": "Television",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-182",
+    "pick": "John Logie Baird",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-183",
+    "pick": "1960s",
+    "confidence": "medium",
+    "problem": null
+  },
+  {
+    "id": "tech-184",
+    "pick": "Thomas Edison",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-185",
+    "pick": "A stylus on a turntable",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-186",
+    "pick": "Philips",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-187",
+    "pick": "Sony",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-188",
+    "pick": "Sony and Philips",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-189",
+    "pick": "Louis Daguerre",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-190",
+    "pick": "Kodak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-191",
+    "pick": "Lumiere brothers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-192",
+    "pick": "The Jazz Singer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-193",
+    "pick": "Motorola",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-194",
+    "pick": "Apple",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-195",
+    "pick": "Short Message Service",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-196",
+    "pick": "Pulses of light",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-197",
+    "pick": "Geostationary",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-198",
+    "pick": "Live television across the Atlantic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-199",
+    "pick": "Raised dots",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-200",
+    "pick": "Typewriter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-201",
+    "pick": "Typewriters",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-202",
+    "pick": "Laszlo Biro",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-203",
+    "pick": "3M",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-204",
+    "pick": "Xerography",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-205",
+    "pick": "Gideon Sundback",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-206",
+    "pick": "George de Mestral",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-207",
+    "pick": "Microwave oven",
+    "confidence": "high",
+    "problem": "Prompt gives the answer away: 'cooks food using microwaves' -> 'Microwave oven'"
+  },
+  {
+    "id": "tech-208",
+    "pick": "Radar equipment",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-209",
+    "pick": "Refrigerant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-210",
+    "pick": "Dishwasher",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-211",
+    "pick": "Hubert Cecil Booth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-212",
+    "pick": "John Harington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-213",
+    "pick": "Willis Carrier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-214",
+    "pick": "Denis Papin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-215",
+    "pick": "Walter Hunt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-216",
+    "pick": "Safety razor with disposable blades",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-217",
+    "pick": "1930s",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-218",
+    "pick": "Bulletproof vests",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-219",
+    "pick": "DuPont",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-220",
+    "pick": "Synthetic plastic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-221",
+    "pick": "Hall-Heroult electrolysis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-222",
+    "pick": "Chromium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-223",
+    "pick": "Steel bars",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-224",
+    "pick": "Flat glass",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-225",
+    "pick": "Carbon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-226",
+    "pick": "Ammonia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-227",
+    "pick": "Avicenna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-228",
+    "pick": "Stethoscope",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-229",
+    "pick": "Rene Laennec",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-230",
+    "pick": "Wilhelm Rontgen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-231",
+    "pick": "Bones inside the body",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-232",
+    "pick": "Alexander Fleming",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-233",
+    "pick": "Mould",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-234",
+    "pick": "Ether",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-235",
+    "pick": "Carbolic acid",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-236",
+    "pick": "Louis Pasteur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-237",
+    "pick": "Electrical activity of the heart",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-238",
+    "pick": "Magnets",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-239",
+    "pick": "High-frequency sound",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-240",
+    "pick": "Diabetes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-241",
+    "pick": "Jonas Salk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-242",
+    "pick": "The heartbeat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-243",
+    "pick": "South Africa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-244",
+    "pick": "United Kingdom",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-245",
+    "pick": "Watson and Crick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-246",
+    "pick": "Editing them",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-247",
+    "pick": "Inject medicine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-248",
+    "pick": "The eye",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-249",
+    "pick": "Body temperature",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-250",
+    "pick": "Blood pressure",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-251",
+    "pick": "Microscope",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-252",
+    "pick": "Electrons",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-253",
+    "pick": "Dmitri Mendeleev",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-254",
+    "pick": "Radiation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-255",
+    "pick": "Ground vibrations",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-256",
+    "pick": "Wind speed",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-257",
+    "pick": "Angle of a star above the horizon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-258",
+    "pick": "See above the water's surface",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-259",
+    "pick": "Stimulated emission of radiation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-260",
+    "pick": "1960s",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-261",
+    "pick": "Bell Labs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-262",
+    "pick": "Electronic switch or amplifier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-263",
+    "pick": "Integrated circuit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-264",
+    "pick": "Layers of material",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-265",
+    "pick": "Unmanned aircraft",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-266",
+    "pick": "R.U.R.",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-267",
+    "pick": "Billionth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-268",
+    "pick": "Sunlight",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-269",
+    "pick": "Tesla",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-270",
+    "pick": "Blockchain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-271",
+    "pick": "Denso Wave",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-272",
+    "pick": "Reflected light",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-273",
+    "pick": "Radio waves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-274",
+    "pick": "Charles Babbage",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-275",
+    "pick": "Ada Lovelace",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-276",
+    "pick": "United States",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-277",
+    "pick": "Break German codes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-278",
+    "pick": "Alan Turing",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-279",
+    "pick": "Grace Hopper",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-280",
+    "pick": "Tim Berners-Lee",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-281",
+    "pick": "CERN",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-282",
+    "pick": "United States",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-283",
+    "pick": "At sign",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-284",
+    "pick": "Larry Page and Sergey Brin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-285",
+    "pick": "Steve Wozniak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-286",
+    "pick": "Microsoft",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-287",
+    "pick": "Douglas Engelbart",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-288",
+    "pick": "Linus Torvalds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-289",
+    "pick": "Hypertext",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-290",
+    "pick": "Denmark",
+    "confidence": "medium",
+    "problem": "Harald Bluetooth was king of Denmark but also ruled Norway, so 'Norway' is arguable"
+  },
+  {
+    "id": "tech-291",
+    "pick": "8",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-292",
+    "pick": "Double every two years",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-293",
+    "pick": "Deep Blue",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-294",
+    "pick": "OpenAI",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-295",
+    "pick": "Xerox PARC",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-296",
+    "pick": "Floppy disk",
+    "confidence": "high",
+    "problem": "Prompt gives the answer away: 'called a floppy' -> 'Floppy disk'"
+  },
+  {
+    "id": "tech-297",
+    "pick": "Atari",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-298",
+    "pick": "Soviet Union",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-299",
+    "pick": "Mark Zuckerberg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-300",
+    "pick": "Books",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-301",
+    "pick": "2001",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-302",
+    "pick": "Bus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-303",
+    "pick": "Central Processing Unit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-304",
+    "pick": "Short-term working memory",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-305",
+    "pick": "Mosaic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-306",
+    "pick": "2005",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-307",
+    "pick": "Steam",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-308",
+    "pick": "Leonardo da Vinci",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-309",
+    "pick": "Elevator",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-310",
+    "pick": "Steel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-311",
+    "pick": "Chicago World's Fair",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-312",
+    "pick": "Gustave Eiffel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-313",
+    "pick": "Joseph Bazalgette",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-314",
+    "pick": "Lighthouses",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "tech-315",
+    "pick": "Iron and glass",
+    "confidence": "high",
+    "problem": null
+  }
+]

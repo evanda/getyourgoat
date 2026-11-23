@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-186",
-     "prompt": "Which argument says the universe needs a first cause?",
+     "id": "tech-234",
+     "prompt": "Which gas was used in an 1846 Boston demonstration of surgical anaesthesia?",
      "choices": [
-      "Cosmological argument",
-      "Ontological argument",
-      "Moral argument",
-      "Pragmatic argument"
+      "Ether",
+      "Oxygen",
+      "Methane",
+      "Helium"
      ],
-     "answer": "Cosmological argument",
+     "answer": "Ether",
      "difficulty": "medium"
     },
     {
-     "id": "phil-020",
-     "prompt": "Plotinus is the founder of which school?",
+     "id": "tech-162",
+     "prompt": "The ampere measures what?",
      "choices": [
-      "Neoplatonism",
-      "Stoicism",
-      "Scholasticism",
-      "Cynicism"
+      "Power",
+      "Resistance",
+      "Electric current",
+      "Voltage"
      ],
-     "answer": "Neoplatonism",
-     "difficulty": "medium"
+     "answer": "Electric current",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-152",
-     "prompt": "Who wrote the Begriffsschrift, a landmark of modern logic?",
+     "id": "tech-105",
+     "prompt": "Which airship burned at Lakehurst, New Jersey, in 1937?",
      "choices": [
-      "Gottlob Frege",
-      "George Boole",
-      "Bertrand Russell",
-      "Kurt Godel"
+      "Titanic",
+      "Graf Zeppelin",
+      "R101",
+      "Hindenburg"
      ],
-     "answer": "Gottlob Frege",
-     "difficulty": "hard"
+     "answer": "Hindenburg",
+     "difficulty": "easy"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-138",
-     "prompt": "Which young Berlin lecturer scheduled classes against Hegel's in 1820 and drew few listeners?",
+     "id": "hard-tech-043",
+     "prompt": "Viking longship hulls used overlapping planks, a method called what?",
      "choices": [
-      "Ludwig Feuerbach",
-      "Arthur Schopenhauer",
-      "Friedrich Schelling",
-      "Friedrich Schleiermacher"
+      "Clinker",
+      "Coracle",
+      "Dugout",
+      "Carvel"
      ],
-     "answer": "Arthur Schopenhauer",
+     "answer": "Clinker",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-240",
-     "prompt": "Which theologian founded the Ash'arite school of kalam?",
+     "id": "hard-tech-048",
+     "prompt": "Which English clockmaker built the H4 marine chronometer, finished in 1759?",
      "choices": [
-      "Ibn Hazm",
-      "Al-Ghazali",
-      "Al-Maturidi",
-      "Abu al-Hasan al-Ash'ari"
+      "Thomas Mudge",
+      "John Harrison",
+      "George Graham",
+      "Thomas Tompion"
      ],
-     "answer": "Abu al-Hasan al-Ash'ari",
+     "answer": "John Harrison",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-229",
+     "prompt": "Which German engineer built the first practical compression refrigerator in the 1870s?",
+     "choices": [
+      "John Gorrie",
+      "Jacob Perkins",
+      "Willis Carrier",
+      "Carl von Linde"
+     ],
+     "answer": "Carl von Linde",
      "difficulty": "hard"
-    },
-    {
-     "id": "hard-phil-080",
-     "prompt": "Which Rhineland abbess wrote the visionary work Scivias?",
-     "choices": [
-      "Julian of Norwich",
-      "Hildegard of Bingen",
-      "Catherine of Siena",
-      "Hrotsvitha"
-     ],
-     "answer": "Hildegard of Bingen",
-     "difficulty": "medium"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-003",
-     "prompt": "Which Presocratic held that Nous, or Mind, set the cosmos in order?",
+     "id": "hard-tech-192",
+     "prompt": "Which IBM engineer invented the single-transistor DRAM cell in 1966?",
      "choices": [
-      "Empedocles",
-      "Anaxagoras",
-      "Melissus",
-      "Anaximenes"
+      "Gordon Moore",
+      "Federico Faggin",
+      "Robert Dennard",
+      "Fujio Masuoka"
      ],
-     "answer": "Anaxagoras",
+     "answer": "Robert Dennard",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-158",
+     "prompt": "Which Toyota group supplier created the QR code in 1994?",
+     "choices": [
+      "Denso Wave",
+      "Mitsubishi Electric",
+      "Panasonic",
+      "Hitachi"
+     ],
+     "answer": "Denso Wave",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-023",
-     "prompt": "Which Plato work closes with the Myth of Er?",
+     "id": "hard-tech-100",
+     "prompt": "Which Cleveland inventor built a 12 kW wind-electric turbine in 1887?",
      "choices": [
-      "Timaeus",
-      "Phaedo",
-      "Gorgias",
-      "Republic"
+      "Elihu Thomson",
+      "Charles Brush",
+      "Edward Weston",
+      "Poul la Cour"
      ],
-     "answer": "Republic",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-137",
-     "prompt": "Which Hegel work contains the lord and bondsman dialectic?",
-     "choices": [
-      "Philosophy of Right",
-      "Science of Logic",
-      "Phenomenology of Spirit",
-      "Encyclopedia of Sciences"
-     ],
-     "answer": "Phenomenology of Spirit",
-     "difficulty": "easy"
+     "answer": "Charles Brush",
+     "difficulty": "medium"
     }
    ]
   }

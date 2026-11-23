@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-128",
-     "prompt": "Which English radical wrote An Enquiry Concerning Political Justice?",
+     "id": "hard-tech-018",
+     "prompt": "Which engineer from Heliopolis is credited with bringing Greek fire to Byzantium around 672?",
      "choices": [
-      "Thomas Paine",
-      "Richard Price",
-      "William Godwin",
-      "Thomas Spence"
+      "Leo the Isaurian",
+      "Anthemius",
+      "Heraclius",
+      "Kallinikos"
      ],
-     "answer": "William Godwin",
+     "answer": "Kallinikos",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-173",
-     "prompt": "Which philosopher won the 1927 Nobel Prize in Literature?",
+     "id": "hard-tech-083",
+     "prompt": "Which British firm developed float glass in the 1950s?",
      "choices": [
-      "Jean-Paul Sartre",
-      "Henri Bergson",
-      "Albert Camus",
-      "Benedetto Croce"
+      "Pilkington",
+      "Corning",
+      "Saint-Gobain",
+      "Schott"
      ],
-     "answer": "Henri Bergson",
+     "answer": "Pilkington",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-266",
-     "prompt": "Which young Wei-Jin thinker wrote celebrated commentaries on the Laozi and Yijing?",
+     "id": "hard-tech-074",
+     "prompt": "The Solvay process is used to make which chemical?",
      "choices": [
-      "Guo Xiang",
-      "Ji Kang",
-      "Wang Bi",
-      "Ge Hong"
+      "Sodium hydroxide",
+      "Sulfuric acid",
+      "Chlorine",
+      "Sodium carbonate"
      ],
-     "answer": "Wang Bi",
+     "answer": "Sodium carbonate",
      "difficulty": "hard"
     }
    ]

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-151",
-     "prompt": "Which Cambridge idealist argued that time is unreal in a 1908 paper?",
+     "id": "hard-tech-105",
+     "prompt": "Which engineer designed the iron-hulled screw steamer SS Great Britain, launched 1843?",
      "choices": [
-      "G. E. Moore",
-      "J. M. E. McTaggart",
-      "Bertrand Russell",
-      "F. H. Bradley"
+      "Thomas Telford",
+      "Robert Stephenson",
+      "Joseph Bazalgette",
+      "Isambard Brunel"
      ],
-     "answer": "J. M. E. McTaggart",
+     "answer": "Isambard Brunel",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-090",
+     "prompt": "Which experimental turbine ship raced past the fleet at the 1897 Spithead review?",
+     "choices": [
+      "Dreadnought",
+      "Savannah",
+      "Turbinia",
+      "Great Eastern"
+     ],
+     "answer": "Turbinia",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-162",
-     "prompt": "Which philosopher introduced abduction as a form of inference?",
+     "id": "hard-tech-199",
+     "prompt": "Which university built the ENIAC computer, completed in 1945?",
      "choices": [
-      "John Dewey",
-      "Josiah Royce",
-      "Charles Sanders Peirce",
-      "William James"
+      "MIT",
+      "University of Pennsylvania",
+      "Iowa State",
+      "Harvard"
      ],
-     "answer": "Charles Sanders Peirce",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-260",
-     "prompt": "Who is traditionally credited with the Doctrine of the Mean?",
-     "choices": [
-      "Zisi",
-      "Mencius",
-      "Xunzi",
-      "Zengzi"
-     ],
-     "answer": "Zisi",
-     "difficulty": "hard"
+     "answer": "University of Pennsylvania",
+     "difficulty": "easy"
     }
    ]
   }

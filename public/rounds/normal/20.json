@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-068",
-     "prompt": "Who wrote the Guide for the Perplexed?",
+     "id": "tech-228",
+     "prompt": "Which doctor's tool lets him listen to your heart and lungs?",
      "choices": [
-      "Maimonides",
-      "Spinoza",
-      "Averroes",
-      "Philo"
+      "Stethoscope",
+      "Scalpel",
+      "Thermometer",
+      "Syringe"
      ],
-     "answer": "Maimonides",
-     "difficulty": "medium"
+     "answer": "Stethoscope",
+     "difficulty": "easy"
     },
     {
-     "id": "phil-149",
-     "prompt": "Who wrote Principia Ethica?",
+     "id": "tech-192",
+     "prompt": "Which 1927 film was the first major feature with synchronised speech?",
      "choices": [
-      "G. E. Moore",
-      "Bertrand Russell",
-      "A. J. Ayer",
-      "Henry Sidgwick"
+      "Casablanca",
+      "Citizen Kane",
+      "Metropolis",
+      "The Jazz Singer"
      ],
-     "answer": "G. E. Moore",
+     "answer": "The Jazz Singer",
      "difficulty": "hard"
     },
     {
-     "id": "phil-048",
-     "prompt": "Which Confucian held that human nature is basically good?",
+     "id": "tech-160",
+     "prompt": "A hydrogen fuel cell produces electricity and what by-product?",
      "choices": [
-      "Mencius",
-      "Xunzi",
-      "Han Feizi",
-      "Mozi"
+      "Smoke",
+      "Carbon monoxide",
+      "Water",
+      "Ash"
      ],
-     "answer": "Mencius",
-     "difficulty": "medium"
+     "answer": "Water",
+     "difficulty": "easy"
     }
    ]
   }

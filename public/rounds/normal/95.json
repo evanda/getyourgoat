@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-033",
-     "prompt": "Which philosopher is known for the claim that change is an illusion?",
+     "id": "tech-313",
+     "prompt": "Who designed London's main sewer system after the 1858 Great Stink?",
      "choices": [
-      "Parmenides",
-      "Heraclitus",
-      "Democritus",
-      "Empedocles"
+      "Isambard Brunel",
+      "Joseph Bazalgette",
+      "Edwin Chadwick",
+      "John Snow"
      ],
-     "answer": "Parmenides",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-051",
-     "prompt": "Which Chinese philosopher taught impartial care for all people?",
-     "choices": [
-      "Mozi",
-      "Xunzi",
-      "Confucius",
-      "Zhuangzi"
-     ],
-     "answer": "Mozi",
+     "answer": "Joseph Bazalgette",
      "difficulty": "hard"
     },
     {
-     "id": "phil-176",
-     "prompt": "The Latin phrase tabula rasa means what?",
+     "id": "tech-182",
+     "prompt": "Which Scottish inventor gave the first public demonstration of television in 1926?",
      "choices": [
-      "Blank slate",
-      "First cause",
-      "Hidden hand",
-      "Great chain"
+      "Alexander Bell",
+      "James Watt",
+      "Guglielmo Marconi",
+      "John Logie Baird"
      ],
-     "answer": "Blank slate",
+     "answer": "John Logie Baird",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-092",
+     "prompt": "Which American statesman invented the lightning rod?",
+     "choices": [
+      "Samuel Morse",
+      "Benjamin Franklin",
+      "Eli Whitney",
+      "Thomas Edison"
+     ],
+     "answer": "Benjamin Franklin",
      "difficulty": "easy"
     }
    ]

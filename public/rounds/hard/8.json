@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-141",
-     "prompt": "In Kierkegaard's scheme, the stages of existence are aesthetic, ethical and what?",
+     "id": "hard-tech-187",
+     "prompt": "Which American added a control grid to create the Audion triode in 1906?",
      "choices": [
-      "Political",
-      "Rational",
-      "Absurd",
-      "Religious"
+      "Lee de Forest",
+      "Edwin Armstrong",
+      "Reginald Fessenden",
+      "Irving Langmuir"
      ],
-     "answer": "Religious",
+     "answer": "Lee de Forest",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-068",
-     "prompt": "Plotinus is said to have studied in Alexandria under which teacher?",
+     "id": "hard-tech-138",
+     "prompt": "Which submarine, launched in 1954, was the first nuclear-powered vessel?",
      "choices": [
-      "Ammonius Saccas",
-      "Origen",
-      "Porphyry",
-      "Philo"
+      "USS Triton",
+      "USS Nautilus",
+      "USS Thresher",
+      "USS Skate"
      ],
-     "answer": "Ammonius Saccas",
-     "difficulty": "hard"
+     "answer": "USS Nautilus",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-056",
-     "prompt": "Aristotle's view that substances combine matter and form is called what?",
+     "id": "hard-tech-285",
+     "prompt": "Which university isolated graphene in 2004?",
      "choices": [
-      "Monadology",
-      "Atomism",
-      "Hylozoism",
-      "Hylomorphism"
+      "Tokyo",
+      "Cambridge",
+      "MIT",
+      "Manchester"
      ],
-     "answer": "Hylomorphism",
-     "difficulty": "easy"
+     "answer": "Manchester",
+     "difficulty": "medium"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-285",
-     "prompt": "Which Japanese Zen master popularized the koan of the sound of one hand?",
+     "id": "hard-tech-122",
+     "prompt": "Which Soviet probe made the first soft landing on the Moon, in 1966?",
      "choices": [
-      "Eisai",
-      "Dogen",
-      "Ikkyu",
-      "Hakuin"
+      "Lunokhod 1",
+      "Luna 9",
+      "Luna 16",
+      "Luna 2"
      ],
-     "answer": "Hakuin",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-062",
-     "prompt": "Which Peripatetic of the first century BCE edited Aristotle's treatises into the form we have?",
-     "choices": [
-      "Strato",
-      "Andronicus of Rhodes",
-      "Alexander of Aphrodisias",
-      "Theophrastus"
-     ],
-     "answer": "Andronicus of Rhodes",
+     "answer": "Luna 9",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-216",
-     "prompt": "A being physically like us but lacking conscious experience is called what?",
+     "id": "hard-tech-082",
+     "prompt": "Which DuPont chemist invented Kevlar in 1965?",
      "choices": [
-      "A philosophical zombie",
-      "A mind-clone",
-      "A homunculus",
-      "A Cartesian demon"
+      "Stephanie Kwolek",
+      "Leo Baekeland",
+      "Wallace Carothers",
+      "Roy Plunkett"
      ],
-     "answer": "A philosophical zombie",
-     "difficulty": "easy"
+     "answer": "Stephanie Kwolek",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-019",
+     "prompt": "Who wrote the 1206 Book of Knowledge of Ingenious Mechanical Devices?",
+     "choices": [
+      "Taqi al-Din",
+      "Al-Biruni",
+      "Ibn al-Haytham",
+      "Al-Jazari"
+     ],
+     "answer": "Al-Jazari",
+     "difficulty": "medium"
     }
    ]
   }

@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-305",
-     "prompt": "Which monk converses with King Menander in the Questions of King Milinda?",
+     "id": "hard-tech-170",
+     "prompt": "Which British engineer built the first CT scanner, in 1971?",
      "choices": [
-      "Vasubandhu",
-      "Nagasena",
-      "Buddhaghosa",
-      "Nagarjuna"
+      "Ian Donald",
+      "Godfrey Hounsfield",
+      "Peter Mansfield",
+      "John Charnley"
      ],
-     "answer": "Nagasena",
+     "answer": "Godfrey Hounsfield",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hard-tech-250",
+     "prompt": "Which Tanzanian people smelted carbon steel in preheated furnaces nearly 2,000 years ago?",
+     "choices": [
+      "Haya",
+      "Maasai",
+      "Chagga",
+      "Swahili"
+     ],
+     "answer": "Haya",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-095",
-     "prompt": "Which Italian thinker wrote Discourses on Livy?",
+     "id": "hard-tech-106",
+     "prompt": "Which engineer's 1826 Menai Suspension Bridge briefly held the longest span record?",
      "choices": [
-      "Machiavelli",
-      "Bruni",
-      "Guicciardini",
-      "Castiglione"
+      "Isambard Brunel",
+      "Thomas Telford",
+      "Robert Stephenson",
+      "John Rennie"
      ],
-     "answer": "Machiavelli",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-024",
-     "prompt": "In the Republic, the soul's three parts are reason, appetite and what?",
-     "choices": [
-      "Will",
-      "Spirit",
-      "Conscience",
-      "Memory"
-     ],
-     "answer": "Spirit",
-     "difficulty": "easy"
+     "answer": "Thomas Telford",
+     "difficulty": "medium"
     }
    ]
   }

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-158",
-     "prompt": "Which manuscripts of 1844 by Marx develop the theory of alienated labor?",
+     "id": "hard-tech-066",
+     "prompt": "Who patented a power loom in 1785?",
      "choices": [
-      "Critique of the Gotha Programme",
-      "Grundrisse",
-      "Economic and Philosophic Manuscripts",
-      "The Poverty of Philosophy"
+      "Samuel Crompton",
+      "Richard Roberts",
+      "Edmund Cartwright",
+      "John Kay"
      ],
-     "answer": "Economic and Philosophic Manuscripts",
-     "difficulty": "medium"
+     "answer": "Edmund Cartwright",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-280",
-     "prompt": "Which Chan master is the Sixth Patriarch, linked to the Platform Sutra?",
+     "id": "hard-tech-297",
+     "prompt": "Which English inventor's 1885 Rover is regarded as the first modern safety bicycle?",
      "choices": [
-      "Bodhidharma",
-      "Linji",
-      "Hui Neng",
-      "Hongren"
+      "Pierre Lallement",
+      "John Kemp Starley",
+      "James Starley",
+      "Dan Albone"
      ],
-     "answer": "Hui Neng",
-     "difficulty": "medium"
+     "answer": "John Kemp Starley",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-263",
-     "prompt": "Which Ming thinker taught the unity of knowledge and action?",
+     "id": "hard-tech-099",
+     "prompt": "Which Welsh scientist built the first fuel cell in 1839?",
      "choices": [
-      "Wang Yangming",
-      "Wang Fuzhi",
-      "Zhu Xi",
-      "Dai Zhen"
+      "William Grove",
+      "Humphry Davy",
+      "John Daniell",
+      "Michael Faraday"
      ],
-     "answer": "Wang Yangming",
+     "answer": "William Grove",
      "difficulty": "medium"
     }
    ]

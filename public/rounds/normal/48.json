@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-126",
-     "prompt": "Which French author wrote The Myth of Sisyphus?",
+     "id": "tech-240",
+     "prompt": "Insulin, first used on patients in 1922, treats which disease?",
      "choices": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "Samuel Beckett",
-      "Franz Kafka"
+      "Asthma",
+      "Malaria",
+      "Polio",
+      "Diabetes"
      ],
-     "answer": "Albert Camus",
+     "answer": "Diabetes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-152",
+     "prompt": "Which scientist led the first controlled nuclear chain reaction in 1942?",
+     "choices": [
+      "Enrico Fermi",
+      "Niels Bohr",
+      "Marie Curie",
+      "Albert Einstein"
+     ],
+     "answer": "Enrico Fermi",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-299",
+     "prompt": "Who co-founded Facebook in 2004?",
+     "choices": [
+      "Jeff Bezos",
+      "Elon Musk",
+      "Jack Dorsey",
+      "Mark Zuckerberg"
+     ],
+     "answer": "Mark Zuckerberg",
      "difficulty": "easy"
-    },
-    {
-     "id": "phil-018",
-     "prompt": "Pyrrho is regarded as the founder of which school?",
-     "choices": [
-      "Skepticism",
-      "Stoicism",
-      "Cynicism",
-      "Epicureanism"
-     ],
-     "answer": "Skepticism",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-136",
-     "prompt": "Which philosopher imagined the experience machine?",
-     "choices": [
-      "Robert Nozick",
-      "John Rawls",
-      "Derek Parfit",
-      "Thomas Nagel"
-     ],
-     "answer": "Robert Nozick",
-     "difficulty": "medium"
     }
    ]
   }

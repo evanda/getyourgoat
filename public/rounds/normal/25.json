@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-281",
-     "prompt": "Which of these is a Chinese school of thought?",
+     "id": "tech-006",
+     "prompt": "The stirrup mainly helped a rider to do what?",
      "choices": [
-      "Daoism",
-      "Stoicism",
-      "Cynicism",
-      "Scholasticism"
+      "Pull a plough",
+      "Climb a wall",
+      "Stay steady on a horse",
+      "Steer a ship"
      ],
-     "answer": "Daoism",
+     "answer": "Stay steady on a horse",
      "difficulty": "medium"
     },
     {
-     "id": "phil-253",
-     "prompt": "Which of these philosophers was French?",
+     "id": "tech-106",
+     "prompt": "The Hindenburg was filled with which flammable gas?",
      "choices": [
-      "Voltaire",
-      "David Hume",
-      "John Locke",
-      "Plato"
+      "Methane",
+      "Helium",
+      "Propane",
+      "Hydrogen"
      ],
-     "answer": "Voltaire",
-     "difficulty": "easy"
+     "answer": "Hydrogen",
+     "difficulty": "hard"
     },
     {
-     "id": "phil-017",
-     "prompt": "Which ancient Greek proposed that the world is made of atoms?",
+     "id": "tech-014",
+     "prompt": "Which empire used the fire weapon known as Greek fire?",
      "choices": [
-      "Democritus",
-      "Aristotle",
-      "Plato",
-      "Empedocles"
+      "Roman Republic",
+      "Mongol Empire",
+      "Byzantine Empire",
+      "Ottoman Empire"
      ],
-     "answer": "Democritus",
-     "difficulty": "medium"
+     "answer": "Byzantine Empire",
+     "difficulty": "hard"
     }
    ]
   }

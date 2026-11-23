@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-182",
-     "prompt": "Which Swiss linguist's course distinguished the signifier from the signified?",
+     "id": "hard-tech-015",
+     "prompt": "Whose Song-dynasty Dream Pool Essays described the magnetized needle compass?",
      "choices": [
-      "Roman Jakobson",
-      "Noam Chomsky",
-      "Claude Levi-Strauss",
-      "Ferdinand de Saussure"
+      "Su Song",
+      "Shen Kuo",
+      "Zu Chongzhi",
+      "Guo Shoujing"
      ],
-     "answer": "Ferdinand de Saussure",
-     "difficulty": "easy"
-    },
-    {
-     "id": "hard-phil-031",
-     "prompt": "Which Socratic founded the Megarian school?",
-     "choices": [
-      "Simmias",
-      "Antisthenes",
-      "Aristippus",
-      "Euclides of Megara"
-     ],
-     "answer": "Euclides of Megara",
+     "answer": "Shen Kuo",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-090",
-     "prompt": "Which Renaissance humanist wrote the Oration on the Dignity of Man?",
+     "id": "hard-tech-268",
+     "prompt": "Which German physicist discovered X-rays in 1895?",
      "choices": [
-      "Marsilio Ficino",
-      "Petrarch",
-      "Pico della Mirandola",
-      "Lorenzo Valla"
+      "Wilhelm Roentgen",
+      "Max Planck",
+      "Philipp Lenard",
+      "Heinrich Hertz"
      ],
-     "answer": "Pico della Mirandola",
+     "answer": "Wilhelm Roentgen",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-146",
+     "prompt": "Edison's first 1877 phonograph recorded sound on what material?",
+     "choices": [
+      "Tinfoil",
+      "Steel wire",
+      "Wax disc",
+      "Magnetic tape"
+     ],
+     "answer": "Tinfoil",
+     "difficulty": "medium"
     }
    ]
   }

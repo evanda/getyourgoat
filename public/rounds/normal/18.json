@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-221",
-     "prompt": "If P then Q; P; therefore Q. What is this form called?",
+     "id": "tech-055",
+     "prompt": "Who patented the first power loom in 1785?",
      "choices": [
-      "Modus ponens",
-      "Modus tollens",
-      "Reductio ad absurdum",
-      "Ad hominem"
+      "John Kay",
+      "Eli Whitney",
+      "Joseph Jacquard",
+      "Edmund Cartwright"
      ],
-     "answer": "Modus ponens",
+     "answer": "Edmund Cartwright",
      "difficulty": "hard"
     },
     {
-     "id": "phil-227",
-     "prompt": "Aristotle's term phronesis means what?",
+     "id": "tech-086",
+     "prompt": "Who built the first practical reflecting telescope in 1668?",
      "choices": [
-      "Practical wisdom",
-      "Pleasure",
-      "Fate",
-      "Courage"
+      "Robert Hooke",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Edmond Halley"
      ],
-     "answer": "Practical wisdom",
-     "difficulty": "hard"
+     "answer": "Isaac Newton",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-166",
-     "prompt": "Which view holds that knowledge comes mainly from experience?",
+     "id": "tech-078",
+     "prompt": "Ships in the 1800s switched from paddle wheels to what for propulsion?",
      "choices": [
-      "Empiricism",
-      "Rationalism",
-      "Idealism",
-      "Stoicism"
+      "Oars",
+      "Sails",
+      "Jet engines",
+      "Screw propellers"
      ],
-     "answer": "Empiricism",
-     "difficulty": "easy"
+     "answer": "Screw propellers",
+     "difficulty": "medium"
     }
    ]
   }

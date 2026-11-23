@@ -354,5 +354,53 @@
  "hard-hist-007": {
   "decision": "keep",
   "reason": "Prompt named \"the Navigator\"; reworded."
+ },
+ "tech-001": {
+  "decision": "drop",
+  "reason": "Same fact as Normal round #1."
+ },
+ "tech-049": {
+  "decision": "drop",
+  "reason": "Same fact as Normal round #1."
+ },
+ "tech-050": {
+  "decision": "drop",
+  "reason": "Same fact as Normal round #1."
+ },
+ "tech-142": {
+  "decision": "drop",
+  "reason": "Edison/Swan dispute"
+ },
+ "tech-174": {
+  "decision": "keep",
+  "reason": "Telephone also sent electric messages by wire; pinned to coded messages."
+ },
+ "tech-207": {
+  "decision": "drop",
+  "reason": "Prompt gives the answer away."
+ },
+ "tech-296": {
+  "decision": "drop",
+  "reason": "Prompt gives the answer away."
+ },
+ "tech-033": {
+  "decision": "drop",
+  "reason": "Longbow vs crossbow range is arguable."
+ },
+ "tech-290": {
+  "decision": "drop",
+  "reason": "Harald Bluetooth also ruled Norway, a choice."
+ },
+ "hard-tech-218": {
+  "decision": "drop",
+  "reason": "Thacker is a named co-inventor, and a choice."
+ },
+ "hard-tech-265": {
+  "decision": "drop",
+  "reason": "Rennie was officially chief engineer; credit disputed."
+ },
+ "hard-tech-292": {
+  "decision": "drop",
+  "reason": "Buchla built voltage-controlled synths at the same time."
  }
 }

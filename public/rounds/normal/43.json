@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-114",
-     "prompt": "Who wrote Das Kapital?",
+     "id": "tech-189",
+     "prompt": "Which Frenchman announced the daguerreotype photo process in 1839?",
      "choices": [
-      "Karl Marx",
-      "Friedrich Engels",
-      "Lenin",
-      "Hegel"
+      "Auguste Lumiere",
+      "Henri Becquerel",
+      "Louis Pasteur",
+      "Louis Daguerre"
      ],
-     "answer": "Karl Marx",
-     "difficulty": "easy"
+     "answer": "Louis Daguerre",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-231",
-     "prompt": "The Socratic method is named after which philosopher?",
+     "id": "tech-064",
+     "prompt": "Who patented a practical lockstitch sewing machine in 1846?",
      "choices": [
-      "Socrates",
-      "Plato",
-      "Aristotle",
-      "Descartes"
+      "Charles Goodyear",
+      "Elias Howe",
+      "Isaac Singer",
+      "Walter Hunt"
      ],
-     "answer": "Socrates",
-     "difficulty": "easy"
+     "answer": "Elias Howe",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-263",
-     "prompt": "Which Chinese sage is most linked to filial piety?",
+     "id": "tech-107",
+     "prompt": "Which country launched Sputnik, the first artificial satellite?",
      "choices": [
-      "Confucius",
-      "Laozi",
-      "Mozi",
-      "Han Feizi"
+      "United States",
+      "Soviet Union",
+      "China",
+      "Germany"
      ],
-     "answer": "Confucius",
+     "answer": "Soviet Union",
      "difficulty": "easy"
     }
    ]

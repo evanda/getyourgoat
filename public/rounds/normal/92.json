@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-300",
-     "prompt": "Which branch of philosophy studies justice and government?",
+     "id": "tech-124",
+     "prompt": "Which US vessel, launched in 1954, was the first nuclear-powered submarine?",
      "choices": [
-      "Political philosophy",
-      "Aesthetics",
-      "Metaphysics",
-      "Logic"
+      "USS Maine",
+      "USS Nautilus",
+      "USS Constitution",
+      "USS Enterprise"
      ],
-     "answer": "Political philosophy",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-278",
-     "prompt": "Which of these thinkers was a medieval Muslim philosopher?",
-     "choices": [
-      "Averroes",
-      "Thomas Aquinas",
-      "Plato",
-      "Confucius"
-     ],
-     "answer": "Averroes",
+     "answer": "USS Nautilus",
      "difficulty": "medium"
     },
     {
-     "id": "phil-299",
-     "prompt": "Who is the main speaker in most of Plato's dialogues?",
+     "id": "tech-242",
+     "prompt": "A pacemaker is used to regulate what?",
      "choices": [
-      "Socrates",
-      "Aristotle",
-      "Pericles",
-      "Homer"
+      "The heartbeat",
+      "Breathing",
+      "Blood pressure",
+      "Digestion"
      ],
-     "answer": "Socrates",
+     "answer": "The heartbeat",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-074",
+     "prompt": "The Suez Canal links the Mediterranean with which sea?",
+     "choices": [
+      "Arabian Sea",
+      "Caspian Sea",
+      "Black Sea",
+      "Red Sea"
+     ],
+     "answer": "Red Sea",
      "difficulty": "easy"
     }
    ]

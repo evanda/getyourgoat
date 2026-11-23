@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-104",
-     "prompt": "Which thinker wrote Perpetual Peace in 1795?",
+     "id": "tech-278",
+     "prompt": "Which British mathematician helped break the Enigma code?",
      "choices": [
-      "Immanuel Kant",
-      "Hegel",
-      "Fichte",
-      "Rousseau"
+      "Alan Turing",
+      "Tim Berners-Lee",
+      "Isaac Newton",
+      "Charles Babbage"
      ],
-     "answer": "Immanuel Kant",
-     "difficulty": "hard"
+     "answer": "Alan Turing",
+     "difficulty": "medium"
     },
     {
-     "id": "phil-099",
-     "prompt": "Who wrote the pamphlet Common Sense in 1776?",
+     "id": "tech-247",
+     "prompt": "The hypodermic syringe is used to do what?",
      "choices": [
-      "Thomas Paine",
-      "Thomas Jefferson",
-      "Ben Franklin",
-      "Edmund Burke"
+      "Measure pressure",
+      "Inject medicine",
+      "Take X-rays",
+      "Cut tissue"
      ],
-     "answer": "Thomas Paine",
+     "answer": "Inject medicine",
      "difficulty": "easy"
     },
     {
-     "id": "phil-254",
-     "prompt": "Which of these philosophers was Scottish?",
+     "id": "tech-054",
+     "prompt": "Who invented the spinning jenny around 1764?",
      "choices": [
-      "David Hume",
-      "Rene Descartes",
-      "Friedrich Nietzsche",
-      "Plato"
+      "Edmund Cartwright",
+      "Samuel Crompton",
+      "Richard Arkwright",
+      "James Hargreaves"
      ],
-     "answer": "David Hume",
-     "difficulty": "easy"
+     "answer": "James Hargreaves",
+     "difficulty": "medium"
     }
    ]
   }

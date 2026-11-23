@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-044",
-     "prompt": "Which Epicurean carved his teachings on a huge wall in Lycia?",
+     "id": "hard-tech-284",
+     "prompt": "Which Luxembourg-born metallurgist devised the 1940 process for producing titanium metal?",
      "choices": [
-      "Lucretius",
-      "Colotes",
-      "Diogenes of Oenoanda",
-      "Philodemus"
+      "Paul Heroult",
+      "Carl Bosch",
+      "William Kroll",
+      "Charles Hall"
      ],
-     "answer": "Diogenes of Oenoanda",
+     "answer": "William Kroll",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-282",
-     "prompt": "Which Central Asian monk translated Nagarjuna's treatises into Chinese?",
+     "id": "hard-tech-005",
+     "prompt": "Which Roman torsion catapult was named after a wild ass for its kick?",
      "choices": [
-      "Xuanzang",
-      "Faxian",
-      "Kumarajiva",
-      "Paramartha"
+      "Onager",
+      "Helepolis",
+      "Scorpio",
+      "Testudo"
      ],
-     "answer": "Kumarajiva",
-     "difficulty": "hard"
+     "answer": "Onager",
+     "difficulty": "medium"
     },
     {
-     "id": "hard-phil-104",
-     "prompt": "Which work by Leibniz defends God's justice against the problem of evil?",
+     "id": "hard-tech-120",
+     "prompt": "Which scientist launched the first liquid-fueled rocket, in Massachusetts in 1926?",
      "choices": [
-      "New Essays",
-      "Discourse on Metaphysics",
-      "Theodicy",
-      "Monadology"
+      "Hermann Oberth",
+      "Robert Goddard",
+      "Wernher von Braun",
+      "Konstantin Tsiolkovsky"
      ],
-     "answer": "Theodicy",
+     "answer": "Robert Goddard",
      "difficulty": "easy"
     }
    ]

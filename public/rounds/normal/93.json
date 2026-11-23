@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-173",
-     "prompt": "Which view holds that mind and body are distinct kinds of thing?",
+     "id": "tech-287",
+     "prompt": "Who invented the computer mouse in the 1960s?",
      "choices": [
-      "Dualism",
-      "Monism",
-      "Materialism",
-      "Empiricism"
+      "Bill Gates",
+      "Alan Kay",
+      "Steve Jobs",
+      "Douglas Engelbart"
      ],
-     "answer": "Dualism",
+     "answer": "Douglas Engelbart",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-259",
+     "prompt": "The word LASER stands for light amplification by what?",
+     "choices": [
+      "Solar energy reflection",
+      "Static electrical resonance",
+      "Spectral emission rays",
+      "Stimulated emission of radiation"
+     ],
+     "answer": "Stimulated emission of radiation",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-104",
+     "prompt": "Ferdinand von Zeppelin is famous for what kind of aircraft?",
+     "choices": [
+      "Biplanes",
+      "Helicopters",
+      "Rigid airships",
+      "Gliders"
+     ],
+     "answer": "Rigid airships",
      "difficulty": "easy"
-    },
-    {
-     "id": "phil-086",
-     "prompt": "Who wrote A Treatise of Human Nature?",
-     "choices": [
-      "David Hume",
-      "John Locke",
-      "George Berkeley",
-      "Thomas Reid"
-     ],
-     "answer": "David Hume",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-206",
-     "prompt": "Brahman in Vedanta names what?",
-     "choices": [
-      "Ultimate reality",
-      "A temple",
-      "A caste",
-      "A hymn"
-     ],
-     "answer": "Ultimate reality",
-     "difficulty": "medium"
     }
    ]
   }

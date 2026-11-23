@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-146",
-     "prompt": "Which British philosopher first posed the trolley problem?",
+     "id": "tech-082",
+     "prompt": "Karl Benz is credited with building the first practical what?",
      "choices": [
-      "Philippa Foot",
-      "Judith Jarvis Thomson",
-      "Elizabeth Anscombe",
-      "Iris Murdoch"
+      "Aeroplane",
+      "Train",
+      "Bicycle",
+      "Petrol-powered automobile"
      ],
-     "answer": "Philippa Foot",
+     "answer": "Petrol-powered automobile",
+     "difficulty": "easy"
+    },
+    {
+     "id": "tech-217",
+     "prompt": "Teflon, found on non-stick pans, was discovered by accident in which decade?",
+     "choices": [
+      "1960s",
+      "1980s",
+      "1890s",
+      "1930s"
+     ],
+     "answer": "1930s",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-150",
+     "prompt": "Who invented the modern steam turbine in 1884?",
+     "choices": [
+      "James Watt",
+      "Charles Parsons",
+      "Henry Bessemer",
+      "Rudolf Diesel"
+     ],
+     "answer": "Charles Parsons",
      "difficulty": "hard"
-    },
-    {
-     "id": "phil-216",
-     "prompt": "Ethical egoism holds that people should act in whose interest?",
-     "choices": [
-      "Their own",
-      "Society's",
-      "God's",
-      "The ruler's"
-     ],
-     "answer": "Their own",
-     "difficulty": "medium"
-    },
-    {
-     "id": "phil-035",
-     "prompt": "Plato's dialogue Symposium is mainly about what?",
-     "choices": [
-      "Love",
-      "War",
-      "Justice",
-      "Death"
-     ],
-     "answer": "Love",
-     "difficulty": "medium"
     }
    ]
   }

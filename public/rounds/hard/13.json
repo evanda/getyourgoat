@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-254",
-     "prompt": "In which city was Maimonides born?",
+     "id": "hard-tech-020",
+     "prompt": "Which three brothers of 9th-century Baghdad wrote a famed Book of Ingenious Devices?",
      "choices": [
-      "Toledo",
-      "Seville",
-      "Cordoba",
-      "Granada"
+      "Banu Qasi",
+      "Banu Hilal",
+      "Banu Nasr",
+      "Banu Musa"
      ],
-     "answer": "Cordoba",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-253",
-     "prompt": "Which Jewish poet-philosopher wrote the Kuzari?",
-     "choices": [
-      "Abraham ibn Ezra",
-      "Judah Halevi",
-      "Gersonides",
-      "Saadia Gaon"
-     ],
-     "answer": "Judah Halevi",
+     "answer": "Banu Musa",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-256",
-     "prompt": "Which Ghanaian leader wrote the philosophical work Consciencism?",
+     "id": "hard-tech-195",
+     "prompt": "Which company employed Shuji Nakamura when he developed the bright blue LED in the early 1990s?",
      "choices": [
-      "Patrice Lumumba",
-      "Julius Nyerere",
-      "Leopold Senghor",
-      "Kwame Nkrumah"
+      "Nichia",
+      "Toshiba",
+      "Sony",
+      "Panasonic"
      ],
-     "answer": "Kwame Nkrumah",
-     "difficulty": "easy"
+     "answer": "Nichia",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hard-tech-115",
+     "prompt": "Which Heinkel aircraft made the first jet-powered flight in 1939?",
+     "choices": [
+      "Bell XP-59",
+      "Gloster E.28/39",
+      "Me 262",
+      "He 178"
+     ],
+     "answer": "He 178",
+     "difficulty": "hard"
     }
    ]
   }

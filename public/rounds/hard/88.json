@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-166",
-     "prompt": "At Davos in 1929, Heidegger debated which neo-Kantian?",
+     "id": "hard-tech-131",
+     "prompt": "Which woman made the first long-distance car journey, from Mannheim to Pforzheim, in 1888?",
      "choices": [
-      "Max Scheler",
-      "Paul Natorp",
-      "Ernst Cassirer",
-      "Hermann Cohen"
+      "Mary Anderson",
+      "Louise Renault",
+      "Bertha Benz",
+      "Bertha Krupp"
      ],
-     "answer": "Ernst Cassirer",
-     "difficulty": "medium"
+     "answer": "Bertha Benz",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-147",
-     "prompt": "At which university did Nietzsche hold his professorship?",
+     "id": "hard-tech-139",
+     "prompt": "Which American built the one-man submarine Turtle, used against a British ship in 1776?",
      "choices": [
-      "Bonn",
-      "Leipzig",
-      "Basel",
-      "Zurich"
+      "Simon Lake",
+      "Robert Fulton",
+      "John Holland",
+      "David Bushnell"
      ],
-     "answer": "Basel",
-     "difficulty": "medium"
+     "answer": "David Bushnell",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-133",
-     "prompt": "Which Kantian formula tells us never to treat humanity merely as a means?",
+     "id": "hard-tech-243",
+     "prompt": "Which official is credited with designing Egypt's first stone pyramid at Saqqara?",
      "choices": [
-      "Formula of Autonomy",
-      "Formula of Humanity",
-      "Kingdom of Ends",
-      "Formula of Universal Law"
+      "Imhotep",
+      "Hemiunu",
+      "Senenmut",
+      "Ptahhotep"
      ],
-     "answer": "Formula of Humanity",
+     "answer": "Imhotep",
      "difficulty": "easy"
     }
    ]

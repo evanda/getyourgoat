@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-220",
-     "prompt": "Reasoning from general premises to a certain conclusion is called what?",
+     "id": "tech-045",
+     "prompt": "What gave Viking longships their ability to land directly on beaches?",
      "choices": [
-      "Deduction",
-      "Induction",
-      "Abduction",
-      "Analogy"
+      "Shallow keels",
+      "Heavy cannon",
+      "Metal hulls",
+      "Steam engines"
      ],
-     "answer": "Deduction",
+     "answer": "Shallow keels",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-011",
+     "prompt": "Which Greek thinker is linked to the saying 'give me a lever and I will move the world'?",
+     "choices": [
+      "Euclid",
+      "Archimedes",
+      "Aristotle",
+      "Plato"
+     ],
+     "answer": "Archimedes",
      "difficulty": "easy"
     },
     {
-     "id": "phil-244",
-     "prompt": "Selfless concern for the welfare of others is called what?",
+     "id": "tech-235",
+     "prompt": "Joseph Lister reduced surgical infections in the 1860s using what?",
      "choices": [
-      "Altruism",
-      "Egoism",
-      "Hedonism",
-      "Stoicism"
+      "Boiling water",
+      "Carbolic acid",
+      "Alcohol only",
+      "Salt"
      ],
-     "answer": "Altruism",
-     "difficulty": "easy"
-    },
-    {
-     "id": "phil-078",
-     "prompt": "Which French thinker proposed a famous wager on God's existence?",
-     "choices": [
-      "Pascal",
-      "Descartes",
-      "Leibniz",
-      "Locke"
-     ],
-     "answer": "Pascal",
-     "difficulty": "easy"
+     "answer": "Carbolic acid",
+     "difficulty": "medium"
     }
    ]
   }

@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "phil-145",
-     "prompt": "Who wrote the 1963 paper challenging the justified-true-belief account of knowledge?",
+     "id": "tech-140",
+     "prompt": "The watt, the unit of power, is named after which engineer?",
      "choices": [
-      "Edmund Gettier",
-      "W. V. Quine",
-      "Saul Kripke",
-      "Hilary Putnam"
+      "Thomas Edison",
+      "Isaac Newton",
+      "Ada Lovelace",
+      "James Watt"
      ],
-     "answer": "Edmund Gettier",
-     "difficulty": "hard"
-    },
-    {
-     "id": "phil-209",
-     "prompt": "Which philosopher described life without government as a war of all against all?",
-     "choices": [
-      "Thomas Hobbes",
-      "John Locke",
-      "Rousseau",
-      "David Hume"
-     ],
-     "answer": "Thomas Hobbes",
+     "answer": "James Watt",
      "difficulty": "medium"
     },
     {
-     "id": "phil-084",
-     "prompt": "Voltaire's Candide mocks the optimism of which philosopher?",
+     "id": "tech-183",
+     "prompt": "Colour television broadcasts became common in the US in which decade?",
      "choices": [
-      "Leibniz",
-      "Locke",
-      "Hume",
-      "Rousseau"
+      "1980s",
+      "1960s",
+      "1930s",
+      "1990s"
      ],
-     "answer": "Leibniz",
+     "answer": "1960s",
+     "difficulty": "medium"
+    },
+    {
+     "id": "tech-139",
+     "prompt": "Who discovered electromagnetic induction in 1831?",
+     "choices": [
+      "James Clerk Maxwell",
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Michael Faraday"
+     ],
+     "answer": "Michael Faraday",
      "difficulty": "medium"
     }
    ]

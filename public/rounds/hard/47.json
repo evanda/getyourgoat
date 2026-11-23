@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-213",
-     "prompt": "Which philosopher coined the phrase tacit knowledge?",
+     "id": "hard-tech-031",
+     "prompt": "Which river-driven water-lifting wheel is famous at Hama, Syria?",
      "choices": [
-      "Karl Popper",
-      "Gilbert Ryle",
-      "Thomas Kuhn",
-      "Michael Polanyi"
+      "Noria",
+      "Shaduf",
+      "Water organ",
+      "Treadwheel"
      ],
-     "answer": "Michael Polanyi",
+     "answer": "Noria",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-020",
-     "prompt": "In which Plato dialogue does the 'Third Man' objection to the Forms appear?",
+     "id": "hard-tech-148",
+     "prompt": "Which Danish engineer's 1898 Telegraphone recorded sound magnetically?",
      "choices": [
-      "Philebus",
-      "Timaeus",
-      "Phaedo",
-      "Parmenides"
+      "Hans Oersted",
+      "Niels Bohr",
+      "Valdemar Poulsen",
+      "Poul la Cour"
      ],
-     "answer": "Parmenides",
+     "answer": "Valdemar Poulsen",
      "difficulty": "hard"
     },
     {
-     "id": "hard-phil-236",
-     "prompt": "Which Abbasid caliph backed translation and the Mu'tazila?",
+     "id": "hard-tech-246",
+     "prompt": "Which Frenchman built the 1769 steam-powered fardier, an early road vehicle?",
      "choices": [
-      "Al-Mansur",
-      "Al-Mutawakkil",
-      "Al-Ma'mun",
-      "Harun al-Rashid"
+      "Richard Trevithick",
+      "Oliver Evans",
+      "William Murdoch",
+      "Nicolas-Joseph Cugnot"
      ],
-     "answer": "Al-Ma'mun",
+     "answer": "Nicolas-Joseph Cugnot",
      "difficulty": "hard"
     }
    ]

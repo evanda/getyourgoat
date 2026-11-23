@@ -149,43 +149,43 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-225",
-     "prompt": "Which philosopher wrote the essay On Bullshit?",
+     "id": "hard-tech-178",
+     "prompt": "Which Dutch draper observed microbes with single-lens microscopes in the 1670s?",
      "choices": [
-      "Daniel Dennett",
-      "Harry Frankfurt",
-      "John Searle",
-      "Thomas Nagel"
+      "Jan Swammerdam",
+      "Antonie van Leeuwenhoek",
+      "Zacharias Janssen",
+      "Robert Hooke"
      ],
-     "answer": "Harry Frankfurt",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-174",
-     "prompt": "Which philosopher coined the term Axial Age?",
-     "choices": [
-      "Oswald Spengler",
-      "Martin Buber",
-      "Max Weber",
-      "Karl Jaspers"
-     ],
-     "answer": "Karl Jaspers",
-     "difficulty": "medium"
-    },
-    {
-     "id": "hard-phil-214",
-     "prompt": "Which philosopher's knowledge argument features Mary, a scientist raised in a black-and-white room?",
-     "choices": [
-      "Daniel Dennett",
-      "Frank Jackson",
-      "Thomas Nagel",
-      "David Chalmers"
-     ],
-     "answer": "Frank Jackson",
+     "answer": "Antonie van Leeuwenhoek",
      "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-291",
+     "prompt": "Which Belgian patented the saxophone in 1846?",
+     "choices": [
+      "Adolphe Sax",
+      "Hector Berlioz",
+      "Antoine Courtois",
+      "Theobald Boehm"
+     ],
+     "answer": "Adolphe Sax",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hard-tech-175",
+     "prompt": "Which Dutch physician built the first working kidney dialysis machine in 1943?",
+     "choices": [
+      "Belding Scribner",
+      "Nils Alwall",
+      "Willem Kolff",
+      "Willem Einthoven"
+     ],
+     "answer": "Willem Kolff",
+     "difficulty": "medium"
     }
    ]
   }

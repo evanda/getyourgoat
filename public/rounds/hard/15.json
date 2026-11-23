@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-099",
-     "prompt": "In which work did Descartes first publish the cogito, in French?",
+     "id": "hard-tech-255",
+     "prompt": "Which Nissin founder invented instant ramen in 1958?",
      "choices": [
-      "Principles of Philosophy",
-      "The Passions of the Soul",
-      "Meditations",
-      "Discourse on the Method"
+      "Soichiro Honda",
+      "Konosuke Matsushita",
+      "Akio Morita",
+      "Momofuku Ando"
      ],
-     "answer": "Discourse on the Method",
+     "answer": "Momofuku Ando",
      "difficulty": "medium"
     },
     {
-     "id": "hard-phil-314",
-     "prompt": "Which philosopher served as India's second president?",
+     "id": "hard-tech-172",
+     "prompt": "Which American surgeon first used a heart-lung machine in open-heart surgery in 1953?",
      "choices": [
-      "Rabindranath Tagore",
-      "Sarvepalli Radhakrishnan",
-      "Sri Aurobindo",
-      "B. R. Ambedkar"
+      "Walt Lillehei",
+      "Denton Cooley",
+      "John Gibbon",
+      "Michael DeBakey"
      ],
-     "answer": "Sarvepalli Radhakrishnan",
-     "difficulty": "medium"
+     "answer": "John Gibbon",
+     "difficulty": "hard"
     },
     {
-     "id": "hard-phil-117",
-     "prompt": "Which Italian wrote On Crimes and Punishments, opposing torture and the death penalty?",
+     "id": "hard-tech-101",
+     "prompt": "Which Scottish engineer lit his Redruth home with coal gas in the 1790s?",
      "choices": [
-      "Giambattista Vico",
-      "Pietro Verri",
-      "Cesare Beccaria",
-      "Gaetano Filangieri"
+      "James Watt",
+      "Matthew Boulton",
+      "Thomas Telford",
+      "William Murdoch"
      ],
-     "answer": "Cesare Beccaria",
+     "answer": "William Murdoch",
      "difficulty": "medium"
     }
    ]

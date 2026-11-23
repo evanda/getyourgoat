@@ -149,42 +149,42 @@
    ]
   },
   {
-   "category": "philosophy",
+   "category": "technology",
    "variants": [
     {
-     "id": "hard-phil-226",
-     "prompt": "Which philosopher's Jim and the Indians case challenges utilitarianism?",
+     "id": "hard-tech-010",
+     "prompt": "Which Han polymath built a seismoscope in AD 132?",
      "choices": [
-      "John Rawls",
-      "Bernard Williams",
-      "Derek Parfit",
-      "R. M. Hare"
+      "Zhang Heng",
+      "Shen Kuo",
+      "Zu Chongzhi",
+      "Cai Lun"
      ],
-     "answer": "Bernard Williams",
-     "difficulty": "medium"
+     "answer": "Zhang Heng",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-272",
-     "prompt": "Which thinker of the Yin-Yang school developed the cycle of Five Phases?",
+     "id": "hard-tech-046",
+     "prompt": "Which small, maneuverable ship type did Portugal develop for 15th-century voyages of exploration?",
      "choices": [
-      "Shen Dao",
-      "Gongsun Long",
-      "Zou Yan",
-      "Dong Zhongshu"
+      "Dhow",
+      "Caravel",
+      "Cog",
+      "Galleon"
      ],
-     "answer": "Zou Yan",
-     "difficulty": "hard"
+     "answer": "Caravel",
+     "difficulty": "easy"
     },
     {
-     "id": "hard-phil-015",
-     "prompt": "Which Plato dialogue is set on Socrates' last day and argues for the soul's immortality?",
+     "id": "hard-tech-270",
+     "prompt": "Which engineer built Locomotion No. 1 for the 1825 Stockton and Darlington opening?",
      "choices": [
-      "Phaedrus",
-      "Gorgias",
-      "Crito",
-      "Phaedo"
+      "Richard Trevithick",
+      "Isambard Brunel",
+      "George Stephenson",
+      "Timothy Hackworth"
      ],
-     "answer": "Phaedo",
+     "answer": "George Stephenson",
      "difficulty": "easy"
     }
    ]
