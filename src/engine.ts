@@ -273,19 +273,20 @@ export function simulate(
 }
 
 /**
- * Share-grid emoji per question: ⏭️ if skipped (which always costs a goat),
- * 🧌 if the ogre grabbed a goat while it was on screen, 🐐 if answered with no
- * loss, ⬜ if never reached.
+ * Share grid: one emoji per goat, so it always matches the count. Saved goats
+ * (🐐) come first, then lost goats in the order they were lost: 🧌 grabbed by
+ * the ogre, ⏭️ given up by a skip.
  */
-export function shareGrid(s: GameState): string {
-  return s.categories
-    .map((_, i) => {
-      const r = s.results[i];
-      if (!r) return '⬜';
-      if (r.outcome === 'skipped') return '⏭️';
-      return r.goatsLost > 0 ? '🧌' : '🐐';
-    })
-    .join('');
+export function shareGrid(s: GameState, totalGoats = 5): string {
+  const lost: string[] = [];
+  for (const r of s.results) {
+    const skipped = r.outcome === 'skipped' ? 1 : 0;
+    // Grabs happen while the question is up; a skip's goat goes when it ends.
+    for (let i = 0; i < r.goatsLost - skipped; i++) lost.push('🧌');
+    if (skipped) lost.push('⏭️');
+  }
+  if (s.current) for (let i = 0; i < s.current.goatsLost; i++) lost.push('🧌');
+  return '🐐'.repeat(Math.max(0, totalGoats - lost.length)) + lost.join('');
 }
 
 export function formatTime(seconds: number): string {

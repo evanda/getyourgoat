@@ -52,8 +52,9 @@ Pace per level (alpha 0.4): Easy 16 s, Normal 11 s, Hard 9 s.
   (he starts the next approach at −buttDistance). Positions below 0 = inside the cave.
 - Pen empties before Q5 → game ends; unreached questions are absent from results
   and render as ⬜ in the share grid.
-- Grid: ⏭️ if skipped (always cost a goat); 🧌 if the ogre grabbed a goat while it was live;
-  🐐 if answered with no loss; ⬜ if never reached. Count `N/5` is goats left.
+- Grid (owner's choice): one emoji per GOAT, not per question, so it always matches `N/5`.
+  Saved goats 🐐 first, then lost goats in the order lost: 🧌 grabbed, ⏭️ lost to a skip.
+  The ogre can grab several goats during one slow question; per-question detail is in the results table.
   Share line: `Get Your Goat #42 · Normal`.
 - After a wrong answer: skip or reroll only (no retry). Answer is not revealed.
 - Every skip costs a goat (owner: a skip is not a goat saved). Skipping away the last goat ends the game.

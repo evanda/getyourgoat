@@ -137,7 +137,7 @@ describe('wrong, skip, reroll', () => {
     s = applyEvent(applyEvent(s, P, 'wrong'), P, 'skip');
     expect(s.phase).toBe('DONE');
     expect(s.goats).toBe(3);
-    expect(shareGrid(s)).toBe('⏭️🐐🐐🐐⏭️');
+    expect(shareGrid(s)).toBe('🐐🐐🐐⏭️⏭️');
   });
 
   it('a skip plus a grab on another question leaves 3 of 5', () => {
@@ -148,7 +148,7 @@ describe('wrong, skip, reroll', () => {
     s = applyEvent(applyEvent(advanceTo(s, P, 3), P, 'wrong'), P, 'skip');
     s = applyEvent(advanceTo(s, P, 30), P, 'correct');
     s = applyEvent(advanceTo(s, P, 31), P, 'correct');
-    expect(shareGrid(s)).toBe('🐐🐐⏭️🧌🐐');
+    expect(shareGrid(s)).toBe('🐐🐐🐐⏭️🧌');
     expect(s.goats).toBe(3);
   });
 
@@ -196,7 +196,7 @@ describe('game end', () => {
     expect(s.goats).toBe(0);
     expect(s.results).toHaveLength(1);
     expect(s.results[0]).toMatchObject({ outcome: 'pen-empty', goatsLost: 5 });
-    expect(shareGrid(s)).toBe('🧌⬜⬜⬜⬜');
+    expect(shareGrid(s)).toBe('🧌🧌🧌🧌🧌');
   });
 
   it('grid marks the questions that cost a goat', () => {
@@ -208,7 +208,7 @@ describe('game end', () => {
       { t: 36, type: 'correct' },
     ];
     const s = simulate(P, CATS, events, 60);
-    expect(shareGrid(s)).toBe('🐐🧌🐐🐐🐐');
+    expect(shareGrid(s)).toBe('🐐🐐🐐🐐🧌');
     expect(s.goats).toBe(4);
   });
 
@@ -222,6 +222,41 @@ describe('game end', () => {
       { t: 26, type: 'skip' },
     ];
     expect(simulate(P, CATS, events, 40)).toEqual(simulate(P, CATS, events, 40));
+  });
+});
+
+describe('share grid matches the goat count', () => {
+  it('two grabs during one slow question show as two lost goats', () => {
+    const cycle = 14 + 0.8 + 2.5;
+    let s = advanceTo(initialState(P, CATS), P, cycle + 14.01); // two grabs on question 1
+    s = applyEvent(s, P, 'correct');
+    for (let i = 0; i < 4; i++) s = applyEvent(s, P, 'correct');
+    expect(s.goats).toBe(3);
+    expect(shareGrid(s)).toBe('🐐🐐🐐🧌🧌');
+  });
+
+  it('holds for 500 random games', () => {
+    let seed = 7;
+    const rand = () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296);
+    for (let g = 0; g < 500; g++) {
+      const events: GameEvent[] = [];
+      let t = 0;
+      for (let q = 0; q < 5; q++) {
+        t += 1 + rand() * 25;
+        const r = rand();
+        if (r < 0.7) events.push({ t, type: 'correct' });
+        else {
+          events.push({ t, type: 'wrong' });
+          t += 0.5;
+          events.push({ t, type: r < 0.85 ? 'skip' : 'reroll' });
+          if (r >= 0.85) { t += 3; events.push({ t, type: 'correct' }); }
+        }
+      }
+      const s = simulate(P, CATS, events, t + 60);
+      const grid = [...new Intl.Segmenter().segment(shareGrid(s))].map((x) => x.segment);
+      expect(grid).toHaveLength(5);
+      expect(grid.filter((e) => e === '🐐')).toHaveLength(s.goats);
+    }
   });
 });
 
