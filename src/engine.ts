@@ -230,13 +230,11 @@ export function applyEvent(s: GameState, p: Params, type: EventType): GameState 
       if (c.awaitingChoice) return s;
       return { ...s, current: { ...c, wrongs: c.wrongs + 1, awaitingChoice: true } };
     case 'skip': {
-      // Skipping the final question would end the game for free, so the ogre
-      // takes a goat for it.
-      if (s.q === s.categories.length - 1 && s.goats > 0) {
-        const n = { ...s, goats: s.goats - 1, current: { ...c, goatsLost: c.goatsLost + 1 } };
-        return finishQuestion(n, 'skipped');
-      }
-      return finishQuestion(s, 'skipped');
+      // A skip is a question you didn't answer, so the ogre takes a goat for it.
+      // (The game is still live, so there is always a goat to take.)
+      const goats = s.goats - 1;
+      const n = { ...s, goats, current: { ...c, goatsLost: c.goatsLost + 1 } };
+      return finishQuestion(n, 'skipped', goats === 0);
     }
     case 'reroll': {
       const n = { ...s, current: { ...c, variant: c.variant + 1, rerolls: c.rerolls + 1, awaitingChoice: false } };
@@ -275,16 +273,17 @@ export function simulate(
 }
 
 /**
- * Share-grid emoji per question: 🧌 if a goat was lost on it, ⏭️ if it was
- * skipped without losing one, 🐐 if answered with no loss, ⬜ if never reached.
+ * Share-grid emoji per question: ⏭️ if skipped (which always costs a goat),
+ * 🧌 if the ogre grabbed a goat while it was on screen, 🐐 if answered with no
+ * loss, ⬜ if never reached.
  */
 export function shareGrid(s: GameState): string {
   return s.categories
     .map((_, i) => {
       const r = s.results[i];
       if (!r) return '⬜';
-      if (r.goatsLost > 0) return '🧌';
-      return r.outcome === 'skipped' ? '⏭️' : '🐐';
+      if (r.outcome === 'skipped') return '⏭️';
+      return r.goatsLost > 0 ? '🧌' : '🐐';
     })
     .join('');
 }

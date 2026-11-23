@@ -52,11 +52,11 @@ Pace per level (alpha 0.4): Easy 16 s, Normal 11 s, Hard 9 s.
   (he starts the next approach at −buttDistance). Positions below 0 = inside the cave.
 - Pen empties before Q5 → game ends; unreached questions are absent from results
   and render as ⬜ in the share grid.
-- Grid: 🧌 if at least one goat was lost while that question was live; ⏭️ if skipped with
-  no loss; 🐐 if answered with no loss; ⬜ if never reached. Count `N/5` is goats left.
+- Grid: ⏭️ if skipped (always cost a goat); 🧌 if the ogre grabbed a goat while it was live;
+  🐐 if answered with no loss; ⬜ if never reached. Count `N/5` is goats left.
   Share line: `Get Your Goat #42 · Normal`.
 - After a wrong answer: skip or reroll only (no retry). Answer is not revealed.
-- Skipping the last question costs a goat (otherwise it ends the game for free). Earlier skips cost only time.
+- Every skip costs a goat (owner: a skip is not a goat saved). Skipping away the last goat ends the game.
 - Puzzle #1 = 2026-11-23. Missing day file → falls back to #1 with a note.
 - Game clock is wall-clock time; the ogre keeps walking while the tab is hidden (doc: "keeps walking").
 

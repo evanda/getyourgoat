@@ -225,7 +225,7 @@ function showStart(loaded: Loaded): void {
         el('li', {}, 'Answer right and a goat butts him back.'),
         el('li', {}, 'Miss, and you can skip or reroll, but he keeps walking.'),
         el('li', {}, 'If he reaches the pen, he drags a goat to his cave.'),
-        el('li', {}, 'Skipping the last question costs a goat.'),
+        el('li', {}, 'Skipping a question costs a goat.'),
       ),
       levelPicker(round.level),
       el('p', { class: 'cats' }, LEVEL_CATEGORIES[round.level].join(' · ')),
@@ -293,6 +293,12 @@ function startGame(loaded: Loaded): void {
       sfx.play('butt', prefs.sound);
       launchGoat(v, before, reduced);
     }
+    if (type === 'skip' && s.goats < before.goats) {
+      // Announce it here so the frame loop doesn't call it a grab.
+      prevGoats = s.goats;
+      sfx.play('grab', prefs.sound);
+      showToast(v, s.goats > 0 ? 'Skipped. The ogre takes a goat.' : 'Skipped. That was your last goat.');
+    }
     if (type === 'wrong') {
       sfx.play('wrong', prefs.sound);
       v.card.classList.remove('shake');
@@ -327,8 +333,7 @@ function startGame(loaded: Loaded): void {
 
     const children: Node[] = [prompt, body];
     if (c.awaitingChoice) {
-      const last = s.q === s.categories.length - 1;
-      const skip = el('button', { class: 'secondary', textContent: last ? 'Skip (lose a goat)' : 'Skip' });
+      const skip = el('button', { class: 'secondary', textContent: 'Skip (lose a goat)' });
       skip.addEventListener('click', () => send('skip'));
       const reroll = el('button', {
         class: 'secondary',

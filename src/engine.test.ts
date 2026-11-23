@@ -126,23 +126,40 @@ describe('wrong, skip, reroll', () => {
     s = applyEvent(s, P, 'skip');
     expect(s.q).toBe(1);
     expect(s.results[0].outcome).toBe('skipped');
+    expect(s.goats).toBe(4);
   });
 
-  it('skipping the last question costs a goat', () => {
-    let s = initialState(P, CATS);
-    for (let i = 0; i < 4; i++) s = applyEvent(s, P, 'correct');
+  it('every skip costs a goat and shows as ⏭️', () => {
+    let s = applyEvent(applyEvent(initialState(P, CATS), P, 'wrong'), P, 'skip');
+    expect(s.goats).toBe(4);
+    expect(s.results[0]).toMatchObject({ outcome: 'skipped', goatsLost: 1 });
+    for (let i = 0; i < 3; i++) s = applyEvent(s, P, 'correct');
     s = applyEvent(applyEvent(s, P, 'wrong'), P, 'skip');
     expect(s.phase).toBe('DONE');
-    expect(s.goats).toBe(4);
-    expect(s.results[4]).toMatchObject({ outcome: 'skipped', goatsLost: 1 });
-    expect(shareGrid(s)).toBe('🐐🐐🐐🐐🧌');
+    expect(s.goats).toBe(3);
+    expect(shareGrid(s)).toBe('⏭️🐐🐐🐐⏭️');
   });
 
-  it('skipping an earlier question costs only time, and shows as a skip in the grid', () => {
-    let s = applyEvent(applyEvent(initialState(P, CATS), P, 'wrong'), P, 'skip');
-    expect(s.goats).toBe(5);
-    for (let i = 0; i < 4; i++) s = applyEvent(s, P, 'correct');
-    expect(shareGrid(s)).toBe('⏭️🐐🐐🐐🐐');
+  it('a skip plus a grab on another question leaves 3 of 5', () => {
+    // The reported case: skip question 3, then the ogre grabs a goat during question 4.
+    let s = initialState(P, CATS);
+    s = applyEvent(advanceTo(s, P, 1), P, 'correct');
+    s = applyEvent(advanceTo(s, P, 2), P, 'correct');
+    s = applyEvent(applyEvent(advanceTo(s, P, 3), P, 'wrong'), P, 'skip');
+    s = applyEvent(advanceTo(s, P, 30), P, 'correct');
+    s = applyEvent(advanceTo(s, P, 31), P, 'correct');
+    expect(shareGrid(s)).toBe('🐐🐐⏭️🧌🐐');
+    expect(s.goats).toBe(3);
+  });
+
+  it('skipping away the last goat ends the game', () => {
+    let s = initialState(P, CATS);
+    s = advanceTo(s, P, 14 + 0.8 + 2.5 + 14 + 0.8 + 2.5 + 14 + 0.8 + 2.5 + 14.01); // 4 grabs, 1 goat left
+    expect(s.goats).toBe(1);
+    s = applyEvent(applyEvent(s, P, 'wrong'), P, 'skip');
+    expect(s.phase).toBe('DONE');
+    expect(s.goats).toBe(0);
+    expect(s.results).toHaveLength(1);
   });
 
   it('reroll keeps the category and moves to the next variant', () => {
