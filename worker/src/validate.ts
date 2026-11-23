@@ -5,6 +5,7 @@ export const PACE = ['too_slow', 'just_right', 'too_fast'] as const;
 export const DIFFICULTY = ['too_easy', 'just_right', 'too_hard'] as const;
 export const FLAG_REASONS = ['wrong_answer', 'unclear', 'other'] as const;
 export const OUTCOMES = ['correct', 'skipped', 'pen-empty'] as const;
+export const LEVELS = ['easy', 'normal', 'hard'] as const;
 const SETTINGS = ['ogreSpeed', 'buttDistance', 'buttDuration', 'grabPause', 'returnSpeed', 'startOffset', 'rerollPenalty'];
 
 export interface PerQuestion {
@@ -28,6 +29,7 @@ export interface Submission {
   submissionId: string;
   clientId: string;
   build: string;
+  level: (typeof LEVELS)[number];
   round: number;
   settings: Record<string, number>;
   run: { goatsSaved: number; totalTimeMs: number; perQuestion: PerQuestion[] };
@@ -100,6 +102,7 @@ export function validateSubmission(raw: unknown): { ok: true; value: Submission 
       submissionId: str(o.submissionId, 'submissionId', 64, ID),
       clientId: str(o.clientId, 'clientId', 64, ID),
       build: str(o.build, 'build', 32),
+      level: oneOf(o.level, 'level', LEVELS),
       round: int(o.round, 'round', 1, 100_000),
       settings,
       run: {

@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 34,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-014",
+     "prompt": "80 − 18",
+     "answer": 62,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-287",
+     "prompt": "32 × 5",
+     "answer": 160,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-012",
+     "prompt": "7 × 9",
+     "answer": 63,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-181",
+     "prompt": "Who was the last emperor of China?",
+     "choices": [
+      "Puyi",
+      "Kublai Khan",
+      "Qin Shi Huang",
+      "Sun Yat-sen"
+     ],
+     "answer": "Puyi",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-037",
+     "prompt": "Which Roman emperor created the Tetrarchy, a rule by four?",
+     "choices": [
+      "Diocletian",
+      "Nero",
+      "Hadrian",
+      "Marcus Aurelius"
+     ],
+     "answer": "Diocletian",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-008",
+     "prompt": "Which Roman general crossed the Rubicon river in 49 BC?",
+     "choices": [
+      "Pompey",
+      "Mark Antony",
+      "Cicero",
+      "Julius Caesar"
+     ],
+     "answer": "Julius Caesar",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-111",
+     "prompt": "Who wrote the 1950s poem \"Howl\"?",
+     "choices": [
+      "Jack Kerouac",
+      "Allen Ginsberg",
+      "Gary Snyder",
+      "Lawrence Ferlinghetti"
+     ],
+     "answer": "Allen Ginsberg",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-055",
+     "prompt": "Which novel features the Dashwood sisters Elinor and Marianne?",
+     "choices": [
+      "Sense and Sensibility",
+      "Northanger Abbey",
+      "Emma",
+      "Persuasion"
+     ],
+     "answer": "Sense and Sensibility",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-080",
+     "prompt": "Which Shakespeare play features the twins Viola and Sebastian?",
+     "choices": [
+      "As You Like It",
+      "The Comedy of Errors",
+      "The Winter's Tale",
+      "Twelfth Night"
+     ],
+     "answer": "Twelfth Night",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-250",
+     "prompt": "Which natural resource is formed from ancient swamp plants?",
+     "choices": [
+      "Oil",
+      "Coal",
+      "Granite",
+      "Salt"
+     ],
+     "answer": "Coal",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-018",
+     "prompt": "Pencil \"lead\" is actually made of which mineral?",
+     "choices": [
+      "Talc",
+      "Graphite",
+      "Mica",
+      "Quartz"
+     ],
+     "answer": "Graphite",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-058",
+     "prompt": "The ozone layer lies mainly in which atmospheric layer?",
+     "choices": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Exosphere"
+     ],
+     "answer": "Stratosphere",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-092",
+     "prompt": "Who wrote The Social Contract?",
+     "choices": [
+      "Rousseau",
+      "Voltaire",
+      "Diderot",
+      "Montesquieu"
+     ],
+     "answer": "Rousseau",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-150",
+     "prompt": "Who wrote What Is Property? and said property is theft?",
+     "choices": [
+      "Pierre-Joseph Proudhon",
+      "Mikhail Bakunin",
+      "Karl Marx",
+      "Peter Kropotkin"
+     ],
+     "answer": "Pierre-Joseph Proudhon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-154",
+     "prompt": "Who wrote I and Thou?",
+     "choices": [
+      "Martin Buber",
+      "Emmanuel Levinas",
+      "Franz Rosenzweig",
+      "Hannah Arendt"
+     ],
+     "answer": "Martin Buber",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

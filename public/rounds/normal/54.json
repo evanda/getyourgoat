@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 54,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-192",
+     "prompt": "415 − 184",
+     "answer": 231,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-048",
+     "prompt": "28 × 14",
+     "answer": 392,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-251",
+     "prompt": "8 × 8 − 25",
+     "answer": 39,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-274",
+     "prompt": "Which British duke defeated Napoleon at Waterloo?",
+     "choices": [
+      "Horatio Nelson",
+      "Duke of Wellington",
+      "Duke of Marlborough",
+      "Lord Cornwallis"
+     ],
+     "answer": "Duke of Wellington",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-041",
+     "prompt": "Which ancient script did the Rosetta Stone help scholars read?",
+     "choices": [
+      "Egyptian hieroglyphs",
+      "Cuneiform",
+      "Mayan glyphs",
+      "Linear A"
+     ],
+     "answer": "Egyptian hieroglyphs",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-043",
+     "prompt": "Which Chinese thinker's sayings are collected in the Analects?",
+     "choices": [
+      "Laozi",
+      "Mencius",
+      "Confucius",
+      "Sun Tzu"
+     ],
+     "answer": "Confucius",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-244",
+     "prompt": "Who wrote the Chinese novel Red Sorghum?",
+     "choices": [
+      "Yu Hua",
+      "Mo Yan",
+      "Lu Xun",
+      "Lao She"
+     ],
+     "answer": "Mo Yan",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-017",
+     "prompt": "Who wrote the novel 1984?",
+     "choices": [
+      "Ray Bradbury",
+      "George Orwell",
+      "Aldous Huxley",
+      "H. G. Wells"
+     ],
+     "answer": "George Orwell",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-143",
+     "prompt": "Who wrote the play A Streetcar Named Desire?",
+     "choices": [
+      "Thornton Wilder",
+      "Arthur Miller",
+      "Tennessee Williams",
+      "Eugene O'Neill"
+     ],
+     "answer": "Tennessee Williams",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-134",
+     "prompt": "Which of the Great Lakes is largest by area?",
+     "choices": [
+      "Lake Erie",
+      "Lake Superior",
+      "Lake Ontario",
+      "Lake Michigan"
+     ],
+     "answer": "Lake Superior",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-242",
+     "prompt": "Which strait separates Spain from Morocco?",
+     "choices": [
+      "Bering Strait",
+      "Strait of Gibraltar",
+      "Strait of Hormuz",
+      "Drake Passage"
+     ],
+     "answer": "Strait of Gibraltar",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-068",
+     "prompt": "A rotating funnel of air that touches the ground is called what?",
+     "choices": [
+      "Monsoon",
+      "Blizzard",
+      "Front",
+      "Tornado"
+     ],
+     "answer": "Tornado",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-057",
+     "prompt": "Which Indian philosopher founded the Madhyamaka, or Middle Way, school?",
+     "choices": [
+      "Nagarjuna",
+      "Shankara",
+      "Ramanuja",
+      "Vasubandhu"
+     ],
+     "answer": "Nagarjuna",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-241",
+     "prompt": "Someone described as Machiavellian is what?",
+     "choices": [
+      "Cunning and scheming",
+      "Kind and open",
+      "Lazy",
+      "Shy"
+     ],
+     "answer": "Cunning and scheming",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-134",
+     "prompt": "Which philosopher proposed the veil of ignorance?",
+     "choices": [
+      "John Rawls",
+      "Robert Nozick",
+      "Ronald Dworkin",
+      "Jurgen Habermas"
+     ],
+     "answer": "John Rawls",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

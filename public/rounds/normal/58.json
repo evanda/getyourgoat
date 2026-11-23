@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 58,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-108",
+     "prompt": "92 − 43",
+     "answer": 49,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-164",
+     "prompt": "21 × 8",
+     "answer": 168,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-208",
+     "prompt": "33 × 9",
+     "answer": 297,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-173",
+     "prompt": "The Mississippian city of Cahokia stood near which modern US city?",
+     "choices": [
+      "St. Louis",
+      "Atlanta",
+      "Denver",
+      "Boston"
+     ],
+     "answer": "St. Louis",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-135",
+     "prompt": "Which 1919 treaty formally ended World War I with Germany?",
+     "choices": [
+      "Treaty of Vienna",
+      "Treaty of Paris",
+      "Treaty of Versailles",
+      "Treaty of Tordesillas"
+     ],
+     "answer": "Treaty of Versailles",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-004",
+     "prompt": "Which Greek city-state is known as the birthplace of democracy?",
+     "choices": [
+      "Sparta",
+      "Corinth",
+      "Thebes",
+      "Athens"
+     ],
+     "answer": "Athens",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-010",
+     "prompt": "Who wrote Charlie and the Chocolate Factory?",
+     "choices": [
+      "Dr. Seuss",
+      "Judy Blume",
+      "Roald Dahl",
+      "Enid Blyton"
+     ],
+     "answer": "Roald Dahl",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-283",
+     "prompt": "Mary Ann Evans wrote under which pen name?",
+     "choices": [
+      "Lewis Carroll",
+      "George Sand",
+      "George Eliot",
+      "Currer Bell"
+     ],
+     "answer": "George Eliot",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-282",
+     "prompt": "Which literary sisters published as Currer, Ellis and Acton Bell?",
+     "choices": [
+      "The Brontës",
+      "The Alcotts",
+      "The Rossettis",
+      "The Mitfords"
+     ],
+     "answer": "The Brontës",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-070",
+     "prompt": "What is a tropical cyclone called in the northwest Pacific?",
+     "choices": [
+      "Hurricane",
+      "Typhoon",
+      "Tornado",
+      "Squall"
+     ],
+     "answer": "Typhoon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-145",
+     "prompt": "Which type of soil layer is the dark, nutrient-rich top layer?",
+     "choices": [
+      "Topsoil",
+      "Bedrock",
+      "Subsoil",
+      "Parent rock"
+     ],
+     "answer": "Topsoil",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-254",
+     "prompt": "Which layer of the ocean receives enough sunlight for photosynthesis?",
+     "choices": [
+      "Twilight zone",
+      "Sunlight zone",
+      "Midnight zone",
+      "Abyssal zone"
+     ],
+     "answer": "Sunlight zone",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-016",
+     "prompt": "Which philosopher devised the paradox of Achilles and the tortoise?",
+     "choices": [
+      "Zeno of Elea",
+      "Zeno of Citium",
+      "Heraclitus",
+      "Democritus"
+     ],
+     "answer": "Zeno of Elea",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-193",
+     "prompt": "Descartes died in Sweden after tutoring which monarch?",
+     "choices": [
+      "Queen Christina",
+      "Queen Elizabeth",
+      "Catherine the Great",
+      "Queen Anne"
+     ],
+     "answer": "Queen Christina",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-116",
+     "prompt": "Which English thinker designed the Panopticon prison?",
+     "choices": [
+      "Jeremy Bentham",
+      "John Stuart Mill",
+      "Henry Sidgwick",
+      "David Hume"
+     ],
+     "answer": "Jeremy Bentham",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

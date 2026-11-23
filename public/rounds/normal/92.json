@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 92,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-131",
+     "prompt": "110 ÷ 10 + 7",
+     "answer": 18,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-068",
+     "prompt": "247 + 90",
+     "answer": 337,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-024",
+     "prompt": "265 + 93",
+     "answer": 358,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-191",
+     "prompt": "In which year did India gain independence from Britain?",
+     "choices": [
+      "1857",
+      "1919",
+      "1947",
+      "1965"
+     ],
+     "answer": "1947",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-215",
+     "prompt": "Which nurse became famous for her work in the Crimean War?",
+     "choices": [
+      "Clara Barton",
+      "Dorothea Dix",
+      "Florence Nightingale",
+      "Edith Cavell"
+     ],
+     "answer": "Florence Nightingale",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-073",
+     "prompt": "Which ancient kingdom in what is now Ethiopia became Christian in the 300s?",
+     "choices": [
+      "Aksum",
+      "Mali",
+      "Songhai",
+      "Kush"
+     ],
+     "answer": "Aksum",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-155",
+     "prompt": "Who kills Hector in the Iliad?",
+     "choices": [
+      "Agamemnon",
+      "Achilles",
+      "Odysseus",
+      "Ajax"
+     ],
+     "answer": "Achilles",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-254",
+     "prompt": "Who wrote the Czech comic novel The Good Soldier Švejk?",
+     "choices": [
+      "Milan Kundera",
+      "Karel Čapek",
+      "Franz Kafka",
+      "Jaroslav Hašek"
+     ],
+     "answer": "Jaroslav Hašek",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-297",
+     "prompt": "In which century was the first part of Don Quixote published?",
+     "choices": [
+      "17th century",
+      "15th century",
+      "18th century",
+      "19th century"
+     ],
+     "answer": "17th century",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-085",
+     "prompt": "The tiny particles that raindrops form around are called what?",
+     "choices": [
+      "Condensation nuclei",
+      "Ice sheets",
+      "Plasma cells",
+      "Spores"
+     ],
+     "answer": "Condensation nuclei",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-229",
+     "prompt": "Which plateau is called the \"roof of the world\"?",
+     "choices": [
+      "Tibetan Plateau",
+      "Colorado Plateau",
+      "Deccan Plateau",
+      "Iranian Plateau"
+     ],
+     "answer": "Tibetan Plateau",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-125",
+     "prompt": "Coral reefs are built mainly by tiny animals called what?",
+     "choices": [
+      "Coral polyps",
+      "Sponges",
+      "Jellyfish",
+      "Starfish"
+     ],
+     "answer": "Coral polyps",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-300",
+     "prompt": "Which branch of philosophy studies justice and government?",
+     "choices": [
+      "Political philosophy",
+      "Aesthetics",
+      "Metaphysics",
+      "Logic"
+     ],
+     "answer": "Political philosophy",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-278",
+     "prompt": "Which of these thinkers was a medieval Muslim philosopher?",
+     "choices": [
+      "Averroes",
+      "Thomas Aquinas",
+      "Plato",
+      "Confucius"
+     ],
+     "answer": "Averroes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-299",
+     "prompt": "Who is the main speaker in most of Plato's dialogues?",
+     "choices": [
+      "Socrates",
+      "Aristotle",
+      "Pericles",
+      "Homer"
+     ],
+     "answer": "Socrates",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 97,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-020",
+     "prompt": "12 × 10 − 17",
+     "answer": 103,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-006",
+     "prompt": "548 − 216",
+     "answer": 332,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-080",
+     "prompt": "45 ÷ 5 + 10",
+     "answer": 19,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-238",
+     "prompt": "Which English king had six wives?",
+     "choices": [
+      "Henry V",
+      "Henry VIII",
+      "Edward III",
+      "Richard I"
+     ],
+     "answer": "Henry VIII",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-202",
+     "prompt": "Which British explorer charted the east coast of Australia in 1770?",
+     "choices": [
+      "Abel Tasman",
+      "James Cook",
+      "William Dampier",
+      "Matthew Flinders"
+     ],
+     "answer": "James Cook",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-003",
+     "prompt": "Which Macedonian king conquered the Persian Empire?",
+     "choices": [
+      "Leonidas",
+      "Pericles",
+      "Alexander the Great",
+      "Xerxes"
+     ],
+     "answer": "Alexander the Great",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-104",
+     "prompt": "Who wrote \"Ode to a Nightingale\"?",
+     "choices": [
+      "Lord Byron",
+      "Alfred Tennyson",
+      "John Keats",
+      "Samuel Taylor Coleridge"
+     ],
+     "answer": "John Keats",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-158",
+     "prompt": "Which queen of Carthage loves Aeneas in Virgil's epic?",
+     "choices": [
+      "Penelope",
+      "Helen",
+      "Dido",
+      "Cleopatra"
+     ],
+     "answer": "Dido",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-078",
+     "prompt": "Elsinore castle is the setting of which Shakespeare play?",
+     "choices": [
+      "Hamlet",
+      "King Lear",
+      "Macbeth",
+      "Othello"
+     ],
+     "answer": "Hamlet",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-059",
+     "prompt": "The ozone layer protects life by absorbing which kind of radiation?",
+     "choices": [
+      "Infrared",
+      "Radio waves",
+      "Ultraviolet",
+      "Microwaves"
+     ],
+     "answer": "Ultraviolet",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-282",
+     "prompt": "The Hawaiian Islands are made mostly of which rock?",
+     "choices": [
+      "Granite",
+      "Basalt",
+      "Limestone",
+      "Sandstone"
+     ],
+     "answer": "Basalt",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-257",
+     "prompt": "On a map, which feature shows the ratio of map distance to real distance?",
+     "choices": [
+      "Scale",
+      "Legend",
+      "Compass rose",
+      "Key"
+     ],
+     "answer": "Scale",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-234",
+     "prompt": "John Locke was a philosopher from which country?",
+     "choices": [
+      "England",
+      "France",
+      "Germany",
+      "Italy"
+     ],
+     "answer": "England",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-203",
+     "prompt": "The Buddha was born in what is now which country?",
+     "choices": [
+      "Nepal",
+      "Sri Lanka",
+      "Tibet",
+      "Bhutan"
+     ],
+     "answer": "Nepal",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-171",
+     "prompt": "Which philosophy teaches pleasure is the highest good?",
+     "choices": [
+      "Hedonism",
+      "Stoicism",
+      "Asceticism",
+      "Nihilism"
+     ],
+     "answer": "Hedonism",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

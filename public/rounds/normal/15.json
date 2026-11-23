@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 15,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-174",
+     "prompt": "8 × 8 − 11",
+     "answer": 53,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-041",
+     "prompt": "180 + 75",
+     "answer": 255,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-117",
+     "prompt": "386 + 36",
+     "answer": 422,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-182",
+     "prompt": "Who proclaimed the People's Republic of China in 1949?",
+     "choices": [
+      "Sun Yat-sen",
+      "Mao Zedong",
+      "Deng Xiaoping",
+      "Chiang Kai-shek"
+     ],
+     "answer": "Mao Zedong",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-055",
+     "prompt": "In which century did the Black Death sweep across Europe?",
+     "choices": [
+      "12th century",
+      "16th century",
+      "14th century",
+      "10th century"
+     ],
+     "answer": "14th century",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-255",
+     "prompt": "Pompeii lies in which modern country?",
+     "choices": [
+      "Greece",
+      "Turkey",
+      "Italy",
+      "Spain"
+     ],
+     "answer": "Italy",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-263",
+     "prompt": "How many dwarfs live with Snow White?",
+     "choices": [
+      "Twelve",
+      "Seven",
+      "Nine",
+      "Five"
+     ],
+     "answer": "Seven",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-248",
+     "prompt": "Who wrote the play Death and the King's Horseman?",
+     "choices": [
+      "Ngũgĩ wa Thiong'o",
+      "Athol Fugard",
+      "Wole Soyinka",
+      "Chinua Achebe"
+     ],
+     "answer": "Wole Soyinka",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-047",
+     "prompt": "Who wrote Murder on the Orient Express?",
+     "choices": [
+      "Dorothy L. Sayers",
+      "Agatha Christie",
+      "Ngaio Marsh",
+      "Arthur Conan Doyle"
+     ],
+     "answer": "Agatha Christie",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-140",
+     "prompt": "A long, narrow, deep sea inlet carved by a glacier is called a what?",
+     "choices": [
+      "Atoll",
+      "Delta",
+      "Lagoon",
+      "Fjord"
+     ],
+     "answer": "Fjord",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-156",
+     "prompt": "A ring-shaped coral island surrounding a lagoon is called what?",
+     "choices": [
+      "Fjord",
+      "Delta",
+      "Peninsula",
+      "Atoll"
+     ],
+     "answer": "Atoll",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-204",
+     "prompt": "The part of Earth where life exists is called the what?",
+     "choices": [
+      "Hydrosphere",
+      "Lithosphere",
+      "Cryosphere",
+      "Biosphere"
+     ],
+     "answer": "Biosphere",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-046",
+     "prompt": "Who is traditionally credited with the Tao Te Ching?",
+     "choices": [
+      "Laozi",
+      "Confucius",
+      "Mencius",
+      "Sun Tzu"
+     ],
+     "answer": "Laozi",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-260",
+     "prompt": "Which of these thinkers lived earliest?",
+     "choices": [
+      "Thales",
+      "Plato",
+      "Aristotle",
+      "Epicurus"
+     ],
+     "answer": "Thales",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-183",
+     "prompt": "Hermeneutics is the study of what?",
+     "choices": [
+      "Interpretation",
+      "Beauty",
+      "Sound reasoning",
+      "Moral duty"
+     ],
+     "answer": "Interpretation",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

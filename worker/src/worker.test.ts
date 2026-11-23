@@ -3,7 +3,10 @@ import worker from './index.ts';
 import { validateSubmission } from './validate.ts';
 import { buildSubmission } from '../../src/feedback.ts';
 import { DEFAULTS, advanceTo, applyEvent, initialState } from '../../src/engine.ts';
-import { CATEGORIES, type Round } from '../../src/daily.ts';
+import type { Round } from '../../src/daily.ts';
+import { LEVEL_CATEGORIES } from '../../src/levels.ts';
+
+const CATEGORIES = LEVEL_CATEGORIES.normal;
 
 class FakeKV {
   store = new Map<string, string>();
@@ -22,6 +25,7 @@ const ORIGIN = 'https://example.github.io';
 const env = () => ({ SUBMISSIONS: new FakeKV(), EXPORT_TOKEN: 'secret-token', ALLOWED_ORIGINS: `${ORIGIN},http://localhost:5174` });
 
 const round: Round = {
+  level: 'normal',
   number: 7,
   questions: CATEGORIES.map((category, i) => ({
     category,
@@ -70,6 +74,7 @@ describe('client payload matches the worker contract', () => {
     expect(r.ok).toBe(true);
     if (!r.ok) return;
     expect(r.value.round).toBe(7);
+    expect(r.value.level).toBe('normal');
     expect(r.value.run.perQuestion[1]).toMatchObject({ questionId: 'q1-1', seen: ['q1-0', 'q1-1'], rerolls: 1, wrongs: 1 });
     expect(r.value.run.goatsSaved).toBe(playedGame().goats);
   });
@@ -79,8 +84,9 @@ describe('client payload matches the worker contract', () => {
     expect(r.ok && 'email' in r.value).toBe(false);
   });
 
-  it('rejects bad votes', () => {
+  it('rejects bad votes and unknown levels', () => {
     expect(validateSubmission({ ...sample(), pace: 'meh' }).ok).toBe(false);
+    expect(validateSubmission({ ...sample(), level: 'nightmare' }).ok).toBe(false);
   });
 });
 

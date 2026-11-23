@@ -1,6 +1,5 @@
 import './style.css';
 import {
-  DEFAULTS,
   advanceTo,
   applyEvent,
   formatTime,
@@ -8,10 +7,8 @@ import {
   shareGrid,
   type EventType,
   type GameState,
-  type Params,
 } from './engine.ts';
 import {
-  CATEGORIES,
   isChoice,
   loadRound,
   loadRoundCount,
@@ -24,8 +21,17 @@ import {
 import { sfx } from './sound.ts';
 import { alphaFeedback } from './alpha.ts';
 import { el } from './dom.ts';
+import {
+  DEFAULT_LEVEL,
+  LEVELS,
+  LEVEL_BLURB,
+  LEVEL_CATEGORIES,
+  LEVEL_LABEL,
+  LEVEL_PARAMS,
+  isLevel,
+  type Level,
+} from './levels.ts';
 
-const params: Params = { ...DEFAULTS };
 const app = document.getElementById('app')!;
 
 /** Alpha mode: pick any round, vote on pace and difficulty, flag questions. */
@@ -45,18 +51,25 @@ const prefs = {
   set sound(on: boolean) {
     writePref('sound', on ? '1' : '0');
   },
-  get played(): number[] {
+  get level(): Level {
+    const v = readPref('level');
+    return isLevel(v) ? v : DEFAULT_LEVEL;
+  },
+  set level(l: Level) {
+    writePref('level', l);
+  },
+  played(level: Level): number[] {
     try {
-      const v = JSON.parse(readPref('played') ?? '[]');
+      const v = JSON.parse(readPref(`played.${level}`) ?? '[]');
       return Array.isArray(v) ? v.filter((n) => Number.isInteger(n)) : [];
     } catch {
       return [];
     }
   },
-  markPlayed(n: number): void {
-    const p = new Set(prefs.played);
+  markPlayed(level: Level, n: number): void {
+    const p = new Set(prefs.played(level));
     p.add(n);
-    writePref('played', JSON.stringify([...p].sort((x, y) => x - y)));
+    writePref(`played.${level}`, JSON.stringify([...p].sort((x, y) => x - y)));
   },
 };
 
@@ -92,19 +105,24 @@ function showError(err: unknown): void {
 }
 
 async function boot(): Promise<void> {
+  await openLevel(prefs.level);
+}
+
+/** Open a level at the round to play next: today's in daily mode, the first unplayed in alpha. */
+async function openLevel(level: Level): Promise<void> {
   app.replaceChildren(el('p', { class: 'loading' }, 'Loading…'));
   try {
-    const count = await loadRoundCount();
+    const count = await loadRoundCount(level);
     if (ALPHA) {
-      const played = new Set(prefs.played);
+      const played = new Set(prefs.played(level));
       let n = 1;
       while (played.has(n) && n < count) n++;
-      return openRound(n, count);
+      return openRound(level, n, count);
     }
     const today = localDate();
-    const round = await loadRound(puzzleNumber(today));
+    const round = await loadRound(level, puzzleNumber(today));
     if (round) return showStart({ round, count, fallbackFrom: null });
-    const first = await loadRound(1);
+    const first = await loadRound(level, 1);
     if (!first) throw new Error('No rounds found.');
     showStart({ round: first, count, fallbackFrom: today });
   } catch (err) {
@@ -112,9 +130,9 @@ async function boot(): Promise<void> {
   }
 }
 
-async function openRound(n: number, count: number): Promise<void> {
+async function openRound(level: Level, n: number, count: number): Promise<void> {
   try {
-    const round = await loadRound(n);
+    const round = await loadRound(level, n);
     if (!round) throw new Error(`Round #${n} doesn’t exist.`);
     showStart({ round, count, fallbackFrom: null });
   } catch (err) {
@@ -122,17 +140,40 @@ async function openRound(n: number, count: number): Promise<void> {
   }
 }
 
+function levelPicker(current: Level): HTMLElement {
+  const group = el('div', { class: 'levels', role: 'radiogroup' });
+  group.setAttribute('aria-label', 'Challenge level');
+  for (const l of LEVELS) {
+    const b = el(
+      'button',
+      { class: 'level', type: 'button' },
+      el('span', { class: 'level-name' }, LEVEL_LABEL[l]),
+      el('span', { class: 'level-blurb' }, LEVEL_BLURB[l]),
+    );
+    b.setAttribute('role', 'radio');
+    b.setAttribute('aria-checked', String(l === current));
+    b.addEventListener('click', () => {
+      if (l === current) return;
+      prefs.level = l;
+      openLevel(l);
+    });
+    group.append(b);
+  }
+  return group;
+}
+
 function roundPicker(loaded: Loaded): HTMLElement {
   const { round, count } = loaded;
-  const played = new Set(prefs.played);
+  const level = round.level;
+  const played = new Set(prefs.played(level));
   const prev = el('button', { class: 'secondary step', textContent: '‹', ariaLabel: 'Previous round', disabled: round.number <= 1 });
   const next = el('button', { class: 'secondary step', textContent: '›', ariaLabel: 'Next round', disabled: round.number >= count });
   const input = el('input', { id: 'round-number', type: 'number', min: '1', max: String(count), value: String(round.number), inputMode: 'numeric' });
-  prev.addEventListener('click', () => openRound(round.number - 1, count));
-  next.addEventListener('click', () => openRound(round.number + 1, count));
+  prev.addEventListener('click', () => openRound(level, round.number - 1, count));
+  next.addEventListener('click', () => openRound(level, round.number + 1, count));
   input.addEventListener('change', () => {
     const n = Math.min(count, Math.max(1, Math.round(Number(input.value)) || 1));
-    if (n !== round.number) openRound(n, count);
+    if (n !== round.number) openRound(level, n, count);
   });
   return el(
     'div',
@@ -186,7 +227,8 @@ function showStart(loaded: Loaded): void {
         el('li', {}, 'If he reaches the pen, he drags a goat to his cave.'),
         el('li', {}, 'Skipping the last question costs a goat.'),
       ),
-      el('p', { class: 'cats' }, CATEGORIES.join(' · ')),
+      levelPicker(round.level),
+      el('p', { class: 'cats' }, LEVEL_CATEGORIES[round.level].join(' · ')),
       ALPHA ? roundPicker(loaded) : '',
       play,
       el(
@@ -220,8 +262,9 @@ interface View {
 
 function startGame(loaded: Loaded): void {
   const { round } = loaded;
+  const params = LEVEL_PARAMS[round.level];
   const reduced = prefs.reducedMotion;
-  let s: GameState = initialState(params, CATEGORIES);
+  let s: GameState = initialState(params, LEVEL_CATEGORIES[round.level]);
   let elapsed = 0;
   let last = performance.now();
   let raf = 0;
@@ -502,12 +545,12 @@ function numberPad(
 // ---------------------------------------------------------------- results
 
 function shareText(round: Round, s: GameState): string {
-  return `Get Your Goat #${round.number}\n${shareGrid(s)}  ${s.goats}/5  ${formatTime(s.t)}`;
+  return `Get Your Goat #${round.number} · ${LEVEL_LABEL[round.level]}\n${shareGrid(s)}  ${s.goats}/5  ${formatTime(s.t)}`;
 }
 
 function showResults(loaded: Loaded, s: GameState): void {
   const { round, count } = loaded;
-  prefs.markPlayed(round.number);
+  prefs.markPlayed(round.level, round.number);
   const text = shareText(round, s);
   const pre = el('pre', { class: 'share', tabIndex: 0 }, text);
   const copy = el('button', { class: ALPHA ? 'secondary' : 'primary big', textContent: 'Copy result' });
@@ -541,7 +584,7 @@ function showResults(loaded: Loaded, s: GameState): void {
   if (ALPHA) {
     if (round.number < count) {
       const next = el('button', { class: 'primary big', textContent: `Next: round #${round.number + 1}` });
-      next.addEventListener('click', () => openRound(round.number + 1, count));
+      next.addEventListener('click', () => openRound(round.level, round.number + 1, count));
       nav.push(next);
     }
     const pick = el('button', { class: 'secondary', textContent: 'Choose a round' });
@@ -557,11 +600,11 @@ function showResults(loaded: Loaded, s: GameState): void {
     el(
       'section',
       { class: 'card results' },
-      el('p', { class: 'sub' }, `Get Your Goat #${round.number}`),
+      el('p', { class: 'sub' }, `Get Your Goat #${round.number} · ${LEVEL_LABEL[round.level]}`),
       el('div', { class: 'grid', ariaLabel: `Result grid ${shareGrid(s)}` }, shareGrid(s)),
       el('h1', {}, headline),
       el('p', { class: 'stats' }, `${s.goats}/5 goats · ${formatTime(s.t)}`),
-      ALPHA ? alphaFeedback({ round, state: s, params }) : pre,
+      ALPHA ? alphaFeedback({ round, state: s, params: LEVEL_PARAMS[round.level] }) : pre,
       el('table', { class: 'breakdown' }, el('tbody', {}, ...rows)),
       ...nav,
     ),

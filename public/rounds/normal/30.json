@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 30,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-182",
+     "prompt": "60 + 32",
+     "answer": 92,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-204",
+     "prompt": "10 × 10 + 5 × 7",
+     "answer": 135,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-005",
+     "prompt": "9 × 6",
+     "answer": 54,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-248",
+     "prompt": "Which British city was the main target of the 1940-41 Blitz?",
+     "choices": [
+      "Manchester",
+      "Edinburgh",
+      "Cardiff",
+      "London"
+     ],
+     "answer": "London",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-281",
+     "prompt": "Which Greek philosopher was sentenced to drink hemlock?",
+     "choices": [
+      "Socrates",
+      "Plato",
+      "Aristotle",
+      "Diogenes"
+     ],
+     "answer": "Socrates",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-171",
+     "prompt": "Which Persian king invaded Greece and lost at the Battle of Salamis?",
+     "choices": [
+      "Cyrus",
+      "Darius III",
+      "Xerxes",
+      "Cambyses"
+     ],
+     "answer": "Xerxes",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-146",
+     "prompt": "Who wrote the play The Cherry Orchard?",
+     "choices": [
+      "Maxim Gorky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Nikolai Gogol"
+     ],
+     "answer": "Anton Chekhov",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-142",
+     "prompt": "Who wrote the play Death of a Salesman?",
+     "choices": [
+      "Edward Albee",
+      "Tennessee Williams",
+      "Eugene O'Neill",
+      "Arthur Miller"
+     ],
+     "answer": "Arthur Miller",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-234",
+     "prompt": "Which woman inspired the love sonnets of the poet Petrarch?",
+     "choices": [
+      "Lucrezia",
+      "Juliet",
+      "Beatrice",
+      "Laura"
+     ],
+     "answer": "Laura",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-092",
+     "prompt": "Underground layers of rock that hold usable water are called what?",
+     "choices": [
+      "Moraines",
+      "Estuaries",
+      "Calderas",
+      "Aquifers"
+     ],
+     "answer": "Aquifers",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-295",
+     "prompt": "Heat from the Sun moves to Earth by which process?",
+     "choices": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Evaporation"
+     ],
+     "answer": "Radiation",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-289",
+     "prompt": "Which place in California is the lowest point in North America?",
+     "choices": [
+      "Death Valley",
+      "Mojave",
+      "Lake Tahoe",
+      "Big Sur"
+     ],
+     "answer": "Death Valley",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-274",
+     "prompt": "Moral relativism says right and wrong depend on what?",
+     "choices": [
+      "Culture or viewpoint",
+      "Nature alone",
+      "Logic alone",
+      "The weather"
+     ],
+     "answer": "Culture or viewpoint",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-039",
+     "prompt": "Stoicism takes its name from a Greek word meaning what?",
+     "choices": [
+      "Porch",
+      "Garden",
+      "Cave",
+      "Tower"
+     ],
+     "answer": "Porch",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-153",
+     "prompt": "Who wrote The Wretched of the Earth?",
+     "choices": [
+      "Frantz Fanon",
+      "Leopold Senghor",
+      "Aime Cesaire",
+      "W. E. B. Du Bois"
+     ],
+     "answer": "Frantz Fanon",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

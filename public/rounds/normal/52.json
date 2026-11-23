@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 52,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-054",
+     "prompt": "41 + 37",
+     "answer": 78,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-032",
+     "prompt": "51 − 46",
+     "answer": 5,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-047",
+     "prompt": "431 + 99",
+     "answer": 530,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-286",
+     "prompt": "Which book was the first major work printed by Gutenberg?",
+     "choices": [
+      "The Odyssey",
+      "The Bible",
+      "Don Quixote",
+      "Canterbury Tales"
+     ],
+     "answer": "The Bible",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-239",
+     "prompt": "In which city were the first modern Olympic Games held in 1896?",
+     "choices": [
+      "Paris",
+      "London",
+      "Athens",
+      "Rome"
+     ],
+     "answer": "Athens",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-232",
+     "prompt": "Which language did the ancient Romans speak?",
+     "choices": [
+      "Greek",
+      "Italian",
+      "Etruscan",
+      "Latin"
+     ],
+     "answer": "Latin",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-095",
+     "prompt": "Which novel features Pip and the convict Magwitch?",
+     "choices": [
+      "Oliver Twist",
+      "Hard Times",
+      "Great Expectations",
+      "Bleak House"
+     ],
+     "answer": "Great Expectations",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-184",
+     "prompt": "In Aesop's fable of the race, who wins?",
+     "choices": [
+      "The crow",
+      "The tortoise",
+      "The fox",
+      "The hare"
+     ],
+     "answer": "The tortoise",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-275",
+     "prompt": "Which literary device compares two things using \"like\" or \"as\"?",
+     "choices": [
+      "Metaphor",
+      "Simile",
+      "Hyperbole",
+      "Irony"
+     ],
+     "answer": "Simile",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-215",
+     "prompt": "Which Scottish scientist argued Earth is extremely old, shaping modern geology?",
+     "choices": [
+      "Isaac Newton",
+      "Galileo",
+      "James Hutton",
+      "Louis Pasteur"
+     ],
+     "answer": "James Hutton",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-163",
+     "prompt": "The Age of Fishes is the nickname of which period?",
+     "choices": [
+      "Jurassic",
+      "Permian",
+      "Devonian",
+      "Tertiary"
+     ],
+     "answer": "Devonian",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-041",
+     "prompt": "Molten rock that has reached Earth's surface is called what?",
+     "choices": [
+      "Lava",
+      "Magma",
+      "Basalt",
+      "Ash"
+     ],
+     "answer": "Lava",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-124",
+     "prompt": "Which philosopher said that existence precedes essence?",
+     "choices": [
+      "Sartre",
+      "Camus",
+      "Heidegger",
+      "Kierkegaard"
+     ],
+     "answer": "Sartre",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-083",
+     "prompt": "Which philosopher's theory of monads is famous?",
+     "choices": [
+      "Leibniz",
+      "Spinoza",
+      "Descartes",
+      "Berkeley"
+     ],
+     "answer": "Leibniz",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-160",
+     "prompt": "Aesthetics is the branch of philosophy about what?",
+     "choices": [
+      "Beauty and art",
+      "Right and wrong",
+      "Knowledge",
+      "Language"
+     ],
+     "answer": "Beauty and art",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

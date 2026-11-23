@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 14,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-265",
+     "prompt": "52 − 40",
+     "answer": 12,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-242",
+     "prompt": "31 × 7",
+     "answer": 217,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-257",
+     "prompt": "9 × 8",
+     "answer": 72,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-044",
+     "prompt": "Which Chinese dynasty ruled from 1368 to 1644?",
+     "choices": [
+      "Tang",
+      "Song",
+      "Qing",
+      "Ming"
+     ],
+     "answer": "Ming",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-005",
+     "prompt": "Ruins of ancient Babylon lie in which modern country?",
+     "choices": [
+      "Iraq",
+      "Egypt",
+      "Iran",
+      "Syria"
+     ],
+     "answer": "Iraq",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-201",
+     "prompt": "Which emperor ruled Ethiopia from 1930 to 1974?",
+     "choices": [
+      "Haile Selassie",
+      "Menelik II",
+      "Tewodros II",
+      "Yohannes IV"
+     ],
+     "answer": "Haile Selassie",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-276",
+     "prompt": "What is a long narrative poem about a hero's deeds called?",
+     "choices": [
+      "An epic",
+      "An ode",
+      "A sonnet",
+      "An elegy"
+     ],
+     "answer": "An epic",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-061",
+     "prompt": "What is the name of Captain Nemo's submarine?",
+     "choices": [
+      "Nautilus",
+      "Hispaniola",
+      "Beagle",
+      "Pequod"
+     ],
+     "answer": "Nautilus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-235",
+     "prompt": "Who wrote The Tale of Genji?",
+     "choices": [
+      "Sei Shōnagon",
+      "Murasaki Shikibu",
+      "Ihara Saikaku",
+      "Lady Nijō"
+     ],
+     "answer": "Murasaki Shikibu",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-239",
+     "prompt": "Which two continents are connected by the Isthmus of Suez?",
+     "choices": [
+      "Europe and Asia",
+      "North and South America",
+      "Africa and Asia",
+      "Asia and Australia"
+     ],
+     "answer": "Africa and Asia",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-224",
+     "prompt": "Which mountain range separates Europe from Asia in Russia?",
+     "choices": [
+      "Alps",
+      "Andes",
+      "Rockies",
+      "Ural Mountains"
+     ],
+     "answer": "Ural Mountains",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-219",
+     "prompt": "How many continents are there in the common seven-continent model?",
+     "choices": [
+      "Five",
+      "Six",
+      "Seven",
+      "Nine"
+     ],
+     "answer": "Seven",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-047",
+     "prompt": "Which Chinese thinker dreamed he was a butterfly?",
+     "choices": [
+      "Zhuangzi",
+      "Laozi",
+      "Mencius",
+      "Xunzi"
+     ],
+     "answer": "Zhuangzi",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-141",
+     "prompt": "Which philosopher proposed the Chinese Room argument?",
+     "choices": [
+      "John Searle",
+      "Alan Turing",
+      "Daniel Dennett",
+      "David Chalmers"
+     ],
+     "answer": "John Searle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-067",
+     "prompt": "Which Muslim thinker was called the Second Teacher after Aristotle?",
+     "choices": [
+      "Al-Farabi",
+      "Avicenna",
+      "Al-Kindi",
+      "Averroes"
+     ],
+     "answer": "Al-Farabi",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

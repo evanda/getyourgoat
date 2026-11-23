@@ -1,0 +1,1820 @@
+[
+ {
+  "id": "easy-arith-001",
+  "prompt": "34 + 34",
+  "answer": 68,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-002",
+  "prompt": "26 + 34",
+  "answer": 60,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-003",
+  "prompt": "4 + 4",
+  "answer": 8,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-004",
+  "prompt": "29 + 4",
+  "answer": 33,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-005",
+  "prompt": "24 ÷ 3",
+  "answer": 8,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-006",
+  "prompt": "4 × 5",
+  "answer": 20,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-007",
+  "prompt": "8 − 1",
+  "answer": 7,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-008",
+  "prompt": "1 + 2",
+  "answer": 3,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-009",
+  "prompt": "5 + 5",
+  "answer": 10,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-010",
+  "prompt": "7 × 8",
+  "answer": 56,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-011",
+  "prompt": "28 + 5",
+  "answer": 33,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-012",
+  "prompt": "22 − 4",
+  "answer": 18,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-013",
+  "prompt": "27 + 36",
+  "answer": 63,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-014",
+  "prompt": "13 + 13",
+  "answer": 26,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-015",
+  "prompt": "35 + 35",
+  "answer": 70,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-016",
+  "prompt": "23 + 16",
+  "answer": 39,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-017",
+  "prompt": "5 × 2",
+  "answer": 10,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-018",
+  "prompt": "5 × 1",
+  "answer": 5,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-019",
+  "prompt": "5 − 5",
+  "answer": 0,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-020",
+  "prompt": "3 × 4",
+  "answer": 12,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-021",
+  "prompt": "9 − 7",
+  "answer": 2,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-022",
+  "prompt": "33 + 33",
+  "answer": 66,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-023",
+  "prompt": "13 + 3",
+  "answer": 16,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-024",
+  "prompt": "36 + 2",
+  "answer": 38,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-025",
+  "prompt": "35 + 3",
+  "answer": 38,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-026",
+  "prompt": "9 − 9",
+  "answer": 0,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-027",
+  "prompt": "5 + 3",
+  "answer": 8,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-028",
+  "prompt": "12 ÷ 2",
+  "answer": 6,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-029",
+  "prompt": "25 + 8",
+  "answer": 33,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-030",
+  "prompt": "11 − 1",
+  "answer": 10,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-031",
+  "prompt": "29 + 29",
+  "answer": 58,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-032",
+  "prompt": "8 × 4",
+  "answer": 32,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-033",
+  "prompt": "8 − 4",
+  "answer": 4,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-034",
+  "prompt": "1 + 5",
+  "answer": 6,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-035",
+  "prompt": "45 + 28",
+  "answer": 73,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-036",
+  "prompt": "3 × 2",
+  "answer": 6,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-037",
+  "prompt": "27 + 27",
+  "answer": 54,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-038",
+  "prompt": "13 + 4",
+  "answer": 17,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-039",
+  "prompt": "8 × 8",
+  "answer": 64,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-040",
+  "prompt": "26 + 8",
+  "answer": 34,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-041",
+  "prompt": "45 ÷ 5",
+  "answer": 9,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-042",
+  "prompt": "19 − 4",
+  "answer": 15,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-043",
+  "prompt": "3 × 1",
+  "answer": 3,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-044",
+  "prompt": "4 × 2",
+  "answer": 8,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-045",
+  "prompt": "2 + 7",
+  "answer": 9,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-046",
+  "prompt": "2 × 1",
+  "answer": 2,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-047",
+  "prompt": "50 + 50",
+  "answer": 100,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-048",
+  "prompt": "40 + 40",
+  "answer": 80,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-049",
+  "prompt": "33 + 4",
+  "answer": 37,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-050",
+  "prompt": "32 + 7",
+  "answer": 39,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-051",
+  "prompt": "9 − 5",
+  "answer": 4,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-052",
+  "prompt": "6 × 8",
+  "answer": 48,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-053",
+  "prompt": "51 + 21",
+  "answer": 72,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-054",
+  "prompt": "5 × 9",
+  "answer": 45,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-055",
+  "prompt": "4 × 4",
+  "answer": 16,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-056",
+  "prompt": "49 + 49",
+  "answer": 98,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-057",
+  "prompt": "19 + 2",
+  "answer": 21,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-058",
+  "prompt": "24 − 2",
+  "answer": 22,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-059",
+  "prompt": "37 + 37",
+  "answer": 74,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-060",
+  "prompt": "2 + 8",
+  "answer": 10,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-061",
+  "prompt": "4 + 5",
+  "answer": 9,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-062",
+  "prompt": "16 + 2",
+  "answer": 18,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-063",
+  "prompt": "10 × 3",
+  "answer": 30,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-064",
+  "prompt": "48 + 20",
+  "answer": 68,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-065",
+  "prompt": "13 + 8",
+  "answer": 21,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-066",
+  "prompt": "14 + 8",
+  "answer": 22,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-067",
+  "prompt": "3 × 5",
+  "answer": 15,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-068",
+  "prompt": "20 + 2",
+  "answer": 22,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-069",
+  "prompt": "25 + 25",
+  "answer": 50,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-070",
+  "prompt": "2 × 8",
+  "answer": 16,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-071",
+  "prompt": "81 ÷ 9",
+  "answer": 9,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-072",
+  "prompt": "17 − 5",
+  "answer": 12,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-073",
+  "prompt": "16 + 9",
+  "answer": 25,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-074",
+  "prompt": "2 × 5",
+  "answer": 10,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-075",
+  "prompt": "8 × 5",
+  "answer": 40,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-076",
+  "prompt": "4 ÷ 2",
+  "answer": 2,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-077",
+  "prompt": "70 ÷ 10",
+  "answer": 7,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-078",
+  "prompt": "37 + 3",
+  "answer": 40,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-079",
+  "prompt": "5 × 4",
+  "answer": 20,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-080",
+  "prompt": "14 − 7",
+  "answer": 7,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-081",
+  "prompt": "36 + 3",
+  "answer": 39,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-082",
+  "prompt": "31 + 31",
+  "answer": 62,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-083",
+  "prompt": "9 − 3",
+  "answer": 6,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-084",
+  "prompt": "22 + 4",
+  "answer": 26,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-085",
+  "prompt": "10 × 9",
+  "answer": 90,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-086",
+  "prompt": "2 × 4",
+  "answer": 8,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-087",
+  "prompt": "6 + 6",
+  "answer": 12,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-088",
+  "prompt": "11 × 11",
+  "answer": 121,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-089",
+  "prompt": "4 × 10",
+  "answer": 40,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-090",
+  "prompt": "5 × 5",
+  "answer": 25,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-091",
+  "prompt": "35 + 7",
+  "answer": 42,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-092",
+  "prompt": "8 × 7",
+  "answer": 56,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-093",
+  "prompt": "17 + 7",
+  "answer": 24,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-094",
+  "prompt": "11 × 3",
+  "answer": 33,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-095",
+  "prompt": "7 × 12",
+  "answer": 84,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-096",
+  "prompt": "3 × 3",
+  "answer": 9,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-097",
+  "prompt": "20 + 20",
+  "answer": 40,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-098",
+  "prompt": "12 − 5",
+  "answer": 7,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-099",
+  "prompt": "4 × 9",
+  "answer": 36,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-100",
+  "prompt": "14 + 6",
+  "answer": 20,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-101",
+  "prompt": "20 − 8",
+  "answer": 12,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-102",
+  "prompt": "25 − 5",
+  "answer": 20,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-103",
+  "prompt": "6 − 4",
+  "answer": 2,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-104",
+  "prompt": "18 − 2",
+  "answer": 16,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-105",
+  "prompt": "27 − 5",
+  "answer": 22,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-106",
+  "prompt": "1 + 9",
+  "answer": 10,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-107",
+  "prompt": "55 + 29",
+  "answer": 84,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-108",
+  "prompt": "8 − 6",
+  "answer": 2,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-109",
+  "prompt": "5 + 8",
+  "answer": 13,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-110",
+  "prompt": "7 × 9",
+  "answer": 63,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-111",
+  "prompt": "29 − 5",
+  "answer": 24,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-112",
+  "prompt": "20 − 9",
+  "answer": 11,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-113",
+  "prompt": "14 − 8",
+  "answer": 6,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-114",
+  "prompt": "13 − 2",
+  "answer": 11,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-115",
+  "prompt": "11 − 4",
+  "answer": 7,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-116",
+  "prompt": "4 + 7",
+  "answer": 11,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-117",
+  "prompt": "33 + 25",
+  "answer": 58,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-118",
+  "prompt": "15 − 2",
+  "answer": 13,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-119",
+  "prompt": "8 + 1",
+  "answer": 9,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-120",
+  "prompt": "30 − 7",
+  "answer": 23,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-121",
+  "prompt": "13 − 6",
+  "answer": 7,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-122",
+  "prompt": "19 + 31",
+  "answer": 50,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-123",
+  "prompt": "12 − 9",
+  "answer": 3,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-124",
+  "prompt": "25 + 6",
+  "answer": 31,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-125",
+  "prompt": "11 + 6",
+  "answer": 17,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-126",
+  "prompt": "7 − 2",
+  "answer": 5,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-127",
+  "prompt": "24 + 24",
+  "answer": 48,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-128",
+  "prompt": "9 × 2",
+  "answer": 18,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-129",
+  "prompt": "45 + 14",
+  "answer": 59,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-130",
+  "prompt": "7 − 1",
+  "answer": 6,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-131",
+  "prompt": "26 − 5",
+  "answer": 21,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-132",
+  "prompt": "30 ÷ 6",
+  "answer": 5,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-133",
+  "prompt": "10 − 9",
+  "answer": 1,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-134",
+  "prompt": "7 × 3",
+  "answer": 21,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-135",
+  "prompt": "2 × 3",
+  "answer": 6,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-136",
+  "prompt": "6 × 9",
+  "answer": 54,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-137",
+  "prompt": "6 × 6",
+  "answer": 36,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-138",
+  "prompt": "40 ÷ 8",
+  "answer": 5,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-139",
+  "prompt": "2 × 2",
+  "answer": 4,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-140",
+  "prompt": "9 + 5",
+  "answer": 14,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-141",
+  "prompt": "46 + 46",
+  "answer": 92,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-142",
+  "prompt": "7 + 7",
+  "answer": 14,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-143",
+  "prompt": "21 + 21",
+  "answer": 42,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-144",
+  "prompt": "12 × 9",
+  "answer": 108,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-145",
+  "prompt": "24 − 8",
+  "answer": 16,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-146",
+  "prompt": "6 × 7",
+  "answer": 42,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-147",
+  "prompt": "6 + 5",
+  "answer": 11,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-148",
+  "prompt": "10 − 8",
+  "answer": 2,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-149",
+  "prompt": "12 × 10",
+  "answer": 120,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-150",
+  "prompt": "10 ÷ 2",
+  "answer": 5,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-151",
+  "prompt": "12 + 8",
+  "answer": 20,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-152",
+  "prompt": "48 + 48",
+  "answer": 96,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-153",
+  "prompt": "5 × 3",
+  "answer": 15,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-154",
+  "prompt": "16 + 5",
+  "answer": 21,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-155",
+  "prompt": "3 × 9",
+  "answer": 27,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-156",
+  "prompt": "2 + 6",
+  "answer": 8,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-157",
+  "prompt": "10 + 10",
+  "answer": 20,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-158",
+  "prompt": "9 + 9",
+  "answer": 18,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-159",
+  "prompt": "16 ÷ 2",
+  "answer": 8,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-160",
+  "prompt": "8 × 9",
+  "answer": 72,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-161",
+  "prompt": "45 ÷ 9",
+  "answer": 5,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-162",
+  "prompt": "28 + 28",
+  "answer": 56,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-163",
+  "prompt": "8 − 5",
+  "answer": 3,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-164",
+  "prompt": "58 + 25",
+  "answer": 83,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-165",
+  "prompt": "6 + 1",
+  "answer": 7,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-166",
+  "prompt": "21 − 3",
+  "answer": 18,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-167",
+  "prompt": "10 × 5",
+  "answer": 50,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-168",
+  "prompt": "30 + 2",
+  "answer": 32,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-169",
+  "prompt": "13 − 5",
+  "answer": 8,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-170",
+  "prompt": "26 − 2",
+  "answer": 24,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-171",
+  "prompt": "22 + 31",
+  "answer": 53,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-172",
+  "prompt": "3 + 4",
+  "answer": 7,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-173",
+  "prompt": "10 − 7",
+  "answer": 3,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-174",
+  "prompt": "14 − 4",
+  "answer": 10,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-175",
+  "prompt": "23 + 3",
+  "answer": 26,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-176",
+  "prompt": "12 − 4",
+  "answer": 8,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-177",
+  "prompt": "50 ÷ 10",
+  "answer": 5,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-178",
+  "prompt": "10 × 10",
+  "answer": 100,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-179",
+  "prompt": "5 × 11",
+  "answer": 55,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-180",
+  "prompt": "27 ÷ 9",
+  "answer": 3,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-181",
+  "prompt": "1 + 6",
+  "answer": 7,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-182",
+  "prompt": "28 + 33",
+  "answer": 61,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-183",
+  "prompt": "25 − 2",
+  "answer": 23,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-184",
+  "prompt": "14 − 5",
+  "answer": 9,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-185",
+  "prompt": "5 × 7",
+  "answer": 35,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-186",
+  "prompt": "2 × 10",
+  "answer": 20,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-187",
+  "prompt": "8 − 7",
+  "answer": 1,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-188",
+  "prompt": "7 + 2",
+  "answer": 9,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-189",
+  "prompt": "36 + 6",
+  "answer": 42,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-190",
+  "prompt": "11 + 8",
+  "answer": 19,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-191",
+  "prompt": "45 + 45",
+  "answer": 90,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-192",
+  "prompt": "6 − 2",
+  "answer": 4,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-193",
+  "prompt": "9 × 9",
+  "answer": 81,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-194",
+  "prompt": "24 ÷ 4",
+  "answer": 6,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-195",
+  "prompt": "2 + 2",
+  "answer": 4,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-196",
+  "prompt": "8 × 6",
+  "answer": 48,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-197",
+  "prompt": "25 − 8",
+  "answer": 17,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-198",
+  "prompt": "6 + 3",
+  "answer": 9,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-199",
+  "prompt": "22 + 5",
+  "answer": 27,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-200",
+  "prompt": "11 + 11",
+  "answer": 22,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-201",
+  "prompt": "19 + 33",
+  "answer": 52,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-202",
+  "prompt": "22 + 22",
+  "answer": 44,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-203",
+  "prompt": "9 + 6",
+  "answer": 15,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-204",
+  "prompt": "10 − 2",
+  "answer": 8,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-205",
+  "prompt": "7 × 10",
+  "answer": 70,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-206",
+  "prompt": "12 ÷ 4",
+  "answer": 3,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-207",
+  "prompt": "28 ÷ 7",
+  "answer": 4,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-208",
+  "prompt": "39 + 19",
+  "answer": 58,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-209",
+  "prompt": "7 − 5",
+  "answer": 2,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-210",
+  "prompt": "21 + 5",
+  "answer": 26,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-211",
+  "prompt": "7 + 8",
+  "answer": 15,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-212",
+  "prompt": "44 + 38",
+  "answer": 82,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-213",
+  "prompt": "7 + 6",
+  "answer": 13,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-214",
+  "prompt": "19 + 5",
+  "answer": 24,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-215",
+  "prompt": "26 + 26",
+  "answer": 52,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-216",
+  "prompt": "9 × 6",
+  "answer": 54,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-217",
+  "prompt": "3 × 6",
+  "answer": 18,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-218",
+  "prompt": "23 + 38",
+  "answer": 61,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-219",
+  "prompt": "32 + 28",
+  "answer": 60,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-220",
+  "prompt": "44 + 44",
+  "answer": 88,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-221",
+  "prompt": "9 + 1",
+  "answer": 10,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-222",
+  "prompt": "38 + 2",
+  "answer": 40,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-223",
+  "prompt": "29 − 3",
+  "answer": 26,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-224",
+  "prompt": "21 + 9",
+  "answer": 30,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-225",
+  "prompt": "35 + 37",
+  "answer": 72,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-226",
+  "prompt": "22 − 7",
+  "answer": 15,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-227",
+  "prompt": "13 + 5",
+  "answer": 18,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-228",
+  "prompt": "12 − 8",
+  "answer": 4,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-229",
+  "prompt": "5 − 4",
+  "answer": 1,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-230",
+  "prompt": "10 × 8",
+  "answer": 80,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-231",
+  "prompt": "19 − 2",
+  "answer": 17,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-232",
+  "prompt": "10 × 6",
+  "answer": 60,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-233",
+  "prompt": "23 + 23",
+  "answer": 46,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-234",
+  "prompt": "6 + 4",
+  "answer": 10,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-235",
+  "prompt": "3 + 9",
+  "answer": 12,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-236",
+  "prompt": "18 + 4",
+  "answer": 22,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-237",
+  "prompt": "58 + 24",
+  "answer": 82,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-238",
+  "prompt": "5 − 3",
+  "answer": 2,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-239",
+  "prompt": "17 − 9",
+  "answer": 8,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-240",
+  "prompt": "23 + 9",
+  "answer": 32,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-241",
+  "prompt": "24 − 4",
+  "answer": 20,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-242",
+  "prompt": "4 × 3",
+  "answer": 12,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-243",
+  "prompt": "4 + 8",
+  "answer": 12,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-244",
+  "prompt": "18 + 18",
+  "answer": 36,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-245",
+  "prompt": "8 × 10",
+  "answer": 80,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-246",
+  "prompt": "8 × 3",
+  "answer": 24,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-247",
+  "prompt": "43 + 43",
+  "answer": 86,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-248",
+  "prompt": "30 + 6",
+  "answer": 36,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-249",
+  "prompt": "5 × 6",
+  "answer": 30,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-250",
+  "prompt": "14 + 4",
+  "answer": 18,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-251",
+  "prompt": "40 + 4",
+  "answer": 44,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-252",
+  "prompt": "34 + 2",
+  "answer": 36,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-253",
+  "prompt": "4 + 3",
+  "answer": 7,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-254",
+  "prompt": "25 + 3",
+  "answer": 28,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-255",
+  "prompt": "8 + 5",
+  "answer": 13,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-256",
+  "prompt": "6 + 2",
+  "answer": 8,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-257",
+  "prompt": "49 + 11",
+  "answer": 60,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-258",
+  "prompt": "8 + 8",
+  "answer": 16,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-259",
+  "prompt": "19 − 7",
+  "answer": 12,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-260",
+  "prompt": "27 + 34",
+  "answer": 61,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-261",
+  "prompt": "9 × 7",
+  "answer": 63,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-262",
+  "prompt": "27 − 8",
+  "answer": 19,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-263",
+  "prompt": "17 + 19",
+  "answer": 36,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-264",
+  "prompt": "5 − 1",
+  "answer": 4,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-265",
+  "prompt": "24 − 9",
+  "answer": 15,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-266",
+  "prompt": "39 + 4",
+  "answer": 43,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-267",
+  "prompt": "5 + 1",
+  "answer": 6,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-268",
+  "prompt": "16 + 4",
+  "answer": 20,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-269",
+  "prompt": "11 + 5",
+  "answer": 16,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-270",
+  "prompt": "9 − 8",
+  "answer": 1,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-271",
+  "prompt": "16 ÷ 8",
+  "answer": 2,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-272",
+  "prompt": "20 + 6",
+  "answer": 26,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-273",
+  "prompt": "6 + 9",
+  "answer": 15,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-274",
+  "prompt": "31 + 2",
+  "answer": 33,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-275",
+  "prompt": "1 + 4",
+  "answer": 5,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-276",
+  "prompt": "6 × 5",
+  "answer": 30,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-277",
+  "prompt": "7 + 5",
+  "answer": 12,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-278",
+  "prompt": "5 + 4",
+  "answer": 9,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-279",
+  "prompt": "27 − 6",
+  "answer": 21,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-280",
+  "prompt": "11 − 2",
+  "answer": 9,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-281",
+  "prompt": "31 + 9",
+  "answer": 40,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-282",
+  "prompt": "16 + 6",
+  "answer": 22,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-283",
+  "prompt": "3 + 7",
+  "answer": 10,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-284",
+  "prompt": "8 + 7",
+  "answer": 15,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-285",
+  "prompt": "24 + 25",
+  "answer": 49,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-286",
+  "prompt": "10 + 7",
+  "answer": 17,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-287",
+  "prompt": "6 − 6",
+  "answer": 0,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-288",
+  "prompt": "2 × 7",
+  "answer": 14,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-289",
+  "prompt": "17 + 17",
+  "answer": 34,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-290",
+  "prompt": "8 ÷ 2",
+  "answer": 4,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-291",
+  "prompt": "41 + 41",
+  "answer": 82,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-292",
+  "prompt": "7 + 9",
+  "answer": 16,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-293",
+  "prompt": "39 + 39",
+  "answer": 78,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-294",
+  "prompt": "18 − 7",
+  "answer": 11,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-295",
+  "prompt": "7 × 6",
+  "answer": 42,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-296",
+  "prompt": "50 + 16",
+  "answer": 66,
+  "difficulty": "hard"
+ },
+ {
+  "id": "easy-arith-297",
+  "prompt": "24 − 7",
+  "answer": 17,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-298",
+  "prompt": "2 + 3",
+  "answer": 5,
+  "difficulty": "easy"
+ },
+ {
+  "id": "easy-arith-299",
+  "prompt": "12 + 5",
+  "answer": 17,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-300",
+  "prompt": "12 − 2",
+  "answer": 10,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-301",
+  "prompt": "26 + 4",
+  "answer": 30,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-302",
+  "prompt": "19 − 9",
+  "answer": 10,
+  "difficulty": "medium"
+ },
+ {
+  "id": "easy-arith-303",
+  "prompt": "32 ÷ 4",
+  "answer": 8,
+  "difficulty": "hard"
+ }
+]

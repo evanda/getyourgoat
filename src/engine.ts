@@ -274,13 +274,17 @@ export function simulate(
   return advanceTo(s, p, t);
 }
 
-/** Share-grid emoji per question: 🐐 if no goat was lost on it, 🧌 if one was, ⬜ if never reached. */
+/**
+ * Share-grid emoji per question: 🧌 if a goat was lost on it, ⏭️ if it was
+ * skipped without losing one, 🐐 if answered with no loss, ⬜ if never reached.
+ */
 export function shareGrid(s: GameState): string {
   return s.categories
     .map((_, i) => {
       const r = s.results[i];
       if (!r) return '⬜';
-      return r.goatsLost > 0 ? '🧌' : '🐐';
+      if (r.goatsLost > 0) return '🧌';
+      return r.outcome === 'skipped' ? '⏭️' : '🐐';
     })
     .join('');
 }

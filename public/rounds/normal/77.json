@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 77,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-056",
+     "prompt": "40 ÷ 5 + 11",
+     "answer": 19,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-113",
+     "prompt": "6 × 6",
+     "answer": 36,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-296",
+     "prompt": "15 × 15",
+     "answer": 225,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-127",
+     "prompt": "Napoleon was finally defeated in 1815 at which battle?",
+     "choices": [
+      "Austerlitz",
+      "Trafalgar",
+      "Waterloo",
+      "Borodino"
+     ],
+     "answer": "Waterloo",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-130",
+     "prompt": "Which country was the birthplace of the Industrial Revolution?",
+     "choices": [
+      "France",
+      "Great Britain",
+      "Germany",
+      "United States"
+     ],
+     "answer": "Great Britain",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-197",
+     "prompt": "Which island prison held Nelson Mandela for many years?",
+     "choices": [
+      "Robben Island",
+      "Alcatraz",
+      "Devil's Island",
+      "Ellis Island"
+     ],
+     "answer": "Robben Island",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-271",
+     "prompt": "Which legendary king gathered knights around a Round Table?",
+     "choices": [
+      "Henry V",
+      "Richard III",
+      "King Arthur",
+      "Charlemagne"
+     ],
+     "answer": "King Arthur",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-205",
+     "prompt": "Who wrote the Russian novel Fathers and Sons?",
+     "choices": [
+      "Ivan Goncharov",
+      "Ivan Turgenev",
+      "Nikolai Gogol",
+      "Leo Tolstoy"
+     ],
+     "answer": "Ivan Turgenev",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-084",
+     "prompt": "Which Alice character fades away leaving only a grin?",
+     "choices": [
+      "The Dormouse",
+      "The Cheshire Cat",
+      "The Dodo",
+      "The White Rabbit"
+     ],
+     "answer": "The Cheshire Cat",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-075",
+     "prompt": "A boundary between two different air masses is called what?",
+     "choices": [
+      "Jet",
+      "Eddy",
+      "Front",
+      "Gyre"
+     ],
+     "answer": "Front",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-137",
+     "prompt": "A huge, slow-moving river of ice is called a what?",
+     "choices": [
+      "Glacier",
+      "Iceberg",
+      "Avalanche",
+      "Geyser"
+     ],
+     "answer": "Glacier",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-047",
+     "prompt": "A volcano that has been quiet for a long time but could erupt again is called what?",
+     "choices": [
+      "Extinct",
+      "Active",
+      "Dormant",
+      "Shield"
+     ],
+     "answer": "Dormant",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-045",
+     "prompt": "Confucius's sayings were gathered in which book?",
+     "choices": [
+      "The Analects",
+      "The Tao Te Ching",
+      "The Art of War",
+      "The Book of Songs"
+     ],
+     "answer": "The Analects",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-087",
+     "prompt": "Which philosopher is known for the problem of induction?",
+     "choices": [
+      "David Hume",
+      "John Locke",
+      "Immanuel Kant",
+      "Thomas Hobbes"
+     ],
+     "answer": "David Hume",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-159",
+     "prompt": "Ethics is the branch of philosophy about what?",
+     "choices": [
+      "Right and wrong",
+      "Beauty",
+      "Knowledge",
+      "Logic"
+     ],
+     "answer": "Right and wrong",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

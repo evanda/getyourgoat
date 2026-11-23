@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 11,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-120",
+     "prompt": "9 × 7",
+     "answer": 63,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-037",
+     "prompt": "396 − 57",
+     "answer": 339,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-295",
+     "prompt": "18 × 7",
+     "answer": 126,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-273",
+     "prompt": "Which leader headed North Vietnam during the Vietnam War?",
+     "choices": [
+      "Ho Chi Minh",
+      "Mao Zedong",
+      "Pol Pot",
+      "Sun Yat-sen"
+     ],
+     "answer": "Ho Chi Minh",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-098",
+     "prompt": "Which Polish astronomer proposed that Earth orbits the Sun?",
+     "choices": [
+      "Galileo Galilei",
+      "Nicolaus Copernicus",
+      "Johannes Kepler",
+      "Tycho Brahe"
+     ],
+     "answer": "Nicolaus Copernicus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-175",
+     "prompt": "Which Aztec emperor met Hernan Cortes in 1519?",
+     "choices": [
+      "Atahualpa",
+      "Pachacuti",
+      "Montezuma II",
+      "Huayna Capac"
+     ],
+     "answer": "Montezuma II",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-079",
+     "prompt": "Beatrice and Benedick spar in which Shakespeare comedy?",
+     "choices": [
+      "Much Ado About Nothing",
+      "Twelfth Night",
+      "As You Like It",
+      "The Taming of the Shrew"
+     ],
+     "answer": "Much Ado About Nothing",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-177",
+     "prompt": "The Epic of Gilgamesh comes from which ancient region?",
+     "choices": [
+      "Greece",
+      "Egypt",
+      "Mesopotamia",
+      "Persia"
+     ],
+     "answer": "Mesopotamia",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-009",
+     "prompt": "Who wrote Alice's Adventures in Wonderland?",
+     "choices": [
+      "A. A. Milne",
+      "Kenneth Grahame",
+      "Lewis Carroll",
+      "Edward Lear"
+     ],
+     "answer": "Lewis Carroll",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-157",
+     "prompt": "Land surrounded by water on three sides is called what?",
+     "choices": [
+      "Peninsula",
+      "Island",
+      "Isthmus",
+      "Strait"
+     ],
+     "answer": "Peninsula",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-276",
+     "prompt": "Which soft white mineral is used in baby powder?",
+     "choices": [
+      "Quartz",
+      "Corundum",
+      "Feldspar",
+      "Talc"
+     ],
+     "answer": "Talc",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-183",
+     "prompt": "Which line of longitude is at 0 degrees?",
+     "choices": [
+      "Equator",
+      "Tropic of Capricorn",
+      "Prime Meridian",
+      "International Date Line"
+     ],
+     "answer": "Prime Meridian",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-104",
+     "prompt": "Which thinker wrote Perpetual Peace in 1795?",
+     "choices": [
+      "Immanuel Kant",
+      "Hegel",
+      "Fichte",
+      "Rousseau"
+     ],
+     "answer": "Immanuel Kant",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-099",
+     "prompt": "Who wrote the pamphlet Common Sense in 1776?",
+     "choices": [
+      "Thomas Paine",
+      "Thomas Jefferson",
+      "Ben Franklin",
+      "Edmund Burke"
+     ],
+     "answer": "Thomas Paine",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-254",
+     "prompt": "Which of these philosophers was Scottish?",
+     "choices": [
+      "David Hume",
+      "Rene Descartes",
+      "Friedrich Nietzsche",
+      "Plato"
+     ],
+     "answer": "David Hume",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

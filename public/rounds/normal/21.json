@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 21,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-075",
+     "prompt": "92 − 69",
+     "answer": 23,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-101",
+     "prompt": "10 × 11 − 5",
+     "answer": 105,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-118",
+     "prompt": "24 ÷ 3",
+     "answer": 8,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-223",
+     "prompt": "Which country is credited with inventing gunpowder?",
+     "choices": [
+      "Italy",
+      "Egypt",
+      "China",
+      "India"
+     ],
+     "answer": "China",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-126",
+     "prompt": "Who crowned himself Emperor of the French in 1804?",
+     "choices": [
+      "Louis XVI",
+      "Napoleon Bonaparte",
+      "Charles de Gaulle",
+      "Robespierre"
+     ],
+     "answer": "Napoleon Bonaparte",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-290",
+     "prompt": "Which city did the saying 'all roads lead to' refer to in Roman times?",
+     "choices": [
+      "Athens",
+      "Rome",
+      "Carthage",
+      "Alexandria"
+     ],
+     "answer": "Rome",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-188",
+     "prompt": "Who wrote the puppet tale Pinocchio?",
+     "choices": [
+      "Hans Christian Andersen",
+      "Brothers Grimm",
+      "Charles Perrault",
+      "Carlo Collodi"
+     ],
+     "answer": "Carlo Collodi",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-243",
+     "prompt": "Who wrote \"A Madman's Diary,\" a landmark of modern Chinese fiction?",
+     "choices": [
+      "Mo Yan",
+      "Lu Xun",
+      "Lao She",
+      "Ba Jin"
+     ],
+     "answer": "Lu Xun",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-089",
+     "prompt": "What kind of animal is Baloo in The Jungle Book?",
+     "choices": [
+      "Tiger",
+      "Panther",
+      "Bear",
+      "Wolf"
+     ],
+     "answer": "Bear",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-078",
+     "prompt": "Which fast ribbons of wind high in the atmosphere steer storms?",
+     "choices": [
+      "Trade winds",
+      "Jet streams",
+      "Sea breezes",
+      "Monsoons"
+     ],
+     "answer": "Jet streams",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-123",
+     "prompt": "The gently sloping edge of a continent under shallow water is called what?",
+     "choices": [
+      "Abyssal plain",
+      "Trench",
+      "Continental shelf",
+      "Seamount"
+     ],
+     "answer": "Continental shelf",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-002",
+     "prompt": "Marble is formed when which rock is metamorphosed?",
+     "choices": [
+      "Sandstone",
+      "Limestone",
+      "Granite",
+      "Shale"
+     ],
+     "answer": "Limestone",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-070",
+     "prompt": "Which archbishop of Canterbury formulated the ontological argument?",
+     "choices": [
+      "Anselm",
+      "Aquinas",
+      "Augustine",
+      "Abelard"
+     ],
+     "answer": "Anselm",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-096",
+     "prompt": "Who was lead editor of the great French Encyclopedie?",
+     "choices": [
+      "Denis Diderot",
+      "Voltaire",
+      "Montesquieu",
+      "Rousseau"
+     ],
+     "answer": "Denis Diderot",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-055",
+     "prompt": "The Four Noble Truths are central to which tradition?",
+     "choices": [
+      "Buddhism",
+      "Jainism",
+      "Sikhism",
+      "Daoism"
+     ],
+     "answer": "Buddhism",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

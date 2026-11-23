@@ -1,11 +1,12 @@
-// Build public/rounds/2.json … from the question bank.
-//   node scripts/assemble.ts
-// Trivia comes from content/drafts/<category>.json. Every question must have a
-// blind check in content/checks/<category>.json; a question where the checker
-// picked a different answer, or noted a problem, must be decided in
+// Build public/rounds/<level>/<n>.json from the question bank.
+//   node scripts/assemble.ts [easy] [normal] [hard]     (default: every level with drafts)
+// Trivia comes from content/drafts/<level>/<category>.json. Every question must
+// have a blind check in content/checks/<level>/<category>.json; a question where
+// the checker picked a different answer, or noted a problem, must be decided in
 // content/review.json ("keep" or "drop", with a reason) or assembly fails.
-// Arithmetic comes from content/arithmetic.json (computed answers).
-import { existsSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
+// Arithmetic comes from content/arithmetic-<level>.json (computed answers).
+// Normal round #1 is the hand-made launch round and is never overwritten.
+import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
 
 type Difficulty = 'easy' | 'medium' | 'hard';
 interface Draft {
@@ -27,24 +28,35 @@ interface Review {
 
 const ROOT = new URL('../', import.meta.url);
 const read = <T>(p: string): T => JSON.parse(readFileSync(new URL(p, ROOT), 'utf8')) as T;
-const MAX_ROUNDS = 100;
-const FIRST = 2; // #1 is the hand-made launch round
+const LAST_ROUND = 101;
 const PER_CATEGORY = 3;
 
-const TRIVIA = [
-  ['history', 'history'],
-  ['literature', 'literature'],
-  ['earth science', 'earth-science'],
-  ['philosophy', 'philosophy'],
-] as const;
+type Level = 'easy' | 'normal' | 'hard';
+const LEVELS: Record<Level, { first: number; seed: number; trivia: [string, string][] }> = {
+  easy: {
+    first: 1,
+    seed: 11,
+    trivia: [['history', 'history'], ['literature', 'literature'], ['earth science', 'earth-science'], ['animals', 'animals']],
+  },
+  normal: {
+    first: 2, // #1 is the hand-made launch round
+    seed: 101,
+    trivia: [['history', 'history'], ['literature', 'literature'], ['earth science', 'earth-science'], ['philosophy', 'philosophy']],
+  },
+  hard: {
+    first: 1,
+    seed: 303,
+    trivia: [['history', 'history'], ['literature', 'literature'], ['earth science', 'earth-science'], ['philosophy', 'philosophy']],
+  },
+};
 
 const review: Review = existsSync(new URL('content/review.json', ROOT)) ? read<Review>('content/review.json') : {};
 const errors: string[] = [];
 const dropped: string[] = [];
 
-function approved(slug: string): Draft[] {
-  const drafts = read<Draft[]>(`content/drafts/${slug}.json`);
-  const checks = new Map(read<Check[]>(`content/checks/${slug}.json`).map((c) => [c.id, c]));
+function approved(level: Level, slug: string): Draft[] {
+  const drafts = read<Draft[]>(`content/drafts/${level}/${slug}.json`);
+  const checks = new Map(read<Check[]>(`content/checks/${level}/${slug}.json`).map((c) => [c.id, c]));
   const out: Draft[] = [];
   for (const q of drafts) {
     const r = review[q.id];
@@ -67,7 +79,7 @@ function approved(slug: string): Draft[] {
   return out;
 }
 
-let seed = 101;
+let seed = 0;
 const rand = () => ((seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296);
 function shuffle<T>(xs: T[]): T[] {
   const a = [...xs];
@@ -95,32 +107,47 @@ function triples(input: Draft[]): Draft[][] {
   return out;
 }
 
-const pools: [string, Draft[][]][] = [['arithmetic', triples(shuffle(read<Draft[]>('content/arithmetic.json')))]];
-for (const [category, slug] of TRIVIA) pools.push([category, triples(shuffle(approved(slug)))]);
+const asked = process.argv.slice(2) as Level[];
+const levels = (asked.length ? asked : (Object.keys(LEVELS) as Level[])).filter((l) => {
+  const ready = LEVELS[l].trivia.every(([, slug]) => existsSync(new URL(`content/checks/${l}/${slug}.json`, ROOT)));
+  if (!ready) console.log(`${l}: skipped (drafts or checks missing)`);
+  return ready;
+});
 
-if (errors.length) {
-  console.error(`${errors.length} question(s) need a decision in content/review.json:\n` + errors.join('\n'));
-  process.exit(1);
-}
+for (const level of levels) {
+  const cfg = LEVELS[level];
+  seed = cfg.seed;
+  errors.length = 0;
+  dropped.length = 0;
+  const pools: [string, Draft[][]][] = [['arithmetic', triples(shuffle(read<Draft[]>(`content/arithmetic-${level}.json`)))]];
+  for (const [category, slug] of cfg.trivia) pools.push([category, triples(shuffle(approved(level, slug)))]);
 
-const rounds = Math.min(MAX_ROUNDS, ...pools.map(([, t]) => t.length));
-const dir = new URL('public/rounds/', ROOT);
-for (const f of readdirSync(dir)) {
-  const n = Number(f.replace('.json', ''));
-  if (Number.isInteger(n) && n >= FIRST) rmSync(new URL(f, dir));
+  if (errors.length) {
+    console.error(`${level}: ${errors.length} question(s) need a decision in content/review.json:\n` + errors.join('\n'));
+    process.exitCode = 1;
+    continue;
+  }
+
+  const rounds = Math.min(LAST_ROUND - cfg.first + 1, ...pools.map(([, t]) => t.length));
+  const dir = new URL(`public/rounds/${level}/`, ROOT);
+  mkdirSync(dir, { recursive: true });
+  for (const f of readdirSync(dir)) {
+    const n = Number(f.replace('.json', ''));
+    if (Number.isInteger(n) && n >= cfg.first) rmSync(new URL(f, dir));
+  }
+  for (let i = 0; i < rounds; i++) {
+    const number = cfg.first + i;
+    const questions = pools.map(([category, t]) => ({
+      category,
+      variants: t[i].map(({ id, prompt, choices, answer, difficulty }) =>
+        choices ? { id, prompt, choices, answer, difficulty } : { id, prompt, answer, difficulty },
+      ),
+    }));
+    writeFileSync(new URL(`${number}.json`, dir), JSON.stringify({ level, number, questions }, null, 1) + '\n');
+  }
+  writeFileSync(new URL('index.json', dir), JSON.stringify({ count: cfg.first - 1 + rounds }) + '\n');
+  console.log(
+    `${level}: wrote rounds #${cfg.first}–#${cfg.first + rounds - 1}. Dropped ${dropped.length}. ` +
+      pools.map(([c, t]) => `${c}: ${t.length * PER_CATEGORY}`).join(', '),
+  );
 }
-for (let i = 0; i < rounds; i++) {
-  const number = FIRST + i;
-  const questions = pools.map(([category, t]) => ({
-    category,
-    variants: t[i].map(({ id, prompt, choices, answer, difficulty }) =>
-      choices ? { id, prompt, choices, answer, difficulty } : { id, prompt, answer, difficulty },
-    ),
-  }));
-  writeFileSync(new URL(`${number}.json`, dir), JSON.stringify({ number, questions }, null, 1) + '\n');
-}
-writeFileSync(new URL('index.json', dir), JSON.stringify({ count: FIRST - 1 + rounds }) + '\n');
-console.log(
-  `Wrote rounds #${FIRST}–#${FIRST + rounds - 1} (${rounds}). Dropped ${dropped.length}. ` +
-    pools.map(([c, t]) => `${c}: ${t.length * PER_CATEGORY} usable`).join(', '),
-);

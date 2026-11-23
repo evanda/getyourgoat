@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 93,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-142",
+     "prompt": "95 − 29",
+     "answer": 66,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-245",
+     "prompt": "87 + 57",
+     "answer": 144,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-241",
+     "prompt": "27 × 7",
+     "answer": 189,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-120",
+     "prompt": "In which year did Canadian Confederation take place?",
+     "choices": [
+      "1776",
+      "1901",
+      "1931",
+      "1867"
+     ],
+     "answer": "1867",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-094",
+     "prompt": "Which Portuguese navigator first rounded the southern tip of Africa in 1488?",
+     "choices": [
+      "Vasco da Gama",
+      "Bartolomeu Dias",
+      "Afonso de Albuquerque",
+      "Pedro Cabral"
+     ],
+     "answer": "Bartolomeu Dias",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-039",
+     "prompt": "Which Spartan king led the stand at Thermopylae?",
+     "choices": [
+      "Pericles",
+      "Themistocles",
+      "Leonidas",
+      "Agamemnon"
+     ],
+     "answer": "Leonidas",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-292",
+     "prompt": "Who wrote Tess of the d'Urbervilles?",
+     "choices": [
+      "George Eliot",
+      "D. H. Lawrence",
+      "Thomas Hardy",
+      "Charles Dickens"
+     ],
+     "answer": "Thomas Hardy",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-279",
+     "prompt": "What is the name of King Arthur's legendary sword?",
+     "choices": [
+      "Anduril",
+      "Excalibur",
+      "Glamdring",
+      "Durendal"
+     ],
+     "answer": "Excalibur",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-253",
+     "prompt": "Who wrote the Polish epic poem Pan Tadeusz?",
+     "choices": [
+      "Czesław Miłosz",
+      "Adam Mickiewicz",
+      "Bolesław Prus",
+      "Henryk Sienkiewicz"
+     ],
+     "answer": "Adam Mickiewicz",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-153",
+     "prompt": "Rainwater reacting with limestone can create what underground features?",
+     "choices": [
+      "Caves",
+      "Volcanoes",
+      "Geysers",
+      "Glaciers"
+     ],
+     "answer": "Caves",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-007",
+     "prompt": "Slate is a metamorphic rock that forms from which rock?",
+     "choices": [
+      "Sandstone",
+      "Basalt",
+      "Shale",
+      "Limestone"
+     ],
+     "answer": "Shale",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-155",
+     "prompt": "Which landform is a flat-topped hill with steep sides in dry regions?",
+     "choices": [
+      "Delta",
+      "Fjord",
+      "Mesa",
+      "Atoll"
+     ],
+     "answer": "Mesa",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-173",
+     "prompt": "Which view holds that mind and body are distinct kinds of thing?",
+     "choices": [
+      "Dualism",
+      "Monism",
+      "Materialism",
+      "Empiricism"
+     ],
+     "answer": "Dualism",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-086",
+     "prompt": "Who wrote A Treatise of Human Nature?",
+     "choices": [
+      "David Hume",
+      "John Locke",
+      "George Berkeley",
+      "Thomas Reid"
+     ],
+     "answer": "David Hume",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-206",
+     "prompt": "Brahman in Vedanta names what?",
+     "choices": [
+      "Ultimate reality",
+      "A temple",
+      "A caste",
+      "A hymn"
+     ],
+     "answer": "Ultimate reality",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

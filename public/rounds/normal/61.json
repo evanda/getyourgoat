@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 61,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-218",
+     "prompt": "70 ÷ 5 + 24",
+     "answer": 38,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-285",
+     "prompt": "26 × 3",
+     "answer": 78,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-050",
+     "prompt": "6 × 11 − 7",
+     "answer": 59,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-187",
+     "prompt": "Who founded the Ottoman state around the year 1300?",
+     "choices": [
+      "Mehmed II",
+      "Suleiman",
+      "Osman I",
+      "Selim I"
+     ],
+     "answer": "Osman I",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-016",
+     "prompt": "Which Indian empire was ruled by the emperor Ashoka?",
+     "choices": [
+      "Gupta Empire",
+      "Mughal Empire",
+      "Chola Empire",
+      "Maurya Empire"
+     ],
+     "answer": "Maurya Empire",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-106",
+     "prompt": "Which US president was elected four times?",
+     "choices": [
+      "Woodrow Wilson",
+      "Franklin D. Roosevelt",
+      "Harry Truman",
+      "Herbert Hoover"
+     ],
+     "answer": "Franklin D. Roosevelt",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-039",
+     "prompt": "Who wrote The Jungle Book?",
+     "choices": [
+      "Robert Louis Stevenson",
+      "Kenneth Grahame",
+      "Rudyard Kipling",
+      "H. Rider Haggard"
+     ],
+     "answer": "Rudyard Kipling",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-108",
+     "prompt": "Who wrote the poem about wandering lonely as a cloud among daffodils?",
+     "choices": [
+      "William Wordsworth",
+      "Robert Burns",
+      "Lord Byron",
+      "John Keats"
+     ],
+     "answer": "William Wordsworth",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-051",
+     "prompt": "Which novel features the whaling captain Ahab?",
+     "choices": [
+      "Robinson Crusoe",
+      "The Old Man and the Sea",
+      "Treasure Island",
+      "Moby-Dick"
+     ],
+     "answer": "Moby-Dick",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-262",
+     "prompt": "Which is the highest mountain in the Alps?",
+     "choices": [
+      "Matterhorn",
+      "Mont Blanc",
+      "Eiger",
+      "Zugspitze"
+     ],
+     "answer": "Mont Blanc",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-126",
+     "prompt": "Where a river meets the sea and fresh and salt water mix is called what?",
+     "choices": [
+      "Canyon",
+      "Estuary",
+      "Moraine",
+      "Plateau"
+     ],
+     "answer": "Estuary",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-117",
+     "prompt": "Very high and very low tides called spring tides happen when the Sun, Earth, and Moon do what?",
+     "choices": [
+      "Line up",
+      "Form a right angle",
+      "Move apart",
+      "Switch places"
+     ],
+     "answer": "Line up",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-283",
+     "prompt": "What did Aristotle call the first cause of all motion?",
+     "choices": [
+      "The Unmoved Mover",
+      "The Demiurge",
+      "The One",
+      "The Logos"
+     ],
+     "answer": "The Unmoved Mover",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-252",
+     "prompt": "Which of these philosophers was German?",
+     "choices": [
+      "Immanuel Kant",
+      "Rene Descartes",
+      "John Locke",
+      "Confucius"
+     ],
+     "answer": "Immanuel Kant",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-218",
+     "prompt": "Which view identifies God with the universe itself?",
+     "choices": [
+      "Pantheism",
+      "Deism",
+      "Theism",
+      "Atheism"
+     ],
+     "answer": "Pantheism",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

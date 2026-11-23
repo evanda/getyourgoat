@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 89,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-189",
+     "prompt": "48 ÷ 6",
+     "answer": 8,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-052",
+     "prompt": "9 × 9",
+     "answer": 81,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-033",
+     "prompt": "70 + 85",
+     "answer": 155,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-203",
+     "prompt": "Which Norwegian explorer led the first team to reach the South Pole in 1911?",
+     "choices": [
+      "Robert Scott",
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Fridtjof Nansen"
+     ],
+     "answer": "Roald Amundsen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-013",
+     "prompt": "Which Chinese dynasty first unified China, in 221 BC?",
+     "choices": [
+      "Qin",
+      "Han",
+      "Tang",
+      "Ming"
+     ],
+     "answer": "Qin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-070",
+     "prompt": "Which empire did Suleiman the Magnificent rule?",
+     "choices": [
+      "Safavid Empire",
+      "Ottoman Empire",
+      "Mughal Empire",
+      "Byzantine Empire"
+     ],
+     "answer": "Ottoman Empire",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-024",
+     "prompt": "Who wrote Les Misérables?",
+     "choices": [
+      "Gustave Flaubert",
+      "Alexandre Dumas",
+      "Victor Hugo",
+      "Émile Zola"
+     ],
+     "answer": "Victor Hugo",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-156",
+     "prompt": "Which Trojan prince carried Helen off to Troy?",
+     "choices": [
+      "Priam",
+      "Hector",
+      "Aeneas",
+      "Paris"
+     ],
+     "answer": "Paris",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-128",
+     "prompt": "Which Japanese master wrote a haiku about a frog and an old pond?",
+     "choices": [
+      "Matsuo Bashō",
+      "Yosa Buson",
+      "Kobayashi Issa",
+      "Masaoka Shiki"
+     ],
+     "answer": "Matsuo Bashō",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-118",
+     "prompt": "Which dissolved substance makes seawater salty?",
+     "choices": [
+      "Calcium carbonate",
+      "Sodium chloride",
+      "Sulfur",
+      "Potassium nitrate"
+     ],
+     "answer": "Sodium chloride",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-008",
+     "prompt": "Obsidian is a glassy rock made from rapidly cooled what?",
+     "choices": [
+      "Sand",
+      "Limestone mud",
+      "Coral",
+      "Lava"
+     ],
+     "answer": "Lava",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-060",
+     "prompt": "Which gas is the second most abundant in dry air?",
+     "choices": [
+      "Argon",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Oxygen"
+     ],
+     "answer": "Oxygen",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-128",
+     "prompt": "Who founded the school of phenomenology?",
+     "choices": [
+      "Edmund Husserl",
+      "Martin Heidegger",
+      "Merleau-Ponty",
+      "Jean-Paul Sartre"
+     ],
+     "answer": "Edmund Husserl",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-085",
+     "prompt": "Which philosopher held that to be is to be perceived?",
+     "choices": [
+      "George Berkeley",
+      "David Hume",
+      "John Locke",
+      "Immanuel Kant"
+     ],
+     "answer": "George Berkeley",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-117",
+     "prompt": "Which philosopher wrote The Subjection of Women?",
+     "choices": [
+      "John Stuart Mill",
+      "Jeremy Bentham",
+      "Mary Wollstonecraft",
+      "Auguste Comte"
+     ],
+     "answer": "John Stuart Mill",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

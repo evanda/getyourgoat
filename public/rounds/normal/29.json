@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 29,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-119",
+     "prompt": "14 × 8",
+     "answer": 112,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-215",
+     "prompt": "24 × 18",
+     "answer": 432,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-009",
+     "prompt": "171 − 66",
+     "answer": 105,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-247",
+     "prompt": "The 1773 Tea Party protest against British rule took place in which port?",
+     "choices": [
+      "New York",
+      "Philadelphia",
+      "Boston",
+      "Charleston"
+     ],
+     "answer": "Boston",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-125",
+     "prompt": "Which Paris fortress-prison was stormed on July 14, 1789?",
+     "choices": [
+      "The Bastille",
+      "The Louvre",
+      "The Tuileries",
+      "Versailles"
+     ],
+     "answer": "The Bastille",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-034",
+     "prompt": "Which Bronze Age civilization built the palace of Knossos on Crete?",
+     "choices": [
+      "The Mycenaeans",
+      "The Minoans",
+      "The Etruscans",
+      "The Phoenicians"
+     ],
+     "answer": "The Minoans",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-212",
+     "prompt": "Who wrote the poetry collection Les Fleurs du mal?",
+     "choices": [
+      "Charles Baudelaire",
+      "Victor Hugo",
+      "Arthur Rimbaud",
+      "Paul Verlaine"
+     ],
+     "answer": "Charles Baudelaire",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-004",
+     "prompt": "Who wrote Wuthering Heights?",
+     "choices": [
+      "Emily Brontë",
+      "Charlotte Brontë",
+      "George Eliot",
+      "Elizabeth Gaskell"
+     ],
+     "answer": "Emily Brontë",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-201",
+     "prompt": "Who wrote the satirical novel Dead Souls?",
+     "choices": [
+      "Anton Chekhov",
+      "Nikolai Gogol",
+      "Leo Tolstoy",
+      "Ivan Goncharov"
+     ],
+     "answer": "Nikolai Gogol",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-114",
+     "prompt": "Which ocean basin is the deepest on average?",
+     "choices": [
+      "Atlantic",
+      "Pacific",
+      "Indian",
+      "Arctic"
+     ],
+     "answer": "Pacific",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-088",
+     "prompt": "When ice changes directly into water vapor, it is called what?",
+     "choices": [
+      "Condensation",
+      "Melting",
+      "Precipitation",
+      "Sublimation"
+     ],
+     "answer": "Sublimation",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-247",
+     "prompt": "Which cold biome has permanently frozen ground called permafrost?",
+     "choices": [
+      "Savanna",
+      "Rainforest",
+      "Tundra",
+      "Desert"
+     ],
+     "answer": "Tundra",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-215",
+     "prompt": "Who wrote Two Concepts of Liberty?",
+     "choices": [
+      "Isaiah Berlin",
+      "Karl Popper",
+      "Friedrich Hayek",
+      "John Rawls"
+     ],
+     "answer": "Isaiah Berlin",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-169",
+     "prompt": "Which idea says only one's own mind is sure to exist?",
+     "choices": [
+      "Solipsism",
+      "Stoicism",
+      "Dualism",
+      "Monism"
+     ],
+     "answer": "Solipsism",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-093",
+     "prompt": "Who wrote the educational work Emile?",
+     "choices": [
+      "Rousseau",
+      "Voltaire",
+      "Diderot",
+      "Montesquieu"
+     ],
+     "answer": "Rousseau",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

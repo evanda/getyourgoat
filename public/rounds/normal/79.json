@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 79,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-081",
+     "prompt": "32 ÷ 4",
+     "answer": 8,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-225",
+     "prompt": "317 − 59",
+     "answer": 258,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-160",
+     "prompt": "225 − 32",
+     "answer": 193,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-189",
+     "prompt": "The 1857 uprising in India was a revolt against which power?",
+     "choices": [
+      "British East India Company",
+      "Mughal Empire",
+      "Portuguese Empire",
+      "Dutch East India Company"
+     ],
+     "answer": "British East India Company",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-006",
+     "prompt": "Which writing, made of wedge shapes on clay tablets, began in Mesopotamia?",
+     "choices": [
+      "Hieroglyphics",
+      "Cuneiform",
+      "Runes",
+      "Linear B"
+     ],
+     "answer": "Cuneiform",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-142",
+     "prompt": "Which dictator led Nazi Germany?",
+     "choices": [
+      "Otto von Bismarck",
+      "Adolf Hitler",
+      "Erich Ludendorff",
+      "Paul von Hindenburg"
+     ],
+     "answer": "Adolf Hitler",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-246",
+     "prompt": "Who wrote the novel Things Fall Apart?",
+     "choices": [
+      "Chinua Achebe",
+      "Ben Okri",
+      "Ngũgĩ wa Thiong'o",
+      "Wole Soyinka"
+     ],
+     "answer": "Chinua Achebe",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-233",
+     "prompt": "Who wrote Invisible Cities?",
+     "choices": [
+      "Italo Calvino",
+      "Primo Levi",
+      "Alberto Moravia",
+      "Umberto Eco"
+     ],
+     "answer": "Italo Calvino",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-222",
+     "prompt": "Who wrote The House of the Spirits?",
+     "choices": [
+      "Isabel Allende",
+      "Gabriela Mistral",
+      "Laura Esquivel",
+      "Clarice Lispector"
+     ],
+     "answer": "Isabel Allende",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-042",
+     "prompt": "Old Faithful geyser is in which national park?",
+     "choices": [
+      "Yosemite",
+      "Yellowstone",
+      "Glacier",
+      "Zion"
+     ],
+     "answer": "Yellowstone",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-190",
+     "prompt": "A compass needle points toward Earth's what?",
+     "choices": [
+      "Equator",
+      "Magnetic north pole",
+      "South pole only",
+      "Moon"
+     ],
+     "answer": "Magnetic north pole",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-179",
+     "prompt": "By about how many degrees is Earth's axis tilted?",
+     "choices": [
+      "45",
+      "10",
+      "23.5",
+      "90"
+     ],
+     "answer": "23.5",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-095",
+     "prompt": "Who wrote The Spirit of the Laws, favoring separation of powers?",
+     "choices": [
+      "Montesquieu",
+      "Rousseau",
+      "Voltaire",
+      "Locke"
+     ],
+     "answer": "Montesquieu",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-030",
+     "prompt": "The Greek word eudaimonia is usually rendered as what?",
+     "choices": [
+      "Flourishing",
+      "Wisdom",
+      "Justice",
+      "Fate"
+     ],
+     "answer": "Flourishing",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-301",
+     "prompt": "Which English philosopher described the newborn mind as a blank slate?",
+     "choices": [
+      "John Locke",
+      "Thomas Hobbes",
+      "George Berkeley",
+      "Francis Bacon"
+     ],
+     "answer": "John Locke",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

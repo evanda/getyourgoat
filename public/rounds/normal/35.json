@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 35,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-263",
+     "prompt": "32 × 4",
+     "answer": 128,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-004",
+     "prompt": "45 ÷ 9",
+     "answer": 5,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-252",
+     "prompt": "308 ÷ 14",
+     "answer": 22,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-257",
+     "prompt": "In which country is the Suez Canal?",
+     "choices": [
+      "Egypt",
+      "Israel",
+      "Saudi Arabia",
+      "Libya"
+     ],
+     "answer": "Egypt",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-275",
+     "prompt": "Which British admiral died winning the Battle of Trafalgar in 1805?",
+     "choices": [
+      "Duke of Wellington",
+      "Francis Drake",
+      "Horatio Nelson",
+      "James Cook"
+     ],
+     "answer": "Horatio Nelson",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-174",
+     "prompt": "Which early Mexican civilization carved giant stone heads?",
+     "choices": [
+      "The Inca",
+      "The Olmec",
+      "The Zapotec",
+      "The Toltec"
+     ],
+     "answer": "The Olmec",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-048",
+     "prompt": "Who wrote The Picture of Dorian Gray?",
+     "choices": [
+      "Thomas Hardy",
+      "Bram Stoker",
+      "Oscar Wilde",
+      "George Bernard Shaw"
+     ],
+     "answer": "Oscar Wilde",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-286",
+     "prompt": "Who wrote Catch-22?",
+     "choices": [
+      "Norman Mailer",
+      "Thomas Pynchon",
+      "Joseph Heller",
+      "Kurt Vonnegut"
+     ],
+     "answer": "Joseph Heller",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-291",
+     "prompt": "Who wrote Heart of Darkness?",
+     "choices": [
+      "Rudyard Kipling",
+      "E. M. Forster",
+      "Graham Greene",
+      "Joseph Conrad"
+     ],
+     "answer": "Joseph Conrad",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-243",
+     "prompt": "Which body of water lies between Africa and Arabia?",
+     "choices": [
+      "Black Sea",
+      "Baltic Sea",
+      "Red Sea",
+      "Caspian Sea"
+     ],
+     "answer": "Red Sea",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-290",
+     "prompt": "What word describes weather averaged over many years?",
+     "choices": [
+      "Forecast",
+      "Climate",
+      "Front",
+      "Breeze"
+     ],
+     "answer": "Climate",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-017",
+     "prompt": "Diamonds are made of which element?",
+     "choices": [
+      "Carbon",
+      "Silicon",
+      "Sulfur",
+      "Iron"
+     ],
+     "answer": "Carbon",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-115",
+     "prompt": "Who wrote On Liberty and set out the harm principle?",
+     "choices": [
+      "John Stuart Mill",
+      "Jeremy Bentham",
+      "John Locke",
+      "Herbert Spencer"
+     ],
+     "answer": "John Stuart Mill",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-295",
+     "prompt": "In an argument, a claim offered as support is called a what?",
+     "choices": [
+      "Premise",
+      "Fallacy",
+      "Paradox",
+      "Dogma"
+     ],
+     "answer": "Premise",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-090",
+     "prompt": "Which philosopher imagined a deceiving evil demon?",
+     "choices": [
+      "Descartes",
+      "Hume",
+      "Berkeley",
+      "Locke"
+     ],
+     "answer": "Descartes",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

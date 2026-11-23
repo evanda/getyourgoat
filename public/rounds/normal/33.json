@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 33,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-077",
+     "prompt": "8 × 12",
+     "answer": 96,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-043",
+     "prompt": "11 × 7 − 15",
+     "answer": 62,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-180",
+     "prompt": "70 ÷ 7",
+     "answer": 10,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-211",
+     "prompt": "Which English king was executed in 1649?",
+     "choices": [
+      "Charles II",
+      "Richard III",
+      "Charles I",
+      "Henry VIII"
+     ],
+     "answer": "Charles I",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-234",
+     "prompt": "Which founding father was the main author of the Declaration of Independence?",
+     "choices": [
+      "Benjamin Franklin",
+      "Thomas Jefferson",
+      "John Hancock",
+      "George Washington"
+     ],
+     "answer": "Thomas Jefferson",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-163",
+     "prompt": "Rome fought the Punic Wars against which rival?",
+     "choices": [
+      "Athens",
+      "Persia",
+      "Carthage",
+      "Gaul"
+     ],
+     "answer": "Carthage",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-002",
+     "prompt": "Who wrote Great Expectations?",
+     "choices": [
+      "Charles Dickens",
+      "George Eliot",
+      "William Thackeray",
+      "Thomas Hardy"
+     ],
+     "answer": "Charles Dickens",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-296",
+     "prompt": "Who is Huckleberry Finn's companion on the raft?",
+     "choices": [
+      "Jim",
+      "Becky Thatcher",
+      "Tom Sawyer",
+      "Injun Joe"
+     ],
+     "answer": "Jim",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-284",
+     "prompt": "Who wrote The Sound and the Fury?",
+     "choices": [
+      "William Faulkner",
+      "Thomas Wolfe",
+      "Sherwood Anderson",
+      "Ernest Hemingway"
+     ],
+     "answer": "William Faulkner",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-195",
+     "prompt": "A shooting star is actually a small bit of space rock called what?",
+     "choices": [
+      "Comet",
+      "Planet",
+      "Meteoroid",
+      "Satellite"
+     ],
+     "answer": "Meteoroid",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-076",
+     "prompt": "Air that is rising and cooling tends to form what?",
+     "choices": [
+      "Clear skies",
+      "Dust",
+      "Frost only",
+      "Clouds"
+     ],
+     "answer": "Clouds",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-263",
+     "prompt": "Which island nation in the Ring of Fire has frequent earthquakes?",
+     "choices": [
+      "Iceland",
+      "Cuba",
+      "Japan",
+      "Ireland"
+     ],
+     "answer": "Japan",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-192",
+     "prompt": "Wittgenstein was born in which country?",
+     "choices": [
+      "Austria",
+      "Germany",
+      "Switzerland",
+      "Hungary"
+     ],
+     "answer": "Austria",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-131",
+     "prompt": "Which philosopher won the 1950 Nobel Prize in Literature?",
+     "choices": [
+      "Bertrand Russell",
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Henri Bergson"
+     ],
+     "answer": "Bertrand Russell",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-276",
+     "prompt": "Which of these thinkers was Italian?",
+     "choices": [
+      "Machiavelli",
+      "Thomas Hobbes",
+      "Voltaire",
+      "Immanuel Kant"
+     ],
+     "answer": "Machiavelli",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

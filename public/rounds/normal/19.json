@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 19,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-177",
+     "prompt": "24 ÷ 4",
+     "answer": 6,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-016",
+     "prompt": "50 + 35",
+     "answer": 85,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-248",
+     "prompt": "65 ÷ 5 + 7",
+     "answer": 20,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-241",
+     "prompt": "In which year did World War I end?",
+     "choices": [
+      "1918",
+      "1914",
+      "1921",
+      "1939"
+     ],
+     "answer": "1918",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-078",
+     "prompt": "Which Korean king is credited with creating the Hangul alphabet?",
+     "choices": [
+      "Taejo",
+      "Sejong the Great",
+      "Gojong",
+      "Gwanggaeto"
+     ],
+     "answer": "Sejong the Great",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-049",
+     "prompt": "Which civilization built the Parthenon in Athens?",
+     "choices": [
+      "The ancient Greeks",
+      "The Romans",
+      "The Etruscans",
+      "The Phoenicians"
+     ],
+     "answer": "The ancient Greeks",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-288",
+     "prompt": "Who wrote Brave New World?",
+     "choices": [
+      "George Orwell",
+      "Ray Bradbury",
+      "H. G. Wells",
+      "Aldous Huxley"
+     ],
+     "answer": "Aldous Huxley",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-229",
+     "prompt": "Who wrote the play Blood Wedding?",
+     "choices": [
+      "Federico García Lorca",
+      "Miguel de Unamuno",
+      "Antonio Machado",
+      "Pablo Neruda"
+     ],
+     "answer": "Federico García Lorca",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-269",
+     "prompt": "What kind of creature is Moby Dick?",
+     "choices": [
+      "A white whale",
+      "A giant squid",
+      "A great shark",
+      "A sea serpent"
+     ],
+     "answer": "A white whale",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-231",
+     "prompt": "Which is the highest mountain in South America?",
+     "choices": [
+      "Chimborazo",
+      "Huascaran",
+      "Aconcagua",
+      "Cotopaxi"
+     ],
+     "answer": "Aconcagua",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-246",
+     "prompt": "Which grassland biome is found in Africa with scattered trees?",
+     "choices": [
+      "Tundra",
+      "Savanna",
+      "Taiga",
+      "Chaparral"
+     ],
+     "answer": "Savanna",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-249",
+     "prompt": "Which fuel formed from ancient plankton and plants buried over millions of years?",
+     "choices": [
+      "Fossil fuel",
+      "Wood pellets",
+      "Solar energy",
+      "Wind power"
+     ],
+     "answer": "Fossil fuel",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-140",
+     "prompt": "Which French thinker is associated with deconstruction?",
+     "choices": [
+      "Jacques Derrida",
+      "Michel Foucault",
+      "Jacques Lacan",
+      "Jean-Paul Sartre"
+     ],
+     "answer": "Jacques Derrida",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-108",
+     "prompt": "Who wrote Thus Spoke Zarathustra?",
+     "choices": [
+      "Nietzsche",
+      "Schopenhauer",
+      "Heidegger",
+      "Kierkegaard"
+     ],
+     "answer": "Nietzsche",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-063",
+     "prompt": "Which Andalusian thinker was nicknamed The Commentator on Aristotle?",
+     "choices": [
+      "Averroes",
+      "Avicenna",
+      "Maimonides",
+      "Al-Ghazali"
+     ],
+     "answer": "Averroes",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

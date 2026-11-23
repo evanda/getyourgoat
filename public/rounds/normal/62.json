@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 62,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-190",
+     "prompt": "336 − 85",
+     "answer": 251,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-125",
+     "prompt": "400 − 48",
+     "answer": 352,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-058",
+     "prompt": "44 − 33",
+     "answer": 11,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-264",
+     "prompt": "Which 1494 treaty split newly found lands between Spain and Portugal?",
+     "choices": [
+      "Treaty of Utrecht",
+      "Treaty of Paris",
+      "Treaty of Ghent",
+      "Treaty of Tordesillas"
+     ],
+     "answer": "Treaty of Tordesillas",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-246",
+     "prompt": "Which US state was the center of the 1849 Gold Rush?",
+     "choices": [
+      "Alaska",
+      "California",
+      "Colorado",
+      "Nevada"
+     ],
+     "answer": "California",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-133",
+     "prompt": "Which red-shirted general helped unify Italy in the 1860s?",
+     "choices": [
+      "Giuseppe Garibaldi",
+      "Benito Mussolini",
+      "Victor Emmanuel II",
+      "Dante Alighieri"
+     ],
+     "answer": "Giuseppe Garibaldi",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-202",
+     "prompt": "Who wrote The Master and Margarita?",
+     "choices": [
+      "Boris Pasternak",
+      "Aleksandr Solzhenitsyn",
+      "Vladimir Nabokov",
+      "Mikhail Bulgakov"
+     ],
+     "answer": "Mikhail Bulgakov",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-298",
+     "prompt": "In which century was Frankenstein first published?",
+     "choices": [
+      "20th century",
+      "18th century",
+      "17th century",
+      "19th century"
+     ],
+     "answer": "19th century",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-223",
+     "prompt": "Who wrote the story collection Ficciones?",
+     "choices": [
+      "Pablo Neruda",
+      "Jorge Luis Borges",
+      "Roberto Bolaño",
+      "Julio Cortázar"
+     ],
+     "answer": "Jorge Luis Borges",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-221",
+     "prompt": "Which is the smallest continent by area?",
+     "choices": [
+      "Australia",
+      "Europe",
+      "Antarctica",
+      "South America"
+     ],
+     "answer": "Australia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-146",
+     "prompt": "The solid rock layer beneath soil is called what?",
+     "choices": [
+      "Topsoil",
+      "Bedrock",
+      "Humus",
+      "Loam"
+     ],
+     "answer": "Bedrock",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-083",
+     "prompt": "At what temperature in Celsius does pure water freeze at sea level?",
+     "choices": [
+      "10",
+      "32",
+      "0",
+      "20"
+     ],
+     "answer": "0",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-021",
+     "prompt": "Which Sophist said that man is the measure of all things?",
+     "choices": [
+      "Protagoras",
+      "Gorgias",
+      "Parmenides",
+      "Thales"
+     ],
+     "answer": "Protagoras",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-054",
+     "prompt": "What was the Buddha's personal name before his awakening?",
+     "choices": [
+      "Siddhartha Gautama",
+      "Mahavira",
+      "Ashoka",
+      "Nagarjuna"
+     ],
+     "answer": "Siddhartha Gautama",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-121",
+     "prompt": "Who wrote The Varieties of Religious Experience?",
+     "choices": [
+      "William James",
+      "John Dewey",
+      "Charles Peirce",
+      "George Santayana"
+     ],
+     "answer": "William James",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

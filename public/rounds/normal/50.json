@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 50,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-045",
+     "prompt": "63 ÷ 7 + 13",
+     "answer": 22,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-078",
+     "prompt": "17 + 45",
+     "answer": 62,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-138",
+     "prompt": "455 − 71",
+     "answer": 384,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-169",
+     "prompt": "Which Athenian statesman led the city during the building of the Parthenon?",
+     "choices": [
+      "Pericles",
+      "Solon",
+      "Leonidas",
+      "Alcibiades"
+     ],
+     "answer": "Pericles",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-029",
+     "prompt": "In which century did the Western Roman Empire fall?",
+     "choices": [
+      "5th century",
+      "3rd century",
+      "7th century",
+      "9th century"
+     ],
+     "answer": "5th century",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-218",
+     "prompt": "Who became Britain's first female prime minister in 1979?",
+     "choices": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Indira Gandhi",
+      "Golda Meir"
+     ],
+     "answer": "Margaret Thatcher",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-299",
+     "prompt": "In which century did Chaucer write The Canterbury Tales?",
+     "choices": [
+      "16th century",
+      "12th century",
+      "14th century",
+      "18th century"
+     ],
+     "answer": "14th century",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-195",
+     "prompt": "Who wrote The Secret Garden?",
+     "choices": [
+      "Frances Hodgson Burnett",
+      "Louisa May Alcott",
+      "L. M. Montgomery",
+      "E. Nesbit"
+     ],
+     "answer": "Frances Hodgson Burnett",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-145",
+     "prompt": "Who wrote the play Waiting for Godot?",
+     "choices": [
+      "Eugène Ionesco",
+      "Harold Pinter",
+      "Samuel Beckett",
+      "Tom Stoppard"
+     ],
+     "answer": "Samuel Beckett",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-293",
+     "prompt": "El Nino is a warming of the surface waters of which ocean?",
+     "choices": [
+      "Pacific",
+      "Atlantic",
+      "Arctic",
+      "Indian"
+     ],
+     "answer": "Pacific",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-285",
+     "prompt": "Which famous rift valley splits parts of East Africa?",
+     "choices": [
+      "East African Rift",
+      "Rhine Rift",
+      "Great Basin",
+      "Yucatan Rift"
+     ],
+     "answer": "East African Rift",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-214",
+     "prompt": "Which of these periods came earliest?",
+     "choices": [
+      "Jurassic",
+      "Triassic",
+      "Cretaceous",
+      "Paleogene"
+     ],
+     "answer": "Triassic",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-058",
+     "prompt": "Which philosopher is the great teacher of Advaita Vedanta?",
+     "choices": [
+      "Shankara",
+      "Ramanuja",
+      "Nagarjuna",
+      "Madhva"
+     ],
+     "answer": "Shankara",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-101",
+     "prompt": "Who wrote Democracy in America?",
+     "choices": [
+      "Alexis de Tocqueville",
+      "Montesquieu",
+      "John Stuart Mill",
+      "Edmund Burke"
+     ],
+     "answer": "Alexis de Tocqueville",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-178",
+     "prompt": "Which fallacy misrepresents an opponent's view to refute it?",
+     "choices": [
+      "Straw man",
+      "Ad hominem",
+      "Circular reasoning",
+      "Appeal to authority"
+     ],
+     "answer": "Straw man",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

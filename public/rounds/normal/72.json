@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 72,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-184",
+     "prompt": "12 × 11 − 5",
+     "answer": 127,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-261",
+     "prompt": "25 + 58",
+     "answer": 83,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-249",
+     "prompt": "16 × 12",
+     "answer": 192,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-101",
+     "prompt": "Which ship carried the Pilgrims to America in 1620?",
+     "choices": [
+      "The Mayflower",
+      "The Santa Maria",
+      "The Endeavour",
+      "The Beagle"
+     ],
+     "answer": "The Mayflower",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-259",
+     "prompt": "Which dictator ruled Italy during World War II?",
+     "choices": [
+      "Francisco Franco",
+      "Joseph Stalin",
+      "Benito Mussolini",
+      "Victor Emmanuel I"
+     ],
+     "answer": "Benito Mussolini",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-226",
+     "prompt": "Which German physicist discovered X-rays in 1895?",
+     "choices": [
+      "Max Planck",
+      "Wilhelm Roentgen",
+      "Heinrich Hertz",
+      "Albert Einstein"
+     ],
+     "answer": "Wilhelm Roentgen",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-232",
+     "prompt": "Who wrote the novel The Name of the Rose?",
+     "choices": [
+      "Alberto Moravia",
+      "Umberto Eco",
+      "Primo Levi",
+      "Italo Calvino"
+     ],
+     "answer": "Umberto Eco",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-044",
+     "prompt": "Who wrote Fahrenheit 451?",
+     "choices": [
+      "Arthur C. Clarke",
+      "Isaac Asimov",
+      "Philip K. Dick",
+      "Ray Bradbury"
+     ],
+     "answer": "Ray Bradbury",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-191",
+     "prompt": "Who wrote Pippi Longstocking?",
+     "choices": [
+      "Astrid Lindgren",
+      "Beatrix Potter",
+      "Tove Jansson",
+      "Selma Lagerlöf"
+     ],
+     "answer": "Astrid Lindgren",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-194",
+     "prompt": "Which giant impact is thought to have formed the Moon?",
+     "choices": [
+      "Earth's volcano eruption",
+      "A Mars-sized body hitting Earth",
+      "A comet swarm",
+      "Jupiter's pull"
+     ],
+     "answer": "A Mars-sized body hitting Earth",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-202",
+     "prompt": "Earth is in which galaxy?",
+     "choices": [
+      "Andromeda",
+      "Milky Way",
+      "Triangulum",
+      "Whirlpool"
+     ],
+     "answer": "Milky Way",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-273",
+     "prompt": "Which mineral fizzes when a drop of weak acid touches it?",
+     "choices": [
+      "Calcite",
+      "Quartz",
+      "Talc",
+      "Mica"
+     ],
+     "answer": "Calcite",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-212",
+     "prompt": "Which group of 1920s Viennese thinkers promoted logical positivism?",
+     "choices": [
+      "The Vienna Circle",
+      "The Frankfurt School",
+      "The Kyoto School",
+      "The Stoa"
+     ],
+     "answer": "The Vienna Circle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-138",
+     "prompt": "Who founded the philosophy called Objectivism?",
+     "choices": [
+      "Ayn Rand",
+      "Friedrich Hayek",
+      "Milton Friedman",
+      "Robert Nozick"
+     ],
+     "answer": "Ayn Rand",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-008",
+     "prompt": "Who wrote the Nicomachean Ethics?",
+     "choices": [
+      "Aristotle",
+      "Plato",
+      "Epicurus",
+      "Seneca"
+     ],
+     "answer": "Aristotle",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 10,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-286",
+     "prompt": "81 + 12",
+     "answer": 93,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-057",
+     "prompt": "204 + 57",
+     "answer": 261,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-231",
+     "prompt": "168 ÷ 12 + 16",
+     "answer": 30,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-214",
+     "prompt": "Which queen of Castile backed the voyage of Columbus?",
+     "choices": [
+      "Elizabeth I",
+      "Isabella I",
+      "Maria Theresa",
+      "Catherine of Aragon"
+     ],
+     "answer": "Isabella I",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-057",
+     "prompt": "In which year did the Ottoman Turks capture Constantinople?",
+     "choices": [
+      "1453",
+      "1389",
+      "1492",
+      "1517"
+     ],
+     "answer": "1453",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-064",
+     "prompt": "Which Chinese admiral led giant treasure fleets in the early 1400s?",
+     "choices": [
+      "Yue Fei",
+      "Zhuge Liang",
+      "Koxinga",
+      "Zheng He"
+     ],
+     "answer": "Zheng He",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-122",
+     "prompt": "Sappho, the ancient Greek poet, came from which island?",
+     "choices": [
+      "Crete",
+      "Lesbos",
+      "Rhodes",
+      "Sicily"
+     ],
+     "answer": "Lesbos",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-003",
+     "prompt": "Who wrote Jane Eyre?",
+     "choices": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Mary Shelley",
+      "Emily Brontë"
+     ],
+     "answer": "Charlotte Brontë",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-028",
+     "prompt": "Who wrote War and Peace?",
+     "choices": [
+      "Ivan Turgenev",
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Leo Tolstoy"
+     ],
+     "answer": "Leo Tolstoy",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-035",
+     "prompt": "The point on the surface directly above a quake's origin is called the what?",
+     "choices": [
+      "Fault line",
+      "Aftershock",
+      "Epicenter",
+      "Rift"
+     ],
+     "answer": "Epicenter",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-080",
+     "prompt": "A seasonal wind shift bringing heavy rains to South Asia is called what?",
+     "choices": [
+      "Chinook",
+      "Sirocco",
+      "Doldrums",
+      "Monsoon"
+     ],
+     "answer": "Monsoon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-040",
+     "prompt": "In which country is Mount Vesuvius?",
+     "choices": [
+      "Greece",
+      "Spain",
+      "Turkey",
+      "Italy"
+     ],
+     "answer": "Italy",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-207",
+     "prompt": "In Indian thought, samsara is what?",
+     "choices": [
+      "The cycle of rebirth",
+      "A holy book",
+      "A kind of yoga",
+      "A festival"
+     ],
+     "answer": "The cycle of rebirth",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-062",
+     "prompt": "Who wrote The Canon of Medicine and The Book of Healing?",
+     "choices": [
+      "Avicenna",
+      "Averroes",
+      "Al-Farabi",
+      "Al-Kindi"
+     ],
+     "answer": "Avicenna",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-265",
+     "prompt": "Which outlook stresses human reason and human worth?",
+     "choices": [
+      "Humanism",
+      "Fatalism",
+      "Mysticism",
+      "Asceticism"
+     ],
+     "answer": "Humanism",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 28,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-003",
+     "prompt": "489 − 51",
+     "answer": 438,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-170",
+     "prompt": "39 + 49",
+     "answer": 88,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-143",
+     "prompt": "158 − 27",
+     "answer": 131,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-204",
+     "prompt": "In which year did Hillary and Tenzing reach the summit of Everest?",
+     "choices": [
+      "1924",
+      "1969",
+      "1978",
+      "1953"
+     ],
+     "answer": "1953",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-087",
+     "prompt": "Which monk's 1517 Ninety-five Theses sparked the Protestant Reformation?",
+     "choices": [
+      "John Calvin",
+      "Erasmus",
+      "Martin Luther",
+      "Thomas More"
+     ],
+     "answer": "Martin Luther",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-145",
+     "prompt": "Which country launched Sputnik, the first artificial satellite?",
+     "choices": [
+      "Soviet Union",
+      "United States",
+      "China",
+      "Germany"
+     ],
+     "answer": "Soviet Union",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-040",
+     "prompt": "Who wrote The Tale of Peter Rabbit?",
+     "choices": [
+      "A. A. Milne",
+      "Kate Greenaway",
+      "Beatrix Potter",
+      "Enid Blyton"
+     ],
+     "answer": "Beatrix Potter",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-082",
+     "prompt": "In Gulliver's Travels, what is the land of tiny people called?",
+     "choices": [
+      "Narnia",
+      "Erewhon",
+      "Lilliput",
+      "Utopia"
+     ],
+     "answer": "Lilliput",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-031",
+     "prompt": "Who wrote Treasure Island?",
+     "choices": [
+      "Rudyard Kipling",
+      "Robert Louis Stevenson",
+      "Daniel Defoe",
+      "Jonathan Swift"
+     ],
+     "answer": "Robert Louis Stevenson",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-266",
+     "prompt": "Smaller quakes that follow a big earthquake are called what?",
+     "choices": [
+      "Foreshocks",
+      "Aftershocks",
+      "Eruptions",
+      "Rifts"
+     ],
+     "answer": "Aftershocks",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-001",
+     "prompt": "Sandstone and limestone belong to which rock group?",
+     "choices": [
+      "Sedimentary",
+      "Igneous",
+      "Metamorphic",
+      "Plutonic"
+     ],
+     "answer": "Sedimentary",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-171",
+     "prompt": "Mammoths lived mostly during which ice-age era?",
+     "choices": [
+      "Triassic",
+      "Devonian",
+      "Pleistocene",
+      "Cambrian"
+     ],
+     "answer": "Pleistocene",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-038",
+     "prompt": "Seneca's Letters to Lucilius belong to which school?",
+     "choices": [
+      "Stoicism",
+      "Epicureanism",
+      "Cynicism",
+      "Skepticism"
+     ],
+     "answer": "Stoicism",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-288",
+     "prompt": "Who wrote Philosophical Investigations?",
+     "choices": [
+      "Ludwig Wittgenstein",
+      "Bertrand Russell",
+      "A. J. Ayer",
+      "Rudolf Carnap"
+     ],
+     "answer": "Ludwig Wittgenstein",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-053",
+     "prompt": "Daoist wu wei is often rendered as what?",
+     "choices": [
+      "Effortless action",
+      "Strict duty",
+      "Quiet prayer",
+      "Careful study"
+     ],
+     "answer": "Effortless action",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

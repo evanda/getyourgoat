@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 12,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-128",
+     "prompt": "108 ÷ 9",
+     "answer": 12,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-200",
+     "prompt": "121 ÷ 11 + 3",
+     "answer": 14,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-185",
+     "prompt": "450 − 48",
+     "answer": 402,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-165",
+     "prompt": "Which gladiator led a major slave revolt against Rome starting in 73 BC?",
+     "choices": [
+      "Spartacus",
+      "Maximus",
+      "Brutus",
+      "Hannibal"
+     ],
+     "answer": "Spartacus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-221",
+     "prompt": "Which ancient Greek doctor is called the Father of Medicine?",
+     "choices": [
+      "Hippocrates",
+      "Galen",
+      "Aristotle",
+      "Socrates"
+     ],
+     "answer": "Hippocrates",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-067",
+     "prompt": "Which Mughal emperor built the Taj Mahal?",
+     "choices": [
+      "Akbar",
+      "Babur",
+      "Shah Jahan",
+      "Aurangzeb"
+     ],
+     "answer": "Shah Jahan",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-020",
+     "prompt": "Who wrote To Kill a Mockingbird?",
+     "choices": [
+      "Eudora Welty",
+      "Harper Lee",
+      "Toni Morrison",
+      "Truman Capote"
+     ],
+     "answer": "Harper Lee",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-218",
+     "prompt": "Who wrote All Quiet on the Western Front?",
+     "choices": [
+      "Heinrich Böll",
+      "Erich Maria Remarque",
+      "Thomas Mann",
+      "Hermann Hesse"
+     ],
+     "answer": "Erich Maria Remarque",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-075",
+     "prompt": "Shylock appears in which Shakespeare play?",
+     "choices": [
+      "Othello",
+      "The Merchant of Venice",
+      "Macbeth",
+      "Much Ado About Nothing"
+     ],
+     "answer": "The Merchant of Venice",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-185",
+     "prompt": "Which planet is closest to the Sun?",
+     "choices": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Earth"
+     ],
+     "answer": "Mercury",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-170",
+     "prompt": "Which ancient flying reptiles lived alongside dinosaurs?",
+     "choices": [
+      "Trilobites",
+      "Pterosaurs",
+      "Ammonites",
+      "Mammoths"
+     ],
+     "answer": "Pterosaurs",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-271",
+     "prompt": "What is the way a mineral reflects light called?",
+     "choices": [
+      "Streak",
+      "Density",
+      "Luster",
+      "Cleavage"
+     ],
+     "answer": "Luster",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-172",
+     "prompt": "Which school judges ideas by their practical effects?",
+     "choices": [
+      "Pragmatism",
+      "Rationalism",
+      "Idealism",
+      "Scholasticism"
+     ],
+     "answer": "Pragmatism",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-162",
+     "prompt": "Which branch of philosophy studies what exists and what being is?",
+     "choices": [
+      "Ontology",
+      "Epistemology",
+      "Aesthetics",
+      "Axiology"
+     ],
+     "answer": "Ontology",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-250",
+     "prompt": "Which of these philosophers was Greek?",
+     "choices": [
+      "Aristotle",
+      "Confucius",
+      "Kant",
+      "Nietzsche"
+     ],
+     "answer": "Aristotle",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 101,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-291",
+     "prompt": "60 ÷ 5 + 4",
+     "answer": 16,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-132",
+     "prompt": "8 × 8 − 13",
+     "answer": 51,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-083",
+     "prompt": "331 − 83",
+     "answer": 248,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-153",
+     "prompt": "Which Scottish scientist discovered penicillin in 1928?",
+     "choices": [
+      "Alexander Fleming",
+      "Joseph Lister",
+      "Edward Jenner",
+      "Louis Pasteur"
+     ],
+     "answer": "Alexander Fleming",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-107",
+     "prompt": "Which 1941 attack brought the United States into World War II?",
+     "choices": [
+      "Midway",
+      "Guadalcanal",
+      "Pearl Harbor",
+      "Normandy"
+     ],
+     "answer": "Pearl Harbor",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-032",
+     "prompt": "Who founded the Mongol Empire?",
+     "choices": [
+      "Kublai Khan",
+      "Timur",
+      "Attila",
+      "Genghis Khan"
+     ],
+     "answer": "Genghis Khan",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-187",
+     "prompt": "Hans Christian Andersen, the fairy tale writer, was from which country?",
+     "choices": [
+      "Sweden",
+      "Denmark",
+      "Norway",
+      "Germany"
+     ],
+     "answer": "Denmark",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-236",
+     "prompt": "Who wrote The Pillow Book of the Heian court?",
+     "choices": [
+      "Murasaki Shikibu",
+      "Matsuo Bashō",
+      "Sei Shōnagon",
+      "Natsume Sōseki"
+     ],
+     "answer": "Sei Shōnagon",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-069",
+     "prompt": "Which Roald Dahl book has a boy living inside a giant fruit?",
+     "choices": [
+      "James and the Giant Peach",
+      "Matilda",
+      "The Witches",
+      "The BFG"
+     ],
+     "answer": "James and the Giant Peach",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-143",
+     "prompt": "What is the name for a floating chunk of ice broken from a glacier?",
+     "choices": [
+      "Floe",
+      "Slush",
+      "Iceberg",
+      "Moraine"
+     ],
+     "answer": "Iceberg",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-099",
+     "prompt": "What do meteorologists call the amount of water vapor in the air?",
+     "choices": [
+      "Pressure",
+      "Density",
+      "Humidity",
+      "Albedo"
+     ],
+     "answer": "Humidity",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-016",
+     "prompt": "Emerald is a green variety of which mineral?",
+     "choices": [
+      "Corundum",
+      "Quartz",
+      "Garnet",
+      "Beryl"
+     ],
+     "answer": "Beryl",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-189",
+     "prompt": "Which Dutch-born philosopher was banned by his Amsterdam congregation in 1656?",
+     "choices": [
+      "Spinoza",
+      "Erasmus",
+      "Grotius",
+      "Leibniz"
+     ],
+     "answer": "Spinoza",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-297",
+     "prompt": "Diogenes carried a lamp in daylight, saying he was looking for what?",
+     "choices": [
+      "A man",
+      "A king",
+      "A god",
+      "A coin"
+     ],
+     "answer": "A man",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-282",
+     "prompt": "Which Indian leader developed the philosophy of satyagraha?",
+     "choices": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Rabindranath Tagore",
+      "Swami Vivekananda"
+     ],
+     "answer": "Mahatma Gandhi",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

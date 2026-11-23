@@ -138,9 +138,11 @@ describe('wrong, skip, reroll', () => {
     expect(shareGrid(s)).toBe('🐐🐐🐐🐐🧌');
   });
 
-  it('skipping an earlier question costs only time', () => {
-    const s = applyEvent(applyEvent(initialState(P, CATS), P, 'wrong'), P, 'skip');
+  it('skipping an earlier question costs only time, and shows as a skip in the grid', () => {
+    let s = applyEvent(applyEvent(initialState(P, CATS), P, 'wrong'), P, 'skip');
     expect(s.goats).toBe(5);
+    for (let i = 0; i < 4; i++) s = applyEvent(s, P, 'correct');
+    expect(shareGrid(s)).toBe('⏭️🐐🐐🐐🐐');
   });
 
   it('reroll keeps the category and moves to the next variant', () => {

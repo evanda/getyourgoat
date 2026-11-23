@@ -1,5 +1,6 @@
-// Rounds: public/rounds/<n>.json. Round #n is also the daily puzzle for
-// day n counted from EPOCH (#1 = 2026-11-23).
+// Rounds: public/rounds/<level>/<n>.json. Round #n is also the daily puzzle for
+// day n counted from EPOCH (#1 = 2026-11-23), at each level.
+import { LEVEL_CATEGORIES, isLevel, type Level } from './levels.ts';
 // Each of the five categories carries one or more variants. Variant 0 is the
 // round's question; the rest are what a reroll draws, in order.
 
@@ -28,11 +29,10 @@ export interface CategoryBlock {
 }
 
 export interface Round {
+  level: Level;
   number: number;
   questions: CategoryBlock[];
 }
-
-export const CATEGORIES = ['arithmetic', 'history', 'literature', 'earth science', 'philosophy'] as const;
 
 /** Puzzle #1 is the first day the game exists. */
 export const EPOCH = '2026-11-23';
@@ -59,11 +59,13 @@ export function validateRound(raw: unknown): Round {
   };
   if (!raw || typeof raw !== 'object') fail('not an object');
   const r = raw as Round;
+  if (!isLevel(r.level)) fail('level');
+  const cats = LEVEL_CATEGORIES[r.level];
   if (!Number.isInteger(r.number) || r.number < 1) fail('number');
-  if (!Array.isArray(r.questions) || r.questions.length !== CATEGORIES.length) fail('need five categories');
+  if (!Array.isArray(r.questions) || r.questions.length !== cats.length) fail('need five categories');
   const ids = new Set<string>();
   r.questions.forEach((block, i) => {
-    if (block.category !== CATEGORIES[i]) fail(`category ${i} should be ${CATEGORIES[i]}`);
+    if (block.category !== cats[i]) fail(`category ${i} should be ${cats[i]}`);
     if (!Array.isArray(block.variants) || block.variants.length === 0) fail(`${block.category}: no variants`);
     for (const q of block.variants) {
       if (typeof q.id !== 'string' || !q.id) fail(`${block.category}: missing id`);
@@ -84,20 +86,20 @@ export function validateRound(raw: unknown): Round {
   return r;
 }
 
-export async function loadRound(n: number, base = import.meta.env.BASE_URL): Promise<Round | null> {
-  const res = await fetch(`${base}rounds/${n}.json`);
+export async function loadRound(level: Level, n: number, base = import.meta.env.BASE_URL): Promise<Round | null> {
+  const res = await fetch(`${base}rounds/${level}/${n}.json`);
   if (res.status === 404) return null;
   if (!res.ok) throw new Error(`Could not load round ${n} (${res.status})`);
   // Vite's dev server answers unknown paths with index.html.
   if (!(res.headers.get('content-type') ?? '').includes('json')) return null;
   const round = validateRound(await res.json());
-  if (round.number !== n) throw new Error(`Round file ${n} says it is #${round.number}`);
+  if (round.number !== n || round.level !== level) throw new Error(`Round file ${level}/${n} says it is ${round.level} #${round.number}`);
   return round;
 }
 
-/** How many rounds exist, from rounds/index.json ({"count": N}). */
-export async function loadRoundCount(base = import.meta.env.BASE_URL): Promise<number> {
-  const res = await fetch(`${base}rounds/index.json`);
+/** How many rounds a level has, from rounds/<level>/index.json ({"count": N}). */
+export async function loadRoundCount(level: Level, base = import.meta.env.BASE_URL): Promise<number> {
+  const res = await fetch(`${base}rounds/${level}/index.json`);
   if (!res.ok || !(res.headers.get('content-type') ?? '').includes('json')) throw new Error('Could not load the round list.');
   const { count } = (await res.json()) as { count: unknown };
   if (!Number.isInteger(count) || (count as number) < 1) throw new Error('Bad round list.');

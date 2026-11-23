@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 86,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-094",
+     "prompt": "117 ÷ 9",
+     "answer": 13,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-049",
+     "prompt": "334 − 86",
+     "answer": 248,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-019",
+     "prompt": "481 − 54",
+     "answer": 427,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-100",
+     "prompt": "Who was the first president of the United States?",
+     "choices": [
+      "Thomas Jefferson",
+      "John Adams",
+      "Benjamin Franklin",
+      "George Washington"
+     ],
+     "answer": "George Washington",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-188",
+     "prompt": "Which Persian dynasty made Shia Islam the state religion in the 1500s?",
+     "choices": [
+      "Abbasid",
+      "Umayyad",
+      "Mughal",
+      "Safavid"
+     ],
+     "answer": "Safavid",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-167",
+     "prompt": "Which Roman emperor wrote the philosophical Meditations?",
+     "choices": [
+      "Nero",
+      "Caligula",
+      "Marcus Aurelius",
+      "Constantine"
+     ],
+     "answer": "Marcus Aurelius",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-124",
+     "prompt": "Who wrote \"The Charge of the Light Brigade\"?",
+     "choices": [
+      "Alfred, Lord Tennyson",
+      "Robert Browning",
+      "Matthew Arnold",
+      "Rudyard Kipling"
+     ],
+     "answer": "Alfred, Lord Tennyson",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-022",
+     "prompt": "Who wrote Of Mice and Men?",
+     "choices": [
+      "Sinclair Lewis",
+      "William Faulkner",
+      "Ernest Hemingway",
+      "John Steinbeck"
+     ],
+     "answer": "John Steinbeck",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-018",
+     "prompt": "Who wrote Animal Farm?",
+     "choices": [
+      "George Orwell",
+      "William Golding",
+      "John Steinbeck",
+      "Aldous Huxley"
+     ],
+     "answer": "George Orwell",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-161",
+     "prompt": "The age of the dinosaurs is called which era?",
+     "choices": [
+      "Mesozoic",
+      "Paleozoic",
+      "Cenozoic",
+      "Precambrian"
+     ],
+     "answer": "Mesozoic",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-270",
+     "prompt": "What do geologists call a mineral's color when powdered?",
+     "choices": [
+      "Luster",
+      "Streak",
+      "Cleavage",
+      "Fracture"
+     ],
+     "answer": "Streak",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-113",
+     "prompt": "Which is the smallest ocean?",
+     "choices": [
+      "Arctic",
+      "Indian",
+      "Atlantic",
+      "Southern"
+     ],
+     "answer": "Arctic",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-190",
+     "prompt": "Which Irish-born bishop was an idealist philosopher?",
+     "choices": [
+      "George Berkeley",
+      "John Locke",
+      "Edmund Burke",
+      "David Hume"
+     ],
+     "answer": "George Berkeley",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-201",
+     "prompt": "Mencius is a major thinker in which tradition?",
+     "choices": [
+      "Confucianism",
+      "Daoism",
+      "Legalism",
+      "Mohism"
+     ],
+     "answer": "Confucianism",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-119",
+     "prompt": "Who wrote the essay Self-Reliance?",
+     "choices": [
+      "Ralph Waldo Emerson",
+      "Henry David Thoreau",
+      "Walt Whitman",
+      "Edgar Allan Poe"
+     ],
+     "answer": "Ralph Waldo Emerson",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

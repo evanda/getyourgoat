@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 32,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-178",
+     "prompt": "421 + 48",
+     "answer": 469,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-072",
+     "prompt": "195 − 50",
+     "answer": 145,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-070",
+     "prompt": "411 − 197",
+     "answer": 214,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-026",
+     "prompt": "Which Spanish conquistador defeated the Inca Empire?",
+     "choices": [
+      "Hernan Cortes",
+      "Francisco Pizarro",
+      "Ferdinand Magellan",
+      "Pedro Cabral"
+     ],
+     "answer": "Francisco Pizarro",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-193",
+     "prompt": "What was Genghis Khan's birth name?",
+     "choices": [
+      "Temujin",
+      "Subutai",
+      "Batu",
+      "Ogedei"
+     ],
+     "answer": "Temujin",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-272",
+     "prompt": "Which actor shot Abraham Lincoln at Ford's Theatre in 1865?",
+     "choices": [
+      "Lee Harvey Oswald",
+      "Aaron Burr",
+      "Jefferson Davis",
+      "John Wilkes Booth"
+     ],
+     "answer": "John Wilkes Booth",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-034",
+     "prompt": "Who wrote A Christmas Carol?",
+     "choices": [
+      "Anthony Trollope",
+      "Charles Dickens",
+      "Wilkie Collins",
+      "Thomas Hardy"
+     ],
+     "answer": "Charles Dickens",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-038",
+     "prompt": "Who wrote The Wind in the Willows?",
+     "choices": [
+      "Rudyard Kipling",
+      "Kenneth Grahame",
+      "J. M. Barrie",
+      "A. A. Milne"
+     ],
+     "answer": "Kenneth Grahame",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-259",
+     "prompt": "Which fairy-tale heroine loses a glass slipper at a royal ball?",
+     "choices": [
+      "Sleeping Beauty",
+      "Snow White",
+      "Cinderella",
+      "Rapunzel"
+     ],
+     "answer": "Cinderella",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-012",
+     "prompt": "The process that turns loose sediment into solid rock is called what?",
+     "choices": [
+      "Erosion",
+      "Weathering",
+      "Subduction",
+      "Lithification"
+     ],
+     "answer": "Lithification",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-091",
+     "prompt": "Which drives the water cycle by heating oceans and lakes?",
+     "choices": [
+      "The Moon",
+      "Earth's core",
+      "The Sun",
+      "Wind alone"
+     ],
+     "answer": "The Sun",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-072",
+     "prompt": "Which scale rates hurricane strength from 1 to 5?",
+     "choices": [
+      "Richter",
+      "Beaufort",
+      "Mohs",
+      "Saffir-Simpson"
+     ],
+     "answer": "Saffir-Simpson",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-013",
+     "prompt": "Which pre-Socratic said that you cannot step into the same river twice?",
+     "choices": [
+      "Heraclitus",
+      "Parmenides",
+      "Thales",
+      "Anaximander"
+     ],
+     "answer": "Heraclitus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-137",
+     "prompt": "Which thinker coined the phrase banality of evil?",
+     "choices": [
+      "Hannah Arendt",
+      "Simone de Beauvoir",
+      "Simone Weil",
+      "Ayn Rand"
+     ],
+     "answer": "Hannah Arendt",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-065",
+     "prompt": "Who answered with The Incoherence of the Incoherence?",
+     "choices": [
+      "Averroes",
+      "Al-Ghazali",
+      "Avicenna",
+      "Al-Farabi"
+     ],
+     "answer": "Averroes",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

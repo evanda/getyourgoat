@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 82,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-156",
+     "prompt": "253 + 28",
+     "answer": 281,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-217",
+     "prompt": "480 − 132",
+     "answer": 348,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-122",
+     "prompt": "614 − 142",
+     "answer": 472,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-233",
+     "prompt": "From which region of Europe did the Vikings come?",
+     "choices": [
+      "Scandinavia",
+      "Iberia",
+      "The Balkans",
+      "The Alps"
+     ],
+     "answer": "Scandinavia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-164",
+     "prompt": "Which Roman general defeated Hannibal at Zama in 202 BC?",
+     "choices": [
+      "Julius Caesar",
+      "Pompey",
+      "Marcus Crassus",
+      "Scipio Africanus"
+     ],
+     "answer": "Scipio Africanus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-270",
+     "prompt": "America is named after which Italian explorer?",
+     "choices": [
+      "Christopher Columbus",
+      "Amerigo Vespucci",
+      "John Cabot",
+      "Marco Polo"
+     ],
+     "answer": "Amerigo Vespucci",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-199",
+     "prompt": "Who wrote The Very Hungry Caterpillar?",
+     "choices": [
+      "Mo Willems",
+      "Eric Carle",
+      "Dr. Seuss",
+      "Maurice Sendak"
+     ],
+     "answer": "Eric Carle",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-070",
+     "prompt": "In which Roald Dahl book does Miss Trunchbull appear?",
+     "choices": [
+      "The Witches",
+      "Danny the Champion of the World",
+      "Esio Trot",
+      "Matilda"
+     ],
+     "answer": "Matilda",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-065",
+     "prompt": "Who inherits the One Ring from Bilbo Baggins?",
+     "choices": [
+      "Samwise Gamgee",
+      "Aragorn",
+      "Gandalf",
+      "Frodo Baggins"
+     ],
+     "answer": "Frodo Baggins",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-294",
+     "prompt": "Which wind belt blows from the west in mid-latitudes?",
+     "choices": [
+      "Trade winds",
+      "Westerlies",
+      "Doldrums",
+      "Polar easterlies"
+     ],
+     "answer": "Westerlies",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-064",
+     "prompt": "Which instrument measures humidity?",
+     "choices": [
+      "Barometer",
+      "Anemometer",
+      "Altimeter",
+      "Hygrometer"
+     ],
+     "answer": "Hygrometer",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-105",
+     "prompt": "Which tropical zone near the equator is known for calm winds and rain?",
+     "choices": [
+      "Doldrums",
+      "Prairies",
+      "Steppes",
+      "Taiga"
+     ],
+     "answer": "Doldrums",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-292",
+     "prompt": "The Stoics taught that the chief good is what?",
+     "choices": [
+      "Virtue",
+      "Wealth",
+      "Fame",
+      "Pleasure"
+     ],
+     "answer": "Virtue",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-264",
+     "prompt": "All men are mortal; Socrates is a man; so he is mortal. This is a what?",
+     "choices": [
+      "Syllogism",
+      "Paradox",
+      "Dilemma",
+      "Axiom"
+     ],
+     "answer": "Syllogism",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-242",
+     "prompt": "Platonic love is named after which philosopher?",
+     "choices": [
+      "Plato",
+      "Socrates",
+      "Aristotle",
+      "Homer"
+     ],
+     "answer": "Plato",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 71,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-222",
+     "prompt": "8 × 6 − 5",
+     "answer": 43,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-073",
+     "prompt": "11 × 12 + 6 × 4",
+     "answer": 156,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-226",
+     "prompt": "10 × 6 + 6 × 4",
+     "answer": 84,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-150",
+     "prompt": "In which year did the Titanic sink?",
+     "choices": [
+      "1905",
+      "1912",
+      "1921",
+      "1898"
+     ],
+     "answer": "1912",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-190",
+     "prompt": "Which leader walked to the sea in the 1930 Salt March?",
+     "choices": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Muhammad Ali Jinnah"
+     ],
+     "answer": "Mahatma Gandhi",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-051",
+     "prompt": "Who was crowned Emperor of the Romans on Christmas Day in 800?",
+     "choices": [
+      "Clovis",
+      "Otto I",
+      "Charlemagne",
+      "Charles Martel"
+     ],
+     "answer": "Charlemagne",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-265",
+     "prompt": "On which London street does Sherlock Holmes live?",
+     "choices": [
+      "Baker Street",
+      "Downing Street",
+      "Fleet Street",
+      "Oxford Street"
+     ],
+     "answer": "Baker Street",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-268",
+     "prompt": "Which Dr. Seuss character tries to steal Christmas?",
+     "choices": [
+      "Sam-I-Am",
+      "The Grinch",
+      "The Lorax",
+      "Horton"
+     ],
+     "answer": "The Grinch",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-094",
+     "prompt": "Who creates the creature in Frankenstein?",
+     "choices": [
+      "Victor Frankenstein",
+      "Henry Clerval",
+      "Robert Walton",
+      "Alphonse Frankenstein"
+     ],
+     "answer": "Victor Frankenstein",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-182",
+     "prompt": "Which line of latitude is at 0 degrees?",
+     "choices": [
+      "Prime Meridian",
+      "Equator",
+      "Tropic of Cancer",
+      "Arctic Circle"
+     ],
+     "answer": "Equator",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-300",
+     "prompt": "What is the term for rain that has become acidic from pollution?",
+     "choices": [
+      "Hail",
+      "Dew",
+      "Mist",
+      "Acid rain"
+     ],
+     "answer": "Acid rain",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-115",
+     "prompt": "The deepest known part of the ocean is in which trench?",
+     "choices": [
+      "Puerto Rico Trench",
+      "Java Trench",
+      "Mariana Trench",
+      "Peru-Chile Trench"
+     ],
+     "answer": "Mariana Trench",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-081",
+     "prompt": "Who wrote the Ethics, set out in geometric style?",
+     "choices": [
+      "Spinoza",
+      "Leibniz",
+      "Descartes",
+      "Hobbes"
+     ],
+     "answer": "Spinoza",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-130",
+     "prompt": "Who co-wrote Principia Mathematica with Alfred North Whitehead?",
+     "choices": [
+      "Bertrand Russell",
+      "G. E. Moore",
+      "Wittgenstein",
+      "Gottlob Frege"
+     ],
+     "answer": "Bertrand Russell",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-284",
+     "prompt": "In Plato's Timaeus, what is the divine craftsman called?",
+     "choices": [
+      "The Demiurge",
+      "The Unmoved Mover",
+      "The One",
+      "The Logos"
+     ],
+     "answer": "The Demiurge",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

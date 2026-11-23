@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 64,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-238",
+     "prompt": "12 × 11 + 8 × 5",
+     "answer": 172,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-062",
+     "prompt": "277 − 35",
+     "answer": 242,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-193",
+     "prompt": "6 × 12",
+     "answer": 72,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-179",
+     "prompt": "Who founded the Tokugawa shogunate in 1603?",
+     "choices": [
+      "Oda Nobunaga",
+      "Toyotomi Hideyoshi",
+      "Tokugawa Ieyasu",
+      "Minamoto Yoritomo"
+     ],
+     "answer": "Tokugawa Ieyasu",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-168",
+     "prompt": "Which Greek writer is often called the Father of History?",
+     "choices": [
+      "Homer",
+      "Aristotle",
+      "Euclid",
+      "Herodotus"
+     ],
+     "answer": "Herodotus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-235",
+     "prompt": "The capital of the United States is named after which president?",
+     "choices": [
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "George Washington",
+      "John Adams"
+     ],
+     "answer": "George Washington",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-036",
+     "prompt": "Who wrote Peter Pan?",
+     "choices": [
+      "J. M. Barrie",
+      "Kenneth Grahame",
+      "A. A. Milne",
+      "Lewis Carroll"
+     ],
+     "answer": "J. M. Barrie",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-086",
+     "prompt": "In The Hobbit, what is the name of the dragon?",
+     "choices": [
+      "Ancalagon",
+      "Smaug",
+      "Glaurung",
+      "Drogon"
+     ],
+     "answer": "Smaug",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-157",
+     "prompt": "The hero of the Aeneid escapes which burning city?",
+     "choices": [
+      "Thebes",
+      "Sparta",
+      "Troy",
+      "Carthage"
+     ],
+     "answer": "Troy",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-165",
+     "prompt": "The \"Cambrian explosion\" was a burst of what?",
+     "choices": [
+      "Animal diversity",
+      "Volcano eruptions",
+      "Ice growth",
+      "Mountain building"
+     ],
+     "answer": "Animal diversity",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-213",
+     "prompt": "Stegosaurus and Brachiosaurus lived mostly in which period?",
+     "choices": [
+      "Jurassic",
+      "Triassic",
+      "Cretaceous",
+      "Permian"
+     ],
+     "answer": "Jurassic",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-004",
+     "prompt": "Which mineral sits at 1 on the Mohs scale, the softest?",
+     "choices": [
+      "Gypsum",
+      "Calcite",
+      "Mica",
+      "Talc"
+     ],
+     "answer": "Talc",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-044",
+     "prompt": "Which Greek thinker described four kinds of cause, including a final cause?",
+     "choices": [
+      "Aristotle",
+      "Plato",
+      "Epicurus",
+      "Heraclitus"
+     ],
+     "answer": "Aristotle",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-279",
+     "prompt": "Which of these is a branch of philosophy?",
+     "choices": [
+      "Ethics",
+      "Botany",
+      "Geology",
+      "Chemistry"
+     ],
+     "answer": "Ethics",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-010",
+     "prompt": "Which Roman emperor wrote the Meditations?",
+     "choices": [
+      "Marcus Aurelius",
+      "Nero",
+      "Augustus",
+      "Hadrian"
+     ],
+     "answer": "Marcus Aurelius",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -8,7 +8,7 @@ export type { Flag, Submission };
 export type Pace = NonNullable<Submission['pace']>;
 export type DifficultyVote = NonNullable<Submission['difficulty']>;
 
-export const BUILD = 'alpha-0.2';
+export const BUILD = 'alpha-0.3';
 
 export function newId(): string {
   try {
@@ -56,6 +56,7 @@ export function buildSubmission(opts: {
     submissionId: opts.submissionId,
     clientId: clientId(),
     build: BUILD,
+    level: round.level,
     round: round.number,
     settings: { ...opts.params },
     run: {

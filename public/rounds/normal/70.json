@@ -1,0 +1,193 @@
+{
+ "level": "normal",
+ "number": 70,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-137",
+     "prompt": "63 ÷ 9",
+     "answer": 7,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-161",
+     "prompt": "10 × 10 − 12",
+     "answer": 88,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-203",
+     "prompt": "135 ÷ 9 + 4",
+     "answer": 19,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-159",
+     "prompt": "Which pharaoh had the temples of Abu Simbel carved?",
+     "choices": [
+      "Khufu",
+      "Thutmose III",
+      "Ramses II",
+      "Tutankhamun"
+     ],
+     "answer": "Ramses II",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-217",
+     "prompt": "Who was the last tsar of Russia?",
+     "choices": [
+      "Nicholas II",
+      "Peter the Great",
+      "Alexander III",
+      "Ivan the Terrible"
+     ],
+     "answer": "Nicholas II",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-293",
+     "prompt": "Which American developed the telegraph code of dots and dashes?",
+     "choices": [
+      "Samuel Morse",
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Eli Whitney"
+     ],
+     "answer": "Samuel Morse",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-001",
+     "prompt": "Who wrote Moby-Dick?",
+     "choices": [
+      "Mark Twain",
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "Edgar Allan Poe"
+     ],
+     "answer": "Herman Melville",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-245",
+     "prompt": "Which Tang dynasty poet is nicknamed the \"Poet Immortal\"?",
+     "choices": [
+      "Li Bai",
+      "Du Fu",
+      "Bai Juyi",
+      "Wang Wei"
+     ],
+     "answer": "Li Bai",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-130",
+     "prompt": "Who wrote the children's poetry book Where the Sidewalk Ends?",
+     "choices": [
+      "Shel Silverstein",
+      "Roald Dahl",
+      "Jack Prelutsky",
+      "Dr. Seuss"
+     ],
+     "answer": "Shel Silverstein",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-283",
+     "prompt": "Which type of cone is steep and built from loose cinders?",
+     "choices": [
+      "Shield volcano",
+      "Caldera",
+      "Cinder cone",
+      "Hot spring"
+     ],
+     "answer": "Cinder cone",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-112",
+     "prompt": "Which is the largest ocean?",
+     "choices": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+     ],
+     "answer": "Pacific",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-275",
+     "prompt": "Which mineral is used to make plaster of Paris and drywall?",
+     "choices": [
+      "Quartz",
+      "Mica",
+      "Gypsum",
+      "Halite"
+     ],
+     "answer": "Gypsum",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-144",
+     "prompt": "Which ethicist wrote Animal Liberation?",
+     "choices": [
+      "Peter Singer",
+      "John Rawls",
+      "Derek Parfit",
+      "Robert Nozick"
+     ],
+     "answer": "Peter Singer",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-076",
+     "prompt": "Who wrote The Prince?",
+     "choices": [
+      "Machiavelli",
+      "Hobbes",
+      "Erasmus",
+      "Dante"
+     ],
+     "answer": "Machiavelli",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-011",
+     "prompt": "The Stoic Epictetus began life as what?",
+     "choices": [
+      "A slave",
+      "A senator",
+      "A soldier",
+      "A merchant"
+     ],
+     "answer": "A slave",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}
