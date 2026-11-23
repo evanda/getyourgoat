@@ -1,0 +1,10 @@
+{
+ "earth-082": {
+  "decision": "keep",
+  "reason": "Checker agreed on Hail; reworded premise (frozen raindrops = sleet)."
+ },
+ "earth-114": {
+  "decision": "keep",
+  "reason": "Pacific mean depth (~4,000 m) exceeds Indian; checker agreed, medium confidence."
+ }
+}

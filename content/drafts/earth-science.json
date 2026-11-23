@@ -1,0 +1,3902 @@
+[
+ {
+  "id": "earth-001",
+  "prompt": "Sandstone and limestone belong to which rock group?",
+  "choices": [
+   "Sedimentary",
+   "Igneous",
+   "Metamorphic",
+   "Plutonic"
+  ],
+  "answer": "Sedimentary",
+  "difficulty": "easy",
+  "topic": "sedimentary examples"
+ },
+ {
+  "id": "earth-002",
+  "prompt": "Marble is formed when which rock is metamorphosed?",
+  "choices": [
+   "Sandstone",
+   "Limestone",
+   "Granite",
+   "Shale"
+  ],
+  "answer": "Limestone",
+  "difficulty": "easy",
+  "topic": "marble parent rock"
+ },
+ {
+  "id": "earth-003",
+  "prompt": "Which natural mineral is the hardest on the Mohs scale?",
+  "choices": [
+   "Quartz",
+   "Corundum",
+   "Diamond",
+   "Topaz"
+  ],
+  "answer": "Diamond",
+  "difficulty": "easy",
+  "topic": "hardest mineral"
+ },
+ {
+  "id": "earth-004",
+  "prompt": "Which mineral sits at 1 on the Mohs scale, the softest?",
+  "choices": [
+   "Gypsum",
+   "Calcite",
+   "Mica",
+   "Talc"
+  ],
+  "answer": "Talc",
+  "difficulty": "medium",
+  "topic": "mohs 1 talc"
+ },
+ {
+  "id": "earth-005",
+  "prompt": "What is the Mohs hardness of quartz?",
+  "choices": [
+   "7",
+   "5",
+   "9",
+   "3"
+  ],
+  "answer": "7",
+  "difficulty": "medium",
+  "topic": "mohs quartz number"
+ },
+ {
+  "id": "earth-006",
+  "prompt": "Which mineral is 2 on the Mohs scale?",
+  "choices": [
+   "Calcite",
+   "Gypsum",
+   "Fluorite",
+   "Apatite"
+  ],
+  "answer": "Gypsum",
+  "difficulty": "hard",
+  "topic": "mohs 2 gypsum"
+ },
+ {
+  "id": "earth-007",
+  "prompt": "Slate is a metamorphic rock that forms from which rock?",
+  "choices": [
+   "Sandstone",
+   "Basalt",
+   "Shale",
+   "Limestone"
+  ],
+  "answer": "Shale",
+  "difficulty": "medium",
+  "topic": "slate parent rock"
+ },
+ {
+  "id": "earth-008",
+  "prompt": "Obsidian is a glassy rock made from rapidly cooled what?",
+  "choices": [
+   "Sand",
+   "Limestone mud",
+   "Coral",
+   "Lava"
+  ],
+  "answer": "Lava",
+  "difficulty": "medium",
+  "topic": "obsidian origin"
+ },
+ {
+  "id": "earth-009",
+  "prompt": "Pumice can float on water because it is full of what?",
+  "choices": [
+   "Gas bubbles",
+   "Salt crystals",
+   "Iron",
+   "Clay"
+  ],
+  "answer": "Gas bubbles",
+  "difficulty": "medium",
+  "topic": "pumice floats"
+ },
+ {
+  "id": "earth-010",
+  "prompt": "Which common rock is made mostly of calcium carbonate?",
+  "choices": [
+   "Basalt",
+   "Limestone",
+   "Granite",
+   "Slate"
+  ],
+  "answer": "Limestone",
+  "difficulty": "easy",
+  "topic": "limestone composition"
+ },
+ {
+  "id": "earth-011",
+  "prompt": "Which mineral group is the most abundant in Earth's crust?",
+  "choices": [
+   "Quartz",
+   "Mica",
+   "Feldspar",
+   "Olivine"
+  ],
+  "answer": "Feldspar",
+  "difficulty": "hard",
+  "topic": "crust mineral group"
+ },
+ {
+  "id": "earth-012",
+  "prompt": "The process that turns loose sediment into solid rock is called what?",
+  "choices": [
+   "Erosion",
+   "Weathering",
+   "Subduction",
+   "Lithification"
+  ],
+  "answer": "Lithification",
+  "difficulty": "medium",
+  "topic": "lithification"
+ },
+ {
+  "id": "earth-013",
+  "prompt": "Table salt occurs in nature as which mineral?",
+  "choices": [
+   "Halite",
+   "Gypsum",
+   "Calcite",
+   "Pyrite"
+  ],
+  "answer": "Halite",
+  "difficulty": "medium",
+  "topic": "halite"
+ },
+ {
+  "id": "earth-014",
+  "prompt": "Which shiny mineral is nicknamed \"fool's gold\"?",
+  "choices": [
+   "Galena",
+   "Pyrite",
+   "Hematite",
+   "Quartz"
+  ],
+  "answer": "Pyrite",
+  "difficulty": "easy",
+  "topic": "fools gold"
+ },
+ {
+  "id": "earth-015",
+  "prompt": "Which red gem is a variety of the mineral corundum?",
+  "choices": [
+   "Emerald",
+   "Topaz",
+   "Ruby",
+   "Garnet"
+  ],
+  "answer": "Ruby",
+  "difficulty": "medium",
+  "topic": "ruby corundum"
+ },
+ {
+  "id": "earth-016",
+  "prompt": "Emerald is a green variety of which mineral?",
+  "choices": [
+   "Corundum",
+   "Quartz",
+   "Garnet",
+   "Beryl"
+  ],
+  "answer": "Beryl",
+  "difficulty": "hard",
+  "topic": "emerald beryl"
+ },
+ {
+  "id": "earth-017",
+  "prompt": "Diamonds are made of which element?",
+  "choices": [
+   "Carbon",
+   "Silicon",
+   "Sulfur",
+   "Iron"
+  ],
+  "answer": "Carbon",
+  "difficulty": "easy",
+  "topic": "diamond element"
+ },
+ {
+  "id": "earth-018",
+  "prompt": "Pencil \"lead\" is actually made of which mineral?",
+  "choices": [
+   "Talc",
+   "Graphite",
+   "Mica",
+   "Quartz"
+  ],
+  "answer": "Graphite",
+  "difficulty": "easy",
+  "topic": "pencil graphite"
+ },
+ {
+  "id": "earth-019",
+  "prompt": "Who proposed the idea of continental drift in 1912?",
+  "choices": [
+   "Charles Darwin",
+   "Charles Lyell",
+   "Alfred Wegener",
+   "James Hutton"
+  ],
+  "answer": "Alfred Wegener",
+  "difficulty": "medium",
+  "topic": "continental drift proposer"
+ },
+ {
+  "id": "earth-020",
+  "prompt": "What name is given to the giant supercontinent that began breaking up about 200 million years ago?",
+  "choices": [
+   "Atlantis",
+   "Lemuria",
+   "Oceania",
+   "Pangaea"
+  ],
+  "answer": "Pangaea",
+  "difficulty": "easy",
+  "topic": "pangaea"
+ },
+ {
+  "id": "earth-021",
+  "prompt": "At which kind of plate boundary do plates move apart?",
+  "choices": [
+   "Divergent",
+   "Convergent",
+   "Transform",
+   "Subducting"
+  ],
+  "answer": "Divergent",
+  "difficulty": "medium",
+  "topic": "divergent boundary"
+ },
+ {
+  "id": "earth-022",
+  "prompt": "The San Andreas Fault is which kind of plate boundary?",
+  "choices": [
+   "Divergent",
+   "Transform",
+   "Convergent",
+   "Hotspot"
+  ],
+  "answer": "Transform",
+  "difficulty": "medium",
+  "topic": "san andreas boundary type"
+ },
+ {
+  "id": "earth-023",
+  "prompt": "The Himalayas rose from the collision of which two plates?",
+  "choices": [
+   "African and Eurasian",
+   "Pacific and Indian",
+   "Indian and Eurasian",
+   "Nazca and Pacific"
+  ],
+  "answer": "Indian and Eurasian",
+  "difficulty": "medium",
+  "topic": "himalaya plates"
+ },
+ {
+  "id": "earth-024",
+  "prompt": "The \"Ring of Fire\" circles which ocean?",
+  "choices": [
+   "Atlantic",
+   "Indian",
+   "Arctic",
+   "Pacific"
+  ],
+  "answer": "Pacific",
+  "difficulty": "easy",
+  "topic": "ring of fire ocean"
+ },
+ {
+  "id": "earth-025",
+  "prompt": "In subduction, one tectonic plate does what?",
+  "choices": [
+   "Sinks beneath another",
+   "Splits in half",
+   "Melts into the ocean",
+   "Rises over a hotspot"
+  ],
+  "answer": "Sinks beneath another",
+  "difficulty": "medium",
+  "topic": "subduction meaning"
+ },
+ {
+  "id": "earth-026",
+  "prompt": "The Hawaiian Islands formed as a plate moved over a what?",
+  "choices": [
+   "Rift valley",
+   "Hotspot",
+   "Trench",
+   "Transform fault"
+  ],
+  "answer": "Hotspot",
+  "difficulty": "medium",
+  "topic": "hawaii hotspot"
+ },
+ {
+  "id": "earth-027",
+  "prompt": "Earth's crust is thinnest beneath which feature?",
+  "choices": [
+   "Mountain ranges",
+   "Deserts",
+   "Oceans",
+   "Plateaus"
+  ],
+  "answer": "Oceans",
+  "difficulty": "medium",
+  "topic": "crust thinnest"
+ },
+ {
+  "id": "earth-028",
+  "prompt": "Earth's inner core is mostly in which state of matter?",
+  "choices": [
+   "Liquid",
+   "Gas",
+   "Plasma",
+   "Solid"
+  ],
+  "answer": "Solid",
+  "difficulty": "medium",
+  "topic": "inner core state"
+ },
+ {
+  "id": "earth-029",
+  "prompt": "Which layer of Earth is liquid metal and generates the magnetic field?",
+  "choices": [
+   "Outer core",
+   "Inner core",
+   "Mantle",
+   "Crust"
+  ],
+  "answer": "Outer core",
+  "difficulty": "medium",
+  "topic": "outer core liquid"
+ },
+ {
+  "id": "earth-030",
+  "prompt": "Earth's core is made mostly of which two metals?",
+  "choices": [
+   "Copper and tin",
+   "Iron and nickel",
+   "Gold and silver",
+   "Lead and zinc"
+  ],
+  "answer": "Iron and nickel",
+  "difficulty": "easy",
+  "topic": "core composition"
+ },
+ {
+  "id": "earth-031",
+  "prompt": "About how old is Earth?",
+  "choices": [
+   "450 million years",
+   "45 million years",
+   "4.5 billion years",
+   "14 billion years"
+  ],
+  "answer": "4.5 billion years",
+  "difficulty": "easy",
+  "topic": "earth age"
+ },
+ {
+  "id": "earth-032",
+  "prompt": "Which element is the most abundant in Earth's crust?",
+  "choices": [
+   "Silicon",
+   "Aluminum",
+   "Iron",
+   "Oxygen"
+  ],
+  "answer": "Oxygen",
+  "difficulty": "medium",
+  "topic": "crust top element"
+ },
+ {
+  "id": "earth-033",
+  "prompt": "Which earthquake wave arrives first at a seismograph?",
+  "choices": [
+   "P wave",
+   "S wave",
+   "Surface wave",
+   "Love wave"
+  ],
+  "answer": "P wave",
+  "difficulty": "medium",
+  "topic": "p wave first"
+ },
+ {
+  "id": "earth-034",
+  "prompt": "Which instrument records the shaking of earthquakes?",
+  "choices": [
+   "Barometer",
+   "Seismograph",
+   "Anemometer",
+   "Hygrometer"
+  ],
+  "answer": "Seismograph",
+  "difficulty": "easy",
+  "topic": "seismograph"
+ },
+ {
+  "id": "earth-035",
+  "prompt": "The point on the surface directly above a quake's origin is called the what?",
+  "choices": [
+   "Fault line",
+   "Aftershock",
+   "Epicenter",
+   "Rift"
+  ],
+  "answer": "Epicenter",
+  "difficulty": "easy",
+  "topic": "epicenter"
+ },
+ {
+  "id": "earth-036",
+  "prompt": "Each whole step up in earthquake magnitude means ground motion about how many times larger?",
+  "choices": [
+   "2",
+   "5",
+   "100",
+   "10"
+  ],
+  "answer": "10",
+  "difficulty": "medium",
+  "topic": "magnitude step"
+ },
+ {
+  "id": "earth-037",
+  "prompt": "S waves from earthquakes cannot travel through which?",
+  "choices": [
+   "Liquids",
+   "Dense rock",
+   "Granite",
+   "Ice"
+  ],
+  "answer": "Liquids",
+  "difficulty": "hard",
+  "topic": "s waves liquid"
+ },
+ {
+  "id": "earth-038",
+  "prompt": "Mauna Loa is which kind of volcano?",
+  "choices": [
+   "Stratovolcano",
+   "Shield",
+   "Cinder cone",
+   "Lava dome"
+  ],
+  "answer": "Shield",
+  "difficulty": "medium",
+  "topic": "mauna loa type"
+ },
+ {
+  "id": "earth-039",
+  "prompt": "Which volcano in Washington State erupted violently in 1980?",
+  "choices": [
+   "Mount Rainier",
+   "Mount Hood",
+   "Mount St. Helens",
+   "Mount Baker"
+  ],
+  "answer": "Mount St. Helens",
+  "difficulty": "easy",
+  "topic": "st helens"
+ },
+ {
+  "id": "earth-040",
+  "prompt": "In which country is Mount Vesuvius?",
+  "choices": [
+   "Greece",
+   "Spain",
+   "Turkey",
+   "Italy"
+  ],
+  "answer": "Italy",
+  "difficulty": "easy",
+  "topic": "vesuvius country"
+ },
+ {
+  "id": "earth-041",
+  "prompt": "Molten rock that has reached Earth's surface is called what?",
+  "choices": [
+   "Lava",
+   "Magma",
+   "Basalt",
+   "Ash"
+  ],
+  "answer": "Lava",
+  "difficulty": "easy",
+  "topic": "lava vs magma"
+ },
+ {
+  "id": "earth-042",
+  "prompt": "Old Faithful geyser is in which national park?",
+  "choices": [
+   "Yosemite",
+   "Yellowstone",
+   "Glacier",
+   "Zion"
+  ],
+  "answer": "Yellowstone",
+  "difficulty": "easy",
+  "topic": "old faithful park"
+ },
+ {
+  "id": "earth-043",
+  "prompt": "Which mountain has the highest peak above sea level?",
+  "choices": [
+   "K2",
+   "Kilimanjaro",
+   "Mount Everest",
+   "Denali"
+  ],
+  "answer": "Mount Everest",
+  "difficulty": "easy",
+  "topic": "highest mountain"
+ },
+ {
+  "id": "earth-044",
+  "prompt": "Measured from its base on the seafloor, which mountain is tallest?",
+  "choices": [
+   "Mount Everest",
+   "Denali",
+   "Mount Fuji",
+   "Mauna Kea"
+  ],
+  "answer": "Mauna Kea",
+  "difficulty": "hard",
+  "topic": "tallest base to peak"
+ },
+ {
+  "id": "earth-045",
+  "prompt": "Which peak is the highest in North America?",
+  "choices": [
+   "Denali",
+   "Mount Logan",
+   "Mount Whitney",
+   "Pikes Peak"
+  ],
+  "answer": "Denali",
+  "difficulty": "easy",
+  "topic": "highest north america"
+ },
+ {
+  "id": "earth-046",
+  "prompt": "The 1883 eruption of Krakatoa took place in which country?",
+  "choices": [
+   "Japan",
+   "Indonesia",
+   "Philippines",
+   "Chile"
+  ],
+  "answer": "Indonesia",
+  "difficulty": "medium",
+  "topic": "krakatoa country"
+ },
+ {
+  "id": "earth-047",
+  "prompt": "A volcano that has been quiet for a long time but could erupt again is called what?",
+  "choices": [
+   "Extinct",
+   "Active",
+   "Dormant",
+   "Shield"
+  ],
+  "answer": "Dormant",
+  "difficulty": "medium",
+  "topic": "dormant volcano"
+ },
+ {
+  "id": "earth-048",
+  "prompt": "The long cracks where blocks of rock slip past each other are called what?",
+  "choices": [
+   "Dunes",
+   "Deltas",
+   "Moraines",
+   "Faults"
+  ],
+  "answer": "Faults",
+  "difficulty": "easy",
+  "topic": "faults"
+ },
+ {
+  "id": "earth-049",
+  "prompt": "Which rock is formed by heat and pressure changing an existing rock?",
+  "choices": [
+   "Metamorphic",
+   "Sedimentary",
+   "Igneous",
+   "Organic"
+  ],
+  "answer": "Metamorphic",
+  "difficulty": "easy",
+  "topic": "metamorphic definition"
+ },
+ {
+  "id": "earth-050",
+  "prompt": "Which tough mineral is the main part of beach sand?",
+  "choices": [
+   "Talc",
+   "Quartz",
+   "Gypsum",
+   "Halite"
+  ],
+  "answer": "Quartz",
+  "difficulty": "easy",
+  "topic": "sand mineral"
+ },
+ {
+  "id": "earth-051",
+  "prompt": "Fossils are most often found in which rock group?",
+  "choices": [
+   "Igneous",
+   "Metamorphic",
+   "Sedimentary",
+   "Volcanic"
+  ],
+  "answer": "Sedimentary",
+  "difficulty": "easy",
+  "topic": "fossils rock type"
+ },
+ {
+  "id": "earth-052",
+  "prompt": "Which dark volcanic rock makes up most of the ocean floor?",
+  "choices": [
+   "Granite",
+   "Marble",
+   "Quartzite",
+   "Basalt"
+  ],
+  "answer": "Basalt",
+  "difficulty": "medium",
+  "topic": "oceanic crust basalt"
+ },
+ {
+  "id": "earth-053",
+  "prompt": "Which rock is a coarse-grained light-colored rock common in continents?",
+  "choices": [
+   "Granite",
+   "Basalt",
+   "Obsidian",
+   "Pumice"
+  ],
+  "answer": "Granite",
+  "difficulty": "medium",
+  "topic": "granite continents"
+ },
+ {
+  "id": "earth-054",
+  "prompt": "Coal is classed as which type of rock?",
+  "choices": [
+   "Igneous",
+   "Sedimentary",
+   "Metamorphic",
+   "Volcanic"
+  ],
+  "answer": "Sedimentary",
+  "difficulty": "medium",
+  "topic": "coal rock type"
+ },
+ {
+  "id": "earth-055",
+  "prompt": "Which metal ore mineral is the main source of lead?",
+  "choices": [
+   "Bauxite",
+   "Hematite",
+   "Galena",
+   "Cinnabar"
+  ],
+  "answer": "Galena",
+  "difficulty": "hard",
+  "topic": "galena lead"
+ },
+ {
+  "id": "earth-056",
+  "prompt": "Which mineral is the main ore of aluminum?",
+  "choices": [
+   "Hematite",
+   "Galena",
+   "Halite",
+   "Bauxite"
+  ],
+  "answer": "Bauxite",
+  "difficulty": "hard",
+  "topic": "bauxite aluminum"
+ },
+ {
+  "id": "earth-057",
+  "prompt": "Which layer of the atmosphere do we live in and where weather happens?",
+  "choices": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "answer": "Troposphere",
+  "difficulty": "easy",
+  "topic": "weather layer"
+ },
+ {
+  "id": "earth-058",
+  "prompt": "The ozone layer lies mainly in which atmospheric layer?",
+  "choices": [
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere",
+   "Exosphere"
+  ],
+  "answer": "Stratosphere",
+  "difficulty": "medium",
+  "topic": "ozone layer location"
+ },
+ {
+  "id": "earth-059",
+  "prompt": "The ozone layer protects life by absorbing which kind of radiation?",
+  "choices": [
+   "Infrared",
+   "Radio waves",
+   "Ultraviolet",
+   "Microwaves"
+  ],
+  "answer": "Ultraviolet",
+  "difficulty": "easy",
+  "topic": "ozone absorbs uv"
+ },
+ {
+  "id": "earth-060",
+  "prompt": "Which gas is the second most abundant in dry air?",
+  "choices": [
+   "Argon",
+   "Carbon dioxide",
+   "Hydrogen",
+   "Oxygen"
+  ],
+  "answer": "Oxygen",
+  "difficulty": "easy",
+  "topic": "second gas oxygen"
+ },
+ {
+  "id": "earth-061",
+  "prompt": "Which gas do plants take in that is a major greenhouse gas?",
+  "choices": [
+   "Carbon dioxide",
+   "Helium",
+   "Neon",
+   "Nitrogen"
+  ],
+  "answer": "Carbon dioxide",
+  "difficulty": "easy",
+  "topic": "co2 greenhouse"
+ },
+ {
+  "id": "earth-062",
+  "prompt": "Which instrument measures air pressure?",
+  "choices": [
+   "Thermometer",
+   "Barometer",
+   "Anemometer",
+   "Hygrometer"
+  ],
+  "answer": "Barometer",
+  "difficulty": "easy",
+  "topic": "barometer"
+ },
+ {
+  "id": "earth-063",
+  "prompt": "Which instrument measures wind speed?",
+  "choices": [
+   "Barometer",
+   "Hygrometer",
+   "Anemometer",
+   "Seismograph"
+  ],
+  "answer": "Anemometer",
+  "difficulty": "medium",
+  "topic": "anemometer"
+ },
+ {
+  "id": "earth-064",
+  "prompt": "Which instrument measures humidity?",
+  "choices": [
+   "Barometer",
+   "Anemometer",
+   "Altimeter",
+   "Hygrometer"
+  ],
+  "answer": "Hygrometer",
+  "difficulty": "hard",
+  "topic": "hygrometer"
+ },
+ {
+  "id": "earth-065",
+  "prompt": "Which type of cloud is tall, towering, and brings thunderstorms?",
+  "choices": [
+   "Cumulonimbus",
+   "Cirrus",
+   "Stratus",
+   "Altocumulus"
+  ],
+  "answer": "Cumulonimbus",
+  "difficulty": "easy",
+  "topic": "thunderstorm cloud"
+ },
+ {
+  "id": "earth-066",
+  "prompt": "Thin, wispy clouds high in the sky are called what?",
+  "choices": [
+   "Cumulus",
+   "Cirrus",
+   "Stratus",
+   "Nimbus"
+  ],
+  "answer": "Cirrus",
+  "difficulty": "easy",
+  "topic": "cirrus clouds"
+ },
+ {
+  "id": "earth-067",
+  "prompt": "Which cloud type looks like a flat gray blanket low in the sky?",
+  "choices": [
+   "Cirrus",
+   "Cumulonimbus",
+   "Stratus",
+   "Lenticular"
+  ],
+  "answer": "Stratus",
+  "difficulty": "medium",
+  "topic": "stratus clouds"
+ },
+ {
+  "id": "earth-068",
+  "prompt": "A rotating funnel of air that touches the ground is called what?",
+  "choices": [
+   "Monsoon",
+   "Blizzard",
+   "Front",
+   "Tornado"
+  ],
+  "answer": "Tornado",
+  "difficulty": "easy",
+  "topic": "tornado definition"
+ },
+ {
+  "id": "earth-069",
+  "prompt": "What is a tropical cyclone called in the Atlantic Ocean?",
+  "choices": [
+   "Hurricane",
+   "Typhoon",
+   "Monsoon",
+   "Cyclops"
+  ],
+  "answer": "Hurricane",
+  "difficulty": "easy",
+  "topic": "atlantic cyclone name"
+ },
+ {
+  "id": "earth-070",
+  "prompt": "What is a tropical cyclone called in the northwest Pacific?",
+  "choices": [
+   "Hurricane",
+   "Typhoon",
+   "Tornado",
+   "Squall"
+  ],
+  "answer": "Typhoon",
+  "difficulty": "medium",
+  "topic": "pacific typhoon"
+ },
+ {
+  "id": "earth-071",
+  "prompt": "The calm center of a hurricane is called what?",
+  "choices": [
+   "Core",
+   "Hub",
+   "Eye",
+   "Crown"
+  ],
+  "answer": "Eye",
+  "difficulty": "easy",
+  "topic": "hurricane eye"
+ },
+ {
+  "id": "earth-072",
+  "prompt": "Which scale rates hurricane strength from 1 to 5?",
+  "choices": [
+   "Richter",
+   "Beaufort",
+   "Mohs",
+   "Saffir-Simpson"
+  ],
+  "answer": "Saffir-Simpson",
+  "difficulty": "medium",
+  "topic": "hurricane scale"
+ },
+ {
+  "id": "earth-073",
+  "prompt": "Which scale rates tornadoes by damage?",
+  "choices": [
+   "Enhanced Fujita",
+   "Saffir-Simpson",
+   "Richter",
+   "Mercalli"
+  ],
+  "answer": "Enhanced Fujita",
+  "difficulty": "hard",
+  "topic": "tornado scale"
+ },
+ {
+  "id": "earth-074",
+  "prompt": "Which scale describes wind speed using observed effects, from calm to hurricane force?",
+  "choices": [
+   "Mohs",
+   "Beaufort",
+   "Kelvin",
+   "Richter"
+  ],
+  "answer": "Beaufort",
+  "difficulty": "medium",
+  "topic": "beaufort scale"
+ },
+ {
+  "id": "earth-075",
+  "prompt": "A boundary between two different air masses is called what?",
+  "choices": [
+   "Jet",
+   "Eddy",
+   "Front",
+   "Gyre"
+  ],
+  "answer": "Front",
+  "difficulty": "easy",
+  "topic": "weather front"
+ },
+ {
+  "id": "earth-076",
+  "prompt": "Air that is rising and cooling tends to form what?",
+  "choices": [
+   "Clear skies",
+   "Dust",
+   "Frost only",
+   "Clouds"
+  ],
+  "answer": "Clouds",
+  "difficulty": "easy",
+  "topic": "rising air clouds"
+ },
+ {
+  "id": "earth-077",
+  "prompt": "High-pressure systems generally bring what kind of weather?",
+  "choices": [
+   "Clear and calm",
+   "Heavy rain",
+   "Hurricanes",
+   "Thunderstorms"
+  ],
+  "answer": "Clear and calm",
+  "difficulty": "easy",
+  "topic": "high pressure weather"
+ },
+ {
+  "id": "earth-078",
+  "prompt": "Which fast ribbons of wind high in the atmosphere steer storms?",
+  "choices": [
+   "Trade winds",
+   "Jet streams",
+   "Sea breezes",
+   "Monsoons"
+  ],
+  "answer": "Jet streams",
+  "difficulty": "easy",
+  "topic": "jet stream"
+ },
+ {
+  "id": "earth-079",
+  "prompt": "In the Northern Hemisphere, winds are bent to the right by which effect?",
+  "choices": [
+   "Doppler effect",
+   "Greenhouse effect",
+   "Coriolis effect",
+   "Venturi effect"
+  ],
+  "answer": "Coriolis effect",
+  "difficulty": "medium",
+  "topic": "coriolis"
+ },
+ {
+  "id": "earth-080",
+  "prompt": "A seasonal wind shift bringing heavy rains to South Asia is called what?",
+  "choices": [
+   "Chinook",
+   "Sirocco",
+   "Doldrums",
+   "Monsoon"
+  ],
+  "answer": "Monsoon",
+  "difficulty": "easy",
+  "topic": "monsoon"
+ },
+ {
+  "id": "earth-081",
+  "prompt": "The warming of the atmosphere by trapped heat is called the what?",
+  "choices": [
+   "Greenhouse effect",
+   "Doppler effect",
+   "Coriolis effect",
+   "Tidal effect"
+  ],
+  "answer": "Greenhouse effect",
+  "difficulty": "easy",
+  "topic": "greenhouse effect"
+ },
+ {
+  "id": "earth-082",
+  "prompt": "Balls of ice that grow inside thunderstorm clouds are called what?",
+  "choices": [
+   "Dew",
+   "Hail",
+   "Frost",
+   "Mist"
+  ],
+  "answer": "Hail",
+  "difficulty": "easy",
+  "topic": "hail"
+ },
+ {
+  "id": "earth-083",
+  "prompt": "At what temperature in Celsius does pure water freeze at sea level?",
+  "choices": [
+   "10",
+   "32",
+   "0",
+   "20"
+  ],
+  "answer": "0",
+  "difficulty": "easy",
+  "topic": "freezing point celsius"
+ },
+ {
+  "id": "earth-084",
+  "prompt": "At what temperature in Celsius does pure water boil at sea level?",
+  "choices": [
+   "90",
+   "212",
+   "50",
+   "100"
+  ],
+  "answer": "100",
+  "difficulty": "easy",
+  "topic": "boiling point celsius"
+ },
+ {
+  "id": "earth-085",
+  "prompt": "The tiny particles that raindrops form around are called what?",
+  "choices": [
+   "Condensation nuclei",
+   "Ice sheets",
+   "Plasma cells",
+   "Spores"
+  ],
+  "answer": "Condensation nuclei",
+  "difficulty": "hard",
+  "topic": "condensation nuclei"
+ },
+ {
+  "id": "earth-086",
+  "prompt": "When water vapor turns into liquid water, it is called what?",
+  "choices": [
+   "Evaporation",
+   "Condensation",
+   "Sublimation",
+   "Transpiration"
+  ],
+  "answer": "Condensation",
+  "difficulty": "easy",
+  "topic": "condensation"
+ },
+ {
+  "id": "earth-087",
+  "prompt": "When liquid water turns into vapor, it is called what?",
+  "choices": [
+   "Condensation",
+   "Deposition",
+   "Evaporation",
+   "Freezing"
+  ],
+  "answer": "Evaporation",
+  "difficulty": "easy",
+  "topic": "evaporation"
+ },
+ {
+  "id": "earth-088",
+  "prompt": "When ice changes directly into water vapor, it is called what?",
+  "choices": [
+   "Condensation",
+   "Melting",
+   "Precipitation",
+   "Sublimation"
+  ],
+  "answer": "Sublimation",
+  "difficulty": "medium",
+  "topic": "sublimation"
+ },
+ {
+  "id": "earth-089",
+  "prompt": "Water released as vapor from plant leaves is called what?",
+  "choices": [
+   "Transpiration",
+   "Runoff",
+   "Infiltration",
+   "Erosion"
+  ],
+  "answer": "Transpiration",
+  "difficulty": "medium",
+  "topic": "transpiration"
+ },
+ {
+  "id": "earth-090",
+  "prompt": "Water soaking down into the ground is called what?",
+  "choices": [
+   "Runoff",
+   "Infiltration",
+   "Evaporation",
+   "Precipitation"
+  ],
+  "answer": "Infiltration",
+  "difficulty": "medium",
+  "topic": "infiltration"
+ },
+ {
+  "id": "earth-091",
+  "prompt": "Which drives the water cycle by heating oceans and lakes?",
+  "choices": [
+   "The Moon",
+   "Earth's core",
+   "The Sun",
+   "Wind alone"
+  ],
+  "answer": "The Sun",
+  "difficulty": "easy",
+  "topic": "water cycle energy"
+ },
+ {
+  "id": "earth-092",
+  "prompt": "Underground layers of rock that hold usable water are called what?",
+  "choices": [
+   "Moraines",
+   "Estuaries",
+   "Calderas",
+   "Aquifers"
+  ],
+  "answer": "Aquifers",
+  "difficulty": "medium",
+  "topic": "aquifer"
+ },
+ {
+  "id": "earth-093",
+  "prompt": "Which layer of the atmosphere is the coldest of all, near its top boundary?",
+  "choices": [
+   "Mesosphere",
+   "Troposphere",
+   "Stratosphere",
+   "Thermosphere"
+  ],
+  "answer": "Mesosphere",
+  "difficulty": "hard",
+  "topic": "coldest layer"
+ },
+ {
+  "id": "earth-094",
+  "prompt": "Auroras glow mostly in which atmospheric layer?",
+  "choices": [
+   "Troposphere",
+   "Thermosphere",
+   "Stratosphere",
+   "Mesosphere"
+  ],
+  "answer": "Thermosphere",
+  "difficulty": "hard",
+  "topic": "aurora layer"
+ },
+ {
+  "id": "earth-095",
+  "prompt": "Which natural light show glows near Earth's poles?",
+  "choices": [
+   "Rainbow",
+   "Eclipse",
+   "Aurora",
+   "Halo"
+  ],
+  "answer": "Aurora",
+  "difficulty": "easy",
+  "topic": "aurora name"
+ },
+ {
+  "id": "earth-096",
+  "prompt": "What causes the colors of a rainbow?",
+  "choices": [
+   "Dust in the clouds",
+   "Heat from lightning",
+   "Ocean reflections",
+   "Sunlight bending in raindrops"
+  ],
+  "answer": "Sunlight bending in raindrops",
+  "difficulty": "easy",
+  "topic": "rainbow cause"
+ },
+ {
+  "id": "earth-097",
+  "prompt": "The sky looks blue mostly because air scatters which light the most?",
+  "choices": [
+   "Blue",
+   "Red",
+   "Yellow",
+   "Green"
+  ],
+  "answer": "Blue",
+  "difficulty": "easy",
+  "topic": "blue sky scattering"
+ },
+ {
+  "id": "earth-098",
+  "prompt": "Sunsets look red mainly because sunlight passes through more what?",
+  "choices": [
+   "Ocean",
+   "Air",
+   "Ice",
+   "Rock"
+  ],
+  "answer": "Air",
+  "difficulty": "medium",
+  "topic": "red sunset"
+ },
+ {
+  "id": "earth-099",
+  "prompt": "What do meteorologists call the amount of water vapor in the air?",
+  "choices": [
+   "Pressure",
+   "Density",
+   "Humidity",
+   "Albedo"
+  ],
+  "answer": "Humidity",
+  "difficulty": "easy",
+  "topic": "humidity definition"
+ },
+ {
+  "id": "earth-100",
+  "prompt": "Fog is best described as what?",
+  "choices": [
+   "Smoke from fires",
+   "Frozen rain",
+   "Warm wind",
+   "A cloud at ground level"
+  ],
+  "answer": "A cloud at ground level",
+  "difficulty": "easy",
+  "topic": "fog definition"
+ },
+ {
+  "id": "earth-101",
+  "prompt": "Which type of storm is a long period of heavy snow with strong winds?",
+  "choices": [
+   "Blizzard",
+   "Derecho",
+   "Monsoon",
+   "Squall"
+  ],
+  "answer": "Blizzard",
+  "difficulty": "easy",
+  "topic": "blizzard"
+ },
+ {
+  "id": "earth-102",
+  "prompt": "Which protective layer is thinned over Antarctica, forming a \"hole\"?",
+  "choices": [
+   "Helium layer",
+   "Ozone layer",
+   "Methane layer",
+   "Nitrogen layer"
+  ],
+  "answer": "Ozone layer",
+  "difficulty": "medium",
+  "topic": "ozone hole"
+ },
+ {
+  "id": "earth-103",
+  "prompt": "Which desert in Chile is one of the driest places on Earth?",
+  "choices": [
+   "Sahara",
+   "Gobi",
+   "Atacama",
+   "Namib"
+  ],
+  "answer": "Atacama",
+  "difficulty": "medium",
+  "topic": "atacama"
+ },
+ {
+  "id": "earth-104",
+  "prompt": "Winds that blow steadily toward the equator in the tropics are called what?",
+  "choices": [
+   "Westerlies",
+   "Monsoons",
+   "Chinooks",
+   "Trade winds"
+  ],
+  "answer": "Trade winds",
+  "difficulty": "medium",
+  "topic": "trade winds"
+ },
+ {
+  "id": "earth-105",
+  "prompt": "Which tropical zone near the equator is known for calm winds and rain?",
+  "choices": [
+   "Doldrums",
+   "Prairies",
+   "Steppes",
+   "Taiga"
+  ],
+  "answer": "Doldrums",
+  "difficulty": "hard",
+  "topic": "doldrums"
+ },
+ {
+  "id": "earth-106",
+  "prompt": "Atmospheric pressure generally does what as you climb a mountain?",
+  "choices": [
+   "Increases",
+   "Decreases",
+   "Stays the same",
+   "Doubles"
+  ],
+  "answer": "Decreases",
+  "difficulty": "easy",
+  "topic": "pressure altitude"
+ },
+ {
+  "id": "earth-107",
+  "prompt": "Lightning heats air so fast it makes which sound?",
+  "choices": [
+   "Echo",
+   "Hiss",
+   "Thunder",
+   "Thump"
+  ],
+  "answer": "Thunder",
+  "difficulty": "easy",
+  "topic": "thunder cause"
+ },
+ {
+  "id": "earth-108",
+  "prompt": "Ozone molecules are made of which element?",
+  "choices": [
+   "Nitrogen",
+   "Hydrogen",
+   "Carbon",
+   "Oxygen"
+  ],
+  "answer": "Oxygen",
+  "difficulty": "medium",
+  "topic": "ozone made of"
+ },
+ {
+  "id": "earth-109",
+  "prompt": "Which desert covers much of northern Africa?",
+  "choices": [
+   "Sahara",
+   "Gobi",
+   "Mojave",
+   "Thar"
+  ],
+  "answer": "Sahara",
+  "difficulty": "easy",
+  "topic": "sahara desert"
+ },
+ {
+  "id": "earth-110",
+  "prompt": "Rain that freezes into small ice pellets while falling is called what?",
+  "choices": [
+   "Dew",
+   "Sleet",
+   "Fog",
+   "Mist"
+  ],
+  "answer": "Sleet",
+  "difficulty": "medium",
+  "topic": "sleet"
+ },
+ {
+  "id": "earth-111",
+  "prompt": "What percentage of Earth's surface is covered by oceans, roughly?",
+  "choices": [
+   "About 50 percent",
+   "About 90 percent",
+   "About 71 percent",
+   "About 30 percent"
+  ],
+  "answer": "About 71 percent",
+  "difficulty": "easy",
+  "topic": "ocean coverage"
+ },
+ {
+  "id": "earth-112",
+  "prompt": "Which is the largest ocean?",
+  "choices": [
+   "Atlantic",
+   "Indian",
+   "Arctic",
+   "Pacific"
+  ],
+  "answer": "Pacific",
+  "difficulty": "easy",
+  "topic": "largest ocean"
+ },
+ {
+  "id": "earth-113",
+  "prompt": "Which is the smallest ocean?",
+  "choices": [
+   "Arctic",
+   "Indian",
+   "Atlantic",
+   "Southern"
+  ],
+  "answer": "Arctic",
+  "difficulty": "medium",
+  "topic": "smallest ocean"
+ },
+ {
+  "id": "earth-114",
+  "prompt": "Which ocean basin is the deepest on average?",
+  "choices": [
+   "Atlantic",
+   "Pacific",
+   "Indian",
+   "Arctic"
+  ],
+  "answer": "Pacific",
+  "difficulty": "medium",
+  "topic": "deepest ocean avg"
+ },
+ {
+  "id": "earth-115",
+  "prompt": "The deepest known part of the ocean is in which trench?",
+  "choices": [
+   "Puerto Rico Trench",
+   "Java Trench",
+   "Mariana Trench",
+   "Peru-Chile Trench"
+  ],
+  "answer": "Mariana Trench",
+  "difficulty": "easy",
+  "topic": "deepest trench"
+ },
+ {
+  "id": "earth-116",
+  "prompt": "Which force is mainly responsible for ocean tides?",
+  "choices": [
+   "Wind",
+   "Earth's rotation alone",
+   "Ocean salt",
+   "The Moon's gravity"
+  ],
+  "answer": "The Moon's gravity",
+  "difficulty": "easy",
+  "topic": "tide cause"
+ },
+ {
+  "id": "earth-117",
+  "prompt": "Very high and very low tides called spring tides happen when the Sun, Earth, and Moon do what?",
+  "choices": [
+   "Line up",
+   "Form a right angle",
+   "Move apart",
+   "Switch places"
+  ],
+  "answer": "Line up",
+  "difficulty": "medium",
+  "topic": "spring tides"
+ },
+ {
+  "id": "earth-118",
+  "prompt": "Which dissolved substance makes seawater salty?",
+  "choices": [
+   "Calcium carbonate",
+   "Sodium chloride",
+   "Sulfur",
+   "Potassium nitrate"
+  ],
+  "answer": "Sodium chloride",
+  "difficulty": "medium",
+  "topic": "seawater salt"
+ },
+ {
+  "id": "earth-119",
+  "prompt": "Large circular ocean currents are called what?",
+  "choices": [
+   "Fronts",
+   "Geysers",
+   "Gyres",
+   "Deltas"
+  ],
+  "answer": "Gyres",
+  "difficulty": "medium",
+  "topic": "ocean gyres"
+ },
+ {
+  "id": "earth-120",
+  "prompt": "Which warm current flows north along the east coast of the United States?",
+  "choices": [
+   "Humboldt Current",
+   "Labrador Current",
+   "Canary Current",
+   "Gulf Stream"
+  ],
+  "answer": "Gulf Stream",
+  "difficulty": "medium",
+  "topic": "gulf stream"
+ },
+ {
+  "id": "earth-121",
+  "prompt": "A giant ocean wave caused by an underwater earthquake is called what?",
+  "choices": [
+   "Tsunami",
+   "Tidal bore",
+   "Swell",
+   "Rip current"
+  ],
+  "answer": "Tsunami",
+  "difficulty": "easy",
+  "topic": "tsunami"
+ },
+ {
+  "id": "earth-122",
+  "prompt": "Which region of the ocean floor is a flat, deep plain?",
+  "choices": [
+   "Continental shelf",
+   "Abyssal plain",
+   "Mid-ocean ridge",
+   "Trench"
+  ],
+  "answer": "Abyssal plain",
+  "difficulty": "hard",
+  "topic": "abyssal plain"
+ },
+ {
+  "id": "earth-123",
+  "prompt": "The gently sloping edge of a continent under shallow water is called what?",
+  "choices": [
+   "Abyssal plain",
+   "Trench",
+   "Continental shelf",
+   "Seamount"
+  ],
+  "answer": "Continental shelf",
+  "difficulty": "hard",
+  "topic": "continental shelf"
+ },
+ {
+  "id": "earth-124",
+  "prompt": "The Great Barrier Reef lies off the coast of which country?",
+  "choices": [
+   "Brazil",
+   "Indonesia",
+   "Mexico",
+   "Australia"
+  ],
+  "answer": "Australia",
+  "difficulty": "easy",
+  "topic": "great barrier reef"
+ },
+ {
+  "id": "earth-125",
+  "prompt": "Coral reefs are built mainly by tiny animals called what?",
+  "choices": [
+   "Coral polyps",
+   "Sponges",
+   "Jellyfish",
+   "Starfish"
+  ],
+  "answer": "Coral polyps",
+  "difficulty": "medium",
+  "topic": "coral builders"
+ },
+ {
+  "id": "earth-126",
+  "prompt": "Where a river meets the sea and fresh and salt water mix is called what?",
+  "choices": [
+   "Canyon",
+   "Estuary",
+   "Moraine",
+   "Plateau"
+  ],
+  "answer": "Estuary",
+  "difficulty": "medium",
+  "topic": "estuary"
+ },
+ {
+  "id": "earth-127",
+  "prompt": "A fan-shaped deposit of sediment at a river's mouth is called what?",
+  "choices": [
+   "Oxbow",
+   "Levee",
+   "Delta",
+   "Gorge"
+  ],
+  "answer": "Delta",
+  "difficulty": "easy",
+  "topic": "river delta"
+ },
+ {
+  "id": "earth-128",
+  "prompt": "A U-shaped bend that a river cuts off from its main channel forms a what?",
+  "choices": [
+   "Fjord",
+   "Atoll",
+   "Geyser",
+   "Oxbow lake"
+  ],
+  "answer": "Oxbow lake",
+  "difficulty": "hard",
+  "topic": "oxbow lake"
+ },
+ {
+  "id": "earth-129",
+  "prompt": "The region drained by a river and its tributaries is its what?",
+  "choices": [
+   "Watershed",
+   "Aquifer",
+   "Peninsula",
+   "Isthmus"
+  ],
+  "answer": "Watershed",
+  "difficulty": "medium",
+  "topic": "watershed"
+ },
+ {
+  "id": "earth-130",
+  "prompt": "Which river carries more water than any other in the world?",
+  "choices": [
+   "Nile",
+   "Amazon",
+   "Mississippi",
+   "Yangtze"
+  ],
+  "answer": "Amazon",
+  "difficulty": "easy",
+  "topic": "largest river by flow"
+ },
+ {
+  "id": "earth-131",
+  "prompt": "Which river flows through the Grand Canyon?",
+  "choices": [
+   "Mississippi",
+   "Columbia",
+   "Colorado",
+   "Rio Grande"
+  ],
+  "answer": "Colorado",
+  "difficulty": "easy",
+  "topic": "grand canyon river"
+ },
+ {
+  "id": "earth-132",
+  "prompt": "Which is the largest hot desert in the world?",
+  "choices": [
+   "Arabian",
+   "Kalahari",
+   "Sonoran",
+   "Sahara"
+  ],
+  "answer": "Sahara",
+  "difficulty": "medium",
+  "topic": "largest hot desert"
+ },
+ {
+  "id": "earth-133",
+  "prompt": "Which lake is the deepest in the world?",
+  "choices": [
+   "Lake Baikal",
+   "Lake Superior",
+   "Lake Tanganyika",
+   "Lake Victoria"
+  ],
+  "answer": "Lake Baikal",
+  "difficulty": "hard",
+  "topic": "deepest lake"
+ },
+ {
+  "id": "earth-134",
+  "prompt": "Which of the Great Lakes is largest by area?",
+  "choices": [
+   "Lake Erie",
+   "Lake Superior",
+   "Lake Ontario",
+   "Lake Michigan"
+  ],
+  "answer": "Lake Superior",
+  "difficulty": "medium",
+  "topic": "largest great lake"
+ },
+ {
+  "id": "earth-135",
+  "prompt": "Which continent has the most freshwater locked in ice?",
+  "choices": [
+   "Greenland",
+   "Asia",
+   "Antarctica",
+   "North America"
+  ],
+  "answer": "Antarctica",
+  "difficulty": "medium",
+  "topic": "antarctic ice"
+ },
+ {
+  "id": "earth-136",
+  "prompt": "Most of Earth's fresh water is stored in what form?",
+  "choices": [
+   "Rivers",
+   "Lakes",
+   "Clouds",
+   "Ice"
+  ],
+  "answer": "Ice",
+  "difficulty": "medium",
+  "topic": "fresh water storage"
+ },
+ {
+  "id": "earth-137",
+  "prompt": "A huge, slow-moving river of ice is called a what?",
+  "choices": [
+   "Glacier",
+   "Iceberg",
+   "Avalanche",
+   "Geyser"
+  ],
+  "answer": "Glacier",
+  "difficulty": "easy",
+  "topic": "glacier definition"
+ },
+ {
+  "id": "earth-138",
+  "prompt": "A glacier-carved valley with a U shape is formed by what?",
+  "choices": [
+   "Running river",
+   "Moving ice",
+   "Wind",
+   "Earthquakes"
+  ],
+  "answer": "Moving ice",
+  "difficulty": "medium",
+  "topic": "u shaped valley"
+ },
+ {
+  "id": "earth-139",
+  "prompt": "Piles of rock and debris left behind by a glacier are called what?",
+  "choices": [
+   "Dunes",
+   "Deltas",
+   "Moraines",
+   "Levees"
+  ],
+  "answer": "Moraines",
+  "difficulty": "medium",
+  "topic": "moraine"
+ },
+ {
+  "id": "earth-140",
+  "prompt": "A long, narrow, deep sea inlet carved by a glacier is called a what?",
+  "choices": [
+   "Atoll",
+   "Delta",
+   "Lagoon",
+   "Fjord"
+  ],
+  "answer": "Fjord",
+  "difficulty": "medium",
+  "topic": "fjord"
+ },
+ {
+  "id": "earth-141",
+  "prompt": "Which country is home to many famous fjords such as Geirangerfjord?",
+  "choices": [
+   "Norway",
+   "Spain",
+   "Egypt",
+   "Mexico"
+  ],
+  "answer": "Norway",
+  "difficulty": "medium",
+  "topic": "fjord country"
+ },
+ {
+  "id": "earth-142",
+  "prompt": "Which is the world's largest island?",
+  "choices": [
+   "Madagascar",
+   "Greenland",
+   "Borneo",
+   "New Guinea"
+  ],
+  "answer": "Greenland",
+  "difficulty": "medium",
+  "topic": "largest island"
+ },
+ {
+  "id": "earth-143",
+  "prompt": "What is the name for a floating chunk of ice broken from a glacier?",
+  "choices": [
+   "Floe",
+   "Slush",
+   "Iceberg",
+   "Moraine"
+  ],
+  "answer": "Iceberg",
+  "difficulty": "easy",
+  "topic": "iceberg"
+ },
+ {
+  "id": "earth-144",
+  "prompt": "Ice ages are also known by which term for repeated glacier growth?",
+  "choices": [
+   "Subduction",
+   "Erosion",
+   "Eruption",
+   "Glaciation"
+  ],
+  "answer": "Glaciation",
+  "difficulty": "hard",
+  "topic": "glaciation term"
+ },
+ {
+  "id": "earth-145",
+  "prompt": "Which type of soil layer is the dark, nutrient-rich top layer?",
+  "choices": [
+   "Topsoil",
+   "Bedrock",
+   "Subsoil",
+   "Parent rock"
+  ],
+  "answer": "Topsoil",
+  "difficulty": "easy",
+  "topic": "topsoil"
+ },
+ {
+  "id": "earth-146",
+  "prompt": "The solid rock layer beneath soil is called what?",
+  "choices": [
+   "Topsoil",
+   "Bedrock",
+   "Humus",
+   "Loam"
+  ],
+  "answer": "Bedrock",
+  "difficulty": "medium",
+  "topic": "bedrock"
+ },
+ {
+  "id": "earth-147",
+  "prompt": "Decayed plant and animal matter in soil is called what?",
+  "choices": [
+   "Gravel",
+   "Silt",
+   "Humus",
+   "Quartz"
+  ],
+  "answer": "Humus",
+  "difficulty": "medium",
+  "topic": "humus"
+ },
+ {
+  "id": "earth-148",
+  "prompt": "Which soil particles are the smallest?",
+  "choices": [
+   "Sand",
+   "Silt",
+   "Gravel",
+   "Clay"
+  ],
+  "answer": "Clay",
+  "difficulty": "medium",
+  "topic": "smallest soil particle"
+ },
+ {
+  "id": "earth-149",
+  "prompt": "A soil that is a balanced mix of sand, silt, and clay is called what?",
+  "choices": [
+   "Loam",
+   "Humus",
+   "Bedrock",
+   "Talus"
+  ],
+  "answer": "Loam",
+  "difficulty": "medium",
+  "topic": "loam soil"
+ },
+ {
+  "id": "earth-150",
+  "prompt": "Wearing down of rock by wind, water, or ice is called what?",
+  "choices": [
+   "Subduction",
+   "Weathering",
+   "Uplift",
+   "Lithification"
+  ],
+  "answer": "Weathering",
+  "difficulty": "easy",
+  "topic": "weathering definition"
+ },
+ {
+  "id": "earth-151",
+  "prompt": "Moving weathered material from one place to another is called what?",
+  "choices": [
+   "Compaction",
+   "Cementation",
+   "Erosion",
+   "Fusion"
+  ],
+  "answer": "Erosion",
+  "difficulty": "easy",
+  "topic": "erosion definition"
+ },
+ {
+  "id": "earth-152",
+  "prompt": "Freeze-thaw cracking of rock is an example of what kind of weathering?",
+  "choices": [
+   "Chemical",
+   "Biological",
+   "Nuclear",
+   "Physical"
+  ],
+  "answer": "Physical",
+  "difficulty": "medium",
+  "topic": "freeze thaw weathering"
+ },
+ {
+  "id": "earth-153",
+  "prompt": "Rainwater reacting with limestone can create what underground features?",
+  "choices": [
+   "Caves",
+   "Volcanoes",
+   "Geysers",
+   "Glaciers"
+  ],
+  "answer": "Caves",
+  "difficulty": "medium",
+  "topic": "karst caves"
+ },
+ {
+  "id": "earth-154",
+  "prompt": "Rolling hills of wind-blown sand are called what?",
+  "choices": [
+   "Moraines",
+   "Dunes",
+   "Deltas",
+   "Levees"
+  ],
+  "answer": "Dunes",
+  "difficulty": "easy",
+  "topic": "dunes"
+ },
+ {
+  "id": "earth-155",
+  "prompt": "Which landform is a flat-topped hill with steep sides in dry regions?",
+  "choices": [
+   "Delta",
+   "Fjord",
+   "Mesa",
+   "Atoll"
+  ],
+  "answer": "Mesa",
+  "difficulty": "medium",
+  "topic": "mesa"
+ },
+ {
+  "id": "earth-156",
+  "prompt": "A ring-shaped coral island surrounding a lagoon is called what?",
+  "choices": [
+   "Fjord",
+   "Delta",
+   "Peninsula",
+   "Atoll"
+  ],
+  "answer": "Atoll",
+  "difficulty": "medium",
+  "topic": "atoll"
+ },
+ {
+  "id": "earth-157",
+  "prompt": "Land surrounded by water on three sides is called what?",
+  "choices": [
+   "Peninsula",
+   "Island",
+   "Isthmus",
+   "Strait"
+  ],
+  "answer": "Peninsula",
+  "difficulty": "easy",
+  "topic": "peninsula"
+ },
+ {
+  "id": "earth-158",
+  "prompt": "A narrow strip of land linking two larger land areas is called what?",
+  "choices": [
+   "Strait",
+   "Isthmus",
+   "Gulf",
+   "Bay"
+  ],
+  "answer": "Isthmus",
+  "difficulty": "medium",
+  "topic": "isthmus"
+ },
+ {
+  "id": "earth-159",
+  "prompt": "Which formation grows upward from a cave floor?",
+  "choices": [
+   "Stalactite",
+   "Geode",
+   "Stalagmite",
+   "Crystal"
+  ],
+  "answer": "Stalagmite",
+  "difficulty": "medium",
+  "topic": "stalagmite"
+ },
+ {
+  "id": "earth-160",
+  "prompt": "Icicle-like mineral formations hanging from cave ceilings are called what?",
+  "choices": [
+   "Stalagmites",
+   "Geodes",
+   "Boulders",
+   "Stalactites"
+  ],
+  "answer": "Stalactites",
+  "difficulty": "easy",
+  "topic": "stalactites"
+ },
+ {
+  "id": "earth-161",
+  "prompt": "The age of the dinosaurs is called which era?",
+  "choices": [
+   "Mesozoic",
+   "Paleozoic",
+   "Cenozoic",
+   "Precambrian"
+  ],
+  "answer": "Mesozoic",
+  "difficulty": "easy",
+  "topic": "dinosaur era"
+ },
+ {
+  "id": "earth-162",
+  "prompt": "We are living in which geologic era?",
+  "choices": [
+   "Mesozoic",
+   "Cenozoic",
+   "Paleozoic",
+   "Archean"
+  ],
+  "answer": "Cenozoic",
+  "difficulty": "easy",
+  "topic": "current era cenozoic"
+ },
+ {
+  "id": "earth-163",
+  "prompt": "The Age of Fishes is the nickname of which period?",
+  "choices": [
+   "Jurassic",
+   "Permian",
+   "Devonian",
+   "Tertiary"
+  ],
+  "answer": "Devonian",
+  "difficulty": "hard",
+  "topic": "devonian fishes"
+ },
+ {
+  "id": "earth-164",
+  "prompt": "Coal swamps were widespread in which period?",
+  "choices": [
+   "Triassic",
+   "Cambrian",
+   "Ordovician",
+   "Carboniferous"
+  ],
+  "answer": "Carboniferous",
+  "difficulty": "hard",
+  "topic": "carboniferous coal"
+ },
+ {
+  "id": "earth-165",
+  "prompt": "The \"Cambrian explosion\" was a burst of what?",
+  "choices": [
+   "Animal diversity",
+   "Volcano eruptions",
+   "Ice growth",
+   "Mountain building"
+  ],
+  "answer": "Animal diversity",
+  "difficulty": "medium",
+  "topic": "cambrian explosion"
+ },
+ {
+  "id": "earth-166",
+  "prompt": "Which mass extinction is thought to have ended the non-bird dinosaurs?",
+  "choices": [
+   "Permian-Triassic",
+   "Cretaceous-Paleogene",
+   "Devonian",
+   "Ordovician"
+  ],
+  "answer": "Cretaceous-Paleogene",
+  "difficulty": "medium",
+  "topic": "dinosaur extinction"
+ },
+ {
+  "id": "earth-167",
+  "prompt": "Which extinction, about 252 million years ago, was the largest in Earth's history?",
+  "choices": [
+   "Cretaceous-Paleogene",
+   "Triassic-Jurassic",
+   "Permian-Triassic",
+   "Devonian"
+  ],
+  "answer": "Permian-Triassic",
+  "difficulty": "hard",
+  "topic": "great dying"
+ },
+ {
+  "id": "earth-168",
+  "prompt": "An asteroid impact near which modern country is linked to the dinosaur extinction?",
+  "choices": [
+   "Egypt",
+   "India",
+   "Canada",
+   "Mexico"
+  ],
+  "answer": "Mexico",
+  "difficulty": "medium",
+  "topic": "chicxulub location"
+ },
+ {
+  "id": "earth-169",
+  "prompt": "Trilobites were which kind of ancient animals?",
+  "choices": [
+   "Marine arthropods",
+   "Flying reptiles",
+   "Early mammals",
+   "Giant fish"
+  ],
+  "answer": "Marine arthropods",
+  "difficulty": "medium",
+  "topic": "trilobites"
+ },
+ {
+  "id": "earth-170",
+  "prompt": "Which ancient flying reptiles lived alongside dinosaurs?",
+  "choices": [
+   "Trilobites",
+   "Pterosaurs",
+   "Ammonites",
+   "Mammoths"
+  ],
+  "answer": "Pterosaurs",
+  "difficulty": "medium",
+  "topic": "pterosaurs"
+ },
+ {
+  "id": "earth-171",
+  "prompt": "Mammoths lived mostly during which ice-age era?",
+  "choices": [
+   "Triassic",
+   "Devonian",
+   "Pleistocene",
+   "Cambrian"
+  ],
+  "answer": "Pleistocene",
+  "difficulty": "medium",
+  "topic": "pleistocene"
+ },
+ {
+  "id": "earth-172",
+  "prompt": "What do we call the preserved remains or traces of ancient life?",
+  "choices": [
+   "Minerals",
+   "Sediments",
+   "Crystals",
+   "Fossils"
+  ],
+  "answer": "Fossils",
+  "difficulty": "easy",
+  "topic": "fossil definition"
+ },
+ {
+  "id": "earth-173",
+  "prompt": "A fossil that helps date rock layers because it lived briefly and widely is called what?",
+  "choices": [
+   "Index fossil",
+   "Trace fossil",
+   "Living fossil",
+   "Mold fossil"
+  ],
+  "answer": "Index fossil",
+  "difficulty": "hard",
+  "topic": "index fossil"
+ },
+ {
+  "id": "earth-174",
+  "prompt": "A fossil footprint is an example of which kind of fossil?",
+  "choices": [
+   "Body fossil",
+   "Trace fossil",
+   "Index fossil",
+   "Coal fossil"
+  ],
+  "answer": "Trace fossil",
+  "difficulty": "hard",
+  "topic": "trace fossil"
+ },
+ {
+  "id": "earth-175",
+  "prompt": "Amber is fossilized what?",
+  "choices": [
+   "Bone",
+   "Seashell",
+   "Tree resin",
+   "Seaweed"
+  ],
+  "answer": "Tree resin",
+  "difficulty": "easy",
+  "topic": "amber origin"
+ },
+ {
+  "id": "earth-176",
+  "prompt": "Petrified wood is wood that has been turned into what?",
+  "choices": [
+   "Coal",
+   "Ash",
+   "Amber",
+   "Stone"
+  ],
+  "answer": "Stone",
+  "difficulty": "medium",
+  "topic": "petrified wood"
+ },
+ {
+  "id": "earth-177",
+  "prompt": "Earth rotates once on its axis about every how long?",
+  "choices": [
+   "24 hours",
+   "12 hours",
+   "7 days",
+   "365 days"
+  ],
+  "answer": "24 hours",
+  "difficulty": "easy",
+  "topic": "earth rotation period"
+ },
+ {
+  "id": "earth-178",
+  "prompt": "What causes Earth's seasons?",
+  "choices": [
+   "Distance from the Sun",
+   "Tilt of its axis",
+   "Moon's pull",
+   "Solar flares"
+  ],
+  "answer": "Tilt of its axis",
+  "difficulty": "easy",
+  "topic": "seasons cause"
+ },
+ {
+  "id": "earth-179",
+  "prompt": "By about how many degrees is Earth's axis tilted?",
+  "choices": [
+   "45",
+   "10",
+   "23.5",
+   "90"
+  ],
+  "answer": "23.5",
+  "difficulty": "medium",
+  "topic": "axial tilt"
+ },
+ {
+  "id": "earth-180",
+  "prompt": "Which day has the most daylight in the Northern Hemisphere?",
+  "choices": [
+   "Winter solstice",
+   "Spring equinox",
+   "Autumn equinox",
+   "Summer solstice"
+  ],
+  "answer": "Summer solstice",
+  "difficulty": "easy",
+  "topic": "summer solstice"
+ },
+ {
+  "id": "earth-181",
+  "prompt": "On an equinox, day and night are about what?",
+  "choices": [
+   "Equal in length",
+   "Longest of the year",
+   "Shortest of the year",
+   "Nonexistent"
+  ],
+  "answer": "Equal in length",
+  "difficulty": "medium",
+  "topic": "equinox"
+ },
+ {
+  "id": "earth-182",
+  "prompt": "Which line of latitude is at 0 degrees?",
+  "choices": [
+   "Prime Meridian",
+   "Equator",
+   "Tropic of Cancer",
+   "Arctic Circle"
+  ],
+  "answer": "Equator",
+  "difficulty": "easy",
+  "topic": "equator latitude"
+ },
+ {
+  "id": "earth-183",
+  "prompt": "Which line of longitude is at 0 degrees?",
+  "choices": [
+   "Equator",
+   "Tropic of Capricorn",
+   "Prime Meridian",
+   "International Date Line"
+  ],
+  "answer": "Prime Meridian",
+  "difficulty": "medium",
+  "topic": "prime meridian"
+ },
+ {
+  "id": "earth-184",
+  "prompt": "The Prime Meridian passes through which borough of London?",
+  "choices": [
+   "Westminster",
+   "Kensington",
+   "Camden",
+   "Greenwich"
+  ],
+  "answer": "Greenwich",
+  "difficulty": "medium",
+  "topic": "prime meridian greenwich"
+ },
+ {
+  "id": "earth-185",
+  "prompt": "Which planet is closest to the Sun?",
+  "choices": [
+   "Mercury",
+   "Venus",
+   "Mars",
+   "Earth"
+  ],
+  "answer": "Mercury",
+  "difficulty": "easy",
+  "topic": "closest planet"
+ },
+ {
+  "id": "earth-186",
+  "prompt": "Which planet is Earth's closest neighbor in size, often called its twin?",
+  "choices": [
+   "Mars",
+   "Venus",
+   "Mercury",
+   "Neptune"
+  ],
+  "answer": "Venus",
+  "difficulty": "easy",
+  "topic": "earth twin venus"
+ },
+ {
+  "id": "earth-187",
+  "prompt": "Which planet is the third from the Sun?",
+  "choices": [
+   "Mars",
+   "Venus",
+   "Earth",
+   "Jupiter"
+  ],
+  "answer": "Earth",
+  "difficulty": "easy",
+  "topic": "third planet"
+ },
+ {
+  "id": "earth-188",
+  "prompt": "What is Earth's only natural satellite?",
+  "choices": [
+   "Phobos",
+   "Europa",
+   "Titan",
+   "The Moon"
+  ],
+  "answer": "The Moon",
+  "difficulty": "easy",
+  "topic": "natural satellite"
+ },
+ {
+  "id": "earth-189",
+  "prompt": "Earth's magnetic field is generated by moving what?",
+  "choices": [
+   "Molten iron in the outer core",
+   "Ocean currents",
+   "Solar wind",
+   "Mantle rock"
+  ],
+  "answer": "Molten iron in the outer core",
+  "difficulty": "medium",
+  "topic": "magnetic field source"
+ },
+ {
+  "id": "earth-190",
+  "prompt": "A compass needle points toward Earth's what?",
+  "choices": [
+   "Equator",
+   "Magnetic north pole",
+   "South pole only",
+   "Moon"
+  ],
+  "answer": "Magnetic north pole",
+  "difficulty": "easy",
+  "topic": "compass north"
+ },
+ {
+  "id": "earth-191",
+  "prompt": "Earth's magnetic field helps protect us from what?",
+  "choices": [
+   "Meteors",
+   "Moonlight",
+   "Solar wind",
+   "Gravity"
+  ],
+  "answer": "Solar wind",
+  "difficulty": "medium",
+  "topic": "magnetosphere"
+ },
+ {
+  "id": "earth-192",
+  "prompt": "A lunar eclipse happens when what blocks sunlight from reaching the Moon?",
+  "choices": [
+   "Venus",
+   "Mars",
+   "A comet",
+   "Earth"
+  ],
+  "answer": "Earth",
+  "difficulty": "easy",
+  "topic": "lunar eclipse"
+ },
+ {
+  "id": "earth-193",
+  "prompt": "A solar eclipse happens when which body passes between the Sun and Earth?",
+  "choices": [
+   "Moon",
+   "Venus",
+   "Mars",
+   "Jupiter"
+  ],
+  "answer": "Moon",
+  "difficulty": "easy",
+  "topic": "solar eclipse"
+ },
+ {
+  "id": "earth-194",
+  "prompt": "Which giant impact is thought to have formed the Moon?",
+  "choices": [
+   "Earth's volcano eruption",
+   "A Mars-sized body hitting Earth",
+   "A comet swarm",
+   "Jupiter's pull"
+  ],
+  "answer": "A Mars-sized body hitting Earth",
+  "difficulty": "medium",
+  "topic": "moon origin"
+ },
+ {
+  "id": "earth-195",
+  "prompt": "A shooting star is actually a small bit of space rock called what?",
+  "choices": [
+   "Comet",
+   "Planet",
+   "Meteoroid",
+   "Satellite"
+  ],
+  "answer": "Meteoroid",
+  "difficulty": "easy",
+  "topic": "meteoroid"
+ },
+ {
+  "id": "earth-196",
+  "prompt": "A space rock that survives and lands on Earth is called a what?",
+  "choices": [
+   "Meteoroid",
+   "Asteroid",
+   "Comet",
+   "Meteorite"
+  ],
+  "answer": "Meteorite",
+  "difficulty": "easy",
+  "topic": "meteorite"
+ },
+ {
+  "id": "earth-197",
+  "prompt": "Which belt of rocky bodies lies between Mars and Jupiter?",
+  "choices": [
+   "Asteroid belt",
+   "Kuiper belt",
+   "Oort cloud",
+   "Van Allen belt"
+  ],
+  "answer": "Asteroid belt",
+  "difficulty": "medium",
+  "topic": "asteroid belt"
+ },
+ {
+  "id": "earth-198",
+  "prompt": "The Sun is classified as which kind of object?",
+  "choices": [
+   "Planet",
+   "Star",
+   "Moon",
+   "Comet"
+  ],
+  "answer": "Star",
+  "difficulty": "easy",
+  "topic": "sun is star"
+ },
+ {
+  "id": "earth-199",
+  "prompt": "Earth's average distance to the Sun is called one what?",
+  "choices": [
+   "Light-year",
+   "Parsec",
+   "Astronomical unit",
+   "Kilometer-year"
+  ],
+  "answer": "Astronomical unit",
+  "difficulty": "medium",
+  "topic": "astronomical unit"
+ },
+ {
+  "id": "earth-200",
+  "prompt": "Light from the Sun takes about how long to reach Earth?",
+  "choices": [
+   "8 seconds",
+   "8 hours",
+   "8 days",
+   "8 minutes"
+  ],
+  "answer": "8 minutes",
+  "difficulty": "easy",
+  "topic": "sunlight travel time"
+ },
+ {
+  "id": "earth-201",
+  "prompt": "Which layer of the Sun do we see as its bright surface?",
+  "choices": [
+   "Photosphere",
+   "Corona",
+   "Core",
+   "Chromosphere"
+  ],
+  "answer": "Photosphere",
+  "difficulty": "medium",
+  "topic": "photosphere"
+ },
+ {
+  "id": "earth-202",
+  "prompt": "Earth is in which galaxy?",
+  "choices": [
+   "Andromeda",
+   "Milky Way",
+   "Triangulum",
+   "Whirlpool"
+  ],
+  "answer": "Milky Way",
+  "difficulty": "easy",
+  "topic": "home galaxy"
+ },
+ {
+  "id": "earth-203",
+  "prompt": "The term for Earth's solid outer shell broken into plates is what?",
+  "choices": [
+   "Hydrosphere",
+   "Biosphere",
+   "Lithosphere",
+   "Atmosphere"
+  ],
+  "answer": "Lithosphere",
+  "difficulty": "medium",
+  "topic": "lithosphere"
+ },
+ {
+  "id": "earth-204",
+  "prompt": "The part of Earth where life exists is called the what?",
+  "choices": [
+   "Hydrosphere",
+   "Lithosphere",
+   "Cryosphere",
+   "Biosphere"
+  ],
+  "answer": "Biosphere",
+  "difficulty": "easy",
+  "topic": "biosphere"
+ },
+ {
+  "id": "earth-205",
+  "prompt": "Which is the thinnest of Earth's major layers?",
+  "choices": [
+   "Crust",
+   "Mantle",
+   "Outer core",
+   "Inner core"
+  ],
+  "answer": "Crust",
+  "difficulty": "easy",
+  "topic": "thinnest layer"
+ },
+ {
+  "id": "earth-206",
+  "prompt": "Which layer is the thickest of Earth's major layers?",
+  "choices": [
+   "Crust",
+   "Mantle",
+   "Outer core",
+   "Inner core"
+  ],
+  "answer": "Mantle",
+  "difficulty": "easy",
+  "topic": "thickest layer"
+ },
+ {
+  "id": "earth-207",
+  "prompt": "The boundary between the crust and mantle is named after which Croatian scientist?",
+  "choices": [
+   "Richter",
+   "Wegener",
+   "Mohorovicic",
+   "Mercalli"
+  ],
+  "answer": "Mohorovicic",
+  "difficulty": "hard",
+  "topic": "moho name"
+ },
+ {
+  "id": "earth-208",
+  "prompt": "Which scientist developed the famous 1935 earthquake magnitude scale?",
+  "choices": [
+   "Alfred Wegener",
+   "Inge Lehmann",
+   "Harry Hess",
+   "Charles Richter"
+  ],
+  "answer": "Charles Richter",
+  "difficulty": "medium",
+  "topic": "richter scientist"
+ },
+ {
+  "id": "earth-209",
+  "prompt": "Which scientist discovered the solid inner core from seismic waves?",
+  "choices": [
+   "Inge Lehmann",
+   "Charles Richter",
+   "James Hutton",
+   "Marie Tharp"
+  ],
+  "answer": "Inge Lehmann",
+  "difficulty": "hard",
+  "topic": "inge lehmann"
+ },
+ {
+  "id": "earth-210",
+  "prompt": "Which scientist helped map the ocean floor, revealing the Mid-Atlantic Ridge?",
+  "choices": [
+   "Inge Lehmann",
+   "Marie Tharp",
+   "Rachel Carson",
+   "Mary Anning"
+  ],
+  "answer": "Marie Tharp",
+  "difficulty": "hard",
+  "topic": "marie tharp"
+ },
+ {
+  "id": "earth-211",
+  "prompt": "Which early fossil collector found ichthyosaur and plesiosaur skeletons at Lyme Regis?",
+  "choices": [
+   "Marie Tharp",
+   "Jane Goodall",
+   "Mary Anning",
+   "Rosalind Franklin"
+  ],
+  "answer": "Mary Anning",
+  "difficulty": "hard",
+  "topic": "mary anning"
+ },
+ {
+  "id": "earth-212",
+  "prompt": "Which famous tar pits in Los Angeles trapped Ice Age animals?",
+  "choices": [
+   "Bonneville",
+   "Burgess",
+   "Mono",
+   "La Brea"
+  ],
+  "answer": "La Brea",
+  "difficulty": "medium",
+  "topic": "la brea"
+ },
+ {
+  "id": "earth-213",
+  "prompt": "Stegosaurus and Brachiosaurus lived mostly in which period?",
+  "choices": [
+   "Jurassic",
+   "Triassic",
+   "Cretaceous",
+   "Permian"
+  ],
+  "answer": "Jurassic",
+  "difficulty": "medium",
+  "topic": "jurassic period"
+ },
+ {
+  "id": "earth-214",
+  "prompt": "Which of these periods came earliest?",
+  "choices": [
+   "Jurassic",
+   "Triassic",
+   "Cretaceous",
+   "Paleogene"
+  ],
+  "answer": "Triassic",
+  "difficulty": "medium",
+  "topic": "triassic first"
+ },
+ {
+  "id": "earth-215",
+  "prompt": "Which Scottish scientist argued Earth is extremely old, shaping modern geology?",
+  "choices": [
+   "Isaac Newton",
+   "Galileo",
+   "James Hutton",
+   "Louis Pasteur"
+  ],
+  "answer": "James Hutton",
+  "difficulty": "medium",
+  "topic": "james hutton"
+ },
+ {
+  "id": "earth-216",
+  "prompt": "Which principle says undisturbed rock layers have the oldest at the bottom?",
+  "choices": [
+   "Law of gravity",
+   "Law of motion",
+   "Law of reflection",
+   "Law of superposition"
+  ],
+  "answer": "Law of superposition",
+  "difficulty": "medium",
+  "topic": "law of superposition"
+ },
+ {
+  "id": "earth-217",
+  "prompt": "Dating rocks by measuring decaying atoms is called what?",
+  "choices": [
+   "Radiometric dating",
+   "Sonar mapping",
+   "Sediment sieving",
+   "Tide charting"
+  ],
+  "answer": "Radiometric dating",
+  "difficulty": "medium",
+  "topic": "radiometric dating"
+ },
+ {
+  "id": "earth-218",
+  "prompt": "Earth takes about how long to orbit the Sun once?",
+  "choices": [
+   "30 days",
+   "365 days",
+   "24 hours",
+   "7 days"
+  ],
+  "answer": "365 days",
+  "difficulty": "easy",
+  "topic": "earth orbit period"
+ },
+ {
+  "id": "earth-219",
+  "prompt": "How many continents are there in the common seven-continent model?",
+  "choices": [
+   "Five",
+   "Six",
+   "Seven",
+   "Nine"
+  ],
+  "answer": "Seven",
+  "difficulty": "easy",
+  "topic": "number of continents"
+ },
+ {
+  "id": "earth-220",
+  "prompt": "Which is the largest continent by area?",
+  "choices": [
+   "Africa",
+   "North America",
+   "Europe",
+   "Asia"
+  ],
+  "answer": "Asia",
+  "difficulty": "easy",
+  "topic": "largest continent"
+ },
+ {
+  "id": "earth-221",
+  "prompt": "Which is the smallest continent by area?",
+  "choices": [
+   "Australia",
+   "Europe",
+   "Antarctica",
+   "South America"
+  ],
+  "answer": "Australia",
+  "difficulty": "easy",
+  "topic": "smallest continent"
+ },
+ {
+  "id": "earth-222",
+  "prompt": "Which continent is the coldest and driest?",
+  "choices": [
+   "Asia",
+   "Antarctica",
+   "Europe",
+   "North America"
+  ],
+  "answer": "Antarctica",
+  "difficulty": "easy",
+  "topic": "coldest continent"
+ },
+ {
+  "id": "earth-223",
+  "prompt": "Which continent contains the Amazon rainforest?",
+  "choices": [
+   "Africa",
+   "Asia",
+   "South America",
+   "Australia"
+  ],
+  "answer": "South America",
+  "difficulty": "easy",
+  "topic": "amazon continent"
+ },
+ {
+  "id": "earth-224",
+  "prompt": "Which mountain range separates Europe from Asia in Russia?",
+  "choices": [
+   "Alps",
+   "Andes",
+   "Rockies",
+   "Ural Mountains"
+  ],
+  "answer": "Ural Mountains",
+  "difficulty": "medium",
+  "topic": "urals"
+ },
+ {
+  "id": "earth-225",
+  "prompt": "Which is the longest mountain range on land?",
+  "choices": [
+   "Andes",
+   "Rockies",
+   "Himalayas",
+   "Alps"
+  ],
+  "answer": "Andes",
+  "difficulty": "medium",
+  "topic": "longest land range"
+ },
+ {
+  "id": "earth-226",
+  "prompt": "Which mountain range runs along the western edge of South America?",
+  "choices": [
+   "Alps",
+   "Andes",
+   "Appalachians",
+   "Urals"
+  ],
+  "answer": "Andes",
+  "difficulty": "easy",
+  "topic": "andes location"
+ },
+ {
+  "id": "earth-227",
+  "prompt": "Which mountains stretch along the eastern United States?",
+  "choices": [
+   "Rockies",
+   "Sierra Nevada",
+   "Appalachians",
+   "Cascades"
+  ],
+  "answer": "Appalachians",
+  "difficulty": "medium",
+  "topic": "appalachians"
+ },
+ {
+  "id": "earth-228",
+  "prompt": "Which U.S. mountain range includes Pikes Peak and Longs Peak?",
+  "choices": [
+   "Appalachians",
+   "Ozarks",
+   "Cascades",
+   "Rockies"
+  ],
+  "answer": "Rockies",
+  "difficulty": "medium",
+  "topic": "rockies peaks"
+ },
+ {
+  "id": "earth-229",
+  "prompt": "Which plateau is called the \"roof of the world\"?",
+  "choices": [
+   "Tibetan Plateau",
+   "Colorado Plateau",
+   "Deccan Plateau",
+   "Iranian Plateau"
+  ],
+  "answer": "Tibetan Plateau",
+  "difficulty": "medium",
+  "topic": "roof of the world"
+ },
+ {
+  "id": "earth-230",
+  "prompt": "Which is the highest mountain in Africa?",
+  "choices": [
+   "Mount Kenya",
+   "Kilimanjaro",
+   "Atlas Peak",
+   "Table Mountain"
+  ],
+  "answer": "Kilimanjaro",
+  "difficulty": "medium",
+  "topic": "highest africa"
+ },
+ {
+  "id": "earth-231",
+  "prompt": "Which is the highest mountain in South America?",
+  "choices": [
+   "Chimborazo",
+   "Huascaran",
+   "Aconcagua",
+   "Cotopaxi"
+  ],
+  "answer": "Aconcagua",
+  "difficulty": "hard",
+  "topic": "highest south america"
+ },
+ {
+  "id": "earth-232",
+  "prompt": "Which is the tallest uninterrupted waterfall in the world?",
+  "choices": [
+   "Niagara Falls",
+   "Victoria Falls",
+   "Yosemite Falls",
+   "Angel Falls"
+  ],
+  "answer": "Angel Falls",
+  "difficulty": "hard",
+  "topic": "tallest waterfall"
+ },
+ {
+  "id": "earth-233",
+  "prompt": "Which U.S. state is made up mostly of volcanic islands?",
+  "choices": [
+   "Hawaii",
+   "Florida",
+   "Maine",
+   "Alaska"
+  ],
+  "answer": "Hawaii",
+  "difficulty": "easy",
+  "topic": "hawaii volcanic"
+ },
+ {
+  "id": "earth-234",
+  "prompt": "Which volcano erupted in Iceland in 2010 and disrupted European air travel?",
+  "choices": [
+   "Vesuvius",
+   "Eyjafjallajokull",
+   "Krakatoa",
+   "Etna"
+  ],
+  "answer": "Eyjafjallajokull",
+  "difficulty": "hard",
+  "topic": "iceland ash 2010"
+ },
+ {
+  "id": "earth-235",
+  "prompt": "Which large volcano in Sicily is among the most active in Europe?",
+  "choices": [
+   "Vesuvius",
+   "Stromboli",
+   "Mount Etna",
+   "Olympus"
+  ],
+  "answer": "Mount Etna",
+  "difficulty": "medium",
+  "topic": "mount etna"
+ },
+ {
+  "id": "earth-236",
+  "prompt": "Iceland has many volcanoes because it sits on which kind of feature?",
+  "choices": [
+   "Ring of Fire",
+   "Andes",
+   "Himalayan belt",
+   "Mid-Atlantic Ridge"
+  ],
+  "answer": "Mid-Atlantic Ridge",
+  "difficulty": "hard",
+  "topic": "iceland ridge"
+ },
+ {
+  "id": "earth-237",
+  "prompt": "Earthquakes occur mostly along what?",
+  "choices": [
+   "Plate boundaries",
+   "Deserts",
+   "Large lakes",
+   "Mountain tops"
+  ],
+  "answer": "Plate boundaries",
+  "difficulty": "easy",
+  "topic": "quake locations"
+ },
+ {
+  "id": "earth-238",
+  "prompt": "Which ocean borders the west coast of the United States?",
+  "choices": [
+   "Atlantic",
+   "Pacific",
+   "Indian",
+   "Arctic"
+  ],
+  "answer": "Pacific",
+  "difficulty": "easy",
+  "topic": "us west ocean"
+ },
+ {
+  "id": "earth-239",
+  "prompt": "Which two continents are connected by the Isthmus of Suez?",
+  "choices": [
+   "Europe and Asia",
+   "North and South America",
+   "Africa and Asia",
+   "Asia and Australia"
+  ],
+  "answer": "Africa and Asia",
+  "difficulty": "hard",
+  "topic": "suez isthmus"
+ },
+ {
+  "id": "earth-240",
+  "prompt": "Which narrow land bridge links North and South America?",
+  "choices": [
+   "Isthmus of Suez",
+   "Strait of Gibraltar",
+   "Bering Strait",
+   "Isthmus of Panama"
+  ],
+  "answer": "Isthmus of Panama",
+  "difficulty": "medium",
+  "topic": "panama isthmus"
+ },
+ {
+  "id": "earth-241",
+  "prompt": "Which strait separates Alaska from Russia?",
+  "choices": [
+   "Bering Strait",
+   "Strait of Gibraltar",
+   "Drake Passage",
+   "Palk Strait"
+  ],
+  "answer": "Bering Strait",
+  "difficulty": "medium",
+  "topic": "bering strait"
+ },
+ {
+  "id": "earth-242",
+  "prompt": "Which strait separates Spain from Morocco?",
+  "choices": [
+   "Bering Strait",
+   "Strait of Gibraltar",
+   "Strait of Hormuz",
+   "Drake Passage"
+  ],
+  "answer": "Strait of Gibraltar",
+  "difficulty": "medium",
+  "topic": "gibraltar"
+ },
+ {
+  "id": "earth-243",
+  "prompt": "Which body of water lies between Africa and Arabia?",
+  "choices": [
+   "Black Sea",
+   "Baltic Sea",
+   "Red Sea",
+   "Caspian Sea"
+  ],
+  "answer": "Red Sea",
+  "difficulty": "medium",
+  "topic": "red sea"
+ },
+ {
+  "id": "earth-244",
+  "prompt": "Which desert spans parts of Mongolia and China and is cold in winter?",
+  "choices": [
+   "Sahara",
+   "Kalahari",
+   "Sonoran",
+   "Gobi"
+  ],
+  "answer": "Gobi",
+  "difficulty": "medium",
+  "topic": "gobi"
+ },
+ {
+  "id": "earth-245",
+  "prompt": "Which type of forest has cone-bearing trees and cold winters across northern lands?",
+  "choices": [
+   "Taiga",
+   "Rainforest",
+   "Savanna",
+   "Mangrove"
+  ],
+  "answer": "Taiga",
+  "difficulty": "easy",
+  "topic": "taiga"
+ },
+ {
+  "id": "earth-246",
+  "prompt": "Which grassland biome is found in Africa with scattered trees?",
+  "choices": [
+   "Tundra",
+   "Savanna",
+   "Taiga",
+   "Chaparral"
+  ],
+  "answer": "Savanna",
+  "difficulty": "easy",
+  "topic": "savanna"
+ },
+ {
+  "id": "earth-247",
+  "prompt": "Which cold biome has permanently frozen ground called permafrost?",
+  "choices": [
+   "Savanna",
+   "Rainforest",
+   "Tundra",
+   "Desert"
+  ],
+  "answer": "Tundra",
+  "difficulty": "easy",
+  "topic": "tundra permafrost"
+ },
+ {
+  "id": "earth-248",
+  "prompt": "Which metal is mined from hematite ore?",
+  "choices": [
+   "Gold",
+   "Aluminum",
+   "Copper",
+   "Iron"
+  ],
+  "answer": "Iron",
+  "difficulty": "medium",
+  "topic": "hematite iron"
+ },
+ {
+  "id": "earth-249",
+  "prompt": "Which fuel formed from ancient plankton and plants buried over millions of years?",
+  "choices": [
+   "Fossil fuel",
+   "Wood pellets",
+   "Solar energy",
+   "Wind power"
+  ],
+  "answer": "Fossil fuel",
+  "difficulty": "easy",
+  "topic": "fossil fuel origin"
+ },
+ {
+  "id": "earth-250",
+  "prompt": "Which natural resource is formed from ancient swamp plants?",
+  "choices": [
+   "Oil",
+   "Coal",
+   "Granite",
+   "Salt"
+  ],
+  "answer": "Coal",
+  "difficulty": "easy",
+  "topic": "coal origin"
+ },
+ {
+  "id": "earth-251",
+  "prompt": "Which source of energy uses heat from inside Earth?",
+  "choices": [
+   "Solar",
+   "Wind",
+   "Geothermal",
+   "Tidal"
+  ],
+  "answer": "Geothermal",
+  "difficulty": "easy",
+  "topic": "geothermal"
+ },
+ {
+  "id": "earth-252",
+  "prompt": "Which gas is the main component of natural gas?",
+  "choices": [
+   "Oxygen",
+   "Helium",
+   "Nitrogen",
+   "Methane"
+  ],
+  "answer": "Methane",
+  "difficulty": "medium",
+  "topic": "natural gas methane"
+ },
+ {
+  "id": "earth-253",
+  "prompt": "Which renewable energy uses the movement of water in rivers?",
+  "choices": [
+   "Hydroelectric",
+   "Nuclear",
+   "Coal-fired",
+   "Diesel"
+  ],
+  "answer": "Hydroelectric",
+  "difficulty": "easy",
+  "topic": "hydroelectric"
+ },
+ {
+  "id": "earth-254",
+  "prompt": "Which layer of the ocean receives enough sunlight for photosynthesis?",
+  "choices": [
+   "Twilight zone",
+   "Sunlight zone",
+   "Midnight zone",
+   "Abyssal zone"
+  ],
+  "answer": "Sunlight zone",
+  "difficulty": "medium",
+  "topic": "sunlight zone"
+ },
+ {
+  "id": "earth-255",
+  "prompt": "Which of Earth's great cycles moves carbon between air, plants, oceans and rocks?",
+  "choices": [
+   "Rock cycle",
+   "Water cycle",
+   "Carbon cycle",
+   "Tide cycle"
+  ],
+  "answer": "Carbon cycle",
+  "difficulty": "medium",
+  "topic": "carbon cycle"
+ },
+ {
+  "id": "earth-256",
+  "prompt": "Which type of map line connects places of equal elevation?",
+  "choices": [
+   "Latitude",
+   "Meridian",
+   "Fault",
+   "Contour line"
+  ],
+  "answer": "Contour line",
+  "difficulty": "medium",
+  "topic": "contour lines"
+ },
+ {
+  "id": "earth-257",
+  "prompt": "On a map, which feature shows the ratio of map distance to real distance?",
+  "choices": [
+   "Scale",
+   "Legend",
+   "Compass rose",
+   "Key"
+  ],
+  "answer": "Scale",
+  "difficulty": "medium",
+  "topic": "map scale"
+ },
+ {
+  "id": "earth-258",
+  "prompt": "Which scientific instrument finds direction using Earth's magnetism?",
+  "choices": [
+   "Barometer",
+   "Compass",
+   "Sextant",
+   "Odometer"
+  ],
+  "answer": "Compass",
+  "difficulty": "easy",
+  "topic": "compass tool"
+ },
+ {
+  "id": "earth-259",
+  "prompt": "What is the name for lines running east to west on a globe?",
+  "choices": [
+   "Longitude",
+   "Meridians",
+   "Latitude",
+   "Poles"
+  ],
+  "answer": "Latitude",
+  "difficulty": "medium",
+  "topic": "latitude lines"
+ },
+ {
+  "id": "earth-260",
+  "prompt": "Which very salty Middle Eastern lake sits at the lowest land elevation on Earth?",
+  "choices": [
+   "Caspian Sea",
+   "Red Sea",
+   "Black Sea",
+   "Dead Sea"
+  ],
+  "answer": "Dead Sea",
+  "difficulty": "medium",
+  "topic": "dead sea"
+ },
+ {
+  "id": "earth-261",
+  "prompt": "Victoria Falls is on which river?",
+  "choices": [
+   "Zambezi",
+   "Nile",
+   "Congo",
+   "Niger"
+  ],
+  "answer": "Zambezi",
+  "difficulty": "medium",
+  "topic": "victoria falls river"
+ },
+ {
+  "id": "earth-262",
+  "prompt": "Which is the highest mountain in the Alps?",
+  "choices": [
+   "Matterhorn",
+   "Mont Blanc",
+   "Eiger",
+   "Zugspitze"
+  ],
+  "answer": "Mont Blanc",
+  "difficulty": "hard",
+  "topic": "highest alps"
+ },
+ {
+  "id": "earth-263",
+  "prompt": "Which island nation in the Ring of Fire has frequent earthquakes?",
+  "choices": [
+   "Iceland",
+   "Cuba",
+   "Japan",
+   "Ireland"
+  ],
+  "answer": "Japan",
+  "difficulty": "easy",
+  "topic": "japan quakes"
+ },
+ {
+  "id": "earth-264",
+  "prompt": "The deadly 2004 Indian Ocean tsunami began off the coast of which country?",
+  "choices": [
+   "Brazil",
+   "Peru",
+   "Norway",
+   "Indonesia"
+  ],
+  "answer": "Indonesia",
+  "difficulty": "medium",
+  "topic": "2004 tsunami"
+ },
+ {
+  "id": "earth-265",
+  "prompt": "In deep ocean, a tsunami wave is usually what?",
+  "choices": [
+   "Low and very fast",
+   "Tall and slow",
+   "Steep and foamy",
+   "Warm and still"
+  ],
+  "answer": "Low and very fast",
+  "difficulty": "hard",
+  "topic": "tsunami open ocean"
+ },
+ {
+  "id": "earth-266",
+  "prompt": "Smaller quakes that follow a big earthquake are called what?",
+  "choices": [
+   "Foreshocks",
+   "Aftershocks",
+   "Eruptions",
+   "Rifts"
+  ],
+  "answer": "Aftershocks",
+  "difficulty": "medium",
+  "topic": "aftershock"
+ },
+ {
+  "id": "earth-267",
+  "prompt": "Which desert lies along the coast of Namibia?",
+  "choices": [
+   "Gobi",
+   "Atacama",
+   "Namib",
+   "Thar"
+  ],
+  "answer": "Namib",
+  "difficulty": "hard",
+  "topic": "namib"
+ },
+ {
+  "id": "earth-268",
+  "prompt": "Which huge rainforest is often called the lungs of the Earth?",
+  "choices": [
+   "Black Forest",
+   "Taiga",
+   "Sherwood",
+   "Amazon"
+  ],
+  "answer": "Amazon",
+  "difficulty": "easy",
+  "topic": "lungs of earth"
+ },
+ {
+  "id": "earth-269",
+  "prompt": "Which lines on a globe run north to south?",
+  "choices": [
+   "Longitude",
+   "Latitude",
+   "Tropics",
+   "Contours"
+  ],
+  "answer": "Longitude",
+  "difficulty": "medium",
+  "topic": "longitude lines"
+ },
+ {
+  "id": "earth-270",
+  "prompt": "What do geologists call a mineral's color when powdered?",
+  "choices": [
+   "Luster",
+   "Streak",
+   "Cleavage",
+   "Fracture"
+  ],
+  "answer": "Streak",
+  "difficulty": "hard",
+  "topic": "mineral streak"
+ },
+ {
+  "id": "earth-271",
+  "prompt": "What is the way a mineral reflects light called?",
+  "choices": [
+   "Streak",
+   "Density",
+   "Luster",
+   "Cleavage"
+  ],
+  "answer": "Luster",
+  "difficulty": "hard",
+  "topic": "mineral luster"
+ },
+ {
+  "id": "earth-272",
+  "prompt": "Which minerals break along flat, smooth planes?",
+  "choices": [
+   "Streak",
+   "Luster",
+   "Fracture",
+   "Cleavage"
+  ],
+  "answer": "Cleavage",
+  "difficulty": "hard",
+  "topic": "cleavage"
+ },
+ {
+  "id": "earth-273",
+  "prompt": "Which mineral fizzes when a drop of weak acid touches it?",
+  "choices": [
+   "Calcite",
+   "Quartz",
+   "Talc",
+   "Mica"
+  ],
+  "answer": "Calcite",
+  "difficulty": "hard",
+  "topic": "calcite acid test"
+ },
+ {
+  "id": "earth-274",
+  "prompt": "Which mineral is magnetic and used as a natural lodestone?",
+  "choices": [
+   "Quartz",
+   "Magnetite",
+   "Talc",
+   "Gypsum"
+  ],
+  "answer": "Magnetite",
+  "difficulty": "hard",
+  "topic": "magnetite"
+ },
+ {
+  "id": "earth-275",
+  "prompt": "Which mineral is used to make plaster of Paris and drywall?",
+  "choices": [
+   "Quartz",
+   "Mica",
+   "Gypsum",
+   "Halite"
+  ],
+  "answer": "Gypsum",
+  "difficulty": "medium",
+  "topic": "gypsum use"
+ },
+ {
+  "id": "earth-276",
+  "prompt": "Which soft white mineral is used in baby powder?",
+  "choices": [
+   "Quartz",
+   "Corundum",
+   "Feldspar",
+   "Talc"
+  ],
+  "answer": "Talc",
+  "difficulty": "medium",
+  "topic": "talc use"
+ },
+ {
+  "id": "earth-277",
+  "prompt": "Which mineral is 9 on the Mohs scale?",
+  "choices": [
+   "Corundum",
+   "Topaz",
+   "Quartz",
+   "Apatite"
+  ],
+  "answer": "Corundum",
+  "difficulty": "hard",
+  "topic": "mohs 9 corundum"
+ },
+ {
+  "id": "earth-278",
+  "prompt": "Which precious metal is found as nuggets in streams?",
+  "choices": [
+   "Aluminum",
+   "Gold",
+   "Iron",
+   "Lead"
+  ],
+  "answer": "Gold",
+  "difficulty": "easy",
+  "topic": "gold nuggets"
+ },
+ {
+  "id": "earth-279",
+  "prompt": "The huge bowl left after a volcano collapses is called a what?",
+  "choices": [
+   "Delta",
+   "Moraine",
+   "Caldera",
+   "Atoll"
+  ],
+  "answer": "Caldera",
+  "difficulty": "medium",
+  "topic": "caldera"
+ },
+ {
+  "id": "earth-280",
+  "prompt": "Hot springs that spray water and steam into the air are called what?",
+  "choices": [
+   "Deltas",
+   "Glaciers",
+   "Aquifers",
+   "Geysers"
+  ],
+  "answer": "Geysers",
+  "difficulty": "easy",
+  "topic": "geysers"
+ },
+ {
+  "id": "earth-281",
+  "prompt": "Which volcanic cloud of hot gas and ash races down a slope?",
+  "choices": [
+   "Pyroclastic flow",
+   "Lava dome",
+   "Tsunami",
+   "Rip current"
+  ],
+  "answer": "Pyroclastic flow",
+  "difficulty": "hard",
+  "topic": "pyroclastic flow"
+ },
+ {
+  "id": "earth-282",
+  "prompt": "The Hawaiian Islands are made mostly of which rock?",
+  "choices": [
+   "Granite",
+   "Basalt",
+   "Limestone",
+   "Sandstone"
+  ],
+  "answer": "Basalt",
+  "difficulty": "medium",
+  "topic": "hawaii basalt"
+ },
+ {
+  "id": "earth-283",
+  "prompt": "Which type of cone is steep and built from loose cinders?",
+  "choices": [
+   "Shield volcano",
+   "Caldera",
+   "Cinder cone",
+   "Hot spring"
+  ],
+  "answer": "Cinder cone",
+  "difficulty": "hard",
+  "topic": "cinder cone"
+ },
+ {
+  "id": "earth-284",
+  "prompt": "A violent volcanic eruption can lower global temperatures by doing what?",
+  "choices": [
+   "Releasing ice",
+   "Heating the ocean",
+   "Moving the poles",
+   "Putting ash and gas in the air"
+  ],
+  "answer": "Putting ash and gas in the air",
+  "difficulty": "medium",
+  "topic": "volcano cooling"
+ },
+ {
+  "id": "earth-285",
+  "prompt": "Which famous rift valley splits parts of East Africa?",
+  "choices": [
+   "East African Rift",
+   "Rhine Rift",
+   "Great Basin",
+   "Yucatan Rift"
+  ],
+  "answer": "East African Rift",
+  "difficulty": "hard",
+  "topic": "east african rift"
+ },
+ {
+  "id": "earth-286",
+  "prompt": "The 1906 earthquake destroyed much of which city?",
+  "choices": [
+   "Seattle",
+   "San Francisco",
+   "Denver",
+   "Phoenix"
+  ],
+  "answer": "San Francisco",
+  "difficulty": "medium",
+  "topic": "1906 quake city"
+ },
+ {
+  "id": "earth-287",
+  "prompt": "Which natural wonder is a huge canyon in Arizona carved by a river?",
+  "choices": [
+   "Death Valley",
+   "Crater Lake",
+   "Grand Canyon",
+   "Mesa Verde"
+  ],
+  "answer": "Grand Canyon",
+  "difficulty": "easy",
+  "topic": "grand canyon"
+ },
+ {
+  "id": "earth-288",
+  "prompt": "Crater Lake in Oregon fills what kind of volcanic feature?",
+  "choices": [
+   "Delta",
+   "Fjord",
+   "Atoll",
+   "Caldera"
+  ],
+  "answer": "Caldera",
+  "difficulty": "hard",
+  "topic": "crater lake"
+ },
+ {
+  "id": "earth-289",
+  "prompt": "Which place in California is the lowest point in North America?",
+  "choices": [
+   "Death Valley",
+   "Mojave",
+   "Lake Tahoe",
+   "Big Sur"
+  ],
+  "answer": "Death Valley",
+  "difficulty": "medium",
+  "topic": "lowest point na"
+ },
+ {
+  "id": "earth-290",
+  "prompt": "What word describes weather averaged over many years?",
+  "choices": [
+   "Forecast",
+   "Climate",
+   "Front",
+   "Breeze"
+  ],
+  "answer": "Climate",
+  "difficulty": "easy",
+  "topic": "climate definition"
+ },
+ {
+  "id": "earth-291",
+  "prompt": "Which climate zone is hot and wet all year near the equator?",
+  "choices": [
+   "Polar",
+   "Temperate",
+   "Tropical",
+   "Arid"
+  ],
+  "answer": "Tropical",
+  "difficulty": "easy",
+  "topic": "tropical zone"
+ },
+ {
+  "id": "earth-292",
+  "prompt": "Which gas, released by burning fossil fuels, raises Earth's temperature?",
+  "choices": [
+   "Oxygen",
+   "Nitrogen",
+   "Argon",
+   "Carbon dioxide"
+  ],
+  "answer": "Carbon dioxide",
+  "difficulty": "easy",
+  "topic": "fossil fuel co2"
+ },
+ {
+  "id": "earth-293",
+  "prompt": "El Nino is a warming of the surface waters of which ocean?",
+  "choices": [
+   "Pacific",
+   "Atlantic",
+   "Arctic",
+   "Indian"
+  ],
+  "answer": "Pacific",
+  "difficulty": "medium",
+  "topic": "el nino ocean"
+ },
+ {
+  "id": "earth-294",
+  "prompt": "Which wind belt blows from the west in mid-latitudes?",
+  "choices": [
+   "Trade winds",
+   "Westerlies",
+   "Doldrums",
+   "Polar easterlies"
+  ],
+  "answer": "Westerlies",
+  "difficulty": "medium",
+  "topic": "westerlies"
+ },
+ {
+  "id": "earth-295",
+  "prompt": "Heat from the Sun moves to Earth by which process?",
+  "choices": [
+   "Conduction",
+   "Convection",
+   "Radiation",
+   "Evaporation"
+  ],
+  "answer": "Radiation",
+  "difficulty": "medium",
+  "topic": "solar heat transfer"
+ },
+ {
+  "id": "earth-296",
+  "prompt": "Warm air rising and cool air sinking is called what?",
+  "choices": [
+   "Radiation",
+   "Conduction",
+   "Erosion",
+   "Convection"
+  ],
+  "answer": "Convection",
+  "difficulty": "medium",
+  "topic": "convection"
+ },
+ {
+  "id": "earth-297",
+  "prompt": "The reflectivity of a surface such as snow is called what?",
+  "choices": [
+   "Albedo",
+   "Humidity",
+   "Salinity",
+   "Density"
+  ],
+  "answer": "Albedo",
+  "difficulty": "medium",
+  "topic": "albedo"
+ },
+ {
+  "id": "earth-298",
+  "prompt": "Which has a higher albedo, fresh snow or dark soil?",
+  "choices": [
+   "Dark soil",
+   "Fresh snow",
+   "Asphalt",
+   "Forest"
+  ],
+  "answer": "Fresh snow",
+  "difficulty": "medium",
+  "topic": "snow albedo"
+ },
+ {
+  "id": "earth-299",
+  "prompt": "What is the ocean's salt content called?",
+  "choices": [
+   "Humidity",
+   "Density",
+   "Salinity",
+   "Buoyancy"
+  ],
+  "answer": "Salinity",
+  "difficulty": "medium",
+  "topic": "salinity"
+ },
+ {
+  "id": "earth-300",
+  "prompt": "What is the term for rain that has become acidic from pollution?",
+  "choices": [
+   "Hail",
+   "Dew",
+   "Mist",
+   "Acid rain"
+  ],
+  "answer": "Acid rain",
+  "difficulty": "medium",
+  "topic": "acid rain"
+ }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "earth-001",
+    "pick": "Sedimentary",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-002",
+    "pick": "Limestone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-003",
+    "pick": "Diamond",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-004",
+    "pick": "Talc",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-005",
+    "pick": "7",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-006",
+    "pick": "Gypsum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-007",
+    "pick": "Shale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-008",
+    "pick": "Lava",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-009",
+    "pick": "Gas bubbles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-010",
+    "pick": "Limestone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-011",
+    "pick": "Feldspar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-012",
+    "pick": "Lithification",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-013",
+    "pick": "Halite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-014",
+    "pick": "Pyrite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-015",
+    "pick": "Ruby",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-016",
+    "pick": "Beryl",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-017",
+    "pick": "Carbon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-018",
+    "pick": "Graphite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-019",
+    "pick": "Alfred Wegener",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-020",
+    "pick": "Pangaea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-021",
+    "pick": "Divergent",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-022",
+    "pick": "Transform",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-023",
+    "pick": "Indian and Eurasian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-024",
+    "pick": "Pacific",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-025",
+    "pick": "Sinks beneath another",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-026",
+    "pick": "Hotspot",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-027",
+    "pick": "Oceans",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-028",
+    "pick": "Solid",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-029",
+    "pick": "Outer core",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-030",
+    "pick": "Iron and nickel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-031",
+    "pick": "4.5 billion years",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-032",
+    "pick": "Oxygen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-033",
+    "pick": "P wave",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-034",
+    "pick": "Seismograph",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-035",
+    "pick": "Epicenter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-036",
+    "pick": "10",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-037",
+    "pick": "Liquids",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-038",
+    "pick": "Shield",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-039",
+    "pick": "Mount St. Helens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-040",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-041",
+    "pick": "Lava",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-042",
+    "pick": "Yellowstone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-043",
+    "pick": "Mount Everest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-044",
+    "pick": "Mauna Kea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-045",
+    "pick": "Denali",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-046",
+    "pick": "Indonesia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-047",
+    "pick": "Dormant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-048",
+    "pick": "Faults",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-049",
+    "pick": "Metamorphic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-050",
+    "pick": "Quartz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-051",
+    "pick": "Sedimentary",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-052",
+    "pick": "Basalt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-053",
+    "pick": "Granite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-054",
+    "pick": "Sedimentary",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-055",
+    "pick": "Galena",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-056",
+    "pick": "Bauxite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-057",
+    "pick": "Troposphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-058",
+    "pick": "Stratosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-059",
+    "pick": "Ultraviolet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-060",
+    "pick": "Oxygen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-061",
+    "pick": "Carbon dioxide",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-062",
+    "pick": "Barometer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-063",
+    "pick": "Anemometer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-064",
+    "pick": "Hygrometer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-065",
+    "pick": "Cumulonimbus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-066",
+    "pick": "Cirrus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-067",
+    "pick": "Stratus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-068",
+    "pick": "Tornado",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-069",
+    "pick": "Hurricane",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-070",
+    "pick": "Typhoon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-071",
+    "pick": "Eye",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-072",
+    "pick": "Saffir-Simpson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-073",
+    "pick": "Enhanced Fujita",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-074",
+    "pick": "Beaufort",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-075",
+    "pick": "Front",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-076",
+    "pick": "Clouds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-077",
+    "pick": "Clear and calm",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-078",
+    "pick": "Jet streams",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-079",
+    "pick": "Coriolis effect",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-080",
+    "pick": "Monsoon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-081",
+    "pick": "Greenhouse effect",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-082",
+    "pick": "Hail",
+    "confidence": "medium",
+    "problem": "Premise is inaccurate: frozen raindrops describes sleet; hail grows by layered accretion of supercooled droplets. Only one option fits, but wording could be tightened."
+  },
+  {
+    "id": "earth-083",
+    "pick": "0",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-084",
+    "pick": "100",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-085",
+    "pick": "Condensation nuclei",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-086",
+    "pick": "Condensation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-087",
+    "pick": "Evaporation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-088",
+    "pick": "Sublimation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-089",
+    "pick": "Transpiration",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-090",
+    "pick": "Infiltration",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-091",
+    "pick": "The Sun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-092",
+    "pick": "Aquifers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-093",
+    "pick": "Mesosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-094",
+    "pick": "Thermosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-095",
+    "pick": "Aurora",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-096",
+    "pick": "Sunlight bending in raindrops",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-097",
+    "pick": "Blue",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-098",
+    "pick": "Air",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-099",
+    "pick": "Humidity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-100",
+    "pick": "A cloud at ground level",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-101",
+    "pick": "Blizzard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-102",
+    "pick": "Ozone layer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-103",
+    "pick": "Atacama",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-104",
+    "pick": "Trade winds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-105",
+    "pick": "Doldrums",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-106",
+    "pick": "Decreases",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-107",
+    "pick": "Thunder",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-108",
+    "pick": "Oxygen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-109",
+    "pick": "Sahara",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-110",
+    "pick": "Sleet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-111",
+    "pick": "About 71 percent",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-112",
+    "pick": "Pacific",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-113",
+    "pick": "Arctic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-114",
+    "pick": "Pacific",
+    "confidence": "medium",
+    "problem": null
+  },
+  {
+    "id": "earth-115",
+    "pick": "Mariana Trench",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-116",
+    "pick": "The Moon's gravity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-117",
+    "pick": "Line up",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-118",
+    "pick": "Sodium chloride",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-119",
+    "pick": "Gyres",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-120",
+    "pick": "Gulf Stream",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-121",
+    "pick": "Tsunami",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-122",
+    "pick": "Abyssal plain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-123",
+    "pick": "Continental shelf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-124",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-125",
+    "pick": "Coral polyps",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-126",
+    "pick": "Estuary",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-127",
+    "pick": "Delta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-128",
+    "pick": "Oxbow lake",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-129",
+    "pick": "Watershed",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-130",
+    "pick": "Amazon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-131",
+    "pick": "Colorado",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-132",
+    "pick": "Sahara",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-133",
+    "pick": "Lake Baikal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-134",
+    "pick": "Lake Superior",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-135",
+    "pick": "Antarctica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-136",
+    "pick": "Ice",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-137",
+    "pick": "Glacier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-138",
+    "pick": "Moving ice",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-139",
+    "pick": "Moraines",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-140",
+    "pick": "Fjord",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-141",
+    "pick": "Norway",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-142",
+    "pick": "Greenland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-143",
+    "pick": "Iceberg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-144",
+    "pick": "Glaciation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-145",
+    "pick": "Topsoil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-146",
+    "pick": "Bedrock",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-147",
+    "pick": "Humus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-148",
+    "pick": "Clay",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-149",
+    "pick": "Loam",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-150",
+    "pick": "Weathering",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-151",
+    "pick": "Erosion",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-152",
+    "pick": "Physical",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-153",
+    "pick": "Caves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-154",
+    "pick": "Dunes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-155",
+    "pick": "Mesa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-156",
+    "pick": "Atoll",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-157",
+    "pick": "Peninsula",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-158",
+    "pick": "Isthmus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-159",
+    "pick": "Stalagmite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-160",
+    "pick": "Stalactites",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-161",
+    "pick": "Mesozoic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-162",
+    "pick": "Cenozoic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-163",
+    "pick": "Devonian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-164",
+    "pick": "Carboniferous",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-165",
+    "pick": "Animal diversity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-166",
+    "pick": "Cretaceous-Paleogene",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-167",
+    "pick": "Permian-Triassic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-168",
+    "pick": "Mexico",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-169",
+    "pick": "Marine arthropods",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-170",
+    "pick": "Pterosaurs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-171",
+    "pick": "Pleistocene",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-172",
+    "pick": "Fossils",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-173",
+    "pick": "Index fossil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-174",
+    "pick": "Trace fossil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-175",
+    "pick": "Tree resin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-176",
+    "pick": "Stone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-177",
+    "pick": "24 hours",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-178",
+    "pick": "Tilt of its axis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-179",
+    "pick": "23.5",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-180",
+    "pick": "Summer solstice",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-181",
+    "pick": "Equal in length",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-182",
+    "pick": "Equator",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-183",
+    "pick": "Prime Meridian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-184",
+    "pick": "Greenwich",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-185",
+    "pick": "Mercury",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-186",
+    "pick": "Venus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-187",
+    "pick": "Earth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-188",
+    "pick": "The Moon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-189",
+    "pick": "Molten iron in the outer core",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-190",
+    "pick": "Magnetic north pole",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-191",
+    "pick": "Solar wind",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-192",
+    "pick": "Earth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-193",
+    "pick": "Moon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-194",
+    "pick": "A Mars-sized body hitting Earth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-195",
+    "pick": "Meteoroid",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-196",
+    "pick": "Meteorite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-197",
+    "pick": "Asteroid belt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-198",
+    "pick": "Star",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-199",
+    "pick": "Astronomical unit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-200",
+    "pick": "8 minutes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-201",
+    "pick": "Photosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-202",
+    "pick": "Milky Way",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-203",
+    "pick": "Lithosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-204",
+    "pick": "Biosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-205",
+    "pick": "Crust",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-206",
+    "pick": "Mantle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-207",
+    "pick": "Mohorovicic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-208",
+    "pick": "Charles Richter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-209",
+    "pick": "Inge Lehmann",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-210",
+    "pick": "Marie Tharp",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-211",
+    "pick": "Mary Anning",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-212",
+    "pick": "La Brea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-213",
+    "pick": "Jurassic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-214",
+    "pick": "Triassic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-215",
+    "pick": "James Hutton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-216",
+    "pick": "Law of superposition",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-217",
+    "pick": "Radiometric dating",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-218",
+    "pick": "365 days",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-219",
+    "pick": "Seven",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-220",
+    "pick": "Asia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-221",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-222",
+    "pick": "Antarctica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-223",
+    "pick": "South America",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-224",
+    "pick": "Ural Mountains",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-225",
+    "pick": "Andes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-226",
+    "pick": "Andes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-227",
+    "pick": "Appalachians",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-228",
+    "pick": "Rockies",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-229",
+    "pick": "Tibetan Plateau",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-230",
+    "pick": "Kilimanjaro",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-231",
+    "pick": "Aconcagua",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-232",
+    "pick": "Angel Falls",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-233",
+    "pick": "Hawaii",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-234",
+    "pick": "Eyjafjallajokull",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-235",
+    "pick": "Mount Etna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-236",
+    "pick": "Mid-Atlantic Ridge",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-237",
+    "pick": "Plate boundaries",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-238",
+    "pick": "Pacific",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-239",
+    "pick": "Africa and Asia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-240",
+    "pick": "Isthmus of Panama",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-241",
+    "pick": "Bering Strait",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-242",
+    "pick": "Strait of Gibraltar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-243",
+    "pick": "Red Sea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-244",
+    "pick": "Gobi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-245",
+    "pick": "Taiga",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-246",
+    "pick": "Savanna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-247",
+    "pick": "Tundra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-248",
+    "pick": "Iron",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-249",
+    "pick": "Fossil fuel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-250",
+    "pick": "Coal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-251",
+    "pick": "Geothermal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-252",
+    "pick": "Methane",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-253",
+    "pick": "Hydroelectric",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-254",
+    "pick": "Sunlight zone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-255",
+    "pick": "Carbon cycle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-256",
+    "pick": "Contour line",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-257",
+    "pick": "Scale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-258",
+    "pick": "Compass",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-259",
+    "pick": "Latitude",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-260",
+    "pick": "Dead Sea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-261",
+    "pick": "Zambezi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-262",
+    "pick": "Mont Blanc",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-263",
+    "pick": "Japan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-264",
+    "pick": "Indonesia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-265",
+    "pick": "Low and very fast",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-266",
+    "pick": "Aftershocks",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-267",
+    "pick": "Namib",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-268",
+    "pick": "Amazon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-269",
+    "pick": "Longitude",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-270",
+    "pick": "Streak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-271",
+    "pick": "Luster",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-272",
+    "pick": "Cleavage",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-273",
+    "pick": "Calcite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-274",
+    "pick": "Magnetite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-275",
+    "pick": "Gypsum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-276",
+    "pick": "Talc",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-277",
+    "pick": "Corundum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-278",
+    "pick": "Gold",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-279",
+    "pick": "Caldera",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-280",
+    "pick": "Geysers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-281",
+    "pick": "Pyroclastic flow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-282",
+    "pick": "Basalt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-283",
+    "pick": "Cinder cone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-284",
+    "pick": "Putting ash and gas in the air",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-285",
+    "pick": "East African Rift",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-286",
+    "pick": "San Francisco",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-287",
+    "pick": "Grand Canyon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-288",
+    "pick": "Caldera",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-289",
+    "pick": "Death Valley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-290",
+    "pick": "Climate",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-291",
+    "pick": "Tropical",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-292",
+    "pick": "Carbon dioxide",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-293",
+    "pick": "Pacific",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-294",
+    "pick": "Westerlies",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-295",
+    "pick": "Radiation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-296",
+    "pick": "Convection",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-297",
+    "pick": "Albedo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-298",
+    "pick": "Fresh snow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-299",
+    "pick": "Salinity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "earth-300",
+    "pick": "Acid rain",
+    "confidence": "high",
+    "problem": null
+  }
+]

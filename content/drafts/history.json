@@ -1,0 +1,3902 @@
+[
+ {
+  "id": "hist-001",
+  "prompt": "Which civilization built the pyramids at Giza?",
+  "choices": [
+   "Ancient Egypt",
+   "The Maya",
+   "Ancient Rome",
+   "Babylon"
+  ],
+  "answer": "Ancient Egypt",
+  "difficulty": "easy",
+  "topic": "giza pyramids builders"
+ },
+ {
+  "id": "hist-002",
+  "prompt": "Which river was the lifeline of ancient Egypt?",
+  "choices": [
+   "Tigris",
+   "Nile",
+   "Indus",
+   "Yellow River"
+  ],
+  "answer": "Nile",
+  "difficulty": "easy",
+  "topic": "egypt river"
+ },
+ {
+  "id": "hist-003",
+  "prompt": "Which Macedonian king conquered the Persian Empire?",
+  "choices": [
+   "Leonidas",
+   "Pericles",
+   "Alexander the Great",
+   "Xerxes"
+  ],
+  "answer": "Alexander the Great",
+  "difficulty": "easy",
+  "topic": "conqueror of persia"
+ },
+ {
+  "id": "hist-004",
+  "prompt": "Which Greek city-state is known as the birthplace of democracy?",
+  "choices": [
+   "Sparta",
+   "Corinth",
+   "Thebes",
+   "Athens"
+  ],
+  "answer": "Athens",
+  "difficulty": "easy",
+  "topic": "birthplace of democracy"
+ },
+ {
+  "id": "hist-005",
+  "prompt": "Ruins of ancient Babylon lie in which modern country?",
+  "choices": [
+   "Iraq",
+   "Egypt",
+   "Iran",
+   "Syria"
+  ],
+  "answer": "Iraq",
+  "difficulty": "medium",
+  "topic": "babylon location"
+ },
+ {
+  "id": "hist-006",
+  "prompt": "Which writing, made of wedge shapes on clay tablets, began in Mesopotamia?",
+  "choices": [
+   "Hieroglyphics",
+   "Cuneiform",
+   "Runes",
+   "Linear B"
+  ],
+  "answer": "Cuneiform",
+  "difficulty": "medium",
+  "topic": "cuneiform writing"
+ },
+ {
+  "id": "hist-007",
+  "prompt": "Which Carthaginian general crossed the Alps with war elephants?",
+  "choices": [
+   "Scipio",
+   "Spartacus",
+   "Hannibal",
+   "Brutus"
+  ],
+  "answer": "Hannibal",
+  "difficulty": "easy",
+  "topic": "hannibal alps"
+ },
+ {
+  "id": "hist-008",
+  "prompt": "Which Roman general crossed the Rubicon river in 49 BC?",
+  "choices": [
+   "Pompey",
+   "Mark Antony",
+   "Cicero",
+   "Julius Caesar"
+  ],
+  "answer": "Julius Caesar",
+  "difficulty": "easy",
+  "topic": "rubicon crossing"
+ },
+ {
+  "id": "hist-009",
+  "prompt": "In which city was Julius Caesar assassinated?",
+  "choices": [
+   "Rome",
+   "Athens",
+   "Alexandria",
+   "Carthage"
+  ],
+  "answer": "Rome",
+  "difficulty": "easy",
+  "topic": "caesar assassination city"
+ },
+ {
+  "id": "hist-010",
+  "prompt": "Which Roman emperor ordered a wall built across northern Britain?",
+  "choices": [
+   "Nero",
+   "Hadrian",
+   "Trajan",
+   "Claudius"
+  ],
+  "answer": "Hadrian",
+  "difficulty": "medium",
+  "topic": "hadrians wall emperor"
+ },
+ {
+  "id": "hist-011",
+  "prompt": "Which volcano buried the Roman town of Pompeii?",
+  "choices": [
+   "Mount Etna",
+   "Stromboli",
+   "Mount Vesuvius",
+   "Mount Olympus"
+  ],
+  "answer": "Mount Vesuvius",
+  "difficulty": "easy",
+  "topic": "pompeii volcano"
+ },
+ {
+  "id": "hist-012",
+  "prompt": "Which empire was founded by Cyrus the Great?",
+  "choices": [
+   "Roman Empire",
+   "Assyrian Empire",
+   "Ottoman Empire",
+   "Persian Empire"
+  ],
+  "answer": "Persian Empire",
+  "difficulty": "medium",
+  "topic": "cyrus empire"
+ },
+ {
+  "id": "hist-013",
+  "prompt": "Which Chinese dynasty first unified China, in 221 BC?",
+  "choices": [
+   "Qin",
+   "Han",
+   "Tang",
+   "Ming"
+  ],
+  "answer": "Qin",
+  "difficulty": "medium",
+  "topic": "qin unification"
+ },
+ {
+  "id": "hist-014",
+  "prompt": "Which Chinese emperor was buried with a Terracotta Army?",
+  "choices": [
+   "Kublai Khan",
+   "Qin Shi Huang",
+   "Emperor Wu",
+   "Emperor Taizong"
+  ],
+  "answer": "Qin Shi Huang",
+  "difficulty": "medium",
+  "topic": "terracotta army emperor"
+ },
+ {
+  "id": "hist-015",
+  "prompt": "What was the Pharos of Alexandria?",
+  "choices": [
+   "A library",
+   "A palace",
+   "A lighthouse",
+   "A temple"
+  ],
+  "answer": "A lighthouse",
+  "difficulty": "medium",
+  "topic": "pharos alexandria"
+ },
+ {
+  "id": "hist-016",
+  "prompt": "Which Indian empire was ruled by the emperor Ashoka?",
+  "choices": [
+   "Gupta Empire",
+   "Mughal Empire",
+   "Chola Empire",
+   "Maurya Empire"
+  ],
+  "answer": "Maurya Empire",
+  "difficulty": "medium",
+  "topic": "ashoka empire"
+ },
+ {
+  "id": "hist-017",
+  "prompt": "In which country were the ancient Olympic Games held?",
+  "choices": [
+   "Greece",
+   "Italy",
+   "Egypt",
+   "Turkey"
+  ],
+  "answer": "Greece",
+  "difficulty": "easy",
+  "topic": "ancient olympics country"
+ },
+ {
+  "id": "hist-018",
+  "prompt": "Which sea did the Romans call Mare Nostrum, meaning Our Sea?",
+  "choices": [
+   "Black Sea",
+   "Mediterranean Sea",
+   "Red Sea",
+   "North Sea"
+  ],
+  "answer": "Mediterranean Sea",
+  "difficulty": "medium",
+  "topic": "mare nostrum"
+ },
+ {
+  "id": "hist-019",
+  "prompt": "Which queen of Egypt allied with Julius Caesar and Mark Antony?",
+  "choices": [
+   "Nefertiti",
+   "Hatshepsut",
+   "Cleopatra",
+   "Tiye"
+  ],
+  "answer": "Cleopatra",
+  "difficulty": "easy",
+  "topic": "cleopatra"
+ },
+ {
+  "id": "hist-020",
+  "prompt": "Which young pharaoh's tomb was found nearly intact in 1922?",
+  "choices": [
+   "Ramses II",
+   "Khufu",
+   "Akhenaten",
+   "Tutankhamun"
+  ],
+  "answer": "Tutankhamun",
+  "difficulty": "easy",
+  "topic": "tutankhamun tomb"
+ },
+ {
+  "id": "hist-021",
+  "prompt": "Which archaeologist uncovered Tutankhamun's tomb?",
+  "choices": [
+   "Howard Carter",
+   "Heinrich Schliemann",
+   "Arthur Evans",
+   "Flinders Petrie"
+  ],
+  "answer": "Howard Carter",
+  "difficulty": "medium",
+  "topic": "tut tomb discoverer"
+ },
+ {
+  "id": "hist-022",
+  "prompt": "Which civilization built the city of Chichen Itza?",
+  "choices": [
+   "The Aztecs",
+   "The Maya",
+   "The Inca",
+   "The Olmec"
+  ],
+  "answer": "The Maya",
+  "difficulty": "easy",
+  "topic": "chichen itza builders"
+ },
+ {
+  "id": "hist-023",
+  "prompt": "What was the capital of the Aztec Empire?",
+  "choices": [
+   "Cusco",
+   "Teotihuacan",
+   "Tenochtitlan",
+   "Tikal"
+  ],
+  "answer": "Tenochtitlan",
+  "difficulty": "medium",
+  "topic": "aztec capital"
+ },
+ {
+  "id": "hist-024",
+  "prompt": "Which empire had Cusco as its capital?",
+  "choices": [
+   "The Aztec Empire",
+   "The Maya",
+   "The Olmec",
+   "The Inca Empire"
+  ],
+  "answer": "The Inca Empire",
+  "difficulty": "easy",
+  "topic": "cusco empire"
+ },
+ {
+  "id": "hist-025",
+  "prompt": "Which Spanish conquistador defeated the Aztec Empire?",
+  "choices": [
+   "Hernan Cortes",
+   "Francisco Pizarro",
+   "Christopher Columbus",
+   "Vasco Balboa"
+  ],
+  "answer": "Hernan Cortes",
+  "difficulty": "medium",
+  "topic": "aztec conquest leader"
+ },
+ {
+  "id": "hist-026",
+  "prompt": "Which Spanish conquistador defeated the Inca Empire?",
+  "choices": [
+   "Hernan Cortes",
+   "Francisco Pizarro",
+   "Ferdinand Magellan",
+   "Pedro Cabral"
+  ],
+  "answer": "Francisco Pizarro",
+  "difficulty": "medium",
+  "topic": "inca conquest leader"
+ },
+ {
+  "id": "hist-027",
+  "prompt": "Which Roman emperor issued the Edict of Milan, tolerating Christianity?",
+  "choices": [
+   "Nero",
+   "Diocletian",
+   "Constantine",
+   "Trajan"
+  ],
+  "answer": "Constantine",
+  "difficulty": "medium",
+  "topic": "edict of milan emperor"
+ },
+ {
+  "id": "hist-028",
+  "prompt": "Which city did Constantine make the new capital of the eastern Roman Empire?",
+  "choices": [
+   "Athens",
+   "Antioch",
+   "Alexandria",
+   "Constantinople"
+  ],
+  "answer": "Constantinople",
+  "difficulty": "medium",
+  "topic": "constantinople founding"
+ },
+ {
+  "id": "hist-029",
+  "prompt": "In which century did the Western Roman Empire fall?",
+  "choices": [
+   "5th century",
+   "3rd century",
+   "7th century",
+   "9th century"
+  ],
+  "answer": "5th century",
+  "difficulty": "medium",
+  "topic": "western rome fall century"
+ },
+ {
+  "id": "hist-030",
+  "prompt": "Which philosopher tutored the young Alexander the Great?",
+  "choices": [
+   "Socrates",
+   "Aristotle",
+   "Plato",
+   "Epicurus"
+  ],
+  "answer": "Aristotle",
+  "difficulty": "medium",
+  "topic": "alexander tutor"
+ },
+ {
+  "id": "hist-031",
+  "prompt": "Which Greek philosopher was the teacher of Plato?",
+  "choices": [
+   "Aristotle",
+   "Pythagoras",
+   "Socrates",
+   "Diogenes"
+  ],
+  "answer": "Socrates",
+  "difficulty": "medium",
+  "topic": "plato teacher"
+ },
+ {
+  "id": "hist-032",
+  "prompt": "Who founded the Mongol Empire?",
+  "choices": [
+   "Kublai Khan",
+   "Timur",
+   "Attila",
+   "Genghis Khan"
+  ],
+  "answer": "Genghis Khan",
+  "difficulty": "easy",
+  "topic": "mongol empire founder"
+ },
+ {
+  "id": "hist-033",
+  "prompt": "Which ancient people carved the rose-red city of Petra?",
+  "choices": [
+   "The Nabataeans",
+   "The Hittites",
+   "The Phoenicians",
+   "The Minoans"
+  ],
+  "answer": "The Nabataeans",
+  "difficulty": "hard",
+  "topic": "petra builders"
+ },
+ {
+  "id": "hist-034",
+  "prompt": "Which Bronze Age civilization built the palace of Knossos on Crete?",
+  "choices": [
+   "The Mycenaeans",
+   "The Minoans",
+   "The Etruscans",
+   "The Phoenicians"
+  ],
+  "answer": "The Minoans",
+  "difficulty": "hard",
+  "topic": "knossos civilization"
+ },
+ {
+  "id": "hist-035",
+  "prompt": "Persepolis was a grand capital of which ancient empire?",
+  "choices": [
+   "Hittite Empire",
+   "Assyrian Empire",
+   "Persian Empire",
+   "Egyptian Empire"
+  ],
+  "answer": "Persian Empire",
+  "difficulty": "hard",
+  "topic": "persepolis empire"
+ },
+ {
+  "id": "hist-036",
+  "prompt": "Ancient Carthage stood in which modern country?",
+  "choices": [
+   "Libya",
+   "Algeria",
+   "Morocco",
+   "Tunisia"
+  ],
+  "answer": "Tunisia",
+  "difficulty": "medium",
+  "topic": "carthage modern country"
+ },
+ {
+  "id": "hist-037",
+  "prompt": "Which Roman emperor created the Tetrarchy, a rule by four?",
+  "choices": [
+   "Diocletian",
+   "Nero",
+   "Hadrian",
+   "Marcus Aurelius"
+  ],
+  "answer": "Diocletian",
+  "difficulty": "hard",
+  "topic": "tetrarchy emperor"
+ },
+ {
+  "id": "hist-038",
+  "prompt": "Which 490 BC battle saw Athens defeat a Persian invasion?",
+  "choices": [
+   "Thermopylae",
+   "Marathon",
+   "Salamis",
+   "Plataea"
+  ],
+  "answer": "Marathon",
+  "difficulty": "medium",
+  "topic": "battle of marathon"
+ },
+ {
+  "id": "hist-039",
+  "prompt": "Which Spartan king led the stand at Thermopylae?",
+  "choices": [
+   "Pericles",
+   "Themistocles",
+   "Leonidas",
+   "Agamemnon"
+  ],
+  "answer": "Leonidas",
+  "difficulty": "medium",
+  "topic": "thermopylae leader"
+ },
+ {
+  "id": "hist-040",
+  "prompt": "Which Babylonian king is famed for an early written law code?",
+  "choices": [
+   "Nebuchadnezzar",
+   "Sargon",
+   "Gilgamesh",
+   "Hammurabi"
+  ],
+  "answer": "Hammurabi",
+  "difficulty": "medium",
+  "topic": "hammurabi code"
+ },
+ {
+  "id": "hist-041",
+  "prompt": "Which ancient script did the Rosetta Stone help scholars read?",
+  "choices": [
+   "Egyptian hieroglyphs",
+   "Cuneiform",
+   "Mayan glyphs",
+   "Linear A"
+  ],
+  "answer": "Egyptian hieroglyphs",
+  "difficulty": "medium",
+  "topic": "rosetta stone script"
+ },
+ {
+  "id": "hist-042",
+  "prompt": "Harappa and Mohenjo-daro belonged to which ancient civilization?",
+  "choices": [
+   "Mesopotamian",
+   "Indus Valley",
+   "Egyptian",
+   "Yellow River"
+  ],
+  "answer": "Indus Valley",
+  "difficulty": "medium",
+  "topic": "harappa civilization"
+ },
+ {
+  "id": "hist-043",
+  "prompt": "Which Chinese thinker's sayings are collected in the Analects?",
+  "choices": [
+   "Laozi",
+   "Mencius",
+   "Confucius",
+   "Sun Tzu"
+  ],
+  "answer": "Confucius",
+  "difficulty": "medium",
+  "topic": "analects author"
+ },
+ {
+  "id": "hist-044",
+  "prompt": "Which Chinese dynasty ruled from 1368 to 1644?",
+  "choices": [
+   "Tang",
+   "Song",
+   "Qing",
+   "Ming"
+  ],
+  "answer": "Ming",
+  "difficulty": "medium",
+  "topic": "ming dynasty dates"
+ },
+ {
+  "id": "hist-045",
+  "prompt": "Which West African ruler's 1324 pilgrimage to Mecca made him famous for his wealth?",
+  "choices": [
+   "Mansa Musa",
+   "Sundiata",
+   "Askia Muhammad",
+   "Sunni Ali"
+  ],
+  "answer": "Mansa Musa",
+  "difficulty": "medium",
+  "topic": "mansa musa"
+ },
+ {
+  "id": "hist-046",
+  "prompt": "For which pharaoh was the Great Pyramid of Giza built?",
+  "choices": [
+   "Tutankhamun",
+   "Khufu",
+   "Ramses II",
+   "Akhenaten"
+  ],
+  "answer": "Khufu",
+  "difficulty": "medium",
+  "topic": "great pyramid pharaoh"
+ },
+ {
+  "id": "hist-047",
+  "prompt": "Which conqueror founded the city of Alexandria in Egypt?",
+  "choices": [
+   "Julius Caesar",
+   "Cyrus the Great",
+   "Alexander the Great",
+   "Ptolemy XIII"
+  ],
+  "answer": "Alexander the Great",
+  "difficulty": "easy",
+  "topic": "alexandria founder"
+ },
+ {
+  "id": "hist-048",
+  "prompt": "Which Persian king lost to Alexander at Gaugamela?",
+  "choices": [
+   "Cyrus",
+   "Xerxes",
+   "Cambyses",
+   "Darius III"
+  ],
+  "answer": "Darius III",
+  "difficulty": "hard",
+  "topic": "gaugamela loser"
+ },
+ {
+  "id": "hist-049",
+  "prompt": "Which civilization built the Parthenon in Athens?",
+  "choices": [
+   "The ancient Greeks",
+   "The Romans",
+   "The Etruscans",
+   "The Phoenicians"
+  ],
+  "answer": "The ancient Greeks",
+  "difficulty": "easy",
+  "topic": "parthenon builders"
+ },
+ {
+  "id": "hist-050",
+  "prompt": "In which city is the Colosseum found?",
+  "choices": [
+   "Athens",
+   "Rome",
+   "Florence",
+   "Naples"
+  ],
+  "answer": "Rome",
+  "difficulty": "easy",
+  "topic": "colosseum city"
+ },
+ {
+  "id": "hist-051",
+  "prompt": "Who was crowned Emperor of the Romans on Christmas Day in 800?",
+  "choices": [
+   "Clovis",
+   "Otto I",
+   "Charlemagne",
+   "Charles Martel"
+  ],
+  "answer": "Charlemagne",
+  "difficulty": "medium",
+  "topic": "charlemagne coronation"
+ },
+ {
+  "id": "hist-052",
+  "prompt": "Which English king sealed the Magna Carta in 1215?",
+  "choices": [
+   "Richard I",
+   "Edward I",
+   "Henry VIII",
+   "King John"
+  ],
+  "answer": "King John",
+  "difficulty": "easy",
+  "topic": "magna carta king"
+ },
+ {
+  "id": "hist-053",
+  "prompt": "Which pope called for the First Crusade in 1095?",
+  "choices": [
+   "Urban II",
+   "Gregory VII",
+   "Innocent III",
+   "Pius V"
+  ],
+  "answer": "Urban II",
+  "difficulty": "hard",
+  "topic": "first crusade pope"
+ },
+ {
+  "id": "hist-054",
+  "prompt": "Which Muslim leader recaptured Jerusalem in 1187?",
+  "choices": [
+   "Baibars",
+   "Saladin",
+   "Suleiman",
+   "Tamerlane"
+  ],
+  "answer": "Saladin",
+  "difficulty": "medium",
+  "topic": "saladin jerusalem"
+ },
+ {
+  "id": "hist-055",
+  "prompt": "In which century did the Black Death sweep across Europe?",
+  "choices": [
+   "12th century",
+   "16th century",
+   "14th century",
+   "10th century"
+  ],
+  "answer": "14th century",
+  "difficulty": "easy",
+  "topic": "black death century"
+ },
+ {
+  "id": "hist-056",
+  "prompt": "Joan of Arc fought for France in which long conflict?",
+  "choices": [
+   "Wars of the Roses",
+   "Thirty Years' War",
+   "Crimean War",
+   "Hundred Years' War"
+  ],
+  "answer": "Hundred Years' War",
+  "difficulty": "easy",
+  "topic": "joan of arc war"
+ },
+ {
+  "id": "hist-057",
+  "prompt": "In which year did the Ottoman Turks capture Constantinople?",
+  "choices": [
+   "1453",
+   "1389",
+   "1492",
+   "1517"
+  ],
+  "answer": "1453",
+  "difficulty": "medium",
+  "topic": "fall of constantinople year"
+ },
+ {
+  "id": "hist-058",
+  "prompt": "Which sultan led the Ottoman conquest of Constantinople?",
+  "choices": [
+   "Suleiman",
+   "Mehmed II",
+   "Osman I",
+   "Selim I"
+  ],
+  "answer": "Mehmed II",
+  "difficulty": "medium",
+  "topic": "constantinople conqueror"
+ },
+ {
+  "id": "hist-059",
+  "prompt": "In which country did Johannes Gutenberg develop his printing press?",
+  "choices": [
+   "Italy",
+   "France",
+   "Germany",
+   "England"
+  ],
+  "answer": "Germany",
+  "difficulty": "medium",
+  "topic": "gutenberg country"
+ },
+ {
+  "id": "hist-060",
+  "prompt": "Which Norse explorer sailed to Vinland around the year 1000?",
+  "choices": [
+   "Ragnar Lodbrok",
+   "Harald Hardrada",
+   "Canute",
+   "Leif Erikson"
+  ],
+  "answer": "Leif Erikson",
+  "difficulty": "medium",
+  "topic": "leif erikson"
+ },
+ {
+  "id": "hist-061",
+  "prompt": "Which Mongol ruler founded the Yuan dynasty in China?",
+  "choices": [
+   "Kublai Khan",
+   "Genghis Khan",
+   "Ogedei Khan",
+   "Hulagu Khan"
+  ],
+  "answer": "Kublai Khan",
+  "difficulty": "medium",
+  "topic": "yuan dynasty founder"
+ },
+ {
+  "id": "hist-062",
+  "prompt": "Which Venetian merchant wrote of his travels to Kublai Khan's court?",
+  "choices": [
+   "Ibn Battuta",
+   "Marco Polo",
+   "Vasco da Gama",
+   "Amerigo Vespucci"
+  ],
+  "answer": "Marco Polo",
+  "difficulty": "easy",
+  "topic": "marco polo"
+ },
+ {
+  "id": "hist-063",
+  "prompt": "Which Moroccan scholar traveled across Africa and Asia in the 1300s?",
+  "choices": [
+   "Marco Polo",
+   "Zheng He",
+   "Ibn Battuta",
+   "Xuanzang"
+  ],
+  "answer": "Ibn Battuta",
+  "difficulty": "medium",
+  "topic": "ibn battuta"
+ },
+ {
+  "id": "hist-064",
+  "prompt": "Which Chinese admiral led giant treasure fleets in the early 1400s?",
+  "choices": [
+   "Yue Fei",
+   "Zhuge Liang",
+   "Koxinga",
+   "Zheng He"
+  ],
+  "answer": "Zheng He",
+  "difficulty": "medium",
+  "topic": "zheng he fleets"
+ },
+ {
+  "id": "hist-065",
+  "prompt": "In feudal Japan, what was the military ruler called?",
+  "choices": [
+   "Shogun",
+   "Daimyo",
+   "Ronin",
+   "Mikado"
+  ],
+  "answer": "Shogun",
+  "difficulty": "medium",
+  "topic": "shogun title"
+ },
+ {
+  "id": "hist-066",
+  "prompt": "Which Japanese city was the imperial capital until 1868?",
+  "choices": [
+   "Osaka",
+   "Kyoto",
+   "Nara",
+   "Nagoya"
+  ],
+  "answer": "Kyoto",
+  "difficulty": "medium",
+  "topic": "kyoto capital"
+ },
+ {
+  "id": "hist-067",
+  "prompt": "Which Mughal emperor built the Taj Mahal?",
+  "choices": [
+   "Akbar",
+   "Babur",
+   "Shah Jahan",
+   "Aurangzeb"
+  ],
+  "answer": "Shah Jahan",
+  "difficulty": "easy",
+  "topic": "taj mahal builder"
+ },
+ {
+  "id": "hist-068",
+  "prompt": "In which Indian city is the Taj Mahal?",
+  "choices": [
+   "Delhi",
+   "Jaipur",
+   "Mumbai",
+   "Agra"
+  ],
+  "answer": "Agra",
+  "difficulty": "easy",
+  "topic": "taj mahal city"
+ },
+ {
+  "id": "hist-069",
+  "prompt": "Who founded the Mughal Empire in India?",
+  "choices": [
+   "Babur",
+   "Akbar",
+   "Humayun",
+   "Shah Jahan"
+  ],
+  "answer": "Babur",
+  "difficulty": "hard",
+  "topic": "mughal founder"
+ },
+ {
+  "id": "hist-070",
+  "prompt": "Which empire did Suleiman the Magnificent rule?",
+  "choices": [
+   "Safavid Empire",
+   "Ottoman Empire",
+   "Mughal Empire",
+   "Byzantine Empire"
+  ],
+  "answer": "Ottoman Empire",
+  "difficulty": "medium",
+  "topic": "suleiman empire"
+ },
+ {
+  "id": "hist-071",
+  "prompt": "Which West African city was a famed center of Islamic learning?",
+  "choices": [
+   "Lagos",
+   "Accra",
+   "Timbuktu",
+   "Dakar"
+  ],
+  "answer": "Timbuktu",
+  "difficulty": "medium",
+  "topic": "timbuktu learning"
+ },
+ {
+  "id": "hist-072",
+  "prompt": "The ruins of Great Zimbabwe lie in which modern country?",
+  "choices": [
+   "Kenya",
+   "Ethiopia",
+   "Nigeria",
+   "Zimbabwe"
+  ],
+  "answer": "Zimbabwe",
+  "difficulty": "easy",
+  "topic": "great zimbabwe country"
+ },
+ {
+  "id": "hist-073",
+  "prompt": "Which ancient African kingdom, with capital Aksum, became Christian in the 300s?",
+  "choices": [
+   "Aksum",
+   "Mali",
+   "Songhai",
+   "Kush"
+  ],
+  "answer": "Aksum",
+  "difficulty": "hard",
+  "topic": "aksum christianity"
+ },
+ {
+  "id": "hist-074",
+  "prompt": "Which Ethiopian emperor beat Italy at the Battle of Adwa in 1896?",
+  "choices": [
+   "Haile Selassie",
+   "Menelik II",
+   "Tewodros II",
+   "Yohannes IV"
+  ],
+  "answer": "Menelik II",
+  "difficulty": "hard",
+  "topic": "adwa emperor"
+ },
+ {
+  "id": "hist-075",
+  "prompt": "Which king built the Zulu kingdom into a major power in the early 1800s?",
+  "choices": [
+   "Cetshwayo",
+   "Dingane",
+   "Shaka",
+   "Mzilikazi"
+  ],
+  "answer": "Shaka",
+  "difficulty": "medium",
+  "topic": "shaka zulu"
+ },
+ {
+  "id": "hist-076",
+  "prompt": "Angkor Wat is in which country?",
+  "choices": [
+   "Thailand",
+   "Vietnam",
+   "Laos",
+   "Cambodia"
+  ],
+  "answer": "Cambodia",
+  "difficulty": "easy",
+  "topic": "angkor wat country"
+ },
+ {
+  "id": "hist-077",
+  "prompt": "The Buddhist monument Borobudur is on an island of which country?",
+  "choices": [
+   "Indonesia",
+   "Malaysia",
+   "Philippines",
+   "Myanmar"
+  ],
+  "answer": "Indonesia",
+  "difficulty": "medium",
+  "topic": "borobudur country"
+ },
+ {
+  "id": "hist-078",
+  "prompt": "Which Korean king is credited with creating the Hangul alphabet?",
+  "choices": [
+   "Taejo",
+   "Sejong the Great",
+   "Gojong",
+   "Gwanggaeto"
+  ],
+  "answer": "Sejong the Great",
+  "difficulty": "medium",
+  "topic": "hangul creator"
+ },
+ {
+  "id": "hist-079",
+  "prompt": "Which Korean admiral became famous for his turtle ships?",
+  "choices": [
+   "Zheng He",
+   "Togo Heihachiro",
+   "Yi Sun-sin",
+   "Yamamoto Isoroku"
+  ],
+  "answer": "Yi Sun-sin",
+  "difficulty": "hard",
+  "topic": "turtle ship admiral"
+ },
+ {
+  "id": "hist-080",
+  "prompt": "Which people founded China's Qing dynasty?",
+  "choices": [
+   "The Mongols",
+   "The Tibetans",
+   "The Uyghurs",
+   "The Manchus"
+  ],
+  "answer": "The Manchus",
+  "difficulty": "medium",
+  "topic": "qing founders"
+ },
+ {
+  "id": "hist-081",
+  "prompt": "Which Chinese dynasty, with its capital at Chang'an, was a golden age for poetry?",
+  "choices": [
+   "Tang",
+   "Qin",
+   "Yuan",
+   "Qing"
+  ],
+  "answer": "Tang",
+  "difficulty": "medium",
+  "topic": "tang poetry age"
+ },
+ {
+  "id": "hist-082",
+  "prompt": "Which Central Asian conqueror made Samarkand his capital?",
+  "choices": [
+   "Genghis Khan",
+   "Timur",
+   "Babur",
+   "Attila"
+  ],
+  "answer": "Timur",
+  "difficulty": "hard",
+  "topic": "timur samarkand"
+ },
+ {
+  "id": "hist-083",
+  "prompt": "Which fabric gave the Silk Road its name?",
+  "choices": [
+   "Cotton",
+   "Wool",
+   "Silk",
+   "Linen"
+  ],
+  "answer": "Silk",
+  "difficulty": "easy",
+  "topic": "silk road name"
+ },
+ {
+  "id": "hist-084",
+  "prompt": "Which Italian city was a medieval trading republic built on canals?",
+  "choices": [
+   "Milan",
+   "Rome",
+   "Turin",
+   "Venice"
+  ],
+  "answer": "Venice",
+  "difficulty": "easy",
+  "topic": "venice republic"
+ },
+ {
+  "id": "hist-085",
+  "prompt": "Which Florentine banking family funded many Renaissance artists?",
+  "choices": [
+   "The Medici",
+   "The Borgia",
+   "The Habsburgs",
+   "The Tudors"
+  ],
+  "answer": "The Medici",
+  "difficulty": "medium",
+  "topic": "medici patrons"
+ },
+ {
+  "id": "hist-086",
+  "prompt": "Who painted the ceiling of the Sistine Chapel?",
+  "choices": [
+   "Leonardo da Vinci",
+   "Michelangelo",
+   "Raphael",
+   "Botticelli"
+  ],
+  "answer": "Michelangelo",
+  "difficulty": "easy",
+  "topic": "sistine ceiling painter"
+ },
+ {
+  "id": "hist-087",
+  "prompt": "Which monk's 1517 Ninety-five Theses sparked the Protestant Reformation?",
+  "choices": [
+   "John Calvin",
+   "Erasmus",
+   "Martin Luther",
+   "Thomas More"
+  ],
+  "answer": "Martin Luther",
+  "difficulty": "easy",
+  "topic": "martin luther theses"
+ },
+ {
+  "id": "hist-088",
+  "prompt": "Which English king broke with the pope and created the Church of England?",
+  "choices": [
+   "Edward VI",
+   "Charles I",
+   "Richard III",
+   "Henry VIII"
+  ],
+  "answer": "Henry VIII",
+  "difficulty": "easy",
+  "topic": "church of england founder"
+ },
+ {
+  "id": "hist-089",
+  "prompt": "In which year was the Spanish Armada defeated?",
+  "choices": [
+   "1588",
+   "1492",
+   "1666",
+   "1715"
+  ],
+  "answer": "1588",
+  "difficulty": "medium",
+  "topic": "spanish armada year"
+ },
+ {
+  "id": "hist-090",
+  "prompt": "Which queen ruled England when the Spanish Armada sailed?",
+  "choices": [
+   "Mary I",
+   "Elizabeth I",
+   "Victoria",
+   "Anne"
+  ],
+  "answer": "Elizabeth I",
+  "difficulty": "easy",
+  "topic": "armada queen"
+ },
+ {
+  "id": "hist-091",
+  "prompt": "Which French king was nicknamed the Sun King?",
+  "choices": [
+   "Louis XVI",
+   "Napoleon III",
+   "Louis XIV",
+   "Charles X"
+  ],
+  "answer": "Louis XIV",
+  "difficulty": "easy",
+  "topic": "sun king"
+ },
+ {
+  "id": "hist-092",
+  "prompt": "Which Russian tsar founded the city of Saint Petersburg?",
+  "choices": [
+   "Ivan the Terrible",
+   "Nicholas II",
+   "Alexander I",
+   "Peter the Great"
+  ],
+  "answer": "Peter the Great",
+  "difficulty": "medium",
+  "topic": "st petersburg founder"
+ },
+ {
+  "id": "hist-093",
+  "prompt": "Which Portuguese explorer sailed around Africa to India in 1498?",
+  "choices": [
+   "Vasco da Gama",
+   "Ferdinand Magellan",
+   "Pedro Cabral",
+   "Henry the Navigator"
+  ],
+  "answer": "Vasco da Gama",
+  "difficulty": "medium",
+  "topic": "da gama india"
+ },
+ {
+  "id": "hist-094",
+  "prompt": "Which Portuguese navigator first rounded the southern tip of Africa in 1488?",
+  "choices": [
+   "Vasco da Gama",
+   "Bartolomeu Dias",
+   "Afonso de Albuquerque",
+   "Pedro Cabral"
+  ],
+  "answer": "Bartolomeu Dias",
+  "difficulty": "hard",
+  "topic": "dias cape"
+ },
+ {
+  "id": "hist-095",
+  "prompt": "Which country sponsored Columbus's 1492 voyage?",
+  "choices": [
+   "Portugal",
+   "England",
+   "Spain",
+   "France"
+  ],
+  "answer": "Spain",
+  "difficulty": "easy",
+  "topic": "columbus sponsor"
+ },
+ {
+  "id": "hist-096",
+  "prompt": "In which year did Columbus first reach the Caribbean?",
+  "choices": [
+   "1452",
+   "1520",
+   "1607",
+   "1492"
+  ],
+  "answer": "1492",
+  "difficulty": "easy",
+  "topic": "columbus year"
+ },
+ {
+  "id": "hist-097",
+  "prompt": "Which Italian painted the Mona Lisa?",
+  "choices": [
+   "Leonardo da Vinci",
+   "Michelangelo",
+   "Raphael",
+   "Donatello"
+  ],
+  "answer": "Leonardo da Vinci",
+  "difficulty": "easy",
+  "topic": "mona lisa painter"
+ },
+ {
+  "id": "hist-098",
+  "prompt": "Which Polish astronomer proposed that Earth orbits the Sun?",
+  "choices": [
+   "Galileo Galilei",
+   "Nicolaus Copernicus",
+   "Johannes Kepler",
+   "Tycho Brahe"
+  ],
+  "answer": "Nicolaus Copernicus",
+  "difficulty": "medium",
+  "topic": "copernicus heliocentrism"
+ },
+ {
+  "id": "hist-099",
+  "prompt": "In which year was the American Declaration of Independence adopted?",
+  "choices": [
+   "1789",
+   "1754",
+   "1776",
+   "1812"
+  ],
+  "answer": "1776",
+  "difficulty": "easy",
+  "topic": "declaration year"
+ },
+ {
+  "id": "hist-100",
+  "prompt": "Who was the first president of the United States?",
+  "choices": [
+   "Thomas Jefferson",
+   "John Adams",
+   "Benjamin Franklin",
+   "George Washington"
+  ],
+  "answer": "George Washington",
+  "difficulty": "easy",
+  "topic": "first us president"
+ },
+ {
+  "id": "hist-101",
+  "prompt": "Which ship carried the Pilgrims to America in 1620?",
+  "choices": [
+   "The Mayflower",
+   "The Santa Maria",
+   "The Endeavour",
+   "The Beagle"
+  ],
+  "answer": "The Mayflower",
+  "difficulty": "easy",
+  "topic": "pilgrim ship"
+ },
+ {
+  "id": "hist-102",
+  "prompt": "Which 1803 land deal doubled the size of the United States?",
+  "choices": [
+   "Alaska Purchase",
+   "Louisiana Purchase",
+   "Gadsden Purchase",
+   "Texas Annexation"
+  ],
+  "answer": "Louisiana Purchase",
+  "difficulty": "medium",
+  "topic": "louisiana purchase"
+ },
+ {
+  "id": "hist-103",
+  "prompt": "Which US president issued the Emancipation Proclamation?",
+  "choices": [
+   "Ulysses Grant",
+   "Andrew Jackson",
+   "Abraham Lincoln",
+   "Theodore Roosevelt"
+  ],
+  "answer": "Abraham Lincoln",
+  "difficulty": "easy",
+  "topic": "emancipation proclamation"
+ },
+ {
+  "id": "hist-104",
+  "prompt": "In which Pennsylvania town did Lincoln give his famous 1863 address?",
+  "choices": [
+   "Philadelphia",
+   "Pittsburgh",
+   "Harrisburg",
+   "Gettysburg"
+  ],
+  "answer": "Gettysburg",
+  "difficulty": "easy",
+  "topic": "gettysburg address"
+ },
+ {
+  "id": "hist-105",
+  "prompt": "In which year did the American Civil War begin?",
+  "choices": [
+   "1861",
+   "1776",
+   "1848",
+   "1898"
+  ],
+  "answer": "1861",
+  "difficulty": "easy",
+  "topic": "civil war start year"
+ },
+ {
+  "id": "hist-106",
+  "prompt": "Which US president was elected four times?",
+  "choices": [
+   "Woodrow Wilson",
+   "Franklin D. Roosevelt",
+   "Harry Truman",
+   "Herbert Hoover"
+  ],
+  "answer": "Franklin D. Roosevelt",
+  "difficulty": "medium",
+  "topic": "four-term president"
+ },
+ {
+  "id": "hist-107",
+  "prompt": "Which 1941 attack brought the United States into World War II?",
+  "choices": [
+   "Midway",
+   "Guadalcanal",
+   "Pearl Harbor",
+   "Normandy"
+  ],
+  "answer": "Pearl Harbor",
+  "difficulty": "easy",
+  "topic": "us enters wwii"
+ },
+ {
+  "id": "hist-108",
+  "prompt": "Who gave the famous 'I Have a Dream' speech in 1963?",
+  "choices": [
+   "Malcolm X",
+   "Frederick Douglass",
+   "Booker T. Washington",
+   "Martin Luther King Jr."
+  ],
+  "answer": "Martin Luther King Jr.",
+  "difficulty": "easy",
+  "topic": "i have a dream"
+ },
+ {
+  "id": "hist-109",
+  "prompt": "Which Shoshone woman guided the Lewis and Clark expedition?",
+  "choices": [
+   "Sacagawea",
+   "Pocahontas",
+   "Harriet Tubman",
+   "Sitting Bull"
+  ],
+  "answer": "Sacagawea",
+  "difficulty": "medium",
+  "topic": "sacagawea"
+ },
+ {
+  "id": "hist-110",
+  "prompt": "In which year did the Panama Canal open?",
+  "choices": [
+   "1869",
+   "1914",
+   "1936",
+   "1895"
+  ],
+  "answer": "1914",
+  "difficulty": "medium",
+  "topic": "panama canal opening"
+ },
+ {
+  "id": "hist-111",
+  "prompt": "Which US document begins with the words 'We the People'?",
+  "choices": [
+   "The Declaration of Independence",
+   "The Bill of Rights",
+   "The Constitution",
+   "The Mayflower Compact"
+  ],
+  "answer": "The Constitution",
+  "difficulty": "easy",
+  "topic": "we the people"
+ },
+ {
+  "id": "hist-112",
+  "prompt": "In which year was the US transcontinental railroad completed?",
+  "choices": [
+   "1849",
+   "1889",
+   "1905",
+   "1869"
+  ],
+  "answer": "1869",
+  "difficulty": "hard",
+  "topic": "transcontinental railroad year"
+ },
+ {
+  "id": "hist-113",
+  "prompt": "Where did the Wright brothers make their famous 1903 flights?",
+  "choices": [
+   "Kitty Hawk, North Carolina",
+   "Dayton, Ohio",
+   "Cape Canaveral, Florida",
+   "San Diego, California"
+  ],
+  "answer": "Kitty Hawk, North Carolina",
+  "difficulty": "medium",
+  "topic": "wright brothers location"
+ },
+ {
+  "id": "hist-114",
+  "prompt": "Which leader led the slave revolt that created independent Haiti?",
+  "choices": [
+   "Simon Bolivar",
+   "Toussaint Louverture",
+   "Benito Juarez",
+   "Fidel Castro"
+  ],
+  "answer": "Toussaint Louverture",
+  "difficulty": "medium",
+  "topic": "haitian revolution leader"
+ },
+ {
+  "id": "hist-115",
+  "prompt": "Which leader helped free Venezuela, Colombia, and Ecuador from Spain?",
+  "choices": [
+   "Pancho Villa",
+   "Hernan Cortes",
+   "Simon Bolivar",
+   "Fidel Castro"
+  ],
+  "answer": "Simon Bolivar",
+  "difficulty": "medium",
+  "topic": "bolivar liberator"
+ },
+ {
+  "id": "hist-116",
+  "prompt": "In which year did Mexico win independence from Spain?",
+  "choices": [
+   "1776",
+   "1848",
+   "1910",
+   "1821"
+  ],
+  "answer": "1821",
+  "difficulty": "medium",
+  "topic": "mexican independence year"
+ },
+ {
+  "id": "hist-117",
+  "prompt": "Which European country colonized Brazil?",
+  "choices": [
+   "Portugal",
+   "Spain",
+   "France",
+   "Netherlands"
+  ],
+  "answer": "Portugal",
+  "difficulty": "easy",
+  "topic": "brazil colonizer"
+ },
+ {
+  "id": "hist-118",
+  "prompt": "Which leader took power in Cuba after the 1959 revolution?",
+  "choices": [
+   "Che Guevara",
+   "Fidel Castro",
+   "Simon Bolivar",
+   "Hugo Chavez"
+  ],
+  "answer": "Fidel Castro",
+  "difficulty": "easy",
+  "topic": "cuban revolution leader"
+ },
+ {
+  "id": "hist-119",
+  "prompt": "In which year did the Cuban Missile Crisis take place?",
+  "choices": [
+   "1956",
+   "1968",
+   "1962",
+   "1975"
+  ],
+  "answer": "1962",
+  "difficulty": "medium",
+  "topic": "cuban missile crisis year"
+ },
+ {
+  "id": "hist-120",
+  "prompt": "In which year did Canada become a self-governing country?",
+  "choices": [
+   "1776",
+   "1901",
+   "1931",
+   "1867"
+  ],
+  "answer": "1867",
+  "difficulty": "medium",
+  "topic": "canada confederation"
+ },
+ {
+  "id": "hist-121",
+  "prompt": "Which Black abolitionist guided many people to freedom on the Underground Railroad?",
+  "choices": [
+   "Harriet Tubman",
+   "Rosa Parks",
+   "Sojourner Truth",
+   "Mary McLeod Bethune"
+  ],
+  "answer": "Harriet Tubman",
+  "difficulty": "medium",
+  "topic": "harriet tubman"
+ },
+ {
+  "id": "hist-122",
+  "prompt": "Whose refusal to give up a bus seat in 1955 sparked the Montgomery bus boycott?",
+  "choices": [
+   "Harriet Tubman",
+   "Rosa Parks",
+   "Coretta Scott King",
+   "Ruby Bridges"
+  ],
+  "answer": "Rosa Parks",
+  "difficulty": "easy",
+  "topic": "rosa parks"
+ },
+ {
+  "id": "hist-123",
+  "prompt": "Which American flew solo nonstop from New York to Paris in 1927?",
+  "choices": [
+   "Amelia Earhart",
+   "Howard Hughes",
+   "Charles Lindbergh",
+   "Wiley Post"
+  ],
+  "answer": "Charles Lindbergh",
+  "difficulty": "medium",
+  "topic": "lindbergh flight"
+ },
+ {
+  "id": "hist-124",
+  "prompt": "In which year did the French Revolution begin?",
+  "choices": [
+   "1776",
+   "1815",
+   "1848",
+   "1789"
+  ],
+  "answer": "1789",
+  "difficulty": "easy",
+  "topic": "french revolution year"
+ },
+ {
+  "id": "hist-125",
+  "prompt": "Which Paris fortress-prison was stormed on July 14, 1789?",
+  "choices": [
+   "The Bastille",
+   "The Louvre",
+   "The Tuileries",
+   "Versailles"
+  ],
+  "answer": "The Bastille",
+  "difficulty": "easy",
+  "topic": "bastille storming"
+ },
+ {
+  "id": "hist-126",
+  "prompt": "Who crowned himself Emperor of the French in 1804?",
+  "choices": [
+   "Louis XVI",
+   "Napoleon Bonaparte",
+   "Charles de Gaulle",
+   "Robespierre"
+  ],
+  "answer": "Napoleon Bonaparte",
+  "difficulty": "easy",
+  "topic": "napoleon emperor"
+ },
+ {
+  "id": "hist-127",
+  "prompt": "Napoleon was finally defeated in 1815 at which battle?",
+  "choices": [
+   "Austerlitz",
+   "Trafalgar",
+   "Waterloo",
+   "Borodino"
+  ],
+  "answer": "Waterloo",
+  "difficulty": "easy",
+  "topic": "napoleon final defeat"
+ },
+ {
+  "id": "hist-128",
+  "prompt": "On which island did Napoleon die in exile?",
+  "choices": [
+   "Elba",
+   "Corsica",
+   "Malta",
+   "Saint Helena"
+  ],
+  "answer": "Saint Helena",
+  "difficulty": "medium",
+  "topic": "napoleon death island"
+ },
+ {
+  "id": "hist-129",
+  "prompt": "Which queen reigned over Britain from 1837 to 1901?",
+  "choices": [
+   "Victoria",
+   "Elizabeth I",
+   "Anne",
+   "Mary II"
+  ],
+  "answer": "Victoria",
+  "difficulty": "easy",
+  "topic": "victorian queen"
+ },
+ {
+  "id": "hist-130",
+  "prompt": "Which country was the birthplace of the Industrial Revolution?",
+  "choices": [
+   "France",
+   "Great Britain",
+   "Germany",
+   "United States"
+  ],
+  "answer": "Great Britain",
+  "difficulty": "easy",
+  "topic": "industrial revolution birthplace"
+ },
+ {
+  "id": "hist-131",
+  "prompt": "Which Scottish engineer greatly improved the steam engine in the 1700s?",
+  "choices": [
+   "Isaac Newton",
+   "Michael Faraday",
+   "James Watt",
+   "Thomas Telford"
+  ],
+  "answer": "James Watt",
+  "difficulty": "medium",
+  "topic": "james watt"
+ },
+ {
+  "id": "hist-132",
+  "prompt": "Which chancellor led the unification of Germany in 1871?",
+  "choices": [
+   "Frederick the Great",
+   "Konrad Adenauer",
+   "Helmut Kohl",
+   "Otto von Bismarck"
+  ],
+  "answer": "Otto von Bismarck",
+  "difficulty": "medium",
+  "topic": "german unification leader"
+ },
+ {
+  "id": "hist-133",
+  "prompt": "Which red-shirted general helped unify Italy in the 1860s?",
+  "choices": [
+   "Giuseppe Garibaldi",
+   "Benito Mussolini",
+   "Victor Emmanuel II",
+   "Dante Alighieri"
+  ],
+  "answer": "Giuseppe Garibaldi",
+  "difficulty": "medium",
+  "topic": "garibaldi"
+ },
+ {
+  "id": "hist-134",
+  "prompt": "Whose 1914 assassination in Sarajevo triggered World War I?",
+  "choices": [
+   "Kaiser Wilhelm II",
+   "Archduke Franz Ferdinand",
+   "Tsar Nicholas II",
+   "Emperor Franz Joseph"
+  ],
+  "answer": "Archduke Franz Ferdinand",
+  "difficulty": "medium",
+  "topic": "sarajevo assassination"
+ },
+ {
+  "id": "hist-135",
+  "prompt": "Which 1919 treaty formally ended World War I with Germany?",
+  "choices": [
+   "Treaty of Vienna",
+   "Treaty of Paris",
+   "Treaty of Versailles",
+   "Treaty of Tordesillas"
+  ],
+  "answer": "Treaty of Versailles",
+  "difficulty": "medium",
+  "topic": "versailles treaty"
+ },
+ {
+  "id": "hist-136",
+  "prompt": "In which year did the Russian Revolution bring the Bolsheviks to power?",
+  "choices": [
+   "1905",
+   "1924",
+   "1939",
+   "1917"
+  ],
+  "answer": "1917",
+  "difficulty": "medium",
+  "topic": "bolshevik revolution year"
+ },
+ {
+  "id": "hist-137",
+  "prompt": "Who led the Bolsheviks in the Russian Revolution?",
+  "choices": [
+   "Vladimir Lenin",
+   "Joseph Stalin",
+   "Leon Tolstoy",
+   "Nikita Khrushchev"
+  ],
+  "answer": "Vladimir Lenin",
+  "difficulty": "easy",
+  "topic": "bolshevik leader"
+ },
+ {
+  "id": "hist-138",
+  "prompt": "Which Soviet leader ruled during most of World War II?",
+  "choices": [
+   "Vladimir Lenin",
+   "Joseph Stalin",
+   "Nikita Khrushchev",
+   "Leonid Brezhnev"
+  ],
+  "answer": "Joseph Stalin",
+  "difficulty": "easy",
+  "topic": "soviet wwii leader"
+ },
+ {
+  "id": "hist-139",
+  "prompt": "Who was Britain's prime minister for most of World War II?",
+  "choices": [
+   "Neville Chamberlain",
+   "Clement Attlee",
+   "Winston Churchill",
+   "Margaret Thatcher"
+  ],
+  "answer": "Winston Churchill",
+  "difficulty": "easy",
+  "topic": "british wwii pm"
+ },
+ {
+  "id": "hist-140",
+  "prompt": "The 1944 D-Day landings took place on the coast of which country?",
+  "choices": [
+   "Italy",
+   "Belgium",
+   "Norway",
+   "France"
+  ],
+  "answer": "France",
+  "difficulty": "easy",
+  "topic": "d-day country"
+ },
+ {
+  "id": "hist-141",
+  "prompt": "In which year did World War II begin in Europe?",
+  "choices": [
+   "1939",
+   "1914",
+   "1941",
+   "1936"
+  ],
+  "answer": "1939",
+  "difficulty": "easy",
+  "topic": "wwii start year"
+ },
+ {
+  "id": "hist-142",
+  "prompt": "Which dictator led Nazi Germany?",
+  "choices": [
+   "Otto von Bismarck",
+   "Adolf Hitler",
+   "Erich Ludendorff",
+   "Paul von Hindenburg"
+  ],
+  "answer": "Adolf Hitler",
+  "difficulty": "easy",
+  "topic": "nazi leader"
+ },
+ {
+  "id": "hist-143",
+  "prompt": "Which city was split by a wall from 1961 until 1989?",
+  "choices": [
+   "Vienna",
+   "Budapest",
+   "Berlin",
+   "Warsaw"
+  ],
+  "answer": "Berlin",
+  "difficulty": "easy",
+  "topic": "berlin wall city"
+ },
+ {
+  "id": "hist-144",
+  "prompt": "In which year did the Berlin Wall fall?",
+  "choices": [
+   "1975",
+   "1991",
+   "1961",
+   "1989"
+  ],
+  "answer": "1989",
+  "difficulty": "easy",
+  "topic": "berlin wall fall year"
+ },
+ {
+  "id": "hist-145",
+  "prompt": "Which country launched Sputnik, the first artificial satellite?",
+  "choices": [
+   "Soviet Union",
+   "United States",
+   "China",
+   "Germany"
+  ],
+  "answer": "Soviet Union",
+  "difficulty": "easy",
+  "topic": "sputnik launcher"
+ },
+ {
+  "id": "hist-146",
+  "prompt": "Who was the first human to travel into space, in 1961?",
+  "choices": [
+   "Neil Armstrong",
+   "Yuri Gagarin",
+   "Alan Shepard",
+   "Valentina Tereshkova"
+  ],
+  "answer": "Yuri Gagarin",
+  "difficulty": "easy",
+  "topic": "first human in space"
+ },
+ {
+  "id": "hist-147",
+  "prompt": "In which year did humans first land on the Moon?",
+  "choices": [
+   "1961",
+   "1975",
+   "1969",
+   "1957"
+  ],
+  "answer": "1969",
+  "difficulty": "easy",
+  "topic": "moon landing year"
+ },
+ {
+  "id": "hist-148",
+  "prompt": "Who was the first person to walk on the Moon?",
+  "choices": [
+   "Buzz Aldrin",
+   "John Glenn",
+   "Yuri Gagarin",
+   "Neil Armstrong"
+  ],
+  "answer": "Neil Armstrong",
+  "difficulty": "easy",
+  "topic": "first moonwalker"
+ },
+ {
+  "id": "hist-149",
+  "prompt": "In which year did the Soviet Union dissolve?",
+  "choices": [
+   "1991",
+   "1985",
+   "1979",
+   "2000"
+  ],
+  "answer": "1991",
+  "difficulty": "medium",
+  "topic": "soviet dissolution year"
+ },
+ {
+  "id": "hist-150",
+  "prompt": "In which year did the Titanic sink?",
+  "choices": [
+   "1905",
+   "1912",
+   "1921",
+   "1898"
+  ],
+  "answer": "1912",
+  "difficulty": "easy",
+  "topic": "titanic year"
+ },
+ {
+  "id": "hist-151",
+  "prompt": "Which ship carried Charles Darwin on his famous voyage?",
+  "choices": [
+   "HMS Victory",
+   "Mayflower",
+   "HMS Beagle",
+   "Endeavour"
+  ],
+  "answer": "HMS Beagle",
+  "difficulty": "medium",
+  "topic": "darwin ship"
+ },
+ {
+  "id": "hist-152",
+  "prompt": "Which scientist, with her husband Pierre, discovered radium?",
+  "choices": [
+   "Ada Lovelace",
+   "Rosalind Franklin",
+   "Florence Nightingale",
+   "Marie Curie"
+  ],
+  "answer": "Marie Curie",
+  "difficulty": "medium",
+  "topic": "radium discovery"
+ },
+ {
+  "id": "hist-153",
+  "prompt": "Which Scottish scientist discovered penicillin in 1928?",
+  "choices": [
+   "Alexander Fleming",
+   "Joseph Lister",
+   "Edward Jenner",
+   "Louis Pasteur"
+  ],
+  "answer": "Alexander Fleming",
+  "difficulty": "medium",
+  "topic": "penicillin discoverer"
+ },
+ {
+  "id": "hist-154",
+  "prompt": "Which French scientist developed a rabies vaccine in the 1880s?",
+  "choices": [
+   "Marie Curie",
+   "Louis Pasteur",
+   "Antoine Lavoisier",
+   "Claude Bernard"
+  ],
+  "answer": "Louis Pasteur",
+  "difficulty": "medium",
+  "topic": "pasteur rabies"
+ },
+ {
+  "id": "hist-155",
+  "prompt": "Which Italian astronomer was tried by the Inquisition in 1633?",
+  "choices": [
+   "Johannes Kepler",
+   "Giordano Bruno",
+   "Galileo Galilei",
+   "Nicolaus Copernicus"
+  ],
+  "answer": "Galileo Galilei",
+  "difficulty": "medium",
+  "topic": "galileo trial"
+ },
+ {
+  "id": "hist-156",
+  "prompt": "Which English physician developed the smallpox vaccine in 1796?",
+  "choices": [
+   "Joseph Lister",
+   "John Snow",
+   "William Harvey",
+   "Edward Jenner"
+  ],
+  "answer": "Edward Jenner",
+  "difficulty": "hard",
+  "topic": "jenner vaccine"
+ },
+ {
+  "id": "hist-157",
+  "prompt": "Which scientist published the theory of relativity?",
+  "choices": [
+   "Albert Einstein",
+   "Isaac Newton",
+   "Niels Bohr",
+   "Max Planck"
+  ],
+  "answer": "Albert Einstein",
+  "difficulty": "easy",
+  "topic": "relativity theorist"
+ },
+ {
+  "id": "hist-158",
+  "prompt": "Which English scientist described gravity and the laws of motion in 1687?",
+  "choices": [
+   "Robert Boyle",
+   "Isaac Newton",
+   "Edmund Halley",
+   "Robert Hooke"
+  ],
+  "answer": "Isaac Newton",
+  "difficulty": "medium",
+  "topic": "newton principia"
+ },
+ {
+  "id": "hist-159",
+  "prompt": "Which pharaoh had the temples of Abu Simbel carved?",
+  "choices": [
+   "Khufu",
+   "Thutmose III",
+   "Ramses II",
+   "Tutankhamun"
+  ],
+  "answer": "Ramses II",
+  "difficulty": "medium",
+  "topic": "abu simbel pharaoh"
+ },
+ {
+  "id": "hist-160",
+  "prompt": "Which woman ruled Egypt as pharaoh and built a famed temple at Deir el-Bahri?",
+  "choices": [
+   "Cleopatra",
+   "Nefertiti",
+   "Tiye",
+   "Hatshepsut"
+  ],
+  "answer": "Hatshepsut",
+  "difficulty": "hard",
+  "topic": "hatshepsut"
+ },
+ {
+  "id": "hist-161",
+  "prompt": "Which pharaoh tried to shift Egypt to worship of the sun disk Aten?",
+  "choices": [
+   "Akhenaten",
+   "Ramses II",
+   "Khufu",
+   "Thutmose III"
+  ],
+  "answer": "Akhenaten",
+  "difficulty": "hard",
+  "topic": "akhenaten aten"
+ },
+ {
+  "id": "hist-162",
+  "prompt": "In which region was the Epic of Gilgamesh written down?",
+  "choices": [
+   "Egypt",
+   "Mesopotamia",
+   "Greece",
+   "Persia"
+  ],
+  "answer": "Mesopotamia",
+  "difficulty": "medium",
+  "topic": "gilgamesh region"
+ },
+ {
+  "id": "hist-163",
+  "prompt": "Rome fought the Punic Wars against which rival?",
+  "choices": [
+   "Athens",
+   "Persia",
+   "Carthage",
+   "Gaul"
+  ],
+  "answer": "Carthage",
+  "difficulty": "medium",
+  "topic": "punic wars opponent"
+ },
+ {
+  "id": "hist-164",
+  "prompt": "Which Roman general defeated Hannibal at Zama in 202 BC?",
+  "choices": [
+   "Julius Caesar",
+   "Pompey",
+   "Marcus Crassus",
+   "Scipio Africanus"
+  ],
+  "answer": "Scipio Africanus",
+  "difficulty": "hard",
+  "topic": "zama victor"
+ },
+ {
+  "id": "hist-165",
+  "prompt": "Which gladiator led a major slave revolt against Rome starting in 73 BC?",
+  "choices": [
+   "Spartacus",
+   "Maximus",
+   "Brutus",
+   "Hannibal"
+  ],
+  "answer": "Spartacus",
+  "difficulty": "easy",
+  "topic": "spartacus revolt"
+ },
+ {
+  "id": "hist-166",
+  "prompt": "Which 31 BC naval battle saw Octavian defeat Antony and Cleopatra?",
+  "choices": [
+   "Salamis",
+   "Actium",
+   "Lepanto",
+   "Trafalgar"
+  ],
+  "answer": "Actium",
+  "difficulty": "hard",
+  "topic": "battle of actium"
+ },
+ {
+  "id": "hist-167",
+  "prompt": "Which Roman emperor wrote the philosophical Meditations?",
+  "choices": [
+   "Nero",
+   "Caligula",
+   "Marcus Aurelius",
+   "Constantine"
+  ],
+  "answer": "Marcus Aurelius",
+  "difficulty": "medium",
+  "topic": "meditations author"
+ },
+ {
+  "id": "hist-168",
+  "prompt": "Which Greek writer is often called the Father of History?",
+  "choices": [
+   "Homer",
+   "Aristotle",
+   "Euclid",
+   "Herodotus"
+  ],
+  "answer": "Herodotus",
+  "difficulty": "medium",
+  "topic": "father of history"
+ },
+ {
+  "id": "hist-169",
+  "prompt": "Which Athenian statesman led the city during the building of the Parthenon?",
+  "choices": [
+   "Pericles",
+   "Solon",
+   "Leonidas",
+   "Alcibiades"
+  ],
+  "answer": "Pericles",
+  "difficulty": "medium",
+  "topic": "pericles parthenon"
+ },
+ {
+  "id": "hist-170",
+  "prompt": "Which long war between Athens and Sparta ended in 404 BC?",
+  "choices": [
+   "Persian Wars",
+   "Peloponnesian War",
+   "Punic Wars",
+   "Trojan War"
+  ],
+  "answer": "Peloponnesian War",
+  "difficulty": "medium",
+  "topic": "peloponnesian war"
+ },
+ {
+  "id": "hist-171",
+  "prompt": "Which Persian king invaded Greece and lost at the Battle of Salamis?",
+  "choices": [
+   "Cyrus",
+   "Darius III",
+   "Xerxes",
+   "Cambyses"
+  ],
+  "answer": "Xerxes",
+  "difficulty": "hard",
+  "topic": "salamis xerxes"
+ },
+ {
+  "id": "hist-172",
+  "prompt": "Which ancient Peruvian people created the giant Nazca Lines?",
+  "choices": [
+   "The Aztecs",
+   "The Olmec",
+   "The Toltec",
+   "The Nazca"
+  ],
+  "answer": "The Nazca",
+  "difficulty": "medium",
+  "topic": "nazca lines people"
+ },
+ {
+  "id": "hist-173",
+  "prompt": "The Mississippian city of Cahokia stood near which modern US city?",
+  "choices": [
+   "St. Louis",
+   "Atlanta",
+   "Denver",
+   "Boston"
+  ],
+  "answer": "St. Louis",
+  "difficulty": "hard",
+  "topic": "cahokia location"
+ },
+ {
+  "id": "hist-174",
+  "prompt": "Which early Mexican civilization carved giant stone heads?",
+  "choices": [
+   "The Inca",
+   "The Olmec",
+   "The Zapotec",
+   "The Toltec"
+  ],
+  "answer": "The Olmec",
+  "difficulty": "medium",
+  "topic": "olmec heads"
+ },
+ {
+  "id": "hist-175",
+  "prompt": "Which Aztec emperor met Hernan Cortes in 1519?",
+  "choices": [
+   "Atahualpa",
+   "Pachacuti",
+   "Montezuma II",
+   "Huayna Capac"
+  ],
+  "answer": "Montezuma II",
+  "difficulty": "medium",
+  "topic": "aztec emperor cortes"
+ },
+ {
+  "id": "hist-176",
+  "prompt": "Which Inca emperor was captured by Pizarro in 1532?",
+  "choices": [
+   "Montezuma II",
+   "Pachacuti",
+   "Manco Capac",
+   "Atahualpa"
+  ],
+  "answer": "Atahualpa",
+  "difficulty": "hard",
+  "topic": "inca emperor captured"
+ },
+ {
+  "id": "hist-177",
+  "prompt": "What name, meaning divine wind, was given to the storms that wrecked Mongol fleets off Japan?",
+  "choices": [
+   "Kamikaze",
+   "Tsunami",
+   "Monsoon",
+   "Sirocco"
+  ],
+  "answer": "Kamikaze",
+  "difficulty": "medium",
+  "topic": "kamikaze winds"
+ },
+ {
+  "id": "hist-178",
+  "prompt": "What was the city of Tokyo called before 1868?",
+  "choices": [
+   "Kyoto",
+   "Edo",
+   "Osaka",
+   "Nara"
+  ],
+  "answer": "Edo",
+  "difficulty": "medium",
+  "topic": "edo old tokyo"
+ },
+ {
+  "id": "hist-179",
+  "prompt": "Who founded the Tokugawa shogunate in 1603?",
+  "choices": [
+   "Oda Nobunaga",
+   "Toyotomi Hideyoshi",
+   "Tokugawa Ieyasu",
+   "Minamoto Yoritomo"
+  ],
+  "answer": "Tokugawa Ieyasu",
+  "difficulty": "hard",
+  "topic": "tokugawa founder"
+ },
+ {
+  "id": "hist-180",
+  "prompt": "Which Chinese dynasty built the Forbidden City in Beijing?",
+  "choices": [
+   "Tang",
+   "Han",
+   "Song",
+   "Ming"
+  ],
+  "answer": "Ming",
+  "difficulty": "medium",
+  "topic": "forbidden city dynasty"
+ },
+ {
+  "id": "hist-181",
+  "prompt": "Who was the last emperor of China?",
+  "choices": [
+   "Puyi",
+   "Kublai Khan",
+   "Qin Shi Huang",
+   "Sun Yat-sen"
+  ],
+  "answer": "Puyi",
+  "difficulty": "medium",
+  "topic": "last chinese emperor"
+ },
+ {
+  "id": "hist-182",
+  "prompt": "Who proclaimed the People's Republic of China in 1949?",
+  "choices": [
+   "Sun Yat-sen",
+   "Mao Zedong",
+   "Deng Xiaoping",
+   "Chiang Kai-shek"
+  ],
+  "answer": "Mao Zedong",
+  "difficulty": "easy",
+  "topic": "prc proclaimed"
+ },
+ {
+  "id": "hist-183",
+  "prompt": "Britain fought which country in the Opium Wars?",
+  "choices": [
+   "Japan",
+   "India",
+   "China",
+   "Korea"
+  ],
+  "answer": "China",
+  "difficulty": "medium",
+  "topic": "opium wars opponent"
+ },
+ {
+  "id": "hist-184",
+  "prompt": "Which Mongol commander, a grandson of Genghis Khan, took Baghdad in 1258?",
+  "choices": [
+   "Kublai Khan",
+   "Ogedei Khan",
+   "Batu Khan",
+   "Hulagu Khan"
+  ],
+  "answer": "Hulagu Khan",
+  "difficulty": "hard",
+  "topic": "baghdad 1258 mongol"
+ },
+ {
+  "id": "hist-185",
+  "prompt": "Which city did the Abbasid caliphs found in 762 as their capital?",
+  "choices": [
+   "Baghdad",
+   "Cairo",
+   "Damascus",
+   "Mecca"
+  ],
+  "answer": "Baghdad",
+  "difficulty": "medium",
+  "topic": "abbasid capital"
+ },
+ {
+  "id": "hist-186",
+  "prompt": "Which Muslim dynasty ruled from Damascus before the Abbasids?",
+  "choices": [
+   "Safavid",
+   "Umayyad",
+   "Ottoman",
+   "Fatimid"
+  ],
+  "answer": "Umayyad",
+  "difficulty": "hard",
+  "topic": "umayyad capital"
+ },
+ {
+  "id": "hist-187",
+  "prompt": "Who founded the Ottoman state around the year 1300?",
+  "choices": [
+   "Mehmed II",
+   "Suleiman",
+   "Osman I",
+   "Selim I"
+  ],
+  "answer": "Osman I",
+  "difficulty": "hard",
+  "topic": "ottoman founder"
+ },
+ {
+  "id": "hist-188",
+  "prompt": "Which Persian dynasty made Shia Islam the state religion in the 1500s?",
+  "choices": [
+   "Abbasid",
+   "Umayyad",
+   "Mughal",
+   "Safavid"
+  ],
+  "answer": "Safavid",
+  "difficulty": "hard",
+  "topic": "safavid shia"
+ },
+ {
+  "id": "hist-189",
+  "prompt": "The 1857 uprising in India was a revolt against which power?",
+  "choices": [
+   "British East India Company",
+   "Mughal Empire",
+   "Portuguese Empire",
+   "Dutch East India Company"
+  ],
+  "answer": "British East India Company",
+  "difficulty": "medium",
+  "topic": "1857 uprising target"
+ },
+ {
+  "id": "hist-190",
+  "prompt": "Which leader walked to the sea in the 1930 Salt March?",
+  "choices": [
+   "Jawaharlal Nehru",
+   "Mahatma Gandhi",
+   "Subhas Chandra Bose",
+   "Muhammad Ali Jinnah"
+  ],
+  "answer": "Mahatma Gandhi",
+  "difficulty": "medium",
+  "topic": "salt march leader"
+ },
+ {
+  "id": "hist-191",
+  "prompt": "In which year did India gain independence from Britain?",
+  "choices": [
+   "1857",
+   "1919",
+   "1947",
+   "1965"
+  ],
+  "answer": "1947",
+  "difficulty": "easy",
+  "topic": "india independence year"
+ },
+ {
+  "id": "hist-192",
+  "prompt": "Which new country was created alongside India in 1947?",
+  "choices": [
+   "Bangladesh",
+   "Sri Lanka",
+   "Nepal",
+   "Pakistan"
+  ],
+  "answer": "Pakistan",
+  "difficulty": "medium",
+  "topic": "1947 partition country"
+ },
+ {
+  "id": "hist-193",
+  "prompt": "What was Genghis Khan's birth name?",
+  "choices": [
+   "Temujin",
+   "Subutai",
+   "Batu",
+   "Ogedei"
+  ],
+  "answer": "Temujin",
+  "difficulty": "hard",
+  "topic": "genghis birth name"
+ },
+ {
+  "id": "hist-194",
+  "prompt": "Which ancient kingdom south of Egypt ruled Egypt during its 25th Dynasty?",
+  "choices": [
+   "Aksum",
+   "Kush",
+   "Punt",
+   "Carthage"
+  ],
+  "answer": "Kush",
+  "difficulty": "hard",
+  "topic": "kushite pharaohs"
+ },
+ {
+  "id": "hist-195",
+  "prompt": "Which French diplomat promoted the building of the Suez Canal?",
+  "choices": [
+   "Gustave Eiffel",
+   "Louis Pasteur",
+   "Ferdinand de Lesseps",
+   "Napoleon III"
+  ],
+  "answer": "Ferdinand de Lesseps",
+  "difficulty": "hard",
+  "topic": "suez canal promoter"
+ },
+ {
+  "id": "hist-196",
+  "prompt": "In which year was Nelson Mandela elected president of South Africa?",
+  "choices": [
+   "1976",
+   "1963",
+   "2002",
+   "1994"
+  ],
+  "answer": "1994",
+  "difficulty": "medium",
+  "topic": "mandela presidency year"
+ },
+ {
+  "id": "hist-197",
+  "prompt": "Which island prison held Nelson Mandela for many years?",
+  "choices": [
+   "Robben Island",
+   "Alcatraz",
+   "Devil's Island",
+   "Ellis Island"
+  ],
+  "answer": "Robben Island",
+  "difficulty": "medium",
+  "topic": "mandela prison island"
+ },
+ {
+  "id": "hist-198",
+  "prompt": "Which Egyptian leader nationalized the Suez Canal in 1956?",
+  "choices": [
+   "Anwar Sadat",
+   "Gamal Abdel Nasser",
+   "Hosni Mubarak",
+   "King Farouk"
+  ],
+  "answer": "Gamal Abdel Nasser",
+  "difficulty": "hard",
+  "topic": "suez nationalization"
+ },
+ {
+  "id": "hist-199",
+  "prompt": "Which leader guided Ghana to independence from Britain in 1957?",
+  "choices": [
+   "Jomo Kenyatta",
+   "Julius Nyerere",
+   "Kwame Nkrumah",
+   "Nelson Mandela"
+  ],
+  "answer": "Kwame Nkrumah",
+  "difficulty": "medium",
+  "topic": "ghana independence leader"
+ },
+ {
+  "id": "hist-200",
+  "prompt": "Who became the first president of independent Kenya?",
+  "choices": [
+   "Julius Nyerere",
+   "Kwame Nkrumah",
+   "Robert Mugabe",
+   "Jomo Kenyatta"
+  ],
+  "answer": "Jomo Kenyatta",
+  "difficulty": "hard",
+  "topic": "kenya first president"
+ },
+ {
+  "id": "hist-201",
+  "prompt": "Which emperor ruled Ethiopia from 1930 to 1974?",
+  "choices": [
+   "Haile Selassie",
+   "Menelik II",
+   "Tewodros II",
+   "Yohannes IV"
+  ],
+  "answer": "Haile Selassie",
+  "difficulty": "medium",
+  "topic": "haile selassie"
+ },
+ {
+  "id": "hist-202",
+  "prompt": "Which British explorer charted the east coast of Australia in 1770?",
+  "choices": [
+   "Abel Tasman",
+   "James Cook",
+   "William Dampier",
+   "Matthew Flinders"
+  ],
+  "answer": "James Cook",
+  "difficulty": "medium",
+  "topic": "cook australia"
+ },
+ {
+  "id": "hist-203",
+  "prompt": "Which Norwegian explorer led the first team to reach the South Pole in 1911?",
+  "choices": [
+   "Robert Scott",
+   "Ernest Shackleton",
+   "Roald Amundsen",
+   "Fridtjof Nansen"
+  ],
+  "answer": "Roald Amundsen",
+  "difficulty": "medium",
+  "topic": "amundsen south pole"
+ },
+ {
+  "id": "hist-204",
+  "prompt": "In which year did Hillary and Tenzing reach the summit of Everest?",
+  "choices": [
+   "1924",
+   "1969",
+   "1978",
+   "1953"
+  ],
+  "answer": "1953",
+  "difficulty": "medium",
+  "topic": "everest summit year"
+ },
+ {
+  "id": "hist-205",
+  "prompt": "Which 1840 treaty was signed between Maori chiefs and the British Crown?",
+  "choices": [
+   "Treaty of Waitangi",
+   "Treaty of Paris",
+   "Treaty of Ghent",
+   "Treaty of Nanking"
+  ],
+  "answer": "Treaty of Waitangi",
+  "difficulty": "hard",
+  "topic": "waitangi treaty"
+ },
+ {
+  "id": "hist-206",
+  "prompt": "What are the giant stone statues of Easter Island called?",
+  "choices": [
+   "Totems",
+   "Moai",
+   "Stelae",
+   "Menhirs"
+  ],
+  "answer": "Moai",
+  "difficulty": "medium",
+  "topic": "moai"
+ },
+ {
+  "id": "hist-207",
+  "prompt": "Which English explorer is Hudson Bay named after?",
+  "choices": [
+   "James Cook",
+   "John Cabot",
+   "Henry Hudson",
+   "Francis Drake"
+  ],
+  "answer": "Henry Hudson",
+  "difficulty": "medium",
+  "topic": "hudson bay namesake"
+ },
+ {
+  "id": "hist-208",
+  "prompt": "Which French explorer founded the city of Quebec in 1608?",
+  "choices": [
+   "Jacques Cartier",
+   "Louis Joliet",
+   "Robert La Salle",
+   "Samuel de Champlain"
+  ],
+  "answer": "Samuel de Champlain",
+  "difficulty": "medium",
+  "topic": "quebec founder"
+ },
+ {
+  "id": "hist-209",
+  "prompt": "In which year was Jamestown, Virginia, founded?",
+  "choices": [
+   "1607",
+   "1620",
+   "1565",
+   "1692"
+  ],
+  "answer": "1607",
+  "difficulty": "medium",
+  "topic": "jamestown year"
+ },
+ {
+  "id": "hist-210",
+  "prompt": "Which English leader led the Parliament's army in the English Civil War?",
+  "choices": [
+   "Thomas More",
+   "Oliver Cromwell",
+   "Walter Raleigh",
+   "Francis Drake"
+  ],
+  "answer": "Oliver Cromwell",
+  "difficulty": "medium",
+  "topic": "cromwell civil war"
+ },
+ {
+  "id": "hist-211",
+  "prompt": "Which English king was executed in 1649?",
+  "choices": [
+   "Charles II",
+   "Richard III",
+   "Charles I",
+   "Henry VIII"
+  ],
+  "answer": "Charles I",
+  "difficulty": "medium",
+  "topic": "charles i execution"
+ },
+ {
+  "id": "hist-212",
+  "prompt": "In which year did the Great Fire of London occur?",
+  "choices": [
+   "1588",
+   "1715",
+   "1805",
+   "1666"
+  ],
+  "answer": "1666",
+  "difficulty": "easy",
+  "topic": "great fire london year"
+ },
+ {
+  "id": "hist-213",
+  "prompt": "Which Prussian king was known as the Great?",
+  "choices": [
+   "Frederick II",
+   "Frederick William I",
+   "Wilhelm I",
+   "Otto von Bismarck"
+  ],
+  "answer": "Frederick II",
+  "difficulty": "hard",
+  "topic": "frederick the great"
+ },
+ {
+  "id": "hist-214",
+  "prompt": "Which queen of Castile backed the voyage of Columbus?",
+  "choices": [
+   "Elizabeth I",
+   "Isabella I",
+   "Maria Theresa",
+   "Catherine of Aragon"
+  ],
+  "answer": "Isabella I",
+  "difficulty": "medium",
+  "topic": "isabella columbus"
+ },
+ {
+  "id": "hist-215",
+  "prompt": "Which nurse became famous for her work in the Crimean War?",
+  "choices": [
+   "Clara Barton",
+   "Dorothea Dix",
+   "Florence Nightingale",
+   "Edith Cavell"
+  ],
+  "answer": "Florence Nightingale",
+  "difficulty": "easy",
+  "topic": "crimean nurse"
+ },
+ {
+  "id": "hist-216",
+  "prompt": "The Great Depression began after a Wall Street crash in which year?",
+  "choices": [
+   "1919",
+   "1939",
+   "1945",
+   "1929"
+  ],
+  "answer": "1929",
+  "difficulty": "medium",
+  "topic": "great depression year"
+ },
+ {
+  "id": "hist-217",
+  "prompt": "Who was the last tsar of Russia?",
+  "choices": [
+   "Nicholas II",
+   "Peter the Great",
+   "Alexander III",
+   "Ivan the Terrible"
+  ],
+  "answer": "Nicholas II",
+  "difficulty": "medium",
+  "topic": "last tsar"
+ },
+ {
+  "id": "hist-218",
+  "prompt": "Who became Britain's first female prime minister in 1979?",
+  "choices": [
+   "Theresa May",
+   "Margaret Thatcher",
+   "Indira Gandhi",
+   "Golda Meir"
+  ],
+  "answer": "Margaret Thatcher",
+  "difficulty": "easy",
+  "topic": "first female uk pm"
+ },
+ {
+  "id": "hist-219",
+  "prompt": "On what did ancient Egyptians commonly write, made from a river reed?",
+  "choices": [
+   "Parchment",
+   "Bamboo",
+   "Papyrus",
+   "Vellum"
+  ],
+  "answer": "Papyrus",
+  "difficulty": "easy",
+  "topic": "papyrus"
+ },
+ {
+  "id": "hist-220",
+  "prompt": "Which Greek scholar wrote the geometry textbook Elements?",
+  "choices": [
+   "Archimedes",
+   "Pythagoras",
+   "Ptolemy",
+   "Euclid"
+  ],
+  "answer": "Euclid",
+  "difficulty": "medium",
+  "topic": "euclid elements"
+ },
+ {
+  "id": "hist-221",
+  "prompt": "Which ancient Greek doctor is called the Father of Medicine?",
+  "choices": [
+   "Hippocrates",
+   "Galen",
+   "Aristotle",
+   "Socrates"
+  ],
+  "answer": "Hippocrates",
+  "difficulty": "medium",
+  "topic": "father of medicine"
+ },
+ {
+  "id": "hist-222",
+  "prompt": "Which scholar of Alexandria estimated the size of the Earth around 240 BC?",
+  "choices": [
+   "Archimedes",
+   "Eratosthenes",
+   "Ptolemy",
+   "Aristarchus"
+  ],
+  "answer": "Eratosthenes",
+  "difficulty": "hard",
+  "topic": "eratosthenes earth size"
+ },
+ {
+  "id": "hist-223",
+  "prompt": "Which country is credited with inventing gunpowder?",
+  "choices": [
+   "Italy",
+   "Egypt",
+   "China",
+   "India"
+  ],
+  "answer": "China",
+  "difficulty": "medium",
+  "topic": "gunpowder origin"
+ },
+ {
+  "id": "hist-224",
+  "prompt": "Which Persian scholar's name gave us the word 'algebra' and 'algorithm'?",
+  "choices": [
+   "Avicenna",
+   "Omar Khayyam",
+   "Alhazen",
+   "Al-Khwarizmi"
+  ],
+  "answer": "Al-Khwarizmi",
+  "difficulty": "hard",
+  "topic": "al-khwarizmi"
+ },
+ {
+  "id": "hist-225",
+  "prompt": "In which year did Darwin publish On the Origin of Species?",
+  "choices": [
+   "1859",
+   "1809",
+   "1882",
+   "1901"
+  ],
+  "answer": "1859",
+  "difficulty": "hard",
+  "topic": "origin of species year"
+ },
+ {
+  "id": "hist-226",
+  "prompt": "Which German physicist discovered X-rays in 1895?",
+  "choices": [
+   "Max Planck",
+   "Wilhelm Roentgen",
+   "Heinrich Hertz",
+   "Albert Einstein"
+  ],
+  "answer": "Wilhelm Roentgen",
+  "difficulty": "hard",
+  "topic": "x-ray discoverer"
+ },
+ {
+  "id": "hist-227",
+  "prompt": "Which Russian chemist created the periodic table?",
+  "choices": [
+   "Marie Curie",
+   "Antoine Lavoisier",
+   "Dmitri Mendeleev",
+   "Niels Bohr"
+  ],
+  "answer": "Dmitri Mendeleev",
+  "difficulty": "hard",
+  "topic": "periodic table creator"
+ },
+ {
+  "id": "hist-228",
+  "prompt": "Which secret US project built the first atomic bombs in World War II?",
+  "choices": [
+   "Apollo Program",
+   "Project Mercury",
+   "Operation Overlord",
+   "Manhattan Project"
+  ],
+  "answer": "Manhattan Project",
+  "difficulty": "medium",
+  "topic": "manhattan project"
+ },
+ {
+  "id": "hist-229",
+  "prompt": "Which country gave the Statue of Liberty to the United States?",
+  "choices": [
+   "France",
+   "England",
+   "Spain",
+   "Italy"
+  ],
+  "answer": "France",
+  "difficulty": "easy",
+  "topic": "statue of liberty giver"
+ },
+ {
+  "id": "hist-230",
+  "prompt": "Which huge wall in northern China was built to guard against invaders?",
+  "choices": [
+   "Hadrian's Wall",
+   "The Great Wall",
+   "The Berlin Wall",
+   "The Wall of Troy"
+  ],
+  "answer": "The Great Wall",
+  "difficulty": "easy",
+  "topic": "great wall purpose"
+ },
+ {
+  "id": "hist-231",
+  "prompt": "In which country did the Renaissance begin?",
+  "choices": [
+   "France",
+   "England",
+   "Italy",
+   "Germany"
+  ],
+  "answer": "Italy",
+  "difficulty": "easy",
+  "topic": "renaissance origin country"
+ },
+ {
+  "id": "hist-232",
+  "prompt": "Which language did the ancient Romans speak?",
+  "choices": [
+   "Greek",
+   "Italian",
+   "Etruscan",
+   "Latin"
+  ],
+  "answer": "Latin",
+  "difficulty": "easy",
+  "topic": "roman language"
+ },
+ {
+  "id": "hist-233",
+  "prompt": "From which region of Europe did the Vikings come?",
+  "choices": [
+   "Scandinavia",
+   "Iberia",
+   "The Balkans",
+   "The Alps"
+  ],
+  "answer": "Scandinavia",
+  "difficulty": "easy",
+  "topic": "viking homeland"
+ },
+ {
+  "id": "hist-234",
+  "prompt": "Which founding father was the main author of the Declaration of Independence?",
+  "choices": [
+   "Benjamin Franklin",
+   "Thomas Jefferson",
+   "John Hancock",
+   "George Washington"
+  ],
+  "answer": "Thomas Jefferson",
+  "difficulty": "easy",
+  "topic": "declaration author"
+ },
+ {
+  "id": "hist-235",
+  "prompt": "The capital of the United States is named after which president?",
+  "choices": [
+   "Abraham Lincoln",
+   "Thomas Jefferson",
+   "George Washington",
+   "John Adams"
+  ],
+  "answer": "George Washington",
+  "difficulty": "easy",
+  "topic": "washington dc namesake"
+ },
+ {
+  "id": "hist-236",
+  "prompt": "The American Revolution was fought against which country?",
+  "choices": [
+   "France",
+   "Spain",
+   "Mexico",
+   "Great Britain"
+  ],
+  "answer": "Great Britain",
+  "difficulty": "easy",
+  "topic": "revolution opponent"
+ },
+ {
+  "id": "hist-237",
+  "prompt": "Which US president was assassinated in Dallas in 1963?",
+  "choices": [
+   "John F. Kennedy",
+   "Lyndon Johnson",
+   "Abraham Lincoln",
+   "Richard Nixon"
+  ],
+  "answer": "John F. Kennedy",
+  "difficulty": "easy",
+  "topic": "jfk assassination"
+ },
+ {
+  "id": "hist-238",
+  "prompt": "Which English king had six wives?",
+  "choices": [
+   "Henry V",
+   "Henry VIII",
+   "Edward III",
+   "Richard I"
+  ],
+  "answer": "Henry VIII",
+  "difficulty": "easy",
+  "topic": "six wives king"
+ },
+ {
+  "id": "hist-239",
+  "prompt": "In which city were the first modern Olympic Games held in 1896?",
+  "choices": [
+   "Paris",
+   "London",
+   "Athens",
+   "Rome"
+  ],
+  "answer": "Athens",
+  "difficulty": "easy",
+  "topic": "modern olympics 1896"
+ },
+ {
+  "id": "hist-240",
+  "prompt": "In which year did World War I begin?",
+  "choices": [
+   "1905",
+   "1918",
+   "1939",
+   "1914"
+  ],
+  "answer": "1914",
+  "difficulty": "easy",
+  "topic": "wwi start year"
+ },
+ {
+  "id": "hist-241",
+  "prompt": "In which year did World War I end?",
+  "choices": [
+   "1918",
+   "1914",
+   "1921",
+   "1939"
+  ],
+  "answer": "1918",
+  "difficulty": "easy",
+  "topic": "wwi end year"
+ },
+ {
+  "id": "hist-242",
+  "prompt": "Which two superpowers were the main rivals in the Cold War?",
+  "choices": [
+   "Britain and Germany",
+   "United States and Soviet Union",
+   "France and Russia",
+   "China and Japan"
+  ],
+  "answer": "United States and Soviet Union",
+  "difficulty": "easy",
+  "topic": "cold war rivals"
+ },
+ {
+  "id": "hist-243",
+  "prompt": "Which ship was Columbus's flagship on his first voyage?",
+  "choices": [
+   "Mayflower",
+   "Golden Hind",
+   "Santa Maria",
+   "Victoria"
+  ],
+  "answer": "Santa Maria",
+  "difficulty": "easy",
+  "topic": "columbus flagship"
+ },
+ {
+  "id": "hist-244",
+  "prompt": "Which ancient wonder of the world still stands near Cairo?",
+  "choices": [
+   "Colossus of Rhodes",
+   "Hanging Gardens of Babylon",
+   "Temple of Artemis",
+   "Great Pyramid of Giza"
+  ],
+  "answer": "Great Pyramid of Giza",
+  "difficulty": "easy",
+  "topic": "surviving ancient wonder"
+ },
+ {
+  "id": "hist-245",
+  "prompt": "The 1836 battle at the Alamo took place in which US state?",
+  "choices": [
+   "Texas",
+   "California",
+   "Florida",
+   "Louisiana"
+  ],
+  "answer": "Texas",
+  "difficulty": "easy",
+  "topic": "alamo state"
+ },
+ {
+  "id": "hist-246",
+  "prompt": "Which US state was the center of the 1849 Gold Rush?",
+  "choices": [
+   "Alaska",
+   "California",
+   "Colorado",
+   "Nevada"
+  ],
+  "answer": "California",
+  "difficulty": "easy",
+  "topic": "gold rush state"
+ },
+ {
+  "id": "hist-247",
+  "prompt": "The 1773 Tea Party protest against British rule took place in which port?",
+  "choices": [
+   "New York",
+   "Philadelphia",
+   "Boston",
+   "Charleston"
+  ],
+  "answer": "Boston",
+  "difficulty": "easy",
+  "topic": "boston tea party"
+ },
+ {
+  "id": "hist-248",
+  "prompt": "Which British city was the main target of the 1940-41 Blitz?",
+  "choices": [
+   "Manchester",
+   "Edinburgh",
+   "Cardiff",
+   "London"
+  ],
+  "answer": "London",
+  "difficulty": "easy",
+  "topic": "blitz city"
+ },
+ {
+  "id": "hist-249",
+  "prompt": "Which Greek thinker is linked to a famous theorem about right triangles?",
+  "choices": [
+   "Pythagoras",
+   "Aristotle",
+   "Socrates",
+   "Archimedes"
+  ],
+  "answer": "Pythagoras",
+  "difficulty": "easy",
+  "topic": "pythagoras theorem"
+ },
+ {
+  "id": "hist-250",
+  "prompt": "Samurai warriors came from which country?",
+  "choices": [
+   "China",
+   "Japan",
+   "Korea",
+   "Mongolia"
+  ],
+  "answer": "Japan",
+  "difficulty": "easy",
+  "topic": "samurai country"
+ },
+ {
+  "id": "hist-251",
+  "prompt": "The Aztec Empire was centered in what is now which country?",
+  "choices": [
+   "Peru",
+   "Brazil",
+   "Mexico",
+   "Chile"
+  ],
+  "answer": "Mexico",
+  "difficulty": "easy",
+  "topic": "aztec modern country"
+ },
+ {
+  "id": "hist-252",
+  "prompt": "The Inca Empire was centered in what is now which country?",
+  "choices": [
+   "Mexico",
+   "Argentina",
+   "Venezuela",
+   "Peru"
+  ],
+  "answer": "Peru",
+  "difficulty": "easy",
+  "topic": "inca modern country"
+ },
+ {
+  "id": "hist-253",
+  "prompt": "What were the long, narrow Viking warships called?",
+  "choices": [
+   "Longships",
+   "Galleons",
+   "Triremes",
+   "Junks"
+  ],
+  "answer": "Longships",
+  "difficulty": "easy",
+  "topic": "viking ships"
+ },
+ {
+  "id": "hist-254",
+  "prompt": "Crusaders from Europe fought to control which city?",
+  "choices": [
+   "Rome",
+   "Jerusalem",
+   "Cairo",
+   "Athens"
+  ],
+  "answer": "Jerusalem",
+  "difficulty": "easy",
+  "topic": "crusade goal city"
+ },
+ {
+  "id": "hist-255",
+  "prompt": "Pompeii lies in which modern country?",
+  "choices": [
+   "Greece",
+   "Turkey",
+   "Italy",
+   "Spain"
+  ],
+  "answer": "Italy",
+  "difficulty": "easy",
+  "topic": "pompeii country"
+ },
+ {
+  "id": "hist-256",
+  "prompt": "Which NASA program landed astronauts on the Moon?",
+  "choices": [
+   "Gemini",
+   "Mercury",
+   "Voyager",
+   "Apollo"
+  ],
+  "answer": "Apollo",
+  "difficulty": "easy",
+  "topic": "moon program"
+ },
+ {
+  "id": "hist-257",
+  "prompt": "In which country is the Suez Canal?",
+  "choices": [
+   "Egypt",
+   "Israel",
+   "Saudi Arabia",
+   "Libya"
+  ],
+  "answer": "Egypt",
+  "difficulty": "easy",
+  "topic": "suez canal country"
+ },
+ {
+  "id": "hist-258",
+  "prompt": "Which two oceans does the Panama Canal connect?",
+  "choices": [
+   "Atlantic and Indian",
+   "Atlantic and Pacific",
+   "Pacific and Arctic",
+   "Indian and Pacific"
+  ],
+  "answer": "Atlantic and Pacific",
+  "difficulty": "easy",
+  "topic": "panama canal oceans"
+ },
+ {
+  "id": "hist-259",
+  "prompt": "Which dictator ruled Italy during World War II?",
+  "choices": [
+   "Francisco Franco",
+   "Joseph Stalin",
+   "Benito Mussolini",
+   "Victor Emmanuel I"
+  ],
+  "answer": "Benito Mussolini",
+  "difficulty": "easy",
+  "topic": "italy wwii dictator"
+ },
+ {
+  "id": "hist-260",
+  "prompt": "Which Gallic chief surrendered to Julius Caesar after the siege of Alesia?",
+  "choices": [
+   "Boudica",
+   "Arminius",
+   "Brennus",
+   "Vercingetorix"
+  ],
+  "answer": "Vercingetorix",
+  "difficulty": "hard",
+  "topic": "alesia gallic chief"
+ },
+ {
+  "id": "hist-261",
+  "prompt": "Which Byzantine emperor built the Hagia Sophia in the 500s?",
+  "choices": [
+   "Justinian I",
+   "Constantine",
+   "Heraclius",
+   "Basil II"
+  ],
+  "answer": "Justinian I",
+  "difficulty": "hard",
+  "topic": "hagia sophia builder"
+ },
+ {
+  "id": "hist-262",
+  "prompt": "Which Egyptian sultanate stopped the Mongols at Ain Jalut in 1260?",
+  "choices": [
+   "The Ottomans",
+   "The Mamluks",
+   "The Fatimids",
+   "The Seljuks"
+  ],
+  "answer": "The Mamluks",
+  "difficulty": "hard",
+  "topic": "ain jalut"
+ },
+ {
+  "id": "hist-263",
+  "prompt": "Which 1814-1815 meeting redrew Europe's map after Napoleon's defeat?",
+  "choices": [
+   "Council of Trent",
+   "Congress of Berlin",
+   "Congress of Vienna",
+   "Peace of Westphalia"
+  ],
+  "answer": "Congress of Vienna",
+  "difficulty": "hard",
+  "topic": "congress of vienna"
+ },
+ {
+  "id": "hist-264",
+  "prompt": "Which 1494 treaty split newly found lands between Spain and Portugal?",
+  "choices": [
+   "Treaty of Utrecht",
+   "Treaty of Paris",
+   "Treaty of Ghent",
+   "Treaty of Tordesillas"
+  ],
+  "answer": "Treaty of Tordesillas",
+  "difficulty": "hard",
+  "topic": "tordesillas treaty"
+ },
+ {
+  "id": "hist-265",
+  "prompt": "Who founded India's Maurya Empire around 321 BC?",
+  "choices": [
+   "Chandragupta Maurya",
+   "Ashoka",
+   "Harsha",
+   "Akbar"
+  ],
+  "answer": "Chandragupta Maurya",
+  "difficulty": "hard",
+  "topic": "maurya founder"
+ },
+ {
+  "id": "hist-266",
+  "prompt": "Which 1954 battle ended French colonial rule in Vietnam?",
+  "choices": [
+   "Hue",
+   "Dien Bien Phu",
+   "Saigon",
+   "Hanoi"
+  ],
+  "answer": "Dien Bien Phu",
+  "difficulty": "hard",
+  "topic": "dien bien phu"
+ },
+ {
+  "id": "hist-267",
+  "prompt": "The famed Benin Bronzes came from a kingdom in which modern country?",
+  "choices": [
+   "Benin",
+   "Ghana",
+   "Nigeria",
+   "Cameroon"
+  ],
+  "answer": "Nigeria",
+  "difficulty": "hard",
+  "topic": "benin bronzes country"
+ },
+ {
+  "id": "hist-268",
+  "prompt": "Which English king won the Battle of Agincourt in 1415?",
+  "choices": [
+   "Edward III",
+   "Richard III",
+   "Henry VIII",
+   "Henry V"
+  ],
+  "answer": "Henry V",
+  "difficulty": "medium",
+  "topic": "agincourt king"
+ },
+ {
+  "id": "hist-269",
+  "prompt": "Which ancient Chinese general is credited with The Art of War?",
+  "choices": [
+   "Sun Tzu",
+   "Confucius",
+   "Zhuge Liang",
+   "Laozi"
+  ],
+  "answer": "Sun Tzu",
+  "difficulty": "easy",
+  "topic": "art of war author"
+ },
+ {
+  "id": "hist-270",
+  "prompt": "America is named after which Italian explorer?",
+  "choices": [
+   "Christopher Columbus",
+   "Amerigo Vespucci",
+   "John Cabot",
+   "Marco Polo"
+  ],
+  "answer": "Amerigo Vespucci",
+  "difficulty": "medium",
+  "topic": "america namesake"
+ },
+ {
+  "id": "hist-271",
+  "prompt": "Which US president resigned from office in 1974?",
+  "choices": [
+   "Gerald Ford",
+   "Lyndon Johnson",
+   "Richard Nixon",
+   "Jimmy Carter"
+  ],
+  "answer": "Richard Nixon",
+  "difficulty": "easy",
+  "topic": "nixon resignation"
+ },
+ {
+  "id": "hist-272",
+  "prompt": "Which actor shot Abraham Lincoln at Ford's Theatre in 1865?",
+  "choices": [
+   "Lee Harvey Oswald",
+   "Aaron Burr",
+   "Jefferson Davis",
+   "John Wilkes Booth"
+  ],
+  "answer": "John Wilkes Booth",
+  "difficulty": "easy",
+  "topic": "lincoln assassin"
+ },
+ {
+  "id": "hist-273",
+  "prompt": "Which leader headed North Vietnam during the Vietnam War?",
+  "choices": [
+   "Ho Chi Minh",
+   "Mao Zedong",
+   "Pol Pot",
+   "Sun Yat-sen"
+  ],
+  "answer": "Ho Chi Minh",
+  "difficulty": "medium",
+  "topic": "north vietnam leader"
+ },
+ {
+  "id": "hist-274",
+  "prompt": "Which British duke defeated Napoleon at Waterloo?",
+  "choices": [
+   "Horatio Nelson",
+   "Duke of Wellington",
+   "Duke of Marlborough",
+   "Lord Cornwallis"
+  ],
+  "answer": "Duke of Wellington",
+  "difficulty": "medium",
+  "topic": "wellington waterloo"
+ },
+ {
+  "id": "hist-275",
+  "prompt": "Which British admiral died winning the Battle of Trafalgar in 1805?",
+  "choices": [
+   "Duke of Wellington",
+   "Francis Drake",
+   "Horatio Nelson",
+   "James Cook"
+  ],
+  "answer": "Horatio Nelson",
+  "difficulty": "easy",
+  "topic": "trafalgar admiral"
+ },
+ {
+  "id": "hist-276",
+  "prompt": "Which British king gave up the throne in 1936 to marry an American divorcee?",
+  "choices": [
+   "George V",
+   "George VI",
+   "William IV",
+   "Edward VIII"
+  ],
+  "answer": "Edward VIII",
+  "difficulty": "medium",
+  "topic": "1936 abdication"
+ },
+ {
+  "id": "hist-277",
+  "prompt": "Which phrase did Churchill use in 1946 for the Cold War divide in Europe?",
+  "choices": [
+   "Iron Curtain",
+   "Berlin Wall",
+   "Cold Front",
+   "Red Line"
+  ],
+  "answer": "Iron Curtain",
+  "difficulty": "medium",
+  "topic": "iron curtain phrase"
+ },
+ {
+  "id": "hist-278",
+  "prompt": "Which general led the Free French during World War II?",
+  "choices": [
+   "Philippe Petain",
+   "Charles de Gaulle",
+   "Napoleon III",
+   "Georges Clemenceau"
+  ],
+  "answer": "Charles de Gaulle",
+  "difficulty": "medium",
+  "topic": "free french leader"
+ },
+ {
+  "id": "hist-279",
+  "prompt": "Which US city suffered a huge earthquake and fire in 1906?",
+  "choices": [
+   "Los Angeles",
+   "Seattle",
+   "San Francisco",
+   "Portland"
+  ],
+  "answer": "San Francisco",
+  "difficulty": "medium",
+  "topic": "1906 earthquake city"
+ },
+ {
+  "id": "hist-280",
+  "prompt": "Which US city burned in a great fire in 1871?",
+  "choices": [
+   "Boston",
+   "New York",
+   "Baltimore",
+   "Chicago"
+  ],
+  "answer": "Chicago",
+  "difficulty": "medium",
+  "topic": "great chicago fire"
+ },
+ {
+  "id": "hist-281",
+  "prompt": "Which Greek philosopher was sentenced to drink hemlock?",
+  "choices": [
+   "Socrates",
+   "Plato",
+   "Aristotle",
+   "Diogenes"
+  ],
+  "answer": "Socrates",
+  "difficulty": "easy",
+  "topic": "hemlock philosopher"
+ },
+ {
+  "id": "hist-282",
+  "prompt": "The ancient city of Troy lay in what is now which country?",
+  "choices": [
+   "Greece",
+   "Turkey",
+   "Italy",
+   "Egypt"
+  ],
+  "answer": "Turkey",
+  "difficulty": "medium",
+  "topic": "troy modern country"
+ },
+ {
+  "id": "hist-283",
+  "prompt": "Who was the US president during World War I?",
+  "choices": [
+   "Theodore Roosevelt",
+   "Herbert Hoover",
+   "Woodrow Wilson",
+   "Warren Harding"
+  ],
+  "answer": "Woodrow Wilson",
+  "difficulty": "medium",
+  "topic": "wwi us president"
+ },
+ {
+  "id": "hist-284",
+  "prompt": "Which German emperor led his country into World War I?",
+  "choices": [
+   "Otto von Bismarck",
+   "Frederick the Great",
+   "Wilhelm I",
+   "Kaiser Wilhelm II"
+  ],
+  "answer": "Kaiser Wilhelm II",
+  "difficulty": "medium",
+  "topic": "wwi german kaiser"
+ },
+ {
+  "id": "hist-285",
+  "prompt": "Anne Frank's family hid from the Nazis in which city?",
+  "choices": [
+   "Amsterdam",
+   "Berlin",
+   "Brussels",
+   "Vienna"
+  ],
+  "answer": "Amsterdam",
+  "difficulty": "easy",
+  "topic": "anne frank city"
+ },
+ {
+  "id": "hist-286",
+  "prompt": "Which book was the first major work printed by Gutenberg?",
+  "choices": [
+   "The Odyssey",
+   "The Bible",
+   "Don Quixote",
+   "Canterbury Tales"
+  ],
+  "answer": "The Bible",
+  "difficulty": "easy",
+  "topic": "gutenberg first book"
+ },
+ {
+  "id": "hist-287",
+  "prompt": "Which contests were famously held in the Roman Colosseum?",
+  "choices": [
+   "Chariot races",
+   "Olympic Games",
+   "Gladiator fights",
+   "Sea voyages"
+  ],
+  "answer": "Gladiator fights",
+  "difficulty": "easy",
+  "topic": "colosseum events"
+ },
+ {
+  "id": "hist-288",
+  "prompt": "Which Powhatan woman is linked with the Jamestown colony?",
+  "choices": [
+   "Sacagawea",
+   "Squanto",
+   "Sitting Bull",
+   "Pocahontas"
+  ],
+  "answer": "Pocahontas",
+  "difficulty": "easy",
+  "topic": "pocahontas jamestown"
+ },
+ {
+  "id": "hist-289",
+  "prompt": "Which American businessman made the Model T car affordable with assembly lines?",
+  "choices": [
+   "Henry Ford",
+   "Thomas Edison",
+   "Andrew Carnegie",
+   "John Rockefeller"
+  ],
+  "answer": "Henry Ford",
+  "difficulty": "easy",
+  "topic": "henry ford model t"
+ },
+ {
+  "id": "hist-290",
+  "prompt": "Which city did the saying 'all roads lead to' refer to in Roman times?",
+  "choices": [
+   "Athens",
+   "Rome",
+   "Carthage",
+   "Alexandria"
+  ],
+  "answer": "Rome",
+  "difficulty": "easy",
+  "topic": "all roads lead to rome"
+ },
+ {
+  "id": "hist-291",
+  "prompt": "Which general commanded the Confederate army in the American Civil War?",
+  "choices": [
+   "Ulysses Grant",
+   "William Sherman",
+   "Robert E. Lee",
+   "George Custer"
+  ],
+  "answer": "Robert E. Lee",
+  "difficulty": "easy",
+  "topic": "confederate commander lee"
+ },
+ {
+  "id": "hist-292",
+  "prompt": "Which Union general later became US president after the Civil War?",
+  "choices": [
+   "Robert E. Lee",
+   "George Meade",
+   "George McClellan",
+   "Ulysses S. Grant"
+  ],
+  "answer": "Ulysses S. Grant",
+  "difficulty": "medium",
+  "topic": "grant president"
+ },
+ {
+  "id": "hist-293",
+  "prompt": "Which American developed the telegraph code of dots and dashes?",
+  "choices": [
+   "Samuel Morse",
+   "Alexander Graham Bell",
+   "Thomas Edison",
+   "Eli Whitney"
+  ],
+  "answer": "Samuel Morse",
+  "difficulty": "medium",
+  "topic": "morse code"
+ },
+ {
+  "id": "hist-294",
+  "prompt": "Which ancient people of Mesopotamia built ziggurat temples?",
+  "choices": [
+   "The Hittites",
+   "The Sumerians",
+   "The Minoans",
+   "The Etruscans"
+  ],
+  "answer": "The Sumerians",
+  "difficulty": "medium",
+  "topic": "ziggurat builders"
+ },
+ {
+  "id": "hist-295",
+  "prompt": "What did the ancient Greeks call their independent city-states?",
+  "choices": [
+   "Senate",
+   "Forum",
+   "Polis",
+   "Agora"
+  ],
+  "answer": "Polis",
+  "difficulty": "medium",
+  "topic": "greek city-state term"
+ },
+ {
+  "id": "hist-296",
+  "prompt": "Who became the first American to travel into space, in 1961?",
+  "choices": [
+   "John Glenn",
+   "Neil Armstrong",
+   "Buzz Aldrin",
+   "Alan Shepard"
+  ],
+  "answer": "Alan Shepard",
+  "difficulty": "medium",
+  "topic": "first american in space"
+ },
+ {
+  "id": "hist-297",
+  "prompt": "Who was the first woman to travel into space, in 1963?",
+  "choices": [
+   "Valentina Tereshkova",
+   "Sally Ride",
+   "Amelia Earhart",
+   "Mae Jemison"
+  ],
+  "answer": "Valentina Tereshkova",
+  "difficulty": "medium",
+  "topic": "first woman in space"
+ },
+ {
+  "id": "hist-298",
+  "prompt": "In which year did Britain return Hong Kong to China?",
+  "choices": [
+   "1984",
+   "1997",
+   "2005",
+   "1949"
+  ],
+  "answer": "1997",
+  "difficulty": "medium",
+  "topic": "hong kong handover"
+ },
+ {
+  "id": "hist-299",
+  "prompt": "Which Celtic queen led a revolt against Roman rule in Britain around AD 60?",
+  "choices": [
+   "Cleopatra",
+   "Queen Victoria",
+   "Boudica",
+   "Zenobia"
+  ],
+  "answer": "Boudica",
+  "difficulty": "medium",
+  "topic": "boudica revolt"
+ },
+ {
+  "id": "hist-300",
+  "prompt": "Which Germanic people, led by Alaric, sacked Rome in AD 410?",
+  "choices": [
+   "The Huns",
+   "The Vandals",
+   "The Franks",
+   "The Visigoths"
+  ],
+  "answer": "The Visigoths",
+  "difficulty": "hard",
+  "topic": "sack of rome 410"
+ }
+]

@@ -1,0 +1,3902 @@
+[
+ {
+  "id": "lit-001",
+  "prompt": "Who wrote Moby-Dick?",
+  "choices": [
+   "Mark Twain",
+   "Herman Melville",
+   "Nathaniel Hawthorne",
+   "Edgar Allan Poe"
+  ],
+  "answer": "Herman Melville",
+  "difficulty": "easy",
+  "topic": "author of moby-dick"
+ },
+ {
+  "id": "lit-002",
+  "prompt": "Who wrote Great Expectations?",
+  "choices": [
+   "Charles Dickens",
+   "George Eliot",
+   "William Thackeray",
+   "Thomas Hardy"
+  ],
+  "answer": "Charles Dickens",
+  "difficulty": "easy",
+  "topic": "author of great expectations"
+ },
+ {
+  "id": "lit-003",
+  "prompt": "Who wrote Jane Eyre?",
+  "choices": [
+   "Charlotte Brontë",
+   "Jane Austen",
+   "Mary Shelley",
+   "Emily Brontë"
+  ],
+  "answer": "Charlotte Brontë",
+  "difficulty": "easy",
+  "topic": "author of jane eyre"
+ },
+ {
+  "id": "lit-004",
+  "prompt": "Who wrote Wuthering Heights?",
+  "choices": [
+   "Emily Brontë",
+   "Charlotte Brontë",
+   "George Eliot",
+   "Elizabeth Gaskell"
+  ],
+  "answer": "Emily Brontë",
+  "difficulty": "easy",
+  "topic": "author of wuthering heights"
+ },
+ {
+  "id": "lit-005",
+  "prompt": "Who wrote Frankenstein?",
+  "choices": [
+   "Bram Stoker",
+   "Mary Shelley",
+   "H. G. Wells",
+   "Robert Louis Stevenson"
+  ],
+  "answer": "Mary Shelley",
+  "difficulty": "easy",
+  "topic": "author of frankenstein"
+ },
+ {
+  "id": "lit-006",
+  "prompt": "Who wrote Dracula?",
+  "choices": [
+   "Bram Stoker",
+   "Arthur Conan Doyle",
+   "Oscar Wilde",
+   "Mary Shelley"
+  ],
+  "answer": "Bram Stoker",
+  "difficulty": "easy",
+  "topic": "author of dracula"
+ },
+ {
+  "id": "lit-007",
+  "prompt": "Who wrote The Hobbit?",
+  "choices": [
+   "J. R. R. Tolkien",
+   "J. M. Barrie",
+   "Roald Dahl",
+   "C. S. Lewis"
+  ],
+  "answer": "J. R. R. Tolkien",
+  "difficulty": "easy",
+  "topic": "author of the hobbit"
+ },
+ {
+  "id": "lit-008",
+  "prompt": "Who wrote The Lion, the Witch and the Wardrobe?",
+  "choices": [
+   "E. Nesbit",
+   "J. R. R. Tolkien",
+   "C. S. Lewis",
+   "Lewis Carroll"
+  ],
+  "answer": "C. S. Lewis",
+  "difficulty": "easy",
+  "topic": "author of lion witch wardrobe"
+ },
+ {
+  "id": "lit-009",
+  "prompt": "Who wrote Alice's Adventures in Wonderland?",
+  "choices": [
+   "A. A. Milne",
+   "Kenneth Grahame",
+   "Lewis Carroll",
+   "Edward Lear"
+  ],
+  "answer": "Lewis Carroll",
+  "difficulty": "easy",
+  "topic": "author of alice in wonderland"
+ },
+ {
+  "id": "lit-010",
+  "prompt": "Who wrote Charlie and the Chocolate Factory?",
+  "choices": [
+   "Dr. Seuss",
+   "Judy Blume",
+   "Roald Dahl",
+   "Enid Blyton"
+  ],
+  "answer": "Roald Dahl",
+  "difficulty": "easy",
+  "topic": "author of charlie and the chocolate factory"
+ },
+ {
+  "id": "lit-011",
+  "prompt": "Who wrote The Cat in the Hat?",
+  "choices": [
+   "Dr. Seuss",
+   "Maurice Sendak",
+   "Eric Carle",
+   "Shel Silverstein"
+  ],
+  "answer": "Dr. Seuss",
+  "difficulty": "easy",
+  "topic": "author of cat in the hat"
+ },
+ {
+  "id": "lit-012",
+  "prompt": "Who wrote Where the Wild Things Are?",
+  "choices": [
+   "Beatrix Potter",
+   "Dr. Seuss",
+   "Eric Carle",
+   "Maurice Sendak"
+  ],
+  "answer": "Maurice Sendak",
+  "difficulty": "easy",
+  "topic": "author of where the wild things are"
+ },
+ {
+  "id": "lit-013",
+  "prompt": "Who wrote Charlotte's Web?",
+  "choices": [
+   "Beverly Cleary",
+   "Roald Dahl",
+   "E. B. White",
+   "Laura Ingalls Wilder"
+  ],
+  "answer": "E. B. White",
+  "difficulty": "easy",
+  "topic": "author of charlottes web"
+ },
+ {
+  "id": "lit-014",
+  "prompt": "Who wrote Little Women?",
+  "choices": [
+   "L. M. Montgomery",
+   "Louisa May Alcott",
+   "Harriet Beecher Stowe",
+   "Jane Austen"
+  ],
+  "answer": "Louisa May Alcott",
+  "difficulty": "easy",
+  "topic": "author of little women"
+ },
+ {
+  "id": "lit-015",
+  "prompt": "Who wrote Anne of Green Gables?",
+  "choices": [
+   "Laura Ingalls Wilder",
+   "Frances Hodgson Burnett",
+   "Louisa May Alcott",
+   "L. M. Montgomery"
+  ],
+  "answer": "L. M. Montgomery",
+  "difficulty": "easy",
+  "topic": "author of anne of green gables"
+ },
+ {
+  "id": "lit-016",
+  "prompt": "Who wrote The Adventures of Tom Sawyer?",
+  "choices": [
+   "Mark Twain",
+   "Stephen Crane",
+   "Jack London",
+   "Herman Melville"
+  ],
+  "answer": "Mark Twain",
+  "difficulty": "easy",
+  "topic": "author of tom sawyer"
+ },
+ {
+  "id": "lit-017",
+  "prompt": "Who wrote the novel 1984?",
+  "choices": [
+   "Ray Bradbury",
+   "George Orwell",
+   "Aldous Huxley",
+   "H. G. Wells"
+  ],
+  "answer": "George Orwell",
+  "difficulty": "easy",
+  "topic": "author of 1984"
+ },
+ {
+  "id": "lit-018",
+  "prompt": "Who wrote Animal Farm?",
+  "choices": [
+   "George Orwell",
+   "William Golding",
+   "John Steinbeck",
+   "Aldous Huxley"
+  ],
+  "answer": "George Orwell",
+  "difficulty": "easy",
+  "topic": "author of animal farm"
+ },
+ {
+  "id": "lit-019",
+  "prompt": "Who wrote The Great Gatsby?",
+  "choices": [
+   "John Steinbeck",
+   "William Faulkner",
+   "Ernest Hemingway",
+   "F. Scott Fitzgerald"
+  ],
+  "answer": "F. Scott Fitzgerald",
+  "difficulty": "easy",
+  "topic": "author of the great gatsby"
+ },
+ {
+  "id": "lit-020",
+  "prompt": "Who wrote To Kill a Mockingbird?",
+  "choices": [
+   "Eudora Welty",
+   "Harper Lee",
+   "Toni Morrison",
+   "Truman Capote"
+  ],
+  "answer": "Harper Lee",
+  "difficulty": "easy",
+  "topic": "author of to kill a mockingbird"
+ },
+ {
+  "id": "lit-021",
+  "prompt": "Who wrote The Old Man and the Sea?",
+  "choices": [
+   "Jack London",
+   "John Steinbeck",
+   "Ernest Hemingway",
+   "F. Scott Fitzgerald"
+  ],
+  "answer": "Ernest Hemingway",
+  "difficulty": "easy",
+  "topic": "author of the old man and the sea"
+ },
+ {
+  "id": "lit-022",
+  "prompt": "Who wrote Of Mice and Men?",
+  "choices": [
+   "Sinclair Lewis",
+   "William Faulkner",
+   "Ernest Hemingway",
+   "John Steinbeck"
+  ],
+  "answer": "John Steinbeck",
+  "difficulty": "easy",
+  "topic": "author of of mice and men"
+ },
+ {
+  "id": "lit-023",
+  "prompt": "Who wrote The Catcher in the Rye?",
+  "choices": [
+   "Saul Bellow",
+   "Kurt Vonnegut",
+   "Jack Kerouac",
+   "J. D. Salinger"
+  ],
+  "answer": "J. D. Salinger",
+  "difficulty": "easy",
+  "topic": "author of the catcher in the rye"
+ },
+ {
+  "id": "lit-024",
+  "prompt": "Who wrote Les Misérables?",
+  "choices": [
+   "Gustave Flaubert",
+   "Alexandre Dumas",
+   "Victor Hugo",
+   "Émile Zola"
+  ],
+  "answer": "Victor Hugo",
+  "difficulty": "easy",
+  "topic": "author of les miserables"
+ },
+ {
+  "id": "lit-025",
+  "prompt": "Who wrote The Three Musketeers?",
+  "choices": [
+   "Honoré de Balzac",
+   "Alexandre Dumas",
+   "Jules Verne",
+   "Victor Hugo"
+  ],
+  "answer": "Alexandre Dumas",
+  "difficulty": "easy",
+  "topic": "author of the three musketeers"
+ },
+ {
+  "id": "lit-026",
+  "prompt": "Who wrote Twenty Thousand Leagues Under the Sea?",
+  "choices": [
+   "H. G. Wells",
+   "Alexandre Dumas",
+   "Jules Verne",
+   "Robert Louis Stevenson"
+  ],
+  "answer": "Jules Verne",
+  "difficulty": "easy",
+  "topic": "author of twenty thousand leagues"
+ },
+ {
+  "id": "lit-027",
+  "prompt": "Who wrote The Little Prince?",
+  "choices": [
+   "Victor Hugo",
+   "Albert Camus",
+   "Antoine de Saint-Exupéry",
+   "Jules Verne"
+  ],
+  "answer": "Antoine de Saint-Exupéry",
+  "difficulty": "easy",
+  "topic": "author of the little prince"
+ },
+ {
+  "id": "lit-028",
+  "prompt": "Who wrote War and Peace?",
+  "choices": [
+   "Ivan Turgenev",
+   "Fyodor Dostoevsky",
+   "Anton Chekhov",
+   "Leo Tolstoy"
+  ],
+  "answer": "Leo Tolstoy",
+  "difficulty": "easy",
+  "topic": "author of war and peace"
+ },
+ {
+  "id": "lit-029",
+  "prompt": "Who wrote Crime and Punishment?",
+  "choices": [
+   "Boris Pasternak",
+   "Nikolai Gogol",
+   "Leo Tolstoy",
+   "Fyodor Dostoevsky"
+  ],
+  "answer": "Fyodor Dostoevsky",
+  "difficulty": "easy",
+  "topic": "author of crime and punishment"
+ },
+ {
+  "id": "lit-030",
+  "prompt": "Who wrote Don Quixote?",
+  "choices": [
+   "Federico García Lorca",
+   "Gabriel García Márquez",
+   "Lope de Vega",
+   "Miguel de Cervantes"
+  ],
+  "answer": "Miguel de Cervantes",
+  "difficulty": "easy",
+  "topic": "author of don quixote"
+ },
+ {
+  "id": "lit-031",
+  "prompt": "Who wrote Treasure Island?",
+  "choices": [
+   "Rudyard Kipling",
+   "Robert Louis Stevenson",
+   "Daniel Defoe",
+   "Jonathan Swift"
+  ],
+  "answer": "Robert Louis Stevenson",
+  "difficulty": "easy",
+  "topic": "author of treasure island"
+ },
+ {
+  "id": "lit-032",
+  "prompt": "Who wrote Robinson Crusoe?",
+  "choices": [
+   "Jonathan Swift",
+   "Henry Fielding",
+   "Daniel Defoe",
+   "Samuel Richardson"
+  ],
+  "answer": "Daniel Defoe",
+  "difficulty": "easy",
+  "topic": "author of robinson crusoe"
+ },
+ {
+  "id": "lit-033",
+  "prompt": "Who wrote Gulliver's Travels?",
+  "choices": [
+   "Laurence Sterne",
+   "Henry Fielding",
+   "Jonathan Swift",
+   "Daniel Defoe"
+  ],
+  "answer": "Jonathan Swift",
+  "difficulty": "easy",
+  "topic": "author of gullivers travels"
+ },
+ {
+  "id": "lit-034",
+  "prompt": "Who wrote A Christmas Carol?",
+  "choices": [
+   "Anthony Trollope",
+   "Charles Dickens",
+   "Wilkie Collins",
+   "Thomas Hardy"
+  ],
+  "answer": "Charles Dickens",
+  "difficulty": "easy",
+  "topic": "author of a christmas carol"
+ },
+ {
+  "id": "lit-035",
+  "prompt": "Who wrote Oliver Twist?",
+  "choices": [
+   "George Eliot",
+   "Thomas Hardy",
+   "William Thackeray",
+   "Charles Dickens"
+  ],
+  "answer": "Charles Dickens",
+  "difficulty": "easy",
+  "topic": "author of oliver twist"
+ },
+ {
+  "id": "lit-036",
+  "prompt": "Who wrote Peter Pan?",
+  "choices": [
+   "J. M. Barrie",
+   "Kenneth Grahame",
+   "A. A. Milne",
+   "Lewis Carroll"
+  ],
+  "answer": "J. M. Barrie",
+  "difficulty": "easy",
+  "topic": "author of peter pan"
+ },
+ {
+  "id": "lit-037",
+  "prompt": "Who wrote Winnie-the-Pooh?",
+  "choices": [
+   "Roald Dahl",
+   "Kenneth Grahame",
+   "A. A. Milne",
+   "Beatrix Potter"
+  ],
+  "answer": "A. A. Milne",
+  "difficulty": "easy",
+  "topic": "author of winnie-the-pooh"
+ },
+ {
+  "id": "lit-038",
+  "prompt": "Who wrote The Wind in the Willows?",
+  "choices": [
+   "Rudyard Kipling",
+   "Kenneth Grahame",
+   "J. M. Barrie",
+   "A. A. Milne"
+  ],
+  "answer": "Kenneth Grahame",
+  "difficulty": "easy",
+  "topic": "author of wind in the willows"
+ },
+ {
+  "id": "lit-039",
+  "prompt": "Who wrote The Jungle Book?",
+  "choices": [
+   "Robert Louis Stevenson",
+   "Kenneth Grahame",
+   "Rudyard Kipling",
+   "H. Rider Haggard"
+  ],
+  "answer": "Rudyard Kipling",
+  "difficulty": "easy",
+  "topic": "author of the jungle book"
+ },
+ {
+  "id": "lit-040",
+  "prompt": "Who wrote The Tale of Peter Rabbit?",
+  "choices": [
+   "A. A. Milne",
+   "Kate Greenaway",
+   "Beatrix Potter",
+   "Enid Blyton"
+  ],
+  "answer": "Beatrix Potter",
+  "difficulty": "easy",
+  "topic": "author of peter rabbit"
+ },
+ {
+  "id": "lit-041",
+  "prompt": "Who wrote The Wonderful Wizard of Oz?",
+  "choices": [
+   "L. Frank Baum",
+   "E. Nesbit",
+   "Mark Twain",
+   "Frances Hodgson Burnett"
+  ],
+  "answer": "L. Frank Baum",
+  "difficulty": "easy",
+  "topic": "author of wizard of oz"
+ },
+ {
+  "id": "lit-042",
+  "prompt": "Who wrote the Harry Potter novels?",
+  "choices": [
+   "Philip Pullman",
+   "Suzanne Collins",
+   "J. K. Rowling",
+   "Roald Dahl"
+  ],
+  "answer": "J. K. Rowling",
+  "difficulty": "easy",
+  "topic": "author of harry potter"
+ },
+ {
+  "id": "lit-043",
+  "prompt": "Who wrote The Hunger Games?",
+  "choices": [
+   "J. K. Rowling",
+   "Stephenie Meyer",
+   "Veronica Roth",
+   "Suzanne Collins"
+  ],
+  "answer": "Suzanne Collins",
+  "difficulty": "easy",
+  "topic": "author of the hunger games"
+ },
+ {
+  "id": "lit-044",
+  "prompt": "Who wrote Fahrenheit 451?",
+  "choices": [
+   "Arthur C. Clarke",
+   "Isaac Asimov",
+   "Philip K. Dick",
+   "Ray Bradbury"
+  ],
+  "answer": "Ray Bradbury",
+  "difficulty": "easy",
+  "topic": "author of fahrenheit 451"
+ },
+ {
+  "id": "lit-045",
+  "prompt": "Who wrote The War of the Worlds?",
+  "choices": [
+   "H. G. Wells",
+   "Aldous Huxley",
+   "Jules Verne",
+   "Arthur Conan Doyle"
+  ],
+  "answer": "H. G. Wells",
+  "difficulty": "easy",
+  "topic": "author of war of the worlds"
+ },
+ {
+  "id": "lit-046",
+  "prompt": "Who created the detective Sherlock Holmes?",
+  "choices": [
+   "G. K. Chesterton",
+   "Agatha Christie",
+   "Wilkie Collins",
+   "Arthur Conan Doyle"
+  ],
+  "answer": "Arthur Conan Doyle",
+  "difficulty": "easy",
+  "topic": "creator of sherlock holmes"
+ },
+ {
+  "id": "lit-047",
+  "prompt": "Who wrote Murder on the Orient Express?",
+  "choices": [
+   "Dorothy L. Sayers",
+   "Agatha Christie",
+   "Ngaio Marsh",
+   "Arthur Conan Doyle"
+  ],
+  "answer": "Agatha Christie",
+  "difficulty": "easy",
+  "topic": "author of murder on the orient express"
+ },
+ {
+  "id": "lit-048",
+  "prompt": "Who wrote The Picture of Dorian Gray?",
+  "choices": [
+   "Thomas Hardy",
+   "Bram Stoker",
+   "Oscar Wilde",
+   "George Bernard Shaw"
+  ],
+  "answer": "Oscar Wilde",
+  "difficulty": "easy",
+  "topic": "author of dorian gray"
+ },
+ {
+  "id": "lit-049",
+  "prompt": "Who wrote The Scarlet Letter?",
+  "choices": [
+   "Herman Melville",
+   "Henry James",
+   "Edgar Allan Poe",
+   "Nathaniel Hawthorne"
+  ],
+  "answer": "Nathaniel Hawthorne",
+  "difficulty": "easy",
+  "topic": "author of the scarlet letter"
+ },
+ {
+  "id": "lit-050",
+  "prompt": "Who wrote the poem \"The Raven\"?",
+  "choices": [
+   "Edgar Allan Poe",
+   "Robert Frost",
+   "Walt Whitman",
+   "Henry Wadsworth Longfellow"
+  ],
+  "answer": "Edgar Allan Poe",
+  "difficulty": "easy",
+  "topic": "author of the raven"
+ },
+ {
+  "id": "lit-051",
+  "prompt": "Which novel features the whaling captain Ahab?",
+  "choices": [
+   "Robinson Crusoe",
+   "The Old Man and the Sea",
+   "Treasure Island",
+   "Moby-Dick"
+  ],
+  "answer": "Moby-Dick",
+  "difficulty": "easy",
+  "topic": "novel with captain ahab"
+ },
+ {
+  "id": "lit-052",
+  "prompt": "Heathcliff is a character in which novel?",
+  "choices": [
+   "Rebecca",
+   "Wuthering Heights",
+   "Jane Eyre",
+   "Middlemarch"
+  ],
+  "answer": "Wuthering Heights",
+  "difficulty": "easy",
+  "topic": "novel with heathcliff"
+ },
+ {
+  "id": "lit-053",
+  "prompt": "Atticus Finch is a lawyer in which novel?",
+  "choices": [
+   "Of Mice and Men",
+   "To Kill a Mockingbird",
+   "Native Son",
+   "The Grapes of Wrath"
+  ],
+  "answer": "To Kill a Mockingbird",
+  "difficulty": "easy",
+  "topic": "novel with atticus finch"
+ },
+ {
+  "id": "lit-054",
+  "prompt": "Holden Caulfield narrates which novel?",
+  "choices": [
+   "The Outsiders",
+   "Catch-22",
+   "On the Road",
+   "The Catcher in the Rye"
+  ],
+  "answer": "The Catcher in the Rye",
+  "difficulty": "easy",
+  "topic": "novel with holden caulfield"
+ },
+ {
+  "id": "lit-055",
+  "prompt": "Which novel features the Dashwood sisters Elinor and Marianne?",
+  "choices": [
+   "Sense and Sensibility",
+   "Northanger Abbey",
+   "Emma",
+   "Persuasion"
+  ],
+  "answer": "Sense and Sensibility",
+  "difficulty": "medium",
+  "topic": "novel with dashwood sisters"
+ },
+ {
+  "id": "lit-056",
+  "prompt": "Which Dickens orphan asks for more gruel?",
+  "choices": [
+   "Pip",
+   "Oliver Twist",
+   "David Copperfield",
+   "Nicholas Nickleby"
+  ],
+  "answer": "Oliver Twist",
+  "difficulty": "easy",
+  "topic": "dickens orphan asks for more"
+ },
+ {
+  "id": "lit-057",
+  "prompt": "Which Dickens miser is visited by three ghosts?",
+  "choices": [
+   "Uriah Heep",
+   "Fagin",
+   "Ebenezer Scrooge",
+   "Mr. Micawber"
+  ],
+  "answer": "Ebenezer Scrooge",
+  "difficulty": "easy",
+  "topic": "dickens miser three ghosts"
+ },
+ {
+  "id": "lit-058",
+  "prompt": "Who is the Belgian detective in Murder on the Orient Express?",
+  "choices": [
+   "Hercule Poirot",
+   "Lord Peter Wimsey",
+   "Miss Marple",
+   "Sherlock Holmes"
+  ],
+  "answer": "Hercule Poirot",
+  "difficulty": "easy",
+  "topic": "detective in orient express"
+ },
+ {
+  "id": "lit-059",
+  "prompt": "Who is Sherlock Holmes's friend and chronicler?",
+  "choices": [
+   "Mycroft Holmes",
+   "Dr. Watson",
+   "Inspector Lestrade",
+   "Professor Moriarty"
+  ],
+  "answer": "Dr. Watson",
+  "difficulty": "easy",
+  "topic": "holmes chronicler"
+ },
+ {
+  "id": "lit-060",
+  "prompt": "Which region is home to Count Dracula's castle in Stoker's novel?",
+  "choices": [
+   "Andalusia",
+   "Lombardy",
+   "Bavaria",
+   "Transylvania"
+  ],
+  "answer": "Transylvania",
+  "difficulty": "medium",
+  "topic": "dracula homeland region"
+ },
+ {
+  "id": "lit-061",
+  "prompt": "What is the name of Captain Nemo's submarine?",
+  "choices": [
+   "Nautilus",
+   "Hispaniola",
+   "Beagle",
+   "Pequod"
+  ],
+  "answer": "Nautilus",
+  "difficulty": "medium",
+  "topic": "captain nemo submarine"
+ },
+ {
+  "id": "lit-062",
+  "prompt": "What is the name of the ship in Treasure Island?",
+  "choices": [
+   "Pequod",
+   "Dawn Treader",
+   "Nautilus",
+   "Hispaniola"
+  ],
+  "answer": "Hispaniola",
+  "difficulty": "medium",
+  "topic": "ship in treasure island"
+ },
+ {
+  "id": "lit-063",
+  "prompt": "What is the name of Captain Ahab's ship?",
+  "choices": [
+   "Black Pearl",
+   "Hispaniola",
+   "Nautilus",
+   "Pequod"
+  ],
+  "answer": "Pequod",
+  "difficulty": "medium",
+  "topic": "ahab ship name"
+ },
+ {
+  "id": "lit-064",
+  "prompt": "Who is the pirate captain in Peter Pan?",
+  "choices": [
+   "Long John Silver",
+   "Captain Hook",
+   "Captain Ahab",
+   "Captain Nemo"
+  ],
+  "answer": "Captain Hook",
+  "difficulty": "easy",
+  "topic": "pirate captain in peter pan"
+ },
+ {
+  "id": "lit-065",
+  "prompt": "Who inherits the One Ring from Bilbo Baggins?",
+  "choices": [
+   "Samwise Gamgee",
+   "Aragorn",
+   "Gandalf",
+   "Frodo Baggins"
+  ],
+  "answer": "Frodo Baggins",
+  "difficulty": "easy",
+  "topic": "inheritor of the one ring"
+ },
+ {
+  "id": "lit-066",
+  "prompt": "What is the name of Dorothy's dog in The Wonderful Wizard of Oz?",
+  "choices": [
+   "Snowy",
+   "Buck",
+   "Fang",
+   "Toto"
+  ],
+  "answer": "Toto",
+  "difficulty": "easy",
+  "topic": "dorothys dog name"
+ },
+ {
+  "id": "lit-067",
+  "prompt": "What is the name of the lion in The Lion, the Witch and the Wardrobe?",
+  "choices": [
+   "Shere Khan",
+   "Aslan",
+   "Baloo",
+   "Bagheera"
+  ],
+  "answer": "Aslan",
+  "difficulty": "easy",
+  "topic": "narnia lion name"
+ },
+ {
+  "id": "lit-068",
+  "prompt": "Which Winnie-the-Pooh character is a gloomy donkey?",
+  "choices": [
+   "Piglet",
+   "Rabbit",
+   "Eeyore",
+   "Tigger"
+  ],
+  "answer": "Eeyore",
+  "difficulty": "easy",
+  "topic": "pooh donkey character"
+ },
+ {
+  "id": "lit-069",
+  "prompt": "Which Roald Dahl book has a boy living inside a giant fruit?",
+  "choices": [
+   "James and the Giant Peach",
+   "Matilda",
+   "The Witches",
+   "The BFG"
+  ],
+  "answer": "James and the Giant Peach",
+  "difficulty": "easy",
+  "topic": "dahl giant fruit book"
+ },
+ {
+  "id": "lit-070",
+  "prompt": "In which Roald Dahl book does Miss Trunchbull appear?",
+  "choices": [
+   "The Witches",
+   "Danny the Champion of the World",
+   "Esio Trot",
+   "Matilda"
+  ],
+  "answer": "Matilda",
+  "difficulty": "easy",
+  "topic": "miss trunchbull book"
+ },
+ {
+  "id": "lit-071",
+  "prompt": "How many March sisters are in Little Women?",
+  "choices": [
+   "Six",
+   "Four",
+   "Five",
+   "Three"
+  ],
+  "answer": "Four",
+  "difficulty": "easy",
+  "topic": "number of march sisters"
+ },
+ {
+  "id": "lit-072",
+  "prompt": "Mr. Rochester is a character in which novel?",
+  "choices": [
+   "Emma",
+   "Rebecca",
+   "Wuthering Heights",
+   "Jane Eyre"
+  ],
+  "answer": "Jane Eyre",
+  "difficulty": "easy",
+  "topic": "novel with mr rochester"
+ },
+ {
+  "id": "lit-073",
+  "prompt": "Oberon and Titania appear in which Shakespeare play?",
+  "choices": [
+   "The Tempest",
+   "Twelfth Night",
+   "A Midsummer Night's Dream",
+   "As You Like It"
+  ],
+  "answer": "A Midsummer Night's Dream",
+  "difficulty": "easy",
+  "topic": "play with oberon and titania"
+ },
+ {
+  "id": "lit-074",
+  "prompt": "The sorcerer Prospero appears in which Shakespeare play?",
+  "choices": [
+   "Hamlet",
+   "Othello",
+   "The Tempest",
+   "King Lear"
+  ],
+  "answer": "The Tempest",
+  "difficulty": "medium",
+  "topic": "play with prospero"
+ },
+ {
+  "id": "lit-075",
+  "prompt": "Shylock appears in which Shakespeare play?",
+  "choices": [
+   "Othello",
+   "The Merchant of Venice",
+   "Macbeth",
+   "Much Ado About Nothing"
+  ],
+  "answer": "The Merchant of Venice",
+  "difficulty": "medium",
+  "topic": "play with shylock"
+ },
+ {
+  "id": "lit-076",
+  "prompt": "Iago is the scheming villain of which Shakespeare play?",
+  "choices": [
+   "Othello",
+   "Macbeth",
+   "King Lear",
+   "Julius Caesar"
+  ],
+  "answer": "Othello",
+  "difficulty": "medium",
+  "topic": "play with iago"
+ },
+ {
+  "id": "lit-077",
+  "prompt": "Which Shakespeare tragedy features three witches and a Scottish thane?",
+  "choices": [
+   "Macbeth",
+   "Julius Caesar",
+   "King Lear",
+   "Hamlet"
+  ],
+  "answer": "Macbeth",
+  "difficulty": "easy",
+  "topic": "play with three witches"
+ },
+ {
+  "id": "lit-078",
+  "prompt": "Elsinore castle is the setting of which Shakespeare play?",
+  "choices": [
+   "Hamlet",
+   "King Lear",
+   "Macbeth",
+   "Othello"
+  ],
+  "answer": "Hamlet",
+  "difficulty": "medium",
+  "topic": "play set at elsinore"
+ },
+ {
+  "id": "lit-079",
+  "prompt": "Beatrice and Benedick spar in which Shakespeare comedy?",
+  "choices": [
+   "Much Ado About Nothing",
+   "Twelfth Night",
+   "As You Like It",
+   "The Taming of the Shrew"
+  ],
+  "answer": "Much Ado About Nothing",
+  "difficulty": "medium",
+  "topic": "play with beatrice and benedick"
+ },
+ {
+  "id": "lit-080",
+  "prompt": "Which Shakespeare play features the twins Viola and Sebastian?",
+  "choices": [
+   "As You Like It",
+   "The Comedy of Errors",
+   "The Winter's Tale",
+   "Twelfth Night"
+  ],
+  "answer": "Twelfth Night",
+  "difficulty": "hard",
+  "topic": "play with viola and sebastian"
+ },
+ {
+  "id": "lit-081",
+  "prompt": "Which Shakespeare play is set in the Forest of Arden?",
+  "choices": [
+   "The Tempest",
+   "Macbeth",
+   "As You Like It",
+   "A Midsummer Night's Dream"
+  ],
+  "answer": "As You Like It",
+  "difficulty": "hard",
+  "topic": "play set in forest of arden"
+ },
+ {
+  "id": "lit-082",
+  "prompt": "In Gulliver's Travels, what is the land of tiny people called?",
+  "choices": [
+   "Narnia",
+   "Erewhon",
+   "Lilliput",
+   "Utopia"
+  ],
+  "answer": "Lilliput",
+  "difficulty": "medium",
+  "topic": "land of tiny people in gulliver"
+ },
+ {
+  "id": "lit-083",
+  "prompt": "Which animal keeps dozing at the Mad Hatter's tea party?",
+  "choices": [
+   "The Dodo",
+   "The Cheshire Cat",
+   "The Dormouse",
+   "The White Rabbit"
+  ],
+  "answer": "The Dormouse",
+  "difficulty": "hard",
+  "topic": "alice tea party sleepy guest"
+ },
+ {
+  "id": "lit-084",
+  "prompt": "Which Alice character fades away leaving only a grin?",
+  "choices": [
+   "The Dormouse",
+   "The Cheshire Cat",
+   "The Dodo",
+   "The White Rabbit"
+  ],
+  "answer": "The Cheshire Cat",
+  "difficulty": "easy",
+  "topic": "alice grinning cat"
+ },
+ {
+  "id": "lit-085",
+  "prompt": "Who is the Queen who shouts \"Off with their heads!\" in Alice's Adventures in Wonderland?",
+  "choices": [
+   "The Queen of Hearts",
+   "The Duchess",
+   "The Red Queen",
+   "The White Queen"
+  ],
+  "answer": "The Queen of Hearts",
+  "difficulty": "medium",
+  "topic": "alice queen off with their heads"
+ },
+ {
+  "id": "lit-086",
+  "prompt": "In The Hobbit, what is the name of the dragon?",
+  "choices": [
+   "Ancalagon",
+   "Smaug",
+   "Glaurung",
+   "Drogon"
+  ],
+  "answer": "Smaug",
+  "difficulty": "easy",
+  "topic": "dragon in the hobbit"
+ },
+ {
+  "id": "lit-087",
+  "prompt": "Which wizard guides Bilbo in The Hobbit?",
+  "choices": [
+   "Gandalf",
+   "Merlin",
+   "Saruman",
+   "Dumbledore"
+  ],
+  "answer": "Gandalf",
+  "difficulty": "easy",
+  "topic": "wizard in the hobbit"
+ },
+ {
+  "id": "lit-088",
+  "prompt": "Which Jungle Book character is a man-cub raised by wolves?",
+  "choices": [
+   "Tarzan",
+   "Mowgli",
+   "Peter Pan",
+   "Kim"
+  ],
+  "answer": "Mowgli",
+  "difficulty": "easy",
+  "topic": "jungle book man-cub"
+ },
+ {
+  "id": "lit-089",
+  "prompt": "What kind of animal is Baloo in The Jungle Book?",
+  "choices": [
+   "Tiger",
+   "Panther",
+   "Bear",
+   "Wolf"
+  ],
+  "answer": "Bear",
+  "difficulty": "easy",
+  "topic": "baloo animal type"
+ },
+ {
+  "id": "lit-090",
+  "prompt": "In The Wind in the Willows, which character is vain and loves motor cars?",
+  "choices": [
+   "Mole",
+   "Mr. Toad",
+   "Ratty",
+   "Badger"
+  ],
+  "answer": "Mr. Toad",
+  "difficulty": "medium",
+  "topic": "wind in the willows car lover"
+ },
+ {
+  "id": "lit-091",
+  "prompt": "In Charlotte's Web, what kind of animal is Wilbur?",
+  "choices": [
+   "Calf",
+   "Goose",
+   "Lamb",
+   "Pig"
+  ],
+  "answer": "Pig",
+  "difficulty": "easy",
+  "topic": "wilbur animal type"
+ },
+ {
+  "id": "lit-092",
+  "prompt": "In Charlotte's Web, what does Charlotte spin in her web to save Wilbur?",
+  "choices": [
+   "Words",
+   "Pictures",
+   "Stars",
+   "Numbers"
+  ],
+  "answer": "Words",
+  "difficulty": "easy",
+  "topic": "charlotte web messages"
+ },
+ {
+  "id": "lit-093",
+  "prompt": "Which novel has the character Hester Prynne?",
+  "choices": [
+   "The Scarlet Letter",
+   "Little Women",
+   "The House of the Seven Gables",
+   "The Last of the Mohicans"
+  ],
+  "answer": "The Scarlet Letter",
+  "difficulty": "medium",
+  "topic": "novel with hester prynne"
+ },
+ {
+  "id": "lit-094",
+  "prompt": "Who creates the creature in Frankenstein?",
+  "choices": [
+   "Victor Frankenstein",
+   "Henry Clerval",
+   "Robert Walton",
+   "Alphonse Frankenstein"
+  ],
+  "answer": "Victor Frankenstein",
+  "difficulty": "medium",
+  "topic": "creator of the creature in frankenstein"
+ },
+ {
+  "id": "lit-095",
+  "prompt": "Which novel features Pip and the convict Magwitch?",
+  "choices": [
+   "Oliver Twist",
+   "Hard Times",
+   "Great Expectations",
+   "Bleak House"
+  ],
+  "answer": "Great Expectations",
+  "difficulty": "medium",
+  "topic": "novel with pip and magwitch"
+ },
+ {
+  "id": "lit-096",
+  "prompt": "Who is Don Quixote's loyal squire?",
+  "choices": [
+   "Figaro",
+   "Sganarelle",
+   "Sancho Panza",
+   "Leporello"
+  ],
+  "answer": "Sancho Panza",
+  "difficulty": "medium",
+  "topic": "don quixote squire"
+ },
+ {
+  "id": "lit-097",
+  "prompt": "In which novel does Jean Valjean appear?",
+  "choices": [
+   "The Count of Monte Cristo",
+   "Les Misérables",
+   "The Hunchback of Notre-Dame",
+   "Germinal"
+  ],
+  "answer": "Les Misérables",
+  "difficulty": "easy",
+  "topic": "novel with jean valjean"
+ },
+ {
+  "id": "lit-098",
+  "prompt": "In which novel does Edmond Dantès seek revenge after prison?",
+  "choices": [
+   "The Three Musketeers",
+   "The Red and the Black",
+   "The Count of Monte Cristo",
+   "Les Misérables"
+  ],
+  "answer": "The Count of Monte Cristo",
+  "difficulty": "medium",
+  "topic": "novel with edmond dantes"
+ },
+ {
+  "id": "lit-099",
+  "prompt": "Who is the hunchback in Victor Hugo's Notre-Dame novel?",
+  "choices": [
+   "Quasimodo",
+   "Frollo",
+   "Phoebus",
+   "Esmeralda"
+  ],
+  "answer": "Quasimodo",
+  "difficulty": "medium",
+  "topic": "hunchback of notre dame name"
+ },
+ {
+  "id": "lit-100",
+  "prompt": "Who is the hero in Dumas's The Three Musketeers who arrives from Gascony?",
+  "choices": [
+   "D'Artagnan",
+   "Porthos",
+   "Aramis",
+   "Athos"
+  ],
+  "answer": "D'Artagnan",
+  "difficulty": "medium",
+  "topic": "young gascon in three musketeers"
+ },
+ {
+  "id": "lit-101",
+  "prompt": "Who wrote the poem about two roads diverging in a yellow wood?",
+  "choices": [
+   "Emily Dickinson",
+   "Robert Frost",
+   "Walt Whitman",
+   "Carl Sandburg"
+  ],
+  "answer": "Robert Frost",
+  "difficulty": "easy",
+  "topic": "author of the road not taken"
+ },
+ {
+  "id": "lit-102",
+  "prompt": "Who wrote the poetry collection Leaves of Grass?",
+  "choices": [
+   "Ralph Waldo Emerson",
+   "Henry Wadsworth Longfellow",
+   "Robert Frost",
+   "Walt Whitman"
+  ],
+  "answer": "Walt Whitman",
+  "difficulty": "medium",
+  "topic": "author of leaves of grass"
+ },
+ {
+  "id": "lit-103",
+  "prompt": "Who wrote the sonnet \"Ozymandias\"?",
+  "choices": [
+   "John Keats",
+   "Percy Bysshe Shelley",
+   "Lord Byron",
+   "William Wordsworth"
+  ],
+  "answer": "Percy Bysshe Shelley",
+  "difficulty": "medium",
+  "topic": "author of ozymandias"
+ },
+ {
+  "id": "lit-104",
+  "prompt": "Who wrote \"Ode to a Nightingale\"?",
+  "choices": [
+   "Lord Byron",
+   "Alfred Tennyson",
+   "John Keats",
+   "Samuel Taylor Coleridge"
+  ],
+  "answer": "John Keats",
+  "difficulty": "medium",
+  "topic": "author of ode to a nightingale"
+ },
+ {
+  "id": "lit-105",
+  "prompt": "Who wrote \"The Rime of the Ancient Mariner\"?",
+  "choices": [
+   "William Wordsworth",
+   "John Keats",
+   "Lord Byron",
+   "Samuel Taylor Coleridge"
+  ],
+  "answer": "Samuel Taylor Coleridge",
+  "difficulty": "medium",
+  "topic": "author of ancient mariner"
+ },
+ {
+  "id": "lit-106",
+  "prompt": "Who wrote the epic poem Paradise Lost?",
+  "choices": [
+   "John Dryden",
+   "John Donne",
+   "John Milton",
+   "Alexander Pope"
+  ],
+  "answer": "John Milton",
+  "difficulty": "medium",
+  "topic": "author of paradise lost"
+ },
+ {
+  "id": "lit-107",
+  "prompt": "Who wrote The Canterbury Tales?",
+  "choices": [
+   "John Gower",
+   "Geoffrey Chaucer",
+   "William Langland",
+   "Edmund Spenser"
+  ],
+  "answer": "Geoffrey Chaucer",
+  "difficulty": "medium",
+  "topic": "author of canterbury tales"
+ },
+ {
+  "id": "lit-108",
+  "prompt": "Who wrote the poem about wandering lonely as a cloud among daffodils?",
+  "choices": [
+   "William Wordsworth",
+   "Robert Burns",
+   "Lord Byron",
+   "John Keats"
+  ],
+  "answer": "William Wordsworth",
+  "difficulty": "medium",
+  "topic": "author of daffodils poem"
+ },
+ {
+  "id": "lit-109",
+  "prompt": "Robert Burns, the author of many famous songs and poems, was from which country?",
+  "choices": [
+   "Ireland",
+   "England",
+   "Scotland",
+   "Wales"
+  ],
+  "answer": "Scotland",
+  "difficulty": "medium",
+  "topic": "nationality of robert burns"
+ },
+ {
+  "id": "lit-110",
+  "prompt": "Who wrote the poem in which Death stops kindly with a carriage?",
+  "choices": [
+   "Christina Rossetti",
+   "Elizabeth Bishop",
+   "Sylvia Plath",
+   "Emily Dickinson"
+  ],
+  "answer": "Emily Dickinson",
+  "difficulty": "medium",
+  "topic": "author of because i could not stop for death"
+ },
+ {
+  "id": "lit-111",
+  "prompt": "Who wrote the 1950s poem \"Howl\"?",
+  "choices": [
+   "Jack Kerouac",
+   "Allen Ginsberg",
+   "Gary Snyder",
+   "Lawrence Ferlinghetti"
+  ],
+  "answer": "Allen Ginsberg",
+  "difficulty": "hard",
+  "topic": "author of howl"
+ },
+ {
+  "id": "lit-112",
+  "prompt": "Who wrote the modernist poem \"The Waste Land\"?",
+  "choices": [
+   "Ezra Pound",
+   "W. H. Auden",
+   "W. B. Yeats",
+   "T. S. Eliot"
+  ],
+  "answer": "T. S. Eliot",
+  "difficulty": "medium",
+  "topic": "author of the waste land"
+ },
+ {
+  "id": "lit-113",
+  "prompt": "Who wrote the villanelle urging rage against the dying of the light?",
+  "choices": [
+   "W. H. Auden",
+   "Dylan Thomas",
+   "Seamus Heaney",
+   "Ted Hughes"
+  ],
+  "answer": "Dylan Thomas",
+  "difficulty": "medium",
+  "topic": "author of do not go gentle"
+ },
+ {
+  "id": "lit-114",
+  "prompt": "Who wrote the poem \"The Second Coming\"?",
+  "choices": [
+   "Louis MacNeice",
+   "W. B. Yeats",
+   "Patrick Kavanagh",
+   "Seamus Heaney"
+  ],
+  "answer": "W. B. Yeats",
+  "difficulty": "hard",
+  "topic": "author of the second coming"
+ },
+ {
+  "id": "lit-115",
+  "prompt": "Who wrote Twenty Love Poems and a Song of Despair?",
+  "choices": [
+   "Federico García Lorca",
+   "Jorge Luis Borges",
+   "Octavio Paz",
+   "Pablo Neruda"
+  ],
+  "answer": "Pablo Neruda",
+  "difficulty": "medium",
+  "topic": "author of twenty love poems"
+ },
+ {
+  "id": "lit-116",
+  "prompt": "Who wrote the poetry collection Gitanjali?",
+  "choices": [
+   "Rumi",
+   "Rabindranath Tagore",
+   "Kalidasa",
+   "Muhammad Iqbal"
+  ],
+  "answer": "Rabindranath Tagore",
+  "difficulty": "medium",
+  "topic": "author of gitanjali"
+ },
+ {
+  "id": "lit-117",
+  "prompt": "In which language did the poet Rumi mainly write?",
+  "choices": [
+   "Arabic",
+   "Urdu",
+   "Turkish",
+   "Persian"
+  ],
+  "answer": "Persian",
+  "difficulty": "hard",
+  "topic": "rumi primary language"
+ },
+ {
+  "id": "lit-118",
+  "prompt": "Which Persian poet wrote the epic Shahnameh?",
+  "choices": [
+   "Rumi",
+   "Hafez",
+   "Omar Khayyam",
+   "Ferdowsi"
+  ],
+  "answer": "Ferdowsi",
+  "difficulty": "hard",
+  "topic": "author of shahnameh"
+ },
+ {
+  "id": "lit-119",
+  "prompt": "Which Roman poet wrote the Aeneid?",
+  "choices": [
+   "Ovid",
+   "Virgil",
+   "Lucretius",
+   "Horace"
+  ],
+  "answer": "Virgil",
+  "difficulty": "medium",
+  "topic": "author of the aeneid"
+ },
+ {
+  "id": "lit-120",
+  "prompt": "Which Roman poet wrote Metamorphoses?",
+  "choices": [
+   "Horace",
+   "Ovid",
+   "Catullus",
+   "Virgil"
+  ],
+  "answer": "Ovid",
+  "difficulty": "medium",
+  "topic": "author of metamorphoses"
+ },
+ {
+  "id": "lit-121",
+  "prompt": "Which Greek poet wrote Theogony, about the origins of the gods?",
+  "choices": [
+   "Sophocles",
+   "Hesiod",
+   "Pindar",
+   "Sappho"
+  ],
+  "answer": "Hesiod",
+  "difficulty": "hard",
+  "topic": "author of theogony"
+ },
+ {
+  "id": "lit-122",
+  "prompt": "Sappho, the ancient Greek poet, came from which island?",
+  "choices": [
+   "Crete",
+   "Lesbos",
+   "Rhodes",
+   "Sicily"
+  ],
+  "answer": "Lesbos",
+  "difficulty": "hard",
+  "topic": "sappho home island"
+ },
+ {
+  "id": "lit-123",
+  "prompt": "Who wrote the poem \"If—\" offering advice to a son?",
+  "choices": [
+   "Robert Browning",
+   "Rudyard Kipling",
+   "A. E. Housman",
+   "Alfred Tennyson"
+  ],
+  "answer": "Rudyard Kipling",
+  "difficulty": "medium",
+  "topic": "author of if poem"
+ },
+ {
+  "id": "lit-124",
+  "prompt": "Who wrote \"The Charge of the Light Brigade\"?",
+  "choices": [
+   "Alfred, Lord Tennyson",
+   "Robert Browning",
+   "Matthew Arnold",
+   "Rudyard Kipling"
+  ],
+  "answer": "Alfred, Lord Tennyson",
+  "difficulty": "medium",
+  "topic": "author of charge of the light brigade"
+ },
+ {
+  "id": "lit-125",
+  "prompt": "Who wrote the poem \"The Tyger\"?",
+  "choices": [
+   "John Donne",
+   "Thomas Gray",
+   "William Blake",
+   "William Wordsworth"
+  ],
+  "answer": "William Blake",
+  "difficulty": "medium",
+  "topic": "author of the tyger"
+ },
+ {
+  "id": "lit-126",
+  "prompt": "Who wrote the sonnet \"How Do I Love Thee?\"",
+  "choices": [
+   "Christina Rossetti",
+   "Emily Dickinson",
+   "Robert Browning",
+   "Elizabeth Barrett Browning"
+  ],
+  "answer": "Elizabeth Barrett Browning",
+  "difficulty": "medium",
+  "topic": "author of how do i love thee"
+ },
+ {
+  "id": "lit-127",
+  "prompt": "Who wrote The Song of Hiawatha?",
+  "choices": [
+   "John Greenleaf Whittier",
+   "Henry Wadsworth Longfellow",
+   "Walt Whitman",
+   "Edgar Allan Poe"
+  ],
+  "answer": "Henry Wadsworth Longfellow",
+  "difficulty": "medium",
+  "topic": "author of song of hiawatha"
+ },
+ {
+  "id": "lit-128",
+  "prompt": "Which Japanese master wrote a haiku about a frog and an old pond?",
+  "choices": [
+   "Matsuo Bashō",
+   "Yosa Buson",
+   "Kobayashi Issa",
+   "Masaoka Shiki"
+  ],
+  "answer": "Matsuo Bashō",
+  "difficulty": "hard",
+  "topic": "basho frog haiku"
+ },
+ {
+  "id": "lit-129",
+  "prompt": "Who wrote the nonsense poem \"The Owl and the Pussycat\"?",
+  "choices": [
+   "Edward Lear",
+   "Hilaire Belloc",
+   "Ogden Nash",
+   "Lewis Carroll"
+  ],
+  "answer": "Edward Lear",
+  "difficulty": "medium",
+  "topic": "author of owl and the pussycat"
+ },
+ {
+  "id": "lit-130",
+  "prompt": "Who wrote the children's poetry book Where the Sidewalk Ends?",
+  "choices": [
+   "Shel Silverstein",
+   "Roald Dahl",
+   "Jack Prelutsky",
+   "Dr. Seuss"
+  ],
+  "answer": "Shel Silverstein",
+  "difficulty": "medium",
+  "topic": "author of where the sidewalk ends"
+ },
+ {
+  "id": "lit-131",
+  "prompt": "Who wrote the poem \"Still I Rise\"?",
+  "choices": [
+   "Maya Angelou",
+   "Toni Morrison",
+   "Gwendolyn Brooks",
+   "Langston Hughes"
+  ],
+  "answer": "Maya Angelou",
+  "difficulty": "medium",
+  "topic": "author of still i rise"
+ },
+ {
+  "id": "lit-132",
+  "prompt": "Who wrote the poem \"The Negro Speaks of Rivers\"?",
+  "choices": [
+   "Langston Hughes",
+   "Countee Cullen",
+   "Claude McKay",
+   "Paul Laurence Dunbar"
+  ],
+  "answer": "Langston Hughes",
+  "difficulty": "hard",
+  "topic": "author of negro speaks of rivers"
+ },
+ {
+  "id": "lit-133",
+  "prompt": "How many lines does a traditional sonnet have?",
+  "choices": [
+   "16",
+   "14",
+   "12",
+   "10"
+  ],
+  "answer": "14",
+  "difficulty": "easy",
+  "topic": "lines in a sonnet"
+ },
+ {
+  "id": "lit-134",
+  "prompt": "How many lines does a limerick have?",
+  "choices": [
+   "Five",
+   "Six",
+   "Seven",
+   "Four"
+  ],
+  "answer": "Five",
+  "difficulty": "easy",
+  "topic": "lines in a limerick"
+ },
+ {
+  "id": "lit-135",
+  "prompt": "Which country is the haiku form from?",
+  "choices": [
+   "Korea",
+   "Japan",
+   "China",
+   "India"
+  ],
+  "answer": "Japan",
+  "difficulty": "easy",
+  "topic": "origin of haiku"
+ },
+ {
+  "id": "lit-136",
+  "prompt": "Which meter did Shakespeare mainly use in his sonnets?",
+  "choices": [
+   "Trochaic tetrameter",
+   "Iambic pentameter",
+   "Anapestic trimeter",
+   "Dactylic hexameter"
+  ],
+  "answer": "Iambic pentameter",
+  "difficulty": "hard",
+  "topic": "shakespeare sonnet meter"
+ },
+ {
+  "id": "lit-137",
+  "prompt": "In which language was the epic Beowulf written?",
+  "choices": [
+   "Middle English",
+   "Old English",
+   "Old Norse",
+   "Latin"
+  ],
+  "answer": "Old English",
+  "difficulty": "medium",
+  "topic": "language of beowulf"
+ },
+ {
+  "id": "lit-138",
+  "prompt": "Which monster does Beowulf fight first?",
+  "choices": [
+   "Grendel",
+   "Fafnir",
+   "Cerberus",
+   "Smaug"
+  ],
+  "answer": "Grendel",
+  "difficulty": "easy",
+  "topic": "beowulfs first monster"
+ },
+ {
+  "id": "lit-139",
+  "prompt": "Who wrote the play A Doll's House?",
+  "choices": [
+   "August Strindberg",
+   "Oscar Wilde",
+   "Anton Chekhov",
+   "Henrik Ibsen"
+  ],
+  "answer": "Henrik Ibsen",
+  "difficulty": "medium",
+  "topic": "author of a dolls house"
+ },
+ {
+  "id": "lit-140",
+  "prompt": "Who wrote the comedy The Importance of Being Earnest?",
+  "choices": [
+   "George Bernard Shaw",
+   "Oscar Wilde",
+   "Harold Pinter",
+   "Noël Coward"
+  ],
+  "answer": "Oscar Wilde",
+  "difficulty": "medium",
+  "topic": "author of importance of being earnest"
+ },
+ {
+  "id": "lit-141",
+  "prompt": "Who wrote the play Pygmalion?",
+  "choices": [
+   "Harold Pinter",
+   "Oscar Wilde",
+   "George Bernard Shaw",
+   "Noël Coward"
+  ],
+  "answer": "George Bernard Shaw",
+  "difficulty": "medium",
+  "topic": "author of pygmalion"
+ },
+ {
+  "id": "lit-142",
+  "prompt": "Who wrote the play Death of a Salesman?",
+  "choices": [
+   "Edward Albee",
+   "Tennessee Williams",
+   "Eugene O'Neill",
+   "Arthur Miller"
+  ],
+  "answer": "Arthur Miller",
+  "difficulty": "medium",
+  "topic": "author of death of a salesman"
+ },
+ {
+  "id": "lit-143",
+  "prompt": "Who wrote the play A Streetcar Named Desire?",
+  "choices": [
+   "Thornton Wilder",
+   "Arthur Miller",
+   "Tennessee Williams",
+   "Eugene O'Neill"
+  ],
+  "answer": "Tennessee Williams",
+  "difficulty": "medium",
+  "topic": "author of a streetcar named desire"
+ },
+ {
+  "id": "lit-144",
+  "prompt": "Who wrote the play Our Town?",
+  "choices": [
+   "Tennessee Williams",
+   "Thornton Wilder",
+   "Arthur Miller",
+   "Eugene O'Neill"
+  ],
+  "answer": "Thornton Wilder",
+  "difficulty": "hard",
+  "topic": "author of our town"
+ },
+ {
+  "id": "lit-145",
+  "prompt": "Who wrote the play Waiting for Godot?",
+  "choices": [
+   "Eugène Ionesco",
+   "Harold Pinter",
+   "Samuel Beckett",
+   "Tom Stoppard"
+  ],
+  "answer": "Samuel Beckett",
+  "difficulty": "hard",
+  "topic": "author of waiting for godot"
+ },
+ {
+  "id": "lit-146",
+  "prompt": "Who wrote the play The Cherry Orchard?",
+  "choices": [
+   "Maxim Gorky",
+   "Leo Tolstoy",
+   "Anton Chekhov",
+   "Nikolai Gogol"
+  ],
+  "answer": "Anton Chekhov",
+  "difficulty": "medium",
+  "topic": "author of the cherry orchard"
+ },
+ {
+  "id": "lit-147",
+  "prompt": "Who wrote the Greek tragedy Antigone?",
+  "choices": [
+   "Sophocles",
+   "Aeschylus",
+   "Aristophanes",
+   "Euripides"
+  ],
+  "answer": "Sophocles",
+  "difficulty": "medium",
+  "topic": "author of antigone"
+ },
+ {
+  "id": "lit-148",
+  "prompt": "Who wrote the Greek tragedy Medea?",
+  "choices": [
+   "Aeschylus",
+   "Sophocles",
+   "Euripides",
+   "Aristophanes"
+  ],
+  "answer": "Euripides",
+  "difficulty": "medium",
+  "topic": "author of medea"
+ },
+ {
+  "id": "lit-149",
+  "prompt": "Who wrote the comedy Tartuffe?",
+  "choices": [
+   "Molière",
+   "Corneille",
+   "Racine",
+   "Voltaire"
+  ],
+  "answer": "Molière",
+  "difficulty": "medium",
+  "topic": "author of tartuffe"
+ },
+ {
+  "id": "lit-150",
+  "prompt": "Who wrote the play Faust, about a scholar's bargain with the devil?",
+  "choices": [
+   "Heinrich Heine",
+   "Friedrich Schiller",
+   "Thomas Mann",
+   "Johann Wolfgang von Goethe"
+  ],
+  "answer": "Johann Wolfgang von Goethe",
+  "difficulty": "medium",
+  "topic": "author of faust"
+ },
+ {
+  "id": "lit-151",
+  "prompt": "In the Odyssey, which island is Odysseus's home?",
+  "choices": [
+   "Crete",
+   "Ithaca",
+   "Sicily",
+   "Delos"
+  ],
+  "answer": "Ithaca",
+  "difficulty": "medium",
+  "topic": "odysseus home island"
+ },
+ {
+  "id": "lit-152",
+  "prompt": "Which Greek hero is linked to the wooden horse trick at Troy?",
+  "choices": [
+   "Paris",
+   "Achilles",
+   "Odysseus",
+   "Hector"
+  ],
+  "answer": "Odysseus",
+  "difficulty": "medium",
+  "topic": "hero of the trojan horse"
+ },
+ {
+  "id": "lit-153",
+  "prompt": "Which one-eyed giant does Odysseus blind?",
+  "choices": [
+   "Atlas",
+   "Antaeus",
+   "Talos",
+   "Polyphemus"
+  ],
+  "answer": "Polyphemus",
+  "difficulty": "medium",
+  "topic": "cyclops odysseus blinds"
+ },
+ {
+  "id": "lit-154",
+  "prompt": "Which Greek hero was vulnerable only in his heel?",
+  "choices": [
+   "Perseus",
+   "Achilles",
+   "Heracles",
+   "Theseus"
+  ],
+  "answer": "Achilles",
+  "difficulty": "easy",
+  "topic": "hero with vulnerable heel"
+ },
+ {
+  "id": "lit-155",
+  "prompt": "Who kills Hector in the Iliad?",
+  "choices": [
+   "Agamemnon",
+   "Achilles",
+   "Odysseus",
+   "Ajax"
+  ],
+  "answer": "Achilles",
+  "difficulty": "medium",
+  "topic": "slayer of hector"
+ },
+ {
+  "id": "lit-156",
+  "prompt": "Which Trojan prince carried Helen off to Troy?",
+  "choices": [
+   "Priam",
+   "Hector",
+   "Aeneas",
+   "Paris"
+  ],
+  "answer": "Paris",
+  "difficulty": "medium",
+  "topic": "trojan prince who took helen"
+ },
+ {
+  "id": "lit-157",
+  "prompt": "The hero of the Aeneid escapes which burning city?",
+  "choices": [
+   "Thebes",
+   "Sparta",
+   "Troy",
+   "Carthage"
+  ],
+  "answer": "Troy",
+  "difficulty": "medium",
+  "topic": "city aeneas escapes"
+ },
+ {
+  "id": "lit-158",
+  "prompt": "Which queen of Carthage loves Aeneas in Virgil's epic?",
+  "choices": [
+   "Penelope",
+   "Helen",
+   "Dido",
+   "Cleopatra"
+  ],
+  "answer": "Dido",
+  "difficulty": "medium",
+  "topic": "queen who loves aeneas"
+ },
+ {
+  "id": "lit-159",
+  "prompt": "Who is Odysseus's faithful wife?",
+  "choices": [
+   "Penelope",
+   "Calypso",
+   "Helen",
+   "Circe"
+  ],
+  "answer": "Penelope",
+  "difficulty": "easy",
+  "topic": "odysseus wife"
+ },
+ {
+  "id": "lit-160",
+  "prompt": "Which sorceress turns Odysseus's men into pigs?",
+  "choices": [
+   "Calypso",
+   "Athena",
+   "Medea",
+   "Circe"
+  ],
+  "answer": "Circe",
+  "difficulty": "medium",
+  "topic": "sorceress turning men into pigs"
+ },
+ {
+  "id": "lit-161",
+  "prompt": "Which hero kills the Minotaur in the Labyrinth?",
+  "choices": [
+   "Perseus",
+   "Jason",
+   "Heracles",
+   "Theseus"
+  ],
+  "answer": "Theseus",
+  "difficulty": "easy",
+  "topic": "slayer of the minotaur"
+ },
+ {
+  "id": "lit-162",
+  "prompt": "Which Greek hero beheads Medusa?",
+  "choices": [
+   "Odysseus",
+   "Jason",
+   "Perseus",
+   "Theseus"
+  ],
+  "answer": "Perseus",
+  "difficulty": "easy",
+  "topic": "slayer of medusa"
+ },
+ {
+  "id": "lit-163",
+  "prompt": "Jason sailed in which ship to seek the Golden Fleece?",
+  "choices": [
+   "Argo",
+   "Pequod",
+   "Nautilus",
+   "Hispaniola"
+  ],
+  "answer": "Argo",
+  "difficulty": "medium",
+  "topic": "jasons ship"
+ },
+ {
+  "id": "lit-164",
+  "prompt": "Which Titan holds up the sky in Greek myth?",
+  "choices": [
+   "Prometheus",
+   "Sisyphus",
+   "Tantalus",
+   "Atlas"
+  ],
+  "answer": "Atlas",
+  "difficulty": "easy",
+  "topic": "titan holding up the sky"
+ },
+ {
+  "id": "lit-165",
+  "prompt": "Which Titan stole fire for humans?",
+  "choices": [
+   "Prometheus",
+   "Hyperion",
+   "Cronus",
+   "Atlas"
+  ],
+  "answer": "Prometheus",
+  "difficulty": "easy",
+  "topic": "titan who stole fire"
+ },
+ {
+  "id": "lit-166",
+  "prompt": "Who is the Greek god of the sea?",
+  "choices": [
+   "Apollo",
+   "Zeus",
+   "Hades",
+   "Poseidon"
+  ],
+  "answer": "Poseidon",
+  "difficulty": "easy",
+  "topic": "greek god of the sea"
+ },
+ {
+  "id": "lit-167",
+  "prompt": "What is the Roman name for the Greek god Zeus?",
+  "choices": [
+   "Neptune",
+   "Mars",
+   "Saturn",
+   "Jupiter"
+  ],
+  "answer": "Jupiter",
+  "difficulty": "easy",
+  "topic": "roman name of zeus"
+ },
+ {
+  "id": "lit-168",
+  "prompt": "What is the Roman name for the Greek goddess Aphrodite?",
+  "choices": [
+   "Juno",
+   "Diana",
+   "Minerva",
+   "Venus"
+  ],
+  "answer": "Venus",
+  "difficulty": "medium",
+  "topic": "roman name of aphrodite"
+ },
+ {
+  "id": "lit-169",
+  "prompt": "Which giant three-headed dog guards the Greek underworld?",
+  "choices": [
+   "Cerberus",
+   "Orthrus",
+   "Argus",
+   "Fenrir"
+  ],
+  "answer": "Cerberus",
+  "difficulty": "medium",
+  "topic": "guard dog of the underworld"
+ },
+ {
+  "id": "lit-170",
+  "prompt": "Which Greek monster has snakes for hair?",
+  "choices": [
+   "Hydra",
+   "Chimera",
+   "Scylla",
+   "Medusa"
+  ],
+  "answer": "Medusa",
+  "difficulty": "easy",
+  "topic": "monster with snake hair"
+ },
+ {
+  "id": "lit-171",
+  "prompt": "Which Norse god wields the hammer Mjölnir?",
+  "choices": [
+   "Baldr",
+   "Odin",
+   "Loki",
+   "Thor"
+  ],
+  "answer": "Thor",
+  "difficulty": "easy",
+  "topic": "norse god with mjolnir"
+ },
+ {
+  "id": "lit-172",
+  "prompt": "Who is the chief god of the Norse pantheon?",
+  "choices": [
+   "Thor",
+   "Loki",
+   "Odin",
+   "Freyr"
+  ],
+  "answer": "Odin",
+  "difficulty": "medium",
+  "topic": "chief norse god"
+ },
+ {
+  "id": "lit-173",
+  "prompt": "Which Norse god is famed as a shape-shifting trickster?",
+  "choices": [
+   "Loki",
+   "Heimdall",
+   "Thor",
+   "Tyr"
+  ],
+  "answer": "Loki",
+  "difficulty": "easy",
+  "topic": "norse trickster god"
+ },
+ {
+  "id": "lit-174",
+  "prompt": "What is the great world-tree of Norse myth called?",
+  "choices": [
+   "Bifröst",
+   "Yggdrasil",
+   "Valhalla",
+   "Asgard"
+  ],
+  "answer": "Yggdrasil",
+  "difficulty": "medium",
+  "topic": "norse world tree"
+ },
+ {
+  "id": "lit-175",
+  "prompt": "Which rainbow bridge links Asgard to Earth in Norse myth?",
+  "choices": [
+   "Yggdrasil",
+   "Bifröst",
+   "Valhalla",
+   "Mjölnir"
+  ],
+  "answer": "Bifröst",
+  "difficulty": "medium",
+  "topic": "norse rainbow bridge"
+ },
+ {
+  "id": "lit-176",
+  "prompt": "In Norse myth, Ragnarök is the story of what?",
+  "choices": [
+   "A great sea voyage",
+   "A royal wedding",
+   "The doom of the gods",
+   "A harvest festival"
+  ],
+  "answer": "The doom of the gods",
+  "difficulty": "medium",
+  "topic": "meaning of ragnarok"
+ },
+ {
+  "id": "lit-177",
+  "prompt": "The Epic of Gilgamesh comes from which ancient region?",
+  "choices": [
+   "Greece",
+   "Egypt",
+   "Mesopotamia",
+   "Persia"
+  ],
+  "answer": "Mesopotamia",
+  "difficulty": "medium",
+  "topic": "origin of gilgamesh epic"
+ },
+ {
+  "id": "lit-178",
+  "prompt": "Which Indian epic contains the Bhagavad Gita?",
+  "choices": [
+   "Panchatantra",
+   "Rigveda",
+   "Ramayana",
+   "Mahabharata"
+  ],
+  "answer": "Mahabharata",
+  "difficulty": "medium",
+  "topic": "epic containing bhagavad gita"
+ },
+ {
+  "id": "lit-179",
+  "prompt": "Which Indian epic tells of Rama rescuing Sita?",
+  "choices": [
+   "Mahabharata",
+   "Ramayana",
+   "Upanishads",
+   "Panchatantra"
+  ],
+  "answer": "Ramayana",
+  "difficulty": "medium",
+  "topic": "epic of rama and sita"
+ },
+ {
+  "id": "lit-180",
+  "prompt": "Which demon king kidnaps Sita in the Ramayana?",
+  "choices": [
+   "Hiranyakashipu",
+   "Kansa",
+   "Duryodhana",
+   "Ravana"
+  ],
+  "answer": "Ravana",
+  "difficulty": "hard",
+  "topic": "villain of the ramayana"
+ },
+ {
+  "id": "lit-181",
+  "prompt": "Which monkey god is Rama's devoted ally in the Ramayana?",
+  "choices": [
+   "Garuda",
+   "Hanuman",
+   "Krishna",
+   "Ganesha"
+  ],
+  "answer": "Hanuman",
+  "difficulty": "medium",
+  "topic": "rama's monkey ally"
+ },
+ {
+  "id": "lit-182",
+  "prompt": "Which storyteller spins tales to delay her fate in the Arabian Nights?",
+  "choices": [
+   "Ali Baba",
+   "Sinbad",
+   "Aladdin",
+   "Scheherazade"
+  ],
+  "answer": "Scheherazade",
+  "difficulty": "medium",
+  "topic": "arabian nights storyteller"
+ },
+ {
+  "id": "lit-183",
+  "prompt": "Which tale features the magic words \"Open sesame\"?",
+  "choices": [
+   "Ali Baba and the Forty Thieves",
+   "Cinderella",
+   "Aladdin",
+   "Sinbad the Sailor"
+  ],
+  "answer": "Ali Baba and the Forty Thieves",
+  "difficulty": "medium",
+  "topic": "open sesame tale"
+ },
+ {
+  "id": "lit-184",
+  "prompt": "In Aesop's fable of the race, who wins?",
+  "choices": [
+   "The crow",
+   "The tortoise",
+   "The fox",
+   "The hare"
+  ],
+  "answer": "The tortoise",
+  "difficulty": "easy",
+  "topic": "winner of aesop race"
+ },
+ {
+  "id": "lit-185",
+  "prompt": "Which siblings collected the tales of Hansel and Gretel and Rapunzel?",
+  "choices": [
+   "The Brontë sisters",
+   "The Brothers Grimm",
+   "The Wright brothers",
+   "The Marx Brothers"
+  ],
+  "answer": "The Brothers Grimm",
+  "difficulty": "easy",
+  "topic": "collectors of hansel and gretel"
+ },
+ {
+  "id": "lit-186",
+  "prompt": "Who wrote the fairy tale The Little Mermaid?",
+  "choices": [
+   "Hans Christian Andersen",
+   "Charles Perrault",
+   "Carlo Collodi",
+   "Brothers Grimm"
+  ],
+  "answer": "Hans Christian Andersen",
+  "difficulty": "medium",
+  "topic": "author of the little mermaid"
+ },
+ {
+  "id": "lit-187",
+  "prompt": "Hans Christian Andersen, the fairy tale writer, was from which country?",
+  "choices": [
+   "Sweden",
+   "Denmark",
+   "Norway",
+   "Germany"
+  ],
+  "answer": "Denmark",
+  "difficulty": "medium",
+  "topic": "nationality of andersen"
+ },
+ {
+  "id": "lit-188",
+  "prompt": "Who wrote the puppet tale Pinocchio?",
+  "choices": [
+   "Hans Christian Andersen",
+   "Brothers Grimm",
+   "Charles Perrault",
+   "Carlo Collodi"
+  ],
+  "answer": "Carlo Collodi",
+  "difficulty": "medium",
+  "topic": "author of pinocchio"
+ },
+ {
+  "id": "lit-189",
+  "prompt": "Which Frenchman published Mother Goose tales in the 1690s?",
+  "choices": [
+   "Charles Perrault",
+   "Molière",
+   "Voltaire",
+   "Jean de La Fontaine"
+  ],
+  "answer": "Charles Perrault",
+  "difficulty": "hard",
+  "topic": "author of mother goose tales"
+ },
+ {
+  "id": "lit-190",
+  "prompt": "Who wrote Heidi?",
+  "choices": [
+   "Astrid Lindgren",
+   "Erich Kästner",
+   "Selma Lagerlöf",
+   "Johanna Spyri"
+  ],
+  "answer": "Johanna Spyri",
+  "difficulty": "medium",
+  "topic": "author of heidi"
+ },
+ {
+  "id": "lit-191",
+  "prompt": "Who wrote Pippi Longstocking?",
+  "choices": [
+   "Astrid Lindgren",
+   "Beatrix Potter",
+   "Tove Jansson",
+   "Selma Lagerlöf"
+  ],
+  "answer": "Astrid Lindgren",
+  "difficulty": "medium",
+  "topic": "author of pippi longstocking"
+ },
+ {
+  "id": "lit-192",
+  "prompt": "Who created the Moomins?",
+  "choices": [
+   "Roald Dahl",
+   "Astrid Lindgren",
+   "Tove Jansson",
+   "Maurice Sendak"
+  ],
+  "answer": "Tove Jansson",
+  "difficulty": "medium",
+  "topic": "creator of the moomins"
+ },
+ {
+  "id": "lit-193",
+  "prompt": "Who wrote The Neverending Story?",
+  "choices": [
+   "Erich Kästner",
+   "Otfried Preußler",
+   "Michael Ende",
+   "Cornelia Funke"
+  ],
+  "answer": "Michael Ende",
+  "difficulty": "hard",
+  "topic": "author of the neverending story"
+ },
+ {
+  "id": "lit-194",
+  "prompt": "Who wrote Black Beauty?",
+  "choices": [
+   "Frances Hodgson Burnett",
+   "Kenneth Grahame",
+   "Louisa May Alcott",
+   "Anna Sewell"
+  ],
+  "answer": "Anna Sewell",
+  "difficulty": "medium",
+  "topic": "author of black beauty"
+ },
+ {
+  "id": "lit-195",
+  "prompt": "Who wrote The Secret Garden?",
+  "choices": [
+   "Frances Hodgson Burnett",
+   "Louisa May Alcott",
+   "L. M. Montgomery",
+   "E. Nesbit"
+  ],
+  "answer": "Frances Hodgson Burnett",
+  "difficulty": "medium",
+  "topic": "author of the secret garden"
+ },
+ {
+  "id": "lit-196",
+  "prompt": "Who wrote A Wrinkle in Time?",
+  "choices": [
+   "Madeleine L'Engle",
+   "Judy Blume",
+   "Ursula K. Le Guin",
+   "Lois Lowry"
+  ],
+  "answer": "Madeleine L'Engle",
+  "difficulty": "medium",
+  "topic": "author of a wrinkle in time"
+ },
+ {
+  "id": "lit-197",
+  "prompt": "Who wrote The Giver?",
+  "choices": [
+   "Suzanne Collins",
+   "Lois Lowry",
+   "Madeleine L'Engle",
+   "Beverly Cleary"
+  ],
+  "answer": "Lois Lowry",
+  "difficulty": "medium",
+  "topic": "author of the giver"
+ },
+ {
+  "id": "lit-198",
+  "prompt": "Who wrote The Phantom Tollbooth?",
+  "choices": [
+   "Lemony Snicket",
+   "E. B. White",
+   "Roald Dahl",
+   "Norton Juster"
+  ],
+  "answer": "Norton Juster",
+  "difficulty": "hard",
+  "topic": "author of the phantom tollbooth"
+ },
+ {
+  "id": "lit-199",
+  "prompt": "Who wrote The Very Hungry Caterpillar?",
+  "choices": [
+   "Mo Willems",
+   "Eric Carle",
+   "Dr. Seuss",
+   "Maurice Sendak"
+  ],
+  "answer": "Eric Carle",
+  "difficulty": "easy",
+  "topic": "author of very hungry caterpillar"
+ },
+ {
+  "id": "lit-200",
+  "prompt": "Who wrote the verse novel Eugene Onegin?",
+  "choices": [
+   "Alexander Pushkin",
+   "Ivan Turgenev",
+   "Mikhail Lermontov",
+   "Nikolai Gogol"
+  ],
+  "answer": "Alexander Pushkin",
+  "difficulty": "medium",
+  "topic": "author of eugene onegin"
+ },
+ {
+  "id": "lit-201",
+  "prompt": "Who wrote the satirical novel Dead Souls?",
+  "choices": [
+   "Anton Chekhov",
+   "Nikolai Gogol",
+   "Leo Tolstoy",
+   "Ivan Goncharov"
+  ],
+  "answer": "Nikolai Gogol",
+  "difficulty": "medium",
+  "topic": "author of dead souls"
+ },
+ {
+  "id": "lit-202",
+  "prompt": "Who wrote The Master and Margarita?",
+  "choices": [
+   "Boris Pasternak",
+   "Aleksandr Solzhenitsyn",
+   "Vladimir Nabokov",
+   "Mikhail Bulgakov"
+  ],
+  "answer": "Mikhail Bulgakov",
+  "difficulty": "medium",
+  "topic": "author of master and margarita"
+ },
+ {
+  "id": "lit-203",
+  "prompt": "Who wrote Doctor Zhivago?",
+  "choices": [
+   "Mikhail Bulgakov",
+   "Maxim Gorky",
+   "Boris Pasternak",
+   "Mikhail Sholokhov"
+  ],
+  "answer": "Boris Pasternak",
+  "difficulty": "medium",
+  "topic": "author of doctor zhivago"
+ },
+ {
+  "id": "lit-204",
+  "prompt": "Who wrote One Day in the Life of Ivan Denisovich?",
+  "choices": [
+   "Mikhail Sholokhov",
+   "Boris Pasternak",
+   "Aleksandr Solzhenitsyn",
+   "Vladimir Nabokov"
+  ],
+  "answer": "Aleksandr Solzhenitsyn",
+  "difficulty": "hard",
+  "topic": "author of ivan denisovich"
+ },
+ {
+  "id": "lit-205",
+  "prompt": "Who wrote the Russian novel Fathers and Sons?",
+  "choices": [
+   "Ivan Goncharov",
+   "Ivan Turgenev",
+   "Nikolai Gogol",
+   "Leo Tolstoy"
+  ],
+  "answer": "Ivan Turgenev",
+  "difficulty": "medium",
+  "topic": "author of fathers and sons"
+ },
+ {
+  "id": "lit-206",
+  "prompt": "Who wrote the French novel The Stranger (L'Étranger)?",
+  "choices": [
+   "Jean-Paul Sartre",
+   "André Gide",
+   "Albert Camus",
+   "Marcel Proust"
+  ],
+  "answer": "Albert Camus",
+  "difficulty": "medium",
+  "topic": "author of the stranger"
+ },
+ {
+  "id": "lit-207",
+  "prompt": "Who wrote In Search of Lost Time?",
+  "choices": [
+   "Gustave Flaubert",
+   "Stendhal",
+   "Émile Zola",
+   "Marcel Proust"
+  ],
+  "answer": "Marcel Proust",
+  "difficulty": "medium",
+  "topic": "author of in search of lost time"
+ },
+ {
+  "id": "lit-208",
+  "prompt": "Who wrote Madame Bovary?",
+  "choices": [
+   "Gustave Flaubert",
+   "Émile Zola",
+   "Stendhal",
+   "Honoré de Balzac"
+  ],
+  "answer": "Gustave Flaubert",
+  "difficulty": "medium",
+  "topic": "author of madame bovary"
+ },
+ {
+  "id": "lit-209",
+  "prompt": "Who wrote the satire Candide?",
+  "choices": [
+   "Rousseau",
+   "Voltaire",
+   "Molière",
+   "Diderot"
+  ],
+  "answer": "Voltaire",
+  "difficulty": "medium",
+  "topic": "author of candide"
+ },
+ {
+  "id": "lit-210",
+  "prompt": "Who wrote The Red and the Black?",
+  "choices": [
+   "Émile Zola",
+   "Victor Hugo",
+   "Honoré de Balzac",
+   "Stendhal"
+  ],
+  "answer": "Stendhal",
+  "difficulty": "medium",
+  "topic": "author of the red and the black"
+ },
+ {
+  "id": "lit-211",
+  "prompt": "Who wrote the coal-mining novel Germinal?",
+  "choices": [
+   "Gustave Flaubert",
+   "Honoré de Balzac",
+   "Émile Zola",
+   "Guy de Maupassant"
+  ],
+  "answer": "Émile Zola",
+  "difficulty": "medium",
+  "topic": "author of germinal"
+ },
+ {
+  "id": "lit-212",
+  "prompt": "Who wrote the poetry collection Les Fleurs du mal?",
+  "choices": [
+   "Charles Baudelaire",
+   "Victor Hugo",
+   "Arthur Rimbaud",
+   "Paul Verlaine"
+  ],
+  "answer": "Charles Baudelaire",
+  "difficulty": "medium",
+  "topic": "author of les fleurs du mal"
+ },
+ {
+  "id": "lit-213",
+  "prompt": "Which novel features Phileas Fogg and his wager?",
+  "choices": [
+   "The Mysterious Island",
+   "Journey to the Center of the Earth",
+   "Around the World in Eighty Days",
+   "Five Weeks in a Balloon"
+  ],
+  "answer": "Around the World in Eighty Days",
+  "difficulty": "easy",
+  "topic": "novel with phileas fogg"
+ },
+ {
+  "id": "lit-214",
+  "prompt": "Who wrote The Phantom of the Opera?",
+  "choices": [
+   "Jules Verne",
+   "Victor Hugo",
+   "Alexandre Dumas",
+   "Gaston Leroux"
+  ],
+  "answer": "Gaston Leroux",
+  "difficulty": "medium",
+  "topic": "author of phantom of the opera"
+ },
+ {
+  "id": "lit-215",
+  "prompt": "Who wrote The Metamorphosis, in which a man wakes as an insect?",
+  "choices": [
+   "Franz Kafka",
+   "Rainer Maria Rilke",
+   "Thomas Mann",
+   "Hermann Hesse"
+  ],
+  "answer": "Franz Kafka",
+  "difficulty": "medium",
+  "topic": "author of the metamorphosis"
+ },
+ {
+  "id": "lit-216",
+  "prompt": "Who wrote Siddhartha?",
+  "choices": [
+   "Franz Kafka",
+   "Günter Grass",
+   "Thomas Mann",
+   "Hermann Hesse"
+  ],
+  "answer": "Hermann Hesse",
+  "difficulty": "medium",
+  "topic": "author of siddhartha"
+ },
+ {
+  "id": "lit-217",
+  "prompt": "Who wrote The Magic Mountain?",
+  "choices": [
+   "Franz Kafka",
+   "Hermann Hesse",
+   "Robert Musil",
+   "Thomas Mann"
+  ],
+  "answer": "Thomas Mann",
+  "difficulty": "medium",
+  "topic": "author of the magic mountain"
+ },
+ {
+  "id": "lit-218",
+  "prompt": "Who wrote All Quiet on the Western Front?",
+  "choices": [
+   "Heinrich Böll",
+   "Erich Maria Remarque",
+   "Thomas Mann",
+   "Hermann Hesse"
+  ],
+  "answer": "Erich Maria Remarque",
+  "difficulty": "medium",
+  "topic": "author of all quiet on the western front"
+ },
+ {
+  "id": "lit-219",
+  "prompt": "Who wrote The Tin Drum?",
+  "choices": [
+   "Patrick Süskind",
+   "Günter Grass",
+   "Heinrich Böll",
+   "Thomas Mann"
+  ],
+  "answer": "Günter Grass",
+  "difficulty": "medium",
+  "topic": "author of the tin drum"
+ },
+ {
+  "id": "lit-220",
+  "prompt": "Who wrote the poem \"Ode to Joy\" that Beethoven later set to music?",
+  "choices": [
+   "Friedrich Schiller",
+   "Johann Wolfgang von Goethe",
+   "Friedrich Hölderlin",
+   "Heinrich Heine"
+  ],
+  "answer": "Friedrich Schiller",
+  "difficulty": "hard",
+  "topic": "author of ode to joy"
+ },
+ {
+  "id": "lit-221",
+  "prompt": "Who wrote the Mexican novel Pedro Páramo?",
+  "choices": [
+   "Carlos Fuentes",
+   "Octavio Paz",
+   "Mario Vargas Llosa",
+   "Juan Rulfo"
+  ],
+  "answer": "Juan Rulfo",
+  "difficulty": "hard",
+  "topic": "author of pedro paramo"
+ },
+ {
+  "id": "lit-222",
+  "prompt": "Who wrote The House of the Spirits?",
+  "choices": [
+   "Isabel Allende",
+   "Gabriela Mistral",
+   "Laura Esquivel",
+   "Clarice Lispector"
+  ],
+  "answer": "Isabel Allende",
+  "difficulty": "medium",
+  "topic": "author of house of the spirits"
+ },
+ {
+  "id": "lit-223",
+  "prompt": "Who wrote the story collection Ficciones?",
+  "choices": [
+   "Pablo Neruda",
+   "Jorge Luis Borges",
+   "Roberto Bolaño",
+   "Julio Cortázar"
+  ],
+  "answer": "Jorge Luis Borges",
+  "difficulty": "medium",
+  "topic": "author of ficciones"
+ },
+ {
+  "id": "lit-224",
+  "prompt": "Who wrote the experimental novel Hopscotch (Rayuela)?",
+  "choices": [
+   "Jorge Luis Borges",
+   "Julio Cortázar",
+   "Mario Vargas Llosa",
+   "Carlos Fuentes"
+  ],
+  "answer": "Julio Cortázar",
+  "difficulty": "medium",
+  "topic": "author of hopscotch"
+ },
+ {
+  "id": "lit-225",
+  "prompt": "Who wrote the novel Like Water for Chocolate?",
+  "choices": [
+   "Ángeles Mastretta",
+   "Isabel Allende",
+   "Elena Poniatowska",
+   "Laura Esquivel"
+  ],
+  "answer": "Laura Esquivel",
+  "difficulty": "hard",
+  "topic": "author of like water for chocolate"
+ },
+ {
+  "id": "lit-226",
+  "prompt": "Who wrote The Alchemist?",
+  "choices": [
+   "Jorge Amado",
+   "Isabel Allende",
+   "Paulo Coelho",
+   "Mario Vargas Llosa"
+  ],
+  "answer": "Paulo Coelho",
+  "difficulty": "medium",
+  "topic": "author of the alchemist"
+ },
+ {
+  "id": "lit-227",
+  "prompt": "Who wrote the Brazilian novel Dom Casmurro?",
+  "choices": [
+   "Clarice Lispector",
+   "João Guimarães Rosa",
+   "Machado de Assis",
+   "Jorge Amado"
+  ],
+  "answer": "Machado de Assis",
+  "difficulty": "hard",
+  "topic": "author of dom casmurro"
+ },
+ {
+  "id": "lit-228",
+  "prompt": "In which language was Don Quixote originally written?",
+  "choices": [
+   "Italian",
+   "Portuguese",
+   "Catalan",
+   "Spanish"
+  ],
+  "answer": "Spanish",
+  "difficulty": "easy",
+  "topic": "language of don quixote"
+ },
+ {
+  "id": "lit-229",
+  "prompt": "Who wrote the play Blood Wedding?",
+  "choices": [
+   "Federico García Lorca",
+   "Miguel de Unamuno",
+   "Antonio Machado",
+   "Pablo Neruda"
+  ],
+  "answer": "Federico García Lorca",
+  "difficulty": "hard",
+  "topic": "author of blood wedding"
+ },
+ {
+  "id": "lit-230",
+  "prompt": "Who wrote The Decameron, a collection of 100 tales?",
+  "choices": [
+   "Dante Alighieri",
+   "Giovanni Boccaccio",
+   "Niccolò Machiavelli",
+   "Petrarch"
+  ],
+  "answer": "Giovanni Boccaccio",
+  "difficulty": "medium",
+  "topic": "author of the decameron"
+ },
+ {
+  "id": "lit-231",
+  "prompt": "Who wrote the political treatise The Prince?",
+  "choices": [
+   "Niccolò Machiavelli",
+   "Petrarch",
+   "Giovanni Boccaccio",
+   "Thomas More"
+  ],
+  "answer": "Niccolò Machiavelli",
+  "difficulty": "medium",
+  "topic": "author of the prince"
+ },
+ {
+  "id": "lit-232",
+  "prompt": "Who wrote the novel The Name of the Rose?",
+  "choices": [
+   "Alberto Moravia",
+   "Umberto Eco",
+   "Primo Levi",
+   "Italo Calvino"
+  ],
+  "answer": "Umberto Eco",
+  "difficulty": "medium",
+  "topic": "author of the name of the rose"
+ },
+ {
+  "id": "lit-233",
+  "prompt": "Who wrote Invisible Cities?",
+  "choices": [
+   "Italo Calvino",
+   "Primo Levi",
+   "Alberto Moravia",
+   "Umberto Eco"
+  ],
+  "answer": "Italo Calvino",
+  "difficulty": "hard",
+  "topic": "author of invisible cities"
+ },
+ {
+  "id": "lit-234",
+  "prompt": "Which woman inspired the love sonnets of the poet Petrarch?",
+  "choices": [
+   "Lucrezia",
+   "Juliet",
+   "Beatrice",
+   "Laura"
+  ],
+  "answer": "Laura",
+  "difficulty": "hard",
+  "topic": "petrarch muse"
+ },
+ {
+  "id": "lit-235",
+  "prompt": "Who wrote The Tale of Genji?",
+  "choices": [
+   "Sei Shōnagon",
+   "Murasaki Shikibu",
+   "Ihara Saikaku",
+   "Lady Nijō"
+  ],
+  "answer": "Murasaki Shikibu",
+  "difficulty": "medium",
+  "topic": "author of the tale of genji"
+ },
+ {
+  "id": "lit-236",
+  "prompt": "Who wrote The Pillow Book of the Heian court?",
+  "choices": [
+   "Murasaki Shikibu",
+   "Matsuo Bashō",
+   "Sei Shōnagon",
+   "Natsume Sōseki"
+  ],
+  "answer": "Sei Shōnagon",
+  "difficulty": "hard",
+  "topic": "author of the pillow book"
+ },
+ {
+  "id": "lit-237",
+  "prompt": "Who wrote the Japanese novel Kokoro?",
+  "choices": [
+   "Ryūnosuke Akutagawa",
+   "Mori Ōgai",
+   "Yukio Mishima",
+   "Natsume Sōseki"
+  ],
+  "answer": "Natsume Sōseki",
+  "difficulty": "hard",
+  "topic": "author of kokoro"
+ },
+ {
+  "id": "lit-238",
+  "prompt": "Who wrote the short story \"Rashōmon\"?",
+  "choices": [
+   "Osamu Dazai",
+   "Jun'ichirō Tanizaki",
+   "Natsume Sōseki",
+   "Ryūnosuke Akutagawa"
+  ],
+  "answer": "Ryūnosuke Akutagawa",
+  "difficulty": "hard",
+  "topic": "author of rashomon story"
+ },
+ {
+  "id": "lit-239",
+  "prompt": "Who wrote the novel Norwegian Wood?",
+  "choices": [
+   "Banana Yoshimoto",
+   "Haruki Murakami",
+   "Kenzaburō Ōe",
+   "Yasunari Kawabata"
+  ],
+  "answer": "Haruki Murakami",
+  "difficulty": "medium",
+  "topic": "author of norwegian wood"
+ },
+ {
+  "id": "lit-240",
+  "prompt": "Who wrote the novel Snow Country?",
+  "choices": [
+   "Haruki Murakami",
+   "Yasunari Kawabata",
+   "Kenzaburō Ōe",
+   "Yukio Mishima"
+  ],
+  "answer": "Yasunari Kawabata",
+  "difficulty": "hard",
+  "topic": "author of snow country"
+ },
+ {
+  "id": "lit-241",
+  "prompt": "In Journey to the West, who is the Monkey King?",
+  "choices": [
+   "Sha Wujing",
+   "Sun Wukong",
+   "Zhu Bajie",
+   "Tang Sanzang"
+  ],
+  "answer": "Sun Wukong",
+  "difficulty": "medium",
+  "topic": "monkey king in journey to the west"
+ },
+ {
+  "id": "lit-242",
+  "prompt": "Romance of the Three Kingdoms is set during the fall of which dynasty?",
+  "choices": [
+   "Tang",
+   "Ming",
+   "Han",
+   "Qing"
+  ],
+  "answer": "Han",
+  "difficulty": "hard",
+  "topic": "dynasty in three kingdoms"
+ },
+ {
+  "id": "lit-243",
+  "prompt": "Who wrote \"A Madman's Diary,\" a landmark of modern Chinese fiction?",
+  "choices": [
+   "Mo Yan",
+   "Lu Xun",
+   "Lao She",
+   "Ba Jin"
+  ],
+  "answer": "Lu Xun",
+  "difficulty": "hard",
+  "topic": "author of a madmans diary"
+ },
+ {
+  "id": "lit-244",
+  "prompt": "Who wrote the Chinese novel Red Sorghum?",
+  "choices": [
+   "Yu Hua",
+   "Mo Yan",
+   "Lu Xun",
+   "Lao She"
+  ],
+  "answer": "Mo Yan",
+  "difficulty": "hard",
+  "topic": "author of red sorghum"
+ },
+ {
+  "id": "lit-245",
+  "prompt": "Which Tang dynasty poet is nicknamed the \"Poet Immortal\"?",
+  "choices": [
+   "Li Bai",
+   "Du Fu",
+   "Bai Juyi",
+   "Wang Wei"
+  ],
+  "answer": "Li Bai",
+  "difficulty": "hard",
+  "topic": "poet immortal of tang china"
+ },
+ {
+  "id": "lit-246",
+  "prompt": "Who wrote the novel Things Fall Apart?",
+  "choices": [
+   "Chinua Achebe",
+   "Ben Okri",
+   "Ngũgĩ wa Thiong'o",
+   "Wole Soyinka"
+  ],
+  "answer": "Chinua Achebe",
+  "difficulty": "medium",
+  "topic": "author of things fall apart"
+ },
+ {
+  "id": "lit-247",
+  "prompt": "Chinua Achebe, author of Things Fall Apart, was from which country?",
+  "choices": [
+   "Ghana",
+   "South Africa",
+   "Nigeria",
+   "Kenya"
+  ],
+  "answer": "Nigeria",
+  "difficulty": "medium",
+  "topic": "nationality of achebe"
+ },
+ {
+  "id": "lit-248",
+  "prompt": "Who wrote the play Death and the King's Horseman?",
+  "choices": [
+   "Ngũgĩ wa Thiong'o",
+   "Athol Fugard",
+   "Wole Soyinka",
+   "Chinua Achebe"
+  ],
+  "answer": "Wole Soyinka",
+  "difficulty": "hard",
+  "topic": "author of death and the kings horseman"
+ },
+ {
+  "id": "lit-249",
+  "prompt": "Who wrote the South African novel Cry, the Beloved Country?",
+  "choices": [
+   "Nadine Gordimer",
+   "Alan Paton",
+   "Athol Fugard",
+   "J. M. Coetzee"
+  ],
+  "answer": "Alan Paton",
+  "difficulty": "hard",
+  "topic": "author of cry the beloved country"
+ },
+ {
+  "id": "lit-250",
+  "prompt": "Who wrote the novel Half of a Yellow Sun?",
+  "choices": [
+   "Ama Ata Aidoo",
+   "Chimamanda Ngozi Adichie",
+   "Tsitsi Dangarembga",
+   "Buchi Emecheta"
+  ],
+  "answer": "Chimamanda Ngozi Adichie",
+  "difficulty": "hard",
+  "topic": "author of half of a yellow sun"
+ },
+ {
+  "id": "lit-251",
+  "prompt": "Who wrote the Egyptian Cairo Trilogy?",
+  "choices": [
+   "Tawfiq al-Hakim",
+   "Naguib Mahfouz",
+   "Alaa Al Aswany",
+   "Taha Hussein"
+  ],
+  "answer": "Naguib Mahfouz",
+  "difficulty": "hard",
+  "topic": "author of the cairo trilogy"
+ },
+ {
+  "id": "lit-252",
+  "prompt": "Who wrote the book of poetic essays The Prophet?",
+  "choices": [
+   "Naguib Mahfouz",
+   "Rumi",
+   "Rabindranath Tagore",
+   "Kahlil Gibran"
+  ],
+  "answer": "Kahlil Gibran",
+  "difficulty": "medium",
+  "topic": "author of the prophet"
+ },
+ {
+  "id": "lit-253",
+  "prompt": "Who wrote the Polish epic poem Pan Tadeusz?",
+  "choices": [
+   "Czesław Miłosz",
+   "Adam Mickiewicz",
+   "Bolesław Prus",
+   "Henryk Sienkiewicz"
+  ],
+  "answer": "Adam Mickiewicz",
+  "difficulty": "hard",
+  "topic": "author of pan tadeusz"
+ },
+ {
+  "id": "lit-254",
+  "prompt": "Who wrote the Czech comic novel The Good Soldier Švejk?",
+  "choices": [
+   "Milan Kundera",
+   "Karel Čapek",
+   "Franz Kafka",
+   "Jaroslav Hašek"
+  ],
+  "answer": "Jaroslav Hašek",
+  "difficulty": "hard",
+  "topic": "author of good soldier svejk"
+ },
+ {
+  "id": "lit-255",
+  "prompt": "Whose 1920 play R.U.R. brought the word \"robot\" to the world?",
+  "choices": [
+   "Stanisław Lem",
+   "Karel Čapek",
+   "Isaac Asimov",
+   "Franz Kafka"
+  ],
+  "answer": "Karel Čapek",
+  "difficulty": "hard",
+  "topic": "author of rur"
+ },
+ {
+  "id": "lit-256",
+  "prompt": "Who wrote The Unbearable Lightness of Being?",
+  "choices": [
+   "Milan Kundera",
+   "Ivan Klíma",
+   "Karel Čapek",
+   "Václav Havel"
+  ],
+  "answer": "Milan Kundera",
+  "difficulty": "hard",
+  "topic": "author of unbearable lightness of being"
+ },
+ {
+  "id": "lit-257",
+  "prompt": "Who wrote the Greek novel Zorba the Greek?",
+  "choices": [
+   "C. P. Cavafy",
+   "Odysseas Elytis",
+   "Giorgos Seferis",
+   "Nikos Kazantzakis"
+  ],
+  "answer": "Nikos Kazantzakis",
+  "difficulty": "hard",
+  "topic": "author of zorba the greek"
+ },
+ {
+  "id": "lit-258",
+  "prompt": "Who wrote Sophie's World, a novel about philosophy?",
+  "choices": [
+   "Knut Hamsun",
+   "Jostein Gaarder",
+   "Henrik Ibsen",
+   "Astrid Lindgren"
+  ],
+  "answer": "Jostein Gaarder",
+  "difficulty": "medium",
+  "topic": "author of sophies world"
+ },
+ {
+  "id": "lit-259",
+  "prompt": "Which fairy-tale heroine loses a glass slipper at a royal ball?",
+  "choices": [
+   "Sleeping Beauty",
+   "Snow White",
+   "Cinderella",
+   "Rapunzel"
+  ],
+  "answer": "Cinderella",
+  "difficulty": "easy",
+  "topic": "fairy tale glass slipper"
+ },
+ {
+  "id": "lit-260",
+  "prompt": "Which fairy-tale princess bites a poisoned apple?",
+  "choices": [
+   "Cinderella",
+   "Belle",
+   "Rapunzel",
+   "Snow White"
+  ],
+  "answer": "Snow White",
+  "difficulty": "easy",
+  "topic": "fairy tale poisoned apple"
+ },
+ {
+  "id": "lit-261",
+  "prompt": "Which fairy-tale heroine lets down her long hair from a tower?",
+  "choices": [
+   "Rapunzel",
+   "Cinderella",
+   "Snow White",
+   "Belle"
+  ],
+  "answer": "Rapunzel",
+  "difficulty": "easy",
+  "topic": "fairy tale long hair tower"
+ },
+ {
+  "id": "lit-262",
+  "prompt": "In Little Red Riding Hood, whom does the wolf pretend to be?",
+  "choices": [
+   "Her grandmother",
+   "A hunter",
+   "Her mother",
+   "A woodcutter"
+  ],
+  "answer": "Her grandmother",
+  "difficulty": "easy",
+  "topic": "wolf disguise in red riding hood"
+ },
+ {
+  "id": "lit-263",
+  "prompt": "How many dwarfs live with Snow White?",
+  "choices": [
+   "Twelve",
+   "Seven",
+   "Nine",
+   "Five"
+  ],
+  "answer": "Seven",
+  "difficulty": "easy",
+  "topic": "number of snow white dwarfs"
+ },
+ {
+  "id": "lit-264",
+  "prompt": "Which Shakespeare play tells of young lovers from feuding families in Verona?",
+  "choices": [
+   "Romeo and Juliet",
+   "Hamlet",
+   "Macbeth",
+   "Othello"
+  ],
+  "answer": "Romeo and Juliet",
+  "difficulty": "easy",
+  "topic": "play of lovers in verona"
+ },
+ {
+  "id": "lit-265",
+  "prompt": "On which London street does Sherlock Holmes live?",
+  "choices": [
+   "Baker Street",
+   "Downing Street",
+   "Fleet Street",
+   "Oxford Street"
+  ],
+  "answer": "Baker Street",
+  "difficulty": "easy",
+  "topic": "holmes street address"
+ },
+ {
+  "id": "lit-266",
+  "prompt": "What does the Scarecrow hope to get from the Wizard of Oz?",
+  "choices": [
+   "A heart",
+   "A new home",
+   "Courage",
+   "A brain"
+  ],
+  "answer": "A brain",
+  "difficulty": "easy",
+  "topic": "scarecrow wish in oz"
+ },
+ {
+  "id": "lit-267",
+  "prompt": "What is the road to the Emerald City made of?",
+  "choices": [
+   "Gold coins",
+   "Yellow bricks",
+   "Red cobblestones",
+   "Silver tiles"
+  ],
+  "answer": "Yellow bricks",
+  "difficulty": "easy",
+  "topic": "road to the emerald city"
+ },
+ {
+  "id": "lit-268",
+  "prompt": "Which Dr. Seuss character tries to steal Christmas?",
+  "choices": [
+   "Sam-I-Am",
+   "The Grinch",
+   "The Lorax",
+   "Horton"
+  ],
+  "answer": "The Grinch",
+  "difficulty": "easy",
+  "topic": "seuss character stealing christmas"
+ },
+ {
+  "id": "lit-269",
+  "prompt": "What kind of creature is Moby Dick?",
+  "choices": [
+   "A white whale",
+   "A giant squid",
+   "A great shark",
+   "A sea serpent"
+  ],
+  "answer": "A white whale",
+  "difficulty": "easy",
+  "topic": "what moby dick is"
+ },
+ {
+  "id": "lit-270",
+  "prompt": "In which forest does Robin Hood hide with his Merry Men?",
+  "choices": [
+   "Fangorn Forest",
+   "Sherwood Forest",
+   "Black Forest",
+   "Epping Forest"
+  ],
+  "answer": "Sherwood Forest",
+  "difficulty": "easy",
+  "topic": "robin hood forest"
+ },
+ {
+  "id": "lit-271",
+  "prompt": "Which legendary king gathered knights around a Round Table?",
+  "choices": [
+   "Henry V",
+   "Richard III",
+   "King Arthur",
+   "Charlemagne"
+  ],
+  "answer": "King Arthur",
+  "difficulty": "easy",
+  "topic": "king of the round table"
+ },
+ {
+  "id": "lit-272",
+  "prompt": "Which wizard advises young King Arthur in legend?",
+  "choices": [
+   "Gandalf",
+   "Prospero",
+   "Merlin",
+   "Rincewind"
+  ],
+  "answer": "Merlin",
+  "difficulty": "easy",
+  "topic": "arthurian wizard"
+ },
+ {
+  "id": "lit-273",
+  "prompt": "Long John Silver is a pirate in which novel?",
+  "choices": [
+   "Robinson Crusoe",
+   "Moby-Dick",
+   "Treasure Island",
+   "Peter Pan"
+  ],
+  "answer": "Treasure Island",
+  "difficulty": "easy",
+  "topic": "novel with long john silver"
+ },
+ {
+  "id": "lit-274",
+  "prompt": "Which Mark Twain boy tricks friends into whitewashing a fence?",
+  "choices": [
+   "Jim",
+   "Tom Sawyer",
+   "Injun Joe",
+   "Huckleberry Finn"
+  ],
+  "answer": "Tom Sawyer",
+  "difficulty": "easy",
+  "topic": "twain boy whitewashing fence"
+ },
+ {
+  "id": "lit-275",
+  "prompt": "Which literary device compares two things using \"like\" or \"as\"?",
+  "choices": [
+   "Metaphor",
+   "Simile",
+   "Hyperbole",
+   "Irony"
+  ],
+  "answer": "Simile",
+  "difficulty": "easy",
+  "topic": "definition of simile"
+ },
+ {
+  "id": "lit-276",
+  "prompt": "What is a long narrative poem about a hero's deeds called?",
+  "choices": [
+   "An epic",
+   "An ode",
+   "A sonnet",
+   "An elegy"
+  ],
+  "answer": "An epic",
+  "difficulty": "easy",
+  "topic": "definition of epic"
+ },
+ {
+  "id": "lit-277",
+  "prompt": "Which word names a word that imitates a sound, like \"buzz\"?",
+  "choices": [
+   "Personification",
+   "Alliteration",
+   "Onomatopoeia",
+   "Metaphor"
+  ],
+  "answer": "Onomatopoeia",
+  "difficulty": "easy",
+  "topic": "definition of onomatopoeia"
+ },
+ {
+  "id": "lit-278",
+  "prompt": "Which Christmas story features the frail boy Tiny Tim?",
+  "choices": [
+   "Bleak House",
+   "Hard Times",
+   "Oliver Twist",
+   "A Christmas Carol"
+  ],
+  "answer": "A Christmas Carol",
+  "difficulty": "easy",
+  "topic": "story with tiny tim"
+ },
+ {
+  "id": "lit-279",
+  "prompt": "What is the name of King Arthur's legendary sword?",
+  "choices": [
+   "Anduril",
+   "Excalibur",
+   "Glamdring",
+   "Durendal"
+  ],
+  "answer": "Excalibur",
+  "difficulty": "easy",
+  "topic": "arthurs sword name"
+ },
+ {
+  "id": "lit-280",
+  "prompt": "Which writer's real name was Samuel Clemens?",
+  "choices": [
+   "O. Henry",
+   "Lewis Carroll",
+   "Mark Twain",
+   "George Orwell"
+  ],
+  "answer": "Mark Twain",
+  "difficulty": "easy",
+  "topic": "real name samuel clemens"
+ },
+ {
+  "id": "lit-281",
+  "prompt": "Which writer's real name was Eric Blair?",
+  "choices": [
+   "Dr. Seuss",
+   "George Orwell",
+   "Mark Twain",
+   "Lewis Carroll"
+  ],
+  "answer": "George Orwell",
+  "difficulty": "medium",
+  "topic": "real name eric blair"
+ },
+ {
+  "id": "lit-282",
+  "prompt": "Which literary sisters published as Currer, Ellis and Acton Bell?",
+  "choices": [
+   "The Brontës",
+   "The Alcotts",
+   "The Rossettis",
+   "The Mitfords"
+  ],
+  "answer": "The Brontës",
+  "difficulty": "medium",
+  "topic": "bell pen names sisters"
+ },
+ {
+  "id": "lit-283",
+  "prompt": "Mary Ann Evans wrote under which pen name?",
+  "choices": [
+   "Lewis Carroll",
+   "George Sand",
+   "George Eliot",
+   "Currer Bell"
+  ],
+  "answer": "George Eliot",
+  "difficulty": "medium",
+  "topic": "pen name of mary ann evans"
+ },
+ {
+  "id": "lit-284",
+  "prompt": "Who wrote The Sound and the Fury?",
+  "choices": [
+   "William Faulkner",
+   "Thomas Wolfe",
+   "Sherwood Anderson",
+   "Ernest Hemingway"
+  ],
+  "answer": "William Faulkner",
+  "difficulty": "medium",
+  "topic": "author of the sound and the fury"
+ },
+ {
+  "id": "lit-285",
+  "prompt": "Who wrote the novel Invisible Man (1952)?",
+  "choices": [
+   "Richard Wright",
+   "Langston Hughes",
+   "Ralph Ellison",
+   "James Baldwin"
+  ],
+  "answer": "Ralph Ellison",
+  "difficulty": "medium",
+  "topic": "author of invisible man"
+ },
+ {
+  "id": "lit-286",
+  "prompt": "Who wrote Catch-22?",
+  "choices": [
+   "Norman Mailer",
+   "Thomas Pynchon",
+   "Joseph Heller",
+   "Kurt Vonnegut"
+  ],
+  "answer": "Joseph Heller",
+  "difficulty": "medium",
+  "topic": "author of catch-22"
+ },
+ {
+  "id": "lit-287",
+  "prompt": "Who wrote Lord of the Flies?",
+  "choices": [
+   "William Golding",
+   "Aldous Huxley",
+   "Graham Greene",
+   "George Orwell"
+  ],
+  "answer": "William Golding",
+  "difficulty": "medium",
+  "topic": "author of lord of the flies"
+ },
+ {
+  "id": "lit-288",
+  "prompt": "Who wrote Brave New World?",
+  "choices": [
+   "George Orwell",
+   "Ray Bradbury",
+   "H. G. Wells",
+   "Aldous Huxley"
+  ],
+  "answer": "Aldous Huxley",
+  "difficulty": "medium",
+  "topic": "author of brave new world"
+ },
+ {
+  "id": "lit-289",
+  "prompt": "Who wrote Mrs Dalloway?",
+  "choices": [
+   "Katherine Mansfield",
+   "Virginia Woolf",
+   "E. M. Forster",
+   "Jean Rhys"
+  ],
+  "answer": "Virginia Woolf",
+  "difficulty": "medium",
+  "topic": "author of mrs dalloway"
+ },
+ {
+  "id": "lit-290",
+  "prompt": "Who wrote Ulysses (1922)?",
+  "choices": [
+   "Samuel Beckett",
+   "Oscar Wilde",
+   "W. B. Yeats",
+   "James Joyce"
+  ],
+  "answer": "James Joyce",
+  "difficulty": "medium",
+  "topic": "author of ulysses"
+ },
+ {
+  "id": "lit-291",
+  "prompt": "Who wrote Heart of Darkness?",
+  "choices": [
+   "Rudyard Kipling",
+   "E. M. Forster",
+   "Graham Greene",
+   "Joseph Conrad"
+  ],
+  "answer": "Joseph Conrad",
+  "difficulty": "medium",
+  "topic": "author of heart of darkness"
+ },
+ {
+  "id": "lit-292",
+  "prompt": "Who wrote Tess of the d'Urbervilles?",
+  "choices": [
+   "George Eliot",
+   "D. H. Lawrence",
+   "Thomas Hardy",
+   "Charles Dickens"
+  ],
+  "answer": "Thomas Hardy",
+  "difficulty": "medium",
+  "topic": "author of tess"
+ },
+ {
+  "id": "lit-293",
+  "prompt": "Who wrote Middlemarch?",
+  "choices": [
+   "Jane Austen",
+   "George Eliot",
+   "Charlotte Brontë",
+   "Elizabeth Gaskell"
+  ],
+  "answer": "George Eliot",
+  "difficulty": "medium",
+  "topic": "author of middlemarch"
+ },
+ {
+  "id": "lit-294",
+  "prompt": "Who wrote The Call of the Wild?",
+  "choices": [
+   "Zane Grey",
+   "Jack London",
+   "Mark Twain",
+   "Herman Melville"
+  ],
+  "answer": "Jack London",
+  "difficulty": "medium",
+  "topic": "author of call of the wild"
+ },
+ {
+  "id": "lit-295",
+  "prompt": "Who narrates Moby-Dick?",
+  "choices": [
+   "Starbuck",
+   "Ishmael",
+   "Ahab",
+   "Queequeg"
+  ],
+  "answer": "Ishmael",
+  "difficulty": "medium",
+  "topic": "narrator of moby-dick"
+ },
+ {
+  "id": "lit-296",
+  "prompt": "Who is Huckleberry Finn's companion on the raft?",
+  "choices": [
+   "Jim",
+   "Becky Thatcher",
+   "Tom Sawyer",
+   "Injun Joe"
+  ],
+  "answer": "Jim",
+  "difficulty": "medium",
+  "topic": "huck finn raft companion"
+ },
+ {
+  "id": "lit-297",
+  "prompt": "In which century was the first part of Don Quixote published?",
+  "choices": [
+   "17th century",
+   "15th century",
+   "18th century",
+   "19th century"
+  ],
+  "answer": "17th century",
+  "difficulty": "medium",
+  "topic": "century of don quixote"
+ },
+ {
+  "id": "lit-298",
+  "prompt": "In which century was Frankenstein first published?",
+  "choices": [
+   "20th century",
+   "18th century",
+   "17th century",
+   "19th century"
+  ],
+  "answer": "19th century",
+  "difficulty": "medium",
+  "topic": "century of frankenstein"
+ },
+ {
+  "id": "lit-299",
+  "prompt": "In which century did Chaucer write The Canterbury Tales?",
+  "choices": [
+   "16th century",
+   "12th century",
+   "14th century",
+   "18th century"
+  ],
+  "answer": "14th century",
+  "difficulty": "hard",
+  "topic": "century of canterbury tales"
+ },
+ {
+  "id": "lit-300",
+  "prompt": "Who wrote the gothic novel Rebecca?",
+  "choices": [
+   "Agatha Christie",
+   "Daphne du Maurier",
+   "Mary Stewart",
+   "Barbara Pym"
+  ],
+  "answer": "Daphne du Maurier",
+  "difficulty": "hard",
+  "topic": "author of rebecca"
+ }
+]
