@@ -42,6 +42,19 @@ console.log(`${rows.length} submissions, ${final.length} tester-rounds, ${tester
 console.log('Pace       ', tally(final.map((r) => r.pace), ['too_slow', 'just_right', 'too_fast'] as const));
 console.log('Difficulty ', tally(final.map((r) => r.difficulty), ['too_easy', 'just_right', 'too_hard'] as const));
 
+// Each level has its own pace, so judge each on its own votes.
+console.log('\nBy level:');
+for (const level of ['easy', 'normal', 'hard'] as const) {
+  const l = final.filter((r) => r.level === level);
+  if (!l.length) continue;
+  const g = l.map((r) => r.run.goatsSaved);
+  console.log(
+    `  ${level.padEnd(7)} n=${String(l.length).padEnd(4)} median goats ${median(g)}  median time ${(median(l.map((r) => r.run.totalTimeMs)) / 1000).toFixed(0)}s`,
+  );
+  console.log(`          pace       ${tally(l.map((r) => r.pace), ['too_slow', 'just_right', 'too_fast'] as const)}`);
+  console.log(`          difficulty ${tally(l.map((r) => r.difficulty), ['too_easy', 'just_right', 'too_hard'] as const)}`);
+}
+
 const goats = final.map((r) => r.run.goatsSaved);
 console.log('\nGoats saved:', [0, 1, 2, 3, 4, 5].map((g) => `${g}:${pct(goats.filter((x) => x === g).length, goats.length)}`).join('  '));
 console.log(`Median game time: ${(median(final.map((r) => r.run.totalTimeMs)) / 1000).toFixed(1)}s (doc target 60–90s)`);
