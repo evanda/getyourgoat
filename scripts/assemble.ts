@@ -79,9 +79,19 @@ function shuffle<T>(xs: T[]): T[] {
 }
 
 /** Group into triples in shuffled order, so main questions follow the bank's own difficulty mix. */
-function triples(qs: Draft[]): Draft[][] {
+function triples(input: Draft[]): Draft[][] {
+  const qs = [...input];
   const out: Draft[][] = [];
-  for (let i = 0; i + PER_CATEGORY <= qs.length; i += PER_CATEGORY) out.push(qs.slice(i, i + PER_CATEGORY));
+  for (let i = 0; i + PER_CATEGORY <= qs.length; i += PER_CATEGORY) {
+    // A reroll must not have the same answer as a question already in its triple.
+    for (let k = i + 1; k < i + PER_CATEGORY; k++) {
+      const taken = () => new Set(qs.slice(i, k).map((q) => String(q.answer).toLowerCase()));
+      for (let j = k; taken().has(String(qs[k].answer).toLowerCase()) && j < qs.length; j++) {
+        if (!taken().has(String(qs[j].answer).toLowerCase())) [qs[k], qs[j]] = [qs[j], qs[k]];
+      }
+    }
+    out.push(qs.slice(i, i + PER_CATEGORY));
+  }
   return out;
 }
 

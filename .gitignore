@@ -4,3 +4,4 @@ dist
 .export-token
 content/blind
 content/feedback-export.json
+*.local

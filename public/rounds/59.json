@@ -11,16 +11,16 @@
      "difficulty": "medium"
     },
     {
-     "id": "arith-221",
-     "prompt": "43 − 22",
-     "answer": 21,
-     "difficulty": "easy"
-    },
-    {
      "id": "arith-044",
      "prompt": "9 × 6 + 8 × 8",
      "answer": 118,
      "difficulty": "hard"
+    },
+    {
+     "id": "arith-288",
+     "prompt": "33 × 8",
+     "answer": 264,
+     "difficulty": "medium"
     }
    ]
   },

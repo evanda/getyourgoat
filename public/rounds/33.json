@@ -17,9 +17,9 @@
      "difficulty": "medium"
     },
     {
-     "id": "arith-014",
-     "prompt": "80 − 18",
-     "answer": 62,
+     "id": "arith-180",
+     "prompt": "70 ÷ 7",
+     "answer": 10,
      "difficulty": "easy"
     }
    ]
@@ -69,15 +69,15 @@
    "category": "literature",
    "variants": [
     {
-     "id": "lit-259",
-     "prompt": "Which fairy-tale heroine loses a glass slipper at a royal ball?",
+     "id": "lit-002",
+     "prompt": "Who wrote Great Expectations?",
      "choices": [
-      "Sleeping Beauty",
-      "Snow White",
-      "Cinderella",
-      "Rapunzel"
+      "Charles Dickens",
+      "George Eliot",
+      "William Thackeray",
+      "Thomas Hardy"
      ],
-     "answer": "Cinderella",
+     "answer": "Charles Dickens",
      "difficulty": "easy"
     },
     {

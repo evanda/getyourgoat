@@ -5,9 +5,9 @@
    "category": "arithmetic",
    "variants": [
     {
-     "id": "arith-180",
-     "prompt": "70 ÷ 7",
-     "answer": 10,
+     "id": "arith-014",
+     "prompt": "80 − 18",
+     "answer": 62,
      "difficulty": "easy"
     },
     {

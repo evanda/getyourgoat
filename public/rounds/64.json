@@ -175,16 +175,16 @@
      "difficulty": "easy"
     },
     {
-     "id": "phil-042",
-     "prompt": "Which Greek philosopher wrote the Poetics, on tragedy?",
+     "id": "phil-010",
+     "prompt": "Which Roman emperor wrote the Meditations?",
      "choices": [
-      "Aristotle",
-      "Plato",
-      "Sophocles",
-      "Epicurus"
+      "Marcus Aurelius",
+      "Nero",
+      "Augustus",
+      "Hadrian"
      ],
-     "answer": "Aristotle",
-     "difficulty": "medium"
+     "answer": "Marcus Aurelius",
+     "difficulty": "easy"
     }
    ]
   }

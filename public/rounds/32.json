@@ -81,18 +81,6 @@
      "difficulty": "easy"
     },
     {
-     "id": "lit-002",
-     "prompt": "Who wrote Great Expectations?",
-     "choices": [
-      "Charles Dickens",
-      "George Eliot",
-      "William Thackeray",
-      "Thomas Hardy"
-     ],
-     "answer": "Charles Dickens",
-     "difficulty": "easy"
-    },
-    {
      "id": "lit-038",
      "prompt": "Who wrote The Wind in the Willows?",
      "choices": [
@@ -102,6 +90,18 @@
       "A. A. Milne"
      ],
      "answer": "Kenneth Grahame",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-259",
+     "prompt": "Which fairy-tale heroine loses a glass slipper at a royal ball?",
+     "choices": [
+      "Sleeping Beauty",
+      "Snow White",
+      "Cinderella",
+      "Rapunzel"
+     ],
+     "answer": "Cinderella",
      "difficulty": "easy"
     }
    ]

@@ -5,10 +5,10 @@
    "category": "arithmetic",
    "variants": [
     {
-     "id": "arith-288",
-     "prompt": "33 × 8",
-     "answer": 264,
-     "difficulty": "medium"
+     "id": "arith-221",
+     "prompt": "43 − 22",
+     "answer": 21,
+     "difficulty": "easy"
     },
     {
      "id": "arith-127",

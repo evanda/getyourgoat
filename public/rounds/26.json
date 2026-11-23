@@ -151,16 +151,16 @@
    "category": "philosophy",
    "variants": [
     {
-     "id": "phil-017",
-     "prompt": "Which ancient Greek proposed that the world is made of atoms?",
+     "id": "phil-289",
+     "prompt": "Which Chinese tradition stresses harmony with nature and the Way?",
      "choices": [
-      "Democritus",
-      "Aristotle",
-      "Plato",
-      "Empedocles"
+      "Daoism",
+      "Legalism",
+      "Confucianism",
+      "Mohism"
      ],
-     "answer": "Democritus",
-     "difficulty": "medium"
+     "answer": "Daoism",
+     "difficulty": "easy"
     },
     {
      "id": "phil-111",
