@@ -128,6 +128,21 @@ describe('wrong, skip, reroll', () => {
     expect(s.results[0].outcome).toBe('skipped');
   });
 
+  it('skipping the last question costs a goat', () => {
+    let s = initialState(P, CATS);
+    for (let i = 0; i < 4; i++) s = applyEvent(s, P, 'correct');
+    s = applyEvent(applyEvent(s, P, 'wrong'), P, 'skip');
+    expect(s.phase).toBe('DONE');
+    expect(s.goats).toBe(4);
+    expect(s.results[4]).toMatchObject({ outcome: 'skipped', goatsLost: 1 });
+    expect(shareGrid(s)).toBe('🐐🐐🐐🐐🧌');
+  });
+
+  it('skipping an earlier question costs only time', () => {
+    const s = applyEvent(applyEvent(initialState(P, CATS), P, 'wrong'), P, 'skip');
+    expect(s.goats).toBe(5);
+  });
+
   it('reroll keeps the category and moves to the next variant', () => {
     let s = applyEvent(initialState(P, CATS), P, 'wrong');
     s = applyEvent(s, P, 'reroll');

@@ -222,7 +222,8 @@ function startGame(loaded: Loaded): void {
 
     const children: Node[] = [prompt, body];
     if (c.awaitingChoice) {
-      const skip = el('button', { class: 'secondary', textContent: 'Skip' });
+      const last = s.q === s.categories.length - 1;
+      const skip = el('button', { class: 'secondary', textContent: last ? 'Skip (lose a goat)' : 'Skip' });
       skip.addEventListener('click', () => send('skip'));
       const reroll = el('button', {
         class: 'secondary',

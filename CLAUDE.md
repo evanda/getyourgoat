@@ -3,6 +3,9 @@
 Daily trivia game. Design doc: https://claude.ai/artifact/3BPq7Z2AJ6DKjGyfWDT2VM
 ("Get Your Goat: Design Doc (v0.1)"). Current state: Milestone 1 (prototype).
 
+## Look
+Royal purple and gold, the owner's choice; one look in all themes. Not pale purple.
+
 ## Commands
 - `npm run dev` — Vite dev server
 - `npm test` — vitest (engine + daily-file validation)
@@ -26,6 +29,7 @@ Daily trivia game. Design doc: https://claude.ai/artifact/3BPq7Z2AJ6DKjGyfWDT2VM
 - Grid: 🧌 if at least one goat was lost while that question was live, else 🐐.
   A skipped question with no loss shows 🐐. Count `N/5` is goats left.
 - After a wrong answer: skip or reroll only (no retry). Answer is not revealed.
+- Skipping the last question costs a goat (otherwise it ends the game for free). Earlier skips cost only time.
 - Puzzle #1 = 2026-11-23. Missing day file → falls back to #1 with a note.
 - Game clock is wall-clock time; the ogre keeps walking while the tab is hidden (doc: "keeps walking").
 

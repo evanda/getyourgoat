@@ -229,8 +229,15 @@ export function applyEvent(s: GameState, p: Params, type: EventType): GameState 
     case 'wrong':
       if (c.awaitingChoice) return s;
       return { ...s, current: { ...c, wrongs: c.wrongs + 1, awaitingChoice: true } };
-    case 'skip':
+    case 'skip': {
+      // Skipping the final question would end the game for free, so the ogre
+      // takes a goat for it.
+      if (s.q === s.categories.length - 1 && s.goats > 0) {
+        const n = { ...s, goats: s.goats - 1, current: { ...c, goatsLost: c.goatsLost + 1 } };
+        return finishQuestion(n, 'skipped');
+      }
       return finishQuestion(s, 'skipped');
+    }
     case 'reroll': {
       const n = { ...s, current: { ...c, variant: c.variant + 1, rerolls: c.rerolls + 1, awaitingChoice: false } };
       if (p.rerollPenalty > 0 && n.phase === 'APPROACH') n.pos = Math.min(1, n.pos + p.rerollPenalty);
