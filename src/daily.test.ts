@@ -1,13 +1,31 @@
 import { readFileSync, readdirSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
-import { puzzleNumber, seededShuffle, validateDaily } from './daily.ts';
+import { puzzleNumber, seededShuffle, validateRound } from './daily.ts';
 
-describe('daily files', () => {
-  const dir = new URL('../public/daily/', import.meta.url);
-  for (const name of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
-    it(`${name} is valid and named for its date`, () => {
-      const d = validateDaily(JSON.parse(readFileSync(new URL(name, dir), 'utf8')));
-      expect(`${d.date}.json`).toBe(name);
+describe('round files', () => {
+  const dir = new URL('../public/rounds/', import.meta.url);
+  const names = readdirSync(dir).filter((f) => /^\d+\.json$/.test(f));
+  const allIds = new Map<string, string>();
+
+  it('are numbered 1..N with no gaps', () => {
+    const nums = names.map((n) => Number(n.replace('.json', ''))).sort((a, b) => a - b);
+    expect(nums).toEqual(nums.map((_, i) => i + 1));
+  });
+
+  it('index.json counts them', () => {
+    expect(JSON.parse(readFileSync(new URL('index.json', dir), 'utf8'))).toEqual({ count: names.length });
+  });
+
+  for (const name of names) {
+    it(`${name} is valid and named for its number`, () => {
+      const r = validateRound(JSON.parse(readFileSync(new URL(name, dir), 'utf8')));
+      expect(`${r.number}.json`).toBe(name);
+      for (const b of r.questions) {
+        for (const q of b.variants) {
+          expect(allIds.has(q.id), `${q.id} also in ${allIds.get(q.id)}`).toBe(false);
+          allIds.set(q.id, name);
+        }
+      }
     });
   }
 });

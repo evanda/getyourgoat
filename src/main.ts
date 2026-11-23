@@ -12,19 +12,24 @@ import {
 } from './engine.ts';
 import {
   CATEGORIES,
-  EPOCH,
   isChoice,
-  loadDaily,
+  loadRound,
+  loadRoundCount,
   localDate,
   puzzleNumber,
   seededShuffle,
-  type Daily,
   type Question,
+  type Round,
 } from './daily.ts';
 import { sfx } from './sound.ts';
+import { alphaFeedback } from './alpha.ts';
+import { el } from './dom.ts';
 
 const params: Params = { ...DEFAULTS };
 const app = document.getElementById('app')!;
+
+/** Alpha mode: pick any round, vote on pace and difficulty, flag questions. */
+const ALPHA = import.meta.env.VITE_ALPHA === '1' || new URLSearchParams(location.search).has('alpha');
 
 const prefs = {
   get reducedMotion(): boolean {
@@ -39,6 +44,19 @@ const prefs = {
   },
   set sound(on: boolean) {
     writePref('sound', on ? '1' : '0');
+  },
+  get played(): number[] {
+    try {
+      const v = JSON.parse(readPref('played') ?? '[]');
+      return Array.isArray(v) ? v.filter((n) => Number.isInteger(n)) : [];
+    } catch {
+      return [];
+    }
+  },
+  markPlayed(n: number): void {
+    const p = new Set(prefs.played);
+    p.add(n);
+    writePref('played', JSON.stringify([...p].sort((x, y) => x - y)));
   },
 };
 
@@ -57,54 +75,89 @@ function writePref(k: string, v: string): void {
   }
 }
 
-function el<K extends keyof HTMLElementTagNameMap>(
-  tag: K,
-  props: Partial<HTMLElementTagNameMap[K]> & { class?: string } = {},
-  ...children: (Node | string)[]
-): HTMLElementTagNameMap[K] {
-  const e = document.createElement(tag);
-  const { class: cls, ...rest } = props;
-  if (cls) e.className = cls;
-  Object.assign(e, rest);
-  e.append(...children);
-  return e;
-}
-
 // ---------------------------------------------------------------- start
 
 interface Loaded {
-  daily: Daily;
-  /** Set when today has no puzzle file and we fell back to another day. */
+  round: Round;
+  /** How many rounds exist (for the alpha picker). */
+  count: number;
+  /** Daily mode only: set when today has no round yet and we fell back to #1. */
   fallbackFrom: string | null;
 }
 
+function showError(err: unknown): void {
+  app.replaceChildren(
+    el('section', { class: 'card' }, el('h1', {}, 'Get Your Goat'), el('p', {}, String((err as Error).message ?? err))),
+  );
+}
+
 async function boot(): Promise<void> {
-  app.replaceChildren(el('p', { class: 'loading' }, 'Loading today’s puzzle…'));
+  app.replaceChildren(el('p', { class: 'loading' }, 'Loading…'));
   try {
+    const count = await loadRoundCount();
+    if (ALPHA) {
+      const played = new Set(prefs.played);
+      let n = 1;
+      while (played.has(n) && n < count) n++;
+      return openRound(n, count);
+    }
     const today = localDate();
-    const daily = await loadDaily(today);
-    if (daily) return showStart({ daily, fallbackFrom: null });
-    const proto = await loadDaily(EPOCH);
-    if (!proto) throw new Error('No puzzle files found.');
-    showStart({ daily: proto, fallbackFrom: today });
+    const round = await loadRound(puzzleNumber(today));
+    if (round) return showStart({ round, count, fallbackFrom: null });
+    const first = await loadRound(1);
+    if (!first) throw new Error('No rounds found.');
+    showStart({ round: first, count, fallbackFrom: today });
   } catch (err) {
-    app.replaceChildren(
-      el('section', { class: 'card' }, el('h1', {}, 'Get Your Goat'), el('p', {}, String((err as Error).message))),
-    );
+    showError(err);
   }
 }
 
+async function openRound(n: number, count: number): Promise<void> {
+  try {
+    const round = await loadRound(n);
+    if (!round) throw new Error(`Round #${n} doesn’t exist.`);
+    showStart({ round, count, fallbackFrom: null });
+  } catch (err) {
+    showError(err);
+  }
+}
+
+function roundPicker(loaded: Loaded): HTMLElement {
+  const { round, count } = loaded;
+  const played = new Set(prefs.played);
+  const prev = el('button', { class: 'secondary step', textContent: '‹', ariaLabel: 'Previous round', disabled: round.number <= 1 });
+  const next = el('button', { class: 'secondary step', textContent: '›', ariaLabel: 'Next round', disabled: round.number >= count });
+  const input = el('input', { id: 'round-number', type: 'number', min: '1', max: String(count), value: String(round.number), inputMode: 'numeric' });
+  prev.addEventListener('click', () => openRound(round.number - 1, count));
+  next.addEventListener('click', () => openRound(round.number + 1, count));
+  input.addEventListener('change', () => {
+    const n = Math.min(count, Math.max(1, Math.round(Number(input.value)) || 1));
+    if (n !== round.number) openRound(n, count);
+  });
+  return el(
+    'div',
+    { class: 'picker' },
+    el('label', { htmlFor: 'round-number' }, 'Round'),
+    el('div', { class: 'picker-row' }, prev, input, next),
+    el(
+      'p',
+      { class: 'sub' },
+      `of ${count} · you’ve played ${played.size}` + (played.has(round.number) ? ' · played this one' : ''),
+    ),
+  );
+}
+
 function showStart(loaded: Loaded): void {
-  const { daily, fallbackFrom } = loaded;
-  const play = el('button', { class: 'primary big', textContent: 'Play' });
+  const { round, fallbackFrom } = loaded;
+  const play = el('button', { class: 'primary big', textContent: ALPHA ? `Play round #${round.number}` : 'Play' });
   play.addEventListener('click', () => {
     sfx.unlock();
     startGame(loaded);
   });
 
-  const rm = el('input', { type: 'checkbox', checked: prefs.reducedMotion });
+  const rm = el('input', { id: 'pref-motion', type: 'checkbox', checked: prefs.reducedMotion });
   rm.addEventListener('change', () => (prefs.reducedMotion = rm.checked));
-  const snd = el('input', { type: 'checkbox', checked: prefs.sound });
+  const snd = el('input', { id: 'pref-sound', type: 'checkbox', checked: prefs.sound });
   snd.addEventListener('change', () => (prefs.sound = snd.checked));
 
   app.replaceChildren(
@@ -113,19 +166,28 @@ function showStart(loaded: Loaded): void {
       { class: 'card start' },
       el('div', { class: 'hero', ariaHidden: 'true' }, '🧌 · · · · 🐐🐐🐐🐐🐐'),
       el('h1', {}, 'Get Your Goat'),
-      el('p', { class: 'sub' }, `#${puzzleNumber(daily.date)} · ${daily.date}`),
-      fallbackFrom
-        ? el('p', { class: 'note' }, `Prototype build: no puzzle for ${fallbackFrom} yet, so you’re playing #1.`)
+      ALPHA
+        ? el('p', { class: 'badge' }, 'Alpha test')
+        : el('p', { class: 'sub' }, `#${round.number}`),
+      fallbackFrom ? el('p', { class: 'note' }, `No puzzle for ${fallbackFrom} yet, so you’re playing #1.`) : '',
+      ALPHA
+        ? el(
+            'p',
+            { class: 'note' },
+            'Thanks for testing! Play a round, then tell us if the ogre felt too fast or too slow and the questions too easy or too hard. Flag any question that looks wrong.',
+          )
         : '',
       el(
         'ol',
         { class: 'rules' },
         el('li', {}, 'The ogre walks toward your goat pen the whole time.'),
         el('li', {}, 'Answer right and a goat butts him back.'),
-        el('li', {}, 'Miss, and you can skip or reroll — but he keeps walking.'),
+        el('li', {}, 'Miss, and you can skip or reroll, but he keeps walking.'),
         el('li', {}, 'If he reaches the pen, he drags a goat to his cave.'),
+        el('li', {}, 'Skipping the last question costs a goat.'),
       ),
       el('p', { class: 'cats' }, CATEGORIES.join(' · ')),
+      ALPHA ? roundPicker(loaded) : '',
       play,
       el(
         'div',
@@ -157,7 +219,7 @@ interface View {
 }
 
 function startGame(loaded: Loaded): void {
-  const { daily } = loaded;
+  const { round } = loaded;
   const reduced = prefs.reducedMotion;
   let s: GameState = initialState(params, CATEGORIES);
   let elapsed = 0;
@@ -173,7 +235,7 @@ function startGame(loaded: Loaded): void {
 
   function question(): Question | null {
     if (!s.current) return null;
-    return daily.questions[s.q].variants[s.current.variant] ?? null;
+    return round.questions[s.q].variants[s.current.variant] ?? null;
   }
 
   function send(type: EventType): void {
@@ -208,14 +270,14 @@ function startGame(loaded: Loaded): void {
       v.card.replaceChildren();
       return;
     }
-    const block = daily.questions[s.q];
+    const block = round.questions[s.q];
     const rerollsLeft = block.variants.length - 1 - c.variant;
     v.qNum.textContent = `Q${s.q + 1}/5`;
     v.cat.textContent = block.category;
 
     const prompt = el('h2', { class: 'prompt' }, q.prompt);
     const body = isChoice(q)
-      ? choiceButtons(q, `${daily.date}|${s.q}|${c.variant}`, c.awaitingChoice, (pick) =>
+      ? choiceButtons(q, q.id, c.awaitingChoice, (pick) =>
           send(pick === q.answer ? 'correct' : 'wrong'),
         )
       : numberPad(c.awaitingChoice, () => typed, (t) => (typed = t), (n) => send(n === q.answer ? 'correct' : 'wrong'));
@@ -439,14 +501,16 @@ function numberPad(
 
 // ---------------------------------------------------------------- results
 
-function shareText(daily: Daily, s: GameState): string {
-  return `Get Your Goat #${puzzleNumber(daily.date)}\n${shareGrid(s)}  ${s.goats}/5  ${formatTime(s.t)}`;
+function shareText(round: Round, s: GameState): string {
+  return `Get Your Goat #${round.number}\n${shareGrid(s)}  ${s.goats}/5  ${formatTime(s.t)}`;
 }
 
 function showResults(loaded: Loaded, s: GameState): void {
-  const { daily } = loaded;
-  const text = shareText(daily, s);
-  const copy = el('button', { class: 'primary big', textContent: 'Copy result' });
+  const { round, count } = loaded;
+  prefs.markPlayed(round.number);
+  const text = shareText(round, s);
+  const pre = el('pre', { class: 'share', tabIndex: 0 }, text);
+  const copy = el('button', { class: ALPHA ? 'secondary' : 'primary big', textContent: 'Copy result' });
   copy.addEventListener('click', async () => {
     try {
       await navigator.clipboard.writeText(text);
@@ -457,9 +521,6 @@ function showResults(loaded: Loaded, s: GameState): void {
       copy.textContent = 'Press ⌘C / Ctrl+C to copy';
     }
   });
-  const again = el('button', { class: 'secondary', textContent: 'Play again (practice)' });
-  again.addEventListener('click', () => startGame(loaded));
-  const pre = el('pre', { class: 'share', tabIndex: 0 }, text);
 
   const outcomeLabel = { correct: '✓ correct', skipped: '→ skipped', 'pen-empty': '✗ pen emptied' } as const;
   const rows = s.results.map((r) =>
@@ -476,21 +537,36 @@ function showResults(loaded: Loaded, s: GameState): void {
   const headline =
     s.goats === 5 ? 'Every goat safe!' : s.goats === 0 ? 'The ogre got them all.' : `${s.goats} goats saved.`;
 
+  const nav: Node[] = [];
+  if (ALPHA) {
+    if (round.number < count) {
+      const next = el('button', { class: 'primary big', textContent: `Next: round #${round.number + 1}` });
+      next.addEventListener('click', () => openRound(round.number + 1, count));
+      nav.push(next);
+    }
+    const pick = el('button', { class: 'secondary', textContent: 'Choose a round' });
+    pick.addEventListener('click', () => showStart(loaded));
+    nav.push(el('div', { class: 'row' }, pick, copy));
+  } else {
+    const again = el('button', { class: 'secondary', textContent: 'Play again (practice)' });
+    again.addEventListener('click', () => startGame(loaded));
+    nav.push(copy, again);
+  }
+
   app.replaceChildren(
     el(
       'section',
       { class: 'card results' },
-      el('p', { class: 'sub' }, `Get Your Goat #${puzzleNumber(daily.date)}`),
+      el('p', { class: 'sub' }, `Get Your Goat #${round.number}`),
       el('div', { class: 'grid', ariaLabel: `Result grid ${shareGrid(s)}` }, shareGrid(s)),
       el('h1', {}, headline),
       el('p', { class: 'stats' }, `${s.goats}/5 goats · ${formatTime(s.t)}`),
-      pre,
-      copy,
+      ALPHA ? alphaFeedback({ round, state: s, params }) : pre,
       el('table', { class: 'breakdown' }, el('tbody', {}, ...rows)),
-      again,
+      ...nav,
     ),
   );
-  copy.focus();
+  (app.querySelector('.feedback button') as HTMLElement | null)?.focus({ preventScroll: true });
 }
 
 boot();

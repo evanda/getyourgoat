@@ -1,21 +1,25 @@
-// Daily puzzle file: public/daily/YYYY-MM-DD.json.
+// Rounds: public/rounds/<n>.json. Round #n is also the daily puzzle for
+// day n counted from EPOCH (#1 = 2026-11-23).
 // Each of the five categories carries one or more variants. Variant 0 is the
-// day's question; the rest are what a reroll draws, in order.
+// round's question; the rest are what a reroll draws, in order.
+
+export type Difficulty = 'easy' | 'medium' | 'hard';
 
 export interface ArithmeticQuestion {
+  id: string;
   prompt: string;
   answer: number;
   difficulty: Difficulty;
 }
 
 export interface ChoiceQuestion {
+  id: string;
   prompt: string;
   choices: string[];
   answer: string;
   difficulty: Difficulty;
 }
 
-export type Difficulty = 'easy' | 'medium' | 'hard';
 export type Question = ArithmeticQuestion | ChoiceQuestion;
 
 export interface CategoryBlock {
@@ -23,8 +27,8 @@ export interface CategoryBlock {
   variants: Question[];
 }
 
-export interface Daily {
-  date: string;
+export interface Round {
+  number: number;
   questions: CategoryBlock[];
 }
 
@@ -49,42 +53,58 @@ export function localDate(d = new Date()): string {
   return `${y}-${m}-${day}`;
 }
 
-export function validateDaily(raw: unknown): Daily {
+export function validateRound(raw: unknown): Round {
   const fail = (msg: string): never => {
-    throw new Error(`Bad daily file: ${msg}`);
+    throw new Error(`Bad round file: ${msg}`);
   };
   if (!raw || typeof raw !== 'object') fail('not an object');
-  const d = raw as Daily;
-  if (typeof d.date !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(d.date)) fail('date');
-  if (!Array.isArray(d.questions) || d.questions.length !== CATEGORIES.length) fail('need five categories');
-  d.questions.forEach((block, i) => {
+  const r = raw as Round;
+  if (!Number.isInteger(r.number) || r.number < 1) fail('number');
+  if (!Array.isArray(r.questions) || r.questions.length !== CATEGORIES.length) fail('need five categories');
+  const ids = new Set<string>();
+  r.questions.forEach((block, i) => {
     if (block.category !== CATEGORIES[i]) fail(`category ${i} should be ${CATEGORIES[i]}`);
     if (!Array.isArray(block.variants) || block.variants.length === 0) fail(`${block.category}: no variants`);
     for (const q of block.variants) {
-      if (typeof q.prompt !== 'string' || !q.prompt) fail(`${block.category}: prompt`);
+      if (typeof q.id !== 'string' || !q.id) fail(`${block.category}: missing id`);
+      if (ids.has(q.id)) fail(`duplicate id ${q.id}`);
+      ids.add(q.id);
+      if (typeof q.prompt !== 'string' || !q.prompt) fail(`${q.id}: prompt`);
+      if (!['easy', 'medium', 'hard'].includes(q.difficulty)) fail(`${q.id}: difficulty`);
       if (block.category === 'arithmetic') {
-        if (typeof q.answer !== 'number' || !Number.isInteger(q.answer) || q.answer < 0) fail('arithmetic answer');
+        if (typeof q.answer !== 'number' || !Number.isInteger(q.answer) || q.answer < 0) fail(`${q.id}: answer`);
       } else {
         const c = q as ChoiceQuestion;
-        if (!Array.isArray(c.choices) || c.choices.length !== 4) fail(`${block.category}: need 4 choices`);
-        if (new Set(c.choices).size !== 4) fail(`${block.category}: duplicate choices`);
-        if (!c.choices.includes(c.answer)) fail(`${block.category}: answer not among choices`);
+        if (!Array.isArray(c.choices) || c.choices.length !== 4) fail(`${q.id}: need 4 choices`);
+        if (new Set(c.choices).size !== 4) fail(`${q.id}: duplicate choices`);
+        if (!c.choices.includes(c.answer)) fail(`${q.id}: answer not among choices`);
       }
     }
   });
-  return d;
+  return r;
 }
 
-export async function loadDaily(date: string, base = import.meta.env.BASE_URL): Promise<Daily | null> {
-  const res = await fetch(`${base}daily/${date}.json`);
+export async function loadRound(n: number, base = import.meta.env.BASE_URL): Promise<Round | null> {
+  const res = await fetch(`${base}rounds/${n}.json`);
   if (res.status === 404) return null;
-  if (!res.ok) throw new Error(`Could not load puzzle (${res.status})`);
+  if (!res.ok) throw new Error(`Could not load round ${n} (${res.status})`);
   // Vite's dev server answers unknown paths with index.html.
   if (!(res.headers.get('content-type') ?? '').includes('json')) return null;
-  return validateDaily(await res.json());
+  const round = validateRound(await res.json());
+  if (round.number !== n) throw new Error(`Round file ${n} says it is #${round.number}`);
+  return round;
 }
 
-/** Deterministic shuffle so everyone sees the same option order for a given day. */
+/** How many rounds exist, from rounds/index.json ({"count": N}). */
+export async function loadRoundCount(base = import.meta.env.BASE_URL): Promise<number> {
+  const res = await fetch(`${base}rounds/index.json`);
+  if (!res.ok || !(res.headers.get('content-type') ?? '').includes('json')) throw new Error('Could not load the round list.');
+  const { count } = (await res.json()) as { count: unknown };
+  if (!Number.isInteger(count) || (count as number) < 1) throw new Error('Bad round list.');
+  return count as number;
+}
+
+/** Deterministic shuffle so everyone sees the same option order for a given question. */
 export function seededShuffle<T>(items: readonly T[], seedText: string): T[] {
   let h = 2166136261;
   for (let i = 0; i < seedText.length; i++) {
