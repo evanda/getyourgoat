@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-23",
+  "questions": [
+    {
+      "category": "arithmetic",
+      "variants": [
+        { "prompt": "17 × 6", "answer": 102, "difficulty": "medium" },
+        { "prompt": "48 + 79", "answer": 127, "difficulty": "easy" },
+        { "prompt": "144 ÷ 12 + 9", "answer": 21, "difficulty": "medium" }
+      ]
+    },
+    {
+      "category": "history",
+      "variants": [
+        {
+          "prompt": "In which century was the Battle of Hastings fought?",
+          "choices": ["11th century", "9th century", "10th century", "12th century"],
+          "answer": "11th century",
+          "difficulty": "easy"
+        },
+        {
+          "prompt": "Which civilization built Machu Picchu?",
+          "choices": ["Inca", "Aztec", "Maya", "Olmec"],
+          "answer": "Inca",
+          "difficulty": "easy"
+        },
+        {
+          "prompt": "Who was the first emperor of Rome?",
+          "choices": ["Augustus", "Nero", "Caligula", "Hadrian"],
+          "answer": "Augustus",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "category": "literature",
+      "variants": [
+        {
+          "prompt": "Who wrote Pride and Prejudice?",
+          "choices": ["Jane Austen", "Charlotte Brontë", "Mary Shelley", "George Eliot"],
+          "answer": "Jane Austen",
+          "difficulty": "easy"
+        },
+        {
+          "prompt": "Who wrote One Hundred Years of Solitude?",
+          "choices": ["Gabriel García Márquez", "Jorge Luis Borges", "Isabel Allende", "Mario Vargas Llosa"],
+          "answer": "Gabriel García Márquez",
+          "difficulty": "medium"
+        },
+        {
+          "prompt": "Who wrote the Divine Comedy?",
+          "choices": ["Dante Alighieri", "Petrarch", "Giovanni Boccaccio", "Virgil"],
+          "answer": "Dante Alighieri",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "category": "earth science",
+      "variants": [
+        {
+          "prompt": "Which layer of the Earth lies directly beneath the crust?",
+          "choices": ["Mantle", "Outer core", "Inner core", "Magnetosphere"],
+          "answer": "Mantle",
+          "difficulty": "easy"
+        },
+        {
+          "prompt": "Which kind of rock forms when magma or lava cools and hardens?",
+          "choices": ["Igneous", "Sedimentary", "Metamorphic", "Limestone"],
+          "answer": "Igneous",
+          "difficulty": "easy"
+        },
+        {
+          "prompt": "Which gas makes up most of Earth's atmosphere?",
+          "choices": ["Nitrogen", "Oxygen", "Argon", "Carbon dioxide"],
+          "answer": "Nitrogen",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "category": "philosophy",
+      "variants": [
+        {
+          "prompt": "Who wrote The Republic?",
+          "choices": ["Plato", "Aristotle", "Socrates", "Epicurus"],
+          "answer": "Plato",
+          "difficulty": "easy"
+        },
+        {
+          "prompt": "\"I think, therefore I am\" is the best-known line of which philosopher?",
+          "choices": ["René Descartes", "Baruch Spinoza", "Immanuel Kant", "John Locke"],
+          "answer": "René Descartes",
+          "difficulty": "easy"
+        },
+        {
+          "prompt": "Who wrote the Critique of Pure Reason?",
+          "choices": ["Immanuel Kant", "G. W. F. Hegel", "David Hume", "Gottfried Leibniz"],
+          "answer": "Immanuel Kant",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ]
+}

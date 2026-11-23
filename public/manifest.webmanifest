@@ -1,0 +1,10 @@
+{
+  "name": "Get Your Goat",
+  "short_name": "Goat",
+  "description": "A 90-second daily trivia game. One ogre, five goats, five questions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4efe1",
+  "theme_color": "#2f4a2b",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
