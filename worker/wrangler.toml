@@ -5,7 +5,7 @@ compatibility_date = "2026-11-01"
 # Filled in by `npx wrangler kv namespace create SUBMISSIONS`.
 [[kv_namespaces]]
 binding = "SUBMISSIONS"
-id = "REPLACE_WITH_KV_ID"
+id = "6baf9136c8854985a2e344284bb4de9b"
 
 [vars]
 ALLOWED_ORIGINS = "https://www.remingtons.org,http://www.remingtons.org,http://localhost:5174"

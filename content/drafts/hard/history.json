@@ -1,0 +1,4097 @@
+[
+ {
+  "id": "hard-hist-001",
+  "prompt": "Which king died at Bosworth Field in 1485?",
+  "choices": [
+   "Richard III",
+   "Edward IV",
+   "Henry VI",
+   "Henry V"
+  ],
+  "answer": "Richard III",
+  "difficulty": "easy",
+  "topic": "bosworth"
+ },
+ {
+  "id": "hard-hist-002",
+  "prompt": "Which caliph was Charlemagne's contemporary, famed in One Thousand and One Nights?",
+  "choices": [
+   "Al-Ma'mun",
+   "Harun al-Rashid",
+   "Al-Mansur",
+   "Muawiya"
+  ],
+  "answer": "Harun al-Rashid",
+  "difficulty": "easy",
+  "topic": "harun-rashid"
+ },
+ {
+  "id": "hard-hist-003",
+  "prompt": "Which 1777 battle in New York, a turning point of the American Revolution, brought French aid?",
+  "choices": [
+   "Princeton",
+   "Lexington",
+   "Saratoga",
+   "Brandywine"
+  ],
+  "answer": "Saratoga",
+  "difficulty": "easy",
+  "topic": "saratoga"
+ },
+ {
+  "id": "hard-hist-004",
+  "prompt": "Which English scientist discovered electromagnetic induction in 1831?",
+  "choices": [
+   "Humphry Davy",
+   "Joseph Henry",
+   "James Clerk Maxwell",
+   "Michael Faraday"
+  ],
+  "answer": "Michael Faraday",
+  "difficulty": "easy",
+  "topic": "faraday"
+ },
+ {
+  "id": "hard-hist-005",
+  "prompt": "Which 338 BC battle gave Philip II of Macedon control of Greece?",
+  "choices": [
+   "Chaeronea",
+   "Plataea",
+   "Leuctra",
+   "Mantinea"
+  ],
+  "answer": "Chaeronea",
+  "difficulty": "hard",
+  "topic": "chaeronea"
+ },
+ {
+  "id": "hard-hist-006",
+  "prompt": "Which 1204 crusade sacked Constantinople?",
+  "choices": [
+   "Fifth Crusade",
+   "Fourth Crusade",
+   "Second Crusade",
+   "Third Crusade"
+  ],
+  "answer": "Fourth Crusade",
+  "difficulty": "medium",
+  "topic": "fourth-crusade"
+ },
+ {
+  "id": "hard-hist-007",
+  "prompt": "Which Portuguese prince, nicknamed the Navigator, sponsored voyages down Africa's coast?",
+  "choices": [
+   "Afonso V",
+   "Manuel I",
+   "Henry the Navigator",
+   "John II"
+  ],
+  "answer": "Henry the Navigator",
+  "difficulty": "medium",
+  "topic": "henry-navigator"
+ },
+ {
+  "id": "hard-hist-008",
+  "prompt": "Which French chemist is called the father of modern chemistry, executed in 1794?",
+  "choices": [
+   "Joseph Priestley",
+   "Jean-Baptiste Dumas",
+   "Claude Berthollet",
+   "Antoine Lavoisier"
+  ],
+  "answer": "Antoine Lavoisier",
+  "difficulty": "hard",
+  "topic": "lavoisier"
+ },
+ {
+  "id": "hard-hist-009",
+  "prompt": "Which Polish trade union led by Lech Walesa formed in 1980?",
+  "choices": [
+   "Solidarity",
+   "Civic Forum",
+   "Samizdat",
+   "Charter 77"
+  ],
+  "answer": "Solidarity",
+  "difficulty": "easy",
+  "topic": "solidarity"
+ },
+ {
+  "id": "hard-hist-010",
+  "prompt": "Which Dutch merchant, famed for single-lens microscopes, described bacteria in the 1670s?",
+  "choices": [
+   "Robert Hooke",
+   "Antonie van Leeuwenhoek",
+   "Zacharias Janssen",
+   "Jan Swammerdam"
+  ],
+  "answer": "Antonie van Leeuwenhoek",
+  "difficulty": "hard",
+  "topic": "leeuwenhoek"
+ },
+ {
+  "id": "hard-hist-011",
+  "prompt": "Which astronomer formulated three laws of planetary motion?",
+  "choices": [
+   "Galileo",
+   "Christiaan Huygens",
+   "Johannes Kepler",
+   "Tycho Brahe"
+  ],
+  "answer": "Johannes Kepler",
+  "difficulty": "easy",
+  "topic": "kepler-laws"
+ },
+ {
+  "id": "hard-hist-012",
+  "prompt": "Who founded the Han dynasty?",
+  "choices": [
+   "Wang Mang",
+   "Xiang Yu",
+   "Cao Cao",
+   "Liu Bang"
+  ],
+  "answer": "Liu Bang",
+  "difficulty": "medium",
+  "topic": "liu-bang"
+ },
+ {
+  "id": "hard-hist-013",
+  "prompt": "Who wrote The Tale of Genji?",
+  "choices": [
+   "Murasaki Shikibu",
+   "Izumi Shikibu",
+   "Sei Shonagon",
+   "Ono no Komachi"
+  ],
+  "answer": "Murasaki Shikibu",
+  "difficulty": "medium",
+  "topic": "murasaki-genji"
+ },
+ {
+  "id": "hard-hist-014",
+  "prompt": "Which 1402 battle did Timur win over the Ottoman sultan Bayezid I?",
+  "choices": [
+   "Nicopolis",
+   "Ankara",
+   "Kosovo",
+   "Varna"
+  ],
+  "answer": "Ankara",
+  "difficulty": "medium",
+  "topic": "ankara-1402"
+ },
+ {
+  "id": "hard-hist-015",
+  "prompt": "Which Spanish explorer sought the Fountain of Youth and explored Florida in 1513?",
+  "choices": [
+   "Francisco Coronado",
+   "Hernando de Soto",
+   "Juan Ponce de Leon",
+   "Panfilo de Narvaez"
+  ],
+  "answer": "Juan Ponce de Leon",
+  "difficulty": "easy",
+  "topic": "ponce-de-leon"
+ },
+ {
+  "id": "hard-hist-016",
+  "prompt": "Which 1940 air battle between the RAF and Luftwaffe was fought over southern England?",
+  "choices": [
+   "Operation Sea Lion",
+   "Operation Barbarossa",
+   "Operation Overlord",
+   "Battle of Britain"
+  ],
+  "answer": "Battle of Britain",
+  "difficulty": "easy",
+  "topic": "battle-britain"
+ },
+ {
+  "id": "hard-hist-017",
+  "prompt": "In which year BC did Cyrus the Great take Babylon?",
+  "choices": [
+   "539 BC",
+   "490 BC",
+   "331 BC",
+   "559 BC"
+  ],
+  "answer": "539 BC",
+  "difficulty": "medium",
+  "topic": "cyrus-babylon-539"
+ },
+ {
+  "id": "hard-hist-018",
+  "prompt": "Which 1916 battle was the longest of World War I on the Western Front, in northeastern France?",
+  "choices": [
+   "Ypres",
+   "Verdun",
+   "Passchendaele",
+   "Somme"
+  ],
+  "answer": "Verdun",
+  "difficulty": "easy",
+  "topic": "verdun"
+ },
+ {
+  "id": "hard-hist-019",
+  "prompt": "Which Muslim commander led the 711 invasion of Iberia?",
+  "choices": [
+   "Saladin",
+   "Musa ibn Nusayr",
+   "Tariq ibn Ziyad",
+   "Yusuf ibn Tashfin"
+  ],
+  "answer": "Tariq ibn Ziyad",
+  "difficulty": "medium",
+  "topic": "tariq"
+ },
+ {
+  "id": "hard-hist-020",
+  "prompt": "Which 1805 Napoleonic victory was nicknamed the Battle of the Three Emperors?",
+  "choices": [
+   "Jena",
+   "Wagram",
+   "Borodino",
+   "Austerlitz"
+  ],
+  "answer": "Austerlitz",
+  "difficulty": "hard",
+  "topic": "three-emperors"
+ },
+ {
+  "id": "hard-hist-021",
+  "prompt": "Which 1600 battle secured Tokugawa Ieyasu's power in Japan?",
+  "choices": [
+   "Sekigahara",
+   "Nagashino",
+   "Kawanakajima",
+   "Okehazama"
+  ],
+  "answer": "Sekigahara",
+  "difficulty": "medium",
+  "topic": "sekigahara"
+ },
+ {
+  "id": "hard-hist-022",
+  "prompt": "Which Habsburg empress inherited the throne in 1740 under the Pragmatic Sanction?",
+  "choices": [
+   "Catherine II",
+   "Maria Theresa",
+   "Elisabeth",
+   "Marie Antoinette"
+  ],
+  "answer": "Maria Theresa",
+  "difficulty": "easy",
+  "topic": "maria-theresa"
+ },
+ {
+  "id": "hard-hist-023",
+  "prompt": "Which Peruvian civilization made lifelike portrait pottery and built Huaca del Sol?",
+  "choices": [
+   "The Nazca",
+   "The Chimu",
+   "The Moche",
+   "The Inca"
+  ],
+  "answer": "The Moche",
+  "difficulty": "medium",
+  "topic": "moche"
+ },
+ {
+  "id": "hard-hist-024",
+  "prompt": "Which American astronomer discovered Pluto in 1930?",
+  "choices": [
+   "Harlow Shapley",
+   "Edwin Hubble",
+   "Percival Lowell",
+   "Clyde Tombaugh"
+  ],
+  "answer": "Clyde Tombaugh",
+  "difficulty": "easy",
+  "topic": "tombaugh"
+ },
+ {
+  "id": "hard-hist-025",
+  "prompt": "Which 1707 act united the kingdoms of England and Scotland?",
+  "choices": [
+   "Acts of Union",
+   "Bill of Rights",
+   "Habeas Corpus Act",
+   "Act of Settlement"
+  ],
+  "answer": "Acts of Union",
+  "difficulty": "hard",
+  "topic": "union-1707"
+ },
+ {
+  "id": "hard-hist-026",
+  "prompt": "Which Ethiopian emperor died at Magdala in 1868 facing a British expedition?",
+  "choices": [
+   "Menelik II",
+   "Tewodros II",
+   "Yohannes IV",
+   "Lij Iyasu"
+  ],
+  "answer": "Tewodros II",
+  "difficulty": "hard",
+  "topic": "tewodros"
+ },
+ {
+  "id": "hard-hist-027",
+  "prompt": "Which 1918 treaty took Soviet Russia out of World War I?",
+  "choices": [
+   "Treaty of Trianon",
+   "Treaty of Riga",
+   "Treaty of Brest-Litovsk",
+   "Treaty of Rapallo"
+  ],
+  "answer": "Treaty of Brest-Litovsk",
+  "difficulty": "medium",
+  "topic": "brest-litovsk"
+ },
+ {
+  "id": "hard-hist-028",
+  "prompt": "Which 1916 naval clash in the North Sea was the largest of WWI?",
+  "choices": [
+   "Coronel",
+   "Dogger Bank",
+   "Heligoland Bight",
+   "Jutland"
+  ],
+  "answer": "Jutland",
+  "difficulty": "medium",
+  "topic": "jutland"
+ },
+ {
+  "id": "hard-hist-029",
+  "prompt": "Which Mughal emperor was known for a policy of religious tolerance and the Din-i Ilahi?",
+  "choices": [
+   "Akbar",
+   "Aurangzeb",
+   "Jahangir",
+   "Shah Jahan"
+  ],
+  "answer": "Akbar",
+  "difficulty": "easy",
+  "topic": "akbar"
+ },
+ {
+  "id": "hard-hist-030",
+  "prompt": "Which war from 1853 to 1856 saw Britain, France and Ottomans fight Russia?",
+  "choices": [
+   "Russo-Turkish War",
+   "Crimean War",
+   "Seven Years' War",
+   "Franco-Prussian War"
+  ],
+  "answer": "Crimean War",
+  "difficulty": "easy",
+  "topic": "crimean-war"
+ },
+ {
+  "id": "hard-hist-031",
+  "prompt": "Which Afghan ruler defeated Humayun and ruled Delhi from 1540?",
+  "choices": [
+   "Nadir Shah",
+   "Ahmad Shah Durrani",
+   "Sher Shah Suri",
+   "Babur"
+  ],
+  "answer": "Sher Shah Suri",
+  "difficulty": "medium",
+  "topic": "sher-shah"
+ },
+ {
+  "id": "hard-hist-032",
+  "prompt": "Which Dutch company dominated the 17th-century spice trade from Batavia?",
+  "choices": [
+   "Hudson's Bay Company",
+   "Royal African Company",
+   "Virginia Company",
+   "Dutch East India Company"
+  ],
+  "answer": "Dutch East India Company",
+  "difficulty": "medium",
+  "topic": "voc-batavia"
+ },
+ {
+  "id": "hard-hist-033",
+  "prompt": "Which Vietnamese general defeated the Mongols at Bach Dang in 1288?",
+  "choices": [
+   "Tran Hung Dao",
+   "Nguyen Hue",
+   "Le Loi",
+   "Ly Thuong Kiet"
+  ],
+  "answer": "Tran Hung Dao",
+  "difficulty": "medium",
+  "topic": "tran-hung-dao"
+ },
+ {
+  "id": "hard-hist-034",
+  "prompt": "Which 1241 Mongol victory in Silesia defeated Polish and German knights?",
+  "choices": [
+   "Grunwald",
+   "Legnica",
+   "Mohi",
+   "Kalka River"
+  ],
+  "answer": "Legnica",
+  "difficulty": "hard",
+  "topic": "legnica"
+ },
+ {
+  "id": "hard-hist-035",
+  "prompt": "Which Theban general crushed Sparta at Leuctra in 371 BC?",
+  "choices": [
+   "Nicias",
+   "Pericles",
+   "Epaminondas",
+   "Lysander"
+  ],
+  "answer": "Epaminondas",
+  "difficulty": "hard",
+  "topic": "epaminondas-leuctra"
+ },
+ {
+  "id": "hard-hist-036",
+  "prompt": "Which conquistador led the first Spanish expedition across the Mississippi in 1541?",
+  "choices": [
+   "Francisco Coronado",
+   "Juan de Onate",
+   "Alvar Nunez Cabeza de Vaca",
+   "Hernando de Soto"
+  ],
+  "answer": "Hernando de Soto",
+  "difficulty": "hard",
+  "topic": "de-soto"
+ },
+ {
+  "id": "hard-hist-037",
+  "prompt": "Which sultan began the Tanzimat reform era in 1839?",
+  "choices": [
+   "Abdulmejid I",
+   "Selim III",
+   "Mahmud II",
+   "Abdulaziz"
+  ],
+  "answer": "Abdulmejid I",
+  "difficulty": "medium",
+  "topic": "tanzimat"
+ },
+ {
+  "id": "hard-hist-038",
+  "prompt": "Whose death in 395 left the Roman Empire permanently split between his sons?",
+  "choices": [
+   "Valens",
+   "Theodosius I",
+   "Constantine",
+   "Diocletian"
+  ],
+  "answer": "Theodosius I",
+  "difficulty": "medium",
+  "topic": "theodosius-division"
+ },
+ {
+  "id": "hard-hist-039",
+  "prompt": "Which Maurya emperor left edicts carved on pillars and rocks across India?",
+  "choices": [
+   "Harsha",
+   "Chandragupta Maurya",
+   "Ashoka",
+   "Bindusara"
+  ],
+  "answer": "Ashoka",
+  "difficulty": "medium",
+  "topic": "ashoka-edicts"
+ },
+ {
+  "id": "hard-hist-040",
+  "prompt": "Which English astronomer predicted the return of a comet in 1758?",
+  "choices": [
+   "Robert Hooke",
+   "John Flamsteed",
+   "Isaac Newton",
+   "Edmond Halley"
+  ],
+  "answer": "Edmond Halley",
+  "difficulty": "hard",
+  "topic": "halley"
+ },
+ {
+  "id": "hard-hist-041",
+  "prompt": "Which English archbishop was murdered in Canterbury Cathedral in 1170?",
+  "choices": [
+   "Thomas Becket",
+   "Stephen Langton",
+   "Lanfranc",
+   "Anselm"
+  ],
+  "answer": "Thomas Becket",
+  "difficulty": "easy",
+  "topic": "becket"
+ },
+ {
+  "id": "hard-hist-042",
+  "prompt": "Which Mysore ruler, called the Tiger of Mysore, died in 1799?",
+  "choices": [
+   "Hyder Ali",
+   "Tipu Sultan",
+   "Ranjit Singh",
+   "Nana Sahib"
+  ],
+  "answer": "Tipu Sultan",
+  "difficulty": "medium",
+  "topic": "tipu"
+ },
+ {
+  "id": "hard-hist-043",
+  "prompt": "Which Dutch scientist discovered Saturn's moon Titan in 1655?",
+  "choices": [
+   "Hendrik Lorentz",
+   "Willebrord Snellius",
+   "Christiaan Huygens",
+   "Antonie van Leeuwenhoek"
+  ],
+  "answer": "Christiaan Huygens",
+  "difficulty": "hard",
+  "topic": "huygens-titan"
+ },
+ {
+  "id": "hard-hist-044",
+  "prompt": "Which king of England was captured in Austria returning from the Third Crusade?",
+  "choices": [
+   "Edward I",
+   "Henry II",
+   "John",
+   "Richard I"
+  ],
+  "answer": "Richard I",
+  "difficulty": "easy",
+  "topic": "richard-captured"
+ },
+ {
+  "id": "hard-hist-045",
+  "prompt": "Which English physician demonstrated blood circulation in 1628?",
+  "choices": [
+   "William Harvey",
+   "Thomas Sydenham",
+   "Edward Jenner",
+   "Andreas Vesalius"
+  ],
+  "answer": "William Harvey",
+  "difficulty": "easy",
+  "topic": "harvey"
+ },
+ {
+  "id": "hard-hist-046",
+  "prompt": "Which Saxon king did Charlemagne fight for decades, forcing his baptism?",
+  "choices": [
+   "Hengist",
+   "Widukind",
+   "Arminius",
+   "Alaric"
+  ],
+  "answer": "Widukind",
+  "difficulty": "medium",
+  "topic": "widukind"
+ },
+ {
+  "id": "hard-hist-047",
+  "prompt": "Which Greek city-state led the Delian League?",
+  "choices": [
+   "Corinth",
+   "Thebes",
+   "Athens",
+   "Sparta"
+  ],
+  "answer": "Athens",
+  "difficulty": "easy",
+  "topic": "delian-league"
+ },
+ {
+  "id": "hard-hist-048",
+  "prompt": "Which treaty of 1920 dismantled historic Hungary?",
+  "choices": [
+   "Treaty of Saint-Germain",
+   "Treaty of Neuilly",
+   "Treaty of Sevres",
+   "Treaty of Trianon"
+  ],
+  "answer": "Treaty of Trianon",
+  "difficulty": "medium",
+  "topic": "trianon"
+ },
+ {
+  "id": "hard-hist-049",
+  "prompt": "Which Russian commander-in-chief fought Napoleon at Borodino in 1812?",
+  "choices": [
+   "Kutuzov",
+   "Bagration",
+   "Suvorov",
+   "Barclay de Tolly"
+  ],
+  "answer": "Kutuzov",
+  "difficulty": "medium",
+  "topic": "kutuzov"
+ },
+ {
+  "id": "hard-hist-050",
+  "prompt": "Which 1898 incident at Fashoda pitted Britain against which country?",
+  "choices": [
+   "Germany",
+   "France",
+   "Belgium",
+   "Italy"
+  ],
+  "answer": "France",
+  "difficulty": "hard",
+  "topic": "fashoda"
+ },
+ {
+  "id": "hard-hist-051",
+  "prompt": "Which 1066-1087 English ruler ordered the Domesday Book?",
+  "choices": [
+   "Stephen",
+   "Edward the Confessor",
+   "William the Conqueror",
+   "Henry II"
+  ],
+  "answer": "William the Conqueror",
+  "difficulty": "easy",
+  "topic": "domesday-william"
+ },
+ {
+  "id": "hard-hist-052",
+  "prompt": "Which tsar freed Russia's serfs in 1861?",
+  "choices": [
+   "Peter III",
+   "Nicholas I",
+   "Alexander III",
+   "Alexander II"
+  ],
+  "answer": "Alexander II",
+  "difficulty": "easy",
+  "topic": "serf-emancipation"
+ },
+ {
+  "id": "hard-hist-053",
+  "prompt": "Which Moscow ruler ended Mongol overlordship in 1480?",
+  "choices": [
+   "Ivan III",
+   "Ivan IV",
+   "Basil II",
+   "Vasily III"
+  ],
+  "answer": "Ivan III",
+  "difficulty": "hard",
+  "topic": "ivan-iii-1480"
+ },
+ {
+  "id": "hard-hist-054",
+  "prompt": "Which 1598 edict granted French Huguenots limited toleration?",
+  "choices": [
+   "Peace of Augsburg",
+   "Edict of Nantes",
+   "Edict of Milan",
+   "Edict of Worms"
+  ],
+  "answer": "Edict of Nantes",
+  "difficulty": "easy",
+  "topic": "nantes"
+ },
+ {
+  "id": "hard-hist-055",
+  "prompt": "Odoacer deposed which Western emperor in 476?",
+  "choices": [
+   "Honorius",
+   "Valentinian III",
+   "Romulus Augustulus",
+   "Majorian"
+  ],
+  "answer": "Romulus Augustulus",
+  "difficulty": "medium",
+  "topic": "romulus-augustulus"
+ },
+ {
+  "id": "hard-hist-056",
+  "prompt": "Which Umayyad survivor founded an emirate in Cordoba in 756?",
+  "choices": [
+   "Al-Hakam II",
+   "Abd al-Rahman III",
+   "Tariq ibn Ziyad",
+   "Abd al-Rahman I"
+  ],
+  "answer": "Abd al-Rahman I",
+  "difficulty": "hard",
+  "topic": "abd-rahman-i"
+ },
+ {
+  "id": "hard-hist-057",
+  "prompt": "Which Javanese empire, with Gajah Mada as minister, dominated the 1300s archipelago?",
+  "choices": [
+   "Majapahit",
+   "Srivijaya",
+   "Ayutthaya",
+   "Mataram"
+  ],
+  "answer": "Majapahit",
+  "difficulty": "medium",
+  "topic": "majapahit"
+ },
+ {
+  "id": "hard-hist-058",
+  "prompt": "Which Indian dynasty ruled during a classical golden age from the 4th century AD?",
+  "choices": [
+   "Maurya",
+   "Gupta",
+   "Kushan",
+   "Satavahana"
+  ],
+  "answer": "Gupta",
+  "difficulty": "easy",
+  "topic": "gupta-golden"
+ },
+ {
+  "id": "hard-hist-059",
+  "prompt": "Which Boer War siege lasted from 1899 to 1900 in a Cape town famed for Baden-Powell?",
+  "choices": [
+   "Kimberley",
+   "Ladysmith",
+   "Mafeking",
+   "Pretoria"
+  ],
+  "answer": "Mafeking",
+  "difficulty": "easy",
+  "topic": "mafeking"
+ },
+ {
+  "id": "hard-hist-060",
+  "prompt": "Which Russian prince defeated the Teutonic Knights on Lake Peipus in 1242?",
+  "choices": [
+   "Ivan III",
+   "Yaroslav the Wise",
+   "Dmitry Donskoy",
+   "Alexander Nevsky"
+  ],
+  "answer": "Alexander Nevsky",
+  "difficulty": "medium",
+  "topic": "nevsky-ice"
+ },
+ {
+  "id": "hard-hist-061",
+  "prompt": "Which Persian ruler sacked Delhi in 1739?",
+  "choices": [
+   "Nadir Shah",
+   "Ismail I",
+   "Karim Khan Zand",
+   "Shah Abbas I"
+  ],
+  "answer": "Nadir Shah",
+  "difficulty": "hard",
+  "topic": "nadir-delhi"
+ },
+ {
+  "id": "hard-hist-062",
+  "prompt": "Which Danish king ruled England, Denmark and Norway in the 1020s-30s?",
+  "choices": [
+   "Sweyn Forkbeard",
+   "Cnut the Great",
+   "Harald Bluetooth",
+   "Harthacnut"
+  ],
+  "answer": "Cnut the Great",
+  "difficulty": "hard",
+  "topic": "cnut-north-sea"
+ },
+ {
+  "id": "hard-hist-063",
+  "prompt": "Which Javanese prince led the 1825-30 war against the Dutch?",
+  "choices": [
+   "Sukarno",
+   "Hasanuddin",
+   "Diponegoro",
+   "Raden Ajeng Kartini"
+  ],
+  "answer": "Diponegoro",
+  "difficulty": "medium",
+  "topic": "diponegoro"
+ },
+ {
+  "id": "hard-hist-064",
+  "prompt": "Which Castilian noble known as El Cid took Valencia in 1094?",
+  "choices": [
+   "Pelayo",
+   "Alfonso VI",
+   "Ferdinand III",
+   "Rodrigo Diaz"
+  ],
+  "answer": "Rodrigo Diaz",
+  "difficulty": "easy",
+  "topic": "el-cid"
+ },
+ {
+  "id": "hard-hist-065",
+  "prompt": "Which Andean civilization built Puma Punku near Lake Titicaca?",
+  "choices": [
+   "Tiwanaku",
+   "Chavin",
+   "Nazca",
+   "Moche"
+  ],
+  "answer": "Tiwanaku",
+  "difficulty": "hard",
+  "topic": "tiwanaku"
+ },
+ {
+  "id": "hard-hist-066",
+  "prompt": "Which Arctic expedition of 1845, with ships Erebus and Terror, vanished?",
+  "choices": [
+   "Terra Nova expedition",
+   "Franklin expedition",
+   "Lewis and Clark",
+   "Jeannette expedition"
+  ],
+  "answer": "Franklin expedition",
+  "difficulty": "easy",
+  "topic": "franklin"
+ },
+ {
+  "id": "hard-hist-067",
+  "prompt": "Which 1824 battle effectively ended Spanish rule in South America?",
+  "choices": [
+   "Boyaca",
+   "Carabobo",
+   "Ayacucho",
+   "Maipu"
+  ],
+  "answer": "Ayacucho",
+  "difficulty": "medium",
+  "topic": "ayacucho"
+ },
+ {
+  "id": "hard-hist-068",
+  "prompt": "Which 1781 siege forced Cornwallis to surrender to Washington?",
+  "choices": [
+   "Saratoga",
+   "Bunker Hill",
+   "Trenton",
+   "Yorktown"
+  ],
+  "answer": "Yorktown",
+  "difficulty": "medium",
+  "topic": "yorktown"
+ },
+ {
+  "id": "hard-hist-069",
+  "prompt": "Which Wessex king defeated the Danes at Edington in 878?",
+  "choices": [
+   "Alfred the Great",
+   "Egbert",
+   "Edmund Ironside",
+   "Athelstan"
+  ],
+  "answer": "Alfred the Great",
+  "difficulty": "medium",
+  "topic": "alfred-edington"
+ },
+ {
+  "id": "hard-hist-070",
+  "prompt": "Which 1945 conference of Allied leaders met in Crimea?",
+  "choices": [
+   "Tehran",
+   "Yalta",
+   "Casablanca",
+   "Potsdam"
+  ],
+  "answer": "Yalta",
+  "difficulty": "easy",
+  "topic": "yalta"
+ },
+ {
+  "id": "hard-hist-071",
+  "prompt": "Which Anglo-Irish explorer led the Endurance expedition of 1914-17?",
+  "choices": [
+   "Roald Amundsen",
+   "Robert Scott",
+   "Ernest Shackleton",
+   "Douglas Mawson"
+  ],
+  "answer": "Ernest Shackleton",
+  "difficulty": "easy",
+  "topic": "shackleton"
+ },
+ {
+  "id": "hard-hist-072",
+  "prompt": "Which Byzantine emperor reconquered much of the Western Mediterranean?",
+  "choices": [
+   "Constantine XI",
+   "Heraclius",
+   "Basil II",
+   "Justinian I"
+  ],
+  "answer": "Justinian I",
+  "difficulty": "easy",
+  "topic": "justinian-reconquest"
+ },
+ {
+  "id": "hard-hist-073",
+  "prompt": "Which 1685 act by Louis XIV revoked the Edict of Nantes?",
+  "choices": [
+   "Edict of Fontainebleau",
+   "Edict of Milan",
+   "Edict of Worms",
+   "Edict of Restitution"
+  ],
+  "answer": "Edict of Fontainebleau",
+  "difficulty": "hard",
+  "topic": "fontainebleau"
+ },
+ {
+  "id": "hard-hist-074",
+  "prompt": "Which dynastic conflict in England lasted from 1455 to 1487?",
+  "choices": [
+   "Barons' War",
+   "Wars of the Roses",
+   "Hundred Years' War",
+   "Anarchy"
+  ],
+  "answer": "Wars of the Roses",
+  "difficulty": "easy",
+  "topic": "wars-roses"
+ },
+ {
+  "id": "hard-hist-075",
+  "prompt": "Which Indian empire, centered at Hampi, flourished from 1336 to the 1500s?",
+  "choices": [
+   "Maratha Empire",
+   "Chola Empire",
+   "Vijayanagara Empire",
+   "Bahmani Sultanate"
+  ],
+  "answer": "Vijayanagara Empire",
+  "difficulty": "medium",
+  "topic": "vijayanagara"
+ },
+ {
+  "id": "hard-hist-076",
+  "prompt": "Which Italian physicist invented the electric battery in 1800?",
+  "choices": [
+   "Enrico Fermi",
+   "Andre Ampere",
+   "Luigi Galvani",
+   "Alessandro Volta"
+  ],
+  "answer": "Alessandro Volta",
+  "difficulty": "hard",
+  "topic": "volta"
+ },
+ {
+  "id": "hard-hist-077",
+  "prompt": "The 1526 Battle of Panipat established which ruler in India?",
+  "choices": [
+   "Babur",
+   "Sher Shah Suri",
+   "Humayun",
+   "Akbar"
+  ],
+  "answer": "Babur",
+  "difficulty": "medium",
+  "topic": "panipat-1526"
+ },
+ {
+  "id": "hard-hist-078",
+  "prompt": "Which 1699 treaty marked the Ottoman loss of Hungary to Austria?",
+  "choices": [
+   "Treaty of Adrianople",
+   "Treaty of Karlowitz",
+   "Treaty of Jassy",
+   "Treaty of Sevres"
+  ],
+  "answer": "Treaty of Karlowitz",
+  "difficulty": "hard",
+  "topic": "karlowitz"
+ },
+ {
+  "id": "hard-hist-079",
+  "prompt": "Which 1842 treaty ended the First Opium War, ceding Hong Kong Island?",
+  "choices": [
+   "Treaty of Tientsin",
+   "Treaty of Shimonoseki",
+   "Treaty of Nanking",
+   "Treaty of Aigun"
+  ],
+  "answer": "Treaty of Nanking",
+  "difficulty": "medium",
+  "topic": "nanking"
+ },
+ {
+  "id": "hard-hist-080",
+  "prompt": "Which French radical led the Committee of Public Safety during the Terror?",
+  "choices": [
+   "Lafayette",
+   "Danton",
+   "Marat",
+   "Robespierre"
+  ],
+  "answer": "Robespierre",
+  "difficulty": "easy",
+  "topic": "robespierre"
+ },
+ {
+  "id": "hard-hist-081",
+  "prompt": "Which Egyptian ruler founded a modernizing dynasty in 1805?",
+  "choices": [
+   "Muhammad Ali",
+   "Nasser",
+   "Said Pasha",
+   "Ismail Pasha"
+  ],
+  "answer": "Muhammad Ali",
+  "difficulty": "easy",
+  "topic": "muhammad-ali"
+ },
+ {
+  "id": "hard-hist-082",
+  "prompt": "Which 1917 declaration backed a Jewish national home in Palestine?",
+  "choices": [
+   "Peel Commission",
+   "Balfour Declaration",
+   "White Paper",
+   "Sykes-Picot Agreement"
+  ],
+  "answer": "Balfour Declaration",
+  "difficulty": "medium",
+  "topic": "balfour"
+ },
+ {
+  "id": "hard-hist-083",
+  "prompt": "Which Alexander general founded the Seleucid Empire?",
+  "choices": [
+   "Perdiccas",
+   "Ptolemy I",
+   "Seleucus I",
+   "Lysimachus"
+  ],
+  "answer": "Seleucus I",
+  "difficulty": "medium",
+  "topic": "seleucus-founder"
+ },
+ {
+  "id": "hard-hist-084",
+  "prompt": "Which 751 battle in Central Asia pitted the Abbasids against Tang China?",
+  "choices": [
+   "Tours",
+   "Ain Jalut",
+   "Yarmouk",
+   "Talas"
+  ],
+  "answer": "Talas",
+  "difficulty": "medium",
+  "topic": "talas"
+ },
+ {
+  "id": "hard-hist-085",
+  "prompt": "In which year did Pedro I declare Brazil independent from Portugal?",
+  "choices": [
+   "1822",
+   "1808",
+   "1889",
+   "1831"
+  ],
+  "answer": "1822",
+  "difficulty": "hard",
+  "topic": "brazil-1822"
+ },
+ {
+  "id": "hard-hist-086",
+  "prompt": "Which Italian statesman engineered Piedmont-Sardinia's role in unification?",
+  "choices": [
+   "Garibaldi",
+   "Cavour",
+   "Mazzini",
+   "Crispi"
+  ],
+  "answer": "Cavour",
+  "difficulty": "medium",
+  "topic": "cavour"
+ },
+ {
+  "id": "hard-hist-087",
+  "prompt": "Which 1939 pact between Germany and the USSR included secret protocols dividing Poland?",
+  "choices": [
+   "Pact of Steel",
+   "Anti-Comintern Pact",
+   "Molotov-Ribbentrop Pact",
+   "Tripartite Pact"
+  ],
+  "answer": "Molotov-Ribbentrop Pact",
+  "difficulty": "easy",
+  "topic": "molotov-ribbentrop"
+ },
+ {
+  "id": "hard-hist-088",
+  "prompt": "Which leader founded the Republic of China in 1912 as provisional president?",
+  "choices": [
+   "Chiang Kai-shek",
+   "Yuan Shikai",
+   "Cixi",
+   "Sun Yat-sen"
+  ],
+  "answer": "Sun Yat-sen",
+  "difficulty": "easy",
+  "topic": "sun-yat-sen"
+ },
+ {
+  "id": "hard-hist-089",
+  "prompt": "Which English scientist discovered the electron in 1897?",
+  "choices": [
+   "J. J. Thomson",
+   "Ernest Rutherford",
+   "Niels Bohr",
+   "James Chadwick"
+  ],
+  "answer": "J. J. Thomson",
+  "difficulty": "medium",
+  "topic": "thomson-electron"
+ },
+ {
+  "id": "hard-hist-090",
+  "prompt": "Which Ethiopian emperor was crowned in 1930 as Ras Tafari?",
+  "choices": [
+   "Yohannes IV",
+   "Haile Selassie",
+   "Tewodros II",
+   "Menelik II"
+  ],
+  "answer": "Haile Selassie",
+  "difficulty": "medium",
+  "topic": "ras-tafari"
+ },
+ {
+  "id": "hard-hist-091",
+  "prompt": "Which 1830 revolution made Louis-Philippe king of the French?",
+  "choices": [
+   "Paris Commune",
+   "Fronde",
+   "July Revolution",
+   "February Revolution"
+  ],
+  "answer": "July Revolution",
+  "difficulty": "medium",
+  "topic": "july-revolution"
+ },
+ {
+  "id": "hard-hist-092",
+  "prompt": "Which Mongol Khan led the Golden Horde's early rule in Russia after the 1237 invasion?",
+  "choices": [
+   "Mongke",
+   "Chagatai",
+   "Berke",
+   "Batu Khan"
+  ],
+  "answer": "Batu Khan",
+  "difficulty": "hard",
+  "topic": "batu"
+ },
+ {
+  "id": "hard-hist-093",
+  "prompt": "Which Portuguese commander founded Brazil's first capital, Salvador, in 1549?",
+  "choices": [
+   "Tome de Sousa",
+   "Pedro Alvares Cabral",
+   "Martim Afonso de Sousa",
+   "Mem de Sa"
+  ],
+  "answer": "Tome de Sousa",
+  "difficulty": "hard",
+  "topic": "tome-de-sousa"
+ },
+ {
+  "id": "hard-hist-094",
+  "prompt": "Which Assyrian king assembled a great library at Nineveh?",
+  "choices": [
+   "Sargon II",
+   "Ashurbanipal",
+   "Tiglath-Pileser III",
+   "Sennacherib"
+  ],
+  "answer": "Ashurbanipal",
+  "difficulty": "medium",
+  "topic": "ashurbanipal-library"
+ },
+ {
+  "id": "hard-hist-095",
+  "prompt": "Which Bohemian reformer was burned at the stake at Constance in 1415?",
+  "choices": [
+   "Savonarola",
+   "John Wycliffe",
+   "Jan Hus",
+   "Jerome of Prague"
+  ],
+  "answer": "Jan Hus",
+  "difficulty": "hard",
+  "topic": "jan-hus"
+ },
+ {
+  "id": "hard-hist-096",
+  "prompt": "Which Chinese leader launched the Great Leap Forward in 1958?",
+  "choices": [
+   "Deng Xiaoping",
+   "Zhou Enlai",
+   "Liu Shaoqi",
+   "Mao Zedong"
+  ],
+  "answer": "Mao Zedong",
+  "difficulty": "easy",
+  "topic": "great-leap"
+ },
+ {
+  "id": "hard-hist-097",
+  "prompt": "Which 1916 secret deal divided Ottoman Arab lands between Britain and France?",
+  "choices": [
+   "Sykes-Picot Agreement",
+   "Balfour Declaration",
+   "San Remo Conference",
+   "Hussein-McMahon letters"
+  ],
+  "answer": "Sykes-Picot Agreement",
+  "difficulty": "medium",
+  "topic": "sykes-picot"
+ },
+ {
+  "id": "hard-hist-098",
+  "prompt": "Which 1948-49 operation supplied West Berlin by air?",
+  "choices": [
+   "Operation Overlord",
+   "Berlin Airlift",
+   "Operation Market Garden",
+   "Operation Torch"
+  ],
+  "answer": "Berlin Airlift",
+  "difficulty": "easy",
+  "topic": "berlin-airlift"
+ },
+ {
+  "id": "hard-hist-099",
+  "prompt": "Which kingdom was partitioned by Russia, Prussia and Austria in 1772-1795?",
+  "choices": [
+   "Hungary",
+   "Sweden",
+   "Poland-Lithuania",
+   "Bohemia"
+  ],
+  "answer": "Poland-Lithuania",
+  "difficulty": "hard",
+  "topic": "partitions-poland"
+ },
+ {
+  "id": "hard-hist-100",
+  "prompt": "Which 1949 alliance was founded to oppose Soviet power in the West?",
+  "choices": [
+   "CENTO",
+   "Warsaw Pact",
+   "SEATO",
+   "NATO"
+  ],
+  "answer": "NATO",
+  "difficulty": "easy",
+  "topic": "nato"
+ },
+ {
+  "id": "hard-hist-101",
+  "prompt": "Which 1783 treaty recognized American independence?",
+  "choices": [
+   "Treaty of Paris",
+   "Jay Treaty",
+   "Treaty of Versailles",
+   "Treaty of Ghent"
+  ],
+  "answer": "Treaty of Paris",
+  "difficulty": "hard",
+  "topic": "paris-1783"
+ },
+ {
+  "id": "hard-hist-102",
+  "prompt": "Which 1652 Dutch colonist founded Cape Town's settlement?",
+  "choices": [
+   "Cecil Rhodes",
+   "Jan van Riebeeck",
+   "Simon van der Stel",
+   "Paul Kruger"
+  ],
+  "answer": "Jan van Riebeeck",
+  "difficulty": "easy",
+  "topic": "van-riebeeck"
+ },
+ {
+  "id": "hard-hist-103",
+  "prompt": "Which Delhi Sultanate ruler moved his capital to Daulatabad in 1327?",
+  "choices": [
+   "Iltutmish",
+   "Firuz Shah Tughlaq",
+   "Muhammad bin Tughluq",
+   "Alauddin Khalji"
+  ],
+  "answer": "Muhammad bin Tughluq",
+  "difficulty": "medium",
+  "topic": "tughluq-daulatabad"
+ },
+ {
+  "id": "hard-hist-104",
+  "prompt": "Which German field marshal was nicknamed the Desert Fox?",
+  "choices": [
+   "Gerd von Rundstedt",
+   "Walter Model",
+   "Erich von Manstein",
+   "Erwin Rommel"
+  ],
+  "answer": "Erwin Rommel",
+  "difficulty": "easy",
+  "topic": "rommel"
+ },
+ {
+  "id": "hard-hist-105",
+  "prompt": "Which 1928 pact renounced war as a policy tool?",
+  "choices": [
+   "Kellogg-Briand Pact",
+   "Locarno Treaties",
+   "Munich Agreement",
+   "Washington Treaty"
+  ],
+  "answer": "Kellogg-Briand Pact",
+  "difficulty": "medium",
+  "topic": "kellogg-briand"
+ },
+ {
+  "id": "hard-hist-106",
+  "prompt": "Which Roman emperor began the invasion of Britain in AD 43?",
+  "choices": [
+   "Vespasian",
+   "Claudius",
+   "Caligula",
+   "Nero"
+  ],
+  "answer": "Claudius",
+  "difficulty": "easy",
+  "topic": "claudius-britain"
+ },
+ {
+  "id": "hard-hist-107",
+  "prompt": "Which German physicist proposed quantum theory in 1900?",
+  "choices": [
+   "Erwin Schrodinger",
+   "Max Born",
+   "Max Planck",
+   "Werner Heisenberg"
+  ],
+  "answer": "Max Planck",
+  "difficulty": "easy",
+  "topic": "planck"
+ },
+ {
+  "id": "hard-hist-108",
+  "prompt": "Which 1346 battle saw English longbowmen defeat France, with Edward III?",
+  "choices": [
+   "Agincourt",
+   "Poitiers",
+   "Orleans",
+   "Crecy"
+  ],
+  "answer": "Crecy",
+  "difficulty": "medium",
+  "topic": "crecy"
+ },
+ {
+  "id": "hard-hist-109",
+  "prompt": "Which Ottoman victory in 1526 destroyed the Hungarian army?",
+  "choices": [
+   "Mohacs",
+   "Varna",
+   "Kosovo",
+   "Nicopolis"
+  ],
+  "answer": "Mohacs",
+  "difficulty": "medium",
+  "topic": "mohacs"
+ },
+ {
+  "id": "hard-hist-110",
+  "prompt": "Which French king was captured at Poitiers in 1356?",
+  "choices": [
+   "Charles V",
+   "John II",
+   "Philip VI",
+   "Louis IX"
+  ],
+  "answer": "John II",
+  "difficulty": "medium",
+  "topic": "poitiers-john-ii"
+ },
+ {
+  "id": "hard-hist-111",
+  "prompt": "Which Dahomey fighters were an all-female military unit?",
+  "choices": [
+   "Mossi",
+   "Kushite",
+   "Agojie",
+   "Zulu impi"
+  ],
+  "answer": "Agojie",
+  "difficulty": "medium",
+  "topic": "agojie"
+ },
+ {
+  "id": "hard-hist-112",
+  "prompt": "Who was the first Roman emperor?",
+  "choices": [
+   "Nero",
+   "Tiberius",
+   "Julius Caesar",
+   "Augustus"
+  ],
+  "answer": "Augustus",
+  "difficulty": "easy",
+  "topic": "augustus-first"
+ },
+ {
+  "id": "hard-hist-113",
+  "prompt": "Which plan offered US aid to rebuild Western Europe in 1948?",
+  "choices": [
+   "Marshall Plan",
+   "Dawes Plan",
+   "Molotov Plan",
+   "Truman Doctrine"
+  ],
+  "answer": "Marshall Plan",
+  "difficulty": "easy",
+  "topic": "marshall-plan"
+ },
+ {
+  "id": "hard-hist-114",
+  "prompt": "Which Danish physicist discovered electromagnetism in 1820 via a compass needle?",
+  "choices": [
+   "Michael Faraday",
+   "Hans Christian Oersted",
+   "James Maxwell",
+   "Andre-Marie Ampere"
+  ],
+  "answer": "Hans Christian Oersted",
+  "difficulty": "hard",
+  "topic": "oersted"
+ },
+ {
+  "id": "hard-hist-115",
+  "prompt": "Which Mongol khan was Genghis Khan's son and successor as Great Khan?",
+  "choices": [
+   "Jochi",
+   "Chagatai",
+   "Ogedei",
+   "Tolui"
+  ],
+  "answer": "Ogedei",
+  "difficulty": "medium",
+  "topic": "ogedei"
+ },
+ {
+  "id": "hard-hist-116",
+  "prompt": "Which Scottish missionary-explorer did Henry Morton Stanley find in 1871?",
+  "choices": [
+   "Mungo Park",
+   "John Speke",
+   "Richard Burton",
+   "David Livingstone"
+  ],
+  "answer": "David Livingstone",
+  "difficulty": "easy",
+  "topic": "livingstone"
+ },
+ {
+  "id": "hard-hist-117",
+  "prompt": "Which German bacteriologist identified the tuberculosis bacillus in 1882?",
+  "choices": [
+   "Robert Koch",
+   "Louis Pasteur",
+   "Paul Ehrlich",
+   "Emil von Behring"
+  ],
+  "answer": "Robert Koch",
+  "difficulty": "easy",
+  "topic": "koch-tb"
+ },
+ {
+  "id": "hard-hist-118",
+  "prompt": "Which 1914 battle saw Germany destroy a Russian army in East Prussia?",
+  "choices": [
+   "Przemysl",
+   "Tannenberg",
+   "Lodz",
+   "Gorlice-Tarnow"
+  ],
+  "answer": "Tannenberg",
+  "difficulty": "medium",
+  "topic": "tannenberg"
+ },
+ {
+  "id": "hard-hist-119",
+  "prompt": "Which 1955 Soviet-led military alliance was created in response to West Germany joining NATO?",
+  "choices": [
+   "SEATO",
+   "Comecon",
+   "Warsaw Pact",
+   "Cominform"
+  ],
+  "answer": "Warsaw Pact",
+  "difficulty": "easy",
+  "topic": "warsaw-pact"
+ },
+ {
+  "id": "hard-hist-120",
+  "prompt": "Which 1936-39 conflict saw Franco's Nationalists defeat the Republic?",
+  "choices": [
+   "Rif War",
+   "Carlist Wars",
+   "Peninsular War",
+   "Spanish Civil War"
+  ],
+  "answer": "Spanish Civil War",
+  "difficulty": "easy",
+  "topic": "spanish-civil-war"
+ },
+ {
+  "id": "hard-hist-121",
+  "prompt": "Which Maratha leader founded his kingdom in 1674?",
+  "choices": [
+   "Shivaji",
+   "Shahu",
+   "Baji Rao I",
+   "Sambhaji"
+  ],
+  "answer": "Shivaji",
+  "difficulty": "medium",
+  "topic": "shivaji"
+ },
+ {
+  "id": "hard-hist-122",
+  "prompt": "Which 1922 march brought Mussolini to power?",
+  "choices": [
+   "Salt March",
+   "March on Rome",
+   "Beer Hall Putsch",
+   "Long March"
+  ],
+  "answer": "March on Rome",
+  "difficulty": "easy",
+  "topic": "march-on-rome"
+ },
+ {
+  "id": "hard-hist-123",
+  "prompt": "Which Burmese king sacked Ayutthaya in 1767?",
+  "choices": [
+   "Bayinnaung",
+   "Alaungpaya",
+   "Hsinbyushin",
+   "Anawrahta"
+  ],
+  "answer": "Hsinbyushin",
+  "difficulty": "hard",
+  "topic": "hsinbyushin"
+ },
+ {
+  "id": "hard-hist-124",
+  "prompt": "Which Maya city's ruler Pakal was buried in the Temple of the Inscriptions?",
+  "choices": [
+   "Copan",
+   "Tikal",
+   "Calakmul",
+   "Palenque"
+  ],
+  "answer": "Palenque",
+  "difficulty": "hard",
+  "topic": "pakal-palenque"
+ },
+ {
+  "id": "hard-hist-125",
+  "prompt": "Who was the father of Alexander the Great?",
+  "choices": [
+   "Philip II",
+   "Perdiccas III",
+   "Antigonus I",
+   "Philip V"
+  ],
+  "answer": "Philip II",
+  "difficulty": "easy",
+  "topic": "philip-ii-father"
+ },
+ {
+  "id": "hard-hist-126",
+  "prompt": "Where was the German Empire proclaimed in 1871?",
+  "choices": [
+   "Aachen Cathedral",
+   "Hall of Mirrors, Versailles",
+   "Frankfurt Paulskirche",
+   "Berlin City Palace"
+  ],
+  "answer": "Hall of Mirrors, Versailles",
+  "difficulty": "hard",
+  "topic": "versailles-1871"
+ },
+ {
+  "id": "hard-hist-127",
+  "prompt": "Which 1071 battle saw the Seljuks defeat the Byzantines?",
+  "choices": [
+   "Dorylaeum",
+   "Kosovo",
+   "Manzikert",
+   "Yarmouk"
+  ],
+  "answer": "Manzikert",
+  "difficulty": "medium",
+  "topic": "manzikert"
+ },
+ {
+  "id": "hard-hist-128",
+  "prompt": "Which East African island city-state had a Great Mosque and a sultanate that minted coins?",
+  "choices": [
+   "Mombasa",
+   "Zanzibar",
+   "Lamu",
+   "Kilwa"
+  ],
+  "answer": "Kilwa",
+  "difficulty": "hard",
+  "topic": "kilwa"
+ },
+ {
+  "id": "hard-hist-129",
+  "prompt": "Which English chemist proposed modern atomic theory in the early 1800s?",
+  "choices": [
+   "John Dalton",
+   "Joseph Priestley",
+   "Robert Boyle",
+   "Humphry Davy"
+  ],
+  "answer": "John Dalton",
+  "difficulty": "medium",
+  "topic": "dalton"
+ },
+ {
+  "id": "hard-hist-130",
+  "prompt": "Which Habsburg capital did the Ottomans besiege unsuccessfully in 1683?",
+  "choices": [
+   "Budapest",
+   "Vienna",
+   "Belgrade",
+   "Prague"
+  ],
+  "answer": "Vienna",
+  "difficulty": "easy",
+  "topic": "vienna-1683"
+ },
+ {
+  "id": "hard-hist-131",
+  "prompt": "Which ruler founded the Akkadian Empire in Mesopotamia?",
+  "choices": [
+   "Ur-Nammu",
+   "Hammurabi",
+   "Sargon of Akkad",
+   "Nebuchadnezzar II"
+  ],
+  "answer": "Sargon of Akkad",
+  "difficulty": "medium",
+  "topic": "sargon-akkad"
+ },
+ {
+  "id": "hard-hist-132",
+  "prompt": "Which German plan called for a rapid defeat of France through Belgium?",
+  "choices": [
+   "Manstein Plan",
+   "Plan XVII",
+   "Marne Plan",
+   "Schlieffen Plan"
+  ],
+  "answer": "Schlieffen Plan",
+  "difficulty": "medium",
+  "topic": "schlieffen"
+ },
+ {
+  "id": "hard-hist-133",
+  "prompt": "Which Timurid ruler of Samarkand was also a renowned astronomer?",
+  "choices": [
+   "Ulugh Beg",
+   "Shah Rukh",
+   "Babur",
+   "Husayn Bayqara"
+  ],
+  "answer": "Ulugh Beg",
+  "difficulty": "hard",
+  "topic": "ulugh-beg"
+ },
+ {
+  "id": "hard-hist-134",
+  "prompt": "Which British ship sinking by a U-boat in 1915 killed over 1,000 and angered America?",
+  "choices": [
+   "Britannic",
+   "Lusitania",
+   "Sussex",
+   "Arabic"
+  ],
+  "answer": "Lusitania",
+  "difficulty": "medium",
+  "topic": "lusitania"
+ },
+ {
+  "id": "hard-hist-135",
+  "prompt": "Which usurper founded the short-lived Xin dynasty in AD 9?",
+  "choices": [
+   "Liu Xiu",
+   "Cao Cao",
+   "Wang Mang",
+   "Dong Zhuo"
+  ],
+  "answer": "Wang Mang",
+  "difficulty": "hard",
+  "topic": "wang-mang"
+ },
+ {
+  "id": "hard-hist-136",
+  "prompt": "Which captain completed the first circumnavigation after Magellan died?",
+  "choices": [
+   "Pedro Cabral",
+   "Francis Drake",
+   "Vasco da Gama",
+   "Juan Sebastian Elcano"
+  ],
+  "answer": "Juan Sebastian Elcano",
+  "difficulty": "medium",
+  "topic": "elcano"
+ },
+ {
+  "id": "hard-hist-137",
+  "prompt": "Which three cities formed the Aztec Triple Alliance?",
+  "choices": [
+   "Tenochtitlan, Texcoco, Tlacopan",
+   "Cusco, Quito, Cajamarca",
+   "Tikal, Calakmul, Copan",
+   "Tula, Cholula, Texcoco"
+  ],
+  "answer": "Tenochtitlan, Texcoco, Tlacopan",
+  "difficulty": "hard",
+  "topic": "triple-alliance"
+ },
+ {
+  "id": "hard-hist-138",
+  "prompt": "Which Saxon king was crowned emperor in Rome in 962?",
+  "choices": [
+   "Otto III",
+   "Otto I",
+   "Henry the Fowler",
+   "Conrad II"
+  ],
+  "answer": "Otto I",
+  "difficulty": "medium",
+  "topic": "otto-i-962"
+ },
+ {
+  "id": "hard-hist-139",
+  "prompt": "Which physician traced a London cholera outbreak to a Broad Street pump in 1854?",
+  "choices": [
+   "Edwin Chadwick",
+   "Florence Nightingale",
+   "John Snow",
+   "Joseph Lister"
+  ],
+  "answer": "John Snow",
+  "difficulty": "hard",
+  "topic": "snow-cholera"
+ },
+ {
+  "id": "hard-hist-140",
+  "prompt": "Which Danish-born navigator explored Siberia and the strait named for him in 1728?",
+  "choices": [
+   "James Cook",
+   "Semyon Dezhnev",
+   "Fabian Bellingshausen",
+   "Vitus Bering"
+  ],
+  "answer": "Vitus Bering",
+  "difficulty": "hard",
+  "topic": "bering"
+ },
+ {
+  "id": "hard-hist-141",
+  "prompt": "Which 1763 treaty ended the Seven Years' War and gave Britain New France?",
+  "choices": [
+   "Treaty of Paris",
+   "Treaty of Versailles",
+   "Treaty of Ghent",
+   "Treaty of Utrecht"
+  ],
+  "answer": "Treaty of Paris",
+  "difficulty": "medium",
+  "topic": "paris-1763"
+ },
+ {
+  "id": "hard-hist-142",
+  "prompt": "Which 1919 massacre in Amritsar by British troops shocked India?",
+  "choices": [
+   "Peterloo",
+   "Jallianwala Bagh",
+   "Sharpeville",
+   "Chauri Chaura"
+  ],
+  "answer": "Jallianwala Bagh",
+  "difficulty": "easy",
+  "topic": "amritsar"
+ },
+ {
+  "id": "hard-hist-143",
+  "prompt": "Which Persian physician wrote The Canon of Medicine?",
+  "choices": [
+   "Averroes",
+   "Al-Razi",
+   "Avicenna",
+   "Maimonides"
+  ],
+  "answer": "Avicenna",
+  "difficulty": "medium",
+  "topic": "avicenna"
+ },
+ {
+  "id": "hard-hist-144",
+  "prompt": "Which Han emperor sent Zhang Qian west to Central Asia?",
+  "choices": [
+   "Emperor Wen",
+   "Emperor Guangwu",
+   "Emperor Gaozu",
+   "Emperor Wu"
+  ],
+  "answer": "Emperor Wu",
+  "difficulty": "medium",
+  "topic": "han-wu-zhang-qian"
+ },
+ {
+  "id": "hard-hist-145",
+  "prompt": "Which Chinese leader began market-oriented reforms in 1978?",
+  "choices": [
+   "Deng Xiaoping",
+   "Jiang Zemin",
+   "Mao Zedong",
+   "Hua Guofeng"
+  ],
+  "answer": "Deng Xiaoping",
+  "difficulty": "medium",
+  "topic": "deng-reforms"
+ },
+ {
+  "id": "hard-hist-146",
+  "prompt": "Which Dutch leader of the revolt against Spain was assassinated in 1584?",
+  "choices": [
+   "Johan de Witt",
+   "William the Silent",
+   "Maurice of Nassau",
+   "Frederick Henry"
+  ],
+  "answer": "William the Silent",
+  "difficulty": "medium",
+  "topic": "william-silent"
+ },
+ {
+  "id": "hard-hist-147",
+  "prompt": "Which 1721 treaty ended the Great Northern War, giving Russia the Baltic coast?",
+  "choices": [
+   "Treaty of Karlowitz",
+   "Treaty of Utrecht",
+   "Treaty of Nystad",
+   "Treaty of Hubertusburg"
+  ],
+  "answer": "Treaty of Nystad",
+  "difficulty": "hard",
+  "topic": "nystad"
+ },
+ {
+  "id": "hard-hist-148",
+  "prompt": "Which battle in 1905 saw Japan destroy Russia's fleet?",
+  "choices": [
+   "Port Arthur",
+   "Yalu",
+   "Mukden",
+   "Tsushima"
+  ],
+  "answer": "Tsushima",
+  "difficulty": "easy",
+  "topic": "tsushima"
+ },
+ {
+  "id": "hard-hist-149",
+  "prompt": "Which Sikh guru founded the Khalsa in 1699?",
+  "choices": [
+   "Guru Gobind Singh",
+   "Guru Tegh Bahadur",
+   "Guru Arjan",
+   "Guru Nanak"
+  ],
+  "answer": "Guru Gobind Singh",
+  "difficulty": "medium",
+  "topic": "khalsa"
+ },
+ {
+  "id": "hard-hist-150",
+  "prompt": "Which 1904 agreement settled colonial disputes between Britain and France?",
+  "choices": [
+   "Dual Alliance",
+   "Entente Cordiale",
+   "Anglo-Russian Entente",
+   "Triple Alliance"
+  ],
+  "answer": "Entente Cordiale",
+  "difficulty": "medium",
+  "topic": "entente-cordiale"
+ },
+ {
+  "id": "hard-hist-151",
+  "prompt": "Which Kushan emperor strongly patronized Buddhism?",
+  "choices": [
+   "Harsha",
+   "Ashoka",
+   "Kanishka",
+   "Chandragupta II"
+  ],
+  "answer": "Kanishka",
+  "difficulty": "medium",
+  "topic": "kanishka"
+ },
+ {
+  "id": "hard-hist-152",
+  "prompt": "Germany's Operation Citadel in 1943 led to which battle?",
+  "choices": [
+   "Stalingrad",
+   "Moscow",
+   "Smolensk",
+   "Kursk"
+  ],
+  "answer": "Kursk",
+  "difficulty": "medium",
+  "topic": "kursk"
+ },
+ {
+  "id": "hard-hist-153",
+  "prompt": "Which astronomer's calculations led to the 1846 discovery of Neptune, with Galle observing?",
+  "choices": [
+   "Urbain Le Verrier",
+   "William Lassell",
+   "Giovanni Schiaparelli",
+   "Percival Lowell"
+  ],
+  "answer": "Urbain Le Verrier",
+  "difficulty": "hard",
+  "topic": "le-verrier"
+ },
+ {
+  "id": "hard-hist-154",
+  "prompt": "Which 636 battle gave Arab armies control of Syria from Byzantium?",
+  "choices": [
+   "Talas",
+   "Yarmouk",
+   "Manzikert",
+   "Tours"
+  ],
+  "answer": "Yarmouk",
+  "difficulty": "medium",
+  "topic": "yarmouk"
+ },
+ {
+  "id": "hard-hist-155",
+  "prompt": "Which queen of Jhansi was killed fighting the British in 1858?",
+  "choices": [
+   "Rani Chennamma",
+   "Begum Hazrat Mahal",
+   "Lakshmibai",
+   "Ahilyabai Holkar"
+  ],
+  "answer": "Lakshmibai",
+  "difficulty": "hard",
+  "topic": "lakshmibai"
+ },
+ {
+  "id": "hard-hist-156",
+  "prompt": "Which Zulu king ruled during the Anglo-Zulu War of 1879?",
+  "choices": [
+   "Mzilikazi",
+   "Dingane",
+   "Shaka",
+   "Cetshwayo"
+  ],
+  "answer": "Cetshwayo",
+  "difficulty": "medium",
+  "topic": "cetshwayo"
+ },
+ {
+  "id": "hard-hist-157",
+  "prompt": "Which Mughal emperor expanded the empire furthest, ruling 1658-1707?",
+  "choices": [
+   "Aurangzeb",
+   "Akbar",
+   "Bahadur Shah I",
+   "Shah Jahan"
+  ],
+  "answer": "Aurangzeb",
+  "difficulty": "easy",
+  "topic": "aurangzeb"
+ },
+ {
+  "id": "hard-hist-158",
+  "prompt": "Which 1938 agreement let Germany annex the Sudetenland?",
+  "choices": [
+   "Rapallo Treaty",
+   "Munich Agreement",
+   "Locarno Treaties",
+   "Anschluss"
+  ],
+  "answer": "Munich Agreement",
+  "difficulty": "easy",
+  "topic": "munich-1938"
+ },
+ {
+  "id": "hard-hist-159",
+  "prompt": "Which British explorer was beaten to the South Pole by Amundsen and died in 1912?",
+  "choices": [
+   "Ernest Shackleton",
+   "Edward Wilson",
+   "Robert Falcon Scott",
+   "Lawrence Oates"
+  ],
+  "answer": "Robert Falcon Scott",
+  "difficulty": "easy",
+  "topic": "scott"
+ },
+ {
+  "id": "hard-hist-160",
+  "prompt": "The 1274 BC Battle of Kadesh pitted Egypt against which empire?",
+  "choices": [
+   "The Mitanni",
+   "The Babylonians",
+   "The Assyrians",
+   "The Hittites"
+  ],
+  "answer": "The Hittites",
+  "difficulty": "easy",
+  "topic": "kadesh-hittites"
+ },
+ {
+  "id": "hard-hist-161",
+  "prompt": "Which French emperor lost at Sedan in 1870?",
+  "choices": [
+   "Napoleon III",
+   "Louis-Philippe",
+   "Charles X",
+   "Napoleon I"
+  ],
+  "answer": "Napoleon III",
+  "difficulty": "easy",
+  "topic": "sedan"
+ },
+ {
+  "id": "hard-hist-162",
+  "prompt": "Which Hussite general led armies using war wagons?",
+  "choices": [
+   "Jan Hus",
+   "Jan Zizka",
+   "Sigismund",
+   "Wenceslas IV"
+  ],
+  "answer": "Jan Zizka",
+  "difficulty": "medium",
+  "topic": "zizka"
+ },
+ {
+  "id": "hard-hist-163",
+  "prompt": "Which Greek physician's writings dominated Roman and medieval medicine?",
+  "choices": [
+   "Hippocrates",
+   "Dioscorides",
+   "Galen",
+   "Avicenna"
+  ],
+  "answer": "Galen",
+  "difficulty": "medium",
+  "topic": "galen"
+ },
+ {
+  "id": "hard-hist-164",
+  "prompt": "Which Burmese king founded the Pagan Empire in 1044?",
+  "choices": [
+   "Alaungpaya",
+   "Bayinnaung",
+   "Thibaw",
+   "Anawrahta"
+  ],
+  "answer": "Anawrahta",
+  "difficulty": "medium",
+  "topic": "anawrahta"
+ },
+ {
+  "id": "hard-hist-165",
+  "prompt": "Which 1968 reform movement in Czechoslovakia was ended by a Warsaw Pact invasion?",
+  "choices": [
+   "Prague Spring",
+   "Orange Revolution",
+   "Solidarity",
+   "Velvet Revolution"
+  ],
+  "answer": "Prague Spring",
+  "difficulty": "medium",
+  "topic": "prague-spring"
+ },
+ {
+  "id": "hard-hist-166",
+  "prompt": "Which Babylonian king destroyed Solomon's Temple in 586 BC?",
+  "choices": [
+   "Sargon II",
+   "Nebuchadnezzar II",
+   "Hammurabi",
+   "Nabonidus"
+  ],
+  "answer": "Nebuchadnezzar II",
+  "difficulty": "easy",
+  "topic": "nebuchadnezzar-temple"
+ },
+ {
+  "id": "hard-hist-167",
+  "prompt": "Which naval battle in 1571 saw the Holy League defeat the Ottomans?",
+  "choices": [
+   "Trafalgar",
+   "Actium",
+   "Lepanto",
+   "Salamis"
+  ],
+  "answer": "Lepanto",
+  "difficulty": "easy",
+  "topic": "lepanto"
+ },
+ {
+  "id": "hard-hist-168",
+  "prompt": "Who founded the Republic of Turkey in 1923?",
+  "choices": [
+   "Ismet Inonu",
+   "Enver Pasha",
+   "Abdulhamid II",
+   "Mustafa Kemal Ataturk"
+  ],
+  "answer": "Mustafa Kemal Ataturk",
+  "difficulty": "easy",
+  "topic": "ataturk"
+ },
+ {
+  "id": "hard-hist-169",
+  "prompt": "Which Irish scientist formulated the law relating gas pressure and volume in 1662?",
+  "choices": [
+   "Robert Boyle",
+   "Robert Hooke",
+   "Edmund Halley",
+   "John Dalton"
+  ],
+  "answer": "Robert Boyle",
+  "difficulty": "hard",
+  "topic": "boyle-law"
+ },
+ {
+  "id": "hard-hist-170",
+  "prompt": "Which Frankish king converted to Catholic Christianity around 500?",
+  "choices": [
+   "Pepin the Short",
+   "Clovis I",
+   "Childeric I",
+   "Dagobert I"
+  ],
+  "answer": "Clovis I",
+  "difficulty": "medium",
+  "topic": "clovis-conversion"
+ },
+ {
+  "id": "hard-hist-171",
+  "prompt": "Which Hunnic leader was stopped at the Catalaunian Plains in 451?",
+  "choices": [
+   "Alaric",
+   "Theodoric",
+   "Attila",
+   "Odoacer"
+  ],
+  "answer": "Attila",
+  "difficulty": "easy",
+  "topic": "attila-catalaunian"
+ },
+ {
+  "id": "hard-hist-172",
+  "prompt": "Which Basque town was bombed in 1937, inspiring a Picasso painting?",
+  "choices": [
+   "Toledo",
+   "Barcelona",
+   "Madrid",
+   "Guernica"
+  ],
+  "answer": "Guernica",
+  "difficulty": "medium",
+  "topic": "guernica"
+ },
+ {
+  "id": "hard-hist-173",
+  "prompt": "Which Scottish leader shared command with Andrew Moray at Stirling Bridge?",
+  "choices": [
+   "William Wallace",
+   "John Balliol",
+   "Robert the Bruce",
+   "David II"
+  ],
+  "answer": "William Wallace",
+  "difficulty": "medium",
+  "topic": "stirling-bridge"
+ },
+ {
+  "id": "hard-hist-174",
+  "prompt": "Which 1838 battle saw Voortrekkers defeat the Zulu under Dingane?",
+  "choices": [
+   "Kimberley",
+   "Blood River",
+   "Majuba Hill",
+   "Isandlwana"
+  ],
+  "answer": "Blood River",
+  "difficulty": "hard",
+  "topic": "blood-river"
+ },
+ {
+  "id": "hard-hist-175",
+  "prompt": "Which 1591 battle saw Morocco's forces destroy the Songhai army?",
+  "choices": [
+   "Isandlwana",
+   "Adwa",
+   "Tondibi",
+   "Omdurman"
+  ],
+  "answer": "Tondibi",
+  "difficulty": "hard",
+  "topic": "tondibi"
+ },
+ {
+  "id": "hard-hist-176",
+  "prompt": "Which Queen of Ndongo and Matamba fought the Portuguese in the 1600s?",
+  "choices": [
+   "Amina",
+   "Nandi",
+   "Yaa Asantewaa",
+   "Njinga"
+  ],
+  "answer": "Njinga",
+  "difficulty": "medium",
+  "topic": "njinga"
+ },
+ {
+  "id": "hard-hist-177",
+  "prompt": "Which imperial general led Catholic forces and was assassinated in 1634?",
+  "choices": [
+   "Wallenstein",
+   "Montecuccoli",
+   "Pappenheim",
+   "Tilly"
+  ],
+  "answer": "Wallenstein",
+  "difficulty": "hard",
+  "topic": "wallenstein"
+ },
+ {
+  "id": "hard-hist-178",
+  "prompt": "The 1618 Defenestration of Prague set off which war?",
+  "choices": [
+   "Eighty Years' War",
+   "Thirty Years' War",
+   "Seven Years' War",
+   "Hundred Years' War"
+  ],
+  "answer": "Thirty Years' War",
+  "difficulty": "medium",
+  "topic": "defenestration-prague"
+ },
+ {
+  "id": "hard-hist-179",
+  "prompt": "Which Mesoamerican city had the Pyramid of the Sun and flourished c. 100-550?",
+  "choices": [
+   "Chichen Itza",
+   "Palenque",
+   "Teotihuacan",
+   "Tula"
+  ],
+  "answer": "Teotihuacan",
+  "difficulty": "easy",
+  "topic": "teotihuacan"
+ },
+ {
+  "id": "hard-hist-180",
+  "prompt": "Which Dutch navigator in 1642 sighted Tasmania and New Zealand?",
+  "choices": [
+   "Jacob Roggeveen",
+   "Willem Barentsz",
+   "Willem Janszoon",
+   "Abel Tasman"
+  ],
+  "answer": "Abel Tasman",
+  "difficulty": "hard",
+  "topic": "tasman"
+ },
+ {
+  "id": "hard-hist-181",
+  "prompt": "Which Hungarian king, nicknamed Corvinus, ruled 1458-1490?",
+  "choices": [
+   "Matthias",
+   "Bela IV",
+   "Sigismund",
+   "Louis the Great"
+  ],
+  "answer": "Matthias",
+  "difficulty": "medium",
+  "topic": "matthias-corvinus"
+ },
+ {
+  "id": "hard-hist-182",
+  "prompt": "Which 1757 battle began British East India Company rule in Bengal?",
+  "choices": [
+   "Seringapatam",
+   "Plassey",
+   "Buxar",
+   "Panipat"
+  ],
+  "answer": "Plassey",
+  "difficulty": "easy",
+  "topic": "plassey"
+ },
+ {
+  "id": "hard-hist-183",
+  "prompt": "Which Algerian emir led resistance to French conquest in the 1830s-40s?",
+  "choices": [
+   "Ahmed Ben Bella",
+   "Muhammad Ali",
+   "Abd al-Qadir",
+   "Ibn Saud"
+  ],
+  "answer": "Abd al-Qadir",
+  "difficulty": "medium",
+  "topic": "abd-al-qadir"
+ },
+ {
+  "id": "hard-hist-184",
+  "prompt": "Which 1871 uprising in Paris created a short-lived revolutionary government?",
+  "choices": [
+   "Jacquerie",
+   "July Revolution",
+   "Fronde",
+   "Paris Commune"
+  ],
+  "answer": "Paris Commune",
+  "difficulty": "medium",
+  "topic": "commune"
+ },
+ {
+  "id": "hard-hist-185",
+  "prompt": "Which 1942 battle in the Pacific, near Hawaii, turned the war against Japan's carriers?",
+  "choices": [
+   "Midway",
+   "Leyte Gulf",
+   "Guadalcanal",
+   "Coral Sea"
+  ],
+  "answer": "Midway",
+  "difficulty": "easy",
+  "topic": "midway"
+ },
+ {
+  "id": "hard-hist-186",
+  "prompt": "Which emperor made Nicene Christianity the state religion in 380?",
+  "choices": [
+   "Constantine",
+   "Theodosius I",
+   "Julian",
+   "Justinian I"
+  ],
+  "answer": "Theodosius I",
+  "difficulty": "medium",
+  "topic": "theodosius-state-church"
+ },
+ {
+  "id": "hard-hist-187",
+  "prompt": "Which 1914 battle halted the German advance on Paris?",
+  "choices": [
+   "Tannenberg",
+   "Ypres",
+   "First Marne",
+   "Verdun"
+  ],
+  "answer": "First Marne",
+  "difficulty": "medium",
+  "topic": "marne"
+ },
+ {
+  "id": "hard-hist-188",
+  "prompt": "Which Sudanese leader's forces killed General Gordon at Khartoum in 1885?",
+  "choices": [
+   "Zubayr Pasha",
+   "The Khalifa",
+   "Osman Digna",
+   "The Mahdi"
+  ],
+  "answer": "The Mahdi",
+  "difficulty": "medium",
+  "topic": "mahdi-khartoum"
+ },
+ {
+  "id": "hard-hist-189",
+  "prompt": "Which Congolese leader was elected the first prime minister in 1960?",
+  "choices": [
+   "Patrice Lumumba",
+   "Mobutu",
+   "Moise Tshombe",
+   "Joseph Kasa-Vubu"
+  ],
+  "answer": "Patrice Lumumba",
+  "difficulty": "medium",
+  "topic": "lumumba"
+ },
+ {
+  "id": "hard-hist-190",
+  "prompt": "Which scientists described DNA's double helix in 1953?",
+  "choices": [
+   "Pauling and Hodgkin",
+   "Watson and Crick",
+   "Sanger and Gilbert",
+   "Hershey and Chase"
+  ],
+  "answer": "Watson and Crick",
+  "difficulty": "easy",
+  "topic": "watson-crick"
+ },
+ {
+  "id": "hard-hist-191",
+  "prompt": "Which Swedish king was defeated by Peter the Great at Poltava in 1709?",
+  "choices": [
+   "Charles X Gustav",
+   "Gustavus Adolphus",
+   "Charles XII",
+   "Gustav III"
+  ],
+  "answer": "Charles XII",
+  "difficulty": "medium",
+  "topic": "poltava"
+ },
+ {
+  "id": "hard-hist-192",
+  "prompt": "Which emperor moved Japan's capital to Heian-kyo in 794?",
+  "choices": [
+   "Shomu",
+   "Go-Daigo",
+   "Temmu",
+   "Kanmu"
+  ],
+  "answer": "Kanmu",
+  "difficulty": "hard",
+  "topic": "kanmu-heian"
+ },
+ {
+  "id": "hard-hist-193",
+  "prompt": "Which Danish astronomer showed in 1676 that light has a finite speed?",
+  "choices": [
+   "Ole Romer",
+   "Tycho Brahe",
+   "Hans Oersted",
+   "Christiaan Huygens"
+  ],
+  "answer": "Ole Romer",
+  "difficulty": "hard",
+  "topic": "romer-light"
+ },
+ {
+  "id": "hard-hist-194",
+  "prompt": "Which 1122 agreement ended the Investiture Controversy?",
+  "choices": [
+   "Golden Bull",
+   "Concordat of Worms",
+   "Treaty of Verdun",
+   "Peace of Augsburg"
+  ],
+  "answer": "Concordat of Worms",
+  "difficulty": "hard",
+  "topic": "worms-1122"
+ },
+ {
+  "id": "hard-hist-195",
+  "prompt": "Which Flemish anatomist published De humani corporis fabrica in 1543?",
+  "choices": [
+   "Ambroise Pare",
+   "Galen",
+   "Andreas Vesalius",
+   "William Harvey"
+  ],
+  "answer": "Andreas Vesalius",
+  "difficulty": "medium",
+  "topic": "vesalius"
+ },
+ {
+  "id": "hard-hist-196",
+  "prompt": "Which Austrian archduke was made Emperor of Mexico in 1864?",
+  "choices": [
+   "Franz Joseph",
+   "Leopold",
+   "Ferdinand",
+   "Maximilian"
+  ],
+  "answer": "Maximilian",
+  "difficulty": "hard",
+  "topic": "maximilian-mexico"
+ },
+ {
+  "id": "hard-hist-197",
+  "prompt": "Which Englishman circumnavigated the globe between 1577 and 1580?",
+  "choices": [
+   "Francis Drake",
+   "Martin Frobisher",
+   "John Hawkins",
+   "Walter Raleigh"
+  ],
+  "answer": "Francis Drake",
+  "difficulty": "easy",
+  "topic": "drake-circumnavigation"
+ },
+ {
+  "id": "hard-hist-198",
+  "prompt": "Which Philippine chief killed Ferdinand Magellan in 1521?",
+  "choices": [
+   "Sulayman",
+   "Lapulapu",
+   "Humabon",
+   "Rajah Kolambu"
+  ],
+  "answer": "Lapulapu",
+  "difficulty": "medium",
+  "topic": "lapulapu"
+ },
+ {
+  "id": "hard-hist-199",
+  "prompt": "Which Greek battle in 479 BC ended the Persian invasion on land?",
+  "choices": [
+   "Marathon",
+   "Thermopylae",
+   "Plataea",
+   "Issus"
+  ],
+  "answer": "Plataea",
+  "difficulty": "easy",
+  "topic": "plataea"
+ },
+ {
+  "id": "hard-hist-200",
+  "prompt": "Which Songhai ruler captured Timbuktu in 1468?",
+  "choices": [
+   "Askia Muhammad",
+   "Sundiata Keita",
+   "Mansa Musa",
+   "Sonni Ali"
+  ],
+  "answer": "Sonni Ali",
+  "difficulty": "medium",
+  "topic": "sonni-ali"
+ },
+ {
+  "id": "hard-hist-201",
+  "prompt": "Which conquistador crossed Panama and sighted the Pacific in 1513?",
+  "choices": [
+   "Vasco Nunez de Balboa",
+   "Francisco Pizarro",
+   "Ponce de Leon",
+   "Hernan Cortes"
+  ],
+  "answer": "Vasco Nunez de Balboa",
+  "difficulty": "hard",
+  "topic": "balboa-pacific"
+ },
+ {
+  "id": "hard-hist-202",
+  "prompt": "Which Persian king created satrapies and the Royal Road?",
+  "choices": [
+   "Artaxerxes I",
+   "Darius I",
+   "Cambyses II",
+   "Xerxes I"
+  ],
+  "answer": "Darius I",
+  "difficulty": "medium",
+  "topic": "darius-satrapies"
+ },
+ {
+  "id": "hard-hist-203",
+  "prompt": "The fall of which city in 1492 ended Muslim rule in Iberia?",
+  "choices": [
+   "Cordoba",
+   "Toledo",
+   "Granada",
+   "Seville"
+  ],
+  "answer": "Granada",
+  "difficulty": "easy",
+  "topic": "granada-1492"
+ },
+ {
+  "id": "hard-hist-204",
+  "prompt": "Which 1925 agreements sought to guarantee Germany's western borders?",
+  "choices": [
+   "Treaty of Rapallo",
+   "Kellogg-Briand Pact",
+   "Dawes Plan",
+   "Locarno Treaties"
+  ],
+  "answer": "Locarno Treaties",
+  "difficulty": "hard",
+  "topic": "locarno"
+ },
+ {
+  "id": "hard-hist-205",
+  "prompt": "Which 1884-85 conference set rules for the European partition of Africa?",
+  "choices": [
+   "Berlin Conference",
+   "Evian Conference",
+   "Congress of Vienna",
+   "Algeciras Conference"
+  ],
+  "answer": "Berlin Conference",
+  "difficulty": "medium",
+  "topic": "berlin-conference"
+ },
+ {
+  "id": "hard-hist-206",
+  "prompt": "Which French cardinal was chief minister to Louis XIII from 1624 to 1642?",
+  "choices": [
+   "Cardinal Fleury",
+   "Cardinal Richelieu",
+   "Cardinal Wolsey",
+   "Cardinal Mazarin"
+  ],
+  "answer": "Cardinal Richelieu",
+  "difficulty": "medium",
+  "topic": "richelieu"
+ },
+ {
+  "id": "hard-hist-207",
+  "prompt": "Which Kievan ruler adopted Orthodox Christianity in 988?",
+  "choices": [
+   "Oleg",
+   "Yaroslav the Wise",
+   "Vladimir the Great",
+   "Sviatoslav"
+  ],
+  "answer": "Vladimir the Great",
+  "difficulty": "hard",
+  "topic": "vladimir-988"
+ },
+ {
+  "id": "hard-hist-208",
+  "prompt": "Which Augustinian friar's pea experiments founded genetics?",
+  "choices": [
+   "Theodor Boveri",
+   "Hugo de Vries",
+   "Thomas Hunt Morgan",
+   "Gregor Mendel"
+  ],
+  "answer": "Gregor Mendel",
+  "difficulty": "easy",
+  "topic": "mendel"
+ },
+ {
+  "id": "hard-hist-209",
+  "prompt": "Which Ottoman sultan abolished the Janissaries in 1826?",
+  "choices": [
+   "Mahmud II",
+   "Selim III",
+   "Mehmed IV",
+   "Abdulhamid I"
+  ],
+  "answer": "Mahmud II",
+  "difficulty": "hard",
+  "topic": "janissary-abolition"
+ },
+ {
+  "id": "hard-hist-210",
+  "prompt": "Which Khmer king built the Bayon and Angkor Thom?",
+  "choices": [
+   "Rajendravarman",
+   "Jayavarman VII",
+   "Jayavarman II",
+   "Suryavarman II"
+  ],
+  "answer": "Jayavarman VII",
+  "difficulty": "medium",
+  "topic": "bayon"
+ },
+ {
+  "id": "hard-hist-211",
+  "prompt": "Which British explorer is credited with identifying Lake Victoria as the Nile's source, in 1858?",
+  "choices": [
+   "Samuel Baker",
+   "Richard Burton",
+   "John Hanning Speke",
+   "David Livingstone"
+  ],
+  "answer": "John Hanning Speke",
+  "difficulty": "hard",
+  "topic": "speke"
+ },
+ {
+  "id": "hard-hist-212",
+  "prompt": "Which Byzantine emperor defeated the Persians and retrieved the True Cross?",
+  "choices": [
+   "Justinian I",
+   "Leo III",
+   "Maurice",
+   "Heraclius"
+  ],
+  "answer": "Heraclius",
+  "difficulty": "medium",
+  "topic": "heraclius"
+ },
+ {
+  "id": "hard-hist-213",
+  "prompt": "Which Swedish king died winning the 1632 Battle of Lutzen?",
+  "choices": [
+   "Gustavus Adolphus",
+   "Charles X Gustav",
+   "Charles XII",
+   "Eric XIV"
+  ],
+  "answer": "Gustavus Adolphus",
+  "difficulty": "medium",
+  "topic": "lutzen"
+ },
+ {
+  "id": "hard-hist-214",
+  "prompt": "Which Dutch captain sailed the Duyfken to Australia's Cape York in 1606?",
+  "choices": [
+   "James Cook",
+   "Willem Janszoon",
+   "Abel Tasman",
+   "Dirk Hartog"
+  ],
+  "answer": "Willem Janszoon",
+  "difficulty": "hard",
+  "topic": "janszoon"
+ },
+ {
+  "id": "hard-hist-215",
+  "prompt": "Which AD 9 battle in Germania destroyed three Roman legions?",
+  "choices": [
+   "Adrianople",
+   "Carrhae",
+   "Teutoburg Forest",
+   "Cannae"
+  ],
+  "answer": "Teutoburg Forest",
+  "difficulty": "medium",
+  "topic": "teutoburg"
+ },
+ {
+  "id": "hard-hist-216",
+  "prompt": "At Carrhae in 53 BC, Crassus was defeated by which empire?",
+  "choices": [
+   "The Scythians",
+   "The Sasanians",
+   "The Seleucids",
+   "The Parthians"
+  ],
+  "answer": "The Parthians",
+  "difficulty": "medium",
+  "topic": "carrhae-parthians"
+ },
+ {
+  "id": "hard-hist-217",
+  "prompt": "Which 1774 treaty ended a Russo-Ottoman war and made Crimea independent?",
+  "choices": [
+   "Kucuk Kaynarca",
+   "Karlowitz",
+   "Jassy",
+   "Adrianople"
+  ],
+  "answer": "Kucuk Kaynarca",
+  "difficulty": "hard",
+  "topic": "kucuk-kaynarca"
+ },
+ {
+  "id": "hard-hist-218",
+  "prompt": "Which 1648 settlement ended the Thirty Years' War?",
+  "choices": [
+   "Treaty of Paris",
+   "Peace of Westphalia",
+   "Peace of Augsburg",
+   "Treaty of Utrecht"
+  ],
+  "answer": "Peace of Westphalia",
+  "difficulty": "easy",
+  "topic": "westphalia"
+ },
+ {
+  "id": "hard-hist-219",
+  "prompt": "Which Dominican friar defended Indigenous peoples in the Spanish colonies?",
+  "choices": [
+   "Francisco de Vitoria",
+   "Junipero Serra",
+   "Bartolome de las Casas",
+   "Juan de Zumarraga"
+  ],
+  "answer": "Bartolome de las Casas",
+  "difficulty": "medium",
+  "topic": "las-casas"
+ },
+ {
+  "id": "hard-hist-220",
+  "prompt": "Which Lithuanian grand duke co-won Grunwald with Poland's Jogaila?",
+  "choices": [
+   "Algirdas",
+   "Mindaugas",
+   "Gediminas",
+   "Vytautas"
+  ],
+  "answer": "Vytautas",
+  "difficulty": "hard",
+  "topic": "vytautas"
+ },
+ {
+  "id": "hard-hist-221",
+  "prompt": "Which Swedish chemist devised the system of chemical symbols still used?",
+  "choices": [
+   "Jons Jacob Berzelius",
+   "Antoine Lavoisier",
+   "Carl Scheele",
+   "John Dalton"
+  ],
+  "answer": "Jons Jacob Berzelius",
+  "difficulty": "medium",
+  "topic": "berzelius"
+ },
+ {
+  "id": "hard-hist-222",
+  "prompt": "Which 1895 treaty ended the First Sino-Japanese War?",
+  "choices": [
+   "Treaty of Nanking",
+   "Treaty of Shimonoseki",
+   "Treaty of Tientsin",
+   "Treaty of Portsmouth"
+  ],
+  "answer": "Treaty of Shimonoseki",
+  "difficulty": "medium",
+  "topic": "shimonoseki"
+ },
+ {
+  "id": "hard-hist-223",
+  "prompt": "Under which emperor did Rome reach its greatest extent, in AD 117?",
+  "choices": [
+   "Hadrian",
+   "Septimius Severus",
+   "Trajan",
+   "Augustus"
+  ],
+  "answer": "Trajan",
+  "difficulty": "medium",
+  "topic": "trajan-extent"
+ },
+ {
+  "id": "hard-hist-224",
+  "prompt": "Which Andean culture built Chan Chan, an adobe capital on Peru's coast?",
+  "choices": [
+   "The Nazca",
+   "The Moche",
+   "The Wari",
+   "The Chimu"
+  ],
+  "answer": "The Chimu",
+  "difficulty": "hard",
+  "topic": "chan-chan"
+ },
+ {
+  "id": "hard-hist-225",
+  "prompt": "Which Prussian field marshal marched to help Wellington at Waterloo?",
+  "choices": [
+   "Blucher",
+   "Yorck",
+   "Scharnhorst",
+   "Clausewitz"
+  ],
+  "answer": "Blucher",
+  "difficulty": "medium",
+  "topic": "blucher"
+ },
+ {
+  "id": "hard-hist-226",
+  "prompt": "Which Italian inventor sent a transatlantic radio signal in 1901?",
+  "choices": [
+   "Nikola Tesla",
+   "Guglielmo Marconi",
+   "Alexander Graham Bell",
+   "Heinrich Hertz"
+  ],
+  "answer": "Guglielmo Marconi",
+  "difficulty": "easy",
+  "topic": "marconi"
+ },
+ {
+  "id": "hard-hist-227",
+  "prompt": "Which Soviet leader introduced glasnost and perestroika?",
+  "choices": [
+   "Nikita Khrushchev",
+   "Boris Yeltsin",
+   "Mikhail Gorbachev",
+   "Leonid Brezhnev"
+  ],
+  "answer": "Mikhail Gorbachev",
+  "difficulty": "easy",
+  "topic": "gorbachev"
+ },
+ {
+  "id": "hard-hist-228",
+  "prompt": "Which Thai kingdom, founded in 1351, fell to a Burmese army in 1767?",
+  "choices": [
+   "Lan Na",
+   "Sukhothai Kingdom",
+   "Champa",
+   "Ayutthaya Kingdom"
+  ],
+  "answer": "Ayutthaya Kingdom",
+  "difficulty": "medium",
+  "topic": "ayutthaya"
+ },
+ {
+  "id": "hard-hist-229",
+  "prompt": "Which Mali ruler founded the empire after the Battle of Kirina c.1235?",
+  "choices": [
+   "Sundiata Keita",
+   "Askia Muhammad",
+   "Sonni Ali",
+   "Mansa Musa"
+  ],
+  "answer": "Sundiata Keita",
+  "difficulty": "medium",
+  "topic": "sundiata"
+ },
+ {
+  "id": "hard-hist-230",
+  "prompt": "Which first Bourbon king of France converted to Catholicism in 1593?",
+  "choices": [
+   "Francis I",
+   "Henry IV",
+   "Louis XIII",
+   "Henry III"
+  ],
+  "answer": "Henry IV",
+  "difficulty": "medium",
+  "topic": "henry-iv-paris"
+ },
+ {
+  "id": "hard-hist-231",
+  "prompt": "Which 1940 evacuation rescued Allied troops from a French beach?",
+  "choices": [
+   "Anzio",
+   "Dieppe",
+   "Dunkirk",
+   "Calais"
+  ],
+  "answer": "Dunkirk",
+  "difficulty": "easy",
+  "topic": "dunkirk"
+ },
+ {
+  "id": "hard-hist-232",
+  "prompt": "Which Byzantine emperor defeated the Arab siege of Constantinople in 717-718?",
+  "choices": [
+   "Heraclius",
+   "Basil I",
+   "Constantine V",
+   "Leo III"
+  ],
+  "answer": "Leo III",
+  "difficulty": "hard",
+  "topic": "leo-iii-siege"
+ },
+ {
+  "id": "hard-hist-233",
+  "prompt": "Which Prussian victory in 1866 excluded Austria from German affairs?",
+  "choices": [
+   "Koniggratz",
+   "Sedan",
+   "Leipzig",
+   "Jena"
+  ],
+  "answer": "Koniggratz",
+  "difficulty": "medium",
+  "topic": "koniggratz"
+ },
+ {
+  "id": "hard-hist-234",
+  "prompt": "Which Balkan state was the target of Austria-Hungary's July 1914 ultimatum?",
+  "choices": [
+   "Romania",
+   "Serbia",
+   "Montenegro",
+   "Bulgaria"
+  ],
+  "answer": "Serbia",
+  "difficulty": "easy",
+  "topic": "ultimatum-serbia"
+ },
+ {
+  "id": "hard-hist-235",
+  "prompt": "Which Norwegian explorer sailed the Fram toward the North Pole in 1893-96?",
+  "choices": [
+   "Otto Sverdrup",
+   "Robert Peary",
+   "Fridtjof Nansen",
+   "Roald Amundsen"
+  ],
+  "answer": "Fridtjof Nansen",
+  "difficulty": "hard",
+  "topic": "nansen"
+ },
+ {
+  "id": "hard-hist-236",
+  "prompt": "Which Khmer king built Angkor Wat in the early 1100s?",
+  "choices": [
+   "Yasovarman I",
+   "Indravarman I",
+   "Jayavarman VII",
+   "Suryavarman II"
+  ],
+  "answer": "Suryavarman II",
+  "difficulty": "hard",
+  "topic": "angkor-wat-builder"
+ },
+ {
+  "id": "hard-hist-237",
+  "prompt": "Which Sikh ruler built an empire in Punjab in the early 1800s?",
+  "choices": [
+   "Ranjit Singh",
+   "Guru Gobind Singh",
+   "Guru Nanak",
+   "Banda Bahadur"
+  ],
+  "answer": "Ranjit Singh",
+  "difficulty": "easy",
+  "topic": "ranjit-singh"
+ },
+ {
+  "id": "hard-hist-238",
+  "prompt": "Which British general died winning at Quebec in 1759?",
+  "choices": [
+   "John Burgoyne",
+   "James Wolfe",
+   "Jeffrey Amherst",
+   "Robert Clive"
+  ],
+  "answer": "James Wolfe",
+  "difficulty": "medium",
+  "topic": "wolfe"
+ },
+ {
+  "id": "hard-hist-239",
+  "prompt": "Which American developed the first effective polio vaccine, announced in 1955?",
+  "choices": [
+   "Albert Sabin",
+   "Thomas Francis",
+   "Jonas Salk",
+   "Maurice Hilleman"
+  ],
+  "answer": "Jonas Salk",
+  "difficulty": "medium",
+  "topic": "salk"
+ },
+ {
+  "id": "hard-hist-240",
+  "prompt": "Which 1923 treaty recognized the borders of modern Turkey?",
+  "choices": [
+   "Treaty of Versailles",
+   "Treaty of Sevres",
+   "Treaty of Trianon",
+   "Treaty of Lausanne"
+  ],
+  "answer": "Treaty of Lausanne",
+  "difficulty": "easy",
+  "topic": "lausanne"
+ },
+ {
+  "id": "hard-hist-241",
+  "prompt": "Which Alexander general founded the Ptolemaic dynasty in Egypt?",
+  "choices": [
+   "Ptolemy I",
+   "Cassander",
+   "Antigonus I",
+   "Seleucus I"
+  ],
+  "answer": "Ptolemy I",
+  "difficulty": "medium",
+  "topic": "ptolemy-founder"
+ },
+ {
+  "id": "hard-hist-242",
+  "prompt": "Which 1942-43 battle ended with German surrender on the Volga?",
+  "choices": [
+   "Kursk",
+   "Stalingrad",
+   "Leningrad",
+   "Moscow"
+  ],
+  "answer": "Stalingrad",
+  "difficulty": "easy",
+  "topic": "stalingrad"
+ },
+ {
+  "id": "hard-hist-243",
+  "prompt": "Which Mexican president, a Zapotec, resisted the French intervention of the 1860s?",
+  "choices": [
+   "Santa Anna",
+   "Porfirio Diaz",
+   "Benito Juarez",
+   "Vicente Guerrero"
+  ],
+  "answer": "Benito Juarez",
+  "difficulty": "medium",
+  "topic": "juarez"
+ },
+ {
+  "id": "hard-hist-244",
+  "prompt": "Which Danish astronomer made precise naked-eye observations from Hven?",
+  "choices": [
+   "Johannes Kepler",
+   "Niels Bohr",
+   "Ole Romer",
+   "Tycho Brahe"
+  ],
+  "answer": "Tycho Brahe",
+  "difficulty": "medium",
+  "topic": "tycho"
+ },
+ {
+  "id": "hard-hist-245",
+  "prompt": "Which emperor's reign began with the 1868 Restoration in Japan?",
+  "choices": [
+   "Meiji",
+   "Komei",
+   "Taisho",
+   "Showa"
+  ],
+  "answer": "Meiji",
+  "difficulty": "easy",
+  "topic": "meiji-start"
+ },
+ {
+  "id": "hard-hist-246",
+  "prompt": "Which 1212 battle was a decisive Christian victory over the Almohads in Spain?",
+  "choices": [
+   "Covadonga",
+   "Las Navas de Tolosa",
+   "Poitiers",
+   "Guadalete"
+  ],
+  "answer": "Las Navas de Tolosa",
+  "difficulty": "hard",
+  "topic": "las-navas"
+ },
+ {
+  "id": "hard-hist-247",
+  "prompt": "Which Prussian king seized Silesia in 1740?",
+  "choices": [
+   "Frederick William I",
+   "Frederick William II",
+   "Frederick II",
+   "Wilhelm I"
+  ],
+  "answer": "Frederick II",
+  "difficulty": "medium",
+  "topic": "silesia-frederick"
+ },
+ {
+  "id": "hard-hist-248",
+  "prompt": "Which tyrant of Syracuse repelled Carthage at Himera in 480 BC?",
+  "choices": [
+   "Hiero II",
+   "Agathocles",
+   "Dionysius I",
+   "Gelon"
+  ],
+  "answer": "Gelon",
+  "difficulty": "hard",
+  "topic": "gelon-himera"
+ },
+ {
+  "id": "hard-hist-249",
+  "prompt": "Which Asante queen mother led a 1900 war against British rule?",
+  "choices": [
+   "Yaa Asantewaa",
+   "Ranavalona I",
+   "Amina",
+   "Nzinga"
+  ],
+  "answer": "Yaa Asantewaa",
+  "difficulty": "medium",
+  "topic": "yaa-asantewaa"
+ },
+ {
+  "id": "hard-hist-250",
+  "prompt": "Which South Indian dynasty raided Southeast Asia by sea under Rajendra I?",
+  "choices": [
+   "Chera",
+   "Chola",
+   "Pandya",
+   "Pallava"
+  ],
+  "answer": "Chola",
+  "difficulty": "hard",
+  "topic": "chola-navy"
+ },
+ {
+  "id": "hard-hist-251",
+  "prompt": "Which astronomer discovered Uranus in 1781?",
+  "choices": [
+   "Edmond Halley",
+   "Urbain Le Verrier",
+   "William Herschel",
+   "Caroline Herschel"
+  ],
+  "answer": "William Herschel",
+  "difficulty": "easy",
+  "topic": "herschel-uranus"
+ },
+ {
+  "id": "hard-hist-252",
+  "prompt": "Which emperor's 212 edict granted citizenship to nearly all free inhabitants?",
+  "choices": [
+   "Commodus",
+   "Marcus Aurelius",
+   "Elagabalus",
+   "Caracalla"
+  ],
+  "answer": "Caracalla",
+  "difficulty": "hard",
+  "topic": "caracalla-edict"
+ },
+ {
+  "id": "hard-hist-253",
+  "prompt": "Which general commanded Britain's Eighth Army at the Second Battle of El Alamein?",
+  "choices": [
+   "Montgomery",
+   "Wavell",
+   "Slim",
+   "Auchinleck"
+  ],
+  "answer": "Montgomery",
+  "difficulty": "easy",
+  "topic": "alamein-montgomery"
+ },
+ {
+  "id": "hard-hist-254",
+  "prompt": "Which Tay Son leader defeated Qing invaders in 1789?",
+  "choices": [
+   "Ho Quy Ly",
+   "Nguyen Hue",
+   "Gia Long",
+   "Le Loi"
+  ],
+  "answer": "Nguyen Hue",
+  "difficulty": "hard",
+  "topic": "nguyen-hue"
+ },
+ {
+  "id": "hard-hist-255",
+  "prompt": "Which Scottish physicist unified electricity, magnetism and light in equations?",
+  "choices": [
+   "Lord Kelvin",
+   "Michael Faraday",
+   "James Clerk Maxwell",
+   "Heinrich Hertz"
+  ],
+  "answer": "James Clerk Maxwell",
+  "difficulty": "hard",
+  "topic": "maxwell"
+ },
+ {
+  "id": "hard-hist-256",
+  "prompt": "Which 1915 campaign saw Allied troops land on a Turkish peninsula?",
+  "choices": [
+   "Salonika",
+   "Jutland",
+   "Megiddo",
+   "Gallipoli"
+  ],
+  "answer": "Gallipoli",
+  "difficulty": "easy",
+  "topic": "gallipoli"
+ },
+ {
+  "id": "hard-hist-257",
+  "prompt": "Which 1555 agreement let German princes choose Lutheranism or Catholicism?",
+  "choices": [
+   "Peace of Augsburg",
+   "Edict of Nantes",
+   "Concordat of Worms",
+   "Peace of Westphalia"
+  ],
+  "answer": "Peace of Augsburg",
+  "difficulty": "medium",
+  "topic": "augsburg-1555"
+ },
+ {
+  "id": "hard-hist-258",
+  "prompt": "Which 1945 conference in Germany saw Truman, Stalin and Attlee meet?",
+  "choices": [
+   "Yalta",
+   "Potsdam",
+   "Quebec",
+   "Tehran"
+  ],
+  "answer": "Potsdam",
+  "difficulty": "easy",
+  "topic": "potsdam"
+ },
+ {
+  "id": "hard-hist-259",
+  "prompt": "Which leader returned from exile in 1979 to lead Iran's revolution?",
+  "choices": [
+   "Reza Pahlavi",
+   "Mohammad Mossadegh",
+   "Ayatollah Khomeini",
+   "Ali Khamenei"
+  ],
+  "answer": "Ayatollah Khomeini",
+  "difficulty": "easy",
+  "topic": "khomeini"
+ },
+ {
+  "id": "hard-hist-260",
+  "prompt": "Which Greek city founded Syracuse, Sicily's great colony?",
+  "choices": [
+   "Sparta",
+   "Megara",
+   "Athens",
+   "Corinth"
+  ],
+  "answer": "Corinth",
+  "difficulty": "medium",
+  "topic": "syracuse-founder"
+ },
+ {
+  "id": "hard-hist-261",
+  "prompt": "Which Mexican priest launched the 1810 independence uprising with the Grito de Dolores?",
+  "choices": [
+   "Miguel Hidalgo",
+   "Agustin de Iturbide",
+   "Vicente Guerrero",
+   "Jose Maria Morelos"
+  ],
+  "answer": "Miguel Hidalgo",
+  "difficulty": "medium",
+  "topic": "hidalgo"
+ },
+ {
+  "id": "hard-hist-262",
+  "prompt": "Which physicist discovered the neutron in 1932?",
+  "choices": [
+   "Ernest Rutherford",
+   "James Chadwick",
+   "Enrico Fermi",
+   "Paul Dirac"
+  ],
+  "answer": "James Chadwick",
+  "difficulty": "hard",
+  "topic": "chadwick-neutron"
+ },
+ {
+  "id": "hard-hist-263",
+  "prompt": "Which Argentine general crossed the Andes in 1817 to free Chile?",
+  "choices": [
+   "Simon Bolivar",
+   "Bernardo O'Higgins",
+   "Jose de San Martin",
+   "Antonio Sucre"
+  ],
+  "answer": "Jose de San Martin",
+  "difficulty": "medium",
+  "topic": "san-martin"
+ },
+ {
+  "id": "hard-hist-264",
+  "prompt": "Who led a Vietnamese revolt against Han China in AD 40?",
+  "choices": [
+   "Ly Thai To",
+   "Tran Hung Dao",
+   "Lac Long Quan",
+   "Trung Sisters"
+  ],
+  "answer": "Trung Sisters",
+  "difficulty": "hard",
+  "topic": "trung-sisters"
+ },
+ {
+  "id": "hard-hist-265",
+  "prompt": "Which 1688 event replaced James II with William and Mary?",
+  "choices": [
+   "Glorious Revolution",
+   "Restoration",
+   "Jacobite Rising",
+   "English Civil War"
+  ],
+  "answer": "Glorious Revolution",
+  "difficulty": "easy",
+  "topic": "glorious-revolution"
+ },
+ {
+  "id": "hard-hist-266",
+  "prompt": "Which 1917 telegram proposed a German-Mexican alliance?",
+  "choices": [
+   "Balfour Declaration",
+   "Zimmermann Telegram",
+   "Sussex Pledge",
+   "Ems Dispatch"
+  ],
+  "answer": "Zimmermann Telegram",
+  "difficulty": "medium",
+  "topic": "zimmermann"
+ },
+ {
+  "id": "hard-hist-267",
+  "prompt": "Which 1923 failed coup in Munich involved Hitler?",
+  "choices": [
+   "Kapp Putsch",
+   "Reichstag Fire",
+   "Beer Hall Putsch",
+   "Night of Long Knives"
+  ],
+  "answer": "Beer Hall Putsch",
+  "difficulty": "easy",
+  "topic": "beer-hall"
+ },
+ {
+  "id": "hard-hist-268",
+  "prompt": "Which Mongol khan founded the Ilkhanate in Persia?",
+  "choices": [
+   "Ogedei",
+   "Batu",
+   "Berke",
+   "Hulagu"
+  ],
+  "answer": "Hulagu",
+  "difficulty": "medium",
+  "topic": "ilkhanate-hulagu"
+ },
+ {
+  "id": "hard-hist-269",
+  "prompt": "Which 1900 uprising in China targeted foreigners and was crushed by an eight-nation force?",
+  "choices": [
+   "Boxer Rebellion",
+   "Taiping Rebellion",
+   "Wuchang Uprising",
+   "Panthay Rebellion"
+  ],
+  "answer": "Boxer Rebellion",
+  "difficulty": "easy",
+  "topic": "boxer"
+ },
+ {
+  "id": "hard-hist-270",
+  "prompt": "Which Japanese city was hit by the second atomic bomb, in 1945?",
+  "choices": [
+   "Kokura",
+   "Nagasaki",
+   "Kyoto",
+   "Osaka"
+  ],
+  "answer": "Nagasaki",
+  "difficulty": "easy",
+  "topic": "nagasaki"
+ },
+ {
+  "id": "hard-hist-271",
+  "prompt": "Which king of Kongo converted to Christianity and took the name Afonso I?",
+  "choices": [
+   "Garcia II",
+   "Njinga",
+   "Nzinga Mbemba",
+   "Nzinga a Nkuwu"
+  ],
+  "answer": "Nzinga Mbemba",
+  "difficulty": "hard",
+  "topic": "afonso-kongo"
+ },
+ {
+  "id": "hard-hist-272",
+  "prompt": "Which English scientist coined the word 'cell' after viewing cork?",
+  "choices": [
+   "Marcello Malpighi",
+   "Antonie van Leeuwenhoek",
+   "Isaac Newton",
+   "Robert Hooke"
+  ],
+  "answer": "Robert Hooke",
+  "difficulty": "hard",
+  "topic": "hooke-cell"
+ },
+ {
+  "id": "hard-hist-273",
+  "prompt": "Kublai Khan's forces ended which Chinese dynasty in 1279?",
+  "choices": [
+   "Southern Song",
+   "Tang",
+   "Liao",
+   "Ming"
+  ],
+  "answer": "Southern Song",
+  "difficulty": "medium",
+  "topic": "southern-song-end"
+ },
+ {
+  "id": "hard-hist-274",
+  "prompt": "Which Norse king was defeated at Stamford Bridge in 1066?",
+  "choices": [
+   "Sweyn Forkbeard",
+   "Harald Hardrada",
+   "Olaf Tryggvason",
+   "Cnut the Great"
+  ],
+  "answer": "Harald Hardrada",
+  "difficulty": "medium",
+  "topic": "stamford-bridge"
+ },
+ {
+  "id": "hard-hist-275",
+  "prompt": "Which Russian empress expanded Russia, ruling 1762-1796?",
+  "choices": [
+   "Catherine I",
+   "Anna Ivanovna",
+   "Catherine the Great",
+   "Elizabeth Petrovna"
+  ],
+  "answer": "Catherine the Great",
+  "difficulty": "easy",
+  "topic": "catherine-great"
+ },
+ {
+  "id": "hard-hist-276",
+  "prompt": "Which Boer republic was led by Paul Kruger?",
+  "choices": [
+   "Orange Free State",
+   "Griqualand",
+   "Natal",
+   "Transvaal"
+  ],
+  "answer": "Transvaal",
+  "difficulty": "medium",
+  "topic": "kruger-transvaal"
+ },
+ {
+  "id": "hard-hist-277",
+  "prompt": "Which Holy Roman Emperor stood barefoot at Canossa in 1077?",
+  "choices": [
+   "Henry IV",
+   "Henry V",
+   "Frederick Barbarossa",
+   "Otto I"
+  ],
+  "answer": "Henry IV",
+  "difficulty": "medium",
+  "topic": "canossa-henry-iv"
+ },
+ {
+  "id": "hard-hist-278",
+  "prompt": "Which Aksumite king converted to Christianity in the 4th century?",
+  "choices": [
+   "Menelik I",
+   "Ezana",
+   "Kaleb",
+   "Lalibela"
+  ],
+  "answer": "Ezana",
+  "difficulty": "medium",
+  "topic": "ezana"
+ },
+ {
+  "id": "hard-hist-279",
+  "prompt": "Which Portuguese commander captured Malacca in 1511?",
+  "choices": [
+   "Francisco de Almeida",
+   "Vasco da Gama",
+   "Afonso de Albuquerque",
+   "Pedro Cabral"
+  ],
+  "answer": "Afonso de Albuquerque",
+  "difficulty": "hard",
+  "topic": "albuquerque-malacca"
+ },
+ {
+  "id": "hard-hist-280",
+  "prompt": "Which 1314 battle won Scotland's independence under Robert the Bruce?",
+  "choices": [
+   "Culloden",
+   "Flodden",
+   "Falkirk",
+   "Bannockburn"
+  ],
+  "answer": "Bannockburn",
+  "difficulty": "easy",
+  "topic": "bannockburn"
+ },
+ {
+  "id": "hard-hist-281",
+  "prompt": "Which New Zealand physicist proposed the nuclear model of the atom in 1911?",
+  "choices": [
+   "Ernest Rutherford",
+   "Niels Bohr",
+   "J. J. Thomson",
+   "James Chadwick"
+  ],
+  "answer": "Ernest Rutherford",
+  "difficulty": "hard",
+  "topic": "rutherford-nucleus"
+ },
+ {
+  "id": "hard-hist-282",
+  "prompt": "Which Moscow prince defeated the Golden Horde at Kulikovo in 1380?",
+  "choices": [
+   "Alexander Nevsky",
+   "Dmitry Donskoy",
+   "Ivan Kalita",
+   "Ivan III"
+  ],
+  "answer": "Dmitry Donskoy",
+  "difficulty": "medium",
+  "topic": "kulikovo"
+ },
+ {
+  "id": "hard-hist-283",
+  "prompt": "Which British surgeon pioneered antiseptic surgery using carbolic acid?",
+  "choices": [
+   "John Snow",
+   "Edward Jenner",
+   "Joseph Lister",
+   "Ignaz Semmelweis"
+  ],
+  "answer": "Joseph Lister",
+  "difficulty": "easy",
+  "topic": "lister"
+ },
+ {
+  "id": "hard-hist-284",
+  "prompt": "Which maritime empire based on Sumatra controlled Malacca Strait trade from the 7th century?",
+  "choices": [
+   "Majapahit",
+   "Champa",
+   "Pagan",
+   "Srivijaya"
+  ],
+  "answer": "Srivijaya",
+  "difficulty": "medium",
+  "topic": "srivijaya"
+ },
+ {
+  "id": "hard-hist-285",
+  "prompt": "Which 1410 battle saw Poland-Lithuania crush the Teutonic Knights?",
+  "choices": [
+   "Grunwald",
+   "Mohi",
+   "Legnica",
+   "Warsaw"
+  ],
+  "answer": "Grunwald",
+  "difficulty": "medium",
+  "topic": "grunwald"
+ },
+ {
+  "id": "hard-hist-286",
+  "prompt": "Which Sasanian king captured the Roman emperor Valerian in 260?",
+  "choices": [
+   "Bahram II",
+   "Shapur I",
+   "Khosrow I",
+   "Ardashir I"
+  ],
+  "answer": "Shapur I",
+  "difficulty": "hard",
+  "topic": "shapur-valerian"
+ },
+ {
+  "id": "hard-hist-287",
+  "prompt": "Which Inca ruler expanded Tawantinsuyu and rebuilt Cusco, c.1438?",
+  "choices": [
+   "Manco Capac",
+   "Huayna Capac",
+   "Pachacuti",
+   "Atahualpa"
+  ],
+  "answer": "Pachacuti",
+  "difficulty": "medium",
+  "topic": "pachacuti"
+ },
+ {
+  "id": "hard-hist-288",
+  "prompt": "Which dynasty followed the Qin in China?",
+  "choices": [
+   "Shang",
+   "Zhou",
+   "Tang",
+   "Han"
+  ],
+  "answer": "Han",
+  "difficulty": "easy",
+  "topic": "han-after-qin"
+ },
+ {
+  "id": "hard-hist-289",
+  "prompt": "Which Austrian statesman dominated the Congress of Vienna?",
+  "choices": [
+   "Metternich",
+   "Talleyrand",
+   "Castlereagh",
+   "Bismarck"
+  ],
+  "answer": "Metternich",
+  "difficulty": "easy",
+  "topic": "metternich"
+ },
+ {
+  "id": "hard-hist-290",
+  "prompt": "What dynasty name did Empress Wu Zetian proclaim in 690?",
+  "choices": [
+   "Tang",
+   "Zhou",
+   "Sui",
+   "Liang"
+  ],
+  "answer": "Zhou",
+  "difficulty": "hard",
+  "topic": "wu-zetian-zhou"
+ },
+ {
+  "id": "hard-hist-291",
+  "prompt": "Which Inca ruler led the 1536 rebellion against the Spanish?",
+  "choices": [
+   "Tupac Amaru",
+   "Atahualpa",
+   "Manco Inca",
+   "Huascar"
+  ],
+  "answer": "Manco Inca",
+  "difficulty": "medium",
+  "topic": "manco-inca"
+ },
+ {
+  "id": "hard-hist-292",
+  "prompt": "Which English uprising of 1381 was led by Wat Tyler?",
+  "choices": [
+   "Jack Cade's Rebellion",
+   "Monmouth Rebellion",
+   "Pilgrimage of Grace",
+   "Peasants' Revolt"
+  ],
+  "answer": "Peasants' Revolt",
+  "difficulty": "easy",
+  "topic": "wat-tyler"
+ },
+ {
+  "id": "hard-hist-293",
+  "prompt": "Which Swedish botanist devised binomial naming of species?",
+  "choices": [
+   "Carl Linnaeus",
+   "Joseph Banks",
+   "Georges Cuvier",
+   "Gregor Mendel"
+  ],
+  "answer": "Carl Linnaeus",
+  "difficulty": "medium",
+  "topic": "linnaeus"
+ },
+ {
+  "id": "hard-hist-294",
+  "prompt": "Which of China's Three Kingdoms was founded by Cao Pi?",
+  "choices": [
+   "Jin",
+   "Wei",
+   "Wu",
+   "Shu"
+  ],
+  "answer": "Wei",
+  "difficulty": "medium",
+  "topic": "three-kingdoms-wei"
+ },
+ {
+  "id": "hard-hist-295",
+  "prompt": "Which 1850-64 rebellion in China was led by Hong Xiuquan?",
+  "choices": [
+   "White Lotus Rebellion",
+   "Nian Rebellion",
+   "Taiping Rebellion",
+   "Boxer Rebellion"
+  ],
+  "answer": "Taiping Rebellion",
+  "difficulty": "medium",
+  "topic": "taiping"
+ },
+ {
+  "id": "hard-hist-296",
+  "prompt": "Which German physicist first produced radio waves in the lab in the 1880s?",
+  "choices": [
+   "Nikola Tesla",
+   "Ferdinand Braun",
+   "Guglielmo Marconi",
+   "Heinrich Hertz"
+  ],
+  "answer": "Heinrich Hertz",
+  "difficulty": "medium",
+  "topic": "hertz"
+ },
+ {
+  "id": "hard-hist-297",
+  "prompt": "Which treaty of 843 divided Charlemagne's empire among his grandsons?",
+  "choices": [
+   "Treaty of Verdun",
+   "Treaty of Tordesillas",
+   "Treaty of Meersen",
+   "Treaty of Troyes"
+  ],
+  "answer": "Treaty of Verdun",
+  "difficulty": "hard",
+  "topic": "verdun-843"
+ },
+ {
+  "id": "hard-hist-298",
+  "prompt": "Which navigator reached Brazil in 1500 for Portugal?",
+  "choices": [
+   "Vasco da Gama",
+   "Pedro Alvares Cabral",
+   "Afonso de Albuquerque",
+   "Bartolomeu Dias"
+  ],
+  "answer": "Pedro Alvares Cabral",
+  "difficulty": "easy",
+  "topic": "cabral-brazil"
+ },
+ {
+  "id": "hard-hist-299",
+  "prompt": "Which clan defeated the Taira at Dan-no-ura in 1185?",
+  "choices": [
+   "Tokugawa",
+   "Hojo",
+   "Minamoto",
+   "Fujiwara"
+  ],
+  "answer": "Minamoto",
+  "difficulty": "medium",
+  "topic": "dan-no-ura"
+ },
+ {
+  "id": "hard-hist-300",
+  "prompt": "Which 1905 treaty, mediated by Theodore Roosevelt, ended the Russo-Japanese War?",
+  "choices": [
+   "Treaty of Versailles",
+   "Treaty of Shimonoseki",
+   "Treaty of Nanking",
+   "Treaty of Portsmouth"
+  ],
+  "answer": "Treaty of Portsmouth",
+  "difficulty": "medium",
+  "topic": "portsmouth"
+ },
+ {
+  "id": "hard-hist-301",
+  "prompt": "Which British commander won the Battle of Omdurman in 1898?",
+  "choices": [
+   "Kitchener",
+   "Roberts",
+   "Wolseley",
+   "Gordon"
+  ],
+  "answer": "Kitchener",
+  "difficulty": "medium",
+  "topic": "omdurman"
+ },
+ {
+  "id": "hard-hist-302",
+  "prompt": "Which Frankish ruler won the Battle of Tours in 732?",
+  "choices": [
+   "Charlemagne",
+   "Charles Martel",
+   "Pepin the Short",
+   "Clovis I"
+  ],
+  "answer": "Charles Martel",
+  "difficulty": "medium",
+  "topic": "charles-martel-tours"
+ },
+ {
+  "id": "hard-hist-303",
+  "prompt": "Which eastern Roman emperor died at Adrianople in AD 378?",
+  "choices": [
+   "Theodosius I",
+   "Valentinian I",
+   "Valens",
+   "Julian"
+  ],
+  "answer": "Valens",
+  "difficulty": "hard",
+  "topic": "valens-adrianople"
+ },
+ {
+  "id": "hard-hist-304",
+  "prompt": "Which Zapotec city on a mountaintop near Oaxaca was a major capital?",
+  "choices": [
+   "Mitla",
+   "Teotihuacan",
+   "Tikal",
+   "Monte Alban"
+  ],
+  "answer": "Monte Alban",
+  "difficulty": "hard",
+  "topic": "monte-alban"
+ },
+ {
+  "id": "hard-hist-305",
+  "prompt": "Soviet tanks crushed a 1956 revolution in which country?",
+  "choices": [
+   "Hungary",
+   "Poland",
+   "East Germany",
+   "Czechoslovakia"
+  ],
+  "answer": "Hungary",
+  "difficulty": "medium",
+  "topic": "hungary-1956"
+ },
+ {
+  "id": "hard-hist-306",
+  "prompt": "Under which dynasty was the Grand Canal first joined into one system?",
+  "choices": [
+   "Song",
+   "Sui",
+   "Tang",
+   "Han"
+  ],
+  "answer": "Sui",
+  "difficulty": "medium",
+  "topic": "sui-grand-canal"
+ },
+ {
+  "id": "hard-hist-307",
+  "prompt": "Which Hungarian doctor urged handwashing to prevent childbed fever in the 1840s?",
+  "choices": [
+   "Robert Koch",
+   "Joseph Lister",
+   "Ignaz Semmelweis",
+   "Louis Pasteur"
+  ],
+  "answer": "Ignaz Semmelweis",
+  "difficulty": "medium",
+  "topic": "semmelweis"
+ },
+ {
+  "id": "hard-hist-308",
+  "prompt": "Which 1713 treaty ended the War of the Spanish Succession?",
+  "choices": [
+   "Treaty of Ryswick",
+   "Treaty of Paris",
+   "Treaty of Nystad",
+   "Treaty of Utrecht"
+  ],
+  "answer": "Treaty of Utrecht",
+  "difficulty": "medium",
+  "topic": "utrecht"
+ },
+ {
+  "id": "hard-hist-309",
+  "prompt": "Which Norman duke won the Battle of Hastings in 1066?",
+  "choices": [
+   "William the Conqueror",
+   "Richard the Lionheart",
+   "Robert Curthose",
+   "Harold Godwinson"
+  ],
+  "answer": "William the Conqueror",
+  "difficulty": "easy",
+  "topic": "hastings-william"
+ },
+ {
+  "id": "hard-hist-310",
+  "prompt": "Which astronomer showed in the 1920s that other galaxies exist beyond ours?",
+  "choices": [
+   "Harlow Shapley",
+   "Edwin Hubble",
+   "Fred Hoyle",
+   "Carl Sagan"
+  ],
+  "answer": "Edwin Hubble",
+  "difficulty": "easy",
+  "topic": "hubble-galaxies"
+ },
+ {
+  "id": "hard-hist-311",
+  "prompt": "In 1853 Commodore Perry's ships entered which Japanese bay?",
+  "choices": [
+   "Kagoshima Bay",
+   "Osaka Bay",
+   "Edo Bay",
+   "Nagasaki Bay"
+  ],
+  "answer": "Edo Bay",
+  "difficulty": "easy",
+  "topic": "perry-edo-bay"
+ },
+ {
+  "id": "hard-hist-312",
+  "prompt": "Which dynasty replaced the Parthians as rulers of Persia in AD 224?",
+  "choices": [
+   "Safavid",
+   "Seleucid",
+   "Achaemenid",
+   "Sasanian"
+  ],
+  "answer": "Sasanian",
+  "difficulty": "medium",
+  "topic": "sasanian-founding"
+ },
+ {
+  "id": "hard-hist-313",
+  "prompt": "Which 1813 \"Battle of the Nations\" in Saxony defeated Napoleon?",
+  "choices": [
+   "Leipzig",
+   "Lutzen",
+   "Wagram",
+   "Dresden"
+  ],
+  "answer": "Leipzig",
+  "difficulty": "medium",
+  "topic": "leipzig"
+ },
+ {
+  "id": "hard-hist-314",
+  "prompt": "Which Byzantine emperor, called the Bulgar-Slayer, died in 1025?",
+  "choices": [
+   "Heraclius",
+   "Basil II",
+   "Nikephoros II",
+   "Alexios I"
+  ],
+  "answer": "Basil II",
+  "difficulty": "hard",
+  "topic": "basil-ii"
+ },
+ {
+  "id": "hard-hist-315",
+  "prompt": "Which Ottoman sultan conquered Mamluk Egypt in 1517?",
+  "choices": [
+   "Murad II",
+   "Mehmed II",
+   "Selim I",
+   "Suleiman I"
+  ],
+  "answer": "Selim I",
+  "difficulty": "medium",
+  "topic": "selim-egypt"
+ }
+]

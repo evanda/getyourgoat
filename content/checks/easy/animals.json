@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "easy-anim-001",
+    "pick": "kid",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-002",
+    "pick": "puppy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-003",
+    "pick": "kitten",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-004",
+    "pick": "calf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-005",
+    "pick": "foal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-006",
+    "pick": "lamb",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-007",
+    "pick": "piglet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-008",
+    "pick": "chick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-009",
+    "pick": "duckling",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-010",
+    "pick": "tadpole",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-011",
+    "pick": "joey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-012",
+    "pick": "cub",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-013",
+    "pick": "cub",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-014",
+    "pick": "fawn",
+    "confidence": "medium",
+    "problem": "\"calf\" is also correct for young of larger deer (moose, elk, red deer)"
+  },
+  {
+    "id": "easy-anim-015",
+    "pick": "cygnet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-016",
+    "pick": "gosling",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-017",
+    "pick": "caterpillar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-018",
+    "pick": "calf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-019",
+    "pick": "owlet",
+    "confidence": "medium",
+    "problem": "\"chick\" is also a correct term for a baby owl; prompt also says \"an what\""
+  },
+  {
+    "id": "easy-anim-020",
+    "pick": "pup",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-021",
+    "pick": "chick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-022",
+    "pick": "calf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-023",
+    "pick": "joey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-024",
+    "pick": "fry",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-025",
+    "pick": "foal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-026",
+    "pick": "pride",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-027",
+    "pick": "pack",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-028",
+    "pick": "school",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-029",
+    "pick": "herd",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-030",
+    "pick": "flock",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-031",
+    "pick": "herd",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-032",
+    "pick": "pod",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-033",
+    "pick": "parliament",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-034",
+    "pick": "colony",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-035",
+    "pick": "litter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-036",
+    "pick": "cow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-037",
+    "pick": "duck",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-038",
+    "pick": "pig",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-039",
+    "pick": "frog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-040",
+    "pick": "cat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-041",
+    "pick": "dog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-042",
+    "pick": "owl",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-043",
+    "pick": "horse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-044",
+    "pick": "hen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-045",
+    "pick": "bee",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-046",
+    "pick": "lion",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-047",
+    "pick": "baa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-048",
+    "pick": "bleat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-049",
+    "pick": "wolf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-050",
+    "pick": "donkey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-051",
+    "pick": "snake",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-052",
+    "pick": "trumpet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-053",
+    "pick": "crow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-054",
+    "pick": "turkey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-055",
+    "pick": "mouse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-056",
+    "pick": "cricket",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-057",
+    "pick": "rooster",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-058",
+    "pick": "lioness",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-059",
+    "pick": "ram",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-060",
+    "pick": "mare",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-061",
+    "pick": "billy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-062",
+    "pick": "nanny",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-063",
+    "pick": "parrot",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-064",
+    "pick": "goldfish",
+    "confidence": "medium",
+    "problem": "Goldfish bowls are considered poor husbandry; goldfish need a filtered tank"
+  },
+  {
+    "id": "easy-anim-065",
+    "pick": "hamster",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-066",
+    "pick": "dog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-067",
+    "pick": "purr",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-068",
+    "pick": "tail",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-069",
+    "pick": "border collie",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-070",
+    "pick": "wolf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-071",
+    "pick": "rabbit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-072",
+    "pick": "sheep",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-073",
+    "pick": "chicken",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-074",
+    "pick": "eggs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-075",
+    "pick": "snail",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-076",
+    "pick": "pig",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-077",
+    "pick": "reindeer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-078",
+    "pick": "bamboo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-079",
+    "pick": "eucalyptus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-080",
+    "pick": "grass",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-081",
+    "pick": "carrots",
+    "confidence": "medium",
+    "problem": "Popular myth: rabbits should eat mostly hay and greens; carrots are an occasional sugary treat"
+  },
+  {
+    "id": "easy-anim-082",
+    "pick": "tall trees",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-083",
+    "pick": "ants",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-084",
+    "pick": "meat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-085",
+    "pick": "herbivore",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-086",
+    "pick": "carnivores",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-087",
+    "pick": "omnivores",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-088",
+    "pick": "honey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-089",
+    "pick": "hay",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-090",
+    "pick": "nectar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-091",
+    "pick": "leaves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-092",
+    "pick": "fish",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-093",
+    "pick": "nuts",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-094",
+    "pick": "plants",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-095",
+    "pick": "insects",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-096",
+    "pick": "the Arctic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-097",
+    "pick": "Antarctica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-098",
+    "pick": "desert",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-099",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-100",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-101",
+    "pick": "Africa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-102",
+    "pick": "water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-103",
+    "pick": "hive",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-104",
+    "pick": "nest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-105",
+    "pick": "burrow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-106",
+    "pick": "den",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-107",
+    "pick": "rivers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-108",
+    "pick": "hibernation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-109",
+    "pick": "migrating",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-110",
+    "pick": "rainforests",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-111",
+    "pick": "dolphin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-112",
+    "pick": "camel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-113",
+    "pick": "mountains",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-114",
+    "pick": "South America",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-115",
+    "pick": "Madagascar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-116",
+    "pick": "sloth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-117",
+    "pick": "night",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-118",
+    "pick": "nocturnal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-119",
+    "pick": "bat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-120",
+    "pick": "mammals",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-121",
+    "pick": "mammals",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-122",
+    "pick": "reptiles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-123",
+    "pick": "amphibians",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-124",
+    "pick": "bird",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-125",
+    "pick": "birds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-126",
+    "pick": "8",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-127",
+    "pick": "6",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-128",
+    "pick": "arachnids",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-129",
+    "pick": "reptile",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-130",
+    "pick": "insects",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-131",
+    "pick": "beetle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-132",
+    "pick": "milk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-133",
+    "pick": "feathers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-134",
+    "pick": "gills",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-135",
+    "pick": "scales",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-136",
+    "pick": "platypus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-137",
+    "pick": "pouch",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-138",
+    "pick": "ant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-139",
+    "pick": "lizard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-140",
+    "pick": "penguin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-141",
+    "pick": "fish",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-142",
+    "pick": "fish",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-143",
+    "pick": "rodents",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-144",
+    "pick": "marsupials",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-145",
+    "pick": "blue whale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-146",
+    "pick": "cheetah",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-147",
+    "pick": "giraffe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-148",
+    "pick": "elephant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-149",
+    "pick": "ostrich",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-150",
+    "pick": "hummingbird",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-151",
+    "pick": "peregrine falcon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-152",
+    "pick": "whale shark",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-153",
+    "pick": "giraffe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-154",
+    "pick": "saltwater crocodile",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-155",
+    "pick": "tiger",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-156",
+    "pick": "gorilla",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-157",
+    "pick": "elephant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-158",
+    "pick": "frog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-159",
+    "pick": "butterfly",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-160",
+    "pick": "pupa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-161",
+    "pick": "beach",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-162",
+    "pick": "eggs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-163",
+    "pick": "T. rex",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-164",
+    "pick": "three",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-165",
+    "pick": "Stegosaurus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-166",
+    "pick": "Brachiosaurus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-167",
+    "pick": "stone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-168",
+    "pick": "paleontologist",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-169",
+    "pick": "birds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-170",
+    "pick": "elephant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-171",
+    "pick": "trunk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-172",
+    "pick": "zebra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-173",
+    "pick": "tiger",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-174",
+    "pick": "lion",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-175",
+    "pick": "mane",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-176",
+    "pick": "humps",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-177",
+    "pick": "rhino",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-178",
+    "pick": "8",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-179",
+    "pick": "3",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-180",
+    "pick": "chameleon",
+    "confidence": "medium",
+    "problem": "Some geckos (and to a degree iguanas) can also change color; \"gecko\" is arguable"
+  },
+  {
+    "id": "easy-anim-181",
+    "pick": "quills",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-182",
+    "pick": "skunk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-183",
+    "pick": "flamingo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-184",
+    "pick": "toucan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-185",
+    "pick": "peacock",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-186",
+    "pick": "woodpecker",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-187",
+    "pick": "webbed",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-188",
+    "pick": "rectangles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-189",
+    "pick": "four",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-190",
+    "pick": "mountains",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-191",
+    "pick": "hooves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-192",
+    "pick": "goat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-193",
+    "pick": "horns",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-194",
+    "pick": "beard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-195",
+    "pick": "dance",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-196",
+    "pick": "queen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-197",
+    "pick": "silk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-198",
+    "pick": "firefly",
+    "confidence": "medium",
+    "problem": "Fireflies are beetles, so \"beetle\" is technically also correct"
+  },
+  {
+    "id": "easy-anim-199",
+    "pick": "wings",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-200",
+    "pick": "feet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-201",
+    "pick": "ink",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-202",
+    "pick": "blowhole",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-203",
+    "pick": "sea otter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-204",
+    "pick": "sideways",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-205",
+    "pick": "swimming",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-206",
+    "pick": "kiwi",
+    "confidence": "medium",
+    "problem": "New Zealand's kakapo is a flightless parrot, so \"parrot\" is also defensible"
+  },
+  {
+    "id": "easy-anim-207",
+    "pick": "smell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-208",
+    "pick": "hippo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-209",
+    "pick": "seven",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-210",
+    "pick": "hopping",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-211",
+    "pick": "white",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-212",
+    "pick": "hedgehog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-213",
+    "pick": "mole",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-214",
+    "pick": "teeth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-215",
+    "pick": "tongue",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-216",
+    "pick": "skin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-217",
+    "pick": "songs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-218",
+    "pick": "krill",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-219",
+    "pick": "dad",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-220",
+    "pick": "starfish",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-221",
+    "pick": "narwhal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-222",
+    "pick": "walrus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-223",
+    "pick": "sea anemones",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-224",
+    "pick": "llama",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-225",
+    "pick": "dove",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-226",
+    "pick": "ostrich",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-227",
+    "pick": "grasshopper",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-228",
+    "pick": "snail",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-229",
+    "pick": "pollen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-230",
+    "pick": "soil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-231",
+    "pick": "4",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-232",
+    "pick": "2",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-233",
+    "pick": "4",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-234",
+    "pick": "milk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-235",
+    "pick": "horse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-236",
+    "pick": "hooves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-237",
+    "pick": "whiskers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-238",
+    "pick": "beak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-239",
+    "pick": "swan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-240",
+    "pick": "pelican",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-241",
+    "pick": "V",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-242",
+    "pick": "warm",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-243",
+    "pick": "fins",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-244",
+    "pick": "tentacles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-245",
+    "pick": "reef",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-246",
+    "pick": "caves",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-247",
+    "pick": "pond",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-248",
+    "pick": "savanna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-249",
+    "pick": "home",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-250",
+    "pick": "camouflage",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-251",
+    "pick": "extinct",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-252",
+    "pick": "animals",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-253",
+    "pick": "coop",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-254",
+    "pick": "kennel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-255",
+    "pick": "aquarium",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-256",
+    "pick": "zoo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-257",
+    "pick": "swarm",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-258",
+    "pick": "troop",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-259",
+    "pick": "ibex",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-260",
+    "pick": "horse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-261",
+    "pick": "fox",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-262",
+    "pick": "seal",
+    "confidence": "medium",
+    "problem": "Barking is really a sea lion trait; true seals grunt and growl rather than bark"
+  },
+  {
+    "id": "easy-anim-263",
+    "pick": "cheetah",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-264",
+    "pick": "echoes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-265",
+    "pick": "turtle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-266",
+    "pick": "salmon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-267",
+    "pick": "pufferfish",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-268",
+    "pick": "bird",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-269",
+    "pick": "rooster",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-270",
+    "pick": "goose",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-271",
+    "pick": "dolphin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-272",
+    "pick": "monkey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-273",
+    "pick": "Ankylosaurus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-274",
+    "pick": "lizard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-275",
+    "pick": "dragonfly",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-276",
+    "pick": "antennae",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-277",
+    "pick": "3",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-278",
+    "pick": "termite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-279",
+    "pick": "ants",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-280",
+    "pick": "mosquito",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-281",
+    "pick": "nectar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-282",
+    "pick": "dog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-283",
+    "pick": "dog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-284",
+    "pick": "pig",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-285",
+    "pick": "4",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-286",
+    "pick": "elephant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-287",
+    "pick": "monkey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-288",
+    "pick": "ostrich",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-289",
+    "pick": "tall grass",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-290",
+    "pick": "jellybean",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-291",
+    "pick": "eagle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-292",
+    "pick": "owl",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-293",
+    "pick": "lion",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-294",
+    "pick": "bat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-295",
+    "pick": "cat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-296",
+    "pick": "octopus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-297",
+    "pick": "silkworm",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-298",
+    "pick": "anteater",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-299",
+    "pick": "moose",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-300",
+    "pick": "camel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-301",
+    "pick": "cud",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-302",
+    "pick": "yak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-303",
+    "pick": "horse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-304",
+    "pick": "warthog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-305",
+    "pick": "snake",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-306",
+    "pick": "hexagons",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-307",
+    "pick": "hyena",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-308",
+    "pick": "kookaburra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-309",
+    "pick": "orangutan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-310",
+    "pick": "standing up",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-311",
+    "pick": "gecko",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-312",
+    "pick": "cobra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-313",
+    "pick": "tortoise",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-314",
+    "pick": "moose",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-anim-315",
+    "pick": "dolphin",
+    "confidence": "high",
+    "problem": null
+  }
+]

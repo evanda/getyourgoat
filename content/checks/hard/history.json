@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "hard-hist-001",
+    "pick": "Richard III",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-002",
+    "pick": "Harun al-Rashid",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-003",
+    "pick": "Saratoga",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-004",
+    "pick": "Michael Faraday",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-005",
+    "pick": "Chaeronea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-006",
+    "pick": "Fourth Crusade",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-007",
+    "pick": "Henry the Navigator",
+    "confidence": "high",
+    "problem": "Prompt says 'nicknamed the Navigator' and the choice is 'Henry the Navigator': gives the answer away"
+  },
+  {
+    "id": "hard-hist-008",
+    "pick": "Antoine Lavoisier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-009",
+    "pick": "Solidarity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-010",
+    "pick": "Antonie van Leeuwenhoek",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-011",
+    "pick": "Johannes Kepler",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-012",
+    "pick": "Liu Bang",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-013",
+    "pick": "Murasaki Shikibu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-014",
+    "pick": "Ankara",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-015",
+    "pick": "Juan Ponce de Leon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-016",
+    "pick": "Battle of Britain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-017",
+    "pick": "539 BC",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-018",
+    "pick": "Verdun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-019",
+    "pick": "Tariq ibn Ziyad",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-020",
+    "pick": "Austerlitz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-021",
+    "pick": "Sekigahara",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-022",
+    "pick": "Maria Theresa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-023",
+    "pick": "The Moche",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-024",
+    "pick": "Clyde Tombaugh",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-025",
+    "pick": "Acts of Union",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-026",
+    "pick": "Tewodros II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-027",
+    "pick": "Treaty of Brest-Litovsk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-028",
+    "pick": "Jutland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-029",
+    "pick": "Akbar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-030",
+    "pick": "Crimean War",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-031",
+    "pick": "Sher Shah Suri",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-032",
+    "pick": "Dutch East India Company",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-033",
+    "pick": "Tran Hung Dao",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-034",
+    "pick": "Legnica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-035",
+    "pick": "Epaminondas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-036",
+    "pick": "Hernando de Soto",
+    "confidence": "medium",
+    "problem": "'First across the Mississippi' is shaky: Narvaez survivors (incl. Cabeza de Vaca) passed the river's mouth by boat in 1528"
+  },
+  {
+    "id": "hard-hist-037",
+    "pick": "Abdulmejid I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-038",
+    "pick": "Theodosius I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-039",
+    "pick": "Ashoka",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-040",
+    "pick": "Edmond Halley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-041",
+    "pick": "Thomas Becket",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-042",
+    "pick": "Tipu Sultan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-043",
+    "pick": "Christiaan Huygens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-044",
+    "pick": "Richard I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-045",
+    "pick": "William Harvey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-046",
+    "pick": "Widukind",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-047",
+    "pick": "Athens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-048",
+    "pick": "Treaty of Trianon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-049",
+    "pick": "Kutuzov",
+    "confidence": "medium",
+    "problem": "Barclay de Tolly and Bagration also fought (held commands) at Borodino; only Kutuzov was commander-in-chief, prompt doesn't say 'commanded'"
+  },
+  {
+    "id": "hard-hist-050",
+    "pick": "France",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-051",
+    "pick": "William the Conqueror",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-052",
+    "pick": "Alexander II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-053",
+    "pick": "Ivan III",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-054",
+    "pick": "Edict of Nantes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-055",
+    "pick": "Romulus Augustulus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-056",
+    "pick": "Abd al-Rahman I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-057",
+    "pick": "Majapahit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-058",
+    "pick": "Gupta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-059",
+    "pick": "Mafeking",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-060",
+    "pick": "Alexander Nevsky",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-061",
+    "pick": "Nadir Shah",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-062",
+    "pick": "Cnut the Great",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-063",
+    "pick": "Diponegoro",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-064",
+    "pick": "Rodrigo Diaz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-065",
+    "pick": "Tiwanaku",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-066",
+    "pick": "Franklin expedition",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-067",
+    "pick": "Ayacucho",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-068",
+    "pick": "Yorktown",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-069",
+    "pick": "Alfred the Great",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-070",
+    "pick": "Yalta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-071",
+    "pick": "Ernest Shackleton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-072",
+    "pick": "Justinian I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-073",
+    "pick": "Edict of Fontainebleau",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-074",
+    "pick": "Wars of the Roses",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-075",
+    "pick": "Vijayanagara Empire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-076",
+    "pick": "Alessandro Volta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-077",
+    "pick": "Babur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-078",
+    "pick": "Treaty of Karlowitz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-079",
+    "pick": "Treaty of Nanking",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-080",
+    "pick": "Robespierre",
+    "confidence": "medium",
+    "problem": "Committee of Public Safety had no formal leader; Robespierre was its most prominent member, an oversimplification experts may flag"
+  },
+  {
+    "id": "hard-hist-081",
+    "pick": "Muhammad Ali",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-082",
+    "pick": "Balfour Declaration",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-083",
+    "pick": "Seleucus I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-084",
+    "pick": "Talas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-085",
+    "pick": "1822",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-086",
+    "pick": "Cavour",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-087",
+    "pick": "Molotov-Ribbentrop Pact",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-088",
+    "pick": "Sun Yat-sen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-089",
+    "pick": "J. J. Thomson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-090",
+    "pick": "Haile Selassie",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-091",
+    "pick": "July Revolution",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-092",
+    "pick": "Batu Khan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-093",
+    "pick": "Tome de Sousa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-094",
+    "pick": "Ashurbanipal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-095",
+    "pick": "Jan Hus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-096",
+    "pick": "Mao Zedong",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-097",
+    "pick": "Sykes-Picot Agreement",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-098",
+    "pick": "Berlin Airlift",
+    "confidence": "high",
+    "problem": "Distractors are all military operations; 'by air' makes Berlin Airlift trivially obvious"
+  },
+  {
+    "id": "hard-hist-099",
+    "pick": "Poland-Lithuania",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-100",
+    "pick": "NATO",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-101",
+    "pick": "Treaty of Paris",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-102",
+    "pick": "Jan van Riebeeck",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-103",
+    "pick": "Muhammad bin Tughluq",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-104",
+    "pick": "Erwin Rommel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-105",
+    "pick": "Kellogg-Briand Pact",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-106",
+    "pick": "Claudius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-107",
+    "pick": "Max Planck",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-108",
+    "pick": "Crecy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-109",
+    "pick": "Mohacs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-110",
+    "pick": "John II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-111",
+    "pick": "Agojie",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-112",
+    "pick": "Augustus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-113",
+    "pick": "Marshall Plan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-114",
+    "pick": "Hans Christian Oersted",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-115",
+    "pick": "Ogedei",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-116",
+    "pick": "David Livingstone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-117",
+    "pick": "Robert Koch",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-118",
+    "pick": "Tannenberg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-119",
+    "pick": "Warsaw Pact",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-120",
+    "pick": "Spanish Civil War",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-121",
+    "pick": "Shivaji",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-122",
+    "pick": "March on Rome",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-123",
+    "pick": "Hsinbyushin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-124",
+    "pick": "Palenque",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-125",
+    "pick": "Philip II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-126",
+    "pick": "Hall of Mirrors, Versailles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-127",
+    "pick": "Manzikert",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-128",
+    "pick": "Kilwa",
+    "confidence": "medium",
+    "problem": "Ambiguous: Zanzibar (and Mombasa, Lamu) were also island city-states/sultanates; Zanzibar minted coins too. Kilwa is the likely intent"
+  },
+  {
+    "id": "hard-hist-129",
+    "pick": "John Dalton",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-130",
+    "pick": "Vienna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-131",
+    "pick": "Sargon of Akkad",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-132",
+    "pick": "Schlieffen Plan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-133",
+    "pick": "Ulugh Beg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-134",
+    "pick": "Lusitania",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-135",
+    "pick": "Wang Mang",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-136",
+    "pick": "Juan Sebastian Elcano",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-137",
+    "pick": "Tenochtitlan, Texcoco, Tlacopan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-138",
+    "pick": "Otto I",
+    "confidence": "high",
+    "problem": "'First Holy Roman Emperor' is contested (Charlemagne, 800, is often counted first); the 962 date still makes Otto I unambiguous"
+  },
+  {
+    "id": "hard-hist-139",
+    "pick": "John Snow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-140",
+    "pick": "Vitus Bering",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-141",
+    "pick": "Treaty of Paris",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-142",
+    "pick": "Jallianwala Bagh",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-143",
+    "pick": "Avicenna",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-144",
+    "pick": "Emperor Wu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-145",
+    "pick": "Deng Xiaoping",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-146",
+    "pick": "William the Silent",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-147",
+    "pick": "Treaty of Nystad",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-148",
+    "pick": "Tsushima",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-149",
+    "pick": "Guru Gobind Singh",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-150",
+    "pick": "Entente Cordiale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-151",
+    "pick": "Kanishka",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-152",
+    "pick": "Kursk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-153",
+    "pick": "Urbain Le Verrier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-154",
+    "pick": "Yarmouk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-155",
+    "pick": "Lakshmibai",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-156",
+    "pick": "Cetshwayo",
+    "confidence": "high",
+    "problem": "Mild oversimplification: Cetshwayo was king but Ntshingwayo commanded the Zulu army at Isandlwana"
+  },
+  {
+    "id": "hard-hist-157",
+    "pick": "Aurangzeb",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-158",
+    "pick": "Munich Agreement",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-159",
+    "pick": "Robert Falcon Scott",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-160",
+    "pick": "The Hittites",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-161",
+    "pick": "Napoleon III",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-162",
+    "pick": "Jan Zizka",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-163",
+    "pick": "Galen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-164",
+    "pick": "Anawrahta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-165",
+    "pick": "Prague Spring",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-166",
+    "pick": "Nebuchadnezzar II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-167",
+    "pick": "Lepanto",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-168",
+    "pick": "Mustafa Kemal Ataturk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-169",
+    "pick": "Robert Boyle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-170",
+    "pick": "Clovis I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-171",
+    "pick": "Attila",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-172",
+    "pick": "Guernica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-173",
+    "pick": "William Wallace",
+    "confidence": "medium",
+    "problem": "Joint achievement: Andrew Moray co-commanded the Scots at Stirling Bridge and is also a choice"
+  },
+  {
+    "id": "hard-hist-174",
+    "pick": "Blood River",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-175",
+    "pick": "Tondibi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-176",
+    "pick": "Njinga",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-177",
+    "pick": "Wallenstein",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-178",
+    "pick": "Thirty Years' War",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-179",
+    "pick": "Teotihuacan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-180",
+    "pick": "Abel Tasman",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-181",
+    "pick": "Matthias",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-182",
+    "pick": "Plassey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-183",
+    "pick": "Abd al-Qadir",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-184",
+    "pick": "Paris Commune",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-185",
+    "pick": "Midway",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-186",
+    "pick": "Theodosius I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-187",
+    "pick": "First Marne",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-188",
+    "pick": "The Mahdi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-189",
+    "pick": "Patrice Lumumba",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-190",
+    "pick": "Watson and Crick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-191",
+    "pick": "Charles XII",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-192",
+    "pick": "Kanmu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-193",
+    "pick": "Ole Romer",
+    "confidence": "medium",
+    "problem": "Romer showed light's speed is finite; the first numerical value is usually credited to Huygens (also a choice) using Romer's data"
+  },
+  {
+    "id": "hard-hist-194",
+    "pick": "Concordat of Worms",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-195",
+    "pick": "Andreas Vesalius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-196",
+    "pick": "Maximilian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-197",
+    "pick": "Francis Drake",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-198",
+    "pick": "Lapulapu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-199",
+    "pick": "Plataea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-200",
+    "pick": "Sonni Ali",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-201",
+    "pick": "Vasco Nunez de Balboa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-202",
+    "pick": "Darius I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-203",
+    "pick": "Granada",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-204",
+    "pick": "Locarno Treaties",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-205",
+    "pick": "Berlin Conference",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-206",
+    "pick": "Cardinal Richelieu",
+    "confidence": "high",
+    "problem": "Mazarin (a choice) also served briefly as Louis XIII's chief minister after Richelieu died (Dec 1642 to May 1643)"
+  },
+  {
+    "id": "hard-hist-207",
+    "pick": "Vladimir the Great",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-208",
+    "pick": "Gregor Mendel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-209",
+    "pick": "Mahmud II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-210",
+    "pick": "Jayavarman VII",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-211",
+    "pick": "John Hanning Speke",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-212",
+    "pick": "Heraclius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-213",
+    "pick": "Gustavus Adolphus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-214",
+    "pick": "Willem Janszoon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-215",
+    "pick": "Teutoburg Forest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-216",
+    "pick": "The Parthians",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-217",
+    "pick": "Kucuk Kaynarca",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-218",
+    "pick": "Peace of Westphalia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-219",
+    "pick": "Bartolome de las Casas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-220",
+    "pick": "Vytautas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-221",
+    "pick": "Jons Jacob Berzelius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-222",
+    "pick": "Treaty of Shimonoseki",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-223",
+    "pick": "Trajan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-224",
+    "pick": "The Chimu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-225",
+    "pick": "Blucher",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-226",
+    "pick": "Guglielmo Marconi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-227",
+    "pick": "Mikhail Gorbachev",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-228",
+    "pick": "Ayutthaya Kingdom",
+    "confidence": "high",
+    "problem": "Gives the answer away: prompt names Ayutthaya and the choice is 'Ayutthaya Kingdom'"
+  },
+  {
+    "id": "hard-hist-229",
+    "pick": "Sundiata Keita",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-230",
+    "pick": "Henry IV",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-231",
+    "pick": "Dunkirk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-232",
+    "pick": "Leo III",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-233",
+    "pick": "Koniggratz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-234",
+    "pick": "Serbia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-235",
+    "pick": "Fridtjof Nansen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-236",
+    "pick": "Suryavarman II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-237",
+    "pick": "Ranjit Singh",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-238",
+    "pick": "James Wolfe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-239",
+    "pick": "Jonas Salk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-240",
+    "pick": "Treaty of Lausanne",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-241",
+    "pick": "Ptolemy I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-242",
+    "pick": "Stalingrad",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-243",
+    "pick": "Benito Juarez",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-244",
+    "pick": "Tycho Brahe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-245",
+    "pick": "Meiji",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-246",
+    "pick": "Las Navas de Tolosa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-247",
+    "pick": "Frederick II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-248",
+    "pick": "Gelon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-249",
+    "pick": "Yaa Asantewaa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-250",
+    "pick": "Chola",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-251",
+    "pick": "William Herschel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-252",
+    "pick": "Caracalla",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-253",
+    "pick": "Montgomery",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-254",
+    "pick": "Nguyen Hue",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-255",
+    "pick": "James Clerk Maxwell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-256",
+    "pick": "Gallipoli",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-257",
+    "pick": "Peace of Augsburg",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-258",
+    "pick": "Potsdam",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-259",
+    "pick": "Ayatollah Khomeini",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-260",
+    "pick": "Corinth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-261",
+    "pick": "Miguel Hidalgo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-262",
+    "pick": "James Chadwick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-263",
+    "pick": "Jose de San Martin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-264",
+    "pick": "Trung Sisters",
+    "confidence": "high",
+    "problem": "Gives the answer away: prompt says 'sisters' and only one choice is a pair of sisters"
+  },
+  {
+    "id": "hard-hist-265",
+    "pick": "Glorious Revolution",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-266",
+    "pick": "Zimmermann Telegram",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-267",
+    "pick": "Beer Hall Putsch",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-268",
+    "pick": "Hulagu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-269",
+    "pick": "Boxer Rebellion",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-270",
+    "pick": "Nagasaki",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-271",
+    "pick": "Nzinga Mbemba",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-272",
+    "pick": "Robert Hooke",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-273",
+    "pick": "Southern Song",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-274",
+    "pick": "Harald Hardrada",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-275",
+    "pick": "Catherine the Great",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-276",
+    "pick": "Transvaal",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-277",
+    "pick": "Henry IV",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-278",
+    "pick": "Ezana",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-279",
+    "pick": "Afonso de Albuquerque",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-280",
+    "pick": "Bannockburn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-281",
+    "pick": "Ernest Rutherford",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-282",
+    "pick": "Dmitry Donskoy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-283",
+    "pick": "Joseph Lister",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-284",
+    "pick": "Srivijaya",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-285",
+    "pick": "Grunwald",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-286",
+    "pick": "Shapur I",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-287",
+    "pick": "Pachacuti",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-288",
+    "pick": "Han",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-289",
+    "pick": "Metternich",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-290",
+    "pick": "Zhou",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-291",
+    "pick": "Manco Inca",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-292",
+    "pick": "Peasants' Revolt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-293",
+    "pick": "Carl Linnaeus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-294",
+    "pick": "Wei",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-295",
+    "pick": "Taiping Rebellion",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-296",
+    "pick": "Heinrich Hertz",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-297",
+    "pick": "Treaty of Verdun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-298",
+    "pick": "Pedro Alvares Cabral",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-299",
+    "pick": "Minamoto",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-300",
+    "pick": "Treaty of Portsmouth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-301",
+    "pick": "Kitchener",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-302",
+    "pick": "Charles Martel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-303",
+    "pick": "Valens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-304",
+    "pick": "Monte Alban",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-305",
+    "pick": "Hungary",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-306",
+    "pick": "Sui",
+    "confidence": "medium",
+    "problem": "Oversimplification: canal sections predate the Sui by centuries; Sui linked them into the Grand Canal, and later dynasties (e.g., Yuan) rebuilt it"
+  },
+  {
+    "id": "hard-hist-307",
+    "pick": "Ignaz Semmelweis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-308",
+    "pick": "Treaty of Utrecht",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-309",
+    "pick": "William the Conqueror",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-310",
+    "pick": "Edwin Hubble",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-311",
+    "pick": "Edo Bay",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-312",
+    "pick": "Sasanian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-313",
+    "pick": "Leipzig",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-314",
+    "pick": "Basil II",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "hard-hist-315",
+    "pick": "Selim I",
+    "confidence": "high",
+    "problem": null
+  }
+]

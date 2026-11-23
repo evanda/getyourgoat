@@ -1,0 +1,4097 @@
+[
+ {
+  "id": "easy-anim-001",
+  "prompt": "A baby goat is called a what?",
+  "choices": [
+   "kid",
+   "cub",
+   "pup",
+   "calf"
+  ],
+  "answer": "kid",
+  "difficulty": "easy",
+  "topic": "baby-goat"
+ },
+ {
+  "id": "easy-anim-002",
+  "prompt": "A baby dog is called a what?",
+  "choices": [
+   "kitten",
+   "puppy",
+   "cub",
+   "chick"
+  ],
+  "answer": "puppy",
+  "difficulty": "easy",
+  "topic": "baby-dog"
+ },
+ {
+  "id": "easy-anim-003",
+  "prompt": "A baby cat is called a what?",
+  "choices": [
+   "puppy",
+   "calf",
+   "kitten",
+   "lamb"
+  ],
+  "answer": "kitten",
+  "difficulty": "easy",
+  "topic": "baby-cat"
+ },
+ {
+  "id": "easy-anim-004",
+  "prompt": "A baby cow is called a what?",
+  "choices": [
+   "foal",
+   "lamb",
+   "kid",
+   "calf"
+  ],
+  "answer": "calf",
+  "difficulty": "easy",
+  "topic": "baby-cow"
+ },
+ {
+  "id": "easy-anim-005",
+  "prompt": "A baby horse is called a what?",
+  "choices": [
+   "foal",
+   "calf",
+   "piglet",
+   "kid"
+  ],
+  "answer": "foal",
+  "difficulty": "easy",
+  "topic": "baby-horse"
+ },
+ {
+  "id": "easy-anim-006",
+  "prompt": "A baby sheep is called a what?",
+  "choices": [
+   "kid",
+   "lamb",
+   "cub",
+   "chick"
+  ],
+  "answer": "lamb",
+  "difficulty": "easy",
+  "topic": "baby-sheep"
+ },
+ {
+  "id": "easy-anim-007",
+  "prompt": "A baby pig is called a what?",
+  "choices": [
+   "calf",
+   "foal",
+   "piglet",
+   "pup"
+  ],
+  "answer": "piglet",
+  "difficulty": "easy",
+  "topic": "baby-pig"
+ },
+ {
+  "id": "easy-anim-008",
+  "prompt": "A baby chicken is called a what?",
+  "choices": [
+   "joey",
+   "cub",
+   "calf",
+   "chick"
+  ],
+  "answer": "chick",
+  "difficulty": "easy",
+  "topic": "baby-chicken"
+ },
+ {
+  "id": "easy-anim-009",
+  "prompt": "A baby duck is called a what?",
+  "choices": [
+   "duckling",
+   "gosling",
+   "cygnet",
+   "chick"
+  ],
+  "answer": "duckling",
+  "difficulty": "medium",
+  "topic": "baby-duck"
+ },
+ {
+  "id": "easy-anim-010",
+  "prompt": "A baby frog starts life as a what?",
+  "choices": [
+   "kit",
+   "tadpole",
+   "fawn",
+   "grub"
+  ],
+  "answer": "tadpole",
+  "difficulty": "easy",
+  "topic": "frog-start"
+ },
+ {
+  "id": "easy-anim-011",
+  "prompt": "A baby kangaroo is called a what?",
+  "choices": [
+   "cub",
+   "kit",
+   "joey",
+   "pup"
+  ],
+  "answer": "joey",
+  "difficulty": "easy",
+  "topic": "baby-kangaroo"
+ },
+ {
+  "id": "easy-anim-012",
+  "prompt": "A baby bear is called a what?",
+  "choices": [
+   "pup",
+   "kit",
+   "calf",
+   "cub"
+  ],
+  "answer": "cub",
+  "difficulty": "easy",
+  "topic": "baby-bear"
+ },
+ {
+  "id": "easy-anim-013",
+  "prompt": "A baby lion is called a what?",
+  "choices": [
+   "cub",
+   "kitten",
+   "pup",
+   "foal"
+  ],
+  "answer": "cub",
+  "difficulty": "easy",
+  "topic": "baby-lion"
+ },
+ {
+  "id": "easy-anim-014",
+  "prompt": "A baby deer is called a what?",
+  "choices": [
+   "chick",
+   "fawn",
+   "kid",
+   "lamb"
+  ],
+  "answer": "fawn",
+  "difficulty": "medium",
+  "topic": "baby-deer"
+ },
+ {
+  "id": "easy-anim-015",
+  "prompt": "A baby swan is called a what?",
+  "choices": [
+   "duckling",
+   "gosling",
+   "cygnet",
+   "chick"
+  ],
+  "answer": "cygnet",
+  "difficulty": "hard",
+  "topic": "baby-swan"
+ },
+ {
+  "id": "easy-anim-016",
+  "prompt": "A baby goose is called a what?",
+  "choices": [
+   "cygnet",
+   "duckling",
+   "chick",
+   "gosling"
+  ],
+  "answer": "gosling",
+  "difficulty": "hard",
+  "topic": "baby-goose"
+ },
+ {
+  "id": "easy-anim-017",
+  "prompt": "A butterfly egg hatches into a what?",
+  "choices": [
+   "caterpillar",
+   "tadpole",
+   "puppy",
+   "chick"
+  ],
+  "answer": "caterpillar",
+  "difficulty": "easy",
+  "topic": "butterfly-egg"
+ },
+ {
+  "id": "easy-anim-018",
+  "prompt": "A baby elephant is called a what?",
+  "choices": [
+   "cub",
+   "calf",
+   "pup",
+   "kid"
+  ],
+  "answer": "calf",
+  "difficulty": "medium",
+  "topic": "baby-elephant"
+ },
+ {
+  "id": "easy-anim-019",
+  "prompt": "A baby owl is called a what?",
+  "choices": [
+   "kit",
+   "cub",
+   "owlet",
+   "pup"
+  ],
+  "answer": "owlet",
+  "difficulty": "medium",
+  "topic": "baby-owl"
+ },
+ {
+  "id": "easy-anim-020",
+  "prompt": "A baby seal is called a what?",
+  "choices": [
+   "kid",
+   "foal",
+   "lamb",
+   "pup"
+  ],
+  "answer": "pup",
+  "difficulty": "medium",
+  "topic": "baby-seal"
+ },
+ {
+  "id": "easy-anim-021",
+  "prompt": "A baby penguin is called a what?",
+  "choices": [
+   "chick",
+   "pup",
+   "kit",
+   "calf"
+  ],
+  "answer": "chick",
+  "difficulty": "medium",
+  "topic": "baby-penguin"
+ },
+ {
+  "id": "easy-anim-022",
+  "prompt": "A baby giraffe is called a what?",
+  "choices": [
+   "kid",
+   "calf",
+   "foal",
+   "cub"
+  ],
+  "answer": "calf",
+  "difficulty": "medium",
+  "topic": "baby-giraffe"
+ },
+ {
+  "id": "easy-anim-023",
+  "prompt": "A baby koala is called a what?",
+  "choices": [
+   "cub",
+   "kit",
+   "joey",
+   "chick"
+  ],
+  "answer": "joey",
+  "difficulty": "hard",
+  "topic": "baby-koala"
+ },
+ {
+  "id": "easy-anim-024",
+  "prompt": "A baby fish is called a what?",
+  "choices": [
+   "kit",
+   "pup",
+   "cub",
+   "fry"
+  ],
+  "answer": "fry",
+  "difficulty": "medium",
+  "topic": "baby-fish"
+ },
+ {
+  "id": "easy-anim-025",
+  "prompt": "A baby zebra is called a what?",
+  "choices": [
+   "foal",
+   "calf",
+   "cub",
+   "kid"
+  ],
+  "answer": "foal",
+  "difficulty": "hard",
+  "topic": "baby-zebra"
+ },
+ {
+  "id": "easy-anim-026",
+  "prompt": "A group of lions is called a what?",
+  "choices": [
+   "pack",
+   "pride",
+   "herd",
+   "flock"
+  ],
+  "answer": "pride",
+  "difficulty": "easy",
+  "topic": "group-lions"
+ },
+ {
+  "id": "easy-anim-027",
+  "prompt": "A group of wolves is called a what?",
+  "choices": [
+   "pride",
+   "school",
+   "pack",
+   "herd"
+  ],
+  "answer": "pack",
+  "difficulty": "easy",
+  "topic": "group-wolves"
+ },
+ {
+  "id": "easy-anim-028",
+  "prompt": "A group of fish is called a what?",
+  "choices": [
+   "flock",
+   "herd",
+   "pack",
+   "school"
+  ],
+  "answer": "school",
+  "difficulty": "easy",
+  "topic": "group-fish"
+ },
+ {
+  "id": "easy-anim-029",
+  "prompt": "A group of cows is called a what?",
+  "choices": [
+   "herd",
+   "flock",
+   "pack",
+   "school"
+  ],
+  "answer": "herd",
+  "difficulty": "easy",
+  "topic": "group-cows"
+ },
+ {
+  "id": "easy-anim-030",
+  "prompt": "A group of sheep is called a what?",
+  "choices": [
+   "pride",
+   "flock",
+   "school",
+   "pack"
+  ],
+  "answer": "flock",
+  "difficulty": "easy",
+  "topic": "group-sheep"
+ },
+ {
+  "id": "easy-anim-031",
+  "prompt": "A group of goats is called a what?",
+  "choices": [
+   "school",
+   "pride",
+   "herd",
+   "pack"
+  ],
+  "answer": "herd",
+  "difficulty": "medium",
+  "topic": "group-goats"
+ },
+ {
+  "id": "easy-anim-032",
+  "prompt": "A group of dolphins is called a what?",
+  "choices": [
+   "pride",
+   "flock",
+   "herd",
+   "pod"
+  ],
+  "answer": "pod",
+  "difficulty": "medium",
+  "topic": "group-dolphins"
+ },
+ {
+  "id": "easy-anim-033",
+  "prompt": "A group of owls is called a what?",
+  "choices": [
+   "parliament",
+   "school",
+   "pride",
+   "pack"
+  ],
+  "answer": "parliament",
+  "difficulty": "hard",
+  "topic": "group-owls"
+ },
+ {
+  "id": "easy-anim-034",
+  "prompt": "A group of ants living together is a what?",
+  "choices": [
+   "herd",
+   "colony",
+   "flock",
+   "pack"
+  ],
+  "answer": "colony",
+  "difficulty": "medium",
+  "topic": "group-ants"
+ },
+ {
+  "id": "easy-anim-035",
+  "prompt": "Puppies born together are called a what?",
+  "choices": [
+   "flock",
+   "school",
+   "litter",
+   "pod"
+  ],
+  "answer": "litter",
+  "difficulty": "medium",
+  "topic": "group-litter"
+ },
+ {
+  "id": "easy-anim-036",
+  "prompt": "Which animal says \"moo\"?",
+  "choices": [
+   "pig",
+   "duck",
+   "horse",
+   "cow"
+  ],
+  "answer": "cow",
+  "difficulty": "easy",
+  "topic": "sound-cow"
+ },
+ {
+  "id": "easy-anim-037",
+  "prompt": "Which animal says \"quack\"?",
+  "choices": [
+   "duck",
+   "cow",
+   "cat",
+   "sheep"
+  ],
+  "answer": "duck",
+  "difficulty": "easy",
+  "topic": "sound-duck"
+ },
+ {
+  "id": "easy-anim-038",
+  "prompt": "Which animal says \"oink\"?",
+  "choices": [
+   "hen",
+   "pig",
+   "goat",
+   "horse"
+  ],
+  "answer": "pig",
+  "difficulty": "easy",
+  "topic": "sound-pig"
+ },
+ {
+  "id": "easy-anim-039",
+  "prompt": "Which animal says \"ribbit\"?",
+  "choices": [
+   "bee",
+   "owl",
+   "frog",
+   "mouse"
+  ],
+  "answer": "frog",
+  "difficulty": "easy",
+  "topic": "sound-frog"
+ },
+ {
+  "id": "easy-anim-040",
+  "prompt": "Which animal says \"meow\"?",
+  "choices": [
+   "dog",
+   "cow",
+   "duck",
+   "cat"
+  ],
+  "answer": "cat",
+  "difficulty": "easy",
+  "topic": "sound-cat"
+ },
+ {
+  "id": "easy-anim-041",
+  "prompt": "Which animal says \"woof\"?",
+  "choices": [
+   "dog",
+   "cat",
+   "hen",
+   "frog"
+  ],
+  "answer": "dog",
+  "difficulty": "easy",
+  "topic": "sound-dog"
+ },
+ {
+  "id": "easy-anim-042",
+  "prompt": "Which animal says \"hoot\"?",
+  "choices": [
+   "cow",
+   "owl",
+   "dog",
+   "pig"
+  ],
+  "answer": "owl",
+  "difficulty": "easy",
+  "topic": "sound-owl"
+ },
+ {
+  "id": "easy-anim-043",
+  "prompt": "Which animal says \"neigh\"?",
+  "choices": [
+   "duck",
+   "cat",
+   "horse",
+   "pig"
+  ],
+  "answer": "horse",
+  "difficulty": "easy",
+  "topic": "sound-horse"
+ },
+ {
+  "id": "easy-anim-044",
+  "prompt": "Which animal says \"cluck\"?",
+  "choices": [
+   "cow",
+   "frog",
+   "lion",
+   "hen"
+  ],
+  "answer": "hen",
+  "difficulty": "easy",
+  "topic": "sound-hen"
+ },
+ {
+  "id": "easy-anim-045",
+  "prompt": "Which animal says \"buzz\"?",
+  "choices": [
+   "bee",
+   "cow",
+   "dog",
+   "frog"
+  ],
+  "answer": "bee",
+  "difficulty": "easy",
+  "topic": "sound-bee"
+ },
+ {
+  "id": "easy-anim-046",
+  "prompt": "Which animal makes a loud roar?",
+  "choices": [
+   "mouse",
+   "lion",
+   "duck",
+   "hen"
+  ],
+  "answer": "lion",
+  "difficulty": "easy",
+  "topic": "sound-lion"
+ },
+ {
+  "id": "easy-anim-047",
+  "prompt": "A sheep says what?",
+  "choices": [
+   "moo",
+   "oink",
+   "baa",
+   "quack"
+  ],
+  "answer": "baa",
+  "difficulty": "easy",
+  "topic": "sound-sheep"
+ },
+ {
+  "id": "easy-anim-048",
+  "prompt": "A goat's call is called a what?",
+  "choices": [
+   "moo",
+   "oink",
+   "quack",
+   "bleat"
+  ],
+  "answer": "bleat",
+  "difficulty": "easy",
+  "topic": "sound-goat"
+ },
+ {
+  "id": "easy-anim-049",
+  "prompt": "Which animal howls at night?",
+  "choices": [
+   "wolf",
+   "cow",
+   "hen",
+   "duck"
+  ],
+  "answer": "wolf",
+  "difficulty": "easy",
+  "topic": "sound-wolf"
+ },
+ {
+  "id": "easy-anim-050",
+  "prompt": "Which animal says \"hee-haw\"?",
+  "choices": [
+   "cat",
+   "donkey",
+   "owl",
+   "duck"
+  ],
+  "answer": "donkey",
+  "difficulty": "easy",
+  "topic": "sound-donkey"
+ },
+ {
+  "id": "easy-anim-051",
+  "prompt": "Which animal hisses?",
+  "choices": [
+   "cow",
+   "duck",
+   "snake",
+   "horse"
+  ],
+  "answer": "snake",
+  "difficulty": "easy",
+  "topic": "sound-snake"
+ },
+ {
+  "id": "easy-anim-052",
+  "prompt": "An elephant makes a loud sound called a what?",
+  "choices": [
+   "quack",
+   "buzz",
+   "meow",
+   "trumpet"
+  ],
+  "answer": "trumpet",
+  "difficulty": "medium",
+  "topic": "sound-elephant"
+ },
+ {
+  "id": "easy-anim-053",
+  "prompt": "Which bird says \"caw\"?",
+  "choices": [
+   "crow",
+   "owl",
+   "duck",
+   "hen"
+  ],
+  "answer": "crow",
+  "difficulty": "hard",
+  "topic": "sound-crow"
+ },
+ {
+  "id": "easy-anim-054",
+  "prompt": "Which bird says \"gobble\"?",
+  "choices": [
+   "owl",
+   "turkey",
+   "crow",
+   "duck"
+  ],
+  "answer": "turkey",
+  "difficulty": "easy",
+  "topic": "sound-turkey"
+ },
+ {
+  "id": "easy-anim-055",
+  "prompt": "Which small animal says \"squeak\"?",
+  "choices": [
+   "cow",
+   "horse",
+   "mouse",
+   "lion"
+  ],
+  "answer": "mouse",
+  "difficulty": "easy",
+  "topic": "sound-mouse"
+ },
+ {
+  "id": "easy-anim-056",
+  "prompt": "Which insect chirps in the evening?",
+  "choices": [
+   "ant",
+   "ladybug",
+   "snail",
+   "cricket"
+  ],
+  "answer": "cricket",
+  "difficulty": "medium",
+  "topic": "sound-cricket"
+ },
+ {
+  "id": "easy-anim-057",
+  "prompt": "A male chicken is called a what?",
+  "choices": [
+   "rooster",
+   "hen",
+   "chick",
+   "duckling"
+  ],
+  "answer": "rooster",
+  "difficulty": "easy",
+  "topic": "male-chicken"
+ },
+ {
+  "id": "easy-anim-058",
+  "prompt": "A girl lion is called a what?",
+  "choices": [
+   "lion cub",
+   "lioness",
+   "tigress",
+   "kitten"
+  ],
+  "answer": "lioness",
+  "difficulty": "easy",
+  "topic": "female-lion"
+ },
+ {
+  "id": "easy-anim-059",
+  "prompt": "A male sheep is called a what?",
+  "choices": [
+   "ewe",
+   "lamb",
+   "ram",
+   "kid"
+  ],
+  "answer": "ram",
+  "difficulty": "medium",
+  "topic": "male-sheep"
+ },
+ {
+  "id": "easy-anim-060",
+  "prompt": "A female horse is called a what?",
+  "choices": [
+   "stallion",
+   "foal",
+   "calf",
+   "mare"
+  ],
+  "answer": "mare",
+  "difficulty": "hard",
+  "topic": "female-horse"
+ },
+ {
+  "id": "easy-anim-061",
+  "prompt": "A grown-up male goat is called a what?",
+  "choices": [
+   "billy",
+   "nanny",
+   "kid",
+   "ram"
+  ],
+  "answer": "billy",
+  "difficulty": "medium",
+  "topic": "male-goat"
+ },
+ {
+  "id": "easy-anim-062",
+  "prompt": "A grown-up female goat is called a what?",
+  "choices": [
+   "billy",
+   "nanny",
+   "kid",
+   "rooster"
+  ],
+  "answer": "nanny",
+  "difficulty": "medium",
+  "topic": "female-goat"
+ },
+ {
+  "id": "easy-anim-063",
+  "prompt": "Which bird can copy words you say?",
+  "choices": [
+   "owl",
+   "duck",
+   "parrot",
+   "swan"
+  ],
+  "answer": "parrot",
+  "difficulty": "easy",
+  "topic": "parrot-talk"
+ },
+ {
+  "id": "easy-anim-064",
+  "prompt": "Which pet lives in a bowl of water?",
+  "choices": [
+   "hamster",
+   "puppy",
+   "rabbit",
+   "goldfish"
+  ],
+  "answer": "goldfish",
+  "difficulty": "easy",
+  "topic": "pet-fish"
+ },
+ {
+  "id": "easy-anim-065",
+  "prompt": "Which small pet runs on a wheel?",
+  "choices": [
+   "hamster",
+   "goldfish",
+   "horse",
+   "parrot"
+  ],
+  "answer": "hamster",
+  "difficulty": "easy",
+  "topic": "pet-hamster"
+ },
+ {
+  "id": "easy-anim-066",
+  "prompt": "Which animal is called a person's best friend?",
+  "choices": [
+   "goat",
+   "dog",
+   "lion",
+   "snake"
+  ],
+  "answer": "dog",
+  "difficulty": "easy",
+  "topic": "best-friend"
+ },
+ {
+  "id": "easy-anim-067",
+  "prompt": "A happy cat often makes what sound?",
+  "choices": [
+   "bark",
+   "moo",
+   "purr",
+   "hiss"
+  ],
+  "answer": "purr",
+  "difficulty": "easy",
+  "topic": "cat-purr"
+ },
+ {
+  "id": "easy-anim-068",
+  "prompt": "A happy dog often wags its what?",
+  "choices": [
+   "ears",
+   "nose",
+   "knees",
+   "tail"
+  ],
+  "answer": "tail",
+  "difficulty": "easy",
+  "topic": "dog-wag"
+ },
+ {
+  "id": "easy-anim-069",
+  "prompt": "Which dog helps herd sheep?",
+  "choices": [
+   "border collie",
+   "poodle",
+   "bulldog",
+   "chihuahua"
+  ],
+  "answer": "border collie",
+  "difficulty": "hard",
+  "topic": "herding-dog"
+ },
+ {
+  "id": "easy-anim-070",
+  "prompt": "Pet dogs come from which wild animal?",
+  "choices": [
+   "bear",
+   "wolf",
+   "fox",
+   "tiger"
+  ],
+  "answer": "wolf",
+  "difficulty": "hard",
+  "topic": "dog-ancestor"
+ },
+ {
+  "id": "easy-anim-071",
+  "prompt": "Which animal has long ears and hops?",
+  "choices": [
+   "goat",
+   "pig",
+   "rabbit",
+   "duck"
+  ],
+  "answer": "rabbit",
+  "difficulty": "easy",
+  "topic": "rabbit-hop"
+ },
+ {
+  "id": "easy-anim-072",
+  "prompt": "Which animal gives us wool?",
+  "choices": [
+   "cow",
+   "pig",
+   "horse",
+   "sheep"
+  ],
+  "answer": "sheep",
+  "difficulty": "easy",
+  "topic": "wool-sheep"
+ },
+ {
+  "id": "easy-anim-073",
+  "prompt": "Which bird gives us most of our eggs?",
+  "choices": [
+   "chicken",
+   "owl",
+   "eagle",
+   "penguin"
+  ],
+  "answer": "chicken",
+  "difficulty": "easy",
+  "topic": "egg-chicken"
+ },
+ {
+  "id": "easy-anim-074",
+  "prompt": "Chicks hatch from what?",
+  "choices": [
+   "seeds",
+   "eggs",
+   "pods",
+   "bubbles"
+  ],
+  "answer": "eggs",
+  "difficulty": "easy",
+  "topic": "chick-egg"
+ },
+ {
+  "id": "easy-anim-075",
+  "prompt": "Which animal has a hard shell on its back and moves slowly?",
+  "choices": [
+   "rabbit",
+   "dog",
+   "snail",
+   "duck"
+  ],
+  "answer": "snail",
+  "difficulty": "easy",
+  "topic": "snail-shell"
+ },
+ {
+  "id": "easy-anim-076",
+  "prompt": "Which farm animal is known for rolling in mud to stay cool?",
+  "choices": [
+   "horse",
+   "hen",
+   "goat",
+   "pig"
+  ],
+  "answer": "pig",
+  "difficulty": "easy",
+  "topic": "pig-mud"
+ },
+ {
+  "id": "easy-anim-077",
+  "prompt": "Which animal in stories pulls Santa's sleigh?",
+  "choices": [
+   "reindeer",
+   "cow",
+   "goat",
+   "zebra"
+  ],
+  "answer": "reindeer",
+  "difficulty": "easy",
+  "topic": "reindeer"
+ },
+ {
+  "id": "easy-anim-078",
+  "prompt": "Giant pandas mostly eat what?",
+  "choices": [
+   "fish",
+   "bamboo",
+   "meat",
+   "ants"
+  ],
+  "answer": "bamboo",
+  "difficulty": "easy",
+  "topic": "panda-food"
+ },
+ {
+  "id": "easy-anim-079",
+  "prompt": "Koalas mostly eat the leaves of which tree?",
+  "choices": [
+   "apple",
+   "pine",
+   "eucalyptus",
+   "palm"
+  ],
+  "answer": "eucalyptus",
+  "difficulty": "medium",
+  "topic": "koala-food"
+ },
+ {
+  "id": "easy-anim-080",
+  "prompt": "Cows eat mostly what?",
+  "choices": [
+   "fish",
+   "meat",
+   "bugs",
+   "grass"
+  ],
+  "answer": "grass",
+  "difficulty": "easy",
+  "topic": "cow-food"
+ },
+ {
+  "id": "easy-anim-081",
+  "prompt": "Which food do rabbits like to eat?",
+  "choices": [
+   "carrots",
+   "pizza",
+   "fish",
+   "steak"
+  ],
+  "answer": "carrots",
+  "difficulty": "easy",
+  "topic": "rabbit-food"
+ },
+ {
+  "id": "easy-anim-082",
+  "prompt": "Giraffes eat leaves from what?",
+  "choices": [
+   "the sea",
+   "tall trees",
+   "cheese",
+   "snow"
+  ],
+  "answer": "tall trees",
+  "difficulty": "easy",
+  "topic": "giraffe-food"
+ },
+ {
+  "id": "easy-anim-083",
+  "prompt": "Anteaters eat mostly what?",
+  "choices": [
+   "bananas",
+   "grass",
+   "ants",
+   "fish"
+  ],
+  "answer": "ants",
+  "difficulty": "easy",
+  "topic": "anteater-food"
+ },
+ {
+  "id": "easy-anim-084",
+  "prompt": "Lions mostly eat what kind of food?",
+  "choices": [
+   "grass",
+   "fruit",
+   "bread",
+   "meat"
+  ],
+  "answer": "meat",
+  "difficulty": "easy",
+  "topic": "lion-food"
+ },
+ {
+  "id": "easy-anim-085",
+  "prompt": "An animal that eats only plants is a what?",
+  "choices": [
+   "herbivore",
+   "carnivore",
+   "omnivore",
+   "insectivore"
+  ],
+  "answer": "herbivore",
+  "difficulty": "medium",
+  "topic": "herbivore"
+ },
+ {
+  "id": "easy-anim-086",
+  "prompt": "Animals that eat meat are called what?",
+  "choices": [
+   "herbivores",
+   "carnivores",
+   "omnivores",
+   "vegetarians"
+  ],
+  "answer": "carnivores",
+  "difficulty": "medium",
+  "topic": "carnivore"
+ },
+ {
+  "id": "easy-anim-087",
+  "prompt": "Animals that eat plants and meat are called what?",
+  "choices": [
+   "herbivores",
+   "carnivores",
+   "omnivores",
+   "vegans"
+  ],
+  "answer": "omnivores",
+  "difficulty": "medium",
+  "topic": "omnivore"
+ },
+ {
+  "id": "easy-anim-088",
+  "prompt": "Bees make what sweet food?",
+  "choices": [
+   "milk",
+   "jam",
+   "butter",
+   "honey"
+  ],
+  "answer": "honey",
+  "difficulty": "easy",
+  "topic": "bee-honey"
+ },
+ {
+  "id": "easy-anim-089",
+  "prompt": "Farmers feed goats dried grass called what?",
+  "choices": [
+   "hay",
+   "soap",
+   "sand",
+   "ice"
+  ],
+  "answer": "hay",
+  "difficulty": "easy",
+  "topic": "goat-hay"
+ },
+ {
+  "id": "easy-anim-090",
+  "prompt": "Hummingbirds sip sweet what from flowers?",
+  "choices": [
+   "milk",
+   "nectar",
+   "soda",
+   "syrup"
+  ],
+  "answer": "nectar",
+  "difficulty": "medium",
+  "topic": "hummingbird-nectar"
+ },
+ {
+  "id": "easy-anim-091",
+  "prompt": "Caterpillars munch on what?",
+  "choices": [
+   "fish",
+   "cheese",
+   "leaves",
+   "rocks"
+  ],
+  "answer": "leaves",
+  "difficulty": "easy",
+  "topic": "caterpillar-food"
+ },
+ {
+  "id": "easy-anim-092",
+  "prompt": "Pelicans scoop up what to eat?",
+  "choices": [
+   "grass",
+   "berries",
+   "nuts",
+   "fish"
+  ],
+  "answer": "fish",
+  "difficulty": "medium",
+  "topic": "pelican-food"
+ },
+ {
+  "id": "easy-anim-093",
+  "prompt": "Squirrels gather and eat what?",
+  "choices": [
+   "nuts",
+   "fish",
+   "ice",
+   "sand"
+  ],
+  "answer": "nuts",
+  "difficulty": "easy",
+  "topic": "squirrel-food"
+ },
+ {
+  "id": "easy-anim-094",
+  "prompt": "Elephants eat mostly what?",
+  "choices": [
+   "meat",
+   "plants",
+   "fish",
+   "insects"
+  ],
+  "answer": "plants",
+  "difficulty": "easy",
+  "topic": "elephant-food"
+ },
+ {
+  "id": "easy-anim-095",
+  "prompt": "Frogs mostly eat what?",
+  "choices": [
+   "grass",
+   "nuts",
+   "insects",
+   "bread"
+  ],
+  "answer": "insects",
+  "difficulty": "medium",
+  "topic": "frog-food"
+ },
+ {
+  "id": "easy-anim-096",
+  "prompt": "Polar bears live in which cold place?",
+  "choices": [
+   "Africa",
+   "the jungle",
+   "the desert",
+   "the Arctic"
+  ],
+  "answer": "the Arctic",
+  "difficulty": "easy",
+  "topic": "polar-bear-home"
+ },
+ {
+  "id": "easy-anim-097",
+  "prompt": "Emperor penguins live in which cold place?",
+  "choices": [
+   "Antarctica",
+   "the Arctic",
+   "Africa",
+   "Australia"
+  ],
+  "answer": "Antarctica",
+  "difficulty": "medium",
+  "topic": "penguin-home"
+ },
+ {
+  "id": "easy-anim-098",
+  "prompt": "Camels can live in the hot what?",
+  "choices": [
+   "ocean",
+   "desert",
+   "jungle",
+   "snow"
+  ],
+  "answer": "desert",
+  "difficulty": "easy",
+  "topic": "camel-home"
+ },
+ {
+  "id": "easy-anim-099",
+  "prompt": "Kangaroos live in which country?",
+  "choices": [
+   "Canada",
+   "Brazil",
+   "Australia",
+   "India"
+  ],
+  "answer": "Australia",
+  "difficulty": "easy",
+  "topic": "kangaroo-home"
+ },
+ {
+  "id": "easy-anim-100",
+  "prompt": "Giant pandas live wild in which country?",
+  "choices": [
+   "Egypt",
+   "Peru",
+   "France",
+   "China"
+  ],
+  "answer": "China",
+  "difficulty": "medium",
+  "topic": "panda-home"
+ },
+ {
+  "id": "easy-anim-101",
+  "prompt": "Wild lions mostly live on which continent?",
+  "choices": [
+   "Africa",
+   "Antarctica",
+   "South America",
+   "Europe"
+  ],
+  "answer": "Africa",
+  "difficulty": "easy",
+  "topic": "lion-home"
+ },
+ {
+  "id": "easy-anim-102",
+  "prompt": "Fish live in what?",
+  "choices": [
+   "trees",
+   "water",
+   "sand",
+   "caves"
+  ],
+  "answer": "water",
+  "difficulty": "easy",
+  "topic": "fish-home"
+ },
+ {
+  "id": "easy-anim-103",
+  "prompt": "Bees live together in a what?",
+  "choices": [
+   "den",
+   "nest",
+   "hive",
+   "burrow"
+  ],
+  "answer": "hive",
+  "difficulty": "medium",
+  "topic": "bee-home"
+ },
+ {
+  "id": "easy-anim-104",
+  "prompt": "Birds lay their eggs in a what?",
+  "choices": [
+   "den",
+   "hive",
+   "burrow",
+   "nest"
+  ],
+  "answer": "nest",
+  "difficulty": "easy",
+  "topic": "bird-nest"
+ },
+ {
+  "id": "easy-anim-105",
+  "prompt": "A rabbit's home underground is called a what?",
+  "choices": [
+   "burrow",
+   "nest",
+   "hive",
+   "dam"
+  ],
+  "answer": "burrow",
+  "difficulty": "medium",
+  "topic": "rabbit-burrow"
+ },
+ {
+  "id": "easy-anim-106",
+  "prompt": "A fox's home is called a what?",
+  "choices": [
+   "hive",
+   "den",
+   "dam",
+   "nest"
+  ],
+  "answer": "den",
+  "difficulty": "medium",
+  "topic": "fox-den"
+ },
+ {
+  "id": "easy-anim-107",
+  "prompt": "Beavers build dams across what?",
+  "choices": [
+   "deserts",
+   "mountain tops",
+   "rivers",
+   "beaches"
+  ],
+  "answer": "rivers",
+  "difficulty": "medium",
+  "topic": "beaver-dam"
+ },
+ {
+  "id": "easy-anim-108",
+  "prompt": "Some animals sleep all winter. This is called what?",
+  "choices": [
+   "migration",
+   "swimming",
+   "barking",
+   "hibernation"
+  ],
+  "answer": "hibernation",
+  "difficulty": "medium",
+  "topic": "hibernation"
+ },
+ {
+  "id": "easy-anim-109",
+  "prompt": "Animals that travel far to warmer places are doing what?",
+  "choices": [
+   "migrating",
+   "hibernating",
+   "digging",
+   "molting"
+  ],
+  "answer": "migrating",
+  "difficulty": "medium",
+  "topic": "migration"
+ },
+ {
+  "id": "easy-anim-110",
+  "prompt": "Many monkeys live in warm, wet forests called what?",
+  "choices": [
+   "deserts",
+   "rainforests",
+   "tundra",
+   "prairies"
+  ],
+  "answer": "rainforests",
+  "difficulty": "medium",
+  "topic": "monkey-home"
+ },
+ {
+  "id": "easy-anim-111",
+  "prompt": "Which animal lives in the sea?",
+  "choices": [
+   "camel",
+   "goat",
+   "dolphin",
+   "horse"
+  ],
+  "answer": "dolphin",
+  "difficulty": "easy",
+  "topic": "sea-animal"
+ },
+ {
+  "id": "easy-anim-112",
+  "prompt": "Which animal lives in the desert?",
+  "choices": [
+   "whale",
+   "penguin",
+   "seal",
+   "camel"
+  ],
+  "answer": "camel",
+  "difficulty": "easy",
+  "topic": "desert-animal"
+ },
+ {
+  "id": "easy-anim-113",
+  "prompt": "White mountain goats live high up in the what?",
+  "choices": [
+   "mountains",
+   "ocean",
+   "desert",
+   "swamp"
+  ],
+  "answer": "mountains",
+  "difficulty": "medium",
+  "topic": "mountain-goat"
+ },
+ {
+  "id": "easy-anim-114",
+  "prompt": "Llamas live in the Andes mountains of what continent?",
+  "choices": [
+   "Africa",
+   "South America",
+   "Europe",
+   "Antarctica"
+  ],
+  "answer": "South America",
+  "difficulty": "medium",
+  "topic": "llama-home"
+ },
+ {
+  "id": "easy-anim-115",
+  "prompt": "Ring-tailed lemurs live on which island country?",
+  "choices": [
+   "Iceland",
+   "Cuba",
+   "Madagascar",
+   "Ireland"
+  ],
+  "answer": "Madagascar",
+  "difficulty": "hard",
+  "topic": "lemur-home"
+ },
+ {
+  "id": "easy-anim-116",
+  "prompt": "Which animal hangs upside down from tree branches and moves slowly?",
+  "choices": [
+   "zebra",
+   "lion",
+   "hippo",
+   "sloth"
+  ],
+  "answer": "sloth",
+  "difficulty": "easy",
+  "topic": "sloth"
+ },
+ {
+  "id": "easy-anim-117",
+  "prompt": "Owls are busiest at what time?",
+  "choices": [
+   "night",
+   "noon",
+   "breakfast",
+   "lunch"
+  ],
+  "answer": "night",
+  "difficulty": "easy",
+  "topic": "owl-night"
+ },
+ {
+  "id": "easy-anim-118",
+  "prompt": "Animals that are awake at night are called what?",
+  "choices": [
+   "diurnal",
+   "nocturnal",
+   "tropical",
+   "frozen"
+  ],
+  "answer": "nocturnal",
+  "difficulty": "medium",
+  "topic": "nocturnal"
+ },
+ {
+  "id": "easy-anim-119",
+  "prompt": "The only mammal that can truly fly is the what?",
+  "choices": [
+   "flying squirrel",
+   "ostrich",
+   "bat",
+   "penguin"
+  ],
+  "answer": "bat",
+  "difficulty": "medium",
+  "topic": "bat-fly"
+ },
+ {
+  "id": "easy-anim-120",
+  "prompt": "Dolphins are what kind of animal?",
+  "choices": [
+   "fish",
+   "reptiles",
+   "birds",
+   "mammals"
+  ],
+  "answer": "mammals",
+  "difficulty": "easy",
+  "topic": "dolphin-class"
+ },
+ {
+  "id": "easy-anim-121",
+  "prompt": "Whales are what kind of animal?",
+  "choices": [
+   "mammals",
+   "fish",
+   "reptiles",
+   "insects"
+  ],
+  "answer": "mammals",
+  "difficulty": "medium",
+  "topic": "whale-class"
+ },
+ {
+  "id": "easy-anim-122",
+  "prompt": "Snakes are what kind of animal?",
+  "choices": [
+   "mammals",
+   "reptiles",
+   "insects",
+   "birds"
+  ],
+  "answer": "reptiles",
+  "difficulty": "easy",
+  "topic": "snake-class"
+ },
+ {
+  "id": "easy-anim-123",
+  "prompt": "Frogs belong to a group called what?",
+  "choices": [
+   "reptiles",
+   "mammals",
+   "amphibians",
+   "insects"
+  ],
+  "answer": "amphibians",
+  "difficulty": "medium",
+  "topic": "frog-class"
+ },
+ {
+  "id": "easy-anim-124",
+  "prompt": "An ostrich cannot fly, but it is a what?",
+  "choices": [
+   "mammal",
+   "reptile",
+   "insect",
+   "bird"
+  ],
+  "answer": "bird",
+  "difficulty": "easy",
+  "topic": "ostrich-class"
+ },
+ {
+  "id": "easy-anim-125",
+  "prompt": "Penguins are what kind of animal?",
+  "choices": [
+   "birds",
+   "fish",
+   "mammals",
+   "reptiles"
+  ],
+  "answer": "birds",
+  "difficulty": "easy",
+  "topic": "penguin-class"
+ },
+ {
+  "id": "easy-anim-126",
+  "prompt": "How many legs does a spider have?",
+  "choices": [
+   "6",
+   "8",
+   "4",
+   "10"
+  ],
+  "answer": "8",
+  "difficulty": "easy",
+  "topic": "spider-legs"
+ },
+ {
+  "id": "easy-anim-127",
+  "prompt": "How many legs does an insect have?",
+  "choices": [
+   "8",
+   "4",
+   "6",
+   "10"
+  ],
+  "answer": "6",
+  "difficulty": "medium",
+  "topic": "insect-legs"
+ },
+ {
+  "id": "easy-anim-128",
+  "prompt": "Spiders belong to a group called what?",
+  "choices": [
+   "insects",
+   "reptiles",
+   "mammals",
+   "arachnids"
+  ],
+  "answer": "arachnids",
+  "difficulty": "hard",
+  "topic": "spider-class"
+ },
+ {
+  "id": "easy-anim-129",
+  "prompt": "A crocodile is what kind of animal?",
+  "choices": [
+   "reptile",
+   "mammal",
+   "bird",
+   "insect"
+  ],
+  "answer": "reptile",
+  "difficulty": "easy",
+  "topic": "croc-class"
+ },
+ {
+  "id": "easy-anim-130",
+  "prompt": "Butterflies are what kind of animal?",
+  "choices": [
+   "birds",
+   "insects",
+   "reptiles",
+   "fish"
+  ],
+  "answer": "insects",
+  "difficulty": "easy",
+  "topic": "butterfly-class"
+ },
+ {
+  "id": "easy-anim-131",
+  "prompt": "A ladybug is a kind of what?",
+  "choices": [
+   "bird",
+   "worm",
+   "beetle",
+   "spider"
+  ],
+  "answer": "beetle",
+  "difficulty": "medium",
+  "topic": "ladybug-class"
+ },
+ {
+  "id": "easy-anim-132",
+  "prompt": "Mammals feed their babies what?",
+  "choices": [
+   "worms",
+   "seeds",
+   "honey",
+   "milk"
+  ],
+  "answer": "milk",
+  "difficulty": "medium",
+  "topic": "mammal-milk"
+ },
+ {
+  "id": "easy-anim-133",
+  "prompt": "Which body covering do all birds have?",
+  "choices": [
+   "feathers",
+   "fur",
+   "scales",
+   "shells"
+  ],
+  "answer": "feathers",
+  "difficulty": "easy",
+  "topic": "bird-feathers"
+ },
+ {
+  "id": "easy-anim-134",
+  "prompt": "Fish breathe underwater using what?",
+  "choices": [
+   "lungs",
+   "gills",
+   "wings",
+   "horns"
+  ],
+  "answer": "gills",
+  "difficulty": "medium",
+  "topic": "fish-gills"
+ },
+ {
+  "id": "easy-anim-135",
+  "prompt": "Snakes are covered in what?",
+  "choices": [
+   "fur",
+   "feathers",
+   "scales",
+   "spikes"
+  ],
+  "answer": "scales",
+  "difficulty": "easy",
+  "topic": "snake-scales"
+ },
+ {
+  "id": "easy-anim-136",
+  "prompt": "Which mammal lays eggs?",
+  "choices": [
+   "rabbit",
+   "dog",
+   "cow",
+   "platypus"
+  ],
+  "answer": "platypus",
+  "difficulty": "hard",
+  "topic": "platypus-eggs"
+ },
+ {
+  "id": "easy-anim-137",
+  "prompt": "Kangaroos carry their babies in a what?",
+  "choices": [
+   "pouch",
+   "basket",
+   "backpack",
+   "nest"
+  ],
+  "answer": "pouch",
+  "difficulty": "easy",
+  "topic": "kangaroo-pouch"
+ },
+ {
+  "id": "easy-anim-138",
+  "prompt": "Which of these is an insect?",
+  "choices": [
+   "spider",
+   "ant",
+   "snail",
+   "worm"
+  ],
+  "answer": "ant",
+  "difficulty": "medium",
+  "topic": "insect-ant"
+ },
+ {
+  "id": "easy-anim-139",
+  "prompt": "Which of these is a reptile?",
+  "choices": [
+   "newt",
+   "dolphin",
+   "lizard",
+   "goldfish"
+  ],
+  "answer": "lizard",
+  "difficulty": "medium",
+  "topic": "reptile-lizard"
+ },
+ {
+  "id": "easy-anim-140",
+  "prompt": "Which of these is a bird?",
+  "choices": [
+   "bat",
+   "dolphin",
+   "butterfly",
+   "penguin"
+  ],
+  "answer": "penguin",
+  "difficulty": "medium",
+  "topic": "bird-penguin"
+ },
+ {
+  "id": "easy-anim-141",
+  "prompt": "A shark is a kind of what?",
+  "choices": [
+   "fish",
+   "mammal",
+   "reptile",
+   "whale"
+  ],
+  "answer": "fish",
+  "difficulty": "easy",
+  "topic": "shark-class"
+ },
+ {
+  "id": "easy-anim-142",
+  "prompt": "A seahorse is a kind of what?",
+  "choices": [
+   "insect",
+   "fish",
+   "shell",
+   "crab"
+  ],
+  "answer": "fish",
+  "difficulty": "medium",
+  "topic": "seahorse-class"
+ },
+ {
+  "id": "easy-anim-143",
+  "prompt": "Mice, rats and squirrels are all what?",
+  "choices": [
+   "reptiles",
+   "insects",
+   "rodents",
+   "birds"
+  ],
+  "answer": "rodents",
+  "difficulty": "hard",
+  "topic": "rodents"
+ },
+ {
+  "id": "easy-anim-144",
+  "prompt": "Koalas, like kangaroos, are what kind of animal?",
+  "choices": [
+   "reptiles",
+   "insects",
+   "birds",
+   "marsupials"
+  ],
+  "answer": "marsupials",
+  "difficulty": "hard",
+  "topic": "koala-marsupial"
+ },
+ {
+  "id": "easy-anim-145",
+  "prompt": "Which animal is the biggest in the world?",
+  "choices": [
+   "blue whale",
+   "elephant",
+   "giraffe",
+   "shark"
+  ],
+  "answer": "blue whale",
+  "difficulty": "easy",
+  "topic": "biggest-animal"
+ },
+ {
+  "id": "easy-anim-146",
+  "prompt": "Which is the fastest land animal?",
+  "choices": [
+   "lion",
+   "cheetah",
+   "horse",
+   "rabbit"
+  ],
+  "answer": "cheetah",
+  "difficulty": "easy",
+  "topic": "fastest-land"
+ },
+ {
+  "id": "easy-anim-147",
+  "prompt": "Which animal is the tallest?",
+  "choices": [
+   "elephant",
+   "camel",
+   "giraffe",
+   "ostrich"
+  ],
+  "answer": "giraffe",
+  "difficulty": "easy",
+  "topic": "tallest-animal"
+ },
+ {
+  "id": "easy-anim-148",
+  "prompt": "Which is the biggest land animal?",
+  "choices": [
+   "hippo",
+   "giraffe",
+   "rhino",
+   "elephant"
+  ],
+  "answer": "elephant",
+  "difficulty": "easy",
+  "topic": "biggest-land"
+ },
+ {
+  "id": "easy-anim-149",
+  "prompt": "Which bird is the biggest?",
+  "choices": [
+   "ostrich",
+   "eagle",
+   "owl",
+   "swan"
+  ],
+  "answer": "ostrich",
+  "difficulty": "medium",
+  "topic": "biggest-bird"
+ },
+ {
+  "id": "easy-anim-150",
+  "prompt": "Which tiny bird can hover and fly backwards?",
+  "choices": [
+   "eagle",
+   "hummingbird",
+   "owl",
+   "ostrich"
+  ],
+  "answer": "hummingbird",
+  "difficulty": "medium",
+  "topic": "hummingbird-hover"
+ },
+ {
+  "id": "easy-anim-151",
+  "prompt": "Which bird dives the fastest?",
+  "choices": [
+   "ostrich",
+   "hummingbird",
+   "peregrine falcon",
+   "owl"
+  ],
+  "answer": "peregrine falcon",
+  "difficulty": "hard",
+  "topic": "fastest-bird"
+ },
+ {
+  "id": "easy-anim-152",
+  "prompt": "Which is the biggest fish?",
+  "choices": [
+   "dolphin",
+   "swordfish",
+   "trout",
+   "whale shark"
+  ],
+  "answer": "whale shark",
+  "difficulty": "hard",
+  "topic": "biggest-fish"
+ },
+ {
+  "id": "easy-anim-153",
+  "prompt": "Which animal has the longest neck?",
+  "choices": [
+   "giraffe",
+   "elephant",
+   "zebra",
+   "lion"
+  ],
+  "answer": "giraffe",
+  "difficulty": "easy",
+  "topic": "longest-neck"
+ },
+ {
+  "id": "easy-anim-154",
+  "prompt": "Which is the biggest reptile?",
+  "choices": [
+   "Komodo dragon",
+   "saltwater crocodile",
+   "green turtle",
+   "cobra"
+  ],
+  "answer": "saltwater crocodile",
+  "difficulty": "hard",
+  "topic": "biggest-reptile"
+ },
+ {
+  "id": "easy-anim-155",
+  "prompt": "Which is the biggest cat?",
+  "choices": [
+   "lion",
+   "cheetah",
+   "tiger",
+   "house cat"
+  ],
+  "answer": "tiger",
+  "difficulty": "medium",
+  "topic": "biggest-cat"
+ },
+ {
+  "id": "easy-anim-156",
+  "prompt": "Which is the biggest ape?",
+  "choices": [
+   "monkey",
+   "baboon",
+   "lemur",
+   "gorilla"
+  ],
+  "answer": "gorilla",
+  "difficulty": "medium",
+  "topic": "biggest-ape"
+ },
+ {
+  "id": "easy-anim-157",
+  "prompt": "Which land animal has the biggest ears?",
+  "choices": [
+   "elephant",
+   "rabbit",
+   "mouse",
+   "horse"
+  ],
+  "answer": "elephant",
+  "difficulty": "medium",
+  "topic": "biggest-ears"
+ },
+ {
+  "id": "easy-anim-158",
+  "prompt": "A tadpole grows into a what?",
+  "choices": [
+   "fish",
+   "frog",
+   "snake",
+   "lizard"
+  ],
+  "answer": "frog",
+  "difficulty": "easy",
+  "topic": "tadpole-frog"
+ },
+ {
+  "id": "easy-anim-159",
+  "prompt": "A caterpillar in a chrysalis becomes a what?",
+  "choices": [
+   "beetle",
+   "bee",
+   "butterfly",
+   "ant"
+  ],
+  "answer": "butterfly",
+  "difficulty": "medium",
+  "topic": "chrysalis"
+ },
+ {
+  "id": "easy-anim-160",
+  "prompt": "The chrysalis stage in a butterfly's life is called a what?",
+  "choices": [
+   "larva",
+   "fry",
+   "kit",
+   "pupa"
+  ],
+  "answer": "pupa",
+  "difficulty": "hard",
+  "topic": "pupa"
+ },
+ {
+  "id": "easy-anim-161",
+  "prompt": "Sea turtles lay their eggs on the what?",
+  "choices": [
+   "beach",
+   "treetop",
+   "ice",
+   "mountain"
+  ],
+  "answer": "beach",
+  "difficulty": "easy",
+  "topic": "turtle-eggs"
+ },
+ {
+  "id": "easy-anim-162",
+  "prompt": "Baby dinosaurs hatched from what?",
+  "choices": [
+   "seeds",
+   "eggs",
+   "cocoons",
+   "bubbles"
+  ],
+  "answer": "eggs",
+  "difficulty": "easy",
+  "topic": "dino-eggs"
+ },
+ {
+  "id": "easy-anim-163",
+  "prompt": "Which dinosaur had a big head and tiny arms?",
+  "choices": [
+   "Stegosaurus",
+   "Triceratops",
+   "T. rex",
+   "Brachiosaurus"
+  ],
+  "answer": "T. rex",
+  "difficulty": "easy",
+  "topic": "trex"
+ },
+ {
+  "id": "easy-anim-164",
+  "prompt": "Triceratops had how many horns on its face?",
+  "choices": [
+   "two",
+   "five",
+   "one",
+   "three"
+  ],
+  "answer": "three",
+  "difficulty": "medium",
+  "topic": "triceratops"
+ },
+ {
+  "id": "easy-anim-165",
+  "prompt": "Which dinosaur had big plates on its back?",
+  "choices": [
+   "Stegosaurus",
+   "T. rex",
+   "Triceratops",
+   "Velociraptor"
+  ],
+  "answer": "Stegosaurus",
+  "difficulty": "medium",
+  "topic": "stegosaurus"
+ },
+ {
+  "id": "easy-anim-166",
+  "prompt": "Which dinosaur had a very long neck?",
+  "choices": [
+   "T. rex",
+   "Brachiosaurus",
+   "Velociraptor",
+   "Triceratops"
+  ],
+  "answer": "Brachiosaurus",
+  "difficulty": "medium",
+  "topic": "brachiosaurus"
+ },
+ {
+  "id": "easy-anim-167",
+  "prompt": "A fossil is an old bone turned to what?",
+  "choices": [
+   "ice",
+   "glass",
+   "stone",
+   "sand"
+  ],
+  "answer": "stone",
+  "difficulty": "medium",
+  "topic": "fossil"
+ },
+ {
+  "id": "easy-anim-168",
+  "prompt": "A scientist who studies dinosaurs is called a what?",
+  "choices": [
+   "astronomer",
+   "chemist",
+   "baker",
+   "paleontologist"
+  ],
+  "answer": "paleontologist",
+  "difficulty": "hard",
+  "topic": "paleontologist"
+ },
+ {
+  "id": "easy-anim-169",
+  "prompt": "Dinosaurs' closest living relatives are what?",
+  "choices": [
+   "birds",
+   "frogs",
+   "cows",
+   "spiders"
+  ],
+  "answer": "birds",
+  "difficulty": "medium",
+  "topic": "dino-relatives"
+ },
+ {
+  "id": "easy-anim-170",
+  "prompt": "A woolly mammoth looked like a hairy what?",
+  "choices": [
+   "bear",
+   "elephant",
+   "rhino",
+   "pig"
+  ],
+  "answer": "elephant",
+  "difficulty": "medium",
+  "topic": "mammoth"
+ },
+ {
+  "id": "easy-anim-171",
+  "prompt": "An elephant's long nose is called a what?",
+  "choices": [
+   "tusk",
+   "horn",
+   "trunk",
+   "beak"
+  ],
+  "answer": "trunk",
+  "difficulty": "easy",
+  "topic": "elephant-trunk"
+ },
+ {
+  "id": "easy-anim-172",
+  "prompt": "Which animal has black and white stripes?",
+  "choices": [
+   "giraffe",
+   "cow",
+   "horse",
+   "zebra"
+  ],
+  "answer": "zebra",
+  "difficulty": "easy",
+  "topic": "zebra-stripes"
+ },
+ {
+  "id": "easy-anim-173",
+  "prompt": "Which big cat has orange fur with black stripes?",
+  "choices": [
+   "tiger",
+   "lion",
+   "leopard",
+   "cheetah"
+  ],
+  "answer": "tiger",
+  "difficulty": "easy",
+  "topic": "tiger-stripes"
+ },
+ {
+  "id": "easy-anim-174",
+  "prompt": "Which big cat has a mane?",
+  "choices": [
+   "tiger",
+   "lion",
+   "cheetah",
+   "leopard"
+  ],
+  "answer": "lion",
+  "difficulty": "easy",
+  "topic": "lion-mane"
+ },
+ {
+  "id": "easy-anim-175",
+  "prompt": "A male lion's hairy neck is called a what?",
+  "choices": [
+   "trunk",
+   "shell",
+   "mane",
+   "quill"
+  ],
+  "answer": "mane",
+  "difficulty": "medium",
+  "topic": "mane"
+ },
+ {
+  "id": "easy-anim-176",
+  "prompt": "Camels store fat in their what?",
+  "choices": [
+   "tails",
+   "ears",
+   "feet",
+   "humps"
+  ],
+  "answer": "humps",
+  "difficulty": "easy",
+  "topic": "camel-hump"
+ },
+ {
+  "id": "easy-anim-177",
+  "prompt": "Which big animal has a horn on its nose?",
+  "choices": [
+   "rhino",
+   "hippo",
+   "zebra",
+   "giraffe"
+  ],
+  "answer": "rhino",
+  "difficulty": "easy",
+  "topic": "rhino-horn"
+ },
+ {
+  "id": "easy-anim-178",
+  "prompt": "How many arms does an octopus have?",
+  "choices": [
+   "6",
+   "8",
+   "10",
+   "4"
+  ],
+  "answer": "8",
+  "difficulty": "easy",
+  "topic": "octopus-arms"
+ },
+ {
+  "id": "easy-anim-179",
+  "prompt": "How many hearts does an octopus have?",
+  "choices": [
+   "1",
+   "2",
+   "3",
+   "8"
+  ],
+  "answer": "3",
+  "difficulty": "hard",
+  "topic": "octopus-hearts"
+ },
+ {
+  "id": "easy-anim-180",
+  "prompt": "Which animal is famous for changing its color?",
+  "choices": [
+   "turtle",
+   "hippo",
+   "crocodile",
+   "chameleon"
+  ],
+  "answer": "chameleon",
+  "difficulty": "medium",
+  "topic": "chameleon"
+ },
+ {
+  "id": "easy-anim-181",
+  "prompt": "Porcupines have sharp what on their backs?",
+  "choices": [
+   "quills",
+   "feathers",
+   "scales",
+   "horns"
+  ],
+  "answer": "quills",
+  "difficulty": "medium",
+  "topic": "porcupine"
+ },
+ {
+  "id": "easy-anim-182",
+  "prompt": "Which animal can spray a stinky smell?",
+  "choices": [
+   "rabbit",
+   "skunk",
+   "duck",
+   "horse"
+  ],
+  "answer": "skunk",
+  "difficulty": "easy",
+  "topic": "skunk"
+ },
+ {
+  "id": "easy-anim-183",
+  "prompt": "Which pink bird often stands on one leg?",
+  "choices": [
+   "owl",
+   "crow",
+   "flamingo",
+   "duck"
+  ],
+  "answer": "flamingo",
+  "difficulty": "easy",
+  "topic": "flamingo"
+ },
+ {
+  "id": "easy-anim-184",
+  "prompt": "Which colorful bird has a very big beak?",
+  "choices": [
+   "robin",
+   "sparrow",
+   "dove",
+   "toucan"
+  ],
+  "answer": "toucan",
+  "difficulty": "medium",
+  "topic": "toucan"
+ },
+ {
+  "id": "easy-anim-185",
+  "prompt": "Which bird shows off a big fan of tail feathers?",
+  "choices": [
+   "peacock",
+   "owl",
+   "crow",
+   "penguin"
+  ],
+  "answer": "peacock",
+  "difficulty": "medium",
+  "topic": "peacock"
+ },
+ {
+  "id": "easy-anim-186",
+  "prompt": "Which bird pecks holes in trees?",
+  "choices": [
+   "swan",
+   "woodpecker",
+   "pelican",
+   "duck"
+  ],
+  "answer": "woodpecker",
+  "difficulty": "medium",
+  "topic": "woodpecker"
+ },
+ {
+  "id": "easy-anim-187",
+  "prompt": "Ducks have what kind of feet for swimming?",
+  "choices": [
+   "furry",
+   "hairy",
+   "webbed",
+   "square"
+  ],
+  "answer": "webbed",
+  "difficulty": "medium",
+  "topic": "duck-feet"
+ },
+ {
+  "id": "easy-anim-188",
+  "prompt": "Goat pupils are shaped like what?",
+  "choices": [
+   "circles",
+   "stars",
+   "hearts",
+   "rectangles"
+  ],
+  "answer": "rectangles",
+  "difficulty": "hard",
+  "topic": "goat-pupils"
+ },
+ {
+  "id": "easy-anim-189",
+  "prompt": "A goat's stomach has how many parts?",
+  "choices": [
+   "four",
+   "one",
+   "two",
+   "ten"
+  ],
+  "answer": "four",
+  "difficulty": "hard",
+  "topic": "goat-stomach"
+ },
+ {
+  "id": "easy-anim-190",
+  "prompt": "Goats are great at climbing what?",
+  "choices": [
+   "clouds",
+   "mountains",
+   "oceans",
+   "glass"
+  ],
+  "answer": "mountains",
+  "difficulty": "easy",
+  "topic": "goat-climb"
+ },
+ {
+  "id": "easy-anim-191",
+  "prompt": "Goats walk on what kind of feet?",
+  "choices": [
+   "paws",
+   "flippers",
+   "hooves",
+   "webbed feet"
+  ],
+  "answer": "hooves",
+  "difficulty": "medium",
+  "topic": "goat-hooves"
+ },
+ {
+  "id": "easy-anim-192",
+  "prompt": "People can make cheese from the milk of which animal?",
+  "choices": [
+   "snake",
+   "hen",
+   "bee",
+   "goat"
+  ],
+  "answer": "goat",
+  "difficulty": "easy",
+  "topic": "goat-cheese"
+ },
+ {
+  "id": "easy-anim-193",
+  "prompt": "What grows on top of many goats' heads?",
+  "choices": [
+   "horns",
+   "antlers",
+   "wings",
+   "feathers"
+  ],
+  "answer": "horns",
+  "difficulty": "medium",
+  "topic": "goat-horns"
+ },
+ {
+  "id": "easy-anim-194",
+  "prompt": "Many goats have a little what under the chin?",
+  "choices": [
+   "wing",
+   "beard",
+   "tusk",
+   "mask"
+  ],
+  "answer": "beard",
+  "difficulty": "medium",
+  "topic": "goat-beard"
+ },
+ {
+  "id": "easy-anim-195",
+  "prompt": "Bees tell friends where flowers are by doing a what?",
+  "choices": [
+   "song",
+   "drawing",
+   "dance",
+   "race"
+  ],
+  "answer": "dance",
+  "difficulty": "hard",
+  "topic": "bee-dance"
+ },
+ {
+  "id": "easy-anim-196",
+  "prompt": "Each beehive has one what who lays eggs?",
+  "choices": [
+   "king",
+   "prince",
+   "duke",
+   "queen"
+  ],
+  "answer": "queen",
+  "difficulty": "medium",
+  "topic": "queen-bee"
+ },
+ {
+  "id": "easy-anim-197",
+  "prompt": "Spiders spin webs from what?",
+  "choices": [
+   "silk",
+   "cotton",
+   "paper",
+   "hair"
+  ],
+  "answer": "silk",
+  "difficulty": "medium",
+  "topic": "spider-silk"
+ },
+ {
+  "id": "easy-anim-198",
+  "prompt": "Which insect glows in the dark?",
+  "choices": [
+   "ant",
+   "firefly",
+   "butterfly",
+   "bee"
+  ],
+  "answer": "firefly",
+  "difficulty": "easy",
+  "topic": "firefly"
+ },
+ {
+  "id": "easy-anim-199",
+  "prompt": "Crickets chirp by rubbing their what?",
+  "choices": [
+   "knees",
+   "noses",
+   "wings",
+   "tails"
+  ],
+  "answer": "wings",
+  "difficulty": "medium",
+  "topic": "cricket-wings"
+ },
+ {
+  "id": "easy-anim-200",
+  "prompt": "Butterflies taste with their what?",
+  "choices": [
+   "wings",
+   "wingtips",
+   "eyes",
+   "feet"
+  ],
+  "answer": "feet",
+  "difficulty": "hard",
+  "topic": "butterfly-taste"
+ },
+ {
+  "id": "easy-anim-201",
+  "prompt": "An octopus can squirt what to hide?",
+  "choices": [
+   "ink",
+   "milk",
+   "glitter",
+   "soda"
+  ],
+  "answer": "ink",
+  "difficulty": "medium",
+  "topic": "octopus-ink"
+ },
+ {
+  "id": "easy-anim-202",
+  "prompt": "Whales breathe air through a what on their heads?",
+  "choices": [
+   "gill",
+   "blowhole",
+   "trunk",
+   "beak"
+  ],
+  "answer": "blowhole",
+  "difficulty": "medium",
+  "topic": "blowhole"
+ },
+ {
+  "id": "easy-anim-203",
+  "prompt": "Which furry animal floats on its back in the sea?",
+  "choices": [
+   "beaver",
+   "rabbit",
+   "sea otter",
+   "fox"
+  ],
+  "answer": "sea otter",
+  "difficulty": "medium",
+  "topic": "sea-otter"
+ },
+ {
+  "id": "easy-anim-204",
+  "prompt": "Crabs walk which way?",
+  "choices": [
+   "backward",
+   "upside down",
+   "in circles",
+   "sideways"
+  ],
+  "answer": "sideways",
+  "difficulty": "easy",
+  "topic": "crab-walk"
+ },
+ {
+  "id": "easy-anim-205",
+  "prompt": "Penguins cannot fly, but they are great at what?",
+  "choices": [
+   "swimming",
+   "flying",
+   "climbing",
+   "singing"
+  ],
+  "answer": "swimming",
+  "difficulty": "easy",
+  "topic": "penguin-swim"
+ },
+ {
+  "id": "easy-anim-206",
+  "prompt": "Which bird of New Zealand cannot fly?",
+  "choices": [
+   "eagle",
+   "kiwi",
+   "robin",
+   "owl"
+  ],
+  "answer": "kiwi",
+  "difficulty": "hard",
+  "topic": "kiwi"
+ },
+ {
+  "id": "easy-anim-207",
+  "prompt": "Dogs have a great sense of what?",
+  "choices": [
+   "taste",
+   "hearing only",
+   "smell",
+   "color"
+  ],
+  "answer": "smell",
+  "difficulty": "easy",
+  "topic": "dog-smell"
+ },
+ {
+  "id": "easy-anim-208",
+  "prompt": "Which big animal spends the day in water to stay cool?",
+  "choices": [
+   "lion",
+   "zebra",
+   "camel",
+   "hippo"
+  ],
+  "answer": "hippo",
+  "difficulty": "easy",
+  "topic": "hippo-water"
+ },
+ {
+  "id": "easy-anim-209",
+  "prompt": "How many neck bones does a giraffe have?",
+  "choices": [
+   "seven",
+   "two",
+   "twenty",
+   "fifty"
+  ],
+  "answer": "seven",
+  "difficulty": "hard",
+  "topic": "giraffe-neck"
+ },
+ {
+  "id": "easy-anim-210",
+  "prompt": "Kangaroos move by doing what?",
+  "choices": [
+   "crawling",
+   "hopping",
+   "rolling",
+   "swimming"
+  ],
+  "answer": "hopping",
+  "difficulty": "easy",
+  "topic": "kangaroo-hop"
+ },
+ {
+  "id": "easy-anim-211",
+  "prompt": "Giant pandas are black and what?",
+  "choices": [
+   "pink",
+   "green",
+   "white",
+   "blue"
+  ],
+  "answer": "white",
+  "difficulty": "easy",
+  "topic": "panda-color"
+ },
+ {
+  "id": "easy-anim-212",
+  "prompt": "Which small spiky animal curls into a ball?",
+  "choices": [
+   "beaver",
+   "otter",
+   "rabbit",
+   "hedgehog"
+  ],
+  "answer": "hedgehog",
+  "difficulty": "medium",
+  "topic": "hedgehog"
+ },
+ {
+  "id": "easy-anim-213",
+  "prompt": "Which small animal digs tunnels and has tiny eyes?",
+  "choices": [
+   "mole",
+   "eagle",
+   "trout",
+   "sheep"
+  ],
+  "answer": "mole",
+  "difficulty": "medium",
+  "topic": "mole"
+ },
+ {
+  "id": "easy-anim-214",
+  "prompt": "Beavers have strong front what?",
+  "choices": [
+   "wings",
+   "teeth",
+   "horns",
+   "tusks"
+  ],
+  "answer": "teeth",
+  "difficulty": "medium",
+  "topic": "beaver-teeth"
+ },
+ {
+  "id": "easy-anim-215",
+  "prompt": "Snakes smell the air with their what?",
+  "choices": [
+   "tail",
+   "ears",
+   "tongue",
+   "knees"
+  ],
+  "answer": "tongue",
+  "difficulty": "medium",
+  "topic": "snake-tongue"
+ },
+ {
+  "id": "easy-anim-216",
+  "prompt": "Snakes shed their what as they grow?",
+  "choices": [
+   "feathers",
+   "horns",
+   "eyes",
+   "skin"
+  ],
+  "answer": "skin",
+  "difficulty": "medium",
+  "topic": "snake-shed"
+ },
+ {
+  "id": "easy-anim-217",
+  "prompt": "Humpback whales are famous for singing what?",
+  "choices": [
+   "songs",
+   "poems",
+   "jokes",
+   "lullabies"
+  ],
+  "answer": "songs",
+  "difficulty": "medium",
+  "topic": "humpback-song"
+ },
+ {
+  "id": "easy-anim-218",
+  "prompt": "The biggest animal eats tiny shrimp-like animals called what?",
+  "choices": [
+   "pickles",
+   "krill",
+   "worms",
+   "clams"
+  ],
+  "answer": "krill",
+  "difficulty": "hard",
+  "topic": "whale-krill"
+ },
+ {
+  "id": "easy-anim-219",
+  "prompt": "In seahorses, which parent carries the babies?",
+  "choices": [
+   "mom",
+   "grandma",
+   "dad",
+   "baby sister"
+  ],
+  "answer": "dad",
+  "difficulty": "hard",
+  "topic": "seahorse-dad"
+ },
+ {
+  "id": "easy-anim-220",
+  "prompt": "Which sea animal looks like a star?",
+  "choices": [
+   "crab",
+   "whale",
+   "seal",
+   "starfish"
+  ],
+  "answer": "starfish",
+  "difficulty": "easy",
+  "topic": "starfish"
+ },
+ {
+  "id": "easy-anim-221",
+  "prompt": "Which sea animal has a long tusk like a unicorn horn?",
+  "choices": [
+   "narwhal",
+   "dolphin",
+   "shark",
+   "walrus"
+  ],
+  "answer": "narwhal",
+  "difficulty": "medium",
+  "topic": "narwhal"
+ },
+ {
+  "id": "easy-anim-222",
+  "prompt": "Which sea animal has two long tusks and lives in cold water?",
+  "choices": [
+   "dolphin",
+   "walrus",
+   "crab",
+   "turtle"
+  ],
+  "answer": "walrus",
+  "difficulty": "medium",
+  "topic": "walrus"
+ },
+ {
+  "id": "easy-anim-223",
+  "prompt": "Clownfish live among the stinging arms of what?",
+  "choices": [
+   "jellyfish",
+   "sharks",
+   "sea anemones",
+   "crabs"
+  ],
+  "answer": "sea anemones",
+  "difficulty": "hard",
+  "topic": "clownfish"
+ },
+ {
+  "id": "easy-anim-224",
+  "prompt": "Which woolly animal lives in the Andes mountains?",
+  "choices": [
+   "zebra",
+   "moose",
+   "lion",
+   "llama"
+  ],
+  "answer": "llama",
+  "difficulty": "medium",
+  "topic": "llama-wool"
+ },
+ {
+  "id": "easy-anim-225",
+  "prompt": "Which bird is a symbol of peace?",
+  "choices": [
+   "dove",
+   "vulture",
+   "crow",
+   "owl"
+  ],
+  "answer": "dove",
+  "difficulty": "medium",
+  "topic": "dove-peace"
+ },
+ {
+  "id": "easy-anim-226",
+  "prompt": "Which bird lays the biggest egg?",
+  "choices": [
+   "robin",
+   "ostrich",
+   "duck",
+   "eagle"
+  ],
+  "answer": "ostrich",
+  "difficulty": "medium",
+  "topic": "ostrich-egg"
+ },
+ {
+  "id": "easy-anim-227",
+  "prompt": "Which green insect hops through grass?",
+  "choices": [
+   "ladybug",
+   "bee",
+   "grasshopper",
+   "firefly"
+  ],
+  "answer": "grasshopper",
+  "difficulty": "medium",
+  "topic": "grasshopper"
+ },
+ {
+  "id": "easy-anim-228",
+  "prompt": "Which crawling animal leaves a slime trail?",
+  "choices": [
+   "ant",
+   "beetle",
+   "bee",
+   "snail"
+  ],
+  "answer": "snail",
+  "difficulty": "medium",
+  "topic": "snail-trail"
+ },
+ {
+  "id": "easy-anim-229",
+  "prompt": "Bees help flowers by spreading what?",
+  "choices": [
+   "pollen",
+   "water",
+   "milk",
+   "snow"
+  ],
+  "answer": "pollen",
+  "difficulty": "medium",
+  "topic": "bee-pollen"
+ },
+ {
+  "id": "easy-anim-230",
+  "prompt": "Earthworms wiggle through the what?",
+  "choices": [
+   "sky",
+   "soil",
+   "treetops",
+   "clouds"
+  ],
+  "answer": "soil",
+  "difficulty": "medium",
+  "topic": "worm-soil"
+ },
+ {
+  "id": "easy-anim-231",
+  "prompt": "How many wings does a butterfly have?",
+  "choices": [
+   "2",
+   "6",
+   "4",
+   "8"
+  ],
+  "answer": "4",
+  "difficulty": "medium",
+  "topic": "butterfly-wings"
+ },
+ {
+  "id": "easy-anim-232",
+  "prompt": "How many legs does a bird have?",
+  "choices": [
+   "4",
+   "6",
+   "8",
+   "2"
+  ],
+  "answer": "2",
+  "difficulty": "easy",
+  "topic": "bird-legs"
+ },
+ {
+  "id": "easy-anim-233",
+  "prompt": "How many legs does a cow have?",
+  "choices": [
+   "4",
+   "2",
+   "6",
+   "8"
+  ],
+  "answer": "4",
+  "difficulty": "easy",
+  "topic": "cow-legs"
+ },
+ {
+  "id": "easy-anim-234",
+  "prompt": "Mother goats feed their kids what?",
+  "choices": [
+   "hay",
+   "milk",
+   "corn",
+   "ice"
+  ],
+  "answer": "milk",
+  "difficulty": "easy",
+  "topic": "goat-milk-kids"
+ },
+ {
+  "id": "easy-anim-235",
+  "prompt": "Which animal do cowboys ride?",
+  "choices": [
+   "goat",
+   "pig",
+   "horse",
+   "duck"
+  ],
+  "answer": "horse",
+  "difficulty": "easy",
+  "topic": "horse-ride"
+ },
+ {
+  "id": "easy-anim-236",
+  "prompt": "A horse's feet are called what?",
+  "choices": [
+   "paws",
+   "claws",
+   "flippers",
+   "hooves"
+  ],
+  "answer": "hooves",
+  "difficulty": "medium",
+  "topic": "horse-hooves"
+ },
+ {
+  "id": "easy-anim-237",
+  "prompt": "A cat's long face hairs are called what?",
+  "choices": [
+   "whiskers",
+   "feathers",
+   "quills",
+   "antlers"
+  ],
+  "answer": "whiskers",
+  "difficulty": "easy",
+  "topic": "cat-whiskers"
+ },
+ {
+  "id": "easy-anim-238",
+  "prompt": "A bird's mouth is called a what?",
+  "choices": [
+   "trunk",
+   "beak",
+   "snout",
+   "muzzle"
+  ],
+  "answer": "beak",
+  "difficulty": "easy",
+  "topic": "bird-beak"
+ },
+ {
+  "id": "easy-anim-239",
+  "prompt": "Which white bird has a long curved neck and swims on lakes?",
+  "choices": [
+   "owl",
+   "crow",
+   "swan",
+   "hen"
+  ],
+  "answer": "swan",
+  "difficulty": "easy",
+  "topic": "swan"
+ },
+ {
+  "id": "easy-anim-240",
+  "prompt": "Which bird has a big pouch under its beak?",
+  "choices": [
+   "robin",
+   "owl",
+   "duck",
+   "pelican"
+  ],
+  "answer": "pelican",
+  "difficulty": "medium",
+  "topic": "pelican-pouch"
+ },
+ {
+  "id": "easy-anim-241",
+  "prompt": "Geese fly south in a shape like what letter?",
+  "choices": [
+   "V",
+   "O",
+   "Z",
+   "T"
+  ],
+  "answer": "V",
+  "difficulty": "medium",
+  "topic": "geese-v"
+ },
+ {
+  "id": "easy-anim-242",
+  "prompt": "A hen sits on her eggs to keep them what?",
+  "choices": [
+   "cold",
+   "warm",
+   "wet",
+   "noisy"
+  ],
+  "answer": "warm",
+  "difficulty": "easy",
+  "topic": "hen-warm"
+ },
+ {
+  "id": "easy-anim-243",
+  "prompt": "Fish swim using their what?",
+  "choices": [
+   "wings",
+   "hooves",
+   "fins",
+   "paws"
+  ],
+  "answer": "fins",
+  "difficulty": "easy",
+  "topic": "fish-fins"
+ },
+ {
+  "id": "easy-anim-244",
+  "prompt": "Jellyfish have long stinging what?",
+  "choices": [
+   "quills",
+   "horns",
+   "wings",
+   "tentacles"
+  ],
+  "answer": "tentacles",
+  "difficulty": "medium",
+  "topic": "jellyfish"
+ },
+ {
+  "id": "easy-anim-245",
+  "prompt": "Colorful fish live around a coral what?",
+  "choices": [
+   "reef",
+   "roof",
+   "tree",
+   "hill"
+  ],
+  "answer": "reef",
+  "difficulty": "medium",
+  "topic": "coral-reef"
+ },
+ {
+  "id": "easy-anim-246",
+  "prompt": "Bats often sleep in dark what?",
+  "choices": [
+   "nests",
+   "caves",
+   "hives",
+   "ponds"
+  ],
+  "answer": "caves",
+  "difficulty": "easy",
+  "topic": "bat-cave"
+ },
+ {
+  "id": "easy-anim-247",
+  "prompt": "Frogs like to live near a what?",
+  "choices": [
+   "desert",
+   "volcano",
+   "pond",
+   "attic"
+  ],
+  "answer": "pond",
+  "difficulty": "easy",
+  "topic": "frog-pond"
+ },
+ {
+  "id": "easy-anim-248",
+  "prompt": "Zebras, lions and giraffes live on grassy plains called what?",
+  "choices": [
+   "tundra",
+   "reef",
+   "swamp",
+   "savanna"
+  ],
+  "answer": "savanna",
+  "difficulty": "medium",
+  "topic": "savanna"
+ },
+ {
+  "id": "easy-anim-249",
+  "prompt": "An animal's habitat is its natural what?",
+  "choices": [
+   "home",
+   "food",
+   "sound",
+   "color"
+  ],
+  "answer": "home",
+  "difficulty": "medium",
+  "topic": "habitat"
+ },
+ {
+  "id": "easy-anim-250",
+  "prompt": "Hiding by blending in with the surroundings is called what?",
+  "choices": [
+   "hibernation",
+   "camouflage",
+   "migration",
+   "shedding"
+  ],
+  "answer": "camouflage",
+  "difficulty": "medium",
+  "topic": "camouflage"
+ },
+ {
+  "id": "easy-anim-251",
+  "prompt": "Animals that have all died out are called what?",
+  "choices": [
+   "nocturnal",
+   "wild",
+   "extinct",
+   "tame"
+  ],
+  "answer": "extinct",
+  "difficulty": "medium",
+  "topic": "extinct"
+ },
+ {
+  "id": "easy-anim-252",
+  "prompt": "A veterinarian is a doctor for what?",
+  "choices": [
+   "trees",
+   "cars",
+   "toys",
+   "animals"
+  ],
+  "answer": "animals",
+  "difficulty": "easy",
+  "topic": "vet"
+ },
+ {
+  "id": "easy-anim-253",
+  "prompt": "Chickens sleep in a house called a what?",
+  "choices": [
+   "coop",
+   "stable",
+   "kennel",
+   "hive"
+  ],
+  "answer": "coop",
+  "difficulty": "medium",
+  "topic": "chicken-coop"
+ },
+ {
+  "id": "easy-anim-254",
+  "prompt": "A dog's little house is called a what?",
+  "choices": [
+   "coop",
+   "kennel",
+   "stable",
+   "hive"
+  ],
+  "answer": "kennel",
+  "difficulty": "medium",
+  "topic": "kennel"
+ },
+ {
+  "id": "easy-anim-255",
+  "prompt": "A glass tank for pet fish is called an what?",
+  "choices": [
+   "oven",
+   "kennel",
+   "aquarium",
+   "stable"
+  ],
+  "answer": "aquarium",
+  "difficulty": "easy",
+  "topic": "aquarium"
+ },
+ {
+  "id": "easy-anim-256",
+  "prompt": "Which place has many animals for people to visit?",
+  "choices": [
+   "bank",
+   "library",
+   "bakery",
+   "zoo"
+  ],
+  "answer": "zoo",
+  "difficulty": "easy",
+  "topic": "zoo"
+ },
+ {
+  "id": "easy-anim-257",
+  "prompt": "A big group of flying bees is called a what?",
+  "choices": [
+   "swarm",
+   "pride",
+   "herd",
+   "litter"
+  ],
+  "answer": "swarm",
+  "difficulty": "medium",
+  "topic": "bee-swarm"
+ },
+ {
+  "id": "easy-anim-258",
+  "prompt": "A group of gorillas is called a what?",
+  "choices": [
+   "pride",
+   "troop",
+   "school",
+   "flock"
+  ],
+  "answer": "troop",
+  "difficulty": "medium",
+  "topic": "group-gorillas"
+ },
+ {
+  "id": "easy-anim-259",
+  "prompt": "Which wild goat has long curved horns and climbs cliffs?",
+  "choices": [
+   "zebra",
+   "camel",
+   "ibex",
+   "llama"
+  ],
+  "answer": "ibex",
+  "difficulty": "hard",
+  "topic": "ibex"
+ },
+ {
+  "id": "easy-anim-260",
+  "prompt": "Zebras are cousins of which animal?",
+  "choices": [
+   "cow",
+   "pig",
+   "goat",
+   "horse"
+  ],
+  "answer": "horse",
+  "difficulty": "medium",
+  "topic": "zebra-cousin"
+ },
+ {
+  "id": "easy-anim-261",
+  "prompt": "Which red-furred animal has a bushy tail?",
+  "choices": [
+   "fox",
+   "zebra",
+   "seal",
+   "cow"
+  ],
+  "answer": "fox",
+  "difficulty": "easy",
+  "topic": "fox-tail"
+ },
+ {
+  "id": "easy-anim-262",
+  "prompt": "Which sea animal has flippers and loves lying on rocks?",
+  "choices": [
+   "crab",
+   "seal",
+   "shark",
+   "starfish"
+  ],
+  "answer": "seal",
+  "difficulty": "easy",
+  "topic": "seal-bark"
+ },
+ {
+  "id": "easy-anim-263",
+  "prompt": "Which big cat has black lines like tear marks on its face?",
+  "choices": [
+   "tiger",
+   "lion",
+   "cheetah",
+   "jaguar"
+  ],
+  "answer": "cheetah",
+  "difficulty": "hard",
+  "topic": "cheetah-tears"
+ },
+ {
+  "id": "easy-anim-264",
+  "prompt": "Bats find their way in the dark using what?",
+  "choices": [
+   "lamps",
+   "maps",
+   "wings only",
+   "echoes"
+  ],
+  "answer": "echoes",
+  "difficulty": "hard",
+  "topic": "bat-echo"
+ },
+ {
+  "id": "easy-anim-265",
+  "prompt": "Which reptile carries its home on its back?",
+  "choices": [
+   "turtle",
+   "snake",
+   "lizard",
+   "crocodile"
+  ],
+  "answer": "turtle",
+  "difficulty": "easy",
+  "topic": "turtle-shell"
+ },
+ {
+  "id": "easy-anim-266",
+  "prompt": "Which fish swims up rivers to lay eggs?",
+  "choices": [
+   "goldfish",
+   "salmon",
+   "shark",
+   "clownfish"
+  ],
+  "answer": "salmon",
+  "difficulty": "hard",
+  "topic": "salmon"
+ },
+ {
+  "id": "easy-anim-267",
+  "prompt": "Which fish can puff up like a balloon?",
+  "choices": [
+   "goldfish",
+   "eel",
+   "pufferfish",
+   "trout"
+  ],
+  "answer": "pufferfish",
+  "difficulty": "medium",
+  "topic": "pufferfish"
+ },
+ {
+  "id": "easy-anim-268",
+  "prompt": "Which animal says \"tweet\"?",
+  "choices": [
+   "cow",
+   "pig",
+   "frog",
+   "bird"
+  ],
+  "answer": "bird",
+  "difficulty": "easy",
+  "topic": "sound-bird"
+ },
+ {
+  "id": "easy-anim-269",
+  "prompt": "Which animal says \"cock-a-doodle-doo\"?",
+  "choices": [
+   "rooster",
+   "duck",
+   "cow",
+   "cat"
+  ],
+  "answer": "rooster",
+  "difficulty": "easy",
+  "topic": "sound-rooster"
+ },
+ {
+  "id": "easy-anim-270",
+  "prompt": "Which bird says \"honk\"?",
+  "choices": [
+   "owl",
+   "goose",
+   "hen",
+   "robin"
+  ],
+  "answer": "goose",
+  "difficulty": "medium",
+  "topic": "sound-goose"
+ },
+ {
+  "id": "easy-anim-271",
+  "prompt": "Which sea animal makes clicks and whistles?",
+  "choices": [
+   "crab",
+   "starfish",
+   "dolphin",
+   "lobster"
+  ],
+  "answer": "dolphin",
+  "difficulty": "medium",
+  "topic": "sound-dolphin"
+ },
+ {
+  "id": "easy-anim-272",
+  "prompt": "Which animal loves bananas?",
+  "choices": [
+   "cow",
+   "duck",
+   "wolf",
+   "monkey"
+  ],
+  "answer": "monkey",
+  "difficulty": "easy",
+  "topic": "monkey-banana"
+ },
+ {
+  "id": "easy-anim-273",
+  "prompt": "Which armored dinosaur had a club on its tail?",
+  "choices": [
+   "Ankylosaurus",
+   "T. rex",
+   "Triceratops",
+   "Diplodocus"
+  ],
+  "answer": "Ankylosaurus",
+  "difficulty": "hard",
+  "topic": "ankylosaurus"
+ },
+ {
+  "id": "easy-anim-274",
+  "prompt": "The word dinosaur means \"terrible\" what?",
+  "choices": [
+   "bird",
+   "lizard",
+   "frog",
+   "fish"
+  ],
+  "answer": "lizard",
+  "difficulty": "hard",
+  "topic": "dino-word"
+ },
+ {
+  "id": "easy-anim-275",
+  "prompt": "Which insect zooms around ponds on four long wings?",
+  "choices": [
+   "ladybug",
+   "ant",
+   "dragonfly",
+   "cricket"
+  ],
+  "answer": "dragonfly",
+  "difficulty": "medium",
+  "topic": "dragonfly"
+ },
+ {
+  "id": "easy-anim-276",
+  "prompt": "Insects have feelers on their heads called what?",
+  "choices": [
+   "horns",
+   "whiskers",
+   "tusks",
+   "antennae"
+  ],
+  "answer": "antennae",
+  "difficulty": "medium",
+  "topic": "antennae"
+ },
+ {
+  "id": "easy-anim-277",
+  "prompt": "How many main body parts does an insect have?",
+  "choices": [
+   "3",
+   "2",
+   "5",
+   "8"
+  ],
+  "answer": "3",
+  "difficulty": "hard",
+  "topic": "insect-parts"
+ },
+ {
+  "id": "easy-anim-278",
+  "prompt": "Which insect eats wood and builds big mounds?",
+  "choices": [
+   "ladybug",
+   "termite",
+   "firefly",
+   "bee"
+  ],
+  "answer": "termite",
+  "difficulty": "hard",
+  "topic": "termite"
+ },
+ {
+  "id": "easy-anim-279",
+  "prompt": "Which tiny insects march in lines carrying crumbs?",
+  "choices": [
+   "bees",
+   "beetles",
+   "ants",
+   "moths"
+  ],
+  "answer": "ants",
+  "difficulty": "easy",
+  "topic": "ants-march"
+ },
+ {
+  "id": "easy-anim-280",
+  "prompt": "Which insect can bite and leave an itchy bump?",
+  "choices": [
+   "ladybug",
+   "butterfly",
+   "firefly",
+   "mosquito"
+  ],
+  "answer": "mosquito",
+  "difficulty": "medium",
+  "topic": "mosquito"
+ },
+ {
+  "id": "easy-anim-281",
+  "prompt": "What do bees collect from flowers?",
+  "choices": [
+   "nectar",
+   "sand",
+   "water",
+   "seeds only"
+  ],
+  "answer": "nectar",
+  "difficulty": "medium",
+  "topic": "bee-collect"
+ },
+ {
+  "id": "easy-anim-282",
+  "prompt": "Which pet is known for barking?",
+  "choices": [
+   "goldfish",
+   "dog",
+   "hamster",
+   "parrot"
+  ],
+  "answer": "dog",
+  "difficulty": "easy",
+  "topic": "pet-bark"
+ },
+ {
+  "id": "easy-anim-283",
+  "prompt": "Which pet likes to chase a ball and fetch it?",
+  "choices": [
+   "goldfish",
+   "snail",
+   "dog",
+   "snake"
+  ],
+  "answer": "dog",
+  "difficulty": "easy",
+  "topic": "dog-fetch"
+ },
+ {
+  "id": "easy-anim-284",
+  "prompt": "Which farm animal has a curly tail and a snout?",
+  "choices": [
+   "cow",
+   "horse",
+   "goat",
+   "pig"
+  ],
+  "answer": "pig",
+  "difficulty": "easy",
+  "topic": "pig-snout"
+ },
+ {
+  "id": "easy-anim-285",
+  "prompt": "How many legs does a horse have?",
+  "choices": [
+   "4",
+   "2",
+   "6",
+   "8"
+  ],
+  "answer": "4",
+  "difficulty": "easy",
+  "topic": "horse-legs"
+ },
+ {
+  "id": "easy-anim-286",
+  "prompt": "Which animal has a long trunk, big ears and tusks?",
+  "choices": [
+   "hippo",
+   "elephant",
+   "rhino",
+   "zebra"
+  ],
+  "answer": "elephant",
+  "difficulty": "easy",
+  "topic": "elephant-body"
+ },
+ {
+  "id": "easy-anim-287",
+  "prompt": "Which animal has a very long tail and swings through trees?",
+  "choices": [
+   "cow",
+   "pig",
+   "monkey",
+   "duck"
+  ],
+  "answer": "monkey",
+  "difficulty": "easy",
+  "topic": "monkey-swing"
+ },
+ {
+  "id": "easy-anim-288",
+  "prompt": "Which big bird cannot fly and has two toes?",
+  "choices": [
+   "eagle",
+   "owl",
+   "swan",
+   "ostrich"
+  ],
+  "answer": "ostrich",
+  "difficulty": "medium",
+  "topic": "ostrich-toes"
+ },
+ {
+  "id": "easy-anim-289",
+  "prompt": "A tiger's stripes help it hide in what?",
+  "choices": [
+   "tall grass",
+   "snow",
+   "the sea",
+   "clouds"
+  ],
+  "answer": "tall grass",
+  "difficulty": "medium",
+  "topic": "tiger-hide"
+ },
+ {
+  "id": "easy-anim-290",
+  "prompt": "A newborn kangaroo is about as big as a what?",
+  "choices": [
+   "cow",
+   "jellybean",
+   "dog",
+   "bike"
+  ],
+  "answer": "jellybean",
+  "difficulty": "hard",
+  "topic": "joey-size"
+ },
+ {
+  "id": "easy-anim-291",
+  "prompt": "Which animal builds a nest of sticks high in a tree and soars?",
+  "choices": [
+   "penguin",
+   "frog",
+   "eagle",
+   "goat"
+  ],
+  "answer": "eagle",
+  "difficulty": "hard",
+  "topic": "eagle-nest"
+ },
+ {
+  "id": "easy-anim-292",
+  "prompt": "Which bird is known for being a wise old animal in stories?",
+  "choices": [
+   "duck",
+   "chicken",
+   "crow",
+   "owl"
+  ],
+  "answer": "owl",
+  "difficulty": "medium",
+  "topic": "wise-owl"
+ },
+ {
+  "id": "easy-anim-293",
+  "prompt": "Which animal is called the king of the jungle in stories?",
+  "choices": [
+   "lion",
+   "rabbit",
+   "goat",
+   "frog"
+  ],
+  "answer": "lion",
+  "difficulty": "easy",
+  "topic": "lion-king"
+ },
+ {
+  "id": "easy-anim-294",
+  "prompt": "Which animal sleeps hanging upside down in caves?",
+  "choices": [
+   "lion",
+   "bat",
+   "cow",
+   "pig"
+  ],
+  "answer": "bat",
+  "difficulty": "easy",
+  "topic": "bat-sleep"
+ },
+ {
+  "id": "easy-anim-295",
+  "prompt": "Which animal is a pet that says \"meow\" and loves naps?",
+  "choices": [
+   "dog",
+   "cow",
+   "cat",
+   "hen"
+  ],
+  "answer": "cat",
+  "difficulty": "easy",
+  "topic": "cat-nap"
+ },
+ {
+  "id": "easy-anim-296",
+  "prompt": "Which sea animal squirts ink and has a soft body?",
+  "choices": [
+   "shark",
+   "seal",
+   "whale",
+   "octopus"
+  ],
+  "answer": "octopus",
+  "difficulty": "medium",
+  "topic": "octopus-soft"
+ },
+ {
+  "id": "easy-anim-297",
+  "prompt": "Which tiny animal makes silk to wrap itself before becoming a moth?",
+  "choices": [
+   "silkworm",
+   "ant",
+   "bee",
+   "ladybug"
+  ],
+  "answer": "silkworm",
+  "difficulty": "hard",
+  "topic": "silkworm"
+ },
+ {
+  "id": "easy-anim-298",
+  "prompt": "Which animal has a long, sticky tongue and eats ants?",
+  "choices": [
+   "rabbit",
+   "anteater",
+   "cow",
+   "goat"
+  ],
+  "answer": "anteater",
+  "difficulty": "medium",
+  "topic": "anteater-tongue"
+ },
+ {
+  "id": "easy-anim-299",
+  "prompt": "Which animal has antlers and lives in the north woods?",
+  "choices": [
+   "zebra",
+   "pig",
+   "moose",
+   "goat"
+  ],
+  "answer": "moose",
+  "difficulty": "medium",
+  "topic": "moose"
+ },
+ {
+  "id": "easy-anim-300",
+  "prompt": "Which animal has a hump, and is called the ship of the desert?",
+  "choices": [
+   "horse",
+   "cow",
+   "goat",
+   "camel"
+  ],
+  "answer": "camel",
+  "difficulty": "medium",
+  "topic": "camel-ship"
+ },
+ {
+  "id": "easy-anim-301",
+  "prompt": "Goats and cows chew their food twice. The second chew is called chewing the what?",
+  "choices": [
+   "cud",
+   "gum",
+   "bone",
+   "nut"
+  ],
+  "answer": "cud",
+  "difficulty": "hard",
+  "topic": "cud"
+ },
+ {
+  "id": "easy-anim-302",
+  "prompt": "Which long-haired animal lives high in the Himalayas?",
+  "choices": [
+   "zebra",
+   "yak",
+   "camel",
+   "pig"
+  ],
+  "answer": "yak",
+  "difficulty": "medium",
+  "topic": "yak"
+ },
+ {
+  "id": "easy-anim-303",
+  "prompt": "The word hippopotamus means \"river\" what?",
+  "choices": [
+   "cow",
+   "pig",
+   "horse",
+   "fish"
+  ],
+  "answer": "horse",
+  "difficulty": "hard",
+  "topic": "hippo-name"
+ },
+ {
+  "id": "easy-anim-304",
+  "prompt": "Which African wild pig has tusks?",
+  "choices": [
+   "zebra",
+   "giraffe",
+   "camel",
+   "warthog"
+  ],
+  "answer": "warthog",
+  "difficulty": "medium",
+  "topic": "warthog"
+ },
+ {
+  "id": "easy-anim-305",
+  "prompt": "Which animal slithers along the ground?",
+  "choices": [
+   "snake",
+   "cow",
+   "duck",
+   "rabbit"
+  ],
+  "answer": "snake",
+  "difficulty": "easy",
+  "topic": "slither"
+ },
+ {
+  "id": "easy-anim-306",
+  "prompt": "Honeycomb cells are shaped like what?",
+  "choices": [
+   "circles",
+   "hexagons",
+   "stars",
+   "hearts"
+  ],
+  "answer": "hexagons",
+  "difficulty": "hard",
+  "topic": "honeycomb"
+ },
+ {
+  "id": "easy-anim-307",
+  "prompt": "Which African animal makes a laughing sound?",
+  "choices": [
+   "swan",
+   "sheep",
+   "hyena",
+   "turtle"
+  ],
+  "answer": "hyena",
+  "difficulty": "medium",
+  "topic": "hyena"
+ },
+ {
+  "id": "easy-anim-308",
+  "prompt": "Which Australian bird has a laughing call?",
+  "choices": [
+   "penguin",
+   "swan",
+   "crow",
+   "kookaburra"
+  ],
+  "answer": "kookaburra",
+  "difficulty": "medium",
+  "topic": "kookaburra"
+ },
+ {
+  "id": "easy-anim-309",
+  "prompt": "Which orange-haired ape lives in trees in Asia?",
+  "choices": [
+   "orangutan",
+   "gorilla",
+   "zebra",
+   "lion"
+  ],
+  "answer": "orangutan",
+  "difficulty": "medium",
+  "topic": "orangutan"
+ },
+ {
+  "id": "easy-anim-310",
+  "prompt": "Horses can sleep while doing what?",
+  "choices": [
+   "swimming",
+   "standing up",
+   "flying",
+   "hanging"
+  ],
+  "answer": "standing up",
+  "difficulty": "hard",
+  "topic": "horse-standing"
+ },
+ {
+  "id": "easy-anim-311",
+  "prompt": "Which small lizard has sticky feet and can climb walls?",
+  "choices": [
+   "cobra",
+   "turtle",
+   "gecko",
+   "frog"
+  ],
+  "answer": "gecko",
+  "difficulty": "medium",
+  "topic": "gecko"
+ },
+ {
+  "id": "easy-anim-312",
+  "prompt": "Which snake spreads a hood when it feels scared?",
+  "choices": [
+   "python",
+   "garter snake",
+   "boa",
+   "cobra"
+  ],
+  "answer": "cobra",
+  "difficulty": "medium",
+  "topic": "cobra"
+ },
+ {
+  "id": "easy-anim-313",
+  "prompt": "Which land animal with a shell can live over 100 years?",
+  "choices": [
+   "tortoise",
+   "rabbit",
+   "goat",
+   "cat"
+  ],
+  "answer": "tortoise",
+  "difficulty": "hard",
+  "topic": "tortoise"
+ },
+ {
+  "id": "easy-anim-314",
+  "prompt": "Which is the biggest kind of deer?",
+  "choices": [
+   "fawn",
+   "moose",
+   "reindeer",
+   "goat"
+  ],
+  "answer": "moose",
+  "difficulty": "hard",
+  "topic": "moose-biggest"
+ },
+ {
+  "id": "easy-anim-315",
+  "prompt": "Orcas are the biggest kind of what?",
+  "choices": [
+   "shark",
+   "fish",
+   "dolphin",
+   "seal"
+  ],
+  "answer": "dolphin",
+  "difficulty": "hard",
+  "topic": "orca"
+ }
+]

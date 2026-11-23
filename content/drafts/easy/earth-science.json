@@ -14,7 +14,7 @@
  },
  {
   "id": "easy-earth-002",
-  "prompt": "What is frozen rain that falls as hard balls of ice called?",
+  "prompt": "Balls of ice that fall from thunderstorm clouds are called what?",
   "choices": [
    "Fog",
    "Dew",
@@ -1730,7 +1730,7 @@
  },
  {
   "id": "easy-earth-134",
-  "prompt": "Which famous geyser in Yellowstone erupts about every hour?",
+  "prompt": "Which famous Yellowstone geyser shoots up many times every day?",
   "choices": [
    "Old Faithful",
    "Big Splash",
@@ -2172,7 +2172,7 @@
  },
  {
   "id": "easy-earth-168",
-  "prompt": "Where does a river end up?",
+  "prompt": "Where do most big rivers end up?",
   "choices": [
    "On a mountain",
    "In a cloud",
@@ -2224,7 +2224,7 @@
  },
  {
   "id": "easy-earth-172",
-  "prompt": "What do we call water that is good to drink, like in a stream?",
+  "prompt": "What do we call the water in lakes and rivers that has no salt?",
   "choices": [
    "Salt water",
    "Sea water",
@@ -3329,7 +3329,7 @@
  },
  {
   "id": "easy-earth-257",
-  "prompt": "What do we call the hottest part of a day, when the Sun is highest?",
+  "prompt": "What do we call the middle of the day, when the Sun is highest?",
   "choices": [
    "Noon",
    "Dawn",

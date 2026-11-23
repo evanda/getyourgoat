@@ -1,0 +1,4097 @@
+[
+ {
+  "id": "hard-lit-001",
+  "prompt": "Who wrote the novel The Shadow of the Wind?",
+  "choices": [
+   "Arturo Pérez-Reverte",
+   "Eduardo Mendoza",
+   "Javier Marías",
+   "Carlos Ruiz Zafón"
+  ],
+  "answer": "Carlos Ruiz Zafón",
+  "difficulty": "medium",
+  "topic": "shadow-of-wind"
+ },
+ {
+  "id": "hard-lit-002",
+  "prompt": "Who wrote the play Hedda Gabler?",
+  "choices": [
+   "August Strindberg",
+   "Anton Chekhov",
+   "Henrik Ibsen",
+   "Maurice Maeterlinck"
+  ],
+  "answer": "Henrik Ibsen",
+  "difficulty": "easy",
+  "topic": "hedda-gabler"
+ },
+ {
+  "id": "hard-lit-003",
+  "prompt": "Who is the Latin leader Aeneas defeats at the end of the Aeneid?",
+  "choices": [
+   "Latinus",
+   "Evander",
+   "Mezentius",
+   "Turnus"
+  ],
+  "answer": "Turnus",
+  "difficulty": "medium",
+  "topic": "turnus"
+ },
+ {
+  "id": "hard-lit-004",
+  "prompt": "Who wrote the WWI poem \"Dulce et Decorum Est\"?",
+  "choices": [
+   "Siegfried Sassoon",
+   "Wilfred Owen",
+   "Isaac Rosenberg",
+   "Rupert Brooke"
+  ],
+  "answer": "Wilfred Owen",
+  "difficulty": "medium",
+  "topic": "dulce-et-decorum"
+ },
+ {
+  "id": "hard-lit-005",
+  "prompt": "Who wrote the play The Lower Depths?",
+  "choices": [
+   "Maxim Gorky",
+   "Ivan Bunin",
+   "Anton Chekhov",
+   "Leonid Andreyev"
+  ],
+  "answer": "Maxim Gorky",
+  "difficulty": "medium",
+  "topic": "lower-depths"
+ },
+ {
+  "id": "hard-lit-006",
+  "prompt": "Who was the Roman guide to Dante through Hell and Purgatory?",
+  "choices": [
+   "Horace",
+   "Statius",
+   "Virgil",
+   "Ovid"
+  ],
+  "answer": "Virgil",
+  "difficulty": "easy",
+  "topic": "dante-guide"
+ },
+ {
+  "id": "hard-lit-007",
+  "prompt": "Who wrote the novel Possession, which won the 1990 Booker Prize?",
+  "choices": [
+   "A. S. Byatt",
+   "Penelope Lively",
+   "Anita Brookner",
+   "Iris Murdoch"
+  ],
+  "answer": "A. S. Byatt",
+  "difficulty": "medium",
+  "topic": "possession"
+ },
+ {
+  "id": "hard-lit-008",
+  "prompt": "Who wrote the poetry collection Death of a Naturalist?",
+  "choices": [
+   "Patrick Kavanagh",
+   "Seamus Heaney",
+   "Derek Mahon",
+   "Ted Hughes"
+  ],
+  "answer": "Seamus Heaney",
+  "difficulty": "medium",
+  "topic": "death-of-naturalist"
+ },
+ {
+  "id": "hard-lit-009",
+  "prompt": "Who wrote the novel Sister Carrie?",
+  "choices": [
+   "Upton Sinclair",
+   "Frank Norris",
+   "Sinclair Lewis",
+   "Theodore Dreiser"
+  ],
+  "answer": "Theodore Dreiser",
+  "difficulty": "medium",
+  "topic": "sister-carrie"
+ },
+ {
+  "id": "hard-lit-010",
+  "prompt": "Who wrote the poem \"The Pied Piper of Hamelin\"?",
+  "choices": [
+   "Alfred Tennyson",
+   "Matthew Arnold",
+   "Edward Lear",
+   "Robert Browning"
+  ],
+  "answer": "Robert Browning",
+  "difficulty": "easy",
+  "topic": "pied-piper"
+ },
+ {
+  "id": "hard-lit-011",
+  "prompt": "Who wrote the novel Beloved?",
+  "choices": [
+   "Maya Angelou",
+   "Toni Morrison",
+   "Zora Neale Hurston",
+   "Alice Walker"
+  ],
+  "answer": "Toni Morrison",
+  "difficulty": "easy",
+  "topic": "beloved"
+ },
+ {
+  "id": "hard-lit-012",
+  "prompt": "Who wrote the existential novel Nausea?",
+  "choices": [
+   "Jean Genet",
+   "Simone de Beauvoir",
+   "Albert Camus",
+   "Jean-Paul Sartre"
+  ],
+  "answer": "Jean-Paul Sartre",
+  "difficulty": "easy",
+  "topic": "nausea"
+ },
+ {
+  "id": "hard-lit-013",
+  "prompt": "Who wrote the absurdist play Rhinoceros?",
+  "choices": [
+   "Samuel Beckett",
+   "Jean Anouilh",
+   "Jean Genet",
+   "Eugène Ionesco"
+  ],
+  "answer": "Eugène Ionesco",
+  "difficulty": "medium",
+  "topic": "rhinoceros"
+ },
+ {
+  "id": "hard-lit-014",
+  "prompt": "Who wrote the play The Lion and the Jewel?",
+  "choices": [
+   "Athol Fugard",
+   "Ngũgĩ wa Thiong'o",
+   "Wole Soyinka",
+   "Chinua Achebe"
+  ],
+  "answer": "Wole Soyinka",
+  "difficulty": "medium",
+  "topic": "lion-jewel"
+ },
+ {
+  "id": "hard-lit-015",
+  "prompt": "Who wrote the story collection Strange Tales from a Chinese Studio?",
+  "choices": [
+   "Wu Cheng'en",
+   "Cao Xueqin",
+   "Wu Jingzi",
+   "Pu Songling"
+  ],
+  "answer": "Pu Songling",
+  "difficulty": "medium",
+  "topic": "strange-tales"
+ },
+ {
+  "id": "hard-lit-016",
+  "prompt": "Who wrote the novel Under the Volcano?",
+  "choices": [
+   "Lawrence Durrell",
+   "Graham Greene",
+   "Evelyn Waugh",
+   "Malcolm Lowry"
+  ],
+  "answer": "Malcolm Lowry",
+  "difficulty": "medium",
+  "topic": "under-volcano"
+ },
+ {
+  "id": "hard-lit-017",
+  "prompt": "In Anna Karenina, which landowner finally marries Kitty?",
+  "choices": [
+   "Count Vronsky",
+   "Konstantin Levin",
+   "Alexei Karenin",
+   "Stiva Oblonsky"
+  ],
+  "answer": "Konstantin Levin",
+  "difficulty": "easy",
+  "topic": "levin-kitty"
+ },
+ {
+  "id": "hard-lit-018",
+  "prompt": "Who wrote the novel The Mill on the Floss?",
+  "choices": [
+   "George Eliot",
+   "Thomas Hardy",
+   "Charlotte Brontë",
+   "Elizabeth Gaskell"
+  ],
+  "answer": "George Eliot",
+  "difficulty": "medium",
+  "topic": "mill-on-floss"
+ },
+ {
+  "id": "hard-lit-019",
+  "prompt": "Who wrote the play Miss Julie?",
+  "choices": [
+   "August Strindberg",
+   "Ludvig Holberg",
+   "Hjalmar Bergman",
+   "Henrik Ibsen"
+  ],
+  "answer": "August Strindberg",
+  "difficulty": "medium",
+  "topic": "miss-julie"
+ },
+ {
+  "id": "hard-lit-020",
+  "prompt": "Which Shakespeare play features the stage direction about exiting pursued by a bear?",
+  "choices": [
+   "Cymbeline",
+   "The Winter's Tale",
+   "Pericles",
+   "The Tempest"
+  ],
+  "answer": "The Winter's Tale",
+  "difficulty": "easy",
+  "topic": "winters-tale"
+ },
+ {
+  "id": "hard-lit-021",
+  "prompt": "Who wrote the novel The Plague (La Peste)?",
+  "choices": [
+   "André Gide",
+   "Jean-Paul Sartre",
+   "Albert Camus",
+   "André Malraux"
+  ],
+  "answer": "Albert Camus",
+  "difficulty": "easy",
+  "topic": "la-peste"
+ },
+ {
+  "id": "hard-lit-022",
+  "prompt": "Which nymph holds Odysseus captive on her island for years?",
+  "choices": [
+   "Nausicaa",
+   "Calypso",
+   "Circe",
+   "Penelope"
+  ],
+  "answer": "Calypso",
+  "difficulty": "easy",
+  "topic": "calypso"
+ },
+ {
+  "id": "hard-lit-023",
+  "prompt": "Who wrote the satirical novel Fortress Besieged?",
+  "choices": [
+   "Lao She",
+   "Qian Zhongshu",
+   "Zhang Ailing",
+   "Lin Yutang"
+  ],
+  "answer": "Qian Zhongshu",
+  "difficulty": "hard",
+  "topic": "fortress-besieged"
+ },
+ {
+  "id": "hard-lit-024",
+  "prompt": "Who wrote the detective novel The Maltese Falcon?",
+  "choices": [
+   "Dashiell Hammett",
+   "James M. Cain",
+   "Ross Macdonald",
+   "Raymond Chandler"
+  ],
+  "answer": "Dashiell Hammett",
+  "difficulty": "easy",
+  "topic": "maltese-falcon"
+ },
+ {
+  "id": "hard-lit-025",
+  "prompt": "What is the medieval collection of Welsh tales called?",
+  "choices": [
+   "The Táin",
+   "The Kalevala",
+   "The Edda",
+   "The Mabinogion"
+  ],
+  "answer": "The Mabinogion",
+  "difficulty": "medium",
+  "topic": "mabinogion"
+ },
+ {
+  "id": "hard-lit-026",
+  "prompt": "Which four-novel cycle was Mishima's last work?",
+  "choices": [
+   "The Rice Road",
+   "The Sea of Fertility",
+   "The Spring Snow Cycle",
+   "The Pleasure Quartet"
+  ],
+  "answer": "The Sea of Fertility",
+  "difficulty": "hard",
+  "topic": "sea-of-fertility"
+ },
+ {
+  "id": "hard-lit-027",
+  "prompt": "Which Dickens novel features the schoolmaster Mr. Gradgrind?",
+  "choices": [
+   "Bleak House",
+   "Nicholas Nickleby",
+   "Hard Times",
+   "Little Dorrit"
+  ],
+  "answer": "Hard Times",
+  "difficulty": "easy",
+  "topic": "hard-times"
+ },
+ {
+  "id": "hard-lit-028",
+  "prompt": "Who wrote the novel Barchester Towers?",
+  "choices": [
+   "George Meredith",
+   "Anthony Trollope",
+   "William Thackeray",
+   "Charles Kingsley"
+  ],
+  "answer": "Anthony Trollope",
+  "difficulty": "medium",
+  "topic": "barchester"
+ },
+ {
+  "id": "hard-lit-029",
+  "prompt": "Who wrote the Persian poem The Conference of the Birds?",
+  "choices": [
+   "Saadi",
+   "Nizami Ganjavi",
+   "Attar of Nishapur",
+   "Hafez"
+  ],
+  "answer": "Attar of Nishapur",
+  "difficulty": "hard",
+  "topic": "conference-birds"
+ },
+ {
+  "id": "hard-lit-030",
+  "prompt": "Who wrote The Praise of Folly?",
+  "choices": [
+   "Erasmus",
+   "Martin Luther",
+   "Thomas More",
+   "John Colet"
+  ],
+  "answer": "Erasmus",
+  "difficulty": "medium",
+  "topic": "praise-of-folly"
+ },
+ {
+  "id": "hard-lit-031",
+  "prompt": "Which Persian lyric poet of Shiraz wrote a famed Divan?",
+  "choices": [
+   "Hafez",
+   "Nizami Ganjavi",
+   "Attar of Nishapur",
+   "Saadi"
+  ],
+  "answer": "Hafez",
+  "difficulty": "easy",
+  "topic": "hafez"
+ },
+ {
+  "id": "hard-lit-032",
+  "prompt": "Who wrote the novel July's People?",
+  "choices": [
+   "Athol Fugard",
+   "J. M. Coetzee",
+   "André Brink",
+   "Nadine Gordimer"
+  ],
+  "answer": "Nadine Gordimer",
+  "difficulty": "hard",
+  "topic": "julys-people"
+ },
+ {
+  "id": "hard-lit-033",
+  "prompt": "Who wrote the novel Mine Boy?",
+  "choices": [
+   "Alex La Guma",
+   "Es'kia Mphahlele",
+   "Alan Paton",
+   "Peter Abrahams"
+  ],
+  "answer": "Peter Abrahams",
+  "difficulty": "hard",
+  "topic": "mine-boy"
+ },
+ {
+  "id": "hard-lit-034",
+  "prompt": "In One Hundred Years of Solitude, what is the fictional town called?",
+  "choices": [
+   "Comala",
+   "Macondo",
+   "Santa María",
+   "Yoknapatawpha"
+  ],
+  "answer": "Macondo",
+  "difficulty": "easy",
+  "topic": "macondo"
+ },
+ {
+  "id": "hard-lit-035",
+  "prompt": "Who wrote the play The Seagull?",
+  "choices": [
+   "Anton Chekhov",
+   "Ivan Turgenev",
+   "Maxim Gorky",
+   "Alexander Ostrovsky"
+  ],
+  "answer": "Anton Chekhov",
+  "difficulty": "easy",
+  "topic": "seagull"
+ },
+ {
+  "id": "hard-lit-036",
+  "prompt": "Who wrote the Vietnamese verse epic The Tale of Kieu?",
+  "choices": [
+   "Hồ Xuân Hương",
+   "Nguyễn Đình Chiểu",
+   "Nguyễn Trãi",
+   "Nguyễn Du"
+  ],
+  "answer": "Nguyễn Du",
+  "difficulty": "medium",
+  "topic": "tale-of-kieu"
+ },
+ {
+  "id": "hard-lit-037",
+  "prompt": "Which Roman poet was famed for his short, barbed epigrams?",
+  "choices": [
+   "Horace",
+   "Juvenal",
+   "Propertius",
+   "Martial"
+  ],
+  "answer": "Martial",
+  "difficulty": "medium",
+  "topic": "martial"
+ },
+ {
+  "id": "hard-lit-038",
+  "prompt": "Who wrote the play The Robbers (Die Räuber)?",
+  "choices": [
+   "Johann Goethe",
+   "Georg Büchner",
+   "Friedrich Schiller",
+   "Heinrich von Kleist"
+  ],
+  "answer": "Friedrich Schiller",
+  "difficulty": "medium",
+  "topic": "die-raeuber"
+ },
+ {
+  "id": "hard-lit-039",
+  "prompt": "Who wrote the Partition novel Train to Pakistan?",
+  "choices": [
+   "Saadat Hasan Manto",
+   "Mulk Raj Anand",
+   "Khushwant Singh",
+   "Bhisham Sahni"
+  ],
+  "answer": "Khushwant Singh",
+  "difficulty": "hard",
+  "topic": "train-to-pakistan"
+ },
+ {
+  "id": "hard-lit-040",
+  "prompt": "Who wrote the novel Slaughterhouse-Five?",
+  "choices": [
+   "Ken Kesey",
+   "Kurt Vonnegut",
+   "Joseph Heller",
+   "Thomas Pynchon"
+  ],
+  "answer": "Kurt Vonnegut",
+  "difficulty": "easy",
+  "topic": "slaughterhouse-five"
+ },
+ {
+  "id": "hard-lit-041",
+  "prompt": "Which Calvino novel features a Viscount split in two?",
+  "choices": [
+   "The Cloven Viscount",
+   "The Baron in the Trees",
+   "The Nonexistent Knight",
+   "Cosmicomics"
+  ],
+  "answer": "The Cloven Viscount",
+  "difficulty": "medium",
+  "topic": "cloven-viscount"
+ },
+ {
+  "id": "hard-lit-042",
+  "prompt": "Who wrote the Arabic work Muqaddimah, an introduction to history?",
+  "choices": [
+   "Ibn Rushd",
+   "Al-Ghazali",
+   "Ibn Battuta",
+   "Ibn Khaldun"
+  ],
+  "answer": "Ibn Khaldun",
+  "difficulty": "medium",
+  "topic": "muqaddimah"
+ },
+ {
+  "id": "hard-lit-043",
+  "prompt": "Who wrote the novel On the Road?",
+  "choices": [
+   "William S. Burroughs",
+   "Jack Kerouac",
+   "Neal Cassady",
+   "Allen Ginsberg"
+  ],
+  "answer": "Jack Kerouac",
+  "difficulty": "medium",
+  "topic": "on-the-road"
+ },
+ {
+  "id": "hard-lit-044",
+  "prompt": "Which Calvino novel is about a boy who lives in the trees?",
+  "choices": [
+   "The Cloven Viscount",
+   "Mr. Palomar",
+   "The Baron in the Trees",
+   "Invisible Cities"
+  ],
+  "answer": "The Baron in the Trees",
+  "difficulty": "medium",
+  "topic": "baron-in-trees"
+ },
+ {
+  "id": "hard-lit-045",
+  "prompt": "Who won the first Nobel Prize in Literature, in 1901?",
+  "choices": [
+   "Rudyard Kipling",
+   "Leo Tolstoy",
+   "Sully Prudhomme",
+   "Henrik Ibsen"
+  ],
+  "answer": "Sully Prudhomme",
+  "difficulty": "hard",
+  "topic": "nobel-1901"
+ },
+ {
+  "id": "hard-lit-046",
+  "prompt": "Who wrote the children's novel Emil and the Detectives?",
+  "choices": [
+   "Otfried Preußler",
+   "Wilhelm Busch",
+   "Michael Ende",
+   "Erich Kästner"
+  ],
+  "answer": "Erich Kästner",
+  "difficulty": "easy",
+  "topic": "emil-detectives"
+ },
+ {
+  "id": "hard-lit-047",
+  "prompt": "Who wrote the comedy The Government Inspector?",
+  "choices": [
+   "Alexander Ostrovsky",
+   "Anton Chekhov",
+   "Nikolai Gogol",
+   "Alexander Griboyedov"
+  ],
+  "answer": "Nikolai Gogol",
+  "difficulty": "easy",
+  "topic": "inspector-general"
+ },
+ {
+  "id": "hard-lit-048",
+  "prompt": "Which Dickens novel features the cunning clerk Uriah Heep?",
+  "choices": [
+   "Nicholas Nickleby",
+   "David Copperfield",
+   "Bleak House",
+   "Dombey and Son"
+  ],
+  "answer": "David Copperfield",
+  "difficulty": "easy",
+  "topic": "uriah-heep"
+ },
+ {
+  "id": "hard-lit-049",
+  "prompt": "In which Shakespeare play does Petruchio woo Katherina?",
+  "choices": [
+   "Much Ado About Nothing",
+   "Love's Labour's Lost",
+   "The Merry Wives of Windsor",
+   "The Taming of the Shrew"
+  ],
+  "answer": "The Taming of the Shrew",
+  "difficulty": "easy",
+  "topic": "taming-shrew"
+ },
+ {
+  "id": "hard-lit-050",
+  "prompt": "Who wrote the novel Evelina?",
+  "choices": [
+   "Ann Radcliffe",
+   "Maria Edgeworth",
+   "Charlotte Smith",
+   "Fanny Burney"
+  ],
+  "answer": "Fanny Burney",
+  "difficulty": "medium",
+  "topic": "evelina"
+ },
+ {
+  "id": "hard-lit-051",
+  "prompt": "Who wrote the memoir If This Is a Man about Auschwitz?",
+  "choices": [
+   "Giorgio Bassani",
+   "Italo Svevo",
+   "Carlo Levi",
+   "Primo Levi"
+  ],
+  "answer": "Primo Levi",
+  "difficulty": "hard",
+  "topic": "if-this-is-a-man"
+ },
+ {
+  "id": "hard-lit-052",
+  "prompt": "Who wrote Utopia?",
+  "choices": [
+   "Thomas More",
+   "Francis Bacon",
+   "Thomas Hobbes",
+   "Erasmus"
+  ],
+  "answer": "Thomas More",
+  "difficulty": "easy",
+  "topic": "utopia"
+ },
+ {
+  "id": "hard-lit-053",
+  "prompt": "Which Chilean poet won the 1945 Nobel Prize in Literature?",
+  "choices": [
+   "Gabriela Mistral",
+   "Vicente Huidobro",
+   "Violeta Parra",
+   "Pablo Neruda"
+  ],
+  "answer": "Gabriela Mistral",
+  "difficulty": "hard",
+  "topic": "mistral-nobel"
+ },
+ {
+  "id": "hard-lit-054",
+  "prompt": "Who wrote Anabasis about the march of the Ten Thousand?",
+  "choices": [
+   "Xenophon",
+   "Herodotus",
+   "Polybius",
+   "Thucydides"
+  ],
+  "answer": "Xenophon",
+  "difficulty": "medium",
+  "topic": "anabasis"
+ },
+ {
+  "id": "hard-lit-055",
+  "prompt": "Who wrote Cousin Bette and Père Goriot?",
+  "choices": [
+   "Gustave Flaubert",
+   "Stendhal",
+   "Émile Zola",
+   "Honoré de Balzac"
+  ],
+  "answer": "Honoré de Balzac",
+  "difficulty": "medium",
+  "topic": "balzac-bette"
+ },
+ {
+  "id": "hard-lit-056",
+  "prompt": "Who wrote the play An Enemy of the People?",
+  "choices": [
+   "August Strindberg",
+   "Bjørnstjerne Bjørnson",
+   "Knut Hamsun",
+   "Henrik Ibsen"
+  ],
+  "answer": "Henrik Ibsen",
+  "difficulty": "medium",
+  "topic": "enemy-of-people"
+ },
+ {
+  "id": "hard-lit-057",
+  "prompt": "Who wrote the Yiddish stories about Tevye the Dairyman?",
+  "choices": [
+   "Isaac Bashevis Singer",
+   "I. L. Peretz",
+   "Sholem Aleichem",
+   "Mendele Mocher Sforim"
+  ],
+  "answer": "Sholem Aleichem",
+  "difficulty": "easy",
+  "topic": "tevye"
+ },
+ {
+  "id": "hard-lit-058",
+  "prompt": "Which poet wrote Requiem about Stalin's terror?",
+  "choices": [
+   "Boris Pasternak",
+   "Marina Tsvetaeva",
+   "Osip Mandelstam",
+   "Anna Akhmatova"
+  ],
+  "answer": "Anna Akhmatova",
+  "difficulty": "medium",
+  "topic": "requiem-akhmatova"
+ },
+ {
+  "id": "hard-lit-059",
+  "prompt": "Who wrote The Mysteries of Udolpho?",
+  "choices": [
+   "Ann Radcliffe",
+   "Horace Walpole",
+   "Matthew Lewis",
+   "Mary Shelley"
+  ],
+  "answer": "Ann Radcliffe",
+  "difficulty": "hard",
+  "topic": "udolpho"
+ },
+ {
+  "id": "hard-lit-060",
+  "prompt": "Who wrote the novel The Savage Detectives?",
+  "choices": [
+   "Mario Vargas Llosa",
+   "Roberto Bolaño",
+   "César Aira",
+   "Carlos Fuentes"
+  ],
+  "answer": "Roberto Bolaño",
+  "difficulty": "hard",
+  "topic": "savage-detectives"
+ },
+ {
+  "id": "hard-lit-061",
+  "prompt": "Who wrote the romance Layla and Majnun in Persian?",
+  "choices": [
+   "Ferdowsi",
+   "Nizami Ganjavi",
+   "Jami",
+   "Hafez"
+  ],
+  "answer": "Nizami Ganjavi",
+  "difficulty": "hard",
+  "topic": "nizami-layla"
+ },
+ {
+  "id": "hard-lit-062",
+  "prompt": "Who wrote the epic Orlando Furioso?",
+  "choices": [
+   "Ludovico Ariosto",
+   "Matteo Boiardo",
+   "Luigi Pulci",
+   "Torquato Tasso"
+  ],
+  "answer": "Ludovico Ariosto",
+  "difficulty": "hard",
+  "topic": "orlando-furioso"
+ },
+ {
+  "id": "hard-lit-063",
+  "prompt": "Who wrote the Booker-winning novel The Famished Road?",
+  "choices": [
+   "Chinua Achebe",
+   "Wole Soyinka",
+   "Chimamanda Ngozi Adichie",
+   "Ben Okri"
+  ],
+  "answer": "Ben Okri",
+  "difficulty": "medium",
+  "topic": "famished-road"
+ },
+ {
+  "id": "hard-lit-064",
+  "prompt": "Who wrote the Norwegian novel Hunger (Sult)?",
+  "choices": [
+   "Jens Bjørneboe",
+   "Henrik Ibsen",
+   "Sigrid Undset",
+   "Knut Hamsun"
+  ],
+  "answer": "Knut Hamsun",
+  "difficulty": "hard",
+  "topic": "hunger-hamsun"
+ },
+ {
+  "id": "hard-lit-065",
+  "prompt": "Who wrote the novel Rickshaw Boy (Camel Xiangzi)?",
+  "choices": [
+   "Ba Jin",
+   "Mao Dun",
+   "Lao She",
+   "Shen Congwen"
+  ],
+  "answer": "Lao She",
+  "difficulty": "hard",
+  "topic": "rickshaw-boy"
+ },
+ {
+  "id": "hard-lit-066",
+  "prompt": "Who wrote the children's novel The Borrowers?",
+  "choices": [
+   "Eleanor Farjeon",
+   "P. L. Travers",
+   "E. Nesbit",
+   "Mary Norton"
+  ],
+  "answer": "Mary Norton",
+  "difficulty": "hard",
+  "topic": "borrowers"
+ },
+ {
+  "id": "hard-lit-067",
+  "prompt": "Who wrote the 1997 Booker-winning novel The God of Small Things?",
+  "choices": [
+   "Kiran Desai",
+   "Arundhati Roy",
+   "Jhumpa Lahiri",
+   "Anita Desai"
+  ],
+  "answer": "Arundhati Roy",
+  "difficulty": "easy",
+  "topic": "god-small-things"
+ },
+ {
+  "id": "hard-lit-068",
+  "prompt": "In the Aeneid, whom does Aeneas carry out of burning Troy on his back?",
+  "choices": [
+   "Hector",
+   "Priam",
+   "Anchises",
+   "Ascanius"
+  ],
+  "answer": "Anchises",
+  "difficulty": "easy",
+  "topic": "anchises"
+ },
+ {
+  "id": "hard-lit-069",
+  "prompt": "Who wrote the novel The Leopard (Il Gattopardo)?",
+  "choices": [
+   "Italo Svevo",
+   "Alberto Moravia",
+   "Giuseppe Tomasi di Lampedusa",
+   "Giovanni Verga"
+  ],
+  "answer": "Giuseppe Tomasi di Lampedusa",
+  "difficulty": "medium",
+  "topic": "leopard"
+ },
+ {
+  "id": "hard-lit-070",
+  "prompt": "Who wrote the novel At Swim-Two-Birds?",
+  "choices": [
+   "Samuel Beckett",
+   "James Joyce",
+   "Flann O'Brien",
+   "Brendan Behan"
+  ],
+  "answer": "Flann O'Brien",
+  "difficulty": "hard",
+  "topic": "at-swim-two-birds"
+ },
+ {
+  "id": "hard-lit-071",
+  "prompt": "Who wrote the Arthurian novel The Once and Future King?",
+  "choices": [
+   "T. H. White",
+   "Rosemary Sutcliff",
+   "J. R. R. Tolkien",
+   "Mary Stewart"
+  ],
+  "answer": "T. H. White",
+  "difficulty": "medium",
+  "topic": "once-future-king"
+ },
+ {
+  "id": "hard-lit-072",
+  "prompt": "Who wrote the poem collection Canto General?",
+  "choices": [
+   "Nicolás Guillén",
+   "César Vallejo",
+   "Pablo Neruda",
+   "Octavio Paz"
+  ],
+  "answer": "Pablo Neruda",
+  "difficulty": "hard",
+  "topic": "canto-general"
+ },
+ {
+  "id": "hard-lit-073",
+  "prompt": "Who wrote Le Morte d'Arthur?",
+  "choices": [
+   "Chrétien de Troyes",
+   "Thomas Malory",
+   "Wace",
+   "Geoffrey of Monmouth"
+  ],
+  "answer": "Thomas Malory",
+  "difficulty": "medium",
+  "topic": "morte-darthur"
+ },
+ {
+  "id": "hard-lit-074",
+  "prompt": "Who wrote the Spanish poem collection Gypsy Ballads?",
+  "choices": [
+   "Miguel Hernández",
+   "Rafael Alberti",
+   "Antonio Machado",
+   "Federico García Lorca"
+  ],
+  "answer": "Federico García Lorca",
+  "difficulty": "medium",
+  "topic": "gypsy-ballads"
+ },
+ {
+  "id": "hard-lit-075",
+  "prompt": "Who wrote the Urdu poem \"Sare Jahan Se Accha\"?",
+  "choices": [
+   "Mir Taqi Mir",
+   "Faiz Ahmed Faiz",
+   "Mirza Ghalib",
+   "Muhammad Iqbal"
+  ],
+  "answer": "Muhammad Iqbal",
+  "difficulty": "hard",
+  "topic": "iqbal"
+ },
+ {
+  "id": "hard-lit-076",
+  "prompt": "Who wrote the mock-epic poem The Rape of the Lock?",
+  "choices": [
+   "Samuel Johnson",
+   "Jonathan Swift",
+   "Alexander Pope",
+   "John Dryden"
+  ],
+  "answer": "Alexander Pope",
+  "difficulty": "medium",
+  "topic": "rape-of-lock"
+ },
+ {
+  "id": "hard-lit-077",
+  "prompt": "Which Persian poet wrote the Rubaiyat later translated by FitzGerald?",
+  "choices": [
+   "Saadi",
+   "Rumi",
+   "Hafez",
+   "Omar Khayyam"
+  ],
+  "answer": "Omar Khayyam",
+  "difficulty": "easy",
+  "topic": "rubaiyat"
+ },
+ {
+  "id": "hard-lit-078",
+  "prompt": "Who wrote On the Nature of Things (De rerum natura)?",
+  "choices": [
+   "Horace",
+   "Lucretius",
+   "Catullus",
+   "Virgil"
+  ],
+  "answer": "Lucretius",
+  "difficulty": "medium",
+  "topic": "lucretius"
+ },
+ {
+  "id": "hard-lit-079",
+  "prompt": "Who wrote The Beggar's Opera?",
+  "choices": [
+   "Henry Fielding",
+   "Alexander Pope",
+   "John Gay",
+   "Jonathan Swift"
+  ],
+  "answer": "John Gay",
+  "difficulty": "medium",
+  "topic": "beggars-opera"
+ },
+ {
+  "id": "hard-lit-080",
+  "prompt": "Which Roman poet was exiled to Tomis on the Black Sea?",
+  "choices": [
+   "Virgil",
+   "Ovid",
+   "Lucan",
+   "Horace"
+  ],
+  "answer": "Ovid",
+  "difficulty": "medium",
+  "topic": "ovid-exile"
+ },
+ {
+  "id": "hard-lit-081",
+  "prompt": "Who wrote the poem \"Ithaka\"?",
+  "choices": [
+   "George Seferis",
+   "Odysseas Elytis",
+   "Yannis Ritsos",
+   "C. P. Cavafy"
+  ],
+  "answer": "C. P. Cavafy",
+  "difficulty": "medium",
+  "topic": "ithaka"
+ },
+ {
+  "id": "hard-lit-082",
+  "prompt": "Who wrote the novel Lorna Doone?",
+  "choices": [
+   "R. D. Blackmore",
+   "Charles Kingsley",
+   "Thomas Hardy",
+   "George Meredith"
+  ],
+  "answer": "R. D. Blackmore",
+  "difficulty": "hard",
+  "topic": "lorna-doone"
+ },
+ {
+  "id": "hard-lit-083",
+  "prompt": "Who wrote the story cycle Red Cavalry?",
+  "choices": [
+   "Mikhail Sholokhov",
+   "Isaac Babel",
+   "Boris Pasternak",
+   "Mikhail Bulgakov"
+  ],
+  "answer": "Isaac Babel",
+  "difficulty": "hard",
+  "topic": "red-cavalry"
+ },
+ {
+  "id": "hard-lit-084",
+  "prompt": "Who wrote Peer Gynt?",
+  "choices": [
+   "Knut Hamsun",
+   "August Strindberg",
+   "Bjørnstjerne Bjørnson",
+   "Henrik Ibsen"
+  ],
+  "answer": "Henrik Ibsen",
+  "difficulty": "easy",
+  "topic": "peer-gynt"
+ },
+ {
+  "id": "hard-lit-085",
+  "prompt": "Who wrote Malgudi Days, set in a fictional South Indian town?",
+  "choices": [
+   "Khushwant Singh",
+   "R. K. Narayan",
+   "Raja Rao",
+   "Mulk Raj Anand"
+  ],
+  "answer": "R. K. Narayan",
+  "difficulty": "medium",
+  "topic": "malgudi"
+ },
+ {
+  "id": "hard-lit-086",
+  "prompt": "Who wrote the play The Duchess of Malfi?",
+  "choices": [
+   "John Ford",
+   "Ben Jonson",
+   "John Webster",
+   "Thomas Middleton"
+  ],
+  "answer": "John Webster",
+  "difficulty": "hard",
+  "topic": "duchess-malfi"
+ },
+ {
+  "id": "hard-lit-087",
+  "prompt": "Who wrote The Time Machine?",
+  "choices": [
+   "Arthur Conan Doyle",
+   "Jules Verne",
+   "Rudyard Kipling",
+   "H. G. Wells"
+  ],
+  "answer": "H. G. Wells",
+  "difficulty": "easy",
+  "topic": "time-machine"
+ },
+ {
+  "id": "hard-lit-088",
+  "prompt": "Who wrote the novel Tom Jones?",
+  "choices": [
+   "Laurence Sterne",
+   "Tobias Smollett",
+   "Samuel Richardson",
+   "Henry Fielding"
+  ],
+  "answer": "Henry Fielding",
+  "difficulty": "easy",
+  "topic": "tom-jones"
+ },
+ {
+  "id": "hard-lit-089",
+  "prompt": "Who wrote the play A Raisin in the Sun?",
+  "choices": [
+   "August Wilson",
+   "Ntozake Shange",
+   "Langston Hughes",
+   "Lorraine Hansberry"
+  ],
+  "answer": "Lorraine Hansberry",
+  "difficulty": "medium",
+  "topic": "raisin-sun"
+ },
+ {
+  "id": "hard-lit-090",
+  "prompt": "Who wrote The Temple of the Golden Pavilion?",
+  "choices": [
+   "Yukio Mishima",
+   "Kenzaburō Ōe",
+   "Kōbō Abe",
+   "Yasunari Kawabata"
+  ],
+  "answer": "Yukio Mishima",
+  "difficulty": "medium",
+  "topic": "golden-pavilion"
+ },
+ {
+  "id": "hard-lit-091",
+  "prompt": "Which Shakespeare play is his longest?",
+  "choices": [
+   "Richard III",
+   "Henry V",
+   "King Lear",
+   "Hamlet"
+  ],
+  "answer": "Hamlet",
+  "difficulty": "easy",
+  "topic": "longest-shakespeare"
+ },
+ {
+  "id": "hard-lit-092",
+  "prompt": "Who wrote the novel God's Bits of Wood?",
+  "choices": [
+   "Cheikh Hamidou Kane",
+   "Mongo Beti",
+   "Camara Laye",
+   "Ousmane Sembène"
+  ],
+  "answer": "Ousmane Sembène",
+  "difficulty": "hard",
+  "topic": "gods-bits-wood"
+ },
+ {
+  "id": "hard-lit-093",
+  "prompt": "Who is traditionally credited with composing the Ramayana?",
+  "choices": [
+   "Kalidasa",
+   "Valmiki",
+   "Vyasa",
+   "Tulsidas"
+  ],
+  "answer": "Valmiki",
+  "difficulty": "easy",
+  "topic": "valmiki"
+ },
+ {
+  "id": "hard-lit-094",
+  "prompt": "Which Dostoevsky novel features Prince Myshkin?",
+  "choices": [
+   "Demons",
+   "The Adolescent",
+   "The Idiot",
+   "The Gambler"
+  ],
+  "answer": "The Idiot",
+  "difficulty": "easy",
+  "topic": "myshkin"
+ },
+ {
+  "id": "hard-lit-095",
+  "prompt": "Which Nicaraguan poet launched modernismo with Azul?",
+  "choices": [
+   "Rubén Darío",
+   "José Asunción Silva",
+   "Amado Nervo",
+   "José Martí"
+  ],
+  "answer": "Rubén Darío",
+  "difficulty": "medium",
+  "topic": "ruben-dario"
+ },
+ {
+  "id": "hard-lit-096",
+  "prompt": "Who wrote the U.S.A. trilogy?",
+  "choices": [
+   "Sinclair Lewis",
+   "John Dos Passos",
+   "Theodore Dreiser",
+   "Thomas Wolfe"
+  ],
+  "answer": "John Dos Passos",
+  "difficulty": "hard",
+  "topic": "usa-trilogy"
+ },
+ {
+  "id": "hard-lit-097",
+  "prompt": "Which Dickens novel features the lawsuit Jarndyce and Jarndyce?",
+  "choices": [
+   "Bleak House",
+   "Little Dorrit",
+   "Hard Times",
+   "Our Mutual Friend"
+  ],
+  "answer": "Bleak House",
+  "difficulty": "easy",
+  "topic": "bleak-house"
+ },
+ {
+  "id": "hard-lit-098",
+  "prompt": "Who wrote the essay collection Walden?",
+  "choices": [
+   "Ralph Waldo Emerson",
+   "Herman Melville",
+   "Nathaniel Hawthorne",
+   "Henry David Thoreau"
+  ],
+  "answer": "Henry David Thoreau",
+  "difficulty": "easy",
+  "topic": "walden"
+ },
+ {
+  "id": "hard-lit-099",
+  "prompt": "Who is the faithful hound that recognizes Odysseus on his return?",
+  "choices": [
+   "Cerberus",
+   "Orthrus",
+   "Laelaps",
+   "Argos"
+  ],
+  "answer": "Argos",
+  "difficulty": "medium",
+  "topic": "argos"
+ },
+ {
+  "id": "hard-lit-100",
+  "prompt": "Who wrote the novel The Last of the Mohicans?",
+  "choices": [
+   "James Fenimore Cooper",
+   "Herman Melville",
+   "Washington Irving",
+   "Nathaniel Hawthorne"
+  ],
+  "answer": "James Fenimore Cooper",
+  "difficulty": "easy",
+  "topic": "last-mohicans"
+ },
+ {
+  "id": "hard-lit-101",
+  "prompt": "Who is the wild friend of Gilgamesh in the Mesopotamian epic?",
+  "choices": [
+   "Humbaba",
+   "Siduri",
+   "Enkidu",
+   "Utnapishtim"
+  ],
+  "answer": "Enkidu",
+  "difficulty": "easy",
+  "topic": "enkidu"
+ },
+ {
+  "id": "hard-lit-102",
+  "prompt": "Who wrote the science fiction novel Solaris?",
+  "choices": [
+   "Arkady Strugatsky",
+   "Isaac Asimov",
+   "Karel Čapek",
+   "Stanisław Lem"
+  ],
+  "answer": "Stanisław Lem",
+  "difficulty": "medium",
+  "topic": "solaris"
+ },
+ {
+  "id": "hard-lit-103",
+  "prompt": "Which Urdu poet of Delhi wrote famed ghazals in the 19th century?",
+  "choices": [
+   "Muhammad Iqbal",
+   "Josh Malihabadi",
+   "Faiz Ahmed Faiz",
+   "Mirza Ghalib"
+  ],
+  "answer": "Mirza Ghalib",
+  "difficulty": "medium",
+  "topic": "ghalib"
+ },
+ {
+  "id": "hard-lit-104",
+  "prompt": "Who wrote the novel Lucky Jim?",
+  "choices": [
+   "Kingsley Amis",
+   "Philip Larkin",
+   "Evelyn Waugh",
+   "John Wain"
+  ],
+  "answer": "Kingsley Amis",
+  "difficulty": "medium",
+  "topic": "lucky-jim"
+ },
+ {
+  "id": "hard-lit-105",
+  "prompt": "Who wrote the novel Three Men in a Boat?",
+  "choices": [
+   "Jerome K. Jerome",
+   "Kenneth Grahame",
+   "W. W. Jacobs",
+   "G. K. Chesterton"
+  ],
+  "answer": "Jerome K. Jerome",
+  "difficulty": "easy",
+  "topic": "three-men-boat"
+ },
+ {
+  "id": "hard-lit-106",
+  "prompt": "Which Goethe novel of 1774 sparked a wave of imitative suicides?",
+  "choices": [
+   "Elective Affinities",
+   "Hyperion",
+   "Wilhelm Meister",
+   "The Sorrows of Young Werther"
+  ],
+  "answer": "The Sorrows of Young Werther",
+  "difficulty": "easy",
+  "topic": "werther"
+ },
+ {
+  "id": "hard-lit-107",
+  "prompt": "Who wrote the poem \"Dover Beach\"?",
+  "choices": [
+   "Arthur Hugh Clough",
+   "Alfred Tennyson",
+   "Matthew Arnold",
+   "Robert Browning"
+  ],
+  "answer": "Matthew Arnold",
+  "difficulty": "easy",
+  "topic": "dover-beach"
+ },
+ {
+  "id": "hard-lit-108",
+  "prompt": "Who wrote the lyric collection Canzoniere?",
+  "choices": [
+   "Guido Cavalcanti",
+   "Giovanni Boccaccio",
+   "Dante Alighieri",
+   "Petrarch"
+  ],
+  "answer": "Petrarch",
+  "difficulty": "hard",
+  "topic": "canzoniere"
+ },
+ {
+  "id": "hard-lit-109",
+  "prompt": "Who wrote the comedy The Frogs?",
+  "choices": [
+   "Plautus",
+   "Menander",
+   "Euripides",
+   "Aristophanes"
+  ],
+  "answer": "Aristophanes",
+  "difficulty": "easy",
+  "topic": "frogs"
+ },
+ {
+  "id": "hard-lit-110",
+  "prompt": "Who wrote the play Life Is a Dream?",
+  "choices": [
+   "Juan Ruiz de Alarcón",
+   "Pedro Calderón de la Barca",
+   "Lope de Vega",
+   "Tirso de Molina"
+  ],
+  "answer": "Pedro Calderón de la Barca",
+  "difficulty": "medium",
+  "topic": "life-is-a-dream"
+ },
+ {
+  "id": "hard-lit-111",
+  "prompt": "The Tale of the Heike recounts a war between which two clans?",
+  "choices": [
+   "Satsuma and Chōshū",
+   "Oda and Toyotomi",
+   "Taira and Minamoto",
+   "Fujiwara and Soga"
+  ],
+  "answer": "Taira and Minamoto",
+  "difficulty": "medium",
+  "topic": "heike"
+ },
+ {
+  "id": "hard-lit-112",
+  "prompt": "Who wrote The Death of Ivan Ilyich?",
+  "choices": [
+   "Leo Tolstoy",
+   "Ivan Turgenev",
+   "Anton Chekhov",
+   "Fyodor Dostoevsky"
+  ],
+  "answer": "Leo Tolstoy",
+  "difficulty": "easy",
+  "topic": "ivan-ilyich"
+ },
+ {
+  "id": "hard-lit-113",
+  "prompt": "Who wanders Dublin on one day in Joyce's Ulysses, as the advertising canvasser?",
+  "choices": [
+   "Simon Dedalus",
+   "Stephen Dedalus",
+   "Leopold Bloom",
+   "Buck Mulligan"
+  ],
+  "answer": "Leopold Bloom",
+  "difficulty": "easy",
+  "topic": "leopold-bloom"
+ },
+ {
+  "id": "hard-lit-114",
+  "prompt": "Who wrote the poem \"Goblin Market\"?",
+  "choices": [
+   "Jean Ingelow",
+   "Elizabeth Barrett Browning",
+   "Emily Dickinson",
+   "Christina Rossetti"
+  ],
+  "answer": "Christina Rossetti",
+  "difficulty": "medium",
+  "topic": "goblin-market"
+ },
+ {
+  "id": "hard-lit-115",
+  "prompt": "Who wrote Notebook of a Return to the Native Land?",
+  "choices": [
+   "Aimé Césaire",
+   "Frantz Fanon",
+   "Léon Damas",
+   "Léopold Senghor"
+  ],
+  "answer": "Aimé Césaire",
+  "difficulty": "medium",
+  "topic": "cahier-retour"
+ },
+ {
+  "id": "hard-lit-116",
+  "prompt": "Who wrote the Little House on the Prairie books?",
+  "choices": [
+   "L. M. Montgomery",
+   "Louisa May Alcott",
+   "Laura Ingalls Wilder",
+   "Kate Douglas Wiggin"
+  ],
+  "answer": "Laura Ingalls Wilder",
+  "difficulty": "easy",
+  "topic": "little-house"
+ },
+ {
+  "id": "hard-lit-117",
+  "prompt": "Who won the Booker Prize for The English Patient?",
+  "choices": [
+   "Rohinton Mistry",
+   "Kazuo Ishiguro",
+   "Peter Carey",
+   "Michael Ondaatje"
+  ],
+  "answer": "Michael Ondaatje",
+  "difficulty": "medium",
+  "topic": "english-patient"
+ },
+ {
+  "id": "hard-lit-118",
+  "prompt": "Who wrote the novel Villette?",
+  "choices": [
+   "George Eliot",
+   "Charlotte Brontë",
+   "Anne Brontë",
+   "Elizabeth Gaskell"
+  ],
+  "answer": "Charlotte Brontë",
+  "difficulty": "medium",
+  "topic": "villette"
+ },
+ {
+  "id": "hard-lit-119",
+  "prompt": "Who wrote the novella Billy Budd?",
+  "choices": [
+   "Herman Melville",
+   "Edgar Allan Poe",
+   "Nathaniel Hawthorne",
+   "Henry James"
+  ],
+  "answer": "Herman Melville",
+  "difficulty": "medium",
+  "topic": "billy-budd"
+ },
+ {
+  "id": "hard-lit-120",
+  "prompt": "Who wrote the novel Sons and Lovers?",
+  "choices": [
+   "Joseph Conrad",
+   "E. M. Forster",
+   "D. H. Lawrence",
+   "Thomas Hardy"
+  ],
+  "answer": "D. H. Lawrence",
+  "difficulty": "easy",
+  "topic": "sons-lovers"
+ },
+ {
+  "id": "hard-lit-121",
+  "prompt": "Who wrote the Iranian novel The Blind Owl?",
+  "choices": [
+   "Bozorg Alavi",
+   "Simin Daneshvar",
+   "Jalal Al-e-Ahmad",
+   "Sadegh Hedayat"
+  ],
+  "answer": "Sadegh Hedayat",
+  "difficulty": "hard",
+  "topic": "blind-owl"
+ },
+ {
+  "id": "hard-lit-122",
+  "prompt": "Which Dickens novel has Sydney Carton and the French Revolution?",
+  "choices": [
+   "Barnaby Rudge",
+   "Little Dorrit",
+   "A Tale of Two Cities",
+   "Hard Times"
+  ],
+  "answer": "A Tale of Two Cities",
+  "difficulty": "easy",
+  "topic": "two-cities"
+ },
+ {
+  "id": "hard-lit-123",
+  "prompt": "Who wrote the novel My Michael?",
+  "choices": [
+   "S. Y. Agnon",
+   "A. B. Yehoshua",
+   "David Grossman",
+   "Amos Oz"
+  ],
+  "answer": "Amos Oz",
+  "difficulty": "medium",
+  "topic": "my-michael"
+ },
+ {
+  "id": "hard-lit-124",
+  "prompt": "Who wrote the 18th-century Chinese novel Dream of the Red Chamber?",
+  "choices": [
+   "Wu Jingzi",
+   "Cao Xueqin",
+   "Wu Cheng'en",
+   "Pu Songling"
+  ],
+  "answer": "Cao Xueqin",
+  "difficulty": "easy",
+  "topic": "red-chamber"
+ },
+ {
+  "id": "hard-lit-125",
+  "prompt": "Who wrote the dystopian novel We, a model for later dystopias?",
+  "choices": [
+   "Mikhail Bulgakov",
+   "Yevgeny Zamyatin",
+   "Andrei Platonov",
+   "Boris Pilnyak"
+  ],
+  "answer": "Yevgeny Zamyatin",
+  "difficulty": "medium",
+  "topic": "zamyatin-we"
+ },
+ {
+  "id": "hard-lit-126",
+  "prompt": "Who wrote the epic allegory The Faerie Queene?",
+  "choices": [
+   "Edmund Spenser",
+   "Thomas Wyatt",
+   "Philip Sidney",
+   "John Milton"
+  ],
+  "answer": "Edmund Spenser",
+  "difficulty": "easy",
+  "topic": "faerie-queene"
+ },
+ {
+  "id": "hard-lit-127",
+  "prompt": "Who wrote Os Lusíadas, the Portuguese national epic?",
+  "choices": [
+   "Gil Vicente",
+   "Eça de Queirós",
+   "Fernando Pessoa",
+   "Luís de Camões"
+  ],
+  "answer": "Luís de Camões",
+  "difficulty": "medium",
+  "topic": "os-lusiadas"
+ },
+ {
+  "id": "hard-lit-128",
+  "prompt": "Who wrote the Polish novel Quo Vadis?",
+  "choices": [
+   "Stefan Żeromski",
+   "Bolesław Prus",
+   "Władysław Reymont",
+   "Henryk Sienkiewicz"
+  ],
+  "answer": "Henryk Sienkiewicz",
+  "difficulty": "medium",
+  "topic": "quo-vadis"
+ },
+ {
+  "id": "hard-lit-129",
+  "prompt": "Who wrote the poetry collection Birthday Letters?",
+  "choices": [
+   "Seamus Heaney",
+   "Thom Gunn",
+   "Ted Hughes",
+   "Philip Larkin"
+  ],
+  "answer": "Ted Hughes",
+  "difficulty": "hard",
+  "topic": "birthday-letters"
+ },
+ {
+  "id": "hard-lit-130",
+  "prompt": "Who wrote the Roman comedy The Pot of Gold (Aulularia)?",
+  "choices": [
+   "Plautus",
+   "Terence",
+   "Menander",
+   "Seneca"
+  ],
+  "answer": "Plautus",
+  "difficulty": "medium",
+  "topic": "aulularia"
+ },
+ {
+  "id": "hard-lit-131",
+  "prompt": "Who wrote the novel Oblomov?",
+  "choices": [
+   "Ivan Goncharov",
+   "Nikolai Leskov",
+   "Mikhail Saltykov-Shchedrin",
+   "Ivan Turgenev"
+  ],
+  "answer": "Ivan Goncharov",
+  "difficulty": "medium",
+  "topic": "oblomov"
+ },
+ {
+  "id": "hard-lit-132",
+  "prompt": "Which Austen novel parodies the Gothic romance?",
+  "choices": [
+   "Mansfield Park",
+   "Persuasion",
+   "Emma",
+   "Northanger Abbey"
+  ],
+  "answer": "Northanger Abbey",
+  "difficulty": "medium",
+  "topic": "northanger"
+ },
+ {
+  "id": "hard-lit-133",
+  "prompt": "Which empire did Sundiata Keita found, as told in a West African epic?",
+  "choices": [
+   "Kanem-Bornu",
+   "Mali Empire",
+   "Ghana Empire",
+   "Songhai Empire"
+  ],
+  "answer": "Mali Empire",
+  "difficulty": "medium",
+  "topic": "sundiata-mali"
+ },
+ {
+  "id": "hard-lit-134",
+  "prompt": "Who wrote the novel Vanity Fair?",
+  "choices": [
+   "Wilkie Collins",
+   "Anthony Trollope",
+   "Charles Dickens",
+   "William Makepeace Thackeray"
+  ],
+  "answer": "William Makepeace Thackeray",
+  "difficulty": "easy",
+  "topic": "vanity-fair"
+ },
+ {
+  "id": "hard-lit-135",
+  "prompt": "Who wrote The Second Sex?",
+  "choices": [
+   "Colette",
+   "Simone de Beauvoir",
+   "Marguerite Duras",
+   "Nathalie Sarraute"
+  ],
+  "answer": "Simone de Beauvoir",
+  "difficulty": "medium",
+  "topic": "second-sex"
+ },
+ {
+  "id": "hard-lit-136",
+  "prompt": "Who wrote the science fiction novel Dune?",
+  "choices": [
+   "Philip K. Dick",
+   "Frank Herbert",
+   "Isaac Asimov",
+   "Arthur C. Clarke"
+  ],
+  "answer": "Frank Herbert",
+  "difficulty": "easy",
+  "topic": "dune"
+ },
+ {
+  "id": "hard-lit-137",
+  "prompt": "In Dream of the Red Chamber, who is the young hero born with a piece of jade?",
+  "choices": [
+   "Qin Zhong",
+   "Liu Xiang",
+   "Jia Baoyu",
+   "Xue Pan"
+  ],
+  "answer": "Jia Baoyu",
+  "difficulty": "hard",
+  "topic": "jia-baoyu"
+ },
+ {
+  "id": "hard-lit-138",
+  "prompt": "Who wrote the play Six Characters in Search of an Author?",
+  "choices": [
+   "Luigi Pirandello",
+   "Dario Fo",
+   "Eduardo De Filippo",
+   "Carlo Goldoni"
+  ],
+  "answer": "Luigi Pirandello",
+  "difficulty": "easy",
+  "topic": "six-characters"
+ },
+ {
+  "id": "hard-lit-139",
+  "prompt": "Who won the Booker Prize for Life of Pi?",
+  "choices": [
+   "Yann Martel",
+   "Michael Ondaatje",
+   "Ian McEwan",
+   "Peter Carey"
+  ],
+  "answer": "Yann Martel",
+  "difficulty": "easy",
+  "topic": "life-of-pi"
+ },
+ {
+  "id": "hard-lit-140",
+  "prompt": "Who wrote the children's novel The Railway Children?",
+  "choices": [
+   "Frances Hodgson Burnett",
+   "E. Nesbit",
+   "Arthur Ransome",
+   "Enid Blyton"
+  ],
+  "answer": "E. Nesbit",
+  "difficulty": "medium",
+  "topic": "railway-children"
+ },
+ {
+  "id": "hard-lit-141",
+  "prompt": "Who is the wife of Hector in the Iliad?",
+  "choices": [
+   "Andromache",
+   "Briseis",
+   "Hecuba",
+   "Cassandra"
+  ],
+  "answer": "Andromache",
+  "difficulty": "easy",
+  "topic": "andromache"
+ },
+ {
+  "id": "hard-lit-142",
+  "prompt": "Who wrote the 2002 Egyptian novel The Yacoubian Building?",
+  "choices": [
+   "Naguib Mahfouz",
+   "Sonallah Ibrahim",
+   "Gamal al-Ghitani",
+   "Alaa Al Aswany"
+  ],
+  "answer": "Alaa Al Aswany",
+  "difficulty": "hard",
+  "topic": "yacoubian"
+ },
+ {
+  "id": "hard-lit-143",
+  "prompt": "Who declined the 1964 Nobel Prize in Literature?",
+  "choices": [
+   "Samuel Beckett",
+   "Albert Camus",
+   "Boris Pasternak",
+   "Jean-Paul Sartre"
+  ],
+  "answer": "Jean-Paul Sartre",
+  "difficulty": "medium",
+  "topic": "sartre-declined"
+ },
+ {
+  "id": "hard-lit-144",
+  "prompt": "Who wrote The Charterhouse of Parma?",
+  "choices": [
+   "Stendhal",
+   "Gustave Flaubert",
+   "Victor Hugo",
+   "Honoré de Balzac"
+  ],
+  "answer": "Stendhal",
+  "difficulty": "medium",
+  "topic": "charterhouse-parma"
+ },
+ {
+  "id": "hard-lit-145",
+  "prompt": "Who wrote the novel Their Eyes Were Watching God?",
+  "choices": [
+   "Alice Walker",
+   "Zora Neale Hurston",
+   "Toni Morrison",
+   "Nella Larsen"
+  ],
+  "answer": "Zora Neale Hurston",
+  "difficulty": "medium",
+  "topic": "their-eyes"
+ },
+ {
+  "id": "hard-lit-146",
+  "prompt": "Who wrote the Latin Confessions describing his own conversion?",
+  "choices": [
+   "Tertullian",
+   "Jerome",
+   "Augustine of Hippo",
+   "Boethius"
+  ],
+  "answer": "Augustine of Hippo",
+  "difficulty": "medium",
+  "topic": "confessions-augustine"
+ },
+ {
+  "id": "hard-lit-147",
+  "prompt": "At which pass does Roland die in the Song of Roland?",
+  "choices": [
+   "Saint Bernard",
+   "Roncevaux",
+   "Tours",
+   "Thermopylae"
+  ],
+  "answer": "Roncevaux",
+  "difficulty": "medium",
+  "topic": "roncevaux"
+ },
+ {
+  "id": "hard-lit-148",
+  "prompt": "Who wrote the play The Way of the World?",
+  "choices": [
+   "William Wycherley",
+   "John Vanbrugh",
+   "William Congreve",
+   "George Etherege"
+  ],
+  "answer": "William Congreve",
+  "difficulty": "medium",
+  "topic": "way-of-the-world"
+ },
+ {
+  "id": "hard-lit-149",
+  "prompt": "Who wrote Season of Migration to the North?",
+  "choices": [
+   "Naguib Mahfouz",
+   "Tayeb Salih",
+   "Abdelrahman Munif",
+   "Ghassan Kanafani"
+  ],
+  "answer": "Tayeb Salih",
+  "difficulty": "medium",
+  "topic": "season-migration"
+ },
+ {
+  "id": "hard-lit-150",
+  "prompt": "In which Austen novel does Fanny Price appear?",
+  "choices": [
+   "Northanger Abbey",
+   "Emma",
+   "Persuasion",
+   "Mansfield Park"
+  ],
+  "answer": "Mansfield Park",
+  "difficulty": "easy",
+  "topic": "mansfield-park"
+ },
+ {
+  "id": "hard-lit-151",
+  "prompt": "In Fathers and Sons, who is the nihilist student?",
+  "choices": [
+   "Lavretsky",
+   "Bazarov",
+   "Rudin",
+   "Insarov"
+  ],
+  "answer": "Bazarov",
+  "difficulty": "easy",
+  "topic": "bazarov"
+ },
+ {
+  "id": "hard-lit-152",
+  "prompt": "Who wrote the novel A Clockwork Orange?",
+  "choices": [
+   "Anthony Burgess",
+   "Kingsley Amis",
+   "William Golding",
+   "Alan Sillitoe"
+  ],
+  "answer": "Anthony Burgess",
+  "difficulty": "easy",
+  "topic": "clockwork-orange"
+ },
+ {
+  "id": "hard-lit-153",
+  "prompt": "Who wrote the novel The Bell Jar?",
+  "choices": [
+   "Mary McCarthy",
+   "Joan Didion",
+   "Anne Sexton",
+   "Sylvia Plath"
+  ],
+  "answer": "Sylvia Plath",
+  "difficulty": "easy",
+  "topic": "bell-jar"
+ },
+ {
+  "id": "hard-lit-154",
+  "prompt": "Who wrote the novel Blindness, about a plague of white blindness?",
+  "choices": [
+   "António Lobo Antunes",
+   "Fernando Pessoa",
+   "José Saramago",
+   "Eça de Queirós"
+  ],
+  "answer": "José Saramago",
+  "difficulty": "hard",
+  "topic": "blindness"
+ },
+ {
+  "id": "hard-lit-155",
+  "prompt": "Who wrote the Palestinian novella Men in the Sun?",
+  "choices": [
+   "Mahmoud Darwish",
+   "Jabra Ibrahim Jabra",
+   "Emile Habibi",
+   "Ghassan Kanafani"
+  ],
+  "answer": "Ghassan Kanafani",
+  "difficulty": "medium",
+  "topic": "men-in-sun"
+ },
+ {
+  "id": "hard-lit-156",
+  "prompt": "Who wrote the novel Ferdydurke?",
+  "choices": [
+   "Witold Gombrowicz",
+   "Stanisław Lem",
+   "Bruno Schulz",
+   "Czesław Miłosz"
+  ],
+  "answer": "Witold Gombrowicz",
+  "difficulty": "hard",
+  "topic": "ferdydurke"
+ },
+ {
+  "id": "hard-lit-157",
+  "prompt": "Who wrote the Persian classic Gulistan?",
+  "choices": [
+   "Ferdowsi",
+   "Saadi",
+   "Hafez",
+   "Omar Khayyam"
+  ],
+  "answer": "Saadi",
+  "difficulty": "hard",
+  "topic": "gulistan"
+ },
+ {
+  "id": "hard-lit-158",
+  "prompt": "Who wrote the novel Kidnapped?",
+  "choices": [
+   "Walter Scott",
+   "John Buchan",
+   "Robert Louis Stevenson",
+   "Arthur Conan Doyle"
+  ],
+  "answer": "Robert Louis Stevenson",
+  "difficulty": "easy",
+  "topic": "kidnapped"
+ },
+ {
+  "id": "hard-lit-159",
+  "prompt": "Who wrote the children's novel Swallows and Amazons?",
+  "choices": [
+   "Arthur Ransome",
+   "E. Nesbit",
+   "Richmal Crompton",
+   "Enid Blyton"
+  ],
+  "answer": "Arthur Ransome",
+  "difficulty": "hard",
+  "topic": "swallows-amazons"
+ },
+ {
+  "id": "hard-lit-160",
+  "prompt": "Who wrote A Hero of Our Time?",
+  "choices": [
+   "Nikolai Gogol",
+   "Alexander Pushkin",
+   "Ivan Turgenev",
+   "Mikhail Lermontov"
+  ],
+  "answer": "Mikhail Lermontov",
+  "difficulty": "medium",
+  "topic": "hero-of-our-time"
+ },
+ {
+  "id": "hard-lit-161",
+  "prompt": "Who wrote the play Doctor Faustus?",
+  "choices": [
+   "Thomas Kyd",
+   "Christopher Marlowe",
+   "Ben Jonson",
+   "John Webster"
+  ],
+  "answer": "Christopher Marlowe",
+  "difficulty": "easy",
+  "topic": "dr-faustus"
+ },
+ {
+  "id": "hard-lit-162",
+  "prompt": "Who wrote the novel The Death of Artemio Cruz?",
+  "choices": [
+   "Juan Rulfo",
+   "Octavio Paz",
+   "Elena Poniatowska",
+   "Carlos Fuentes"
+  ],
+  "answer": "Carlos Fuentes",
+  "difficulty": "hard",
+  "topic": "artemio-cruz"
+ },
+ {
+  "id": "hard-lit-163",
+  "prompt": "Which statesman won the 1953 Nobel Prize in Literature?",
+  "choices": [
+   "Charles de Gaulle",
+   "Winston Churchill",
+   "Jan Smuts",
+   "Bertrand Russell"
+  ],
+  "answer": "Winston Churchill",
+  "difficulty": "medium",
+  "topic": "churchill-nobel"
+ },
+ {
+  "id": "hard-lit-164",
+  "prompt": "Who wrote the story \"Gimpel the Fool\"?",
+  "choices": [
+   "Sholem Aleichem",
+   "Bernard Malamud",
+   "Isaac Bashevis Singer",
+   "Saul Bellow"
+  ],
+  "answer": "Isaac Bashevis Singer",
+  "difficulty": "medium",
+  "topic": "gimpel"
+ },
+ {
+  "id": "hard-lit-165",
+  "prompt": "Who wrote the novel The House of Mirth?",
+  "choices": [
+   "Willa Cather",
+   "Kate Chopin",
+   "Ellen Glasgow",
+   "Edith Wharton"
+  ],
+  "answer": "Edith Wharton",
+  "difficulty": "medium",
+  "topic": "house-of-mirth"
+ },
+ {
+  "id": "hard-lit-166",
+  "prompt": "Who is the lover of Anna in Tolstoy's Anna Karenina?",
+  "choices": [
+   "Alexei Karenin",
+   "Konstantin Levin",
+   "Stiva Oblonsky",
+   "Count Vronsky"
+  ],
+  "answer": "Count Vronsky",
+  "difficulty": "easy",
+  "topic": "anna-vronsky"
+ },
+ {
+  "id": "hard-lit-167",
+  "prompt": "Who wrote the trilogy the Oresteia?",
+  "choices": [
+   "Aeschylus",
+   "Aristophanes",
+   "Euripides",
+   "Sophocles"
+  ],
+  "answer": "Aeschylus",
+  "difficulty": "easy",
+  "topic": "oresteia"
+ },
+ {
+  "id": "hard-lit-168",
+  "prompt": "Who wrote the Latin epic Pharsalia about the civil war?",
+  "choices": [
+   "Statius",
+   "Lucan",
+   "Silius Italicus",
+   "Ovid"
+  ],
+  "answer": "Lucan",
+  "difficulty": "medium",
+  "topic": "pharsalia"
+ },
+ {
+  "id": "hard-lit-169",
+  "prompt": "Who wrote the long poem The Cantos?",
+  "choices": [
+   "William Carlos Williams",
+   "T. S. Eliot",
+   "Wallace Stevens",
+   "Ezra Pound"
+  ],
+  "answer": "Ezra Pound",
+  "difficulty": "medium",
+  "topic": "cantos"
+ },
+ {
+  "id": "hard-lit-170",
+  "prompt": "Who wrote the novel Steppenwolf?",
+  "choices": [
+   "Hermann Hesse",
+   "Franz Kafka",
+   "Hermann Broch",
+   "Thomas Mann"
+  ],
+  "answer": "Hermann Hesse",
+  "difficulty": "easy",
+  "topic": "steppenwolf"
+ },
+ {
+  "id": "hard-lit-171",
+  "prompt": "Who wrote Les Liaisons dangereuses?",
+  "choices": [
+   "Abbé Prévost",
+   "Choderlos de Laclos",
+   "Marivaux",
+   "Denis Diderot"
+  ],
+  "answer": "Choderlos de Laclos",
+  "difficulty": "hard",
+  "topic": "liaisons-dangereuses"
+ },
+ {
+  "id": "hard-lit-172",
+  "prompt": "Who wrote the novel A Passage to India?",
+  "choices": [
+   "Evelyn Waugh",
+   "Rudyard Kipling",
+   "Joseph Conrad",
+   "E. M. Forster"
+  ],
+  "answer": "E. M. Forster",
+  "difficulty": "easy",
+  "topic": "passage-india"
+ },
+ {
+  "id": "hard-lit-173",
+  "prompt": "Who guides Dante through Paradise?",
+  "choices": [
+   "Beatrice",
+   "Francesca",
+   "Matelda",
+   "Lucia"
+  ],
+  "answer": "Beatrice",
+  "difficulty": "easy",
+  "topic": "dante-beatrice"
+ },
+ {
+  "id": "hard-lit-174",
+  "prompt": "Who wrote the Serbian novel The Bridge on the Drina?",
+  "choices": [
+   "Milorad Pavić",
+   "Ivo Andrić",
+   "Miloš Crnjanski",
+   "Danilo Kiš"
+  ],
+  "answer": "Ivo Andrić",
+  "difficulty": "hard",
+  "topic": "bridge-drina"
+ },
+ {
+  "id": "hard-lit-175",
+  "prompt": "Who wrote the Prose Edda?",
+  "choices": [
+   "Sæmundr the Wise",
+   "Egill Skallagrímsson",
+   "Snorri Sturluson",
+   "Saxo Grammaticus"
+  ],
+  "answer": "Snorri Sturluson",
+  "difficulty": "hard",
+  "topic": "prose-edda"
+ },
+ {
+  "id": "hard-lit-176",
+  "prompt": "Who was the first Japanese winner of the Nobel Prize in Literature?",
+  "choices": [
+   "Jun'ichirō Tanizaki",
+   "Kenzaburō Ōe",
+   "Yasunari Kawabata",
+   "Yukio Mishima"
+  ],
+  "answer": "Yasunari Kawabata",
+  "difficulty": "medium",
+  "topic": "kawabata-nobel"
+ },
+ {
+  "id": "hard-lit-177",
+  "prompt": "Which Greek poet wrote victory odes for athletes at the Olympic Games?",
+  "choices": [
+   "Pindar",
+   "Alcaeus",
+   "Simonides",
+   "Sappho"
+  ],
+  "answer": "Pindar",
+  "difficulty": "medium",
+  "topic": "pindar"
+ },
+ {
+  "id": "hard-lit-178",
+  "prompt": "Who wrote The Consolation of Philosophy while imprisoned?",
+  "choices": [
+   "Cassiodorus",
+   "Lucretius",
+   "Augustine",
+   "Boethius"
+  ],
+  "answer": "Boethius",
+  "difficulty": "medium",
+  "topic": "consolation"
+ },
+ {
+  "id": "hard-lit-179",
+  "prompt": "Which writer took a pen name echoing Edgar Allan Poe, founding Japanese detective fiction?",
+  "choices": [
+   "Mori Ōgai",
+   "Edogawa Rampo",
+   "Seishi Yokomizo",
+   "Kyūsaku Yumeno"
+  ],
+  "answer": "Edogawa Rampo",
+  "difficulty": "hard",
+  "topic": "edogawa-rampo"
+ },
+ {
+  "id": "hard-lit-180",
+  "prompt": "Who wrote the cyberpunk novel Neuromancer?",
+  "choices": [
+   "Bruce Sterling",
+   "Neal Stephenson",
+   "William Gibson",
+   "Philip K. Dick"
+  ],
+  "answer": "William Gibson",
+  "difficulty": "medium",
+  "topic": "neuromancer"
+ },
+ {
+  "id": "hard-lit-181",
+  "prompt": "Who wrote Love in the Time of Cholera?",
+  "choices": [
+   "Gabriel García Márquez",
+   "Carlos Fuentes",
+   "Mario Vargas Llosa",
+   "Jorge Amado"
+  ],
+  "answer": "Gabriel García Márquez",
+  "difficulty": "easy",
+  "topic": "love-cholera"
+ },
+ {
+  "id": "hard-lit-182",
+  "prompt": "In the Shahnameh, which hero unknowingly kills his son Sohrab?",
+  "choices": [
+   "Kai Khosrow",
+   "Fereydun",
+   "Rostam",
+   "Siyavash"
+  ],
+  "answer": "Rostam",
+  "difficulty": "easy",
+  "topic": "rostam-sohrab"
+ },
+ {
+  "id": "hard-lit-183",
+  "prompt": "Who wrote the novel No Longer Human?",
+  "choices": [
+   "Natsume Sōseki",
+   "Yukio Mishima",
+   "Kōbō Abe",
+   "Osamu Dazai"
+  ],
+  "answer": "Osamu Dazai",
+  "difficulty": "medium",
+  "topic": "no-longer-human"
+ },
+ {
+  "id": "hard-lit-184",
+  "prompt": "Who wrote the revenge tragedy The Spanish Tragedy?",
+  "choices": [
+   "John Webster",
+   "Thomas Kyd",
+   "Thomas Middleton",
+   "Christopher Marlowe"
+  ],
+  "answer": "Thomas Kyd",
+  "difficulty": "hard",
+  "topic": "spanish-tragedy"
+ },
+ {
+  "id": "hard-lit-185",
+  "prompt": "Who wrote the novel Wide Sargasso Sea?",
+  "choices": [
+   "Doris Lessing",
+   "Jean Rhys",
+   "Iris Murdoch",
+   "Muriel Spark"
+  ],
+  "answer": "Jean Rhys",
+  "difficulty": "medium",
+  "topic": "wide-sargasso"
+ },
+ {
+  "id": "hard-lit-186",
+  "prompt": "Who wrote the Essais, which created the personal essay?",
+  "choices": [
+   "François Rabelais",
+   "Michel de Montaigne",
+   "Blaise Pascal",
+   "La Rochefoucauld"
+  ],
+  "answer": "Michel de Montaigne",
+  "difficulty": "medium",
+  "topic": "montaigne-essais"
+ },
+ {
+  "id": "hard-lit-187",
+  "prompt": "Who wrote The Tenant of Wildfell Hall?",
+  "choices": [
+   "Charlotte Brontë",
+   "Anne Brontë",
+   "Emily Brontë",
+   "Elizabeth Gaskell"
+  ],
+  "answer": "Anne Brontë",
+  "difficulty": "medium",
+  "topic": "wildfell-hall"
+ },
+ {
+  "id": "hard-lit-188",
+  "prompt": "Who wrote the comic novel I Am a Cat?",
+  "choices": [
+   "Natsume Sōseki",
+   "Ryūnosuke Akutagawa",
+   "Jun'ichirō Tanizaki",
+   "Mori Ōgai"
+  ],
+  "answer": "Natsume Sōseki",
+  "difficulty": "easy",
+  "topic": "i-am-a-cat"
+ },
+ {
+  "id": "hard-lit-189",
+  "prompt": "Who wrote the novel The Makioka Sisters?",
+  "choices": [
+   "Yasunari Kawabata",
+   "Osamu Dazai",
+   "Yukio Mishima",
+   "Jun'ichirō Tanizaki"
+  ],
+  "answer": "Jun'ichirō Tanizaki",
+  "difficulty": "hard",
+  "topic": "makioka-sisters"
+ },
+ {
+  "id": "hard-lit-190",
+  "prompt": "Who wrote the verse drama Prometheus Unbound?",
+  "choices": [
+   "Lord Byron",
+   "John Keats",
+   "Percy Bysshe Shelley",
+   "William Blake"
+  ],
+  "answer": "Percy Bysshe Shelley",
+  "difficulty": "hard",
+  "topic": "prometheus-unbound"
+ },
+ {
+  "id": "hard-lit-191",
+  "prompt": "Which hero is killed by Hagen in the Nibelungenlied?",
+  "choices": [
+   "Gunther",
+   "Etzel",
+   "Dietrich",
+   "Siegfried"
+  ],
+  "answer": "Siegfried",
+  "difficulty": "hard",
+  "topic": "nibelungenlied"
+ },
+ {
+  "id": "hard-lit-192",
+  "prompt": "Who wrote Memoirs of Hadrian?",
+  "choices": [
+   "Colette",
+   "Marguerite Duras",
+   "Marguerite Yourcenar",
+   "Nathalie Sarraute"
+  ],
+  "answer": "Marguerite Yourcenar",
+  "difficulty": "hard",
+  "topic": "memoirs-hadrian"
+ },
+ {
+  "id": "hard-lit-193",
+  "prompt": "Who wrote the novel Gravity's Rainbow?",
+  "choices": [
+   "Thomas Pynchon",
+   "John Barth",
+   "Kurt Vonnegut",
+   "Don DeLillo"
+  ],
+  "answer": "Thomas Pynchon",
+  "difficulty": "medium",
+  "topic": "gravitys-rainbow"
+ },
+ {
+  "id": "hard-lit-194",
+  "prompt": "Who wrote the comic play Accidental Death of an Anarchist?",
+  "choices": [
+   "Luigi Pirandello",
+   "Dario Fo",
+   "Carlo Goldoni",
+   "Eduardo De Filippo"
+  ],
+  "answer": "Dario Fo",
+  "difficulty": "medium",
+  "topic": "accidental-death"
+ },
+ {
+  "id": "hard-lit-195",
+  "prompt": "Who was the first woman to win the Nobel Prize in Literature?",
+  "choices": [
+   "Grazia Deledda",
+   "Sigrid Undset",
+   "Gabriela Mistral",
+   "Selma Lagerlöf"
+  ],
+  "answer": "Selma Lagerlöf",
+  "difficulty": "hard",
+  "topic": "first-woman-nobel"
+ },
+ {
+  "id": "hard-lit-196",
+  "prompt": "Who is Rama's brother who goes with him into exile?",
+  "choices": [
+   "Shatrughna",
+   "Hanuman",
+   "Lakshmana",
+   "Bharata"
+  ],
+  "answer": "Lakshmana",
+  "difficulty": "hard",
+  "topic": "lakshmana"
+ },
+ {
+  "id": "hard-lit-197",
+  "prompt": "Who wrote the science fiction novel The Left Hand of Darkness?",
+  "choices": [
+   "Margaret Atwood",
+   "Joanna Russ",
+   "Octavia Butler",
+   "Ursula K. Le Guin"
+  ],
+  "answer": "Ursula K. Le Guin",
+  "difficulty": "medium",
+  "topic": "left-hand-darkness"
+ },
+ {
+  "id": "hard-lit-198",
+  "prompt": "Who wrote the Zimbabwean novel Nervous Conditions?",
+  "choices": [
+   "Tsitsi Dangarembga",
+   "Yvonne Vera",
+   "Doris Lessing",
+   "Chenjerai Hove"
+  ],
+  "answer": "Tsitsi Dangarembga",
+  "difficulty": "hard",
+  "topic": "nervous-conditions"
+ },
+ {
+  "id": "hard-lit-199",
+  "prompt": "Who wrote the novel Berlin Alexanderplatz?",
+  "choices": [
+   "Erich Kästner",
+   "Hermann Hesse",
+   "Alfred Döblin",
+   "Thomas Mann"
+  ],
+  "answer": "Alfred Döblin",
+  "difficulty": "medium",
+  "topic": "alexanderplatz"
+ },
+ {
+  "id": "hard-lit-200",
+  "prompt": "Who compiled the Finnish epic Kalevala?",
+  "choices": [
+   "Johan Ludvig Runeberg",
+   "Mika Waltari",
+   "Aleksis Kivi",
+   "Elias Lönnrot"
+  ],
+  "answer": "Elias Lönnrot",
+  "difficulty": "hard",
+  "topic": "kalevala"
+ },
+ {
+  "id": "hard-lit-201",
+  "prompt": "Which Tang poet is called the \"Poet Sage\"?",
+  "choices": [
+   "Bai Juyi",
+   "Du Fu",
+   "Li Bai",
+   "Wang Wei"
+  ],
+  "answer": "Du Fu",
+  "difficulty": "medium",
+  "topic": "du-fu"
+ },
+ {
+  "id": "hard-lit-202",
+  "prompt": "Who is the student protagonist of Crime and Punishment?",
+  "choices": [
+   "Raskolnikov",
+   "Razumikhin",
+   "Luzhin",
+   "Svidrigailov"
+  ],
+  "answer": "Raskolnikov",
+  "difficulty": "easy",
+  "topic": "raskolnikov"
+ },
+ {
+  "id": "hard-lit-203",
+  "prompt": "Who wrote The Wonderful Adventures of Nils?",
+  "choices": [
+   "Sigrid Undset",
+   "Selma Lagerlöf",
+   "Astrid Lindgren",
+   "Tove Jansson"
+  ],
+  "answer": "Selma Lagerlöf",
+  "difficulty": "medium",
+  "topic": "nils-lagerlof"
+ },
+ {
+  "id": "hard-lit-204",
+  "prompt": "Which Hardy novel features the farmer Bathsheba Everdene?",
+  "choices": [
+   "Jude the Obscure",
+   "The Woodlanders",
+   "The Mayor of Casterbridge",
+   "Far from the Madding Crowd"
+  ],
+  "answer": "Far from the Madding Crowd",
+  "difficulty": "medium",
+  "topic": "bathsheba"
+ },
+ {
+  "id": "hard-lit-205",
+  "prompt": "Who wrote the poem \"Waiting for the Barbarians\"?",
+  "choices": [
+   "C. P. Cavafy",
+   "Odysseas Elytis",
+   "Kostis Palamas",
+   "George Seferis"
+  ],
+  "answer": "C. P. Cavafy",
+  "difficulty": "medium",
+  "topic": "waiting-barbarians"
+ },
+ {
+  "id": "hard-lit-206",
+  "prompt": "Who wrote the Ecclesiastical History of the English People?",
+  "choices": [
+   "Bede",
+   "Gildas",
+   "Asser",
+   "Alcuin"
+  ],
+  "answer": "Bede",
+  "difficulty": "medium",
+  "topic": "bede"
+ },
+ {
+  "id": "hard-lit-207",
+  "prompt": "Who wrote the novel The Time of the Hero?",
+  "choices": [
+   "Alejo Carpentier",
+   "Julio Cortázar",
+   "Mario Vargas Llosa",
+   "José María Arguedas"
+  ],
+  "answer": "Mario Vargas Llosa",
+  "difficulty": "medium",
+  "topic": "time-of-hero"
+ },
+ {
+  "id": "hard-lit-208",
+  "prompt": "Who wrote the epic Don Juan?",
+  "choices": [
+   "Lord Byron",
+   "Robert Southey",
+   "John Keats",
+   "Percy Shelley"
+  ],
+  "answer": "Lord Byron",
+  "difficulty": "easy",
+  "topic": "don-juan"
+ },
+ {
+  "id": "hard-lit-209",
+  "prompt": "Which Roman satirist coined the phrase about \"bread and circuses\"?",
+  "choices": [
+   "Martial",
+   "Persius",
+   "Horace",
+   "Juvenal"
+  ],
+  "answer": "Juvenal",
+  "difficulty": "medium",
+  "topic": "juvenal"
+ },
+ {
+  "id": "hard-lit-210",
+  "prompt": "Who wrote the Turkish novel My Name Is Red?",
+  "choices": [
+   "Yaşar Kemal",
+   "Elif Shafak",
+   "Orhan Pamuk",
+   "Nâzım Hikmet"
+  ],
+  "answer": "Orhan Pamuk",
+  "difficulty": "easy",
+  "topic": "my-name-is-red"
+ },
+ {
+  "id": "hard-lit-211",
+  "prompt": "Who wrote the children's novel Pollyanna?",
+  "choices": [
+   "Kate Douglas Wiggin",
+   "Frances Hodgson Burnett",
+   "Eleanor H. Porter",
+   "L. M. Montgomery"
+  ],
+  "answer": "Eleanor H. Porter",
+  "difficulty": "hard",
+  "topic": "pollyanna"
+ },
+ {
+  "id": "hard-lit-212",
+  "prompt": "Who wrote the Portuguese novel The Maias?",
+  "choices": [
+   "Eça de Queirós",
+   "Almeida Garrett",
+   "José Saramago",
+   "Camilo Castelo Branco"
+  ],
+  "answer": "Eça de Queirós",
+  "difficulty": "hard",
+  "topic": "the-maias"
+ },
+ {
+  "id": "hard-lit-213",
+  "prompt": "Who wrote Works and Days?",
+  "choices": [
+   "Homer",
+   "Hesiod",
+   "Theognis",
+   "Pindar"
+  ],
+  "answer": "Hesiod",
+  "difficulty": "medium",
+  "topic": "works-and-days"
+ },
+ {
+  "id": "hard-lit-214",
+  "prompt": "Who wrote the children's novel Watership Down?",
+  "choices": [
+   "Richard Adams",
+   "Roald Dahl",
+   "Kenneth Grahame",
+   "Dick King-Smith"
+  ],
+  "answer": "Richard Adams",
+  "difficulty": "easy",
+  "topic": "watership-down"
+ },
+ {
+  "id": "hard-lit-215",
+  "prompt": "Which Chekhov play features the sisters Olga, Masha and Irina?",
+  "choices": [
+   "Ivanov",
+   "Three Sisters",
+   "The Seagull",
+   "Uncle Vanya"
+  ],
+  "answer": "Three Sisters",
+  "difficulty": "easy",
+  "topic": "three-sisters"
+ },
+ {
+  "id": "hard-lit-216",
+  "prompt": "Who wrote the play Cyrano de Bergerac?",
+  "choices": [
+   "Molière",
+   "Victor Hugo",
+   "Alfred de Musset",
+   "Edmond Rostand"
+  ],
+  "answer": "Edmond Rostand",
+  "difficulty": "easy",
+  "topic": "cyrano"
+ },
+ {
+  "id": "hard-lit-217",
+  "prompt": "Who wrote the Latin Satyricon?",
+  "choices": [
+   "Martial",
+   "Juvenal",
+   "Apuleius",
+   "Petronius"
+  ],
+  "answer": "Petronius",
+  "difficulty": "medium",
+  "topic": "satyricon"
+ },
+ {
+  "id": "hard-lit-218",
+  "prompt": "Who wrote the Argonautica?",
+  "choices": [
+   "Apollonius of Rhodes",
+   "Theocritus",
+   "Callimachus",
+   "Quintus of Smyrna"
+  ],
+  "answer": "Apollonius of Rhodes",
+  "difficulty": "medium",
+  "topic": "argonautica"
+ },
+ {
+  "id": "hard-lit-219",
+  "prompt": "Who wrote the Sanskrit play Shakuntala?",
+  "choices": [
+   "Shudraka",
+   "Bhasa",
+   "Kalidasa",
+   "Bhavabhuti"
+  ],
+  "answer": "Kalidasa",
+  "difficulty": "easy",
+  "topic": "shakuntala"
+ },
+ {
+  "id": "hard-lit-220",
+  "prompt": "Who wrote the novel One Hundred Years of Solitude?",
+  "choices": [
+   "Julio Cortázar",
+   "Isabel Allende",
+   "Gabriel García Márquez",
+   "Mario Vargas Llosa"
+  ],
+  "answer": "Gabriel García Márquez",
+  "difficulty": "easy",
+  "topic": "cien-anos"
+ },
+ {
+  "id": "hard-lit-221",
+  "prompt": "Who wrote the poetry collection The Whitsun Weddings?",
+  "choices": [
+   "W. H. Auden",
+   "Philip Larkin",
+   "Seamus Heaney",
+   "Ted Hughes"
+  ],
+  "answer": "Philip Larkin",
+  "difficulty": "medium",
+  "topic": "whitsun-weddings"
+ },
+ {
+  "id": "hard-lit-222",
+  "prompt": "Who wrote the comedy She Stoops to Conquer?",
+  "choices": [
+   "Oliver Goldsmith",
+   "Samuel Johnson",
+   "Richard Sheridan",
+   "Henry Fielding"
+  ],
+  "answer": "Oliver Goldsmith",
+  "difficulty": "medium",
+  "topic": "she-stoops"
+ },
+ {
+  "id": "hard-lit-223",
+  "prompt": "Who wrote the classical tragedy Phèdre?",
+  "choices": [
+   "Pierre Corneille",
+   "Jean Racine",
+   "Marivaux",
+   "Molière"
+  ],
+  "answer": "Jean Racine",
+  "difficulty": "medium",
+  "topic": "phedre"
+ },
+ {
+  "id": "hard-lit-224",
+  "prompt": "Who wrote the novel Family (Jia), a saga of a Sichuan household?",
+  "choices": [
+   "Mao Dun",
+   "Ba Jin",
+   "Yu Dafu",
+   "Lao She"
+  ],
+  "answer": "Ba Jin",
+  "difficulty": "hard",
+  "topic": "ba-jin-family"
+ },
+ {
+  "id": "hard-lit-225",
+  "prompt": "Which Shakespeare play is generally counted as his shortest?",
+  "choices": [
+   "The Tempest",
+   "The Comedy of Errors",
+   "A Midsummer Night's Dream",
+   "Macbeth"
+  ],
+  "answer": "The Comedy of Errors",
+  "difficulty": "medium",
+  "topic": "shortest-shakespeare"
+ },
+ {
+  "id": "hard-lit-226",
+  "prompt": "Who wrote the poem \"Elegy Written in a Country Churchyard\"?",
+  "choices": [
+   "Oliver Goldsmith",
+   "William Collins",
+   "Alexander Pope",
+   "Thomas Gray"
+  ],
+  "answer": "Thomas Gray",
+  "difficulty": "hard",
+  "topic": "gray-elegy"
+ },
+ {
+  "id": "hard-lit-227",
+  "prompt": "Who wrote the novel Babbitt?",
+  "choices": [
+   "Sherwood Anderson",
+   "Sinclair Lewis",
+   "John Dos Passos",
+   "Theodore Dreiser"
+  ],
+  "answer": "Sinclair Lewis",
+  "difficulty": "medium",
+  "topic": "babbitt"
+ },
+ {
+  "id": "hard-lit-228",
+  "prompt": "Who wrote the Kenyan novel A Grain of Wheat?",
+  "choices": [
+   "Wole Soyinka",
+   "Ayi Kwei Armah",
+   "Chinua Achebe",
+   "Ngũgĩ wa Thiong'o"
+  ],
+  "answer": "Ngũgĩ wa Thiong'o",
+  "difficulty": "medium",
+  "topic": "grain-of-wheat"
+ },
+ {
+  "id": "hard-lit-229",
+  "prompt": "Who wrote Out of Africa under the name Isak Dinesen?",
+  "choices": [
+   "Sigrid Undset",
+   "Tove Jansson",
+   "Karen Blixen",
+   "Selma Lagerlöf"
+  ],
+  "answer": "Karen Blixen",
+  "difficulty": "medium",
+  "topic": "out-of-africa"
+ },
+ {
+  "id": "hard-lit-230",
+  "prompt": "Who wrote the Idylls, founding pastoral poetry in Greek?",
+  "choices": [
+   "Theocritus",
+   "Callimachus",
+   "Hesiod",
+   "Pindar"
+  ],
+  "answer": "Theocritus",
+  "difficulty": "medium",
+  "topic": "theocritus"
+ },
+ {
+  "id": "hard-lit-231",
+  "prompt": "Who wrote the novel Brideshead Revisited?",
+  "choices": [
+   "George Orwell",
+   "Anthony Powell",
+   "Evelyn Waugh",
+   "Graham Greene"
+  ],
+  "answer": "Evelyn Waugh",
+  "difficulty": "easy",
+  "topic": "brideshead"
+ },
+ {
+  "id": "hard-lit-232",
+  "prompt": "Which Portuguese poet wrote under many heteronyms, including Álvaro de Campos?",
+  "choices": [
+   "Eugénio de Andrade",
+   "Fernando Pessoa",
+   "Luís de Camões",
+   "Miguel Torga"
+  ],
+  "answer": "Fernando Pessoa",
+  "difficulty": "hard",
+  "topic": "pessoa"
+ },
+ {
+  "id": "hard-lit-233",
+  "prompt": "Who wrote the comedy Volpone?",
+  "choices": [
+   "Francis Beaumont",
+   "Thomas Dekker",
+   "Christopher Marlowe",
+   "Ben Jonson"
+  ],
+  "answer": "Ben Jonson",
+  "difficulty": "easy",
+  "topic": "volpone"
+ },
+ {
+  "id": "hard-lit-234",
+  "prompt": "Which Austen novel features the heroine Anne Elliot?",
+  "choices": [
+   "Persuasion",
+   "Emma",
+   "Mansfield Park",
+   "Sense and Sensibility"
+  ],
+  "answer": "Persuasion",
+  "difficulty": "easy",
+  "topic": "persuasion"
+ },
+ {
+  "id": "hard-lit-235",
+  "prompt": "Who wrote the children's books Mary Poppins?",
+  "choices": [
+   "P. L. Travers",
+   "Hugh Lofting",
+   "E. Nesbit",
+   "Mary Norton"
+  ],
+  "answer": "P. L. Travers",
+  "difficulty": "easy",
+  "topic": "mary-poppins"
+ },
+ {
+  "id": "hard-lit-236",
+  "prompt": "Who wrote the philosophical tale Hayy ibn Yaqzan in Andalusia?",
+  "choices": [
+   "Ibn Hazm",
+   "Ibn Tufayl",
+   "Ibn Arabi",
+   "Ibn Rushd"
+  ],
+  "answer": "Ibn Tufayl",
+  "difficulty": "hard",
+  "topic": "hayy-yaqzan"
+ },
+ {
+  "id": "hard-lit-237",
+  "prompt": "Who wrote the novel Midaq Alley, set in Cairo?",
+  "choices": [
+   "Taha Hussein",
+   "Tawfiq al-Hakim",
+   "Naguib Mahfouz",
+   "Tayeb Salih"
+  ],
+  "answer": "Naguib Mahfouz",
+  "difficulty": "medium",
+  "topic": "midaq-alley"
+ },
+ {
+  "id": "hard-lit-238",
+  "prompt": "Who is the king of Troy in the Iliad?",
+  "choices": [
+   "Agenor",
+   "Priam",
+   "Anchises",
+   "Aeneas"
+  ],
+  "answer": "Priam",
+  "difficulty": "easy",
+  "topic": "priam"
+ },
+ {
+  "id": "hard-lit-239",
+  "prompt": "Who won the Booker Prize for Wolf Hall?",
+  "choices": [
+   "Pat Barker",
+   "Margaret Atwood",
+   "Hilary Mantel",
+   "A. S. Byatt"
+  ],
+  "answer": "Hilary Mantel",
+  "difficulty": "easy",
+  "topic": "wolf-hall"
+ },
+ {
+  "id": "hard-lit-240",
+  "prompt": "Who wrote the Latin novel The Golden Ass?",
+  "choices": [
+   "Petronius",
+   "Suetonius",
+   "Apuleius",
+   "Ovid"
+  ],
+  "answer": "Apuleius",
+  "difficulty": "medium",
+  "topic": "golden-ass"
+ },
+ {
+  "id": "hard-lit-241",
+  "prompt": "Which Russian-born author wrote Pale Fire?",
+  "choices": [
+   "Yevgeny Zamyatin",
+   "Ivan Bunin",
+   "Isaac Babel",
+   "Vladimir Nabokov"
+  ],
+  "answer": "Vladimir Nabokov",
+  "difficulty": "medium",
+  "topic": "pale-fire"
+ },
+ {
+  "id": "hard-lit-242",
+  "prompt": "Who wrote the novel The Golden Notebook?",
+  "choices": [
+   "Iris Murdoch",
+   "Muriel Spark",
+   "Margaret Drabble",
+   "Doris Lessing"
+  ],
+  "answer": "Doris Lessing",
+  "difficulty": "medium",
+  "topic": "golden-notebook"
+ },
+ {
+  "id": "hard-lit-243",
+  "prompt": "In the Mahabharata, who is the archer prince who receives the Gita?",
+  "choices": [
+   "Yudhishthira",
+   "Bhima",
+   "Arjuna",
+   "Karna"
+  ],
+  "answer": "Arjuna",
+  "difficulty": "easy",
+  "topic": "arjuna"
+ },
+ {
+  "id": "hard-lit-244",
+  "prompt": "Who wrote the novel Native Son?",
+  "choices": [
+   "Langston Hughes",
+   "Ralph Ellison",
+   "Richard Wright",
+   "James Baldwin"
+  ],
+  "answer": "Richard Wright",
+  "difficulty": "medium",
+  "topic": "native-son"
+ },
+ {
+  "id": "hard-lit-245",
+  "prompt": "Which 17th-century fabulist wrote \"The Crow and the Fox\"?",
+  "choices": [
+   "Jean Racine",
+   "Nicolas Boileau",
+   "Jean de La Fontaine",
+   "Charles Perrault"
+  ],
+  "answer": "Jean de La Fontaine",
+  "difficulty": "medium",
+  "topic": "la-fontaine"
+ },
+ {
+  "id": "hard-lit-246",
+  "prompt": "Who wrote the trilogy Kristin Lavransdatter?",
+  "choices": [
+   "Tove Jansson",
+   "Sigrid Undset",
+   "Karen Blixen",
+   "Selma Lagerlöf"
+  ],
+  "answer": "Sigrid Undset",
+  "difficulty": "medium",
+  "topic": "kristin-lavransdatter"
+ },
+ {
+  "id": "hard-lit-247",
+  "prompt": "Who is Odysseus's son in the Odyssey?",
+  "choices": [
+   "Orestes",
+   "Neoptolemus",
+   "Pylades",
+   "Telemachus"
+  ],
+  "answer": "Telemachus",
+  "difficulty": "easy",
+  "topic": "telemachus"
+ },
+ {
+  "id": "hard-lit-248",
+  "prompt": "Who wrote the play Mother Courage and Her Children?",
+  "choices": [
+   "Bertolt Brecht",
+   "Friedrich Dürrenmatt",
+   "Max Frisch",
+   "Carl Zuckmayer"
+  ],
+  "answer": "Bertolt Brecht",
+  "difficulty": "easy",
+  "topic": "mother-courage"
+ },
+ {
+  "id": "hard-lit-249",
+  "prompt": "Who wrote Oku no Hosomichi, The Narrow Road to the Deep North?",
+  "choices": [
+   "Yosa Buson",
+   "Kobayashi Issa",
+   "Masaoka Shiki",
+   "Matsuo Bashō"
+  ],
+  "answer": "Matsuo Bashō",
+  "difficulty": "medium",
+  "topic": "narrow-road"
+ },
+ {
+  "id": "hard-lit-250",
+  "prompt": "Who wrote the Tamil text Tirukkural?",
+  "choices": [
+   "Kamban",
+   "Avvaiyar",
+   "Thiruvalluvar",
+   "Ilango Adigal"
+  ],
+  "answer": "Thiruvalluvar",
+  "difficulty": "hard",
+  "topic": "tirukkural"
+ },
+ {
+  "id": "hard-lit-251",
+  "prompt": "Who wrote the novel A Confederacy of Dunces?",
+  "choices": [
+   "Walker Percy",
+   "Eudora Welty",
+   "John Kennedy Toole",
+   "Flannery O'Connor"
+  ],
+  "answer": "John Kennedy Toole",
+  "difficulty": "medium",
+  "topic": "confederacy-dunces"
+ },
+ {
+  "id": "hard-lit-252",
+  "prompt": "Who wrote the tragicomedy Le Cid?",
+  "choices": [
+   "Molière",
+   "Pierre Corneille",
+   "Voltaire",
+   "Jean Racine"
+  ],
+  "answer": "Pierre Corneille",
+  "difficulty": "medium",
+  "topic": "le-cid"
+ },
+ {
+  "id": "hard-lit-253",
+  "prompt": "Who wrote the novel The Remains of the Day?",
+  "choices": [
+   "Julian Barnes",
+   "Salman Rushdie",
+   "Kazuo Ishiguro",
+   "Ian McEwan"
+  ],
+  "answer": "Kazuo Ishiguro",
+  "difficulty": "easy",
+  "topic": "remains-of-day"
+ },
+ {
+  "id": "hard-lit-254",
+  "prompt": "Who wrote the epistolary novel So Long a Letter?",
+  "choices": [
+   "Mariama Bâ",
+   "Buchi Emecheta",
+   "Ama Ata Aidoo",
+   "Flora Nwapa"
+  ],
+  "answer": "Mariama Bâ",
+  "difficulty": "hard",
+  "topic": "so-long-a-letter"
+ },
+ {
+  "id": "hard-lit-255",
+  "prompt": "Who wrote the WWI poem \"In Flanders Fields\"?",
+  "choices": [
+   "John McCrae",
+   "Edward Thomas",
+   "Wilfred Owen",
+   "Rupert Brooke"
+  ],
+  "answer": "John McCrae",
+  "difficulty": "hard",
+  "topic": "flanders-fields"
+ },
+ {
+  "id": "hard-lit-256",
+  "prompt": "Who wrote the novel Cranford?",
+  "choices": [
+   "George Eliot",
+   "Charlotte Brontë",
+   "Margaret Oliphant",
+   "Elizabeth Gaskell"
+  ],
+  "answer": "Elizabeth Gaskell",
+  "difficulty": "medium",
+  "topic": "cranford"
+ },
+ {
+  "id": "hard-lit-257",
+  "prompt": "Who wrote the Parallel Lives of Greeks and Romans?",
+  "choices": [
+   "Plutarch",
+   "Suetonius",
+   "Livy",
+   "Herodotus"
+  ],
+  "answer": "Plutarch",
+  "difficulty": "medium",
+  "topic": "plutarch"
+ },
+ {
+  "id": "hard-lit-258",
+  "prompt": "Who wrote the play The Playboy of the Western World?",
+  "choices": [
+   "W. B. Yeats",
+   "Brendan Behan",
+   "Sean O'Casey",
+   "J. M. Synge"
+  ],
+  "answer": "J. M. Synge",
+  "difficulty": "hard",
+  "topic": "playboy"
+ },
+ {
+  "id": "hard-lit-259",
+  "prompt": "Who wrote the novel My Ántonia?",
+  "choices": [
+   "Edith Wharton",
+   "Willa Cather",
+   "Ellen Glasgow",
+   "Pearl Buck"
+  ],
+  "answer": "Willa Cather",
+  "difficulty": "medium",
+  "topic": "my-antonia"
+ },
+ {
+  "id": "hard-lit-260",
+  "prompt": "Who wrote the play William Tell?",
+  "choices": [
+   "Johann Goethe",
+   "Georg Büchner",
+   "Gotthold Lessing",
+   "Friedrich Schiller"
+  ],
+  "answer": "Friedrich Schiller",
+  "difficulty": "medium",
+  "topic": "william-tell"
+ },
+ {
+  "id": "hard-lit-261",
+  "prompt": "In the Mahabharata, which two families fight at Kurukshetra?",
+  "choices": [
+   "Pandavas and Kauravas",
+   "Yadavas and Cholas",
+   "Sutas and Pallavas",
+   "Rakshasas and Vanaras"
+  ],
+  "answer": "Pandavas and Kauravas",
+  "difficulty": "easy",
+  "topic": "kurukshetra"
+ },
+ {
+  "id": "hard-lit-262",
+  "prompt": "Who wrote the poetry collection Spoon River Anthology?",
+  "choices": [
+   "Edgar Lee Masters",
+   "Robert Frost",
+   "Carl Sandburg",
+   "Vachel Lindsay"
+  ],
+  "answer": "Edgar Lee Masters",
+  "difficulty": "hard",
+  "topic": "spoon-river"
+ },
+ {
+  "id": "hard-lit-263",
+  "prompt": "Who wrote the novel Midnight's Children?",
+  "choices": [
+   "Vikram Seth",
+   "V. S. Naipaul",
+   "Salman Rushdie",
+   "Amitav Ghosh"
+  ],
+  "answer": "Salman Rushdie",
+  "difficulty": "easy",
+  "topic": "midnights-children"
+ },
+ {
+  "id": "hard-lit-264",
+  "prompt": "Who wrote the novel The Palm-Wine Drinkard?",
+  "choices": [
+   "Amos Tutuola",
+   "Ben Okri",
+   "Chinua Achebe",
+   "Cyprian Ekwensi"
+  ],
+  "answer": "Amos Tutuola",
+  "difficulty": "hard",
+  "topic": "palm-wine"
+ },
+ {
+  "id": "hard-lit-265",
+  "prompt": "Who wrote the romance Lancelot, the Knight of the Cart?",
+  "choices": [
+   "Marie de France",
+   "Thomas Malory",
+   "Wolfram von Eschenbach",
+   "Chrétien de Troyes"
+  ],
+  "answer": "Chrétien de Troyes",
+  "difficulty": "hard",
+  "topic": "chretien-lancelot"
+ },
+ {
+  "id": "hard-lit-266",
+  "prompt": "Who wrote the novel The Woman in White?",
+  "choices": [
+   "Wilkie Collins",
+   "Charles Dickens",
+   "Sheridan Le Fanu",
+   "Mary Braddon"
+  ],
+  "answer": "Wilkie Collins",
+  "difficulty": "medium",
+  "topic": "woman-in-white"
+ },
+ {
+  "id": "hard-lit-267",
+  "prompt": "Which Dickens novel was left unfinished at his death?",
+  "choices": [
+   "Dombey and Son",
+   "Little Dorrit",
+   "The Mystery of Edwin Drood",
+   "Our Mutual Friend"
+  ],
+  "answer": "The Mystery of Edwin Drood",
+  "difficulty": "medium",
+  "topic": "edwin-drood"
+ },
+ {
+  "id": "hard-lit-268",
+  "prompt": "Who wrote the novel The Joys of Motherhood?",
+  "choices": [
+   "Ama Ata Aidoo",
+   "Buchi Emecheta",
+   "Tsitsi Dangarembga",
+   "Flora Nwapa"
+  ],
+  "answer": "Buchi Emecheta",
+  "difficulty": "hard",
+  "topic": "joys-motherhood"
+ },
+ {
+  "id": "hard-lit-269",
+  "prompt": "Who wrote the novel Clarissa?",
+  "choices": [
+   "Daniel Defoe",
+   "Fanny Burney",
+   "Henry Fielding",
+   "Samuel Richardson"
+  ],
+  "answer": "Samuel Richardson",
+  "difficulty": "medium",
+  "topic": "clarissa"
+ },
+ {
+  "id": "hard-lit-270",
+  "prompt": "Who wrote the play Juno and the Paycock?",
+  "choices": [
+   "J. M. Synge",
+   "Brian Friel",
+   "Sean O'Casey",
+   "Oscar Wilde"
+  ],
+  "answer": "Sean O'Casey",
+  "difficulty": "hard",
+  "topic": "juno-paycock"
+ },
+ {
+  "id": "hard-lit-271",
+  "prompt": "Who wrote the novel The Woman in the Dunes?",
+  "choices": [
+   "Kenzaburō Ōe",
+   "Yasushi Inoue",
+   "Haruki Murakami",
+   "Kōbō Abe"
+  ],
+  "answer": "Kōbō Abe",
+  "difficulty": "hard",
+  "topic": "woman-dunes"
+ },
+ {
+  "id": "hard-lit-272",
+  "prompt": "Who wrote the elegy In Memoriam A.H.H.?",
+  "choices": [
+   "Matthew Arnold",
+   "Robert Browning",
+   "Alfred Tennyson",
+   "Gerard Manley Hopkins"
+  ],
+  "answer": "Alfred Tennyson",
+  "difficulty": "easy",
+  "topic": "in-memoriam"
+ },
+ {
+  "id": "hard-lit-273",
+  "prompt": "Who wrote Bonjour Tristesse at age eighteen?",
+  "choices": [
+   "Marguerite Duras",
+   "Simone de Beauvoir",
+   "Françoise Sagan",
+   "Colette"
+  ],
+  "answer": "Françoise Sagan",
+  "difficulty": "medium",
+  "topic": "bonjour-tristesse"
+ },
+ {
+  "id": "hard-lit-274",
+  "prompt": "Who wrote the poem cycle Duino Elegies?",
+  "choices": [
+   "Hugo von Hofmannsthal",
+   "Georg Trakl",
+   "Rainer Maria Rilke",
+   "Stefan George"
+  ],
+  "answer": "Rainer Maria Rilke",
+  "difficulty": "hard",
+  "topic": "duino-elegies"
+ },
+ {
+  "id": "hard-lit-275",
+  "prompt": "Which Icelandic saga features the lawyer Njáll and his friend Gunnar?",
+  "choices": [
+   "Laxdæla saga",
+   "Egils saga",
+   "Grettis saga",
+   "Njáls saga"
+  ],
+  "answer": "Njáls saga",
+  "difficulty": "hard",
+  "topic": "njals-saga"
+ },
+ {
+  "id": "hard-lit-276",
+  "prompt": "Who wrote the novel The Joke, set in Czechoslovakia?",
+  "choices": [
+   "Ivan Klíma",
+   "Bohumil Hrabal",
+   "Milan Kundera",
+   "Josef Škvorecký"
+  ],
+  "answer": "Milan Kundera",
+  "difficulty": "medium",
+  "topic": "the-joke"
+ },
+ {
+  "id": "hard-lit-277",
+  "prompt": "Who wrote Confessions of Zeno?",
+  "choices": [
+   "Alberto Moravia",
+   "Cesare Pavese",
+   "Italo Svevo",
+   "Luigi Pirandello"
+  ],
+  "answer": "Italo Svevo",
+  "difficulty": "hard",
+  "topic": "zeno"
+ },
+ {
+  "id": "hard-lit-278",
+  "prompt": "Who wrote the philosophical work Either/Or?",
+  "choices": [
+   "N. F. S. Grundtvig",
+   "Henrik Ibsen",
+   "Søren Kierkegaard",
+   "Georg Brandes"
+  ],
+  "answer": "Søren Kierkegaard",
+  "difficulty": "medium",
+  "topic": "either-or"
+ },
+ {
+  "id": "hard-lit-279",
+  "prompt": "Who wrote the novel Disgrace?",
+  "choices": [
+   "Nadine Gordimer",
+   "Alan Paton",
+   "André Brink",
+   "J. M. Coetzee"
+  ],
+  "answer": "J. M. Coetzee",
+  "difficulty": "medium",
+  "topic": "disgrace"
+ },
+ {
+  "id": "hard-lit-280",
+  "prompt": "In the Divine Comedy, how many circles does Dante's Inferno have?",
+  "choices": [
+   "Nine",
+   "Twelve",
+   "Ten",
+   "Seven"
+  ],
+  "answer": "Nine",
+  "difficulty": "easy",
+  "topic": "inferno-circles"
+ },
+ {
+  "id": "hard-lit-281",
+  "prompt": "Who wrote the poetry collection Harmonium?",
+  "choices": [
+   "Ezra Pound",
+   "Wallace Stevens",
+   "Hart Crane",
+   "William Carlos Williams"
+  ],
+  "answer": "Wallace Stevens",
+  "difficulty": "medium",
+  "topic": "harmonium"
+ },
+ {
+  "id": "hard-lit-282",
+  "prompt": "Who wrote the novel The Feast of the Goat?",
+  "choices": [
+   "Roberto Bolaño",
+   "Carlos Fuentes",
+   "Mario Vargas Llosa",
+   "Gabriel García Márquez"
+  ],
+  "answer": "Mario Vargas Llosa",
+  "difficulty": "hard",
+  "topic": "feast-goat"
+ },
+ {
+  "id": "hard-lit-283",
+  "prompt": "Who won the 2004 Nobel Prize in Literature, author of The Piano Teacher?",
+  "choices": [
+   "Elfriede Jelinek",
+   "Herta Müller",
+   "Alice Munro",
+   "Doris Lessing"
+  ],
+  "answer": "Elfriede Jelinek",
+  "difficulty": "hard",
+  "topic": "jelinek"
+ },
+ {
+  "id": "hard-lit-284",
+  "prompt": "Who wrote the Turkish novel Memed, My Hawk?",
+  "choices": [
+   "Orhan Pamuk",
+   "Ahmet Hamdi Tanpınar",
+   "Aziz Nesin",
+   "Yaşar Kemal"
+  ],
+  "answer": "Yaşar Kemal",
+  "difficulty": "hard",
+  "topic": "memed-hawk"
+ },
+ {
+  "id": "hard-lit-285",
+  "prompt": "Who wrote the essay collection The Labyrinth of Solitude?",
+  "choices": [
+   "José Vasconcelos",
+   "Alfonso Reyes",
+   "Octavio Paz",
+   "Carlos Fuentes"
+  ],
+  "answer": "Octavio Paz",
+  "difficulty": "hard",
+  "topic": "labyrinth-solitude"
+ },
+ {
+  "id": "hard-lit-286",
+  "prompt": "What is Balzac's vast cycle of novels called?",
+  "choices": [
+   "Les Mandarins",
+   "Les Rougon-Macquart",
+   "La Comédie humaine",
+   "Les Thibault"
+  ],
+  "answer": "La Comédie humaine",
+  "difficulty": "medium",
+  "topic": "comedie-humaine"
+ },
+ {
+  "id": "hard-lit-287",
+  "prompt": "Where do the 108 outlaws gather in Water Margin?",
+  "choices": [
+   "Liangshan Marsh",
+   "Shaolin Temple",
+   "Mount Hua",
+   "Wudang Mountain"
+  ],
+  "answer": "Liangshan Marsh",
+  "difficulty": "hard",
+  "topic": "liangshan"
+ },
+ {
+  "id": "hard-lit-288",
+  "prompt": "Who wrote the novel Nana?",
+  "choices": [
+   "Gustave Flaubert",
+   "Émile Zola",
+   "Guy de Maupassant",
+   "J.-K. Huysmans"
+  ],
+  "answer": "Émile Zola",
+  "difficulty": "medium",
+  "topic": "nana"
+ },
+ {
+  "id": "hard-lit-289",
+  "prompt": "Which Shakespeare play features the deputy Angelo and the Duke Vincentio?",
+  "choices": [
+   "Measure for Measure",
+   "Cymbeline",
+   "All's Well That Ends Well",
+   "Timon of Athens"
+  ],
+  "answer": "Measure for Measure",
+  "difficulty": "medium",
+  "topic": "measure"
+ },
+ {
+  "id": "hard-lit-290",
+  "prompt": "Who wrote the novella Gigi?",
+  "choices": [
+   "Colette",
+   "Marguerite Duras",
+   "Françoise Sagan",
+   "Marguerite Yourcenar"
+  ],
+  "answer": "Colette",
+  "difficulty": "medium",
+  "topic": "gigi"
+ },
+ {
+  "id": "hard-lit-291",
+  "prompt": "Which pilgrim in Journey to the West is the gluttonous pig-like disciple?",
+  "choices": [
+   "Tang Sanzang",
+   "Sun Wukong",
+   "Zhu Bajie",
+   "Sha Wujing"
+  ],
+  "answer": "Zhu Bajie",
+  "difficulty": "easy",
+  "topic": "zhu-bajie"
+ },
+ {
+  "id": "hard-lit-292",
+  "prompt": "Who wrote the play Yerma?",
+  "choices": [
+   "Ramón del Valle-Inclán",
+   "Federico García Lorca",
+   "Antonio Buero Vallejo",
+   "Jacinto Benavente"
+  ],
+  "answer": "Federico García Lorca",
+  "difficulty": "medium",
+  "topic": "yerma"
+ },
+ {
+  "id": "hard-lit-293",
+  "prompt": "Who wrote the poem \"Chicago\", calling it the City of the Big Shoulders?",
+  "choices": [
+   "Carl Sandburg",
+   "Vachel Lindsay",
+   "Edgar Lee Masters",
+   "William Carlos Williams"
+  ],
+  "answer": "Carl Sandburg",
+  "difficulty": "hard",
+  "topic": "sandburg-chicago"
+ },
+ {
+  "id": "hard-lit-294",
+  "prompt": "Who wrote the novel Man's Fate (La Condition humaine)?",
+  "choices": [
+   "André Malraux",
+   "Jean-Paul Sartre",
+   "Antoine de Saint-Exupéry",
+   "Albert Camus"
+  ],
+  "answer": "André Malraux",
+  "difficulty": "hard",
+  "topic": "mans-fate"
+ },
+ {
+  "id": "hard-lit-295",
+  "prompt": "Who wrote the novel Tristram Shandy?",
+  "choices": [
+   "Henry Fielding",
+   "Samuel Richardson",
+   "Tobias Smollett",
+   "Laurence Sterne"
+  ],
+  "answer": "Laurence Sterne",
+  "difficulty": "easy",
+  "topic": "tristram-shandy"
+ },
+ {
+  "id": "hard-lit-296",
+  "prompt": "Who wrote the poem \"To His Coy Mistress\"?",
+  "choices": [
+   "Andrew Marvell",
+   "Ben Jonson",
+   "John Donne",
+   "George Herbert"
+  ],
+  "answer": "Andrew Marvell",
+  "difficulty": "medium",
+  "topic": "coy-mistress"
+ },
+ {
+  "id": "hard-lit-297",
+  "prompt": "Who wrote the novel The Glass Bead Game?",
+  "choices": [
+   "Günter Grass",
+   "Heinrich Böll",
+   "Thomas Mann",
+   "Hermann Hesse"
+  ],
+  "answer": "Hermann Hesse",
+  "difficulty": "easy",
+  "topic": "glass-bead-game"
+ },
+ {
+  "id": "hard-lit-298",
+  "prompt": "Who wrote the Ramcharitmanas, a retelling of the Ramayana in Awadhi?",
+  "choices": [
+   "Valmiki",
+   "Surdas",
+   "Kabir",
+   "Tulsidas"
+  ],
+  "answer": "Tulsidas",
+  "difficulty": "hard",
+  "topic": "ramcharitmanas"
+ },
+ {
+  "id": "hard-lit-299",
+  "prompt": "Who wrote the play The Balcony, set in a brothel?",
+  "choices": [
+   "Albert Camus",
+   "Eugène Ionesco",
+   "Jean Anouilh",
+   "Jean Genet"
+  ],
+  "answer": "Jean Genet",
+  "difficulty": "hard",
+  "topic": "genet-balcony"
+ },
+ {
+  "id": "hard-lit-300",
+  "prompt": "Who wrote the comedy The School for Scandal?",
+  "choices": [
+   "William Congreve",
+   "Oliver Goldsmith",
+   "John Gay",
+   "Richard Brinsley Sheridan"
+  ],
+  "answer": "Richard Brinsley Sheridan",
+  "difficulty": "medium",
+  "topic": "school-scandal"
+ },
+ {
+  "id": "hard-lit-301",
+  "prompt": "Who wrote the first Gothic novel, The Castle of Otranto?",
+  "choices": [
+   "William Beckford",
+   "Matthew Lewis",
+   "Horace Walpole",
+   "Ann Radcliffe"
+  ],
+  "answer": "Horace Walpole",
+  "difficulty": "hard",
+  "topic": "otranto"
+ },
+ {
+  "id": "hard-lit-302",
+  "prompt": "Who wrote the novel Buddenbrooks?",
+  "choices": [
+   "Hermann Hesse",
+   "Robert Musil",
+   "Hermann Broch",
+   "Thomas Mann"
+  ],
+  "answer": "Thomas Mann",
+  "difficulty": "easy",
+  "topic": "buddenbrooks"
+ },
+ {
+  "id": "hard-lit-303",
+  "prompt": "Who wrote Gargantua and Pantagruel?",
+  "choices": [
+   "Pierre de Ronsard",
+   "François Rabelais",
+   "Michel de Montaigne",
+   "François Villon"
+  ],
+  "answer": "François Rabelais",
+  "difficulty": "medium",
+  "topic": "rabelais"
+ },
+ {
+  "id": "hard-lit-304",
+  "prompt": "What is the oldest surviving anthology of Japanese poetry?",
+  "choices": [
+   "Shin Kokinshū",
+   "Hyakunin Isshu",
+   "Man'yōshū",
+   "Kokinshū"
+  ],
+  "answer": "Man'yōshū",
+  "difficulty": "hard",
+  "topic": "manyoshu"
+ },
+ {
+  "id": "hard-lit-305",
+  "prompt": "Who wrote the novel The Awakening?",
+  "choices": [
+   "Sarah Orne Jewett",
+   "Edith Wharton",
+   "Kate Chopin",
+   "Willa Cather"
+  ],
+  "answer": "Kate Chopin",
+  "difficulty": "medium",
+  "topic": "awakening"
+ },
+ {
+  "id": "hard-lit-306",
+  "prompt": "Who wrote Journey to the End of the Night?",
+  "choices": [
+   "Jean-Paul Sartre",
+   "Louis-Ferdinand Céline",
+   "André Malraux",
+   "André Gide"
+  ],
+  "answer": "Louis-Ferdinand Céline",
+  "difficulty": "hard",
+  "topic": "celine-journey"
+ },
+ {
+  "id": "hard-lit-307",
+  "prompt": "Who won the 1969 Nobel Prize in Literature?",
+  "choices": [
+   "Samuel Beckett",
+   "Eugene Ionesco",
+   "Saul Bellow",
+   "Harold Pinter"
+  ],
+  "answer": "Samuel Beckett",
+  "difficulty": "medium",
+  "topic": "beckett-nobel"
+ },
+ {
+  "id": "hard-lit-308",
+  "prompt": "Who is the hero of the Irish epic the Táin?",
+  "choices": [
+   "Cú Chulainn",
+   "Conchobar",
+   "Oisín",
+   "Fionn mac Cumhaill"
+  ],
+  "answer": "Cú Chulainn",
+  "difficulty": "medium",
+  "topic": "cu-chulainn"
+ },
+ {
+  "id": "hard-lit-309",
+  "prompt": "Who wrote the novel The Trial, with the clerk Josef K.?",
+  "choices": [
+   "Franz Kafka",
+   "Joseph Roth",
+   "Max Brod",
+   "Robert Musil"
+  ],
+  "answer": "Franz Kafka",
+  "difficulty": "easy",
+  "topic": "kafka-trial"
+ },
+ {
+  "id": "hard-lit-310",
+  "prompt": "Who wrote the play Long Day's Journey into Night?",
+  "choices": [
+   "Tennessee Williams",
+   "Arthur Miller",
+   "Edward Albee",
+   "Eugene O'Neill"
+  ],
+  "answer": "Eugene O'Neill",
+  "difficulty": "easy",
+  "topic": "long-days-journey"
+ },
+ {
+  "id": "hard-lit-311",
+  "prompt": "Who wrote A Season in Hell?",
+  "choices": [
+   "Stéphane Mallarmé",
+   "Paul Verlaine",
+   "Arthur Rimbaud",
+   "Charles Baudelaire"
+  ],
+  "answer": "Arthur Rimbaud",
+  "difficulty": "medium",
+  "topic": "season-in-hell"
+ },
+ {
+  "id": "hard-lit-312",
+  "prompt": "What is Zola's twenty-novel cycle called?",
+  "choices": [
+   "Les Mandarins",
+   "Les Rougon-Macquart",
+   "La Comédie humaine",
+   "Les Thibault"
+  ],
+  "answer": "Les Rougon-Macquart",
+  "difficulty": "medium",
+  "topic": "rougon-macquart"
+ },
+ {
+  "id": "hard-lit-313",
+  "prompt": "Which Shakespeare play features the loyal officer Enobarbus?",
+  "choices": [
+   "Julius Caesar",
+   "Troilus and Cressida",
+   "Antony and Cleopatra",
+   "Coriolanus"
+  ],
+  "answer": "Antony and Cleopatra",
+  "difficulty": "hard",
+  "topic": "enobarbus"
+ },
+ {
+  "id": "hard-lit-314",
+  "prompt": "Who wrote The Posthumous Memoirs of Brás Cubas?",
+  "choices": [
+   "José de Alencar",
+   "Machado de Assis",
+   "Jorge Amado",
+   "Euclides da Cunha"
+  ],
+  "answer": "Machado de Assis",
+  "difficulty": "hard",
+  "topic": "bras-cubas"
+ },
+ {
+  "id": "hard-lit-315",
+  "prompt": "Who wrote the tragedy The Bacchae?",
+  "choices": [
+   "Euripides",
+   "Sophocles",
+   "Aristophanes",
+   "Aeschylus"
+  ],
+  "answer": "Euripides",
+  "difficulty": "easy",
+  "topic": "bacchae"
+ }
+]

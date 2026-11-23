@@ -1,0 +1,4097 @@
+[
+ {
+  "id": "hard-earth-001",
+  "prompt": "Which mineral is 8 on the Mohs scale?",
+  "choices": [
+   "Apatite",
+   "Garnet",
+   "Topaz",
+   "Orthoclase"
+  ],
+  "answer": "Topaz",
+  "difficulty": "easy",
+  "topic": "mohs 8 topaz"
+ },
+ {
+  "id": "hard-earth-002",
+  "prompt": "Which mineral is 5 on the Mohs scale?",
+  "choices": [
+   "Fluorite",
+   "Orthoclase",
+   "Calcite",
+   "Apatite"
+  ],
+  "answer": "Apatite",
+  "difficulty": "medium",
+  "topic": "mohs 5 apatite"
+ },
+ {
+  "id": "hard-earth-003",
+  "prompt": "Which mineral is 4 on the Mohs scale?",
+  "choices": [
+   "Calcite",
+   "Fluorite",
+   "Gypsum",
+   "Apatite"
+  ],
+  "answer": "Fluorite",
+  "difficulty": "easy",
+  "topic": "mohs 4 fluorite"
+ },
+ {
+  "id": "hard-earth-004",
+  "prompt": "Which mineral is 3 on the Mohs scale?",
+  "choices": [
+   "Talc",
+   "Gypsum",
+   "Calcite",
+   "Fluorite"
+  ],
+  "answer": "Calcite",
+  "difficulty": "easy",
+  "topic": "mohs 3 calcite"
+ },
+ {
+  "id": "hard-earth-005",
+  "prompt": "Which mineral is 6 on the Mohs scale?",
+  "choices": [
+   "Apatite",
+   "Orthoclase",
+   "Quartz",
+   "Topaz"
+  ],
+  "answer": "Orthoclase",
+  "difficulty": "easy",
+  "topic": "mohs 6 orthoclase"
+ },
+ {
+  "id": "hard-earth-006",
+  "prompt": "Cinnabar is the chief ore of which metal?",
+  "choices": [
+   "Antimony",
+   "Silver",
+   "Mercury",
+   "Lead"
+  ],
+  "answer": "Mercury",
+  "difficulty": "easy",
+  "topic": "cinnabar mercury"
+ },
+ {
+  "id": "hard-earth-007",
+  "prompt": "Sphalerite is the main ore of which metal?",
+  "choices": [
+   "Nickel",
+   "Tin",
+   "Copper",
+   "Zinc"
+  ],
+  "answer": "Zinc",
+  "difficulty": "easy",
+  "topic": "sphalerite zinc"
+ },
+ {
+  "id": "hard-earth-008",
+  "prompt": "Cassiterite is the principal ore of which metal?",
+  "choices": [
+   "Zinc",
+   "Tin",
+   "Lead",
+   "Tungsten"
+  ],
+  "answer": "Tin",
+  "difficulty": "easy",
+  "topic": "cassiterite tin"
+ },
+ {
+  "id": "hard-earth-009",
+  "prompt": "Chalcopyrite is the most widespread ore mineral of which metal?",
+  "choices": [
+   "Iron",
+   "Zinc",
+   "Copper",
+   "Nickel"
+  ],
+  "answer": "Copper",
+  "difficulty": "medium",
+  "topic": "chalcopyrite copper"
+ },
+ {
+  "id": "hard-earth-010",
+  "prompt": "Which green mineral is a copper carbonate often used as an ornamental stone?",
+  "choices": [
+   "Jadeite",
+   "Epidote",
+   "Serpentine",
+   "Malachite"
+  ],
+  "answer": "Malachite",
+  "difficulty": "easy",
+  "topic": "malachite"
+ },
+ {
+  "id": "hard-earth-011",
+  "prompt": "Which deep blue copper carbonate mineral is often found with malachite?",
+  "choices": [
+   "Kyanite",
+   "Azurite",
+   "Lazurite",
+   "Sodalite"
+  ],
+  "answer": "Azurite",
+  "difficulty": "easy",
+  "topic": "azurite"
+ },
+ {
+  "id": "hard-earth-012",
+  "prompt": "Which pink manganese carbonate mineral is Argentina's national stone?",
+  "choices": [
+   "Kunzite",
+   "Rhodonite",
+   "Rose quartz",
+   "Rhodochrosite"
+  ],
+  "answer": "Rhodochrosite",
+  "difficulty": "hard",
+  "topic": "rhodochrosite"
+ },
+ {
+  "id": "hard-earth-013",
+  "prompt": "Which mineral is calcium magnesium carbonate?",
+  "choices": [
+   "Aragonite",
+   "Siderite",
+   "Dolomite",
+   "Magnesite"
+  ],
+  "answer": "Dolomite",
+  "difficulty": "easy",
+  "topic": "dolomite mineral"
+ },
+ {
+  "id": "hard-earth-014",
+  "prompt": "Peridot is the gem variety of which mineral?",
+  "choices": [
+   "Garnet",
+   "Zircon",
+   "Olivine",
+   "Pyroxene"
+  ],
+  "answer": "Olivine",
+  "difficulty": "easy",
+  "topic": "peridot olivine"
+ },
+ {
+  "id": "hard-earth-015",
+  "prompt": "Amethyst is a purple variety of which mineral?",
+  "choices": [
+   "Fluorite",
+   "Beryl",
+   "Corundum",
+   "Quartz"
+  ],
+  "answer": "Quartz",
+  "difficulty": "easy",
+  "topic": "amethyst quartz"
+ },
+ {
+  "id": "hard-earth-016",
+  "prompt": "Which mineral gives lapis lazuli its deep blue color?",
+  "choices": [
+   "Lazurite",
+   "Azurite",
+   "Sodalite",
+   "Kyanite"
+  ],
+  "answer": "Lazurite",
+  "difficulty": "hard",
+  "topic": "lapis lazurite"
+ },
+ {
+  "id": "hard-earth-017",
+  "prompt": "Turquoise gets its blue-green color from which metal?",
+  "choices": [
+   "Copper",
+   "Nickel",
+   "Chromium",
+   "Cobalt"
+  ],
+  "answer": "Copper",
+  "difficulty": "hard",
+  "topic": "turquoise copper"
+ },
+ {
+  "id": "hard-earth-018",
+  "prompt": "Which clay mineral is the main ingredient of china clay used in porcelain?",
+  "choices": [
+   "Chlorite",
+   "Kaolinite",
+   "Smectite",
+   "Illite"
+  ],
+  "answer": "Kaolinite",
+  "difficulty": "easy",
+  "topic": "kaolinite porcelain"
+ },
+ {
+  "id": "hard-earth-019",
+  "prompt": "Muscovite and biotite are both members of which mineral group?",
+  "choices": [
+   "Pyroxene",
+   "Mica",
+   "Amphibole",
+   "Feldspar"
+  ],
+  "answer": "Mica",
+  "difficulty": "easy",
+  "topic": "muscovite biotite group"
+ },
+ {
+  "id": "hard-earth-020",
+  "prompt": "Chrysotile, the most common form of asbestos, belongs to which mineral group?",
+  "choices": [
+   "Zeolite",
+   "Amphibole",
+   "Mica",
+   "Serpentine"
+  ],
+  "answer": "Serpentine",
+  "difficulty": "hard",
+  "topic": "chrysotile serpentine"
+ },
+ {
+  "id": "hard-earth-021",
+  "prompt": "The two cleavage planes of pyroxene meet at about what angle?",
+  "choices": [
+   "90 degrees",
+   "120 degrees",
+   "60 degrees",
+   "75 degrees"
+  ],
+  "answer": "90 degrees",
+  "difficulty": "hard",
+  "topic": "pyroxene cleavage angle"
+ },
+ {
+  "id": "hard-earth-022",
+  "prompt": "Hornblende is a common mineral of which group?",
+  "choices": [
+   "Pyroxene",
+   "Amphibole",
+   "Feldspar",
+   "Mica"
+  ],
+  "answer": "Amphibole",
+  "difficulty": "medium",
+  "topic": "hornblende group"
+ },
+ {
+  "id": "hard-earth-023",
+  "prompt": "In Bowen's reaction series, which mineral crystallizes first from cooling magma?",
+  "choices": [
+   "Muscovite",
+   "Quartz",
+   "Biotite",
+   "Olivine"
+  ],
+  "answer": "Olivine",
+  "difficulty": "medium",
+  "topic": "bowen first"
+ },
+ {
+  "id": "hard-earth-024",
+  "prompt": "In Bowen's reaction series, which mineral crystallizes last?",
+  "choices": [
+   "Orthoclase",
+   "Quartz",
+   "Hornblende",
+   "Biotite"
+  ],
+  "answer": "Quartz",
+  "difficulty": "medium",
+  "topic": "bowen last"
+ },
+ {
+  "id": "hard-earth-025",
+  "prompt": "Diamond and graphite are what to each other?",
+  "choices": [
+   "Allotropes of different elements",
+   "Polymorphs",
+   "Isotopes",
+   "Pseudomorphs"
+  ],
+  "answer": "Polymorphs",
+  "difficulty": "medium",
+  "topic": "diamond graphite polymorph"
+ },
+ {
+  "id": "hard-earth-026",
+  "prompt": "Kyanite, andalusite and sillimanite share which chemical formula?",
+  "choices": [
+   "Fe3O4",
+   "CaCO3",
+   "Mg2SiO4",
+   "Al2SiO5"
+  ],
+  "answer": "Al2SiO5",
+  "difficulty": "hard",
+  "topic": "aluminosilicate polymorphs"
+ },
+ {
+  "id": "hard-earth-027",
+  "prompt": "What color is the streak of hematite?",
+  "choices": [
+   "Reddish brown",
+   "Black",
+   "Yellow",
+   "Green"
+  ],
+  "answer": "Reddish brown",
+  "difficulty": "easy",
+  "topic": "hematite streak"
+ },
+ {
+  "id": "hard-earth-028",
+  "prompt": "What color is the streak of pyrite?",
+  "choices": [
+   "Greenish black",
+   "Golden yellow",
+   "White",
+   "Red"
+  ],
+  "answer": "Greenish black",
+  "difficulty": "medium",
+  "topic": "pyrite streak"
+ },
+ {
+  "id": "hard-earth-029",
+  "prompt": "Which transparent calcite variety shows strong double refraction?",
+  "choices": [
+   "Dogtooth spar",
+   "Satin spar",
+   "Onyx marble",
+   "Iceland spar"
+  ],
+  "answer": "Iceland spar",
+  "difficulty": "easy",
+  "topic": "iceland spar"
+ },
+ {
+  "id": "hard-earth-030",
+  "prompt": "Which mineral is most used for uranium-lead dating of ancient rocks?",
+  "choices": [
+   "Quartz",
+   "Zircon",
+   "Garnet",
+   "Apatite"
+  ],
+  "answer": "Zircon",
+  "difficulty": "medium",
+  "topic": "zircon dating"
+ },
+ {
+  "id": "hard-earth-031",
+  "prompt": "The oldest dated mineral grains on Earth, zircons about 4.4 billion years old, come from which country?",
+  "choices": [
+   "South Africa",
+   "Canada",
+   "Greenland",
+   "Australia"
+  ],
+  "answer": "Australia",
+  "difficulty": "medium",
+  "topic": "jack hills zircons"
+ },
+ {
+  "id": "hard-earth-032",
+  "prompt": "Barite, heavy and used in drilling mud, contains which element?",
+  "choices": [
+   "Barium",
+   "Beryllium",
+   "Boron",
+   "Bismuth"
+  ],
+  "answer": "Barium",
+  "difficulty": "easy",
+  "topic": "barite barium"
+ },
+ {
+  "id": "hard-earth-033",
+  "prompt": "Borax is the main source of which element?",
+  "choices": [
+   "Beryllium",
+   "Bromine",
+   "Boron",
+   "Barium"
+  ],
+  "answer": "Boron",
+  "difficulty": "easy",
+  "topic": "borax boron"
+ },
+ {
+  "id": "hard-earth-034",
+  "prompt": "Uraninite, also called pitchblende, is an ore of which element?",
+  "choices": [
+   "Thorium",
+   "Plutonium",
+   "Uranium",
+   "Radium"
+  ],
+  "answer": "Uranium",
+  "difficulty": "easy",
+  "topic": "uraninite"
+ },
+ {
+  "id": "hard-earth-035",
+  "prompt": "Chromite is the principal ore of which metal?",
+  "choices": [
+   "Cobalt",
+   "Manganese",
+   "Chromium",
+   "Vanadium"
+  ],
+  "answer": "Chromium",
+  "difficulty": "easy",
+  "topic": "chromite"
+ },
+ {
+  "id": "hard-earth-036",
+  "prompt": "Molybdenite is the chief ore of which metal?",
+  "choices": [
+   "Manganese",
+   "Mercury",
+   "Molybdenum",
+   "Magnesium"
+  ],
+  "answer": "Molybdenum",
+  "difficulty": "medium",
+  "topic": "molybdenite"
+ },
+ {
+  "id": "hard-earth-037",
+  "prompt": "Which mineral has the chemical formula TiO2?",
+  "choices": [
+   "Rutile",
+   "Cassiterite",
+   "Ilmenite",
+   "Zircon"
+  ],
+  "answer": "Rutile",
+  "difficulty": "hard",
+  "topic": "rutile formula"
+ },
+ {
+  "id": "hard-earth-038",
+  "prompt": "Tanzanite is the blue-violet gem variety of which mineral?",
+  "choices": [
+   "Tourmaline",
+   "Beryl",
+   "Spinel",
+   "Zoisite"
+  ],
+  "answer": "Zoisite",
+  "difficulty": "hard",
+  "topic": "tanzanite zoisite"
+ },
+ {
+  "id": "hard-earth-039",
+  "prompt": "Epsomite, known as Epsom salt, is a hydrated sulfate of which metal?",
+  "choices": [
+   "Magnesium",
+   "Calcium",
+   "Sodium",
+   "Potassium"
+  ],
+  "answer": "Magnesium",
+  "difficulty": "hard",
+  "topic": "epsomite"
+ },
+ {
+  "id": "hard-earth-040",
+  "prompt": "Which volcanic pipe rock is the main primary source of diamonds?",
+  "choices": [
+   "Kimberlite",
+   "Andesite",
+   "Carbonatite",
+   "Basalt"
+  ],
+  "answer": "Kimberlite",
+  "difficulty": "easy",
+  "topic": "kimberlite diamonds"
+ },
+ {
+  "id": "hard-earth-041",
+  "prompt": "Which type of very coarse-grained igneous rock often yields large crystals of gems?",
+  "choices": [
+   "Pegmatite",
+   "Rhyolite",
+   "Basalt",
+   "Diabase"
+  ],
+  "answer": "Pegmatite",
+  "difficulty": "medium",
+  "topic": "pegmatite"
+ },
+ {
+  "id": "hard-earth-042",
+  "prompt": "Which mineral is the main component of the rock chert?",
+  "choices": [
+   "Feldspar",
+   "Gypsum",
+   "Microcrystalline quartz",
+   "Calcite"
+  ],
+  "answer": "Microcrystalline quartz",
+  "difficulty": "medium",
+  "topic": "chert quartz"
+ },
+ {
+  "id": "hard-earth-043",
+  "prompt": "Which fine-grained extrusive rock is the volcanic equivalent of granite?",
+  "choices": [
+   "Dacite",
+   "Andesite",
+   "Rhyolite",
+   "Basalt"
+  ],
+  "answer": "Rhyolite",
+  "difficulty": "easy",
+  "topic": "rhyolite granite"
+ },
+ {
+  "id": "hard-earth-044",
+  "prompt": "Which intrusive rock is the coarse-grained equivalent of basalt?",
+  "choices": [
+   "Granite",
+   "Syenite",
+   "Gabbro",
+   "Diorite"
+  ],
+  "answer": "Gabbro",
+  "difficulty": "easy",
+  "topic": "gabbro basalt"
+ },
+ {
+  "id": "hard-earth-045",
+  "prompt": "Diorite is the intrusive equivalent of which volcanic rock?",
+  "choices": [
+   "Andesite",
+   "Rhyolite",
+   "Trachyte",
+   "Basalt"
+  ],
+  "answer": "Andesite",
+  "difficulty": "medium",
+  "topic": "diorite andesite"
+ },
+ {
+  "id": "hard-earth-046",
+  "prompt": "Which rock is thought to make up most of Earth's upper mantle?",
+  "choices": [
+   "Eclogite",
+   "Basalt",
+   "Granite",
+   "Peridotite"
+  ],
+  "answer": "Peridotite",
+  "difficulty": "medium",
+  "topic": "peridotite mantle"
+ },
+ {
+  "id": "hard-earth-047",
+  "prompt": "Which ultramafic rock is composed of more than 90 percent olivine?",
+  "choices": [
+   "Dunite",
+   "Gabbro",
+   "Pyroxenite",
+   "Norite"
+  ],
+  "answer": "Dunite",
+  "difficulty": "hard",
+  "topic": "dunite"
+ },
+ {
+  "id": "hard-earth-048",
+  "prompt": "Komatiite, an unusually hot ultramafic lava, is mostly found in rocks of which eon?",
+  "choices": [
+   "Hadean",
+   "Archean",
+   "Proterozoic",
+   "Phanerozoic"
+  ],
+  "answer": "Archean",
+  "difficulty": "hard",
+  "topic": "komatiite archean"
+ },
+ {
+  "id": "hard-earth-049",
+  "prompt": "Large crystals set in a fine-grained matrix describe which igneous texture?",
+  "choices": [
+   "Porphyritic",
+   "Vesicular",
+   "Aphanitic",
+   "Pegmatitic"
+  ],
+  "answer": "Porphyritic",
+  "difficulty": "medium",
+  "topic": "porphyritic texture"
+ },
+ {
+  "id": "hard-earth-050",
+  "prompt": "Which dark bubbly volcanic rock sinks in water, unlike pumice?",
+  "choices": [
+   "Scoria",
+   "Obsidian",
+   "Tuff",
+   "Diabase"
+  ],
+  "answer": "Scoria",
+  "difficulty": "easy",
+  "topic": "scoria"
+ },
+ {
+  "id": "hard-earth-051",
+  "prompt": "Rock made of consolidated volcanic ash is called what?",
+  "choices": [
+   "Chert",
+   "Schist",
+   "Basalt",
+   "Tuff"
+  ],
+  "answer": "Tuff",
+  "difficulty": "easy",
+  "topic": "tuff"
+ },
+ {
+  "id": "hard-earth-052",
+  "prompt": "A rock formed by the welding of pyroclastic flow deposits is called what?",
+  "choices": [
+   "Tephrite",
+   "Dolerite",
+   "Kimberlite",
+   "Ignimbrite"
+  ],
+  "answer": "Ignimbrite",
+  "difficulty": "hard",
+  "topic": "ignimbrite"
+ },
+ {
+  "id": "hard-earth-053",
+  "prompt": "Which rock makes up most of the Moon's bright highlands?",
+  "choices": [
+   "Granite",
+   "Anorthosite",
+   "Peridotite",
+   "Basalt"
+  ],
+  "answer": "Anorthosite",
+  "difficulty": "medium",
+  "topic": "anorthosite moon"
+ },
+ {
+  "id": "hard-earth-054",
+  "prompt": "A sedimentary rock made of angular fragments cemented together is called what?",
+  "choices": [
+   "Arkose",
+   "Siltstone",
+   "Conglomerate",
+   "Breccia"
+  ],
+  "answer": "Breccia",
+  "difficulty": "easy",
+  "topic": "breccia"
+ },
+ {
+  "id": "hard-earth-055",
+  "prompt": "Which sedimentary rock is made of compacted mud and splits into thin layers?",
+  "choices": [
+   "Sandstone",
+   "Dolostone",
+   "Chert",
+   "Shale"
+  ],
+  "answer": "Shale",
+  "difficulty": "easy",
+  "topic": "shale"
+ },
+ {
+  "id": "hard-earth-056",
+  "prompt": "White Cliffs of Dover chalk is made mostly of shells of which microscopic algae?",
+  "choices": [
+   "Foraminifera",
+   "Radiolarians",
+   "Diatoms",
+   "Coccolithophores"
+  ],
+  "answer": "Coccolithophores",
+  "difficulty": "medium",
+  "topic": "chalk coccolithophores"
+ },
+ {
+  "id": "hard-earth-057",
+  "prompt": "Which limestone is composed mostly of loosely cemented shell fragments?",
+  "choices": [
+   "Travertine",
+   "Oolite",
+   "Tufa",
+   "Coquina"
+  ],
+  "answer": "Coquina",
+  "difficulty": "hard",
+  "topic": "coquina"
+ },
+ {
+  "id": "hard-earth-058",
+  "prompt": "Limestone made of tiny rounded concentric grains is called what?",
+  "choices": [
+   "Oolite",
+   "Travertine",
+   "Chalk",
+   "Coquina"
+  ],
+  "answer": "Oolite",
+  "difficulty": "hard",
+  "topic": "oolite"
+ },
+ {
+  "id": "hard-earth-059",
+  "prompt": "Which dark, poorly sorted sandstone is rich in clay and rock fragments?",
+  "choices": [
+   "Greywacke",
+   "Arkose",
+   "Orthoquartzite",
+   "Quartz arenite"
+  ],
+  "answer": "Greywacke",
+  "difficulty": "hard",
+  "topic": "greywacke"
+ },
+ {
+  "id": "hard-earth-060",
+  "prompt": "Banded iron formations record a rise of what gas in ancient oceans?",
+  "choices": [
+   "Methane",
+   "Carbon dioxide",
+   "Oxygen",
+   "Hydrogen sulfide"
+  ],
+  "answer": "Oxygen",
+  "difficulty": "easy",
+  "topic": "banded iron oxygen"
+ },
+ {
+  "id": "hard-earth-061",
+  "prompt": "Evaporite deposits such as rock salt and gypsum form when what happens?",
+  "choices": [
+   "Water evaporates",
+   "Rock is heated",
+   "Magma cools",
+   "Ice melts"
+  ],
+  "answer": "Water evaporates",
+  "difficulty": "easy",
+  "topic": "evaporites"
+ },
+ {
+  "id": "hard-earth-062",
+  "prompt": "Which banded high-grade metamorphic rock has alternating light and dark layers?",
+  "choices": [
+   "Marble",
+   "Gneiss",
+   "Slate",
+   "Phyllite"
+  ],
+  "answer": "Gneiss",
+  "difficulty": "easy",
+  "topic": "gneiss"
+ },
+ {
+  "id": "hard-earth-063",
+  "prompt": "Which metamorphic rock has visible, shiny mica flakes aligned in layers?",
+  "choices": [
+   "Hornfels",
+   "Quartzite",
+   "Schist",
+   "Slate"
+  ],
+  "answer": "Schist",
+  "difficulty": "medium",
+  "topic": "schist"
+ },
+ {
+  "id": "hard-earth-064",
+  "prompt": "Blueschist forms under which conditions?",
+  "choices": [
+   "Low temperature, low pressure",
+   "Low temperature, high pressure",
+   "High temperature, low pressure",
+   "High temperature, high pressure"
+  ],
+  "answer": "Low temperature, high pressure",
+  "difficulty": "medium",
+  "topic": "blueschist conditions"
+ },
+ {
+  "id": "hard-earth-065",
+  "prompt": "Which dense metamorphic rock of garnet and pyroxene forms at very high pressure?",
+  "choices": [
+   "Amphibolite",
+   "Granulite",
+   "Greenschist",
+   "Eclogite"
+  ],
+  "answer": "Eclogite",
+  "difficulty": "hard",
+  "topic": "eclogite"
+ },
+ {
+  "id": "hard-earth-066",
+  "prompt": "Contact metamorphism next to an intrusion often produces which hard, fine-grained rock?",
+  "choices": [
+   "Phyllite",
+   "Hornfels",
+   "Gneiss",
+   "Schist"
+  ],
+  "answer": "Hornfels",
+  "difficulty": "medium",
+  "topic": "hornfels"
+ },
+ {
+  "id": "hard-earth-067",
+  "prompt": "Which rock has partly melted and shows mixed igneous and metamorphic bands?",
+  "choices": [
+   "Gneiss",
+   "Migmatite",
+   "Mylonite",
+   "Granulite"
+  ],
+  "answer": "Migmatite",
+  "difficulty": "hard",
+  "topic": "migmatite"
+ },
+ {
+  "id": "hard-earth-068",
+  "prompt": "Which rock forms by intense shearing along a fault zone at depth?",
+  "choices": [
+   "Mylonite",
+   "Hornfels",
+   "Skarn",
+   "Migmatite"
+  ],
+  "answer": "Mylonite",
+  "difficulty": "hard",
+  "topic": "mylonite"
+ },
+ {
+  "id": "hard-earth-069",
+  "prompt": "What is the highest rank of coal?",
+  "choices": [
+   "Bituminous coal",
+   "Anthracite",
+   "Peat",
+   "Lignite"
+  ],
+  "answer": "Anthracite",
+  "difficulty": "easy",
+  "topic": "anthracite rank"
+ },
+ {
+  "id": "hard-earth-070",
+  "prompt": "Which material is the first stage in the formation of coal?",
+  "choices": [
+   "Lignite",
+   "Peat",
+   "Kerogen",
+   "Anthracite"
+  ],
+  "answer": "Peat",
+  "difficulty": "easy",
+  "topic": "peat stage"
+ },
+ {
+  "id": "hard-earth-071",
+  "prompt": "A slice of ancient oceanic crust and mantle thrust onto a continent is called what?",
+  "choices": [
+   "Craton",
+   "Greenstone belt",
+   "Ophiolite",
+   "Terrane"
+  ],
+  "answer": "Ophiolite",
+  "difficulty": "medium",
+  "topic": "ophiolite"
+ },
+ {
+  "id": "hard-earth-072",
+  "prompt": "A chunk of foreign rock enclosed within an igneous rock is called what?",
+  "choices": [
+   "Geode",
+   "Concretion",
+   "Xenolith",
+   "Phenocryst"
+  ],
+  "answer": "Xenolith",
+  "difficulty": "medium",
+  "topic": "xenolith"
+ },
+ {
+  "id": "hard-earth-073",
+  "prompt": "A very large mass of intrusive igneous rock exposed over more than 100 square km is a what?",
+  "choices": [
+   "Laccolith",
+   "Batholith",
+   "Dike",
+   "Sill"
+  ],
+  "answer": "Batholith",
+  "difficulty": "easy",
+  "topic": "batholith"
+ },
+ {
+  "id": "hard-earth-074",
+  "prompt": "Which dome-shaped intrusion pushes overlying strata upward, as in Utah's Henry Mountains?",
+  "choices": [
+   "Sill",
+   "Lopolith",
+   "Batholith",
+   "Laccolith"
+  ],
+  "answer": "Laccolith",
+  "difficulty": "medium",
+  "topic": "laccolith"
+ },
+ {
+  "id": "hard-earth-075",
+  "prompt": "Which American geologist proposed seafloor spreading in the early 1960s?",
+  "choices": [
+   "Bruce Heezen",
+   "Maurice Ewing",
+   "Harry Hess",
+   "Tuzo Wilson"
+  ],
+  "answer": "Harry Hess",
+  "difficulty": "easy",
+  "topic": "harry hess"
+ },
+ {
+  "id": "hard-earth-076",
+  "prompt": "Symmetrical magnetic stripes on the seafloor record repeated what?",
+  "choices": [
+   "Reversals of the magnetic field",
+   "Changes in sea level",
+   "Volcanic eruptions",
+   "Wandering of the rotation axis"
+  ],
+  "answer": "Reversals of the magnetic field",
+  "difficulty": "medium",
+  "topic": "magnetic stripes"
+ },
+ {
+  "id": "hard-earth-077",
+  "prompt": "Which southern supercontinent included South America, Africa, India, Antarctica and Australia?",
+  "choices": [
+   "Laurasia",
+   "Pannotia",
+   "Gondwana",
+   "Rodinia"
+  ],
+  "answer": "Gondwana",
+  "difficulty": "easy",
+  "topic": "gondwana"
+ },
+ {
+  "id": "hard-earth-078",
+  "prompt": "Which supercontinent assembled about one billion years ago?",
+  "choices": [
+   "Columbia",
+   "Pangaea",
+   "Pannotia",
+   "Rodinia"
+  ],
+  "answer": "Rodinia",
+  "difficulty": "hard",
+  "topic": "rodinia"
+ },
+ {
+  "id": "hard-earth-079",
+  "prompt": "What was the vast ocean surrounding Pangaea called?",
+  "choices": [
+   "Iapetus",
+   "Panthalassa",
+   "Rheic",
+   "Tethys"
+  ],
+  "answer": "Panthalassa",
+  "difficulty": "easy",
+  "topic": "panthalassa"
+ },
+ {
+  "id": "hard-earth-080",
+  "prompt": "The Tethys Ocean once lay between which two landmasses?",
+  "choices": [
+   "Laurentia and Baltica",
+   "Laurasia and Gondwana",
+   "Africa and South America",
+   "Asia and Australia"
+  ],
+  "answer": "Laurasia and Gondwana",
+  "difficulty": "medium",
+  "topic": "tethys location"
+ },
+ {
+  "id": "hard-earth-081",
+  "prompt": "The cycle of opening and closing of ocean basins is named after which geophysicist?",
+  "choices": [
+   "Tuzo Wilson",
+   "Harry Hess",
+   "Alfred Wegener",
+   "Arthur Holmes"
+  ],
+  "answer": "Tuzo Wilson",
+  "difficulty": "hard",
+  "topic": "wilson cycle"
+ },
+ {
+  "id": "hard-earth-082",
+  "prompt": "Fracture zones that offset mid-ocean ridges are linked to which fault type?",
+  "choices": [
+   "Thrust faults",
+   "Reverse faults",
+   "Normal faults",
+   "Transform faults"
+  ],
+  "answer": "Transform faults",
+  "difficulty": "medium",
+  "topic": "ridge transforms"
+ },
+ {
+  "id": "hard-earth-083",
+  "prompt": "Which mid-ocean ridge has the fastest spreading rate?",
+  "choices": [
+   "Mid-Atlantic Ridge",
+   "East Pacific Rise",
+   "Gakkel Ridge",
+   "Southwest Indian Ridge"
+  ],
+  "answer": "East Pacific Rise",
+  "difficulty": "medium",
+  "topic": "east pacific rise"
+ },
+ {
+  "id": "hard-earth-084",
+  "prompt": "Which Arctic Ocean ridge is among the slowest spreading on Earth?",
+  "choices": [
+   "Juan de Fuca Ridge",
+   "Reykjanes Ridge",
+   "Gakkel Ridge",
+   "Carlsberg Ridge"
+  ],
+  "answer": "Gakkel Ridge",
+  "difficulty": "hard",
+  "topic": "gakkel ridge"
+ },
+ {
+  "id": "hard-earth-085",
+  "prompt": "The Cascadia Subduction Zone is formed by which plate sliding under North America?",
+  "choices": [
+   "Farallon",
+   "Pacific",
+   "Juan de Fuca",
+   "Cocos"
+  ],
+  "answer": "Juan de Fuca",
+  "difficulty": "medium",
+  "topic": "cascadia subduction"
+ },
+ {
+  "id": "hard-earth-086",
+  "prompt": "Which plate is subducting beneath western South America?",
+  "choices": [
+   "Scotia",
+   "Nazca",
+   "Cocos",
+   "Caribbean"
+  ],
+  "answer": "Nazca",
+  "difficulty": "easy",
+  "topic": "nazca plate"
+ },
+ {
+  "id": "hard-earth-087",
+  "prompt": "Which major strike-slip fault runs across northern Turkey?",
+  "choices": [
+   "Zagros Fault",
+   "Dead Sea Transform",
+   "North Anatolian Fault",
+   "East Anatolian Fault"
+  ],
+  "answer": "North Anatolian Fault",
+  "difficulty": "medium",
+  "topic": "north anatolian"
+ },
+ {
+  "id": "hard-earth-088",
+  "prompt": "Which major fault runs along the western edge of New Zealand's Southern Alps?",
+  "choices": [
+   "Hope Fault",
+   "Wairarapa Fault",
+   "Awatere Fault",
+   "Alpine Fault"
+  ],
+  "answer": "Alpine Fault",
+  "difficulty": "medium",
+  "topic": "alpine fault"
+ },
+ {
+  "id": "hard-earth-089",
+  "prompt": "The Red Sea is widening as the Arabian plate pulls away from which plate?",
+  "choices": [
+   "African",
+   "Anatolian",
+   "Indian",
+   "Eurasian"
+  ],
+  "answer": "African",
+  "difficulty": "medium",
+  "topic": "red sea rifting"
+ },
+ {
+  "id": "hard-earth-090",
+  "prompt": "Which fault zone cuts across the Scottish Highlands from Inverness to Fort William?",
+  "choices": [
+   "Highland Boundary Fault",
+   "Moine Thrust",
+   "Great Glen Fault",
+   "Southern Upland Fault"
+  ],
+  "answer": "Great Glen Fault",
+  "difficulty": "hard",
+  "topic": "great glen fault"
+ },
+ {
+  "id": "hard-earth-091",
+  "prompt": "Which fault runs along the east side of San Francisco Bay through Oakland?",
+  "choices": [
+   "Calaveras Fault",
+   "San Jacinto Fault",
+   "Garlock Fault",
+   "Hayward Fault"
+  ],
+  "answer": "Hayward Fault",
+  "difficulty": "medium",
+  "topic": "hayward fault"
+ },
+ {
+  "id": "hard-earth-092",
+  "prompt": "The New Madrid seismic zone, site of great 1811-1812 quakes, is centered in which US state?",
+  "choices": [
+   "Illinois",
+   "Missouri",
+   "Arkansas",
+   "Tennessee"
+  ],
+  "answer": "Missouri",
+  "difficulty": "medium",
+  "topic": "new madrid"
+ },
+ {
+  "id": "hard-earth-093",
+  "prompt": "Which large strike-slip fault curves through the Alaska Range?",
+  "choices": [
+   "Queen Charlotte Fault",
+   "Border Ranges Fault",
+   "Denali Fault",
+   "Fairweather Fault"
+  ],
+  "answer": "Denali Fault",
+  "difficulty": "medium",
+  "topic": "denali fault"
+ },
+ {
+  "id": "hard-earth-094",
+  "prompt": "The dipping zone of earthquakes marking a subducting slab is named after which two scientists?",
+  "choices": [
+   "Mohorovicic and Lehmann",
+   "Wadati and Benioff",
+   "Love and Rayleigh",
+   "Richter and Gutenberg"
+  ],
+  "answer": "Wadati and Benioff",
+  "difficulty": "hard",
+  "topic": "wadati-benioff"
+ },
+ {
+  "id": "hard-earth-095",
+  "prompt": "A curved chain of volcanic islands above a subduction zone is called what?",
+  "choices": [
+   "Island arc",
+   "Atoll ring",
+   "Hotspot track",
+   "Seamount chain"
+  ],
+  "answer": "Island arc",
+  "difficulty": "easy",
+  "topic": "island arc"
+ },
+ {
+  "id": "hard-earth-096",
+  "prompt": "The scraped-off sediments piled up at a subduction zone form what?",
+  "choices": [
+   "Forearc ridge",
+   "Mid-ocean ridge",
+   "Accretionary wedge",
+   "Back-arc basin"
+  ],
+  "answer": "Accretionary wedge",
+  "difficulty": "hard",
+  "topic": "accretionary wedge"
+ },
+ {
+  "id": "hard-earth-097",
+  "prompt": "A fault-bounded block of crust with a distinct geologic history is called what?",
+  "choices": [
+   "Terrane",
+   "Craton",
+   "Horst",
+   "Pluton"
+  ],
+  "answer": "Terrane",
+  "difficulty": "hard",
+  "topic": "terrane"
+ },
+ {
+  "id": "hard-earth-098",
+  "prompt": "An ancient, stable core of a continent is called what?",
+  "choices": [
+   "Rift",
+   "Craton",
+   "Orogen",
+   "Terrane"
+  ],
+  "answer": "Craton",
+  "difficulty": "easy",
+  "topic": "craton"
+ },
+ {
+  "id": "hard-earth-099",
+  "prompt": "The Canadian Shield is an exposed portion of a Precambrian what?",
+  "choices": [
+   "Foreland basin",
+   "Ophiolite",
+   "Island arc",
+   "Craton"
+  ],
+  "answer": "Craton",
+  "difficulty": "easy",
+  "topic": "canadian shield"
+ },
+ {
+  "id": "hard-earth-100",
+  "prompt": "The process of mountain building is called what?",
+  "choices": [
+   "Epeirogeny",
+   "Diagenesis",
+   "Eustasy",
+   "Orogeny"
+  ],
+  "answer": "Orogeny",
+  "difficulty": "easy",
+  "topic": "orogeny"
+ },
+ {
+  "id": "hard-earth-101",
+  "prompt": "The Appalachians were uplifted partly by a collision during which orogeny?",
+  "choices": [
+   "Sevier",
+   "Alleghanian",
+   "Nevadan",
+   "Laramide"
+  ],
+  "answer": "Alleghanian",
+  "difficulty": "hard",
+  "topic": "alleghanian orogeny"
+ },
+ {
+  "id": "hard-earth-102",
+  "prompt": "The floating of Earth's crust on denser mantle is explained by which principle?",
+  "choices": [
+   "Diagenesis",
+   "Superposition",
+   "Eustasy",
+   "Isostasy"
+  ],
+  "answer": "Isostasy",
+  "difficulty": "easy",
+  "topic": "isostasy"
+ },
+ {
+  "id": "hard-earth-103",
+  "prompt": "Scandinavia is still rising after the loss of ice sheets; this is called what?",
+  "choices": [
+   "Eustatic rise",
+   "Orogenic collapse",
+   "Thermal uplift",
+   "Isostatic rebound"
+  ],
+  "answer": "Isostatic rebound",
+  "difficulty": "medium",
+  "topic": "isostatic rebound"
+ },
+ {
+  "id": "hard-earth-104",
+  "prompt": "Which weak, slowly flowing layer of the upper mantle lies below the lithosphere?",
+  "choices": [
+   "Outer core",
+   "Moho",
+   "Asthenosphere",
+   "Mesosphere"
+  ],
+  "answer": "Asthenosphere",
+  "difficulty": "easy",
+  "topic": "asthenosphere"
+ },
+ {
+  "id": "hard-earth-105",
+  "prompt": "A column of hot rock rising from deep in the mantle is called what?",
+  "choices": [
+   "Rift axis",
+   "Subduction slab",
+   "Convection cell",
+   "Mantle plume"
+  ],
+  "answer": "Mantle plume",
+  "difficulty": "medium",
+  "topic": "mantle plume"
+ },
+ {
+  "id": "hard-earth-106",
+  "prompt": "The Deccan Traps are vast flood basalts in which country?",
+  "choices": [
+   "Russia",
+   "Brazil",
+   "Australia",
+   "India"
+  ],
+  "answer": "India",
+  "difficulty": "easy",
+  "topic": "deccan traps"
+ },
+ {
+  "id": "hard-earth-107",
+  "prompt": "The Siberian Traps erupted around the time of which event?",
+  "choices": [
+   "Cretaceous extinction",
+   "Permian mass extinction",
+   "Ordovician glaciation",
+   "Cambrian explosion"
+  ],
+  "answer": "Permian mass extinction",
+  "difficulty": "easy",
+  "topic": "siberian traps"
+ },
+ {
+  "id": "hard-earth-108",
+  "prompt": "The Columbia River Basalts cover parts of Washington, Oregon and which other state?",
+  "choices": [
+   "Idaho",
+   "Wyoming",
+   "Montana",
+   "Nevada"
+  ],
+  "answer": "Idaho",
+  "difficulty": "medium",
+  "topic": "columbia river basalt"
+ },
+ {
+  "id": "hard-earth-109",
+  "prompt": "The core-mantle boundary is also known as which discontinuity?",
+  "choices": [
+   "Gutenberg",
+   "Conrad",
+   "Lehmann",
+   "Moho"
+  ],
+  "answer": "Gutenberg",
+  "difficulty": "hard",
+  "topic": "gutenberg discontinuity"
+ },
+ {
+  "id": "hard-earth-110",
+  "prompt": "Which seismic surface wave moves the ground side to side horizontally?",
+  "choices": [
+   "P wave",
+   "Love wave",
+   "S wave",
+   "Rayleigh wave"
+  ],
+  "answer": "Love wave",
+  "difficulty": "easy",
+  "topic": "love wave"
+ },
+ {
+  "id": "hard-earth-111",
+  "prompt": "Which scale rates earthquake intensity by observed effects?",
+  "choices": [
+   "Beaufort",
+   "Richter",
+   "Modified Mercalli",
+   "Fujita"
+  ],
+  "answer": "Modified Mercalli",
+  "difficulty": "easy",
+  "topic": "mercalli"
+ },
+ {
+  "id": "hard-earth-112",
+  "prompt": "Which magnitude scale replaced Richter's for large earthquakes?",
+  "choices": [
+   "Body-wave magnitude",
+   "Moment magnitude",
+   "Surface-wave magnitude",
+   "Local magnitude"
+  ],
+  "answer": "Moment magnitude",
+  "difficulty": "easy",
+  "topic": "moment magnitude"
+ },
+ {
+  "id": "hard-earth-113",
+  "prompt": "Which type of fault has a hanging wall that moves down relative to the footwall?",
+  "choices": [
+   "Thrust fault",
+   "Normal fault",
+   "Strike-slip fault",
+   "Reverse fault"
+  ],
+  "answer": "Normal fault",
+  "difficulty": "easy",
+  "topic": "normal fault def"
+ },
+ {
+  "id": "hard-earth-114",
+  "prompt": "Which fault type results from compression, with the hanging wall moving up?",
+  "choices": [
+   "Reverse fault",
+   "Strike-slip fault",
+   "Transform fault",
+   "Normal fault"
+  ],
+  "answer": "Reverse fault",
+  "difficulty": "easy",
+  "topic": "reverse fault def"
+ },
+ {
+  "id": "hard-earth-115",
+  "prompt": "A down-dropped block bounded by normal faults is called a what?",
+  "choices": [
+   "Anticline",
+   "Horst",
+   "Klippe",
+   "Graben"
+  ],
+  "answer": "Graben",
+  "difficulty": "easy",
+  "topic": "graben"
+ },
+ {
+  "id": "hard-earth-116",
+  "prompt": "In an eroded anticline, where are the oldest rocks found?",
+  "choices": [
+   "At the hinge's top only",
+   "In the center",
+   "Along the limbs' base",
+   "At the outer edges"
+  ],
+  "answer": "In the center",
+  "difficulty": "medium",
+  "topic": "anticline oldest"
+ },
+ {
+  "id": "hard-earth-117",
+  "prompt": "Geologists call the compass direction of a horizontal line on a tilted bed its what?",
+  "choices": [
+   "Dip",
+   "Plunge",
+   "Strike",
+   "Trend"
+  ],
+  "answer": "Strike",
+  "difficulty": "medium",
+  "topic": "strike"
+ },
+ {
+  "id": "hard-earth-118",
+  "prompt": "At Siccar Point, Scotland, James Hutton saw which feature that showed deep time?",
+  "choices": [
+   "Ripple marks",
+   "Angular unconformity",
+   "Graded bedding",
+   "Fault breccia"
+  ],
+  "answer": "Angular unconformity",
+  "difficulty": "medium",
+  "topic": "siccar point"
+ },
+ {
+  "id": "hard-earth-119",
+  "prompt": "An unconformity with sedimentary rocks lying on eroded igneous or metamorphic rock is a what?",
+  "choices": [
+   "Paraconformity",
+   "Conformity",
+   "Nonconformity",
+   "Disconformity"
+  ],
+  "answer": "Nonconformity",
+  "difficulty": "hard",
+  "topic": "nonconformity"
+ },
+ {
+  "id": "hard-earth-120",
+  "prompt": "The principle that a feature cutting across rocks is younger than those rocks is called what?",
+  "choices": [
+   "Cross-cutting relationships",
+   "Faunal succession",
+   "Original horizontality",
+   "Inclusion"
+  ],
+  "answer": "Cross-cutting relationships",
+  "difficulty": "medium",
+  "topic": "cross-cutting"
+ },
+ {
+  "id": "hard-earth-121",
+  "prompt": "Who wrote \"Principles of Geology\" in 1830?",
+  "choices": [
+   "Charles Lyell",
+   "Louis Agassiz",
+   "Roderick Murchison",
+   "James Hutton"
+  ],
+  "answer": "Charles Lyell",
+  "difficulty": "easy",
+  "topic": "charles lyell"
+ },
+ {
+  "id": "hard-earth-122",
+  "prompt": "Who produced the first geological map of Britain in 1815?",
+  "choices": [
+   "Gideon Mantell",
+   "Adam Sedgwick",
+   "Charles Darwin",
+   "William Smith"
+  ],
+  "answer": "William Smith",
+  "difficulty": "easy",
+  "topic": "william smith"
+ },
+ {
+  "id": "hard-earth-123",
+  "prompt": "Which Danish scientist first stated the principles of superposition in 1669?",
+  "choices": [
+   "Johann Lehmann",
+   "Abraham Werner",
+   "Georges Cuvier",
+   "Nicolas Steno"
+  ],
+  "answer": "Nicolas Steno",
+  "difficulty": "hard",
+  "topic": "nicolas steno"
+ },
+ {
+  "id": "hard-earth-124",
+  "prompt": "Who pioneered the radiometric geologic time scale in the early 1900s?",
+  "choices": [
+   "Clair Patterson",
+   "Arthur Holmes",
+   "Bertram Boltwood",
+   "Ernest Rutherford"
+  ],
+  "answer": "Arthur Holmes",
+  "difficulty": "hard",
+  "topic": "arthur holmes"
+ },
+ {
+  "id": "hard-earth-125",
+  "prompt": "Clair Patterson dated Earth at about 4.55 billion years using lead isotopes from which meteorite?",
+  "choices": [
+   "Canyon Diablo",
+   "Murchison",
+   "Allende",
+   "Hoba"
+  ],
+  "answer": "Canyon Diablo",
+  "difficulty": "hard",
+  "topic": "clair patterson"
+ },
+ {
+  "id": "hard-earth-126",
+  "prompt": "Radiocarbon dating is useful back to roughly how many years?",
+  "choices": [
+   "500,000",
+   "5 million",
+   "500",
+   "50,000"
+  ],
+  "answer": "50,000",
+  "difficulty": "easy",
+  "topic": "carbon-14 range"
+ },
+ {
+  "id": "hard-earth-127",
+  "prompt": "Which isotope pair is widely used to date volcanic rocks millions of years old?",
+  "choices": [
+   "Tritium-helium",
+   "Carbon-14",
+   "Radon-lead",
+   "Potassium-argon"
+  ],
+  "answer": "Potassium-argon",
+  "difficulty": "medium",
+  "topic": "potassium-argon"
+ },
+ {
+  "id": "hard-earth-128",
+  "prompt": "Which period saw the first mass extinction of the Big Five, linked to glaciation?",
+  "choices": [
+   "Cambrian",
+   "Devonian",
+   "Ordovician",
+   "Silurian"
+  ],
+  "answer": "Ordovician",
+  "difficulty": "easy",
+  "topic": "ordovician extinction"
+ },
+ {
+  "id": "hard-earth-129",
+  "prompt": "First vascular land plants appeared in which period?",
+  "choices": [
+   "Carboniferous",
+   "Ordovician",
+   "Silurian",
+   "Devonian"
+  ],
+  "answer": "Silurian",
+  "difficulty": "easy",
+  "topic": "silurian plants"
+ },
+ {
+  "id": "hard-earth-130",
+  "prompt": "Which period saw the first dinosaurs and early mammals appear?",
+  "choices": [
+   "Cretaceous",
+   "Triassic",
+   "Jurassic",
+   "Permian"
+  ],
+  "answer": "Triassic",
+  "difficulty": "easy",
+  "topic": "triassic first dinosaurs"
+ },
+ {
+  "id": "hard-earth-131",
+  "prompt": "The Cretaceous period gets its name from the Latin word for what?",
+  "choices": [
+   "Chalk",
+   "Coal",
+   "Crust",
+   "Cliff"
+  ],
+  "answer": "Chalk",
+  "difficulty": "easy",
+  "topic": "cretaceous name"
+ },
+ {
+  "id": "hard-earth-132",
+  "prompt": "Which period immediately followed the Cretaceous?",
+  "choices": [
+   "Jurassic",
+   "Quaternary",
+   "Neogene",
+   "Paleogene"
+  ],
+  "answer": "Paleogene",
+  "difficulty": "easy",
+  "topic": "paleogene"
+ },
+ {
+  "id": "hard-earth-133",
+  "prompt": "The Holocene epoch began after the end of which interval?",
+  "choices": [
+   "Eocene",
+   "Last glacial period",
+   "Medieval warm period",
+   "Pliocene"
+  ],
+  "answer": "Last glacial period",
+  "difficulty": "easy",
+  "topic": "holocene start"
+ },
+ {
+  "id": "hard-earth-134",
+  "prompt": "Which Precambrian period precedes the Cambrian and holds early complex animals?",
+  "choices": [
+   "Cryogenian",
+   "Orosirian",
+   "Ediacaran",
+   "Tonian"
+  ],
+  "answer": "Ediacaran",
+  "difficulty": "medium",
+  "topic": "ediacaran"
+ },
+ {
+  "id": "hard-earth-135",
+  "prompt": "Which Precambrian period is associated with \"Snowball Earth\" glaciations?",
+  "choices": [
+   "Ediacaran",
+   "Stenian",
+   "Cryogenian",
+   "Siderian"
+  ],
+  "answer": "Cryogenian",
+  "difficulty": "medium",
+  "topic": "cryogenian"
+ },
+ {
+  "id": "hard-earth-136",
+  "prompt": "The Great Oxidation Event occurred roughly when?",
+  "choices": [
+   "4 billion years ago",
+   "1 billion years ago",
+   "540 million years ago",
+   "2.4 billion years ago"
+  ],
+  "answer": "2.4 billion years ago",
+  "difficulty": "medium",
+  "topic": "great oxidation"
+ },
+ {
+  "id": "hard-earth-137",
+  "prompt": "Which is the earliest eon of Earth's history?",
+  "choices": [
+   "Proterozoic",
+   "Archean",
+   "Hadean",
+   "Phanerozoic"
+  ],
+  "answer": "Hadean",
+  "difficulty": "easy",
+  "topic": "hadean"
+ },
+ {
+  "id": "hard-earth-138",
+  "prompt": "Which eon followed the Hadean?",
+  "choices": [
+   "Phanerozoic",
+   "Archean",
+   "Proterozoic",
+   "Cryptozoic"
+  ],
+  "answer": "Archean",
+  "difficulty": "easy",
+  "topic": "archean"
+ },
+ {
+  "id": "hard-earth-139",
+  "prompt": "The Burgess Shale fossil site is in which Canadian province?",
+  "choices": [
+   "Alberta",
+   "Yukon",
+   "Ontario",
+   "British Columbia"
+  ],
+  "answer": "British Columbia",
+  "difficulty": "easy",
+  "topic": "burgess shale"
+ },
+ {
+  "id": "hard-earth-140",
+  "prompt": "The Chengjiang biota, a famous early Cambrian fossil site, is in which country?",
+  "choices": [
+   "Australia",
+   "India",
+   "Namibia",
+   "China"
+  ],
+  "answer": "China",
+  "difficulty": "hard",
+  "topic": "chengjiang"
+ },
+ {
+  "id": "hard-earth-141",
+  "prompt": "The Solnhofen limestone of Germany is famous for which fossil?",
+  "choices": [
+   "Tyrannosaurus",
+   "Dunkleosteus",
+   "Ichthyostega",
+   "Archaeopteryx"
+  ],
+  "answer": "Archaeopteryx",
+  "difficulty": "easy",
+  "topic": "solnhofen"
+ },
+ {
+  "id": "hard-earth-142",
+  "prompt": "Tiktaalik, a transitional fish-tetrapod, lived in which period?",
+  "choices": [
+   "Devonian",
+   "Triassic",
+   "Permian",
+   "Silurian"
+  ],
+  "answer": "Devonian",
+  "difficulty": "easy",
+  "topic": "tiktaalik"
+ },
+ {
+  "id": "hard-earth-143",
+  "prompt": "Which extinction about 201 million years ago cleared the way for dinosaur dominance?",
+  "choices": [
+   "End-Triassic",
+   "End-Permian",
+   "End-Ordovician",
+   "End-Devonian"
+  ],
+  "answer": "End-Triassic",
+  "difficulty": "medium",
+  "topic": "end-triassic"
+ },
+ {
+  "id": "hard-earth-144",
+  "prompt": "Layered mounds built by cyanobacteria are called what?",
+  "choices": [
+   "Stromatolites",
+   "Thrombolites",
+   "Archaeocyaths",
+   "Oncolites"
+  ],
+  "answer": "Stromatolites",
+  "difficulty": "easy",
+  "topic": "stromatolites"
+ },
+ {
+  "id": "hard-earth-145",
+  "prompt": "Living stromatolites are famous at Shark Bay in which Australian state?",
+  "choices": [
+   "Tasmania",
+   "South Australia",
+   "Queensland",
+   "Western Australia"
+  ],
+  "answer": "Western Australia",
+  "difficulty": "medium",
+  "topic": "shark bay"
+ },
+ {
+  "id": "hard-earth-146",
+  "prompt": "Eurypterids, giant Paleozoic predators, are commonly called what?",
+  "choices": [
+   "Sea spiders",
+   "Trilobite crabs",
+   "Armored squid",
+   "Sea scorpions"
+  ],
+  "answer": "Sea scorpions",
+  "difficulty": "medium",
+  "topic": "eurypterid"
+ },
+ {
+  "id": "hard-earth-147",
+  "prompt": "Ammonites were extinct relatives of which living animals?",
+  "choices": [
+   "Clams",
+   "Snails",
+   "Squid and octopus",
+   "Sea urchins"
+  ],
+  "answer": "Squid and octopus",
+  "difficulty": "easy",
+  "topic": "ammonites"
+ },
+ {
+  "id": "hard-earth-148",
+  "prompt": "Graptolites are important index fossils mainly in which two periods?",
+  "choices": [
+   "Devonian and Carboniferous",
+   "Permian and Triassic",
+   "Jurassic and Cretaceous",
+   "Ordovician and Silurian"
+  ],
+  "answer": "Ordovician and Silurian",
+  "difficulty": "hard",
+  "topic": "graptolites"
+ },
+ {
+  "id": "hard-earth-149",
+  "prompt": "Dimetrodon belonged to which group of animals?",
+  "choices": [
+   "Synapsids",
+   "Dinosaurs",
+   "Pterosaurs",
+   "Archosaurs"
+  ],
+  "answer": "Synapsids",
+  "difficulty": "hard",
+  "topic": "dimetrodon"
+ },
+ {
+  "id": "hard-earth-150",
+  "prompt": "Which tusked reptile relative was a major survivor and spreader after the Permian extinction?",
+  "choices": [
+   "Cynognathus",
+   "Lystrosaurus",
+   "Moschops",
+   "Dicynodon"
+  ],
+  "answer": "Lystrosaurus",
+  "difficulty": "hard",
+  "topic": "lystrosaurus"
+ },
+ {
+  "id": "hard-earth-151",
+  "prompt": "The Rhynie chert in Scotland preserves some of the earliest what?",
+  "choices": [
+   "Dinosaurs",
+   "Land plants and animals",
+   "Flowering plants",
+   "Fish"
+  ],
+  "answer": "Land plants and animals",
+  "difficulty": "hard",
+  "topic": "rhynie chert"
+ },
+ {
+  "id": "hard-earth-152",
+  "prompt": "Mesosaurus fossils in both South America and Africa supported which idea?",
+  "choices": [
+   "Continental drift",
+   "Mass extinction",
+   "Punctuated equilibrium",
+   "Sea-level change"
+  ],
+  "answer": "Continental drift",
+  "difficulty": "medium",
+  "topic": "mesosaurus"
+ },
+ {
+  "id": "hard-earth-153",
+  "prompt": "Fossils of the seed fern Glossopteris support the former existence of which landmass?",
+  "choices": [
+   "Laurasia",
+   "Rodinia",
+   "Euramerica",
+   "Gondwana"
+  ],
+  "answer": "Gondwana",
+  "difficulty": "medium",
+  "topic": "glossopteris"
+ },
+ {
+  "id": "hard-earth-154",
+  "prompt": "The Younger Dryas, a cold snap about 12,900 years ago, interrupted warming after which interval?",
+  "choices": [
+   "Pliocene",
+   "Little Ice Age",
+   "Eemian",
+   "Last Glacial Maximum"
+  ],
+  "answer": "Last Glacial Maximum",
+  "difficulty": "hard",
+  "topic": "younger dryas"
+ },
+ {
+  "id": "hard-earth-155",
+  "prompt": "The Laurentide Ice Sheet mostly covered which region?",
+  "choices": [
+   "Scandinavia",
+   "Siberia",
+   "Canada",
+   "Patagonia"
+  ],
+  "answer": "Canada",
+  "difficulty": "easy",
+  "topic": "laurentide"
+ },
+ {
+  "id": "hard-earth-156",
+  "prompt": "Ice-age cycles are linked to variations in Earth's orbit called what?",
+  "choices": [
+   "Saros cycles",
+   "Coriolis cycles",
+   "Chandler cycles",
+   "Milankovitch cycles"
+  ],
+  "answer": "Milankovitch cycles",
+  "difficulty": "easy",
+  "topic": "milankovitch"
+ },
+ {
+  "id": "hard-earth-157",
+  "prompt": "Glacial Lake Agassiz once covered parts of Manitoba and which US state?",
+  "choices": [
+   "Montana",
+   "North Dakota",
+   "Michigan",
+   "Wisconsin"
+  ],
+  "answer": "North Dakota",
+  "difficulty": "medium",
+  "topic": "lake agassiz"
+ },
+ {
+  "id": "hard-earth-158",
+  "prompt": "The Channeled Scablands of Washington were carved by floods from which glacial lake?",
+  "choices": [
+   "Lake Lahontan",
+   "Lake Agassiz",
+   "Lake Missoula",
+   "Lake Bonneville"
+  ],
+  "answer": "Lake Missoula",
+  "difficulty": "hard",
+  "topic": "channeled scablands"
+ },
+ {
+  "id": "hard-earth-159",
+  "prompt": "Ancient Lake Bonneville is the predecessor of which present-day lake?",
+  "choices": [
+   "Mono Lake",
+   "Pyramid Lake",
+   "Great Salt Lake",
+   "Lake Tahoe"
+  ],
+  "answer": "Great Salt Lake",
+  "difficulty": "hard",
+  "topic": "lake bonneville"
+ },
+ {
+  "id": "hard-earth-160",
+  "prompt": "An iridium-rich clay layer at the K-Pg boundary supported which hypothesis?",
+  "choices": [
+   "Ocean anoxia",
+   "Volcanic winter",
+   "Asteroid impact",
+   "Sea-level drop"
+  ],
+  "answer": "Asteroid impact",
+  "difficulty": "easy",
+  "topic": "iridium layer"
+ },
+ {
+  "id": "hard-earth-161",
+  "prompt": "The largest verified impact structure on Earth is in which country?",
+  "choices": [
+   "South Africa",
+   "Russia",
+   "Mexico",
+   "Canada"
+  ],
+  "answer": "South Africa",
+  "difficulty": "easy",
+  "topic": "vredefort"
+ },
+ {
+  "id": "hard-earth-162",
+  "prompt": "The Sudbury Basin, an impact structure rich in nickel, is in which country?",
+  "choices": [
+   "Finland",
+   "Norway",
+   "Canada",
+   "Australia"
+  ],
+  "answer": "Canada",
+  "difficulty": "hard",
+  "topic": "sudbury"
+ },
+ {
+  "id": "hard-earth-163",
+  "prompt": "The Toba supereruption about 74,000 years ago took place on which island?",
+  "choices": [
+   "Luzon",
+   "Sumatra",
+   "Honshu",
+   "Java"
+  ],
+  "answer": "Sumatra",
+  "difficulty": "easy",
+  "topic": "toba"
+ },
+ {
+  "id": "hard-earth-164",
+  "prompt": "The 1815 eruption of Tambora preceded the \"Year Without a Summer\" in which year?",
+  "choices": [
+   "1883",
+   "1820",
+   "1815",
+   "1816"
+  ],
+  "answer": "1816",
+  "difficulty": "easy",
+  "topic": "tambora"
+ },
+ {
+  "id": "hard-earth-165",
+  "prompt": "Mount Pinatubo, which erupted massively in 1991, is in which country?",
+  "choices": [
+   "Papua New Guinea",
+   "Japan",
+   "Indonesia",
+   "Philippines"
+  ],
+  "answer": "Philippines",
+  "difficulty": "easy",
+  "topic": "pinatubo"
+ },
+ {
+  "id": "hard-earth-166",
+  "prompt": "The 1783 Laki fissure eruption occurred in which country?",
+  "choices": [
+   "Chile",
+   "Japan",
+   "Iceland",
+   "Italy"
+  ],
+  "answer": "Iceland",
+  "difficulty": "hard",
+  "topic": "laki"
+ },
+ {
+  "id": "hard-earth-167",
+  "prompt": "The 1902 eruption of Mount Pelee destroyed the city of Saint-Pierre on which island?",
+  "choices": [
+   "Montserrat",
+   "Saint Lucia",
+   "Guadeloupe",
+   "Martinique"
+  ],
+  "answer": "Martinique",
+  "difficulty": "easy",
+  "topic": "mount pelee"
+ },
+ {
+  "id": "hard-earth-168",
+  "prompt": "The Minoan eruption of Santorini is dated to the Bronze Age in which sea?",
+  "choices": [
+   "Tyrrhenian Sea",
+   "Aegean Sea",
+   "Adriatic Sea",
+   "Ionian Sea"
+  ],
+  "answer": "Aegean Sea",
+  "difficulty": "hard",
+  "topic": "santorini"
+ },
+ {
+  "id": "hard-earth-169",
+  "prompt": "The 1912 Alaska eruption, the 20th century's largest, vented at which volcano?",
+  "choices": [
+   "Augustine",
+   "Redoubt",
+   "Novarupta",
+   "Spurr"
+  ],
+  "answer": "Novarupta",
+  "difficulty": "medium",
+  "topic": "novarupta"
+ },
+ {
+  "id": "hard-earth-170",
+  "prompt": "Which Mexican cinder cone began growing in a farmer's cornfield in 1943?",
+  "choices": [
+   "Popocatepetl",
+   "Paricutin",
+   "El Chichon",
+   "Colima"
+  ],
+  "answer": "Paricutin",
+  "difficulty": "easy",
+  "topic": "paricutin"
+ },
+ {
+  "id": "hard-earth-171",
+  "prompt": "Which new island formed off Iceland in the 1960s by a submarine eruption?",
+  "choices": [
+   "Heimaey",
+   "Eldey",
+   "Grimsey",
+   "Surtsey"
+  ],
+  "answer": "Surtsey",
+  "difficulty": "easy",
+  "topic": "surtsey"
+ },
+ {
+  "id": "hard-earth-172",
+  "prompt": "The boundary between the troposphere and the stratosphere is called what?",
+  "choices": [
+   "Tropopause",
+   "Mesopause",
+   "Stratopause",
+   "Ionopause"
+  ],
+  "answer": "Tropopause",
+  "difficulty": "easy",
+  "topic": "tropopause"
+ },
+ {
+  "id": "hard-earth-173",
+  "prompt": "The boundary between the stratosphere and mesosphere is called what?",
+  "choices": [
+   "Mesopause",
+   "Stratopause",
+   "Thermopause",
+   "Tropopause"
+  ],
+  "answer": "Stratopause",
+  "difficulty": "easy",
+  "topic": "stratopause"
+ },
+ {
+  "id": "hard-earth-174",
+  "prompt": "The Karman line, a common edge of space, lies at what altitude?",
+  "choices": [
+   "400 km",
+   "50 km",
+   "200 km",
+   "100 km"
+  ],
+  "answer": "100 km",
+  "difficulty": "easy",
+  "topic": "karman line"
+ },
+ {
+  "id": "hard-earth-175",
+  "prompt": "The International Space Station orbits in which atmospheric layer?",
+  "choices": [
+   "Stratosphere",
+   "Thermosphere",
+   "Exosphere",
+   "Mesosphere"
+  ],
+  "answer": "Thermosphere",
+  "difficulty": "easy",
+  "topic": "iss thermosphere"
+ },
+ {
+  "id": "hard-earth-176",
+  "prompt": "Which is the outermost layer of Earth's atmosphere?",
+  "choices": [
+   "Mesosphere",
+   "Ionosphere",
+   "Exosphere",
+   "Thermosphere"
+  ],
+  "answer": "Exosphere",
+  "difficulty": "easy",
+  "topic": "exosphere"
+ },
+ {
+  "id": "hard-earth-177",
+  "prompt": "Which charged atmospheric region reflects AM radio waves at night?",
+  "choices": [
+   "Tropopause",
+   "Ozonosphere",
+   "Magnetopause",
+   "Ionosphere"
+  ],
+  "answer": "Ionosphere",
+  "difficulty": "easy",
+  "topic": "ionosphere"
+ },
+ {
+  "id": "hard-earth-178",
+  "prompt": "Most meteors burn up in which layer?",
+  "choices": [
+   "Exosphere",
+   "Troposphere",
+   "Stratosphere",
+   "Mesosphere"
+  ],
+  "answer": "Mesosphere",
+  "difficulty": "easy",
+  "topic": "meteors mesosphere"
+ },
+ {
+  "id": "hard-earth-179",
+  "prompt": "Which gas makes up about 78 percent of dry air?",
+  "choices": [
+   "Oxygen",
+   "Carbon dioxide",
+   "Argon",
+   "Nitrogen"
+  ],
+  "answer": "Nitrogen",
+  "difficulty": "easy",
+  "topic": "nitrogen percent"
+ },
+ {
+  "id": "hard-earth-180",
+  "prompt": "Which gas is the third most abundant in dry air?",
+  "choices": [
+   "Argon",
+   "Neon",
+   "Water vapor",
+   "Carbon dioxide"
+  ],
+  "answer": "Argon",
+  "difficulty": "medium",
+  "topic": "argon third"
+ },
+ {
+  "id": "hard-earth-181",
+  "prompt": "Which clouds, the highest on Earth, glow near the mesopause at twilight?",
+  "choices": [
+   "Cirrus",
+   "Lenticulars",
+   "Nacreous clouds",
+   "Noctilucent clouds"
+  ],
+  "answer": "Noctilucent clouds",
+  "difficulty": "hard",
+  "topic": "noctilucent"
+ },
+ {
+  "id": "hard-earth-182",
+  "prompt": "Which stratospheric clouds help drive ozone destruction over Antarctica?",
+  "choices": [
+   "Noctilucent clouds",
+   "Contrails",
+   "Cirrostratus",
+   "Polar stratospheric clouds"
+  ],
+  "answer": "Polar stratospheric clouds",
+  "difficulty": "hard",
+  "topic": "polar stratospheric"
+ },
+ {
+  "id": "hard-earth-183",
+  "prompt": "Ozone thickness is measured in which unit?",
+  "choices": [
+   "Beaufort",
+   "Dobson unit",
+   "Pascal",
+   "Kelvin"
+  ],
+  "answer": "Dobson unit",
+  "difficulty": "hard",
+  "topic": "dobson unit"
+ },
+ {
+  "id": "hard-earth-184",
+  "prompt": "The 1987 treaty that phased out ozone-depleting chemicals is called what?",
+  "choices": [
+   "Kyoto Protocol",
+   "Vienna Convention",
+   "Montreal Protocol",
+   "Paris Agreement"
+  ],
+  "answer": "Montreal Protocol",
+  "difficulty": "easy",
+  "topic": "montreal protocol"
+ },
+ {
+  "id": "hard-earth-185",
+  "prompt": "Which high-level cloud genus forms a patchy \"mackerel sky\"?",
+  "choices": [
+   "Cirrocumulus",
+   "Cirrostratus",
+   "Stratocumulus",
+   "Altocumulus"
+  ],
+  "answer": "Cirrocumulus",
+  "difficulty": "medium",
+  "topic": "mackerel sky"
+ },
+ {
+  "id": "hard-earth-186",
+  "prompt": "Which thin, milky high cloud often produces halos around the Sun?",
+  "choices": [
+   "Cirrocumulus",
+   "Cirrostratus",
+   "Altostratus",
+   "Nimbostratus"
+  ],
+  "answer": "Cirrostratus",
+  "difficulty": "medium",
+  "topic": "halo cirrostratus"
+ },
+ {
+  "id": "hard-earth-187",
+  "prompt": "Which lens-shaped clouds often form over mountains?",
+  "choices": [
+   "Lenticular clouds",
+   "Mammatus clouds",
+   "Arcus clouds",
+   "Pileus clouds"
+  ],
+  "answer": "Lenticular clouds",
+  "difficulty": "easy",
+  "topic": "lenticular"
+ },
+ {
+  "id": "hard-earth-188",
+  "prompt": "Which pouch-like clouds hang beneath a thunderstorm anvil?",
+  "choices": [
+   "Lenticular",
+   "Fractus",
+   "Arcus",
+   "Mammatus"
+  ],
+  "answer": "Mammatus",
+  "difficulty": "easy",
+  "topic": "mammatus"
+ },
+ {
+  "id": "hard-earth-189",
+  "prompt": "Rain streaks that evaporate before reaching the ground are called what?",
+  "choices": [
+   "Fallstreak holes",
+   "Graupel",
+   "Haze",
+   "Virga"
+  ],
+  "answer": "Virga",
+  "difficulty": "hard",
+  "topic": "virga"
+ },
+ {
+  "id": "hard-earth-190",
+  "prompt": "Which cloud genus is a low, gray, uniform layer that produces steady rain?",
+  "choices": [
+   "Nimbostratus",
+   "Cumulonimbus",
+   "Altostratus",
+   "Stratus"
+  ],
+  "answer": "Nimbostratus",
+  "difficulty": "easy",
+  "topic": "nimbostratus"
+ },
+ {
+  "id": "hard-earth-191",
+  "prompt": "The temperature at which air becomes saturated is called what?",
+  "choices": [
+   "Flash point",
+   "Wet bulb",
+   "Dew point",
+   "Freezing point"
+  ],
+  "answer": "Dew point",
+  "difficulty": "easy",
+  "topic": "dew point"
+ },
+ {
+  "id": "hard-earth-192",
+  "prompt": "Rising air cooling without exchanging heat with its surroundings is called what?",
+  "choices": [
+   "Latent release",
+   "Advection",
+   "Radiative cooling",
+   "Adiabatic cooling"
+  ],
+  "answer": "Adiabatic cooling",
+  "difficulty": "medium",
+  "topic": "adiabatic"
+ },
+ {
+  "id": "hard-earth-193",
+  "prompt": "Air forced up the slopes of a mountain produces which kind of lift?",
+  "choices": [
+   "Frontal",
+   "Convergent",
+   "Convective",
+   "Orographic"
+  ],
+  "answer": "Orographic",
+  "difficulty": "easy",
+  "topic": "orographic lift"
+ },
+ {
+  "id": "hard-earth-194",
+  "prompt": "A dry region on the lee side of a mountain range lies in a what?",
+  "choices": [
+   "Rain shadow",
+   "Heat low",
+   "Cold pool",
+   "Monsoon trough"
+  ],
+  "answer": "Rain shadow",
+  "difficulty": "medium",
+  "topic": "rain shadow"
+ },
+ {
+  "id": "hard-earth-195",
+  "prompt": "The warm, dry downslope wind of the Rocky Mountains is called what?",
+  "choices": [
+   "Chinook",
+   "Bora",
+   "Mistral",
+   "Sirocco"
+  ],
+  "answer": "Chinook",
+  "difficulty": "medium",
+  "topic": "chinook"
+ },
+ {
+  "id": "hard-earth-196",
+  "prompt": "The cold north wind that sweeps down the Rhone valley to the Mediterranean is the what?",
+  "choices": [
+   "Bora",
+   "Levante",
+   "Sirocco",
+   "Mistral"
+  ],
+  "answer": "Mistral",
+  "difficulty": "medium",
+  "topic": "mistral"
+ },
+ {
+  "id": "hard-earth-197",
+  "prompt": "Which hot wind blows from the Sahara toward the Mediterranean?",
+  "choices": [
+   "Tramontane",
+   "Mistral",
+   "Sirocco",
+   "Bora"
+  ],
+  "answer": "Sirocco",
+  "difficulty": "medium",
+  "topic": "sirocco"
+ },
+ {
+  "id": "hard-earth-198",
+  "prompt": "Which dusty wind blows from the Sahara over West Africa in winter?",
+  "choices": [
+   "Shamal",
+   "Simoom",
+   "Khamsin",
+   "Harmattan"
+  ],
+  "answer": "Harmattan",
+  "difficulty": "hard",
+  "topic": "harmattan"
+ },
+ {
+  "id": "hard-earth-199",
+  "prompt": "Which cold, gusty northeast wind blows down onto the Adriatic coast?",
+  "choices": [
+   "Levanter",
+   "Mistral",
+   "Meltemi",
+   "Bora"
+  ],
+  "answer": "Bora",
+  "difficulty": "hard",
+  "topic": "bora"
+ },
+ {
+  "id": "hard-earth-200",
+  "prompt": "A large wall of dust raised by a thunderstorm outflow is called what?",
+  "choices": [
+   "Squall line",
+   "Haboob",
+   "Derecho",
+   "Williwaw"
+  ],
+  "answer": "Haboob",
+  "difficulty": "medium",
+  "topic": "haboob"
+ },
+ {
+  "id": "hard-earth-201",
+  "prompt": "A widespread, long-lived straight-line windstorm is called what?",
+  "choices": [
+   "Supercell",
+   "Microburst",
+   "Derecho",
+   "Haboob"
+  ],
+  "answer": "Derecho",
+  "difficulty": "medium",
+  "topic": "derecho"
+ },
+ {
+  "id": "hard-earth-202",
+  "prompt": "Lake-effect snow is most associated with which region of North America?",
+  "choices": [
+   "Great Lakes",
+   "Appalachian Plateau",
+   "Gulf Coast",
+   "Rocky Mountains"
+  ],
+  "answer": "Great Lakes",
+  "difficulty": "easy",
+  "topic": "lake effect"
+ },
+ {
+  "id": "hard-earth-203",
+  "prompt": "Red lightning high above thunderstorms is called what?",
+  "choices": [
+   "Dry lightning",
+   "Elves",
+   "Sprites",
+   "Blue jets"
+  ],
+  "answer": "Sprites",
+  "difficulty": "hard",
+  "topic": "sprites"
+ },
+ {
+  "id": "hard-earth-204",
+  "prompt": "St. Elmo's fire is a glow caused by what kind of discharge?",
+  "choices": [
+   "Leader",
+   "Arc",
+   "Spark",
+   "Corona"
+  ],
+  "answer": "Corona",
+  "difficulty": "medium",
+  "topic": "st elmos fire"
+ },
+ {
+  "id": "hard-earth-205",
+  "prompt": "Tropical cyclones generally need sea surface temperatures above about what?",
+  "choices": [
+   "26.5 C",
+   "20 C",
+   "35 C",
+   "15 C"
+  ],
+  "answer": "26.5 C",
+  "difficulty": "medium",
+  "topic": "cyclone sst"
+ },
+ {
+  "id": "hard-earth-206",
+  "prompt": "Tropical cyclones rarely form within about 5 degrees of the equator because of weak what?",
+  "choices": [
+   "Solar heating",
+   "Sea-surface temperatures",
+   "Coriolis effect",
+   "Humidity"
+  ],
+  "answer": "Coriolis effect",
+  "difficulty": "medium",
+  "topic": "cyclone coriolis"
+ },
+ {
+  "id": "hard-earth-207",
+  "prompt": "The tropical atmospheric circulation cell between the equator and about 30 degrees is the what?",
+  "choices": [
+   "Walker cell",
+   "Polar cell",
+   "Ferrel cell",
+   "Hadley cell"
+  ],
+  "answer": "Hadley cell",
+  "difficulty": "medium",
+  "topic": "hadley cell"
+ },
+ {
+  "id": "hard-earth-208",
+  "prompt": "Where trade winds from both hemispheres meet is called the what?",
+  "choices": [
+   "Subtropical jet",
+   "Intertropical Convergence Zone",
+   "Polar front",
+   "Horse latitudes"
+  ],
+  "answer": "Intertropical Convergence Zone",
+  "difficulty": "easy",
+  "topic": "itcz"
+ },
+ {
+  "id": "hard-earth-209",
+  "prompt": "The calm, dry belts near 30 degrees latitude are known as what?",
+  "choices": [
+   "Horse latitudes",
+   "Roaring Forties",
+   "Doldrums",
+   "Furious Fifties"
+  ],
+  "answer": "Horse latitudes",
+  "difficulty": "medium",
+  "topic": "horse latitudes"
+ },
+ {
+  "id": "hard-earth-210",
+  "prompt": "Strong westerly winds between 40 and 50 degrees south are nicknamed what?",
+  "choices": [
+   "Trade winds",
+   "Horse latitudes",
+   "Roaring Forties",
+   "Doldrums"
+  ],
+  "answer": "Roaring Forties",
+  "difficulty": "medium",
+  "topic": "roaring forties"
+ },
+ {
+  "id": "hard-earth-211",
+  "prompt": "A layer in which temperature rises with height, trapping smog below, is called what?",
+  "choices": [
+   "Front",
+   "Thermocline",
+   "Lapse layer",
+   "Temperature inversion"
+  ],
+  "answer": "Temperature inversion",
+  "difficulty": "medium",
+  "topic": "inversion"
+ },
+ {
+  "id": "hard-earth-212",
+  "prompt": "A psychrometer uses wet-bulb and dry-bulb thermometers to measure what?",
+  "choices": [
+   "Wind speed",
+   "Pressure",
+   "Humidity",
+   "Visibility"
+  ],
+  "answer": "Humidity",
+  "difficulty": "medium",
+  "topic": "psychrometer"
+ },
+ {
+  "id": "hard-earth-213",
+  "prompt": "Lines joining points of equal atmospheric pressure are called what?",
+  "choices": [
+   "Isogons",
+   "Isotherms",
+   "Isohyets",
+   "Isobars"
+  ],
+  "answer": "Isobars",
+  "difficulty": "easy",
+  "topic": "isobars"
+ },
+ {
+  "id": "hard-earth-214",
+  "prompt": "Standard sea-level atmospheric pressure is about how many hectopascals?",
+  "choices": [
+   "1500",
+   "1013",
+   "760",
+   "29.9"
+  ],
+  "answer": "1013",
+  "difficulty": "medium",
+  "topic": "standard pressure"
+ },
+ {
+  "id": "hard-earth-215",
+  "prompt": "Who created the widely used climate classification system in 1900?",
+  "choices": [
+   "Charles Thornthwaite",
+   "Wladimir Koppen",
+   "Alfred Wegener",
+   "Vilhelm Bjerknes"
+  ],
+  "answer": "Wladimir Koppen",
+  "difficulty": "medium",
+  "topic": "koppen"
+ },
+ {
+  "id": "hard-earth-216",
+  "prompt": "The cooling phase of ENSO is called what?",
+  "choices": [
+   "La Nina",
+   "Dipole",
+   "El Nino",
+   "Monsoon"
+  ],
+  "answer": "La Nina",
+  "difficulty": "medium",
+  "topic": "la nina"
+ },
+ {
+  "id": "hard-earth-217",
+  "prompt": "The Southern Oscillation is measured by the pressure difference between Tahiti and which city?",
+  "choices": [
+   "Jakarta",
+   "Manila",
+   "Lima",
+   "Darwin"
+  ],
+  "answer": "Darwin",
+  "difficulty": "hard",
+  "topic": "southern oscillation"
+ },
+ {
+  "id": "hard-earth-218",
+  "prompt": "The North Atlantic Oscillation relates pressure at Iceland with pressure at which island group?",
+  "choices": [
+   "Faroes",
+   "Canaries",
+   "Bermuda",
+   "Azores"
+  ],
+  "answer": "Azores",
+  "difficulty": "medium",
+  "topic": "nao azores"
+ },
+ {
+  "id": "hard-earth-219",
+  "prompt": "The Antarctic Dry Valleys are an unusually ice-free area near which sound?",
+  "choices": [
+   "Ross Sea",
+   "Amundsen Sea",
+   "McMurdo Sound",
+   "Weddell Sea"
+  ],
+  "answer": "McMurdo Sound",
+  "difficulty": "medium",
+  "topic": "mcmurdo dry valleys"
+ },
+ {
+  "id": "hard-earth-220",
+  "prompt": "The polar vortex is a persistent cold low-pressure region mainly in which layer?",
+  "choices": [
+   "Stratosphere",
+   "Troposphere",
+   "Mesosphere",
+   "Thermosphere"
+  ],
+  "answer": "Stratosphere",
+  "difficulty": "medium",
+  "topic": "polar vortex"
+ },
+ {
+  "id": "hard-earth-221",
+  "prompt": "A rapid rise in polar stratospheric temperature in winter is called what?",
+  "choices": [
+   "Sudden stratospheric warming",
+   "Arctic oscillation",
+   "Ozone recovery",
+   "Polar amplification"
+  ],
+  "answer": "Sudden stratospheric warming",
+  "difficulty": "hard",
+  "topic": "sudden stratospheric warming"
+ },
+ {
+  "id": "hard-earth-222",
+  "prompt": "Which warm current flows northeast off the coast of Japan?",
+  "choices": [
+   "Alaska",
+   "Oyashio",
+   "Tsushima",
+   "Kuroshio"
+  ],
+  "answer": "Kuroshio",
+  "difficulty": "medium",
+  "topic": "kuroshio"
+ },
+ {
+  "id": "hard-earth-223",
+  "prompt": "The Humboldt Current flows along the coast of which country?",
+  "choices": [
+   "Brazil",
+   "Peru",
+   "Australia",
+   "Mexico"
+  ],
+  "answer": "Peru",
+  "difficulty": "medium",
+  "topic": "humboldt current"
+ },
+ {
+  "id": "hard-earth-224",
+  "prompt": "Which cold current flows north along the southwest coast of Africa?",
+  "choices": [
+   "Guinea",
+   "Agulhas",
+   "Canary",
+   "Benguela"
+  ],
+  "answer": "Benguela",
+  "difficulty": "medium",
+  "topic": "benguela"
+ },
+ {
+  "id": "hard-earth-225",
+  "prompt": "Which cold current carries icebergs south past Newfoundland?",
+  "choices": [
+   "Gulf Stream",
+   "Labrador Current",
+   "North Atlantic Drift",
+   "Irminger Current"
+  ],
+  "answer": "Labrador Current",
+  "difficulty": "medium",
+  "topic": "labrador current"
+ },
+ {
+  "id": "hard-earth-226",
+  "prompt": "Which ocean current is the largest by volume, circling Antarctica?",
+  "choices": [
+   "Agulhas",
+   "Antarctic Circumpolar Current",
+   "Gulf Stream",
+   "Kuroshio"
+  ],
+  "answer": "Antarctic Circumpolar Current",
+  "difficulty": "medium",
+  "topic": "acc"
+ },
+ {
+  "id": "hard-earth-227",
+  "prompt": "The global \"conveyor belt\" of deep ocean circulation is driven by differences in what?",
+  "choices": [
+   "Depth and pressure",
+   "Wave height",
+   "Temperature and salinity",
+   "Wind and tides"
+  ],
+  "answer": "Temperature and salinity",
+  "difficulty": "medium",
+  "topic": "thermohaline"
+ },
+ {
+  "id": "hard-earth-228",
+  "prompt": "Ekman transport moves surface water at roughly what angle to the wind?",
+  "choices": [
+   "90 degrees",
+   "180 degrees",
+   "45 degrees",
+   "0 degrees"
+  ],
+  "answer": "90 degrees",
+  "difficulty": "hard",
+  "topic": "ekman transport"
+ },
+ {
+  "id": "hard-earth-229",
+  "prompt": "Which sea in the North Atlantic has no land boundaries, only ocean currents?",
+  "choices": [
+   "Sargasso Sea",
+   "Norwegian Sea",
+   "Labrador Sea",
+   "Irish Sea"
+  ],
+  "answer": "Sargasso Sea",
+  "difficulty": "medium",
+  "topic": "sargasso"
+ },
+ {
+  "id": "hard-earth-230",
+  "prompt": "The layer of rapid temperature change with depth in the ocean is called what?",
+  "choices": [
+   "Halocline",
+   "Thermocline",
+   "Pycnocline",
+   "Chemocline"
+  ],
+  "answer": "Thermocline",
+  "difficulty": "medium",
+  "topic": "thermocline"
+ },
+ {
+  "id": "hard-earth-231",
+  "prompt": "The deepest trench in the Atlantic Ocean is which?",
+  "choices": [
+   "Puerto Rico Trench",
+   "Sandwich Trench",
+   "Peru-Chile Trench",
+   "Cayman Trench"
+  ],
+  "answer": "Puerto Rico Trench",
+  "difficulty": "medium",
+  "topic": "puerto rico trench"
+ },
+ {
+  "id": "hard-earth-232",
+  "prompt": "Which hydrothermal vents spew dark, mineral-rich water?",
+  "choices": [
+   "White smokers",
+   "Cold seeps",
+   "Mud volcanoes",
+   "Black smokers"
+  ],
+  "answer": "Black smokers",
+  "difficulty": "medium",
+  "topic": "black smokers"
+ },
+ {
+  "id": "hard-earth-233",
+  "prompt": "Life around hydrothermal vents relies on energy from what process?",
+  "choices": [
+   "Fermentation",
+   "Photosynthesis",
+   "Filter feeding",
+   "Chemosynthesis"
+  ],
+  "answer": "Chemosynthesis",
+  "difficulty": "medium",
+  "topic": "chemosynthesis"
+ },
+ {
+  "id": "hard-earth-234",
+  "prompt": "A flat-topped underwater mountain is called what?",
+  "choices": [
+   "Guyot",
+   "Atoll",
+   "Abyssal hill",
+   "Seamount"
+  ],
+  "answer": "Guyot",
+  "difficulty": "medium",
+  "topic": "guyot"
+ },
+ {
+  "id": "hard-earth-235",
+  "prompt": "In Darwin's sequence of reef types, which forms first?",
+  "choices": [
+   "Atoll",
+   "Fringing reef",
+   "Barrier reef",
+   "Patch reef"
+  ],
+  "answer": "Fringing reef",
+  "difficulty": "medium",
+  "topic": "fringing reef"
+ },
+ {
+  "id": "hard-earth-236",
+  "prompt": "A flat bedrock surface cut by waves at the base of a cliff is called what?",
+  "choices": [
+   "Spit",
+   "Berm",
+   "Wave-cut platform",
+   "Barrier bar"
+  ],
+  "answer": "Wave-cut platform",
+  "difficulty": "hard",
+  "topic": "wave-cut platform"
+ },
+ {
+  "id": "hard-earth-237",
+  "prompt": "The Messinian salinity crisis nearly dried up which sea about 6 million years ago?",
+  "choices": [
+   "Red",
+   "Mediterranean",
+   "Caspian",
+   "Black"
+  ],
+  "answer": "Mediterranean",
+  "difficulty": "hard",
+  "topic": "messinian"
+ },
+ {
+  "id": "hard-earth-238",
+  "prompt": "Which African lake is the longest freshwater lake in the world?",
+  "choices": [
+   "Turkana",
+   "Victoria",
+   "Tanganyika",
+   "Malawi"
+  ],
+  "answer": "Tanganyika",
+  "difficulty": "medium",
+  "topic": "lake tanganyika"
+ },
+ {
+  "id": "hard-earth-239",
+  "prompt": "A bowl-shaped hollow carved at a glacier's head is called what?",
+  "choices": [
+   "Arete",
+   "Cirque",
+   "Drumlin",
+   "Horn"
+  ],
+  "answer": "Cirque",
+  "difficulty": "medium",
+  "topic": "cirque"
+ },
+ {
+  "id": "hard-earth-240",
+  "prompt": "A sharp ridge between two cirques is called what?",
+  "choices": [
+   "Esker",
+   "Horn",
+   "Col",
+   "Arete"
+  ],
+  "answer": "Arete",
+  "difficulty": "medium",
+  "topic": "arete"
+ },
+ {
+  "id": "hard-earth-241",
+  "prompt": "The pyramidal peak formed by three or more cirques, such as the Matterhorn, is called what?",
+  "choices": [
+   "Nunatak",
+   "Horn",
+   "Arete",
+   "Tor"
+  ],
+  "answer": "Horn",
+  "difficulty": "medium",
+  "topic": "horn peak"
+ },
+ {
+  "id": "hard-earth-242",
+  "prompt": "A streamlined hill of glacial till shaped like an upturned spoon is a what?",
+  "choices": [
+   "Drumlin",
+   "Kame",
+   "Esker",
+   "Kettle"
+  ],
+  "answer": "Drumlin",
+  "difficulty": "medium",
+  "topic": "drumlin"
+ },
+ {
+  "id": "hard-earth-243",
+  "prompt": "A long winding ridge of sand and gravel deposited by meltwater streams is a what?",
+  "choices": [
+   "Erratic",
+   "Moraine",
+   "Drumlin",
+   "Esker"
+  ],
+  "answer": "Esker",
+  "difficulty": "medium",
+  "topic": "esker"
+ },
+ {
+  "id": "hard-earth-244",
+  "prompt": "A depression left when a block of buried ice melts is called what?",
+  "choices": [
+   "Cirque",
+   "Fjord",
+   "Kettle",
+   "Tarn"
+  ],
+  "answer": "Kettle",
+  "difficulty": "medium",
+  "topic": "kettle"
+ },
+ {
+  "id": "hard-earth-245",
+  "prompt": "A boulder carried far from its source and left by ice is called what?",
+  "choices": [
+   "Monolith",
+   "Tor",
+   "Xenolith",
+   "Glacial erratic"
+  ],
+  "answer": "Glacial erratic",
+  "difficulty": "medium",
+  "topic": "erratic"
+ },
+ {
+  "id": "hard-earth-246",
+  "prompt": "A broad plain of sediment laid down by glacial meltwater is called what?",
+  "choices": [
+   "Outwash plain",
+   "Loess plain",
+   "Till plain",
+   "Lava plain"
+  ],
+  "answer": "Outwash plain",
+  "difficulty": "hard",
+  "topic": "outwash plain"
+ },
+ {
+  "id": "hard-earth-247",
+  "prompt": "A smoothed, rounded bedrock hill with a plucked lee side is called what?",
+  "choices": [
+   "Tor",
+   "Roche moutonnee",
+   "Drumlin",
+   "Nunatak"
+  ],
+  "answer": "Roche moutonnee",
+  "difficulty": "hard",
+  "topic": "roche moutonnee"
+ },
+ {
+  "id": "hard-earth-248",
+  "prompt": "A mountain peak that protrudes through an ice sheet is called what?",
+  "choices": [
+   "Tor",
+   "Butte",
+   "Nunatak",
+   "Horn"
+  ],
+  "answer": "Nunatak",
+  "difficulty": "hard",
+  "topic": "nunatak"
+ },
+ {
+  "id": "hard-earth-249",
+  "prompt": "Granular, partly compacted snow between fresh snow and glacial ice is called what?",
+  "choices": [
+   "Firn",
+   "Sastrugi",
+   "Graupel",
+   "Rime"
+  ],
+  "answer": "Firn",
+  "difficulty": "medium",
+  "topic": "firn"
+ },
+ {
+  "id": "hard-earth-250",
+  "prompt": "A sudden outburst flood from beneath a glacier is called what?",
+  "choices": [
+   "Seiche",
+   "Lahar",
+   "Tsunami",
+   "Jokulhlaup"
+  ],
+  "answer": "Jokulhlaup",
+  "difficulty": "hard",
+  "topic": "jokulhlaup"
+ },
+ {
+  "id": "hard-earth-251",
+  "prompt": "Which Antarctic glacier is the largest in the world?",
+  "choices": [
+   "Beardmore Glacier",
+   "Lambert Glacier",
+   "Thwaites Glacier",
+   "Pine Island Glacier"
+  ],
+  "answer": "Lambert Glacier",
+  "difficulty": "medium",
+  "topic": "lambert glacier"
+ },
+ {
+  "id": "hard-earth-252",
+  "prompt": "The largest ice shelf in Antarctica is the what?",
+  "choices": [
+   "Ronne Ice Shelf",
+   "Larsen Ice Shelf",
+   "Amery Ice Shelf",
+   "Ross Ice Shelf"
+  ],
+  "answer": "Ross Ice Shelf",
+  "difficulty": "medium",
+  "topic": "ross ice shelf"
+ },
+ {
+  "id": "hard-earth-253",
+  "prompt": "Which glacier is the longest in the Alps?",
+  "choices": [
+   "Pasterze",
+   "Aletsch Glacier",
+   "Rhone Glacier",
+   "Mer de Glace"
+  ],
+  "answer": "Aletsch Glacier",
+  "difficulty": "medium",
+  "topic": "aletsch"
+ },
+ {
+  "id": "hard-earth-254",
+  "prompt": "A frost-heaved, ice-cored mound in permafrost areas is called what?",
+  "choices": [
+   "Kame",
+   "Esker",
+   "Pingo",
+   "Tor"
+  ],
+  "answer": "Pingo",
+  "difficulty": "hard",
+  "topic": "pingo"
+ },
+ {
+  "id": "hard-earth-255",
+  "prompt": "Slow downslope flow of waterlogged soil in cold regions is called what?",
+  "choices": [
+   "Lahar",
+   "Creep slide",
+   "Slump",
+   "Solifluction"
+  ],
+  "answer": "Solifluction",
+  "difficulty": "hard",
+  "topic": "solifluction"
+ },
+ {
+  "id": "hard-earth-256",
+  "prompt": "Which soil horizon accumulates clays and minerals washed down from above?",
+  "choices": [
+   "O horizon",
+   "E horizon",
+   "A horizon",
+   "B horizon"
+  ],
+  "answer": "B horizon",
+  "difficulty": "medium",
+  "topic": "b horizon"
+ },
+ {
+  "id": "hard-earth-257",
+  "prompt": "Podzol soils are typical of which biome?",
+  "choices": [
+   "Boreal forest",
+   "Tropical rainforest",
+   "Desert",
+   "Savanna"
+  ],
+  "answer": "Boreal forest",
+  "difficulty": "hard",
+  "topic": "podzol"
+ },
+ {
+  "id": "hard-earth-258",
+  "prompt": "Which soil order is clay-rich and cracks when dry, then swells when wet?",
+  "choices": [
+   "Mollisol",
+   "Vertisol",
+   "Oxisol",
+   "Histosol"
+  ],
+  "answer": "Vertisol",
+  "difficulty": "hard",
+  "topic": "vertisol"
+ },
+ {
+  "id": "hard-earth-259",
+  "prompt": "Mollisols are the fertile, dark soils typical of which type of vegetation?",
+  "choices": [
+   "Tundra",
+   "Rainforest",
+   "Desert shrub",
+   "Grassland"
+  ],
+  "answer": "Grassland",
+  "difficulty": "hard",
+  "topic": "mollisol"
+ },
+ {
+  "id": "hard-earth-260",
+  "prompt": "Terra rossa is a red soil that develops over which rock?",
+  "choices": [
+   "Limestone",
+   "Granite",
+   "Shale",
+   "Basalt"
+  ],
+  "answer": "Limestone",
+  "difficulty": "hard",
+  "topic": "terra rossa"
+ },
+ {
+  "id": "hard-earth-261",
+  "prompt": "Which soil order is made mostly of organic matter, as in peat bogs?",
+  "choices": [
+   "Alfisol",
+   "Histosol",
+   "Inceptisol",
+   "Entisol"
+  ],
+  "answer": "Histosol",
+  "difficulty": "hard",
+  "topic": "histosol"
+ },
+ {
+  "id": "hard-earth-262",
+  "prompt": "Rounding and peeling of rock in curved sheets, as at Half Dome, is called what?",
+  "choices": [
+   "Oxidation",
+   "Hydrolysis",
+   "Frost wedging",
+   "Exfoliation"
+  ],
+  "answer": "Exfoliation",
+  "difficulty": "medium",
+  "topic": "exfoliation"
+ },
+ {
+  "id": "hard-earth-263",
+  "prompt": "Tall, thin rock spires at Bryce Canyon are called what?",
+  "choices": [
+   "Hoodoos",
+   "Mesas",
+   "Buttes",
+   "Arches"
+  ],
+  "answer": "Hoodoos",
+  "difficulty": "medium",
+  "topic": "hoodoos"
+ },
+ {
+  "id": "hard-earth-264",
+  "prompt": "Streamlined, wind-sculpted ridges in deserts are called what?",
+  "choices": [
+   "Ventifacts",
+   "Yardangs",
+   "Tafoni",
+   "Barchans"
+  ],
+  "answer": "Yardangs",
+  "difficulty": "hard",
+  "topic": "yardangs"
+ },
+ {
+  "id": "hard-earth-265",
+  "prompt": "An isolated rock hill rising abruptly from a plain, such as Uluru, is called what?",
+  "choices": [
+   "Mesa",
+   "Drumlin",
+   "Inselberg",
+   "Butte"
+  ],
+  "answer": "Inselberg",
+  "difficulty": "medium",
+  "topic": "inselberg"
+ },
+ {
+  "id": "hard-earth-266",
+  "prompt": "A dry desert stream bed that floods briefly is called what in Arabia and North Africa?",
+  "choices": [
+   "Playa",
+   "Reg",
+   "Wadi",
+   "Erg"
+  ],
+  "answer": "Wadi",
+  "difficulty": "medium",
+  "topic": "wadi"
+ },
+ {
+  "id": "hard-earth-267",
+  "prompt": "A crescent-shaped dune formed by wind from one direction is called what?",
+  "choices": [
+   "Barchan",
+   "Star dune",
+   "Parabolic dune",
+   "Seif"
+  ],
+  "answer": "Barchan",
+  "difficulty": "medium",
+  "topic": "barchan"
+ },
+ {
+  "id": "hard-earth-268",
+  "prompt": "Which dune type forms where winds shift direction, with several arms?",
+  "choices": [
+   "Transverse dune",
+   "Linear dune",
+   "Barchan",
+   "Star dune"
+  ],
+  "answer": "Star dune",
+  "difficulty": "hard",
+  "topic": "star dune"
+ },
+ {
+  "id": "hard-earth-269",
+  "prompt": "A large sea of sand in the Sahara is called what?",
+  "choices": [
+   "Hamada",
+   "Erg",
+   "Reg",
+   "Wadi"
+  ],
+  "answer": "Erg",
+  "difficulty": "medium",
+  "topic": "erg"
+ },
+ {
+  "id": "hard-earth-270",
+  "prompt": "A desert surface covered by gravel, left after wind removes fine particles, is a what?",
+  "choices": [
+   "Bajada",
+   "Playa",
+   "Desert pavement",
+   "Inselberg"
+  ],
+  "answer": "Desert pavement",
+  "difficulty": "hard",
+  "topic": "desert pavement"
+ },
+ {
+  "id": "hard-earth-271",
+  "prompt": "Which mountain is the second highest on Earth?",
+  "choices": [
+   "K2",
+   "Lhotse",
+   "Kangchenjunga",
+   "Makalu"
+  ],
+  "answer": "K2",
+  "difficulty": "easy",
+  "topic": "k2"
+ },
+ {
+  "id": "hard-earth-272",
+  "prompt": "K2 lies in which mountain range?",
+  "choices": [
+   "Hindu Kush",
+   "Pamirs",
+   "Karakoram",
+   "Himalayas"
+  ],
+  "answer": "Karakoram",
+  "difficulty": "medium",
+  "topic": "k2 range"
+ },
+ {
+  "id": "hard-earth-273",
+  "prompt": "Which mountain is the third highest on Earth?",
+  "choices": [
+   "Makalu",
+   "Lhotse",
+   "Cho Oyu",
+   "Kangchenjunga"
+  ],
+  "answer": "Kangchenjunga",
+  "difficulty": "hard",
+  "topic": "kangchenjunga"
+ },
+ {
+  "id": "hard-earth-274",
+  "prompt": "Which peak is the highest in Europe, in the Caucasus?",
+  "choices": [
+   "Matterhorn",
+   "Elbrus",
+   "Kazbek",
+   "Mont Blanc"
+  ],
+  "answer": "Elbrus",
+  "difficulty": "medium",
+  "topic": "elbrus"
+ },
+ {
+  "id": "hard-earth-275",
+  "prompt": "Which mountain is the highest in Antarctica?",
+  "choices": [
+   "Mount Kirkpatrick",
+   "Vinson Massif",
+   "Mount Tyree",
+   "Mount Erebus"
+  ],
+  "answer": "Vinson Massif",
+  "difficulty": "medium",
+  "topic": "vinson"
+ },
+ {
+  "id": "hard-earth-276",
+  "prompt": "Which peak is the highest in Oceania, in Indonesian New Guinea?",
+  "choices": [
+   "Mount Kosciuszko",
+   "Puncak Jaya",
+   "Mount Wilhelm",
+   "Mount Cook"
+  ],
+  "answer": "Puncak Jaya",
+  "difficulty": "hard",
+  "topic": "puncak jaya"
+ },
+ {
+  "id": "hard-earth-277",
+  "prompt": "Which peak is the highest on the Australian mainland?",
+  "choices": [
+   "Mount Townsend",
+   "Mount Kosciuszko",
+   "Mount Bogong",
+   "Mount Wilhelm"
+  ],
+  "answer": "Mount Kosciuszko",
+  "difficulty": "medium",
+  "topic": "kosciuszko"
+ },
+ {
+  "id": "hard-earth-278",
+  "prompt": "Which mountain's summit is farthest from Earth's center because of the equatorial bulge?",
+  "choices": [
+   "Chimborazo",
+   "Cotopaxi",
+   "Aconcagua",
+   "Everest"
+  ],
+  "answer": "Chimborazo",
+  "difficulty": "medium",
+  "topic": "chimborazo"
+ },
+ {
+  "id": "hard-earth-279",
+  "prompt": "Which is the highest peak in the Sierra Nevada of California?",
+  "choices": [
+   "Mount Shasta",
+   "Mount Hood",
+   "Mount Rainier",
+   "Mount Whitney"
+  ],
+  "answer": "Mount Whitney",
+  "difficulty": "medium",
+  "topic": "mount whitney"
+ },
+ {
+  "id": "hard-earth-280",
+  "prompt": "Which is the highest peak in the Cascade Range?",
+  "choices": [
+   "Mount Shasta",
+   "Mount Hood",
+   "Mount Rainier",
+   "Mount Baker"
+  ],
+  "answer": "Mount Rainier",
+  "difficulty": "medium",
+  "topic": "mount rainier"
+ },
+ {
+  "id": "hard-earth-281",
+  "prompt": "Which is the highest peak in the Appalachian Mountains?",
+  "choices": [
+   "Mount Washington",
+   "Mount Marcy",
+   "Clingmans Dome",
+   "Mount Mitchell"
+  ],
+  "answer": "Mount Mitchell",
+  "difficulty": "medium",
+  "topic": "mount mitchell"
+ },
+ {
+  "id": "hard-earth-282",
+  "prompt": "Which is the highest peak in the Atlas Mountains?",
+  "choices": [
+   "Ras Dashen",
+   "Mount Kenya",
+   "Toubkal",
+   "Tahat"
+  ],
+  "answer": "Toubkal",
+  "difficulty": "hard",
+  "topic": "toubkal"
+ },
+ {
+  "id": "hard-earth-283",
+  "prompt": "Which mountain range runs along the east coast of Australia?",
+  "choices": [
+   "Great Dividing Range",
+   "Musgrave Ranges",
+   "MacDonnell Ranges",
+   "Flinders Ranges"
+  ],
+  "answer": "Great Dividing Range",
+  "difficulty": "medium",
+  "topic": "great dividing range"
+ },
+ {
+  "id": "hard-earth-284",
+  "prompt": "Aoraki/Mount Cook is the highest peak of which range?",
+  "choices": [
+   "Kaikoura Range",
+   "Southern Alps",
+   "Remarkables",
+   "Tararua Range"
+  ],
+  "answer": "Southern Alps",
+  "difficulty": "medium",
+  "topic": "aoraki"
+ },
+ {
+  "id": "hard-earth-285",
+  "prompt": "The Dolomites take their name from which geologist?",
+  "choices": [
+   "Louis Agassiz",
+   "Horace de Saussure",
+   "Leopold von Buch",
+   "Deodat de Dolomieu"
+  ],
+  "answer": "Deodat de Dolomieu",
+  "difficulty": "medium",
+  "topic": "dolomites name"
+ },
+ {
+  "id": "hard-earth-286",
+  "prompt": "Which South African range is the highest in southern Africa?",
+  "choices": [
+   "Magaliesberg",
+   "Swartberg",
+   "Drakensberg",
+   "Cederberg"
+  ],
+  "answer": "Drakensberg",
+  "difficulty": "hard",
+  "topic": "drakensberg"
+ },
+ {
+  "id": "hard-earth-287",
+  "prompt": "Which is the longest river in Europe?",
+  "choices": [
+   "Dnieper",
+   "Rhine",
+   "Danube",
+   "Volga"
+  ],
+  "answer": "Volga",
+  "difficulty": "medium",
+  "topic": "volga"
+ },
+ {
+  "id": "hard-earth-288",
+  "prompt": "Which is the longest river in Asia?",
+  "choices": [
+   "Yangtze",
+   "Ob",
+   "Yellow River",
+   "Mekong"
+  ],
+  "answer": "Yangtze",
+  "difficulty": "medium",
+  "topic": "yangtze"
+ },
+ {
+  "id": "hard-earth-289",
+  "prompt": "The Great Divide of North America runs along the crest of which range?",
+  "choices": [
+   "Cascades",
+   "Sierra Nevada",
+   "Rocky Mountains",
+   "Appalachians"
+  ],
+  "answer": "Rocky Mountains",
+  "difficulty": "medium",
+  "topic": "continental divide"
+ },
+ {
+  "id": "hard-earth-290",
+  "prompt": "The Ogallala Aquifer lies beneath which region?",
+  "choices": [
+   "Gulf Coast",
+   "Appalachia",
+   "Pacific Northwest",
+   "Great Plains"
+  ],
+  "answer": "Great Plains",
+  "difficulty": "medium",
+  "topic": "ogallala"
+ },
+ {
+  "id": "hard-earth-291",
+  "prompt": "The Great Artesian Basin is a vast groundwater reservoir in which country?",
+  "choices": [
+   "India",
+   "Australia",
+   "Brazil",
+   "Libya"
+  ],
+  "answer": "Australia",
+  "difficulty": "medium",
+  "topic": "great artesian basin"
+ },
+ {
+  "id": "hard-earth-292",
+  "prompt": "The word \"geyser\" derives from the name of a hot spring in which country?",
+  "choices": [
+   "Iceland",
+   "USA",
+   "Japan",
+   "New Zealand"
+  ],
+  "answer": "Iceland",
+  "difficulty": "medium",
+  "topic": "geyser word"
+ },
+ {
+  "id": "hard-earth-293",
+  "prompt": "Mineral-rich terraces at Mammoth Hot Springs are made of which rock?",
+  "choices": [
+   "Basalt",
+   "Travertine",
+   "Gypsum",
+   "Obsidian"
+  ],
+  "answer": "Travertine",
+  "difficulty": "medium",
+  "topic": "travertine"
+ },
+ {
+  "id": "hard-earth-294",
+  "prompt": "Which desert occupies much of Xinjiang in northwest China?",
+  "choices": [
+   "Thar",
+   "Gobi",
+   "Karakum",
+   "Taklamakan"
+  ],
+  "answer": "Taklamakan",
+  "difficulty": "medium",
+  "topic": "taklamakan"
+ },
+ {
+  "id": "hard-earth-295",
+  "prompt": "The Rub' al Khali, or Empty Quarter, is a sand desert mainly in which country?",
+  "choices": [
+   "Saudi Arabia",
+   "Egypt",
+   "Libya",
+   "Iran"
+  ],
+  "answer": "Saudi Arabia",
+  "difficulty": "medium",
+  "topic": "empty quarter"
+ },
+ {
+  "id": "hard-earth-296",
+  "prompt": "Which desert lies in India and Pakistan?",
+  "choices": [
+   "Thar",
+   "Karakum",
+   "Kyzylkum",
+   "Gobi"
+  ],
+  "answer": "Thar",
+  "difficulty": "medium",
+  "topic": "thar desert"
+ },
+ {
+  "id": "hard-earth-297",
+  "prompt": "Which is the largest island in the Mediterranean?",
+  "choices": [
+   "Cyprus",
+   "Sardinia",
+   "Sicily",
+   "Crete"
+  ],
+  "answer": "Sicily",
+  "difficulty": "medium",
+  "topic": "sicily"
+ },
+ {
+  "id": "hard-earth-298",
+  "prompt": "Which is the second largest island in the world?",
+  "choices": [
+   "New Guinea",
+   "Baffin Island",
+   "Madagascar",
+   "Borneo"
+  ],
+  "answer": "New Guinea",
+  "difficulty": "medium",
+  "topic": "new guinea"
+ },
+ {
+  "id": "hard-earth-299",
+  "prompt": "Which is the largest peninsula in the world?",
+  "choices": [
+   "Scandinavian Peninsula",
+   "Iberian Peninsula",
+   "Indochina",
+   "Arabian Peninsula"
+  ],
+  "answer": "Arabian Peninsula",
+  "difficulty": "medium",
+  "topic": "arabian peninsula"
+ },
+ {
+  "id": "hard-earth-300",
+  "prompt": "Which is the lowest point in Africa, in Djibouti?",
+  "choices": [
+   "Qattara Depression",
+   "Danakil Depression",
+   "Lake Assal",
+   "Lake Turkana"
+  ],
+  "answer": "Lake Assal",
+  "difficulty": "hard",
+  "topic": "lake assal"
+ },
+ {
+  "id": "hard-earth-301",
+  "prompt": "The Altiplano is a high plateau in which mountain range?",
+  "choices": [
+   "Himalayas",
+   "Alps",
+   "Andes",
+   "Rockies"
+  ],
+  "answer": "Andes",
+  "difficulty": "medium",
+  "topic": "altiplano"
+ },
+ {
+  "id": "hard-earth-302",
+  "prompt": "Earth's rotation axis completes one cycle of precession in about how many years?",
+  "choices": [
+   "26,000",
+   "2,000",
+   "41,000",
+   "100,000"
+  ],
+  "answer": "26,000",
+  "difficulty": "medium",
+  "topic": "precession"
+ },
+ {
+  "id": "hard-earth-303",
+  "prompt": "Earth's axial tilt varies over roughly how many years?",
+  "choices": [
+   "23,000",
+   "41,000",
+   "11,000",
+   "100,000"
+  ],
+  "answer": "41,000",
+  "difficulty": "hard",
+  "topic": "obliquity cycle"
+ },
+ {
+  "id": "hard-earth-304",
+  "prompt": "The region of weak magnetic field over South America and the South Atlantic is called what?",
+  "choices": [
+   "South Atlantic Anomaly",
+   "Van Allen Gap",
+   "Brunhes Zone",
+   "Bermuda Anomaly"
+  ],
+  "answer": "South Atlantic Anomaly",
+  "difficulty": "hard",
+  "topic": "south atlantic anomaly"
+ },
+ {
+  "id": "hard-earth-305",
+  "prompt": "The Widmanstatten pattern is a feature of which meteorite type?",
+  "choices": [
+   "Stony chondrite",
+   "Iron meteorite",
+   "Carbonaceous chondrite",
+   "Stony-iron pallasite only"
+  ],
+  "answer": "Iron meteorite",
+  "difficulty": "hard",
+  "topic": "widmanstatten"
+ },
+ {
+  "id": "hard-earth-306",
+  "prompt": "Glassy objects formed when impacts melt Earth's surface rock are called what?",
+  "choices": [
+   "Chondrules",
+   "Fulgurites",
+   "Obsidianites",
+   "Tektites"
+  ],
+  "answer": "Tektites",
+  "difficulty": "hard",
+  "topic": "tektites"
+ },
+ {
+  "id": "hard-earth-307",
+  "prompt": "Which mineral deformation feature in quartz is diagnostic of meteorite impacts?",
+  "choices": [
+   "Zoning",
+   "Cleavage",
+   "Twinning",
+   "Shock lamellae"
+  ],
+  "answer": "Shock lamellae",
+  "difficulty": "hard",
+  "topic": "shocked quartz"
+ },
+ {
+  "id": "hard-earth-308",
+  "prompt": "The largest known single meteorite on Earth, still lying where it fell, is in which country?",
+  "choices": [
+   "Namibia",
+   "Argentina",
+   "Australia",
+   "Mexico"
+  ],
+  "answer": "Namibia",
+  "difficulty": "hard",
+  "topic": "hoba meteorite"
+ },
+ {
+  "id": "hard-earth-309",
+  "prompt": "The Witwatersrand Basin is the world's richest source of which metal?",
+  "choices": [
+   "Diamonds",
+   "Platinum",
+   "Gold",
+   "Uranium"
+  ],
+  "answer": "Gold",
+  "difficulty": "medium",
+  "topic": "witwatersrand"
+ },
+ {
+  "id": "hard-earth-310",
+  "prompt": "The Ghawar Field in Saudi Arabia is the largest what?",
+  "choices": [
+   "Gold mine",
+   "Coal basin",
+   "Oil field",
+   "Gas field"
+  ],
+  "answer": "Oil field",
+  "difficulty": "medium",
+  "topic": "ghawar"
+ },
+ {
+  "id": "hard-earth-311",
+  "prompt": "Athabasca oil sands are located in which Canadian province?",
+  "choices": [
+   "British Columbia",
+   "Alberta",
+   "Manitoba",
+   "Saskatchewan"
+  ],
+  "answer": "Alberta",
+  "difficulty": "medium",
+  "topic": "athabasca"
+ },
+ {
+  "id": "hard-earth-312",
+  "prompt": "Salar de Uyuni, the largest salt flat, holds large reserves of which element?",
+  "choices": [
+   "Lithium",
+   "Potassium",
+   "Cobalt",
+   "Nickel"
+  ],
+  "answer": "Lithium",
+  "difficulty": "medium",
+  "topic": "uyuni lithium"
+ },
+ {
+  "id": "hard-earth-313",
+  "prompt": "Chuquicamata is a huge open-pit mine for which metal in Chile?",
+  "choices": [
+   "Silver",
+   "Copper",
+   "Nitrate",
+   "Iron"
+  ],
+  "answer": "Copper",
+  "difficulty": "hard",
+  "topic": "chuquicamata"
+ },
+ {
+  "id": "hard-earth-314",
+  "prompt": "A deposit of heavy minerals concentrated by flowing water is called a what?",
+  "choices": [
+   "Vein",
+   "Placer",
+   "Skarn",
+   "Lode"
+  ],
+  "answer": "Placer",
+  "difficulty": "medium",
+  "topic": "placer deposit"
+ },
+ {
+  "id": "hard-earth-315",
+  "prompt": "Large, low-grade copper deposits associated with intrusions are called what?",
+  "choices": [
+   "Evaporite deposits",
+   "Porphyry deposits",
+   "Laterite deposits",
+   "Placer deposits"
+  ],
+  "answer": "Porphyry deposits",
+  "difficulty": "hard",
+  "topic": "porphyry copper"
+ }
+]

@@ -38,5 +38,185 @@
  "phil-301": {
   "decision": "keep",
   "reason": "Written by the lead to replace phil-245; Locke, Essay Concerning Human Understanding (tabula rasa). Not blind-checked."
+ },
+ "easy-earth-138": {
+  "decision": "drop",
+  "reason": "Count depends on the textbook (oceans 4/5/7; layers 3/4)."
+ },
+ "easy-earth-157": {
+  "decision": "drop",
+  "reason": "Count depends on the textbook (oceans 4/5/7; layers 3/4)."
+ },
+ "easy-earth-002": {
+  "decision": "keep",
+  "reason": "Hail is not frozen rain; reworded."
+ },
+ "easy-earth-134": {
+  "decision": "keep",
+  "reason": "Eruptions are ~90 min apart, not hourly; reworded."
+ },
+ "easy-earth-168": {
+  "decision": "keep",
+  "reason": "Not every river reaches the sea; reworded to \"most big rivers\"."
+ },
+ "easy-earth-172": {
+  "decision": "keep",
+  "reason": "Avoid implying stream water is safe to drink."
+ },
+ "easy-earth-257": {
+  "decision": "keep",
+  "reason": "Hottest time is mid-afternoon; now asks only about the Sun."
+ },
+ "easy-earth-041": {
+  "decision": "drop",
+  "reason": "Frost forms by deposition, not frozen dew."
+ },
+ "easy-earth-042": {
+  "decision": "drop",
+  "reason": "Sleet means different things in UK and US."
+ },
+ "easy-earth-109": {
+  "decision": "drop",
+  "reason": "Slate is a tempting second answer."
+ },
+ "easy-earth-191": {
+  "decision": "drop",
+  "reason": "Continent count is convention-dependent (5/6/7) and 5 is a choice."
+ },
+ "easy-lit-022": {
+  "decision": "keep",
+  "reason": "Answer was a paraphrase; now uses the real refrain."
+ },
+ "easy-lit-183": {
+  "decision": "keep",
+  "reason": "Jiminy is Disney's name; prompt now says Disney."
+ },
+ "easy-lit-267": {
+  "decision": "keep",
+  "reason": "Who -> What."
+ },
+ "easy-lit-027": {
+  "decision": "drop",
+  "reason": "No kiss in the Grimm original; frog receives it."
+ },
+ "easy-lit-053": {
+  "decision": "drop",
+  "reason": "Aladdin also has a ring genie."
+ },
+ "easy-lit-081": {
+  "decision": "drop",
+  "reason": "He sees a bone too; title gives it away."
+ },
+ "easy-lit-129": {
+  "decision": "drop",
+  "reason": "Badger is also a main character."
+ },
+ "easy-lit-278": {
+  "decision": "drop",
+  "reason": "Some versions use a leaf, also a choice."
+ },
+ "easy-lit-298": {
+  "decision": "drop",
+  "reason": "Only one choice is a tower."
+ },
+ "easy-lit-020": {
+  "decision": "drop",
+  "reason": "Goose or hen depends on the version."
+ },
+ "easy-anim-014": {
+  "decision": "keep",
+  "reason": "Calf is also right for big deer; replaced that distractor."
+ },
+ "easy-anim-019": {
+  "decision": "keep",
+  "reason": "Chick is also right; replaced distractor; fixed \"an what\"."
+ },
+ "easy-anim-180": {
+  "decision": "keep",
+  "reason": "Some geckos change color; replaced distractor."
+ },
+ "easy-anim-198": {
+  "decision": "keep",
+  "reason": "Fireflies are beetles; replaced distractor."
+ },
+ "easy-anim-206": {
+  "decision": "keep",
+  "reason": "Kakapo is a flightless parrot; replaced distractor."
+ },
+ "easy-anim-262": {
+  "decision": "keep",
+  "reason": "Barking is a sea-lion trait; reworded."
+ },
+ "easy-anim-064": {
+  "decision": "drop",
+  "reason": "Goldfish bowls are poor care; teaches the wrong thing."
+ },
+ "easy-anim-081": {
+  "decision": "drop",
+  "reason": "Rabbits-love-carrots is a myth."
+ },
+ "easy-hist-149": {
+  "decision": "drop",
+  "reason": "Same question as easy-earth-086 at this level."
+ },
+ "easy-lit-242": {
+  "decision": "drop",
+  "reason": "Same question as easy-hist-028 at this level."
+ },
+ "hard-hist-112": {
+  "decision": "drop",
+  "reason": "Too easy for Hard; it is Normal round #1's question."
+ },
+ "hard-hist-049": {
+  "decision": "keep",
+  "reason": "Blind check flagged ambiguity or a giveaway; reworded to pin the one answer."
+ },
+ "hard-hist-138": {
+  "decision": "keep",
+  "reason": "Blind check flagged ambiguity or a giveaway; reworded to pin the one answer."
+ },
+ "hard-hist-156": {
+  "decision": "keep",
+  "reason": "Blind check flagged ambiguity or a giveaway; reworded to pin the one answer."
+ },
+ "hard-hist-173": {
+  "decision": "keep",
+  "reason": "Blind check flagged ambiguity or a giveaway; reworded to pin the one answer."
+ },
+ "hard-hist-193": {
+  "decision": "keep",
+  "reason": "Blind check flagged ambiguity or a giveaway; reworded to pin the one answer."
+ },
+ "hard-hist-206": {
+  "decision": "keep",
+  "reason": "Blind check flagged ambiguity or a giveaway; reworded to pin the one answer."
+ },
+ "hard-hist-228": {
+  "decision": "keep",
+  "reason": "Blind check flagged ambiguity or a giveaway; reworded to pin the one answer."
+ },
+ "hard-hist-264": {
+  "decision": "keep",
+  "reason": "Blind check flagged ambiguity or a giveaway; reworded to pin the one answer."
+ },
+ "hard-hist-306": {
+  "decision": "keep",
+  "reason": "Blind check flagged ambiguity or a giveaway; reworded to pin the one answer."
+ },
+ "hard-hist-036": {
+  "decision": "drop",
+  "reason": "\"First across the Mississippi\" is contested."
+ },
+ "hard-hist-080": {
+  "decision": "drop",
+  "reason": "Robespierre did not formally lead the Committee."
+ },
+ "hard-hist-098": {
+  "decision": "drop",
+  "reason": "Only one choice is not a military operation."
+ },
+ "hard-hist-128": {
+  "decision": "drop",
+  "reason": "Other island sultanates fit."
  }
 }

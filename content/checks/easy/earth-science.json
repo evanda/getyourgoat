@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "easy-earth-001",
+    "pick": "Rain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-002",
+    "pick": "Hail",
+    "confidence": "high",
+    "problem": "Hail is not frozen rain; it forms in thunderstorm updrafts. Frozen raindrops are sleet/ice pellets."
+  },
+  {
+    "id": "easy-earth-003",
+    "pick": "Snow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-004",
+    "pick": "Thermometer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-005",
+    "pick": "Wind",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-006",
+    "pick": "Lightning",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-007",
+    "pick": "The flash",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-008",
+    "pick": "Rainbow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-009",
+    "pick": "7",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-010",
+    "pick": "Red",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-011",
+    "pick": "Fog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-012",
+    "pick": "Dew",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-013",
+    "pick": "Tornado",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-014",
+    "pick": "Hurricane",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-015",
+    "pick": "Anemometer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-016",
+    "pick": "Barometer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-017",
+    "pick": "Climate",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-018",
+    "pick": "Cumulus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-019",
+    "pick": "Cirrus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-020",
+    "pick": "Evaporation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-021",
+    "pick": "Condensation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-022",
+    "pick": "Precipitation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-023",
+    "pick": "The Sun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-024",
+    "pick": "Water vapor",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-025",
+    "pick": "Liquid water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-026",
+    "pick": "0 degrees",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-027",
+    "pick": "100 degrees",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-028",
+    "pick": "Tiny water drops",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-029",
+    "pick": "Forecast",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-030",
+    "pick": "Drought",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-031",
+    "pick": "Blizzard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-032",
+    "pick": "Drizzle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-033",
+    "pick": "Atmosphere",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-034",
+    "pick": "Oxygen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-035",
+    "pick": "Carbon dioxide",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-036",
+    "pick": "Nitrogen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-037",
+    "pick": "Desert",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-038",
+    "pick": "Rainforest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-039",
+    "pick": "Glaciers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-040",
+    "pick": "Icebergs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-041",
+    "pick": "Frost",
+    "confidence": "medium",
+    "problem": "Frost usually forms directly from vapor (deposition), not frozen dew; 'frozen dew' is technically distinct."
+  },
+  {
+    "id": "easy-earth-042",
+    "pick": "Sleet",
+    "confidence": "medium",
+    "problem": "Regional: 'sleet' means rain-snow mix in UK but ice pellets in US."
+  },
+  {
+    "id": "easy-earth-043",
+    "pick": "Wind direction",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-044",
+    "pick": "How much rain fell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-045",
+    "pick": "Clouds",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-046",
+    "pick": "To stay dry",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-047",
+    "pick": "Flood",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-048",
+    "pick": "Thunder",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-049",
+    "pick": "Breeze",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-050",
+    "pick": "Rain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-051",
+    "pick": "4",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-052",
+    "pick": "Spring",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-053",
+    "pick": "Summer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-054",
+    "pick": "Winter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-055",
+    "pick": "Fall",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-056",
+    "pick": "Spring",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-057",
+    "pick": "Earth's tilt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-058",
+    "pick": "One year",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-059",
+    "pick": "One day",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-060",
+    "pick": "Earth spinning",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-061",
+    "pick": "The Sun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-062",
+    "pick": "A star",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-063",
+    "pick": "Light and heat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-064",
+    "pick": "East",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-065",
+    "pick": "West",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-066",
+    "pick": "Orbit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-067",
+    "pick": "8",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-068",
+    "pick": "Earth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-069",
+    "pick": "Mercury",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-070",
+    "pick": "Mars",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-071",
+    "pick": "Jupiter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-072",
+    "pick": "Saturn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-073",
+    "pick": "Mercury",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-074",
+    "pick": "Neptune",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-075",
+    "pick": "Venus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-076",
+    "pick": "Earth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-077",
+    "pick": "Mars",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-078",
+    "pick": "Jupiter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-079",
+    "pick": "1",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-080",
+    "pick": "Phases",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-081",
+    "pick": "Full Moon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-082",
+    "pick": "One month",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-083",
+    "pick": "Craters",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-084",
+    "pick": "No, it reflects sunlight",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-085",
+    "pick": "Solar eclipse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-086",
+    "pick": "Neil Armstrong",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-087",
+    "pick": "Constellation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-088",
+    "pick": "Galaxy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-089",
+    "pick": "Milky Way",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-090",
+    "pick": "Comet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-091",
+    "pick": "Shooting star",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-092",
+    "pick": "Solar system",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-093",
+    "pick": "Round like a ball",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-094",
+    "pick": "Astronaut",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-095",
+    "pick": "Geologist",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-096",
+    "pick": "Meteorologist",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-097",
+    "pick": "Telescope",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-098",
+    "pick": "Uranus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-099",
+    "pick": "Asteroids",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-100",
+    "pick": "Volcanologist",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-101",
+    "pick": "3",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-102",
+    "pick": "Igneous",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-103",
+    "pick": "Sedimentary",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-104",
+    "pick": "Metamorphic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-105",
+    "pick": "Magma",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-106",
+    "pick": "Lava",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-107",
+    "pick": "Fossils",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-108",
+    "pick": "Limestone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-109",
+    "pick": "Chalk",
+    "confidence": "medium",
+    "problem": "Slate is the rock blackboards were made of; 'use to write on a blackboard' could tempt Slate."
+  },
+  {
+    "id": "easy-earth-110",
+    "pick": "Obsidian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-111",
+    "pick": "Pumice",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-112",
+    "pick": "Diamond",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-113",
+    "pick": "Burning for energy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-114",
+    "pick": "Ancient plants",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-115",
+    "pick": "Ore",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-116",
+    "pick": "Rock bits and dead plants",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-117",
+    "pick": "Topsoil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-118",
+    "pick": "Bedrock",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-119",
+    "pick": "Erosion",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-120",
+    "pick": "Weathering",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-121",
+    "pick": "Canyon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-122",
+    "pick": "Grand Canyon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-123",
+    "pick": "Sand",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-124",
+    "pick": "Dune",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-125",
+    "pick": "Mountain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-126",
+    "pick": "Valley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-127",
+    "pick": "Plain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-128",
+    "pick": "Island",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-129",
+    "pick": "Peninsula",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-130",
+    "pick": "Peak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-131",
+    "pick": "Cave",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-132",
+    "pick": "Stalactite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-133",
+    "pick": "Geyser",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-134",
+    "pick": "Old Faithful",
+    "confidence": "high",
+    "problem": "Old Faithful erupts roughly every 60-110 minutes (about 90 on average), not about every hour."
+  },
+  {
+    "id": "easy-earth-135",
+    "pick": "Earth's outer layer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-136",
+    "pick": "The core",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-137",
+    "pick": "Mantle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-138",
+    "pick": "3",
+    "confidence": "medium",
+    "problem": "Textbook-dependent: often taught as 4 layers (crust, mantle, outer core, inner core)."
+  },
+  {
+    "id": "easy-earth-139",
+    "pick": "Tectonic plates",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-140",
+    "pick": "Earthquake",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-141",
+    "pick": "Volcano",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-142",
+    "pick": "Lava and ash",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-143",
+    "pick": "Crater",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-144",
+    "pick": "Extinct",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-145",
+    "pick": "Pacific",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-146",
+    "pick": "Hawaii",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-147",
+    "pick": "Richter scale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-148",
+    "pick": "Seismograph",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-149",
+    "pick": "Tsunami",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-150",
+    "pick": "Gem",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-151",
+    "pick": "Boulder",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-152",
+    "pick": "Diamond",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-153",
+    "pick": "Gold",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-154",
+    "pick": "Pebble",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-155",
+    "pick": "Water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-156",
+    "pick": "Over half",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-157",
+    "pick": "5",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-158",
+    "pick": "Pacific",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-159",
+    "pick": "Arctic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-160",
+    "pick": "Indian",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-161",
+    "pick": "Atlantic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-162",
+    "pick": "Arctic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-163",
+    "pick": "Salty",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-164",
+    "pick": "Tides",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-165",
+    "pick": "The Moon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-166",
+    "pick": "Wave",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-167",
+    "pick": "River",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-168",
+    "pick": "In a sea or ocean",
+    "confidence": "medium",
+    "problem": "Many rivers end in a lake or another river, not the sea; oversimplified."
+  },
+  {
+    "id": "easy-earth-169",
+    "pick": "Source",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-170",
+    "pick": "Mouth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-171",
+    "pick": "Lake",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-172",
+    "pick": "Fresh water",
+    "confidence": "high",
+    "problem": "Implies stream water is safe to drink; untreated stream water often is not."
+  },
+  {
+    "id": "easy-earth-173",
+    "pick": "Ice caps and glaciers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-174",
+    "pick": "Strait",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-175",
+    "pick": "Bay",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-176",
+    "pick": "Coast",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-177",
+    "pick": "Tiny sea animals",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-178",
+    "pick": "Great Barrier Reef",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-179",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-180",
+    "pick": "Trench",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-181",
+    "pick": "Blue whale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-182",
+    "pick": "Octopus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-183",
+    "pick": "Current",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-184",
+    "pick": "Compass",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-185",
+    "pick": "4",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-186",
+    "pick": "South",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-187",
+    "pick": "West",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-188",
+    "pick": "Map",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-189",
+    "pick": "Legend",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-190",
+    "pick": "Globe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-191",
+    "pick": "7",
+    "confidence": "medium",
+    "problem": "Continent count is convention-dependent; 5 (a listed choice) is taught in some countries."
+  },
+  {
+    "id": "easy-earth-192",
+    "pick": "Asia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-193",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-194",
+    "pick": "Antarctica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-195",
+    "pick": "Africa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-196",
+    "pick": "Africa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-197",
+    "pick": "South America",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-198",
+    "pick": "Europe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-199",
+    "pick": "Asia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-200",
+    "pick": "North America",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-201",
+    "pick": "Asia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-202",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-203",
+    "pick": "Antarctica",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-204",
+    "pick": "Africa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-205",
+    "pick": "South America",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-206",
+    "pick": "Russia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-207",
+    "pick": "France",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-208",
+    "pick": "Egypt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-209",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-210",
+    "pick": "Washington, D.C.",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-211",
+    "pick": "Paris",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-212",
+    "pick": "London",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-213",
+    "pick": "Tokyo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-214",
+    "pick": "Rome",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-215",
+    "pick": "Ottawa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-216",
+    "pick": "Canberra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-217",
+    "pick": "Cairo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-218",
+    "pick": "Equator",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-219",
+    "pick": "Hot",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-220",
+    "pick": "North Pole",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-221",
+    "pick": "South Pole",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-222",
+    "pick": "2",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-223",
+    "pick": "Mount Everest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-224",
+    "pick": "Himalayas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-225",
+    "pick": "Rocky Mountains",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-226",
+    "pick": "Alps",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-227",
+    "pick": "Andes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-228",
+    "pick": "Sahara",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-229",
+    "pick": "Nile",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-230",
+    "pick": "Seine",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-231",
+    "pick": "Thames",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-232",
+    "pick": "Amazon River",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-233",
+    "pick": "Niagara Falls",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-234",
+    "pick": "Waterfall",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-235",
+    "pick": "Pacific",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-236",
+    "pick": "Atlantic",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-237",
+    "pick": "North",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-238",
+    "pick": "North",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-239",
+    "pick": "Blue",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-240",
+    "pick": "Brown",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-241",
+    "pick": "Scale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-242",
+    "pick": "Compass rose",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-243",
+    "pick": "Glacier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-244",
+    "pick": "365",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-245",
+    "pick": "24",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-246",
+    "pick": "Leap year",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-247",
+    "pick": "Venus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-248",
+    "pick": "Pluto",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-249",
+    "pick": "Sun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-250",
+    "pick": "A constellation",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-251",
+    "pick": "North Star",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-252",
+    "pick": "Rock",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-253",
+    "pick": "Flat plains of old lava",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-254",
+    "pick": "No",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-255",
+    "pick": "No",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-256",
+    "pick": "Bigger",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-257",
+    "pick": "Noon",
+    "confidence": "medium",
+    "problem": "Noon is when the Sun is highest, but the hottest part of the day is usually mid-afternoon."
+  },
+  {
+    "id": "easy-earth-258",
+    "pick": "Sunrise",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-259",
+    "pick": "Launch",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-260",
+    "pick": "Satellite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-261",
+    "pick": "Rover",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-262",
+    "pick": "Its dust is rusty red",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-263",
+    "pick": "Our body blocks the light",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-264",
+    "pick": "Morning or evening",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-265",
+    "pick": "Compass",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-266",
+    "pick": "Fossil fuel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-267",
+    "pick": "Wind power",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-268",
+    "pick": "Solar power",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-269",
+    "pick": "Renewable",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-270",
+    "pick": "Recycling",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-271",
+    "pick": "Landfill",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-272",
+    "pick": "Ecosystem",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-273",
+    "pick": "Chlorophyll",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-274",
+    "pick": "Sunlight",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-275",
+    "pick": "Water and nutrients",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-276",
+    "pick": "Grassland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-277",
+    "pick": "Tundra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-278",
+    "pick": "Wetland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-279",
+    "pick": "Oasis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-280",
+    "pick": "Delta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-281",
+    "pick": "Mesa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-282",
+    "pick": "Pond",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-283",
+    "pick": "Creek",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-284",
+    "pick": "Ice cap",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-285",
+    "pick": "Hot spring",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-286",
+    "pick": "Gravity",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-287",
+    "pick": "Freezing",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-288",
+    "pick": "Six-sided",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-289",
+    "pick": "Daytime",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-290",
+    "pick": "Summer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-291",
+    "pick": "Winter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-292",
+    "pick": "Winter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-293",
+    "pick": "Dry season",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-294",
+    "pick": "Border",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-295",
+    "pick": "Archipelago",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-296",
+    "pick": "Alaska",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-297",
+    "pick": "Hawaii",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-298",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-299",
+    "pick": "Asia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-300",
+    "pick": "Australia",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-301",
+    "pick": "Southern Ocean",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-302",
+    "pick": "Venus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-303",
+    "pick": "Neptune",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-304",
+    "pick": "Saturn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-305",
+    "pick": "About a month",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-306",
+    "pick": "Thunderstorm",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-307",
+    "pick": "Sandstorm",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-308",
+    "pick": "Snowfall",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-309",
+    "pick": "Heat wave",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-310",
+    "pick": "West",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-311",
+    "pick": "Water as a hot gas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-312",
+    "pick": "Frozen water",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-313",
+    "pick": "Rock",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-314",
+    "pick": "Graphite",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-earth-315",
+    "pick": "Marble",
+    "confidence": "high",
+    "problem": null
+  }
+]

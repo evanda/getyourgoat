@@ -278,10 +278,10 @@
   "choices": [
    "\"Come and find me!\"",
    "\"I am so hungry!\"",
-   "\"Catch me if you can!\"",
+   "\"You can't catch me!\"",
    "\"Hello, friends!\""
   ],
-  "answer": "\"Catch me if you can!\"",
+  "answer": "\"You can't catch me!\"",
   "difficulty": "medium",
   "topic": "gingerbread-run"
  },
@@ -2367,7 +2367,7 @@
  },
  {
   "id": "easy-lit-183",
-  "prompt": "What is Pinocchio's conscience, a small insect?",
+  "prompt": "In Disney's Pinocchio, who acts as Pinocchio's conscience?",
   "choices": [
    "A spider",
    "Jiminy Cricket",
@@ -3459,7 +3459,7 @@
  },
  {
   "id": "easy-lit-267",
-  "prompt": "Who does the Russian witch Baba Yaga fly in?",
+  "prompt": "What does the Russian witch Baba Yaga fly in?",
   "choices": [
    "A broom",
    "A mortar",

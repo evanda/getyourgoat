@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "easy-lit-001",
+    "pick": "The big bad wolf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-002",
+    "pick": "Three",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-003",
+    "pick": "Straw",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-004",
+    "pick": "The brick house",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-005",
+    "pick": "Porridge",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-006",
+    "pick": "Three",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-007",
+    "pick": "Baby Bear's chair",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-008",
+    "pick": "Little Red Riding Hood",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-009",
+    "pick": "Food for her grandmother",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-010",
+    "pick": "Cinderella",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-011",
+    "pick": "A pumpkin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-012",
+    "pick": "Her fairy godmother",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-013",
+    "pick": "It ends",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-014",
+    "pick": "Snow White",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-015",
+    "pick": "An apple",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-016",
+    "pick": "Rapunzel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-017",
+    "pick": "Sleeping Beauty",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-018",
+    "pick": "A giant beanstalk",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-019",
+    "pick": "Magic beans",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-020",
+    "pick": "A goose",
+    "confidence": "medium",
+    "problem": "Version-dependent: in Joseph Jacobs' classic English version it is a hen that lays golden eggs, and 'A hen' is a choice."
+  },
+  {
+    "id": "easy-lit-021",
+    "pick": "A giant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-022",
+    "pick": "\"Catch me if you can!\"",
+    "confidence": "medium",
+    "problem": "His actual refrain is 'You can't catch me, I'm the Gingerbread Man!'; the quoted line is a paraphrase."
+  },
+  {
+    "id": "easy-lit-023",
+    "pick": "A fox",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-024",
+    "pick": "A swan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-025",
+    "pick": "Hans Christian Andersen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-026",
+    "pick": "Thumbelina",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-027",
+    "pick": "A frog",
+    "confidence": "medium",
+    "problem": "Wording: the frog receives the kiss, it doesn't give one; and in the Grimm original there is no kiss (she throws him against the wall)."
+  },
+  {
+    "id": "easy-lit-028",
+    "pick": "A golden ball",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-029",
+    "pick": "A pea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-030",
+    "pick": "Hansel and Gretel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-031",
+    "pick": "Candy and gingerbread",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-032",
+    "pick": "Rumpelstiltskin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-033",
+    "pick": "Two tricksters",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-034",
+    "pick": "A child",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-035",
+    "pick": "Legs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-036",
+    "pick": "Hans Christian Andersen",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-037",
+    "pick": "A tin soldier",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-038",
+    "pick": "Kai",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-039",
+    "pick": "Horses",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-040",
+    "pick": "Boots",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-041",
+    "pick": "Charles Perrault",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-042",
+    "pick": "The Brothers Grimm",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-043",
+    "pick": "A pipe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-044",
+    "pick": "Rats",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-045",
+    "pick": "A bridge",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-046",
+    "pick": "A troll",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-047",
+    "pick": "Bread",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-048",
+    "pick": "Her stepmother and stepsisters",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-049",
+    "pick": "A beast",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-050",
+    "pick": "A rose",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-051",
+    "pick": "Made shoes at night",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-052",
+    "pick": "Flies",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-053",
+    "pick": "A lamp",
+    "confidence": "high",
+    "problem": "In the Arabian Nights Aladdin also has a ring with a genie (given to him by the sorcerer), so 'A ring' is arguable."
+  },
+  {
+    "id": "easy-lit-054",
+    "pick": "Ali Baba",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-055",
+    "pick": "Forty",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-056",
+    "pick": "Sailed the seas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-057",
+    "pick": "Scheherazade",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-058",
+    "pick": "Toto",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-059",
+    "pick": "Yellow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-060",
+    "pick": "The Scarecrow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-061",
+    "pick": "A heart",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-062",
+    "pick": "Courage",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-063",
+    "pick": "A tornado",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-064",
+    "pick": "L. Frank Baum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-065",
+    "pick": "The Emerald City",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-066",
+    "pick": "Kansas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-067",
+    "pick": "The tortoise",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-068",
+    "pick": "He took a nap",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-069",
+    "pick": "The Boy Who Cried Wolf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-070",
+    "pick": "No one believes him",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-071",
+    "pick": "A little mouse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-072",
+    "pick": "Sour",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-073",
+    "pick": "Worked hard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-074",
+    "pick": "Played and sang",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-075",
+    "pick": "Pebbles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-076",
+    "pick": "Aesop",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-077",
+    "pick": "Greece",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-078",
+    "pick": "The city",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-079",
+    "pick": "His coat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-080",
+    "pick": "A wolf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-081",
+    "pick": "His reflection",
+    "confidence": "medium",
+    "problem": "The dog sees his reflection holding a (seemingly bigger) bone, so 'A bone' is arguable; the title also gives the answer away."
+  },
+  {
+    "id": "easy-lit-082",
+    "pick": "Nursery rhymes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-083",
+    "pick": "Humpty Dumpty",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-084",
+    "pick": "Jack and Jill",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-085",
+    "pick": "A tuffet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-086",
+    "pick": "A spider",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-087",
+    "pick": "Little Bo Peep",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-088",
+    "pick": "A little lamb",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-089",
+    "pick": "White as snow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-090",
+    "pick": "Three",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-091",
+    "pick": "The moon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-092",
+    "pick": "The dish",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-093",
+    "pick": "A candlestick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-094",
+    "pick": "A plum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-095",
+    "pick": "Polly",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-096",
+    "pick": "The old woman",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-097",
+    "pick": "Four and twenty",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-098",
+    "pick": "Bare",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-099",
+    "pick": "Old MacDonald",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-100",
+    "pick": "A little star",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-101",
+    "pick": "Picked peppers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-102",
+    "pick": "His horn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-103",
+    "pick": "Rain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-104",
+    "pick": "A pieman",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-105",
+    "pick": "Little Jack Horner",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-106",
+    "pick": "Tarts",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-107",
+    "pick": "Jack Sprat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-108",
+    "pick": "Three men",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-109",
+    "pick": "The water spout",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-110",
+    "pick": "London",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-111",
+    "pick": "Dr. Seuss",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-112",
+    "pick": "Red and white",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-113",
+    "pick": "The Grinch",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-114",
+    "pick": "Green",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-115",
+    "pick": "The Lorax",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-116",
+    "pick": "To share green eggs and ham",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-117",
+    "pick": "Horton the elephant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-118",
+    "pick": "The Cat in the Hat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-119",
+    "pick": "Whoville",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-120",
+    "pick": "Lots of guests",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-121",
+    "pick": "Theodor",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-122",
+    "pick": "Roald Dahl",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-123",
+    "pick": "Willy Wonka",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-124",
+    "pick": "Oompa-Loompas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-125",
+    "pick": "A golden ticket",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-126",
+    "pick": "A glass elevator",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-127",
+    "pick": "Using her mind to move things",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-128",
+    "pick": "Read books",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-129",
+    "pick": "A fox",
+    "confidence": "medium",
+    "problem": "Badger is also a main character in Fantastic Mr Fox, so 'A badger' is defensibly correct too; also the title has no 'The'."
+  },
+  {
+    "id": "easy-lit-130",
+    "pick": "A giant peach",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-131",
+    "pick": "The BFG",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-132",
+    "pick": "Big Friendly Giant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-133",
+    "pick": "Dreams",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-134",
+    "pick": "Beatrix Potter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-135",
+    "pick": "A blue jacket",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-136",
+    "pick": "Vegetables",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-137",
+    "pick": "Flopsy, Mopsy and Cottontail",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-138",
+    "pick": "Mrs. Tiggy-Winkle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-139",
+    "pick": "Jemima Puddle-Duck",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-140",
+    "pick": "A squirrel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-141",
+    "pick": "A. A. Milne",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-142",
+    "pick": "Honey",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-143",
+    "pick": "Piglet",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-144",
+    "pick": "Eeyore",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-145",
+    "pick": "Tigger",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-146",
+    "pick": "Roo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-147",
+    "pick": "Christopher Robin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-148",
+    "pick": "The Hundred Acre Wood",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-149",
+    "pick": "E. B. White",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-150",
+    "pick": "A spider",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-151",
+    "pick": "A pig",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-152",
+    "pick": "Words",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-153",
+    "pick": "Fern",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-154",
+    "pick": "A mouse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-155",
+    "pick": "C. S. Lewis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-156",
+    "pick": "A wardrobe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-157",
+    "pick": "Aslan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-158",
+    "pick": "Lucy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-159",
+    "pick": "Christmas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-160",
+    "pick": "Lewis Carroll",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-161",
+    "pick": "A white rabbit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-162",
+    "pick": "The Cheshire Cat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-163",
+    "pick": "The Mad Hatter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-164",
+    "pick": "The Queen of Hearts",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-165",
+    "pick": "Soldiers and gardeners",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-166",
+    "pick": "A potion from a bottle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-167",
+    "pick": "Through the Looking-Glass",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-168",
+    "pick": "Astrid Lindgren",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-169",
+    "pick": "She can lift a horse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-170",
+    "pick": "Mr. Nilsson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-171",
+    "pick": "Astrid Lindgren",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-172",
+    "pick": "Sweden",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-173",
+    "pick": "Peter Pan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-174",
+    "pick": "J. M. Barrie",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-175",
+    "pick": "Tinker Bell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-176",
+    "pick": "Neverland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-177",
+    "pick": "Captain Hook",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-178",
+    "pick": "A crocodile with a clock",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-179",
+    "pick": "Wendy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-180",
+    "pick": "A nursemaid dog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-181",
+    "pick": "Pinocchio",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-182",
+    "pick": "Wood",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-183",
+    "pick": "Jiminy Cricket",
+    "confidence": "medium",
+    "problem": "Version-dependent: 'Jiminy Cricket' is Disney's name; in Collodi's original he is the unnamed Talking Cricket. Prompt wording is also awkward."
+  },
+  {
+    "id": "easy-lit-184",
+    "pick": "Rudyard Kipling",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-185",
+    "pick": "Mowgli",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-186",
+    "pick": "Baloo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-187",
+    "pick": "A black panther",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-188",
+    "pick": "A tiger",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-189",
+    "pick": "Rudyard Kipling",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-190",
+    "pick": "Kenneth Grahame",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-191",
+    "pick": "Ratty",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-192",
+    "pick": "Mole",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-193",
+    "pick": "Mr. Toad",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-194",
+    "pick": "Eric Carle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-195",
+    "pick": "A butterfly",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-196",
+    "pick": "One apple",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-197",
+    "pick": "Maurice Sendak",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-198",
+    "pick": "Max",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-199",
+    "pick": "A wolf suit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-200",
+    "pick": "Paddington",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-201",
+    "pick": "A train station",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-202",
+    "pick": "Marmalade sandwiches",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-203",
+    "pick": "Michael Bond",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-204",
+    "pick": "Harry Potter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-205",
+    "pick": "Hogwarts",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-206",
+    "pick": "J. K. Rowling",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-207",
+    "pick": "Hedwig",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-208",
+    "pick": "Quidditch",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-209",
+    "pick": "Ron and Hermione",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-210",
+    "pick": "Anne Shirley",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-211",
+    "pick": "Red",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-212",
+    "pick": "Johanna Spyri",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-213",
+    "pick": "Her grandfather",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-214",
+    "pick": "Switzerland",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-215",
+    "pick": "Louisa May Alcott",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-216",
+    "pick": "Four",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-217",
+    "pick": "The Little Prince",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-218",
+    "pick": "A rose",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-219",
+    "pick": "Antoine de Saint-Exupery",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-220",
+    "pick": "Robert Louis Stevenson",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-221",
+    "pick": "Long John Silver",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-222",
+    "pick": "Pieces of eight",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-223",
+    "pick": "Mark Twain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-224",
+    "pick": "Painting a fence",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-225",
+    "pick": "Huckleberry Finn",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-226",
+    "pick": "The Mississippi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-227",
+    "pick": "Anna Sewell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-228",
+    "pick": "A horse",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-229",
+    "pick": "A pig",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-230",
+    "pick": "J. R. R. Tolkien",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-231",
+    "pick": "A hobbit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-232",
+    "pick": "A dragon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-233",
+    "pick": "Gandalf",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-234",
+    "pick": "Cressida Cowell",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-235",
+    "pick": "An elephant",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-236",
+    "pick": "Red",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-237",
+    "pick": "Geppetto",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-238",
+    "pick": "Corduroy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-239",
+    "pick": "Tarzan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-240",
+    "pick": "Zeus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-241",
+    "pick": "Poseidon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-242",
+    "pick": "Mount Olympus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-243",
+    "pick": "Hercules",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-244",
+    "pick": "Everything he touched",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-245",
+    "pick": "Pegasus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-246",
+    "pick": "Icarus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-247",
+    "pick": "A centaur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-248",
+    "pick": "A griffin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-249",
+    "pick": "Greek soldiers",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-250",
+    "pick": "The olive tree",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-251",
+    "pick": "Hermes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-252",
+    "pick": "Athena",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-253",
+    "pick": "Apollo",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-254",
+    "pick": "Perseus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-255",
+    "pick": "He sailed home from Troy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-256",
+    "pick": "Jason",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-257",
+    "pick": "A jar",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-258",
+    "pick": "Odin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-259",
+    "pick": "Thor",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-260",
+    "pick": "Mjolnir",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-261",
+    "pick": "Loki",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-262",
+    "pick": "Asgard",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-263",
+    "pick": "Goats",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-264",
+    "pick": "Eight",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-265",
+    "pick": "Anansi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-266",
+    "pick": "Brer Rabbit",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-267",
+    "pick": "A mortar",
+    "confidence": "high",
+    "problem": "Wording: 'Who does Baba Yaga fly in?' should be 'What does...'"
+  },
+  {
+    "id": "easy-lit-268",
+    "pick": "A stone in a pot",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-269",
+    "pick": "Robin Hood",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-270",
+    "pick": "Sherwood Forest",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-271",
+    "pick": "A bow and arrow",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-272",
+    "pick": "Little John",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-273",
+    "pick": "King Arthur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-274",
+    "pick": "Merlin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-275",
+    "pick": "A round table",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-276",
+    "pick": "Excalibur",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-277",
+    "pick": "Momotaro",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-278",
+    "pick": "An acorn",
+    "confidence": "medium",
+    "problem": "Version-dependent: most tellings use an acorn, but some versions have a leaf (also a choice)."
+  },
+  {
+    "id": "easy-lit-279",
+    "pick": "A faun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-280",
+    "pick": "Turkish delight",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-281",
+    "pick": "Carlo Collodi",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-282",
+    "pick": "An author",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-283",
+    "pick": "An illustrator",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-284",
+    "pick": "Fiction",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-285",
+    "pick": "A limerick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-286",
+    "pick": "An autobiography",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-287",
+    "pick": "Fables",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-288",
+    "pick": "A library",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-289",
+    "pick": "Once upon a time",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-290",
+    "pick": "Happily ever after",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-291",
+    "pick": "A rat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-292",
+    "pick": "Chicken legs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-293",
+    "pick": "Baby Bear's",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-294",
+    "pick": "A woodcutter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-295",
+    "pick": "Seven",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-296",
+    "pick": "Who is the fairest?",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-297",
+    "pick": "A frog",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-298",
+    "pick": "A tall tower",
+    "confidence": "high",
+    "problem": "Prompt answers itself: only one choice is a tower ('A tall tower'), so the question tests nothing."
+  },
+  {
+    "id": "easy-lit-299",
+    "pick": "A spindle",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-300",
+    "pick": "Three",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-301",
+    "pick": "A glass slipper",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-302",
+    "pick": "Ran away",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-303",
+    "pick": "Pebbles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-304",
+    "pick": "An old woman",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-305",
+    "pick": "A beautiful swan",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-306",
+    "pick": "Little clothes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-307",
+    "pick": "A crook",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-308",
+    "pick": "A nightingale",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-309",
+    "pick": "Poppies",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-310",
+    "pick": "His jacket and shoes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-311",
+    "pick": "Mittens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-312",
+    "pick": "A hole",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-313",
+    "pick": "Some Pig",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-314",
+    "pick": "Cocoa beans",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-lit-315",
+    "pick": "Five",
+    "confidence": "high",
+    "problem": null
+  }
+]

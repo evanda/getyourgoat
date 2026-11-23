@@ -1,0 +1,4097 @@
+[
+ {
+  "id": "easy-hist-001",
+  "prompt": "The big stone tombs in Egypt with pointy tops are called what?",
+  "choices": [
+   "Igloos",
+   "Pyramids",
+   "Pagodas",
+   "Domes"
+  ],
+  "answer": "Pyramids",
+  "difficulty": "easy",
+  "topic": "egypt-pyramids"
+ },
+ {
+  "id": "easy-hist-002",
+  "prompt": "Which river was the heart of ancient Egypt?",
+  "choices": [
+   "The Amazon",
+   "The Thames",
+   "The Nile",
+   "The Rhine"
+  ],
+  "answer": "The Nile",
+  "difficulty": "easy",
+  "topic": "egypt-nile"
+ },
+ {
+  "id": "easy-hist-003",
+  "prompt": "What did ancient Egyptians call their kings?",
+  "choices": [
+   "Sultans",
+   "Emperors",
+   "Chiefs",
+   "Pharaohs"
+  ],
+  "answer": "Pharaohs",
+  "difficulty": "easy",
+  "topic": "egypt-pharaoh-title"
+ },
+ {
+  "id": "easy-hist-004",
+  "prompt": "Which boy king has a famous golden mask?",
+  "choices": [
+   "Tutankhamun",
+   "Julius Caesar",
+   "Alexander",
+   "Leif Erikson"
+  ],
+  "answer": "Tutankhamun",
+  "difficulty": "easy",
+  "topic": "egypt-tut-mask"
+ },
+ {
+  "id": "easy-hist-005",
+  "prompt": "Which statue in Egypt has a lion's body and a human head?",
+  "choices": [
+   "The Colossus",
+   "The Sphinx",
+   "The Minotaur",
+   "The Griffin"
+  ],
+  "answer": "The Sphinx",
+  "difficulty": "easy",
+  "topic": "egypt-sphinx"
+ },
+ {
+  "id": "easy-hist-006",
+  "prompt": "What do we call bodies wrapped in cloth long ago in Egypt?",
+  "choices": [
+   "Statues",
+   "Scrolls",
+   "Mummies",
+   "Puppets"
+  ],
+  "answer": "Mummies",
+  "difficulty": "easy",
+  "topic": "egypt-mummies"
+ },
+ {
+  "id": "easy-hist-007",
+  "prompt": "What kind of picture writing did ancient Egyptians use?",
+  "choices": [
+   "Emojis",
+   "Braille",
+   "Morse code",
+   "Hieroglyphs"
+  ],
+  "answer": "Hieroglyphs",
+  "difficulty": "easy",
+  "topic": "egypt-hieroglyphs"
+ },
+ {
+  "id": "easy-hist-008",
+  "prompt": "What plant did Egyptians use to make paper?",
+  "choices": [
+   "Papyrus",
+   "Cotton",
+   "Bamboo",
+   "Clover"
+  ],
+  "answer": "Papyrus",
+  "difficulty": "medium",
+  "topic": "egypt-papyrus"
+ },
+ {
+  "id": "easy-hist-009",
+  "prompt": "Which animal did ancient Egyptians treat as holy?",
+  "choices": [
+   "Kangaroos",
+   "Cats",
+   "Penguins",
+   "Wolves"
+  ],
+  "answer": "Cats",
+  "difficulty": "easy",
+  "topic": "egypt-cats"
+ },
+ {
+  "id": "easy-hist-010",
+  "prompt": "Which queen of Egypt lived about 2,000 years ago?",
+  "choices": [
+   "Queen Victoria",
+   "Marie Curie",
+   "Cleopatra",
+   "Cinderella"
+  ],
+  "answer": "Cleopatra",
+  "difficulty": "easy",
+  "topic": "egypt-cleopatra"
+ },
+ {
+  "id": "easy-hist-011",
+  "prompt": "In which country is the Great Pyramid of Giza?",
+  "choices": [
+   "Italy",
+   "Greece",
+   "India",
+   "Egypt"
+  ],
+  "answer": "Egypt",
+  "difficulty": "easy",
+  "topic": "egypt-giza-country"
+ },
+ {
+  "id": "easy-hist-012",
+  "prompt": "Who were the pyramids built to hold?",
+  "choices": [
+   "Pharaohs",
+   "Farmers",
+   "Sailors",
+   "Bakers"
+  ],
+  "answer": "Pharaohs",
+  "difficulty": "easy",
+  "topic": "egypt-pyramid-purpose"
+ },
+ {
+  "id": "easy-hist-013",
+  "prompt": "Which big desert is next to ancient Egypt?",
+  "choices": [
+   "Gobi",
+   "Sahara",
+   "Mojave",
+   "Kalahari"
+  ],
+  "answer": "Sahara",
+  "difficulty": "easy",
+  "topic": "egypt-desert"
+ },
+ {
+  "id": "easy-hist-014",
+  "prompt": "Which Egyptian god had the head of a jackal?",
+  "choices": [
+   "Ra",
+   "Zeus",
+   "Anubis",
+   "Thor"
+  ],
+  "answer": "Anubis",
+  "difficulty": "hard",
+  "topic": "egypt-anubis"
+ },
+ {
+  "id": "easy-hist-015",
+  "prompt": "Which Egyptian god was the god of the sun?",
+  "choices": [
+   "Anubis",
+   "Odin",
+   "Apollo",
+   "Ra"
+  ],
+  "answer": "Ra",
+  "difficulty": "medium",
+  "topic": "egypt-ra"
+ },
+ {
+  "id": "easy-hist-016",
+  "prompt": "Who found Tutankhamun's tomb in 1922?",
+  "choices": [
+   "Howard Carter",
+   "Neil Armstrong",
+   "Charles Darwin",
+   "Isaac Newton"
+  ],
+  "answer": "Howard Carter",
+  "difficulty": "hard",
+  "topic": "egypt-howard-carter"
+ },
+ {
+  "id": "easy-hist-017",
+  "prompt": "The Rosetta Stone helped people learn to read what?",
+  "choices": [
+   "Viking runes",
+   "Hieroglyphs",
+   "Roman numbers",
+   "Morse code"
+  ],
+  "answer": "Hieroglyphs",
+  "difficulty": "hard",
+  "topic": "egypt-rosetta"
+ },
+ {
+  "id": "easy-hist-018",
+  "prompt": "What were many Egyptian houses built from?",
+  "choices": [
+   "Glass",
+   "Ice",
+   "Mud bricks",
+   "Plastic"
+  ],
+  "answer": "Mud bricks",
+  "difficulty": "medium",
+  "topic": "egypt-mudbrick"
+ },
+ {
+  "id": "easy-hist-019",
+  "prompt": "Why could Egyptians farm near the Nile?",
+  "choices": [
+   "It was always snowy",
+   "Dinosaurs plowed",
+   "Rain fell daily",
+   "Floods left rich soil"
+  ],
+  "answer": "Floods left rich soil",
+  "difficulty": "medium",
+  "topic": "egypt-nile-soil"
+ },
+ {
+  "id": "easy-hist-020",
+  "prompt": "Which pharaoh built the Great Pyramid?",
+  "choices": [
+   "Khufu",
+   "Tutankhamun",
+   "Cleopatra",
+   "Napoleon"
+  ],
+  "answer": "Khufu",
+  "difficulty": "medium",
+  "topic": "egypt-khufu"
+ },
+ {
+  "id": "easy-hist-021",
+  "prompt": "What is a stone coffin from ancient Egypt called?",
+  "choices": [
+   "Sandcastle",
+   "Sarcophagus",
+   "Satellite",
+   "Sandal"
+  ],
+  "answer": "Sarcophagus",
+  "difficulty": "medium",
+  "topic": "egypt-sarcophagus"
+ },
+ {
+  "id": "easy-hist-022",
+  "prompt": "About how old is the Great Pyramid?",
+  "choices": [
+   "450 years",
+   "45 years",
+   "4,500 years",
+   "45,000 years"
+  ],
+  "answer": "4,500 years",
+  "difficulty": "medium",
+  "topic": "egypt-pyramid-age"
+ },
+ {
+  "id": "easy-hist-023",
+  "prompt": "Which beetle was a sacred symbol in Egypt?",
+  "choices": [
+   "Ladybug",
+   "Firefly",
+   "Dragonfly",
+   "Scarab"
+  ],
+  "answer": "Scarab",
+  "difficulty": "medium",
+  "topic": "egypt-scarab"
+ },
+ {
+  "id": "easy-hist-024",
+  "prompt": "Which plant fibers did Egyptians weave into linen cloth?",
+  "choices": [
+   "Flax",
+   "Pine",
+   "Cabbage",
+   "Cactus"
+  ],
+  "answer": "Flax",
+  "difficulty": "hard",
+  "topic": "egypt-linen"
+ },
+ {
+  "id": "easy-hist-025",
+  "prompt": "Where did the first Olympic Games take place?",
+  "choices": [
+   "Italy",
+   "Greece",
+   "Egypt",
+   "China"
+  ],
+  "answer": "Greece",
+  "difficulty": "easy",
+  "topic": "greece-olympics"
+ },
+ {
+  "id": "easy-hist-026",
+  "prompt": "Which Greek city is famous for the Parthenon?",
+  "choices": [
+   "Rome",
+   "Cairo",
+   "Athens",
+   "Paris"
+  ],
+  "answer": "Athens",
+  "difficulty": "easy",
+  "topic": "greece-parthenon"
+ },
+ {
+  "id": "easy-hist-027",
+  "prompt": "In the old story, what was the Trojan Horse made of?",
+  "choices": [
+   "Gold",
+   "Stone",
+   "Straw",
+   "Wood"
+  ],
+  "answer": "Wood",
+  "difficulty": "easy",
+  "topic": "greece-trojan-horse"
+ },
+ {
+  "id": "easy-hist-028",
+  "prompt": "On which mountain did the Greek gods live?",
+  "choices": [
+   "Mount Olympus",
+   "Mount Everest",
+   "Mount Fuji",
+   "Mount Rushmore"
+  ],
+  "answer": "Mount Olympus",
+  "difficulty": "easy",
+  "topic": "greece-olympus"
+ },
+ {
+  "id": "easy-hist-029",
+  "prompt": "Who was king of the Greek gods?",
+  "choices": [
+   "Apollo",
+   "Zeus",
+   "Hermes",
+   "Cupid"
+  ],
+  "answer": "Zeus",
+  "difficulty": "easy",
+  "topic": "greece-zeus"
+ },
+ {
+  "id": "easy-hist-030",
+  "prompt": "Who was the Greek god of the sea?",
+  "choices": [
+   "Zeus",
+   "Hades",
+   "Poseidon",
+   "Apollo"
+  ],
+  "answer": "Poseidon",
+  "difficulty": "easy",
+  "topic": "greece-poseidon"
+ },
+ {
+  "id": "easy-hist-031",
+  "prompt": "Ancient Athens gave the world the idea of what?",
+  "choices": [
+   "Feudalism",
+   "Pharaohs",
+   "Samurai",
+   "Democracy"
+  ],
+  "answer": "Democracy",
+  "difficulty": "medium",
+  "topic": "greece-democracy"
+ },
+ {
+  "id": "easy-hist-032",
+  "prompt": "What did winners of the ancient Olympics get?",
+  "choices": [
+   "Olive leaf crown",
+   "Gold medal",
+   "Silver trophy",
+   "Bag of coins"
+  ],
+  "answer": "Olive leaf crown",
+  "difficulty": "medium",
+  "topic": "greece-olive-wreath"
+ },
+ {
+  "id": "easy-hist-033",
+  "prompt": "Who is said to have told fables like The Tortoise and the Hare?",
+  "choices": [
+   "Plato",
+   "Aesop",
+   "Zeus",
+   "Hercules"
+  ],
+  "answer": "Aesop",
+  "difficulty": "easy",
+  "topic": "greece-aesop"
+ },
+ {
+  "id": "easy-hist-034",
+  "prompt": "Which Greek poet wrote the Iliad and the Odyssey?",
+  "choices": [
+   "Aesop",
+   "Socrates",
+   "Homer",
+   "Archimedes"
+  ],
+  "answer": "Homer",
+  "difficulty": "easy",
+  "topic": "greece-homer"
+ },
+ {
+  "id": "easy-hist-035",
+  "prompt": "Which Greek city was famous for its tough training?",
+  "choices": [
+   "Athens",
+   "Corinth",
+   "Troy",
+   "Sparta"
+  ],
+  "answer": "Sparta",
+  "difficulty": "medium",
+  "topic": "greece-sparta"
+ },
+ {
+  "id": "easy-hist-036",
+  "prompt": "Greeks built tall stone what to hold up their temples?",
+  "choices": [
+   "Columns",
+   "Slides",
+   "Tents",
+   "Ladders"
+  ],
+  "answer": "Columns",
+  "difficulty": "easy",
+  "topic": "greece-columns"
+ },
+ {
+  "id": "easy-hist-037",
+  "prompt": "Which two letters begin the Greek alphabet?",
+  "choices": [
+   "Apple and banana",
+   "Alpha and beta",
+   "Ace and king",
+   "Ant and bee"
+  ],
+  "answer": "Alpha and beta",
+  "difficulty": "medium",
+  "topic": "greece-alphabet"
+ },
+ {
+  "id": "easy-hist-038",
+  "prompt": "Which hero of Greek myths did twelve labors?",
+  "choices": [
+   "Robin Hood",
+   "King Arthur",
+   "Hercules",
+   "Aladdin"
+  ],
+  "answer": "Hercules",
+  "difficulty": "easy",
+  "topic": "greece-hercules"
+ },
+ {
+  "id": "easy-hist-039",
+  "prompt": "Which Greek monster had snakes for hair?",
+  "choices": [
+   "Pegasus",
+   "Cyclops",
+   "Centaur",
+   "Medusa"
+  ],
+  "answer": "Medusa",
+  "difficulty": "easy",
+  "topic": "greece-medusa"
+ },
+ {
+  "id": "easy-hist-040",
+  "prompt": "Which winged horse is from Greek myths?",
+  "choices": [
+   "Pegasus",
+   "Medusa",
+   "Unicorn",
+   "Dragon"
+  ],
+  "answer": "Pegasus",
+  "difficulty": "easy",
+  "topic": "greece-pegasus"
+ },
+ {
+  "id": "easy-hist-041",
+  "prompt": "Which Greek giant had only one eye?",
+  "choices": [
+   "Minotaur",
+   "Cyclops",
+   "Centaur",
+   "Griffin"
+  ],
+  "answer": "Cyclops",
+  "difficulty": "easy",
+  "topic": "greece-cyclops"
+ },
+ {
+  "id": "easy-hist-042",
+  "prompt": "Who was the Greek goddess of wisdom?",
+  "choices": [
+   "Hera",
+   "Aphrodite",
+   "Athena",
+   "Artemis"
+  ],
+  "answer": "Athena",
+  "difficulty": "medium",
+  "topic": "greece-athena"
+ },
+ {
+  "id": "easy-hist-043",
+  "prompt": "What did Greeks go to a theater to see?",
+  "choices": [
+   "Movies",
+   "Cartoons",
+   "Races on TV",
+   "Plays"
+  ],
+  "answer": "Plays",
+  "difficulty": "easy",
+  "topic": "greece-theater"
+ },
+ {
+  "id": "easy-hist-044",
+  "prompt": "The marathon race is named after a place in which country?",
+  "choices": [
+   "Greece",
+   "Spain",
+   "Egypt",
+   "Mexico"
+  ],
+  "answer": "Greece",
+  "difficulty": "medium",
+  "topic": "greece-marathon"
+ },
+ {
+  "id": "easy-hist-045",
+  "prompt": "Which Greek thinker is said to have shouted Eureka in his bath?",
+  "choices": [
+   "Homer",
+   "Archimedes",
+   "Aesop",
+   "Zeus"
+  ],
+  "answer": "Archimedes",
+  "difficulty": "hard",
+  "topic": "greece-archimedes"
+ },
+ {
+  "id": "easy-hist-046",
+  "prompt": "Pythagoras was a Greek who studied math with what shapes?",
+  "choices": [
+   "Cooking pots",
+   "Paintings",
+   "Triangles",
+   "Boats"
+  ],
+  "answer": "Triangles",
+  "difficulty": "hard",
+  "topic": "greece-pythagoras"
+ },
+ {
+  "id": "easy-hist-047",
+  "prompt": "How often were the ancient Olympics held?",
+  "choices": [
+   "Every day",
+   "Every week",
+   "Every ten years",
+   "Every four years"
+  ],
+  "answer": "Every four years",
+  "difficulty": "medium",
+  "topic": "greece-olympics-years"
+ },
+ {
+  "id": "easy-hist-048",
+  "prompt": "The Parthenon sits on a hill called what?",
+  "choices": [
+   "Acropolis",
+   "Colosseum",
+   "Pantheon",
+   "Forum"
+  ],
+  "answer": "Acropolis",
+  "difficulty": "medium",
+  "topic": "greece-acropolis"
+ },
+ {
+  "id": "easy-hist-049",
+  "prompt": "What was the name of Rome's giant stadium?",
+  "choices": [
+   "Parthenon",
+   "Colosseum",
+   "Eiffel Tower",
+   "Big Ben"
+  ],
+  "answer": "Colosseum",
+  "difficulty": "easy",
+  "topic": "rome-colosseum"
+ },
+ {
+  "id": "easy-hist-050",
+  "prompt": "What language did ancient Romans speak?",
+  "choices": [
+   "Greek",
+   "French",
+   "Latin",
+   "English"
+  ],
+  "answer": "Latin",
+  "difficulty": "easy",
+  "topic": "rome-latin"
+ },
+ {
+  "id": "easy-hist-051",
+  "prompt": "In the legend, who started Rome and was raised by a wolf?",
+  "choices": [
+   "Peter and Paul",
+   "Tom and Jerry",
+   "Hansel and Gretel",
+   "Romulus and Remus"
+  ],
+  "answer": "Romulus and Remus",
+  "difficulty": "medium",
+  "topic": "rome-romulus"
+ },
+ {
+  "id": "easy-hist-052",
+  "prompt": "What number does the Roman numeral X mean?",
+  "choices": [
+   "10",
+   "5",
+   "50",
+   "100"
+  ],
+  "answer": "10",
+  "difficulty": "easy",
+  "topic": "rome-numeral-x"
+ },
+ {
+  "id": "easy-hist-053",
+  "prompt": "What number does the Roman numeral V mean?",
+  "choices": [
+   "10",
+   "5",
+   "50",
+   "1"
+  ],
+  "answer": "5",
+  "difficulty": "easy",
+  "topic": "rome-numeral-v"
+ },
+ {
+  "id": "easy-hist-054",
+  "prompt": "What number does the Roman numeral IX mean?",
+  "choices": [
+   "11",
+   "6",
+   "9",
+   "4"
+  ],
+  "answer": "9",
+  "difficulty": "medium",
+  "topic": "rome-numeral-ix"
+ },
+ {
+  "id": "easy-hist-055",
+  "prompt": "People said all roads lead to which city?",
+  "choices": [
+   "Paris",
+   "Athens",
+   "London",
+   "Rome"
+  ],
+  "answer": "Rome",
+  "difficulty": "easy",
+  "topic": "rome-roads"
+ },
+ {
+  "id": "easy-hist-056",
+  "prompt": "What were Romans' water-carrying stone bridges called?",
+  "choices": [
+   "Aqueducts",
+   "Drawbridges",
+   "Skyscrapers",
+   "Ski lifts"
+  ],
+  "answer": "Aqueducts",
+  "difficulty": "easy",
+  "topic": "rome-aqueducts"
+ },
+ {
+  "id": "easy-hist-057",
+  "prompt": "Which month is named after Julius Caesar?",
+  "choices": [
+   "March",
+   "July",
+   "June",
+   "May"
+  ],
+  "answer": "July",
+  "difficulty": "hard",
+  "topic": "rome-july"
+ },
+ {
+  "id": "easy-hist-058",
+  "prompt": "Who was the first Roman emperor?",
+  "choices": [
+   "Nero",
+   "Julius Caesar",
+   "Augustus",
+   "Romulus"
+  ],
+  "answer": "Augustus",
+  "difficulty": "medium",
+  "topic": "rome-augustus"
+ },
+ {
+  "id": "easy-hist-059",
+  "prompt": "What did ancient Romans build to wash and relax in?",
+  "choices": [
+   "Ski slopes",
+   "Theme parks",
+   "Airports",
+   "Public baths"
+  ],
+  "answer": "Public baths",
+  "difficulty": "easy",
+  "topic": "rome-baths"
+ },
+ {
+  "id": "easy-hist-060",
+  "prompt": "Which planet is named for the Roman king of the gods?",
+  "choices": [
+   "Jupiter",
+   "Mars",
+   "Venus",
+   "Mercury"
+  ],
+  "answer": "Jupiter",
+  "difficulty": "medium",
+  "topic": "rome-jupiter"
+ },
+ {
+  "id": "easy-hist-061",
+  "prompt": "What was the Roman robe called?",
+  "choices": [
+   "Kimono",
+   "Toga",
+   "Poncho",
+   "Kilt"
+  ],
+  "answer": "Toga",
+  "difficulty": "easy",
+  "topic": "rome-toga"
+ },
+ {
+  "id": "easy-hist-062",
+  "prompt": "What did Roman builders mix to make strong buildings?",
+  "choices": [
+   "Plastic",
+   "Paper",
+   "Concrete",
+   "Ice"
+  ],
+  "answer": "Concrete",
+  "difficulty": "medium",
+  "topic": "rome-concrete"
+ },
+ {
+  "id": "easy-hist-063",
+  "prompt": "Roman children wrote on tablets covered in what?",
+  "choices": [
+   "Glue",
+   "Butter",
+   "Jam",
+   "Wax"
+  ],
+  "answer": "Wax",
+  "difficulty": "medium",
+  "topic": "rome-wax-tablets"
+ },
+ {
+  "id": "easy-hist-064",
+  "prompt": "Romans built a long wall across northern what?",
+  "choices": [
+   "Britain",
+   "Brazil",
+   "Canada",
+   "Japan"
+  ],
+  "answer": "Britain",
+  "difficulty": "hard",
+  "topic": "rome-hadrians-wall"
+ },
+ {
+  "id": "easy-hist-065",
+  "prompt": "Roman artists made pictures from tiny tiles called what?",
+  "choices": [
+   "Balloons",
+   "Mosaics",
+   "Puppets",
+   "Mittens"
+  ],
+  "answer": "Mosaics",
+  "difficulty": "medium",
+  "topic": "rome-mosaic"
+ },
+ {
+  "id": "easy-hist-066",
+  "prompt": "In which country is the city of Rome?",
+  "choices": [
+   "Spain",
+   "France",
+   "Italy",
+   "Greece"
+  ],
+  "answer": "Italy",
+  "difficulty": "easy",
+  "topic": "rome-italy"
+ },
+ {
+  "id": "easy-hist-067",
+  "prompt": "In which country is the Great Wall found?",
+  "choices": [
+   "Peru",
+   "Egypt",
+   "Norway",
+   "China"
+  ],
+  "answer": "China",
+  "difficulty": "easy",
+  "topic": "china-wall-country"
+ },
+ {
+  "id": "easy-hist-068",
+  "prompt": "What is the Great Wall of China mostly made from?",
+  "choices": [
+   "Stone and brick",
+   "Glass",
+   "Plastic",
+   "Ice"
+  ],
+  "answer": "Stone and brick",
+  "difficulty": "medium",
+  "topic": "china-wall-material"
+ },
+ {
+  "id": "easy-hist-069",
+  "prompt": "Which country first made paper?",
+  "choices": [
+   "France",
+   "China",
+   "Brazil",
+   "Canada"
+  ],
+  "answer": "China",
+  "difficulty": "medium",
+  "topic": "china-paper"
+ },
+ {
+  "id": "easy-hist-070",
+  "prompt": "Long ago, people in China made the first what?",
+  "choices": [
+   "Bicycles",
+   "Telephones",
+   "Fireworks",
+   "Skateboards"
+  ],
+  "answer": "Fireworks",
+  "difficulty": "medium",
+  "topic": "china-fireworks"
+ },
+ {
+  "id": "easy-hist-071",
+  "prompt": "Silk cloth is made from what made by silkworms?",
+  "choices": [
+   "Bubbles",
+   "Feathers",
+   "Seeds",
+   "Cocoons"
+  ],
+  "answer": "Cocoons",
+  "difficulty": "easy",
+  "topic": "china-silk"
+ },
+ {
+  "id": "easy-hist-072",
+  "prompt": "The Silk Road was a long trade path between China and where?",
+  "choices": [
+   "Europe",
+   "The Moon",
+   "Antarctica",
+   "Hawaii"
+  ],
+  "answer": "Europe",
+  "difficulty": "easy",
+  "topic": "china-silk-road"
+ },
+ {
+  "id": "easy-hist-073",
+  "prompt": "Which animal starts the Chinese zodiac?",
+  "choices": [
+   "Dragon",
+   "Rat",
+   "Tiger",
+   "Ox"
+  ],
+  "answer": "Rat",
+  "difficulty": "medium",
+  "topic": "china-zodiac-rat"
+ },
+ {
+  "id": "easy-hist-074",
+  "prompt": "The Terracotta Army has thousands of statues made of what?",
+  "choices": [
+   "Gold",
+   "Chocolate",
+   "Clay",
+   "Ice"
+  ],
+  "answer": "Clay",
+  "difficulty": "easy",
+  "topic": "china-terracotta"
+ },
+ {
+  "id": "easy-hist-075",
+  "prompt": "The old palace of China's emperors is the Forbidden what?",
+  "choices": [
+   "Garden",
+   "Island",
+   "Cave",
+   "City"
+  ],
+  "answer": "City",
+  "difficulty": "medium",
+  "topic": "china-forbidden-city"
+ },
+ {
+  "id": "easy-hist-076",
+  "prompt": "Which tool that points north was invented in China?",
+  "choices": [
+   "Compass",
+   "Telescope",
+   "Microscope",
+   "Thermometer"
+  ],
+  "answer": "Compass",
+  "difficulty": "medium",
+  "topic": "china-compass"
+ },
+ {
+  "id": "easy-hist-077",
+  "prompt": "Which drink first came from China?",
+  "choices": [
+   "Cola",
+   "Tea",
+   "Lemonade",
+   "Milkshake"
+  ],
+  "answer": "Tea",
+  "difficulty": "easy",
+  "topic": "china-tea"
+ },
+ {
+  "id": "easy-hist-078",
+  "prompt": "Which wise teacher from China is famous for his sayings?",
+  "choices": [
+   "Socrates",
+   "Homer",
+   "Confucius",
+   "Aesop"
+  ],
+  "answer": "Confucius",
+  "difficulty": "hard",
+  "topic": "china-confucius"
+ },
+ {
+  "id": "easy-hist-079",
+  "prompt": "The abacus is an old tool for doing what?",
+  "choices": [
+   "Cooking",
+   "Fishing",
+   "Digging",
+   "Counting"
+  ],
+  "answer": "Counting",
+  "difficulty": "medium",
+  "topic": "china-abacus"
+ },
+ {
+  "id": "easy-hist-080",
+  "prompt": "China's long history is told by ruling families called what?",
+  "choices": [
+   "Dynasties",
+   "Choirs",
+   "Teams",
+   "Bands"
+  ],
+  "answer": "Dynasties",
+  "difficulty": "medium",
+  "topic": "china-dynasties"
+ },
+ {
+  "id": "easy-hist-081",
+  "prompt": "Kites were first made long ago in which country?",
+  "choices": [
+   "Peru",
+   "China",
+   "Norway",
+   "Kenya"
+  ],
+  "answer": "China",
+  "difficulty": "easy",
+  "topic": "china-kites"
+ },
+ {
+  "id": "easy-hist-082",
+  "prompt": "Which ancient people wrote on clay tablets with wedge marks?",
+  "choices": [
+   "Vikings",
+   "Pirates",
+   "Sumerians",
+   "Cowboys"
+  ],
+  "answer": "Sumerians",
+  "difficulty": "medium",
+  "topic": "mesopot-sumerians"
+ },
+ {
+  "id": "easy-hist-083",
+  "prompt": "Long ago, people invented a round thing that helps carts roll. What is it?",
+  "choices": [
+   "The phone",
+   "The camera",
+   "The engine",
+   "The wheel"
+  ],
+  "answer": "The wheel",
+  "difficulty": "easy",
+  "topic": "ancient-wheel"
+ },
+ {
+  "id": "easy-hist-084",
+  "prompt": "What did early people learn to make for warmth and light?",
+  "choices": [
+   "Fire",
+   "Batteries",
+   "Plastic",
+   "Glass"
+  ],
+  "answer": "Fire",
+  "difficulty": "easy",
+  "topic": "prehistory-fire"
+ },
+ {
+  "id": "easy-hist-085",
+  "prompt": "The Maya built stone pyramids in Mexico and where else?",
+  "choices": [
+   "Siberia",
+   "Central America",
+   "Iceland",
+   "Australia"
+  ],
+  "answer": "Central America",
+  "difficulty": "medium",
+  "topic": "maya-region"
+ },
+ {
+  "id": "easy-hist-086",
+  "prompt": "Maya and Aztec people made a drink from the beans of which tree?",
+  "choices": [
+   "Apple tree",
+   "Pine tree",
+   "Cacao tree",
+   "Maple tree"
+  ],
+  "answer": "Cacao tree",
+  "difficulty": "medium",
+  "topic": "maya-cacao"
+ },
+ {
+  "id": "easy-hist-087",
+  "prompt": "Machu Picchu was built by the Inca in which country?",
+  "choices": [
+   "Chile",
+   "Egypt",
+   "Spain",
+   "Peru"
+  ],
+  "answer": "Peru",
+  "difficulty": "medium",
+  "topic": "inca-machu-picchu"
+ },
+ {
+  "id": "easy-hist-088",
+  "prompt": "The Inca used which animal to carry loads in the mountains?",
+  "choices": [
+   "Llamas",
+   "Elephants",
+   "Camels",
+   "Zebras"
+  ],
+  "answer": "Llamas",
+  "difficulty": "easy",
+  "topic": "inca-llama"
+ },
+ {
+  "id": "easy-hist-089",
+  "prompt": "The giant stone heads on Easter Island are called what?",
+  "choices": [
+   "Pyramids",
+   "Moai",
+   "Sphinxes",
+   "Totems"
+  ],
+  "answer": "Moai",
+  "difficulty": "hard",
+  "topic": "ancient-moai"
+ },
+ {
+  "id": "easy-hist-090",
+  "prompt": "Which ancient city was famous for its hanging gardens?",
+  "choices": [
+   "Athens",
+   "Rome",
+   "Babylon",
+   "Cairo"
+  ],
+  "answer": "Babylon",
+  "difficulty": "hard",
+  "topic": "ancient-babylon"
+ },
+ {
+  "id": "easy-hist-091",
+  "prompt": "Before metal, early people made tools from what?",
+  "choices": [
+   "Plastic",
+   "Rubber",
+   "Glass",
+   "Stone"
+  ],
+  "answer": "Stone",
+  "difficulty": "easy",
+  "topic": "prehistory-stone-tools"
+ },
+ {
+  "id": "easy-hist-092",
+  "prompt": "Bronze is made by mixing tin with what metal?",
+  "choices": [
+   "Copper",
+   "Gold",
+   "Iron",
+   "Lead"
+  ],
+  "answer": "Copper",
+  "difficulty": "medium",
+  "topic": "ancient-bronze"
+ },
+ {
+  "id": "easy-hist-093",
+  "prompt": "Early people painted animals on what?",
+  "choices": [
+   "Paper",
+   "Cave walls",
+   "Cars",
+   "Computers"
+  ],
+  "answer": "Cave walls",
+  "difficulty": "easy",
+  "topic": "prehistory-cave-paintings"
+ },
+ {
+  "id": "easy-hist-094",
+  "prompt": "Which big hairy animal lived in the Ice Age?",
+  "choices": [
+   "Blue whale",
+   "Giraffe",
+   "Woolly mammoth",
+   "Zebra"
+  ],
+  "answer": "Woolly mammoth",
+  "difficulty": "medium",
+  "topic": "prehistory-mammoth"
+ },
+ {
+  "id": "easy-hist-095",
+  "prompt": "Did dinosaurs live before or after the first people?",
+  "choices": [
+   "At the same time",
+   "Long after",
+   "Just after",
+   "Long before"
+  ],
+  "answer": "Long before",
+  "difficulty": "easy",
+  "topic": "prehistory-dino-before"
+ },
+ {
+  "id": "easy-hist-096",
+  "prompt": "What do we call bones that turned to stone over time?",
+  "choices": [
+   "Fossils",
+   "Pebbles",
+   "Jewels",
+   "Crystals"
+  ],
+  "answer": "Fossils",
+  "difficulty": "easy",
+  "topic": "prehistory-fossils"
+ },
+ {
+  "id": "easy-hist-097",
+  "prompt": "Which girl in England found dinosaur fossils by the sea?",
+  "choices": [
+   "Marie Curie",
+   "Mary Anning",
+   "Amelia Earhart",
+   "Rosa Parks"
+  ],
+  "answer": "Mary Anning",
+  "difficulty": "hard",
+  "topic": "prehistory-mary-anning"
+ },
+ {
+  "id": "easy-hist-098",
+  "prompt": "Early people hunted animals and what else?",
+  "choices": [
+   "Flew planes",
+   "Sold cars",
+   "Gathered plants",
+   "Wrote emails"
+  ],
+  "answer": "Gathered plants",
+  "difficulty": "medium",
+  "topic": "prehistory-hunter-gatherers"
+ },
+ {
+  "id": "easy-hist-099",
+  "prompt": "Where did the first humans live?",
+  "choices": [
+   "Europe",
+   "Antarctica",
+   "Australia",
+   "Africa"
+  ],
+  "answer": "Africa",
+  "difficulty": "hard",
+  "topic": "prehistory-africa"
+ },
+ {
+  "id": "easy-hist-100",
+  "prompt": "Which animal was probably the first tamed by people?",
+  "choices": [
+   "Dog",
+   "Cat",
+   "Horse",
+   "Parrot"
+  ],
+  "answer": "Dog",
+  "difficulty": "easy",
+  "topic": "prehistory-dog"
+ },
+ {
+  "id": "easy-hist-101",
+  "prompt": "The word dinosaur means terrible what?",
+  "choices": [
+   "Bird",
+   "Lizard",
+   "Whale",
+   "Frog"
+  ],
+  "answer": "Lizard",
+  "difficulty": "easy",
+  "topic": "dino-word"
+ },
+ {
+  "id": "easy-hist-102",
+  "prompt": "Which came first?",
+  "choices": [
+   "Pyramids",
+   "Castles",
+   "Dinosaurs",
+   "Cars"
+  ],
+  "answer": "Dinosaurs",
+  "difficulty": "easy",
+  "topic": "timeline-dino-first"
+ },
+ {
+  "id": "easy-hist-103",
+  "prompt": "Which of these is the oldest?",
+  "choices": [
+   "Skyscrapers",
+   "Castles",
+   "Airports",
+   "The pyramids"
+  ],
+  "answer": "The pyramids",
+  "difficulty": "easy",
+  "topic": "timeline-oldest"
+ },
+ {
+  "id": "easy-hist-104",
+  "prompt": "Thick sheets of ice once covered much of Earth in the what?",
+  "choices": [
+   "Ice Age",
+   "Sun Age",
+   "Rain Age",
+   "Wind Age"
+  ],
+  "answer": "Ice Age",
+  "difficulty": "easy",
+  "topic": "hist-ice-age"
+ },
+ {
+  "id": "easy-hist-105",
+  "prompt": "In 1492, Columbus sailed across which ocean?",
+  "choices": [
+   "Pacific Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Arctic Ocean"
+  ],
+  "answer": "Atlantic Ocean",
+  "difficulty": "easy",
+  "topic": "expl-columbus-ocean"
+ },
+ {
+  "id": "easy-hist-106",
+  "prompt": "In which year did Columbus sail across the Atlantic?",
+  "choices": [
+   "1392",
+   "1692",
+   "1492",
+   "1892"
+  ],
+  "answer": "1492",
+  "difficulty": "medium",
+  "topic": "expl-columbus-year"
+ },
+ {
+  "id": "easy-hist-107",
+  "prompt": "Columbus sailed with the Nina, the Pinta and the what?",
+  "choices": [
+   "Mayflower",
+   "Titanic",
+   "Golden Hind",
+   "Santa Maria"
+  ],
+  "answer": "Santa Maria",
+  "difficulty": "medium",
+  "topic": "expl-santa-maria"
+ },
+ {
+  "id": "easy-hist-108",
+  "prompt": "Columbus's trip was paid for by the king and queen of where?",
+  "choices": [
+   "Spain",
+   "France",
+   "Poland",
+   "Egypt"
+  ],
+  "answer": "Spain",
+  "difficulty": "medium",
+  "topic": "expl-columbus-spain"
+ },
+ {
+  "id": "easy-hist-109",
+  "prompt": "Whose ships first sailed all the way around the world?",
+  "choices": [
+   "Columbus's",
+   "Magellan's",
+   "Captain Cook's",
+   "Marco Polo's"
+  ],
+  "answer": "Magellan's",
+  "difficulty": "hard",
+  "topic": "expl-magellan"
+ },
+ {
+  "id": "easy-hist-110",
+  "prompt": "Which Italian traveler wrote about his long trip to China?",
+  "choices": [
+   "Leif Erikson",
+   "Neil Armstrong",
+   "Marco Polo",
+   "Captain Cook"
+  ],
+  "answer": "Marco Polo",
+  "difficulty": "easy",
+  "topic": "expl-marco-polo"
+ },
+ {
+  "id": "easy-hist-111",
+  "prompt": "Which British captain mapped coasts of Australia and New Zealand?",
+  "choices": [
+   "James Bond",
+   "James Madison",
+   "James Watt",
+   "James Cook"
+  ],
+  "answer": "James Cook",
+  "difficulty": "medium",
+  "topic": "expl-cook"
+ },
+ {
+  "id": "easy-hist-112",
+  "prompt": "Which young woman helped Lewis and Clark explore the West?",
+  "choices": [
+   "Sacagawea",
+   "Betsy Ross",
+   "Rosa Parks",
+   "Marie Curie"
+  ],
+  "answer": "Sacagawea",
+  "difficulty": "hard",
+  "topic": "expl-sacagawea"
+ },
+ {
+  "id": "easy-hist-113",
+  "prompt": "Edmund Hillary and Tenzing Norgay were first to climb what?",
+  "choices": [
+   "Mount Fuji",
+   "Mount Everest",
+   "Mount Olympus",
+   "Pikes Peak"
+  ],
+  "answer": "Mount Everest",
+  "difficulty": "easy",
+  "topic": "expl-everest"
+ },
+ {
+  "id": "easy-hist-114",
+  "prompt": "Who was the first woman to fly solo across the Atlantic?",
+  "choices": [
+   "Rosa Parks",
+   "Marie Curie",
+   "Amelia Earhart",
+   "Betsy Ross"
+  ],
+  "answer": "Amelia Earhart",
+  "difficulty": "medium",
+  "topic": "expl-earhart"
+ },
+ {
+  "id": "easy-hist-115",
+  "prompt": "Who was the first to fly alone nonstop across the Atlantic?",
+  "choices": [
+   "Neil Armstrong",
+   "Orville Wright",
+   "Thomas Edison",
+   "Charles Lindbergh"
+  ],
+  "answer": "Charles Lindbergh",
+  "difficulty": "medium",
+  "topic": "expl-lindbergh"
+ },
+ {
+  "id": "easy-hist-116",
+  "prompt": "Which explorer sailed from Portugal to India around Africa?",
+  "choices": [
+   "Vasco da Gama",
+   "Marco Polo",
+   "Leif Erikson",
+   "Neil Armstrong"
+  ],
+  "answer": "Vasco da Gama",
+  "difficulty": "hard",
+  "topic": "expl-da-gama"
+ },
+ {
+  "id": "easy-hist-117",
+  "prompt": "The Pilgrims crossed the Atlantic on which ship?",
+  "choices": [
+   "Santa Maria",
+   "Mayflower",
+   "Titanic",
+   "Pinta"
+  ],
+  "answer": "Mayflower",
+  "difficulty": "easy",
+  "topic": "hist-mayflower"
+ },
+ {
+  "id": "easy-hist-118",
+  "prompt": "Pilgrims and the Wampanoag shared a harvest feast that became what?",
+  "choices": [
+   "Halloween",
+   "Easter",
+   "Thanksgiving",
+   "Valentine's Day"
+  ],
+  "answer": "Thanksgiving",
+  "difficulty": "easy",
+  "topic": "hist-thanksgiving"
+ },
+ {
+  "id": "easy-hist-119",
+  "prompt": "Jane Goodall spent her life studying which animals?",
+  "choices": [
+   "Penguins",
+   "Sharks",
+   "Elephants",
+   "Chimpanzees"
+  ],
+  "answer": "Chimpanzees",
+  "difficulty": "medium",
+  "topic": "expl-goodall"
+ },
+ {
+  "id": "easy-hist-120",
+  "prompt": "Long ago, sailors found their way by looking at what?",
+  "choices": [
+   "The stars",
+   "The TV",
+   "The radio",
+   "The clouds only"
+  ],
+  "answer": "The stars",
+  "difficulty": "easy",
+  "topic": "expl-stars"
+ },
+ {
+  "id": "easy-hist-121",
+  "prompt": "A compass needle points which way?",
+  "choices": [
+   "Up",
+   "North",
+   "Home",
+   "Left"
+  ],
+  "answer": "North",
+  "difficulty": "easy",
+  "topic": "expl-compass-north"
+ },
+ {
+  "id": "easy-hist-122",
+  "prompt": "Which person draws maps for a living?",
+  "choices": [
+   "Chef",
+   "Plumber",
+   "Cartographer",
+   "Barber"
+  ],
+  "answer": "Cartographer",
+  "difficulty": "medium",
+  "topic": "expl-cartographer"
+ },
+ {
+  "id": "easy-hist-123",
+  "prompt": "Sailing around the world helped show that Earth is what shape?",
+  "choices": [
+   "Flat",
+   "Square",
+   "Triangle",
+   "Round"
+  ],
+  "answer": "Round",
+  "difficulty": "easy",
+  "topic": "expl-round-earth"
+ },
+ {
+  "id": "easy-hist-124",
+  "prompt": "Old explorer ships were pushed along by what?",
+  "choices": [
+   "Wind in sails",
+   "Batteries",
+   "Jet engines",
+   "Pedals"
+  ],
+  "answer": "Wind in sails",
+  "difficulty": "easy",
+  "topic": "expl-sails"
+ },
+ {
+  "id": "easy-hist-125",
+  "prompt": "Polynesian explorers crossed the Pacific in what?",
+  "choices": [
+   "Trains",
+   "Big canoes",
+   "Jets",
+   "Hot air balloons"
+  ],
+  "answer": "Big canoes",
+  "difficulty": "medium",
+  "topic": "expl-polynesian"
+ },
+ {
+  "id": "easy-hist-126",
+  "prompt": "Who made the first long-lasting electric light bulb?",
+  "choices": [
+   "Isaac Newton",
+   "Albert Einstein",
+   "Thomas Edison",
+   "Walt Disney"
+  ],
+  "answer": "Thomas Edison",
+  "difficulty": "easy",
+  "topic": "inv-edison"
+ },
+ {
+  "id": "easy-hist-127",
+  "prompt": "Who is famous for inventing the telephone?",
+  "choices": [
+   "Thomas Edison",
+   "Henry Ford",
+   "Isaac Newton",
+   "Alexander Graham Bell"
+  ],
+  "answer": "Alexander Graham Bell",
+  "difficulty": "easy",
+  "topic": "inv-bell"
+ },
+ {
+  "id": "easy-hist-128",
+  "prompt": "Which invention helped make books cheaper in the 1400s?",
+  "choices": [
+   "Printing press",
+   "Radio",
+   "Camera",
+   "Bicycle"
+  ],
+  "answer": "Printing press",
+  "difficulty": "medium",
+  "topic": "inv-printing-press"
+ },
+ {
+  "id": "easy-hist-129",
+  "prompt": "Benjamin Franklin flew a kite in a storm to learn about what?",
+  "choices": [
+   "Wind speed",
+   "Electricity",
+   "Birds",
+   "Clouds"
+  ],
+  "answer": "Electricity",
+  "difficulty": "easy",
+  "topic": "inv-franklin"
+ },
+ {
+  "id": "easy-hist-130",
+  "prompt": "A falling apple is said to have got Isaac Newton thinking about what?",
+  "choices": [
+   "Magnets",
+   "Pies",
+   "Gravity",
+   "Seeds"
+  ],
+  "answer": "Gravity",
+  "difficulty": "easy",
+  "topic": "inv-newton"
+ },
+ {
+  "id": "easy-hist-131",
+  "prompt": "Marie Curie was a famous what?",
+  "choices": [
+   "Pirate",
+   "Queen",
+   "Pilot",
+   "Scientist"
+  ],
+  "answer": "Scientist",
+  "difficulty": "easy",
+  "topic": "inv-curie"
+ },
+ {
+  "id": "easy-hist-132",
+  "prompt": "Louis Pasteur found a way to make what safer to drink?",
+  "choices": [
+   "Milk",
+   "Sand",
+   "Paint",
+   "Soda"
+  ],
+  "answer": "Milk",
+  "difficulty": "hard",
+  "topic": "inv-pasteur"
+ },
+ {
+  "id": "easy-hist-133",
+  "prompt": "Old steam trains burned coal to heat water into what?",
+  "choices": [
+   "Ice",
+   "Steam",
+   "Juice",
+   "Milk"
+  ],
+  "answer": "Steam",
+  "difficulty": "easy",
+  "topic": "inv-steam-train"
+ },
+ {
+  "id": "easy-hist-134",
+  "prompt": "Henry Ford made cars cheaper with the what?",
+  "choices": [
+   "Magic wand",
+   "Time machine",
+   "Assembly line",
+   "Cookie jar"
+  ],
+  "answer": "Assembly line",
+  "difficulty": "medium",
+  "topic": "inv-ford"
+ },
+ {
+  "id": "easy-hist-135",
+  "prompt": "Before cameras, how did people keep a picture of a face?",
+  "choices": [
+   "They texted it",
+   "They emailed it",
+   "They filmed it",
+   "They painted it"
+  ],
+  "answer": "They painted it",
+  "difficulty": "easy",
+  "topic": "inv-before-camera"
+ },
+ {
+  "id": "easy-hist-136",
+  "prompt": "Alexander Fleming found a medicine called what?",
+  "choices": [
+   "Penicillin",
+   "Aspirin",
+   "Vitamin C",
+   "Candy"
+  ],
+  "answer": "Penicillin",
+  "difficulty": "hard",
+  "topic": "inv-fleming"
+ },
+ {
+  "id": "easy-hist-137",
+  "prompt": "Galileo used a telescope to study what?",
+  "choices": [
+   "The ocean floor",
+   "The Moon and planets",
+   "Insects",
+   "Soup"
+  ],
+  "answer": "The Moon and planets",
+  "difficulty": "medium",
+  "topic": "inv-galileo"
+ },
+ {
+  "id": "easy-hist-138",
+  "prompt": "The first computers were as big as what?",
+  "choices": [
+   "A pea",
+   "A shoe",
+   "A room",
+   "A pencil"
+  ],
+  "answer": "A room",
+  "difficulty": "medium",
+  "topic": "inv-first-computers"
+ },
+ {
+  "id": "easy-hist-139",
+  "prompt": "Louis Braille made a reading system for blind people using what?",
+  "choices": [
+   "Colors",
+   "Songs",
+   "Smells",
+   "Raised dots"
+  ],
+  "answer": "Raised dots",
+  "difficulty": "medium",
+  "topic": "inv-braille"
+ },
+ {
+  "id": "easy-hist-140",
+  "prompt": "George Washington Carver found many uses for which plant?",
+  "choices": [
+   "Peanut",
+   "Pumpkin",
+   "Pickle",
+   "Pineapple"
+  ],
+  "answer": "Peanut",
+  "difficulty": "medium",
+  "topic": "inv-carver"
+ },
+ {
+  "id": "easy-hist-141",
+  "prompt": "Who painted the Mona Lisa?",
+  "choices": [
+   "Michelangelo",
+   "Leonardo da Vinci",
+   "Picasso",
+   "Walt Disney"
+  ],
+  "answer": "Leonardo da Vinci",
+  "difficulty": "easy",
+  "topic": "inv-davinci"
+ },
+ {
+  "id": "easy-hist-142",
+  "prompt": "Who painted the ceiling of the Sistine Chapel?",
+  "choices": [
+   "Leonardo da Vinci",
+   "Picasso",
+   "Michelangelo",
+   "Van Gogh"
+  ],
+  "answer": "Michelangelo",
+  "difficulty": "hard",
+  "topic": "inv-michelangelo"
+ },
+ {
+  "id": "easy-hist-143",
+  "prompt": "Who wrote the play Romeo and Juliet?",
+  "choices": [
+   "Charles Dickens",
+   "Roald Dahl",
+   "Mark Twain",
+   "William Shakespeare"
+  ],
+  "answer": "William Shakespeare",
+  "difficulty": "easy",
+  "topic": "hist-shakespeare"
+ },
+ {
+  "id": "easy-hist-144",
+  "prompt": "Samuel Morse made a code of dots and what?",
+  "choices": [
+   "Dashes",
+   "Stars",
+   "Hearts",
+   "Clouds"
+  ],
+  "answer": "Dashes",
+  "difficulty": "medium",
+  "topic": "inv-morse"
+ },
+ {
+  "id": "easy-hist-145",
+  "prompt": "Tim Berners-Lee invented the World Wide what?",
+  "choices": [
+   "Ocean",
+   "Web",
+   "Tree",
+   "Road"
+  ],
+  "answer": "Web",
+  "difficulty": "medium",
+  "topic": "inv-www"
+ },
+ {
+  "id": "easy-hist-146",
+  "prompt": "Who built and flew the first airplane in 1903?",
+  "choices": [
+   "Lewis and Clark",
+   "The Marx Brothers",
+   "The Wright brothers",
+   "The Mario Brothers"
+  ],
+  "answer": "The Wright brothers",
+  "difficulty": "easy",
+  "topic": "flight-wright"
+ },
+ {
+  "id": "easy-hist-147",
+  "prompt": "In which state did the Wright brothers first fly?",
+  "choices": [
+   "California",
+   "Florida",
+   "Alaska",
+   "North Carolina"
+  ],
+  "answer": "North Carolina",
+  "difficulty": "hard",
+  "topic": "flight-kitty-hawk"
+ },
+ {
+  "id": "easy-hist-148",
+  "prompt": "The first people to fly rode in a what?",
+  "choices": [
+   "Hot air balloon",
+   "Jet",
+   "Rocket",
+   "Helicopter"
+  ],
+  "answer": "Hot air balloon",
+  "difficulty": "easy",
+  "topic": "flight-balloon"
+ },
+ {
+  "id": "easy-hist-149",
+  "prompt": "Who was the first person to walk on the Moon?",
+  "choices": [
+   "Buzz Lightyear",
+   "Neil Armstrong",
+   "Yuri Gagarin",
+   "Santa Claus"
+  ],
+  "answer": "Neil Armstrong",
+  "difficulty": "easy",
+  "topic": "space-armstrong"
+ },
+ {
+  "id": "easy-hist-150",
+  "prompt": "In which year did people first land on the Moon?",
+  "choices": [
+   "1869",
+   "1999",
+   "1969",
+   "1929"
+  ],
+  "answer": "1969",
+  "difficulty": "easy",
+  "topic": "space-moon-year"
+ },
+ {
+  "id": "easy-hist-151",
+  "prompt": "Who was the first person to travel into space?",
+  "choices": [
+   "Neil Armstrong",
+   "Buzz Lightyear",
+   "Orville Wright",
+   "Yuri Gagarin"
+  ],
+  "answer": "Yuri Gagarin",
+  "difficulty": "hard",
+  "topic": "space-gagarin"
+ },
+ {
+  "id": "easy-hist-152",
+  "prompt": "What was the first satellite launched into space called?",
+  "choices": [
+   "Sputnik",
+   "Voyager",
+   "Hubble",
+   "Apollo"
+  ],
+  "answer": "Sputnik",
+  "difficulty": "hard",
+  "topic": "space-sputnik"
+ },
+ {
+  "id": "easy-hist-153",
+  "prompt": "Which planet did the Curiosity rover explore?",
+  "choices": [
+   "Venus",
+   "Mars",
+   "Jupiter",
+   "Pluto"
+  ],
+  "answer": "Mars",
+  "difficulty": "medium",
+  "topic": "space-curiosity"
+ },
+ {
+  "id": "easy-hist-154",
+  "prompt": "What is the name of the United States space agency?",
+  "choices": [
+   "NBA",
+   "NFL",
+   "NASA",
+   "NHL"
+  ],
+  "answer": "NASA",
+  "difficulty": "easy",
+  "topic": "space-nasa"
+ },
+ {
+  "id": "easy-hist-155",
+  "prompt": "The space shuttle landed back on Earth like a what?",
+  "choices": [
+   "Boat",
+   "Submarine",
+   "Balloon",
+   "Airplane"
+  ],
+  "answer": "Airplane",
+  "difficulty": "medium",
+  "topic": "space-shuttle"
+ },
+ {
+  "id": "easy-hist-156",
+  "prompt": "Before jets, many airplanes were pushed by what?",
+  "choices": [
+   "Propellers",
+   "Sails",
+   "Paddles",
+   "Oars"
+  ],
+  "answer": "Propellers",
+  "difficulty": "medium",
+  "topic": "flight-propeller"
+ },
+ {
+  "id": "easy-hist-157",
+  "prompt": "How long was the Wright brothers' first flight?",
+  "choices": [
+   "12 hours",
+   "12 seconds",
+   "12 minutes",
+   "12 days"
+  ],
+  "answer": "12 seconds",
+  "difficulty": "hard",
+  "topic": "flight-12-seconds"
+ },
+ {
+  "id": "easy-hist-158",
+  "prompt": "The Wright brothers owned a shop that fixed what?",
+  "choices": [
+   "Shoes",
+   "Clocks",
+   "Bicycles",
+   "Pianos"
+  ],
+  "answer": "Bicycles",
+  "difficulty": "medium",
+  "topic": "flight-bicycle-shop"
+ },
+ {
+  "id": "easy-hist-159",
+  "prompt": "Neil Armstrong's spaceship to the Moon was part of which program?",
+  "choices": [
+   "Barbie",
+   "Pokemon",
+   "Lego",
+   "Apollo"
+  ],
+  "answer": "Apollo",
+  "difficulty": "medium",
+  "topic": "space-apollo"
+ },
+ {
+  "id": "easy-hist-160",
+  "prompt": "Which city is the Eiffel Tower in?",
+  "choices": [
+   "Paris",
+   "London",
+   "Rome",
+   "Berlin"
+  ],
+  "answer": "Paris",
+  "difficulty": "easy",
+  "topic": "bldg-eiffel-city"
+ },
+ {
+  "id": "easy-hist-161",
+  "prompt": "Which engineer's company built the Eiffel Tower?",
+  "choices": [
+   "Leonardo da Vinci",
+   "Gustave Eiffel",
+   "Thomas Edison",
+   "Albert Einstein"
+  ],
+  "answer": "Gustave Eiffel",
+  "difficulty": "easy",
+  "topic": "bldg-eiffel-builder"
+ },
+ {
+  "id": "easy-hist-162",
+  "prompt": "The Statue of Liberty was a gift from which country?",
+  "choices": [
+   "Canada",
+   "Egypt",
+   "France",
+   "Japan"
+  ],
+  "answer": "France",
+  "difficulty": "easy",
+  "topic": "bldg-liberty-gift"
+ },
+ {
+  "id": "easy-hist-163",
+  "prompt": "Big Ben is a famous clock tower in which city?",
+  "choices": [
+   "Paris",
+   "Rome",
+   "Cairo",
+   "London"
+  ],
+  "answer": "London",
+  "difficulty": "easy",
+  "topic": "bldg-bigben"
+ },
+ {
+  "id": "easy-hist-164",
+  "prompt": "In which country is the Taj Mahal?",
+  "choices": [
+   "India",
+   "Egypt",
+   "China",
+   "Turkey"
+  ],
+  "answer": "India",
+  "difficulty": "easy",
+  "topic": "bldg-taj-country"
+ },
+ {
+  "id": "easy-hist-165",
+  "prompt": "The Taj Mahal was built by a ruler for whom?",
+  "choices": [
+   "His dog",
+   "His wife",
+   "His teacher",
+   "His cook"
+  ],
+  "answer": "His wife",
+  "difficulty": "medium",
+  "topic": "bldg-taj-purpose"
+ },
+ {
+  "id": "easy-hist-166",
+  "prompt": "The Leaning Tower of Pisa is in which country?",
+  "choices": [
+   "Spain",
+   "France",
+   "Italy",
+   "Greece"
+  ],
+  "answer": "Italy",
+  "difficulty": "easy",
+  "topic": "bldg-pisa"
+ },
+ {
+  "id": "easy-hist-167",
+  "prompt": "The Sydney Opera House is in which country?",
+  "choices": [
+   "Canada",
+   "Brazil",
+   "Ireland",
+   "Australia"
+  ],
+  "answer": "Australia",
+  "difficulty": "easy",
+  "topic": "bldg-sydney-opera"
+ },
+ {
+  "id": "easy-hist-168",
+  "prompt": "Stonehenge is a circle of giant stones in which country?",
+  "choices": [
+   "England",
+   "Egypt",
+   "Peru",
+   "Japan"
+  ],
+  "answer": "England",
+  "difficulty": "medium",
+  "topic": "bldg-stonehenge"
+ },
+ {
+  "id": "easy-hist-169",
+  "prompt": "The Empire State Building stands in which city?",
+  "choices": [
+   "Chicago",
+   "New York City",
+   "Los Angeles",
+   "Boston"
+  ],
+  "answer": "New York City",
+  "difficulty": "medium",
+  "topic": "bldg-empire-state"
+ },
+ {
+  "id": "easy-hist-170",
+  "prompt": "The Golden Gate Bridge is in which US city?",
+  "choices": [
+   "Seattle",
+   "New York",
+   "San Francisco",
+   "Miami"
+  ],
+  "answer": "San Francisco",
+  "difficulty": "easy",
+  "topic": "bldg-golden-gate"
+ },
+ {
+  "id": "easy-hist-171",
+  "prompt": "Angkor Wat, a giant temple, is in which country?",
+  "choices": [
+   "Greece",
+   "Mexico",
+   "Italy",
+   "Cambodia"
+  ],
+  "answer": "Cambodia",
+  "difficulty": "hard",
+  "topic": "bldg-angkor"
+ },
+ {
+  "id": "easy-hist-172",
+  "prompt": "Where does the US President live and work?",
+  "choices": [
+   "The White House",
+   "The Red Barn",
+   "The Blue Castle",
+   "The Black Tower"
+  ],
+  "answer": "The White House",
+  "difficulty": "easy",
+  "topic": "bldg-whitehouse"
+ },
+ {
+  "id": "easy-hist-173",
+  "prompt": "Mount Rushmore has carved faces of how many presidents?",
+  "choices": [
+   "2",
+   "4",
+   "6",
+   "10"
+  ],
+  "answer": "4",
+  "difficulty": "medium",
+  "topic": "bldg-rushmore"
+ },
+ {
+  "id": "easy-hist-174",
+  "prompt": "The huge palace of Versailles is in which country?",
+  "choices": [
+   "Spain",
+   "Russia",
+   "France",
+   "Egypt"
+  ],
+  "answer": "France",
+  "difficulty": "hard",
+  "topic": "bldg-versailles"
+ },
+ {
+  "id": "easy-hist-175",
+  "prompt": "Christ the Redeemer is a giant statue in which country?",
+  "choices": [
+   "Italy",
+   "Canada",
+   "Egypt",
+   "Brazil"
+  ],
+  "answer": "Brazil",
+  "difficulty": "hard",
+  "topic": "bldg-christ-redeemer"
+ },
+ {
+  "id": "easy-hist-176",
+  "prompt": "The Maya pyramid at Chichen Itza is in which country?",
+  "choices": [
+   "Mexico",
+   "Egypt",
+   "Greece",
+   "India"
+  ],
+  "answer": "Mexico",
+  "difficulty": "hard",
+  "topic": "bldg-chichen-itza"
+ },
+ {
+  "id": "easy-hist-177",
+  "prompt": "Which famous statue holds a torch in New York Harbor?",
+  "choices": [
+   "The Sphinx",
+   "Statue of Liberty",
+   "Big Ben",
+   "Colossus"
+  ],
+  "answer": "Statue of Liberty",
+  "difficulty": "easy",
+  "topic": "bldg-liberty-torch"
+ },
+ {
+  "id": "easy-hist-178",
+  "prompt": "What do we call a deep ditch of water around a castle?",
+  "choices": [
+   "Pond",
+   "Tunnel",
+   "Moat",
+   "Porch"
+  ],
+  "answer": "Moat",
+  "difficulty": "easy",
+  "topic": "castle-moat"
+ },
+ {
+  "id": "easy-hist-179",
+  "prompt": "What could be pulled up to keep people out of a castle?",
+  "choices": [
+   "Skybridge",
+   "Footbridge",
+   "Bridge of sighs",
+   "Drawbridge"
+  ],
+  "answer": "Drawbridge",
+  "difficulty": "easy",
+  "topic": "castle-drawbridge"
+ },
+ {
+  "id": "easy-hist-180",
+  "prompt": "The strongest tower in the middle of a castle is called the what?",
+  "choices": [
+   "Keep",
+   "Porch",
+   "Attic",
+   "Chimney"
+  ],
+  "answer": "Keep",
+  "difficulty": "medium",
+  "topic": "castle-keep"
+ },
+ {
+  "id": "easy-hist-181",
+  "prompt": "Knights wore metal clothes called what?",
+  "choices": [
+   "Pajamas",
+   "Armor",
+   "Sweaters",
+   "Kilts"
+  ],
+  "answer": "Armor",
+  "difficulty": "easy",
+  "topic": "knights-armor"
+ },
+ {
+  "id": "easy-hist-182",
+  "prompt": "Knights rode into battle on which animal?",
+  "choices": [
+   "Camels",
+   "Bicycles",
+   "Horses",
+   "Elephants"
+  ],
+  "answer": "Horses",
+  "difficulty": "easy",
+  "topic": "knights-horses"
+ },
+ {
+  "id": "easy-hist-183",
+  "prompt": "A boy training to be a knight started as a what?",
+  "choices": [
+   "Pilot",
+   "Plumber",
+   "Pirate",
+   "Page"
+  ],
+  "answer": "Page",
+  "difficulty": "medium",
+  "topic": "knights-page"
+ },
+ {
+  "id": "easy-hist-184",
+  "prompt": "In the sport of jousting, knights used long poles called what?",
+  "choices": [
+   "Lances",
+   "Brooms",
+   "Oars",
+   "Flutes"
+  ],
+  "answer": "Lances",
+  "difficulty": "medium",
+  "topic": "knights-lance"
+ },
+ {
+  "id": "easy-hist-185",
+  "prompt": "A picture on a knight's shield showed his family's coat of what?",
+  "choices": [
+   "Fur",
+   "Arms",
+   "Paint",
+   "Hats"
+  ],
+  "answer": "Arms",
+  "difficulty": "medium",
+  "topic": "knights-coat-of-arms"
+ },
+ {
+  "id": "easy-hist-186",
+  "prompt": "Castle walls were mostly built from what?",
+  "choices": [
+   "Paper",
+   "Cloth",
+   "Stone",
+   "Glass"
+  ],
+  "answer": "Stone",
+  "difficulty": "easy",
+  "topic": "castle-stone"
+ },
+ {
+  "id": "easy-hist-187",
+  "prompt": "In the stories, King Arthur's knights sat at a what?",
+  "choices": [
+   "Long couch",
+   "Tiny stool",
+   "Bunk bed",
+   "Round Table"
+  ],
+  "answer": "Round Table",
+  "difficulty": "easy",
+  "topic": "knights-round-table"
+ },
+ {
+  "id": "easy-hist-188",
+  "prompt": "In the legend, King Arthur pulled a sword from what?",
+  "choices": [
+   "A stone",
+   "A pie",
+   "A hat",
+   "A drawer"
+  ],
+  "answer": "A stone",
+  "difficulty": "medium",
+  "topic": "castle-sword-stone"
+ },
+ {
+  "id": "easy-hist-189",
+  "prompt": "In the legend, where did Robin Hood hide?",
+  "choices": [
+   "Sahara Desert",
+   "Sherwood Forest",
+   "Lake Superior",
+   "Big Ben"
+  ],
+  "answer": "Sherwood Forest",
+  "difficulty": "medium",
+  "topic": "legend-robin-hood"
+ },
+ {
+  "id": "easy-hist-190",
+  "prompt": "The time of knights and castles is called the Middle what?",
+  "choices": [
+   "Days",
+   "Weeks",
+   "Ages",
+   "Hours"
+  ],
+  "answer": "Ages",
+  "difficulty": "easy",
+  "topic": "castle-middle-ages"
+ },
+ {
+  "id": "easy-hist-191",
+  "prompt": "Before printers, monks made books by copying them how?",
+  "choices": [
+   "With a printer",
+   "With a copier",
+   "With a computer",
+   "By hand"
+  ],
+  "answer": "By hand",
+  "difficulty": "easy",
+  "topic": "castle-monks-copy"
+ },
+ {
+  "id": "easy-hist-192",
+  "prompt": "A British knight is called what before his name?",
+  "choices": [
+   "Sir",
+   "Mister",
+   "Doctor",
+   "Captain"
+  ],
+  "answer": "Sir",
+  "difficulty": "easy",
+  "topic": "knights-sir"
+ },
+ {
+  "id": "easy-hist-193",
+  "prompt": "Who told jokes and did tricks for the king and queen?",
+  "choices": [
+   "A butler",
+   "A jester",
+   "A chef",
+   "A guard"
+  ],
+  "answer": "A jester",
+  "difficulty": "easy",
+  "topic": "castle-jester"
+ },
+ {
+  "id": "easy-hist-194",
+  "prompt": "Before light bulbs, castles were lit by candles and what?",
+  "choices": [
+   "Neon signs",
+   "Screens",
+   "Torches",
+   "Flashlights"
+  ],
+  "answer": "Torches",
+  "difficulty": "medium",
+  "topic": "castle-torches"
+ },
+ {
+  "id": "easy-hist-195",
+  "prompt": "A heavy gate that slid down to close a castle door is a what?",
+  "choices": [
+   "Porchlight",
+   "Doormat",
+   "Window",
+   "Portcullis"
+  ],
+  "answer": "Portcullis",
+  "difficulty": "hard",
+  "topic": "castle-portcullis"
+ },
+ {
+  "id": "easy-hist-196",
+  "prompt": "Windmills were used to grind grain into what?",
+  "choices": [
+   "Flour",
+   "Sugar",
+   "Milk",
+   "Juice"
+  ],
+  "answer": "Flour",
+  "difficulty": "medium",
+  "topic": "castle-windmill"
+ },
+ {
+  "id": "easy-hist-197",
+  "prompt": "Which worker made horseshoes and tools from hot metal?",
+  "choices": [
+   "Baker",
+   "Blacksmith",
+   "Barber",
+   "Sailor"
+  ],
+  "answer": "Blacksmith",
+  "difficulty": "easy",
+  "topic": "castle-blacksmith"
+ },
+ {
+  "id": "easy-hist-198",
+  "prompt": "In 1215, an English king signed a famous paper called what?",
+  "choices": [
+   "Big Map",
+   "Great Menu",
+   "Magna Carta",
+   "Grand Plan"
+  ],
+  "answer": "Magna Carta",
+  "difficulty": "hard",
+  "topic": "castle-magna-carta"
+ },
+ {
+  "id": "easy-hist-199",
+  "prompt": "Where did the Vikings come from?",
+  "choices": [
+   "Africa",
+   "Australia",
+   "South America",
+   "Northern Europe"
+  ],
+  "answer": "Northern Europe",
+  "difficulty": "easy",
+  "topic": "vik-europe"
+ },
+ {
+  "id": "easy-hist-200",
+  "prompt": "What were Viking ships called?",
+  "choices": [
+   "Longships",
+   "Skyboats",
+   "Bathtubs",
+   "Trains"
+  ],
+  "answer": "Longships",
+  "difficulty": "easy",
+  "topic": "vik-longships"
+ },
+ {
+  "id": "easy-hist-201",
+  "prompt": "Real Viking helmets usually had what on them?",
+  "choices": [
+   "Big horns",
+   "No horns",
+   "Feathers",
+   "Antlers"
+  ],
+  "answer": "No horns",
+  "difficulty": "medium",
+  "topic": "vik-no-horns"
+ },
+ {
+  "id": "easy-hist-202",
+  "prompt": "Which Viking sailed to North America about 1,000 years ago?",
+  "choices": [
+   "Marco Polo",
+   "Columbus",
+   "Leif Erikson",
+   "Magellan"
+  ],
+  "answer": "Leif Erikson",
+  "difficulty": "medium",
+  "topic": "vik-leif"
+ },
+ {
+  "id": "easy-hist-203",
+  "prompt": "What was the Vikings' writing called?",
+  "choices": [
+   "Emojis",
+   "Hieroglyphs",
+   "Braille",
+   "Runes"
+  ],
+  "answer": "Runes",
+  "difficulty": "medium",
+  "topic": "vik-runes"
+ },
+ {
+  "id": "easy-hist-204",
+  "prompt": "Which Viking god carried a mighty hammer?",
+  "choices": [
+   "Thor",
+   "Zeus",
+   "Ra",
+   "Apollo"
+  ],
+  "answer": "Thor",
+  "difficulty": "easy",
+  "topic": "vik-thor"
+ },
+ {
+  "id": "easy-hist-205",
+  "prompt": "Which day of the week is named after the Viking god Thor?",
+  "choices": [
+   "Monday",
+   "Thursday",
+   "Friday",
+   "Sunday"
+  ],
+  "answer": "Thursday",
+  "difficulty": "hard",
+  "topic": "vik-thursday"
+ },
+ {
+  "id": "easy-hist-206",
+  "prompt": "What were Viking homes called?",
+  "choices": [
+   "Igloos",
+   "Tepees",
+   "Longhouses",
+   "Skyscrapers"
+  ],
+  "answer": "Longhouses",
+  "difficulty": "medium",
+  "topic": "vik-longhouse"
+ },
+ {
+  "id": "easy-hist-207",
+  "prompt": "Vikings settled on an island named for what?",
+  "choices": [
+   "Fire",
+   "Sand",
+   "Candy",
+   "Ice"
+  ],
+  "answer": "Ice",
+  "difficulty": "hard",
+  "topic": "vik-iceland"
+ },
+ {
+  "id": "easy-hist-208",
+  "prompt": "Viking shields were mostly made of what?",
+  "choices": [
+   "Wood",
+   "Glass",
+   "Paper",
+   "Rubber"
+  ],
+  "answer": "Wood",
+  "difficulty": "medium",
+  "topic": "vik-shields"
+ },
+ {
+  "id": "easy-hist-209",
+  "prompt": "Old Viking tales are called what?",
+  "choices": [
+   "Tweets",
+   "Sagas",
+   "Comics",
+   "Quizzes"
+  ],
+  "answer": "Sagas",
+  "difficulty": "hard",
+  "topic": "vik-sagas"
+ },
+ {
+  "id": "easy-hist-210",
+  "prompt": "Before electric lights, people used what at night?",
+  "choices": [
+   "Phones",
+   "Flashlights",
+   "Candles",
+   "TVs"
+  ],
+  "answer": "Candles",
+  "difficulty": "easy",
+  "topic": "past-candles"
+ },
+ {
+  "id": "easy-hist-211",
+  "prompt": "Before cars, people traveled by horse and what?",
+  "choices": [
+   "Skateboard",
+   "Scooter",
+   "Rocket",
+   "Carriage"
+  ],
+  "answer": "Carriage",
+  "difficulty": "easy",
+  "topic": "past-carriage"
+ },
+ {
+  "id": "easy-hist-212",
+  "prompt": "Before email, people sent messages as what?",
+  "choices": [
+   "Letters",
+   "Texts",
+   "Tweets",
+   "Emojis"
+  ],
+  "answer": "Letters",
+  "difficulty": "easy",
+  "topic": "past-letters"
+ },
+ {
+  "id": "easy-hist-213",
+  "prompt": "Long ago, people wrote with a bird feather called a what?",
+  "choices": [
+   "Keyboard",
+   "Quill",
+   "Mouse",
+   "Marker"
+  ],
+  "answer": "Quill",
+  "difficulty": "medium",
+  "topic": "past-quill"
+ },
+ {
+  "id": "easy-hist-214",
+  "prompt": "Before washing machines, people washed clothes how?",
+  "choices": [
+   "With a robot",
+   "With a dishwasher",
+   "By hand",
+   "With a microwave"
+  ],
+  "answer": "By hand",
+  "difficulty": "easy",
+  "topic": "past-laundry"
+ },
+ {
+  "id": "easy-hist-215",
+  "prompt": "Before TV, families gathered to listen to the what?",
+  "choices": [
+   "Cell phone",
+   "Computer",
+   "Video game",
+   "Radio"
+  ],
+  "answer": "Radio",
+  "difficulty": "easy",
+  "topic": "past-radio"
+ },
+ {
+  "id": "easy-hist-216",
+  "prompt": "Before coins, people traded things in a way called what?",
+  "choices": [
+   "Barter",
+   "Banking",
+   "Baking",
+   "Boating"
+  ],
+  "answer": "Barter",
+  "difficulty": "medium",
+  "topic": "past-barter"
+ },
+ {
+  "id": "easy-hist-217",
+  "prompt": "A town crier shouted what in the streets?",
+  "choices": [
+   "Songs",
+   "The news",
+   "Recipes",
+   "Jokes"
+  ],
+  "answer": "The news",
+  "difficulty": "medium",
+  "topic": "past-town-crier"
+ },
+ {
+  "id": "easy-hist-218",
+  "prompt": "Before gas stoves, people cooked over what?",
+  "choices": [
+   "A laser",
+   "A magnet",
+   "A fire",
+   "A radio"
+  ],
+  "answer": "A fire",
+  "difficulty": "easy",
+  "topic": "past-cooking-fire"
+ },
+ {
+  "id": "easy-hist-219",
+  "prompt": "Before wells were replaced by pipes, people carried water from a what?",
+  "choices": [
+   "Fridge",
+   "Mall",
+   "Plane",
+   "Well"
+  ],
+  "answer": "Well",
+  "difficulty": "easy",
+  "topic": "past-well"
+ },
+ {
+  "id": "easy-hist-220",
+  "prompt": "Before furnaces, homes were warmed by a what?",
+  "choices": [
+   "Fireplace",
+   "Microwave",
+   "Air fryer",
+   "Fan"
+  ],
+  "answer": "Fireplace",
+  "difficulty": "easy",
+  "topic": "past-fireplace"
+ },
+ {
+  "id": "easy-hist-221",
+  "prompt": "Long ago, people wrote on long rolled-up papers called what?",
+  "choices": [
+   "Pizzas",
+   "Scrolls",
+   "Towels",
+   "Flags"
+  ],
+  "answer": "Scrolls",
+  "difficulty": "medium",
+  "topic": "past-scrolls"
+ },
+ {
+  "id": "easy-hist-222",
+  "prompt": "Ships once sent messages to each other using what?",
+  "choices": [
+   "Emails",
+   "Radios",
+   "Flags",
+   "Texts"
+  ],
+  "answer": "Flags",
+  "difficulty": "medium",
+  "topic": "past-signal-flags"
+ },
+ {
+  "id": "easy-hist-223",
+  "prompt": "Long ago, school children wrote on a small board called a what?",
+  "choices": [
+   "Laptop",
+   "Whiteboard",
+   "Phone",
+   "Slate"
+  ],
+  "answer": "Slate",
+  "difficulty": "medium",
+  "topic": "past-slate"
+ },
+ {
+  "id": "easy-hist-224",
+  "prompt": "An old bicycle with one huge wheel in front is called a what?",
+  "choices": [
+   "Penny-farthing",
+   "Unicycle",
+   "Tricycle",
+   "Scooter"
+  ],
+  "answer": "Penny-farthing",
+  "difficulty": "hard",
+  "topic": "past-penny-farthing"
+ },
+ {
+  "id": "easy-hist-225",
+  "prompt": "Pony Express riders carried the mail on what?",
+  "choices": [
+   "Trains",
+   "Horses",
+   "Planes",
+   "Bikes"
+  ],
+  "answer": "Horses",
+  "difficulty": "medium",
+  "topic": "past-pony-express"
+ },
+ {
+  "id": "easy-hist-226",
+  "prompt": "In 1849, many people rushed to California to find what?",
+  "choices": [
+   "Candy",
+   "Oil",
+   "Gold",
+   "Pizza"
+  ],
+  "answer": "Gold",
+  "difficulty": "medium",
+  "topic": "hist-gold-rush"
+ },
+ {
+  "id": "easy-hist-227",
+  "prompt": "Before clocks, people told time with the sun using a what?",
+  "choices": [
+   "Compass",
+   "Thermometer",
+   "Ruler",
+   "Sundial"
+  ],
+  "answer": "Sundial",
+  "difficulty": "easy",
+  "topic": "past-sundial"
+ },
+ {
+  "id": "easy-hist-228",
+  "prompt": "Who was the first president of the United States?",
+  "choices": [
+   "George Washington",
+   "Abraham Lincoln",
+   "Thomas Jefferson",
+   "Benjamin Franklin"
+  ],
+  "answer": "George Washington",
+  "difficulty": "easy",
+  "topic": "hist-washington"
+ },
+ {
+  "id": "easy-hist-229",
+  "prompt": "Which president's face is on the US penny?",
+  "choices": [
+   "George Washington",
+   "Abraham Lincoln",
+   "Barack Obama",
+   "Theodore Roosevelt"
+  ],
+  "answer": "Abraham Lincoln",
+  "difficulty": "medium",
+  "topic": "hist-lincoln-penny"
+ },
+ {
+  "id": "easy-hist-230",
+  "prompt": "What do Americans celebrate on July 4?",
+  "choices": [
+   "Thanksgiving",
+   "Labor Day",
+   "Independence Day",
+   "Halloween"
+  ],
+  "answer": "Independence Day",
+  "difficulty": "easy",
+  "topic": "hist-july4"
+ },
+ {
+  "id": "easy-hist-231",
+  "prompt": "In which city is the Liberty Bell?",
+  "choices": [
+   "Dallas",
+   "Seattle",
+   "Denver",
+   "Philadelphia"
+  ],
+  "answer": "Philadelphia",
+  "difficulty": "medium",
+  "topic": "hist-liberty-bell"
+ },
+ {
+  "id": "easy-hist-232",
+  "prompt": "Rosa Parks became famous for her brave stand on a what?",
+  "choices": [
+   "Bus",
+   "Train",
+   "Boat",
+   "Plane"
+  ],
+  "answer": "Bus",
+  "difficulty": "medium",
+  "topic": "hist-rosa-parks"
+ },
+ {
+  "id": "easy-hist-233",
+  "prompt": "Who gave the famous I Have a Dream speech?",
+  "choices": [
+   "Abraham Lincoln",
+   "Martin Luther King Jr.",
+   "George Washington",
+   "Neil Armstrong"
+  ],
+  "answer": "Martin Luther King Jr.",
+  "difficulty": "medium",
+  "topic": "hist-mlk"
+ },
+ {
+  "id": "easy-hist-234",
+  "prompt": "Nelson Mandela became president of which country?",
+  "choices": [
+   "Brazil",
+   "Canada",
+   "South Africa",
+   "Egypt"
+  ],
+  "answer": "South Africa",
+  "difficulty": "medium",
+  "topic": "hist-mandela"
+ },
+ {
+  "id": "easy-hist-235",
+  "prompt": "How many wives did King Henry VIII of England have?",
+  "choices": [
+   "2",
+   "4",
+   "10",
+   "6"
+  ],
+  "answer": "6",
+  "difficulty": "easy",
+  "topic": "hist-henry8"
+ },
+ {
+  "id": "easy-hist-236",
+  "prompt": "Pirates' black flag is called the what?",
+  "choices": [
+   "Jolly Roger",
+   "Black Betty",
+   "Merry Max",
+   "Happy Harry"
+  ],
+  "answer": "Jolly Roger",
+  "difficulty": "easy",
+  "topic": "hist-jolly-roger"
+ },
+ {
+  "id": "easy-hist-237",
+  "prompt": "Many Plains Native Americans lived in cone-shaped homes called what?",
+  "choices": [
+   "Igloos",
+   "Tepees",
+   "Pagodas",
+   "Cabins"
+  ],
+  "answer": "Tepees",
+  "difficulty": "easy",
+  "topic": "hist-tepee"
+ },
+ {
+  "id": "easy-hist-238",
+  "prompt": "Inuit people built winter homes from blocks of what?",
+  "choices": [
+   "Sand",
+   "Bricks",
+   "Snow",
+   "Cheese"
+  ],
+  "answer": "Snow",
+  "difficulty": "easy",
+  "topic": "hist-igloo"
+ },
+ {
+  "id": "easy-hist-239",
+  "prompt": "Families crossing America in covered wagons followed the what?",
+  "choices": [
+   "Silk Road",
+   "Nile",
+   "Panama Canal",
+   "Oregon Trail"
+  ],
+  "answer": "Oregon Trail",
+  "difficulty": "medium",
+  "topic": "hist-oregon-trail"
+ },
+ {
+  "id": "easy-hist-240",
+  "prompt": "One hundred years is called a what?",
+  "choices": [
+   "Century",
+   "Decade",
+   "Month",
+   "Minute"
+  ],
+  "answer": "Century",
+  "difficulty": "easy",
+  "topic": "hist-century"
+ },
+ {
+  "id": "easy-hist-241",
+  "prompt": "Scientists who dig up old things to learn about the past are what?",
+  "choices": [
+   "Astronauts",
+   "Archaeologists",
+   "Dentists",
+   "Chefs"
+  ],
+  "answer": "Archaeologists",
+  "difficulty": "medium",
+  "topic": "hist-archaeologist"
+ },
+ {
+  "id": "easy-hist-242",
+  "prompt": "Where can you see old objects from the past on display?",
+  "choices": [
+   "Bakery",
+   "Gas station",
+   "Museum",
+   "Gym"
+  ],
+  "answer": "Museum",
+  "difficulty": "easy",
+  "topic": "hist-museum"
+ },
+ {
+  "id": "easy-hist-243",
+  "prompt": "Years before year 1 are marked with which letters?",
+  "choices": [
+   "AM",
+   "PM",
+   "TV",
+   "BC"
+  ],
+  "answer": "BC",
+  "difficulty": "easy",
+  "topic": "hist-bc"
+ },
+ {
+  "id": "easy-hist-244",
+  "prompt": "How many rings are on the Olympic flag?",
+  "choices": [
+   "5",
+   "3",
+   "7",
+   "10"
+  ],
+  "answer": "5",
+  "difficulty": "medium",
+  "topic": "hist-olympic-rings"
+ },
+ {
+  "id": "easy-hist-245",
+  "prompt": "What did people use to light up old city streets before electricity?",
+  "choices": [
+   "Neon signs",
+   "Gas lamps",
+   "Light bulbs",
+   "Lasers"
+  ],
+  "answer": "Gas lamps",
+  "difficulty": "medium",
+  "topic": "past-gas-lamps"
+ },
+ {
+  "id": "easy-hist-246",
+  "prompt": "Which dinosaur's name means king of the tyrant lizards?",
+  "choices": [
+   "Triceratops",
+   "Stegosaurus",
+   "T. rex",
+   "Brachiosaurus"
+  ],
+  "answer": "T. rex",
+  "difficulty": "easy",
+  "topic": "dino-trex-king"
+ },
+ {
+  "id": "easy-hist-247",
+  "prompt": "Which dinosaur had three horns on its face?",
+  "choices": [
+   "T. rex",
+   "Velociraptor",
+   "Stegosaurus",
+   "Triceratops"
+  ],
+  "answer": "Triceratops",
+  "difficulty": "easy",
+  "topic": "dino-triceratops"
+ },
+ {
+  "id": "easy-hist-248",
+  "prompt": "Which dinosaur had big plates along its back?",
+  "choices": [
+   "Stegosaurus",
+   "Triceratops",
+   "T. rex",
+   "Pterodactyl"
+  ],
+  "answer": "Stegosaurus",
+  "difficulty": "easy",
+  "topic": "dino-stegosaurus"
+ },
+ {
+  "id": "easy-hist-249",
+  "prompt": "Dinosaurs hatched from what?",
+  "choices": [
+   "Seeds",
+   "Eggs",
+   "Pods",
+   "Bubbles"
+  ],
+  "answer": "Eggs",
+  "difficulty": "easy",
+  "topic": "dino-eggs"
+ },
+ {
+  "id": "easy-hist-250",
+  "prompt": "Which animals alive now are relatives of dinosaurs?",
+  "choices": [
+   "Frogs",
+   "Cows",
+   "Birds",
+   "Dogs"
+  ],
+  "answer": "Birds",
+  "difficulty": "medium",
+  "topic": "dino-birds"
+ },
+ {
+  "id": "easy-hist-251",
+  "prompt": "Brachiosaurus had a very long neck and ate what?",
+  "choices": [
+   "Fish",
+   "Rocks",
+   "Ice cream",
+   "Plants"
+  ],
+  "answer": "Plants",
+  "difficulty": "easy",
+  "topic": "dino-brachio"
+ },
+ {
+  "id": "easy-hist-252",
+  "prompt": "Scientists who study dinosaur fossils are called what?",
+  "choices": [
+   "Paleontologists",
+   "Pharmacists",
+   "Pilots",
+   "Painters"
+  ],
+  "answer": "Paleontologists",
+  "difficulty": "medium",
+  "topic": "hist-paleontologist"
+ },
+ {
+  "id": "easy-hist-253",
+  "prompt": "Cave people kept warm by wearing animal what?",
+  "choices": [
+   "Sweaters",
+   "Skins",
+   "Nylon",
+   "Silk"
+  ],
+  "answer": "Skins",
+  "difficulty": "easy",
+  "topic": "prehistory-clothes"
+ },
+ {
+  "id": "easy-hist-254",
+  "prompt": "Early people made spears from sharp stone and what?",
+  "choices": [
+   "Plastic",
+   "Steel",
+   "Wood",
+   "Glass"
+  ],
+  "answer": "Wood",
+  "difficulty": "easy",
+  "topic": "prehistory-spears"
+ },
+ {
+  "id": "easy-hist-255",
+  "prompt": "Farming began when people planted what?",
+  "choices": [
+   "Candy",
+   "Toys",
+   "Phones",
+   "Seeds"
+  ],
+  "answer": "Seeds",
+  "difficulty": "easy",
+  "topic": "prehistory-farming"
+ },
+ {
+  "id": "easy-hist-256",
+  "prompt": "Early people made boats called dugouts from what?",
+  "choices": [
+   "Tree trunks",
+   "Plastic",
+   "Steel",
+   "Glass"
+  ],
+  "answer": "Tree trunks",
+  "difficulty": "medium",
+  "topic": "prehistory-dugout"
+ },
+ {
+  "id": "easy-hist-257",
+  "prompt": "Which Greek god wore winged sandals to deliver messages?",
+  "choices": [
+   "Zeus",
+   "Hermes",
+   "Ares",
+   "Apollo"
+  ],
+  "answer": "Hermes",
+  "difficulty": "medium",
+  "topic": "greece-hermes"
+ },
+ {
+  "id": "easy-hist-258",
+  "prompt": "Which Greek hero's only weak spot was his heel?",
+  "choices": [
+   "Hercules",
+   "Odysseus",
+   "Achilles",
+   "Zeus"
+  ],
+  "answer": "Achilles",
+  "difficulty": "hard",
+  "topic": "greece-achilles"
+ },
+ {
+  "id": "easy-hist-259",
+  "prompt": "The ancient Olympics honored which Greek god?",
+  "choices": [
+   "Poseidon",
+   "Apollo",
+   "Hermes",
+   "Zeus"
+  ],
+  "answer": "Zeus",
+  "difficulty": "hard",
+  "topic": "greece-olympics-zeus"
+ },
+ {
+  "id": "easy-hist-260",
+  "prompt": "Chinese New Year is often celebrated with dances by what?",
+  "choices": [
+   "Dragons",
+   "Pandas",
+   "Pirates",
+   "Robots"
+  ],
+  "answer": "Dragons",
+  "difficulty": "easy",
+  "topic": "china-new-year"
+ },
+ {
+  "id": "easy-hist-261",
+  "prompt": "How many animals are in the Chinese zodiac?",
+  "choices": [
+   "7",
+   "12",
+   "10",
+   "20"
+  ],
+  "answer": "12",
+  "difficulty": "medium",
+  "topic": "china-zodiac-count"
+ },
+ {
+  "id": "easy-hist-262",
+  "prompt": "Columbus believed he had reached which place?",
+  "choices": [
+   "Mars",
+   "Egypt",
+   "India",
+   "Australia"
+  ],
+  "answer": "India",
+  "difficulty": "hard",
+  "topic": "expl-columbus-indies"
+ },
+ {
+  "id": "easy-hist-263",
+  "prompt": "Which explorer first reached the South Pole?",
+  "choices": [
+   "Captain Cook",
+   "Neil Armstrong",
+   "Leif Erikson",
+   "Roald Amundsen"
+  ],
+  "answer": "Roald Amundsen",
+  "difficulty": "hard",
+  "topic": "expl-amundsen"
+ },
+ {
+  "id": "easy-hist-264",
+  "prompt": "Explorers raced to the South Pole, which is on which continent?",
+  "choices": [
+   "Antarctica",
+   "Asia",
+   "Africa",
+   "Europe"
+  ],
+  "answer": "Antarctica",
+  "difficulty": "easy",
+  "topic": "expl-antarctica"
+ },
+ {
+  "id": "easy-hist-265",
+  "prompt": "The first cars ran on what fuel?",
+  "choices": [
+   "Candy",
+   "Gasoline",
+   "Water only",
+   "Wind"
+  ],
+  "answer": "Gasoline",
+  "difficulty": "medium",
+  "topic": "inv-car-gasoline"
+ },
+ {
+  "id": "easy-hist-266",
+  "prompt": "Early movies had no sound, so they were called what?",
+  "choices": [
+   "Noisy films",
+   "Radio films",
+   "Silent films",
+   "Pop films"
+  ],
+  "answer": "Silent films",
+  "difficulty": "medium",
+  "topic": "inv-silent-movies"
+ },
+ {
+  "id": "easy-hist-267",
+  "prompt": "Before computers, people typed on what?",
+  "choices": [
+   "Tablets",
+   "Smartwatches",
+   "Laptops",
+   "Typewriters"
+  ],
+  "answer": "Typewriters",
+  "difficulty": "easy",
+  "topic": "past-typewriter"
+ },
+ {
+  "id": "easy-hist-268",
+  "prompt": "Very old photographs are usually what color?",
+  "choices": [
+   "Black and white",
+   "Blue and green",
+   "Pink and orange",
+   "Purple and red"
+  ],
+  "answer": "Black and white",
+  "difficulty": "easy",
+  "topic": "past-bw-photos"
+ },
+ {
+  "id": "easy-hist-269",
+  "prompt": "Before refrigerators, an iceman delivered blocks of what?",
+  "choices": [
+   "Butter",
+   "Ice",
+   "Sand",
+   "Soap"
+  ],
+  "answer": "Ice",
+  "difficulty": "easy",
+  "topic": "past-iceman"
+ },
+ {
+  "id": "easy-hist-270",
+  "prompt": "Before phone maps, travelers used what?",
+  "choices": [
+   "Video games",
+   "Radios",
+   "Paper maps",
+   "Robots"
+  ],
+  "answer": "Paper maps",
+  "difficulty": "easy",
+  "topic": "past-paper-maps"
+ },
+ {
+  "id": "easy-hist-271",
+  "prompt": "Before airplanes, people crossed oceans on what?",
+  "choices": [
+   "Skateboards",
+   "Trains",
+   "Bicycles",
+   "Ships"
+  ],
+  "answer": "Ships",
+  "difficulty": "easy",
+  "topic": "past-ocean-ships"
+ },
+ {
+  "id": "easy-hist-272",
+  "prompt": "Whose face is on the US one-dollar bill?",
+  "choices": [
+   "George Washington",
+   "Abraham Lincoln",
+   "Benjamin Franklin",
+   "Thomas Edison"
+  ],
+  "answer": "George Washington",
+  "difficulty": "medium",
+  "topic": "hist-dollar-bill"
+ },
+ {
+  "id": "easy-hist-273",
+  "prompt": "The US capital city is named after which president?",
+  "choices": [
+   "Abraham Lincoln",
+   "George Washington",
+   "John Adams",
+   "Thomas Edison"
+  ],
+  "answer": "George Washington",
+  "difficulty": "medium",
+  "topic": "hist-dc-name"
+ },
+ {
+  "id": "easy-hist-274",
+  "prompt": "The first US flag had how many stripes?",
+  "choices": [
+   "50",
+   "10",
+   "13",
+   "20"
+  ],
+  "answer": "13",
+  "difficulty": "medium",
+  "topic": "hist-flag-13"
+ },
+ {
+  "id": "easy-hist-275",
+  "prompt": "Which president was famous for wearing a tall hat?",
+  "choices": [
+   "Barack Obama",
+   "Theodore Roosevelt",
+   "John Kennedy",
+   "Abraham Lincoln"
+  ],
+  "answer": "Abraham Lincoln",
+  "difficulty": "easy",
+  "topic": "hist-lincoln-hat"
+ },
+ {
+  "id": "easy-hist-276",
+  "prompt": "Which queen ruled the UK for 70 years until 2022?",
+  "choices": [
+   "Queen Elizabeth II",
+   "Queen Victoria",
+   "Queen Anne",
+   "Queen Mary"
+  ],
+  "answer": "Queen Elizabeth II",
+  "difficulty": "medium",
+  "topic": "hist-elizabeth2"
+ },
+ {
+  "id": "easy-hist-277",
+  "prompt": "Charles Darwin studied animals on which famous islands?",
+  "choices": [
+   "Hawaiian Islands",
+   "Galapagos Islands",
+   "Canary Islands",
+   "Faroe Islands"
+  ],
+  "answer": "Galapagos Islands",
+  "difficulty": "hard",
+  "topic": "hist-darwin-galapagos"
+ },
+ {
+  "id": "easy-hist-278",
+  "prompt": "Monday is named after which object in the sky?",
+  "choices": [
+   "The Sun",
+   "A comet",
+   "The Moon",
+   "A star"
+  ],
+  "answer": "The Moon",
+  "difficulty": "easy",
+  "topic": "hist-monday"
+ },
+ {
+  "id": "easy-hist-279",
+  "prompt": "Which Indian leader taught peaceful protest?",
+  "choices": [
+   "Nelson Mandela",
+   "Abraham Lincoln",
+   "Neil Armstrong",
+   "Mahatma Gandhi"
+  ],
+  "answer": "Mahatma Gandhi",
+  "difficulty": "hard",
+  "topic": "hist-gandhi"
+ },
+ {
+  "id": "easy-hist-280",
+  "prompt": "The Mona Lisa hangs in which famous Paris museum?",
+  "choices": [
+   "The Louvre",
+   "The Tate",
+   "The Smithsonian",
+   "The Prado"
+  ],
+  "answer": "The Louvre",
+  "difficulty": "hard",
+  "topic": "bldg-louvre"
+ },
+ {
+  "id": "easy-hist-281",
+  "prompt": "The castle that inspired Disney's castle is in which country?",
+  "choices": [
+   "Japan",
+   "Germany",
+   "Brazil",
+   "Egypt"
+  ],
+  "answer": "Germany",
+  "difficulty": "hard",
+  "topic": "bldg-neuschwanstein"
+ },
+ {
+  "id": "easy-hist-282",
+  "prompt": "The Hubble Space Telescope travels around what?",
+  "choices": [
+   "The Sun",
+   "Mars",
+   "Earth",
+   "Pluto"
+  ],
+  "answer": "Earth",
+  "difficulty": "medium",
+  "topic": "space-hubble"
+ },
+ {
+  "id": "easy-hist-283",
+  "prompt": "Who was the first American woman in space?",
+  "choices": [
+   "Amelia Earhart",
+   "Rosa Parks",
+   "Betsy Ross",
+   "Sally Ride"
+  ],
+  "answer": "Sally Ride",
+  "difficulty": "hard",
+  "topic": "space-sally-ride"
+ },
+ {
+  "id": "easy-hist-284",
+  "prompt": "The big room in a castle for feasts is the Great what?",
+  "choices": [
+   "Hall",
+   "Bath",
+   "Garage",
+   "Shed"
+  ],
+  "answer": "Hall",
+  "difficulty": "medium",
+  "topic": "castle-great-hall"
+ },
+ {
+  "id": "easy-hist-285",
+  "prompt": "Pirates sailed the seas looking for what?",
+  "choices": [
+   "Homework",
+   "Treasure",
+   "Pizza",
+   "Soap"
+  ],
+  "answer": "Treasure",
+  "difficulty": "easy",
+  "topic": "hist-pirate-treasure"
+ },
+ {
+  "id": "easy-hist-286",
+  "prompt": "Native Americans carved totem poles from tall what?",
+  "choices": [
+   "Rocks",
+   "Ice blocks",
+   "Trees",
+   "Bones"
+  ],
+  "answer": "Trees",
+  "difficulty": "medium",
+  "topic": "hist-totem"
+ },
+ {
+  "id": "easy-hist-287",
+  "prompt": "Who came up with the theory of relativity?",
+  "choices": [
+   "Isaac Newton",
+   "Thomas Edison",
+   "Charles Darwin",
+   "Albert Einstein"
+  ],
+  "answer": "Albert Einstein",
+  "difficulty": "easy",
+  "topic": "inv-einstein"
+ },
+ {
+  "id": "easy-hist-288",
+  "prompt": "The Egyptians said the sun god Ra crossed the sky in a what?",
+  "choices": [
+   "Boat",
+   "Car",
+   "Rocket",
+   "Wagon"
+  ],
+  "answer": "Boat",
+  "difficulty": "hard",
+  "topic": "egypt-ra-boat"
+ },
+ {
+  "id": "easy-hist-289",
+  "prompt": "The Ferris wheel is named after a man named what?",
+  "choices": [
+   "Henry Ford",
+   "George Ferris",
+   "Tom Ford",
+   "Bill Wheel"
+  ],
+  "answer": "George Ferris",
+  "difficulty": "medium",
+  "topic": "inv-ferris"
+ },
+ {
+  "id": "easy-hist-290",
+  "prompt": "The teddy bear is named after which US president?",
+  "choices": [
+   "Abraham Lincoln",
+   "George Washington",
+   "Theodore Roosevelt",
+   "Barack Obama"
+  ],
+  "answer": "Theodore Roosevelt",
+  "difficulty": "medium",
+  "topic": "hist-teddy"
+ },
+ {
+  "id": "easy-hist-291",
+  "prompt": "Which country first made pizza?",
+  "choices": [
+   "Japan",
+   "Brazil",
+   "Mexico",
+   "Italy"
+  ],
+  "answer": "Italy",
+  "difficulty": "medium",
+  "topic": "hist-pizza"
+ },
+ {
+  "id": "easy-hist-292",
+  "prompt": "Which Australian people have long used boomerangs?",
+  "choices": [
+   "Aboriginal Australians",
+   "Vikings",
+   "Romans",
+   "Egyptians"
+  ],
+  "answer": "Aboriginal Australians",
+  "difficulty": "medium",
+  "topic": "hist-boomerang"
+ },
+ {
+  "id": "easy-hist-293",
+  "prompt": "How many years are in a decade?",
+  "choices": [
+   "5",
+   "10",
+   "100",
+   "20"
+  ],
+  "answer": "10",
+  "difficulty": "easy",
+  "topic": "hist-decade"
+ },
+ {
+  "id": "easy-hist-294",
+  "prompt": "Which two brothers invented a plane that flew in 1903?",
+  "choices": [
+   "Tom and Jerry",
+   "Mario and Luigi",
+   "Wilbur and Orville",
+   "Ben and Jerry"
+  ],
+  "answer": "Wilbur and Orville",
+  "difficulty": "medium",
+  "topic": "flight-wilbur-orville"
+ },
+ {
+  "id": "easy-hist-295",
+  "prompt": "Pharaohs were buried with treasures to use in what?",
+  "choices": [
+   "The shop",
+   "The school",
+   "The zoo",
+   "The afterlife"
+  ],
+  "answer": "The afterlife",
+  "difficulty": "medium",
+  "topic": "egypt-afterlife"
+ },
+ {
+  "id": "easy-hist-296",
+  "prompt": "Ancient Greek stories about gods and heroes are called what?",
+  "choices": [
+   "Myths",
+   "Mails",
+   "Maps",
+   "Menus"
+  ],
+  "answer": "Myths",
+  "difficulty": "easy",
+  "topic": "greece-myths"
+ },
+ {
+  "id": "easy-hist-297",
+  "prompt": "Romans lived in a land shaped like a boot called what?",
+  "choices": [
+   "Peru",
+   "Italy",
+   "Chile",
+   "Iceland"
+  ],
+  "answer": "Italy",
+  "difficulty": "easy",
+  "topic": "rome-boot"
+ },
+ {
+  "id": "easy-hist-298",
+  "prompt": "Which famous Roman said Veni, vidi, vici?",
+  "choices": [
+   "Augustus",
+   "Thor",
+   "Julius Caesar",
+   "Zeus"
+  ],
+  "answer": "Julius Caesar",
+  "difficulty": "hard",
+  "topic": "rome-veni-vidi"
+ },
+ {
+  "id": "easy-hist-299",
+  "prompt": "The Great Wall of China is very long and very what?",
+  "choices": [
+   "New",
+   "Short",
+   "Soft",
+   "Old"
+  ],
+  "answer": "Old",
+  "difficulty": "easy",
+  "topic": "china-wall-old"
+ },
+ {
+  "id": "easy-hist-300",
+  "prompt": "Which ancient Egyptian invention is a way of telling time using shadows?",
+  "choices": [
+   "Sundial",
+   "Phone",
+   "Cuckoo clock",
+   "Stopwatch"
+  ],
+  "answer": "Sundial",
+  "difficulty": "medium",
+  "topic": "egypt-sundial"
+ },
+ {
+  "id": "easy-hist-301",
+  "prompt": "Which ocean did the Vikings cross to reach Iceland?",
+  "choices": [
+   "Indian Ocean",
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Arctic Ocean"
+  ],
+  "answer": "Atlantic Ocean",
+  "difficulty": "medium",
+  "topic": "vik-ocean"
+ },
+ {
+  "id": "easy-hist-302",
+  "prompt": "What do astronauts wear to walk on the Moon?",
+  "choices": [
+   "Swimsuits",
+   "Raincoats",
+   "Spacesuits",
+   "Pajamas"
+  ],
+  "answer": "Spacesuits",
+  "difficulty": "easy",
+  "topic": "space-spacesuits"
+ },
+ {
+  "id": "easy-hist-303",
+  "prompt": "Which tool helps you look at faraway stars?",
+  "choices": [
+   "Spoon",
+   "Compass",
+   "Clock",
+   "Telescope"
+  ],
+  "answer": "Telescope",
+  "difficulty": "easy",
+  "topic": "inv-telescope"
+ },
+ {
+  "id": "easy-hist-304",
+  "prompt": "Which invention lets you see tiny things up close?",
+  "choices": [
+   "Microscope",
+   "Telescope",
+   "Compass",
+   "Calendar"
+  ],
+  "answer": "Microscope",
+  "difficulty": "easy",
+  "topic": "inv-microscope"
+ },
+ {
+  "id": "easy-hist-305",
+  "prompt": "What does a light bulb give off?",
+  "choices": [
+   "Music",
+   "Light",
+   "Water",
+   "Snow"
+  ],
+  "answer": "Light",
+  "difficulty": "easy",
+  "topic": "inv-bulb-light"
+ },
+ {
+  "id": "easy-hist-306",
+  "prompt": "Long ago, kings and queens wore what on their heads?",
+  "choices": [
+   "Helmets of ice",
+   "Bike helmets",
+   "Crowns",
+   "Baseball caps"
+  ],
+  "answer": "Crowns",
+  "difficulty": "easy",
+  "topic": "castle-crowns"
+ },
+ {
+  "id": "easy-hist-307",
+  "prompt": "In castles, archers shot what from high walls?",
+  "choices": [
+   "Pizzas",
+   "Balloons",
+   "Snowballs",
+   "Arrows"
+  ],
+  "answer": "Arrows",
+  "difficulty": "easy",
+  "topic": "castle-arrows"
+ },
+ {
+  "id": "easy-hist-308",
+  "prompt": "Which famous English king is said to have lived at Camelot?",
+  "choices": [
+   "King Arthur",
+   "King Kong",
+   "King Midas",
+   "King Tut"
+  ],
+  "answer": "King Arthur",
+  "difficulty": "medium",
+  "topic": "legend-camelot"
+ },
+ {
+  "id": "easy-hist-309",
+  "prompt": "Which Roman city had a huge Forum for meetings and markets?",
+  "choices": [
+   "Athens",
+   "Rome",
+   "Cairo",
+   "Paris"
+  ],
+  "answer": "Rome",
+  "difficulty": "medium",
+  "topic": "rome-forum"
+ },
+ {
+  "id": "easy-hist-310",
+  "prompt": "Which long-ago animal had a very long neck and tail and ate leaves?",
+  "choices": [
+   "Woolly mammoth",
+   "Saber-toothed cat",
+   "Long-necked dinosaur",
+   "T. rex"
+  ],
+  "answer": "Long-necked dinosaur",
+  "difficulty": "easy",
+  "topic": "dino-long-neck"
+ },
+ {
+  "id": "easy-hist-311",
+  "prompt": "Ancient Egyptians built boats to sail along which river?",
+  "choices": [
+   "Mississippi",
+   "Amazon",
+   "Thames",
+   "Nile"
+  ],
+  "answer": "Nile",
+  "difficulty": "easy",
+  "topic": "egypt-nile-boats"
+ },
+ {
+  "id": "easy-hist-312",
+  "prompt": "Which famous English writer wrote A Christmas Carol?",
+  "choices": [
+   "Charles Dickens",
+   "William Shakespeare",
+   "Roald Dahl",
+   "Mark Twain"
+  ],
+  "answer": "Charles Dickens",
+  "difficulty": "medium",
+  "topic": "hist-dickens"
+ },
+ {
+  "id": "easy-hist-313",
+  "prompt": "Which ancient people built pyramids in the jungles of Central America?",
+  "choices": [
+   "Vikings",
+   "Maya",
+   "Romans",
+   "Greeks"
+  ],
+  "answer": "Maya",
+  "difficulty": "medium",
+  "topic": "maya-pyramids"
+ },
+ {
+  "id": "easy-hist-314",
+  "prompt": "Christopher Columbus was born in which country?",
+  "choices": [
+   "Spain",
+   "Egypt",
+   "Italy",
+   "Canada"
+  ],
+  "answer": "Italy",
+  "difficulty": "hard",
+  "topic": "expl-columbus-born"
+ },
+ {
+  "id": "easy-hist-315",
+  "prompt": "Which tool did early people use to make fire?",
+  "choices": [
+   "Matches",
+   "Lighters",
+   "Batteries",
+   "Sticks and sparks"
+  ],
+  "answer": "Sticks and sparks",
+  "difficulty": "medium",
+  "topic": "prehistory-fire-tools"
+ }
+]

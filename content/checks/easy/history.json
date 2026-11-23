@@ -1,0 +1,602 @@
+[
+  {
+    "id": "easy-hist-001",
+    "pick": "Pyramids",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-002",
+    "pick": "The Nile",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-003",
+    "pick": "Pharaohs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-004",
+    "pick": "Tutankhamun",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-005",
+    "pick": "The Sphinx",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-006",
+    "pick": "Mummies",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-007",
+    "pick": "Hieroglyphs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-008",
+    "pick": "Papyrus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-009",
+    "pick": "Cats",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-010",
+    "pick": "Cleopatra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-011",
+    "pick": "Egypt",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-012",
+    "pick": "Pharaohs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-013",
+    "pick": "Sahara",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-014",
+    "pick": "Anubis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-015",
+    "pick": "Ra",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-016",
+    "pick": "Howard Carter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-017",
+    "pick": "Hieroglyphs",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-018",
+    "pick": "Mud bricks",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-019",
+    "pick": "Floods left rich soil",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-020",
+    "pick": "Khufu",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-021",
+    "pick": "Sarcophagus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-022",
+    "pick": "4,500 years",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-023",
+    "pick": "Scarab",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-024",
+    "pick": "Flax",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-025",
+    "pick": "Greece",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-026",
+    "pick": "Athens",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-027",
+    "pick": "Wood",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-028",
+    "pick": "Mount Olympus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-029",
+    "pick": "Zeus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-030",
+    "pick": "Poseidon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-031",
+    "pick": "Democracy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-032",
+    "pick": "Olive leaf crown",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-033",
+    "pick": "Aesop",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-034",
+    "pick": "Homer",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-035",
+    "pick": "Sparta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-036",
+    "pick": "Columns",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-037",
+    "pick": "Alpha and beta",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-038",
+    "pick": "Hercules",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-039",
+    "pick": "Medusa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-040",
+    "pick": "Pegasus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-041",
+    "pick": "Cyclops",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-042",
+    "pick": "Athena",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-043",
+    "pick": "Plays",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-044",
+    "pick": "Greece",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-045",
+    "pick": "Archimedes",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-046",
+    "pick": "Triangles",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-047",
+    "pick": "Every four years",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-048",
+    "pick": "Acropolis",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-049",
+    "pick": "Colosseum",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-050",
+    "pick": "Latin",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-051",
+    "pick": "Romulus and Remus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-052",
+    "pick": "10",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-053",
+    "pick": "5",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-054",
+    "pick": "9",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-055",
+    "pick": "Rome",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-056",
+    "pick": "Aqueducts",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-057",
+    "pick": "July",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-058",
+    "pick": "Augustus",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-059",
+    "pick": "Public baths",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-060",
+    "pick": "Jupiter",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-061",
+    "pick": "Toga",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-062",
+    "pick": "Concrete",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-063",
+    "pick": "Wax",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-064",
+    "pick": "Britain",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-065",
+    "pick": "Mosaics",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-066",
+    "pick": "Italy",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-067",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-068",
+    "pick": "Stone and brick",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-069",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-070",
+    "pick": "Fireworks",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-071",
+    "pick": "Cocoons",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-072",
+    "pick": "Europe",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-073",
+    "pick": "Rat",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-074",
+    "pick": "Clay",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-075",
+    "pick": "City",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-076",
+    "pick": "Compass",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-077",
+    "pick": "Tea",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-078",
+    "pick": "Confucius",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-079",
+    "pick": "Counting",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-080",
+    "pick": "Dynasties",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-081",
+    "pick": "China",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-082",
+    "pick": "Sumerians",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-083",
+    "pick": "The wheel",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-084",
+    "pick": "Fire",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-085",
+    "pick": "Central America",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-086",
+    "pick": "Cacao tree",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-087",
+    "pick": "Peru",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-088",
+    "pick": "Llamas",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-089",
+    "pick": "Moai",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-090",
+    "pick": "Babylon",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-091",
+    "pick": "Stone",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-092",
+    "pick": "Copper",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-093",
+    "pick": "Cave walls",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-094",
+    "pick": "Woolly mammoth",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-095",
+    "pick": "Long before",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-096",
+    "pick": "Fossils",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-097",
+    "pick": "Mary Anning",
+    "confidence": "high",
+    "problem": "Mary Anning's famous finds (ichthyosaurs, plesiosaurs) were marine reptiles, not dinosaurs"
+  },
+  {
+    "id": "easy-hist-098",
+    "pick": "Gathered plants",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-099",
+    "pick": "Africa",
+    "confidence": "high",
+    "problem": null
+  },
+  {
+    "id": "easy-hist-100",
+    "pick": "Dog",
+    "confidence": "high",
+    "problem": null
+  }
+]
