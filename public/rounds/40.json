@@ -1,0 +1,192 @@
+{
+ "number": 40,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-130",
+     "prompt": "211 + 82",
+     "answer": 293,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-060",
+     "prompt": "9 × 9 − 25",
+     "answer": 56,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-088",
+     "prompt": "54 − 18",
+     "answer": 36,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-046",
+     "prompt": "For which pharaoh was the Great Pyramid of Giza built?",
+     "choices": [
+      "Tutankhamun",
+      "Khufu",
+      "Ramses II",
+      "Akhenaten"
+     ],
+     "answer": "Khufu",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-092",
+     "prompt": "Which Russian tsar founded the city of Saint Petersburg?",
+     "choices": [
+      "Ivan the Terrible",
+      "Nicholas II",
+      "Alexander I",
+      "Peter the Great"
+     ],
+     "answer": "Peter the Great",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-105",
+     "prompt": "In which year did the American Civil War begin?",
+     "choices": [
+      "1861",
+      "1776",
+      "1848",
+      "1898"
+     ],
+     "answer": "1861",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-249",
+     "prompt": "Who wrote the South African novel Cry, the Beloved Country?",
+     "choices": [
+      "Nadine Gordimer",
+      "Alan Paton",
+      "Athol Fugard",
+      "J. M. Coetzee"
+     ],
+     "answer": "Alan Paton",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-203",
+     "prompt": "Who wrote Doctor Zhivago?",
+     "choices": [
+      "Mikhail Bulgakov",
+      "Maxim Gorky",
+      "Boris Pasternak",
+      "Mikhail Sholokhov"
+     ],
+     "answer": "Boris Pasternak",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-267",
+     "prompt": "What is the road to the Emerald City made of?",
+     "choices": [
+      "Gold coins",
+      "Yellow bricks",
+      "Red cobblestones",
+      "Silver tiles"
+     ],
+     "answer": "Yellow bricks",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-130",
+     "prompt": "Which river carries more water than any other in the world?",
+     "choices": [
+      "Nile",
+      "Amazon",
+      "Mississippi",
+      "Yangtze"
+     ],
+     "answer": "Amazon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-252",
+     "prompt": "Which gas is the main component of natural gas?",
+     "choices": [
+      "Oxygen",
+      "Helium",
+      "Nitrogen",
+      "Methane"
+     ],
+     "answer": "Methane",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-029",
+     "prompt": "Which layer of Earth is liquid metal and generates the magnetic field?",
+     "choices": [
+      "Outer core",
+      "Inner core",
+      "Mantle",
+      "Crust"
+     ],
+     "answer": "Outer core",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-142",
+     "prompt": "Who named the hard problem of consciousness?",
+     "choices": [
+      "David Chalmers",
+      "John Searle",
+      "Daniel Dennett",
+      "Thomas Nagel"
+     ],
+     "answer": "David Chalmers",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-239",
+     "prompt": "In what language did Nietzsche write?",
+     "choices": [
+      "German",
+      "French",
+      "Latin",
+      "Dutch"
+     ],
+     "answer": "German",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-228",
+     "prompt": "Most of Plato's works are written in what form?",
+     "choices": [
+      "Dialogues",
+      "Letters",
+      "Poems",
+      "Plays"
+     ],
+     "answer": "Dialogues",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

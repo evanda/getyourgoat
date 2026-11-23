@@ -1,0 +1,192 @@
+{
+ "number": 39,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-093",
+     "prompt": "117 ÷ 9 + 25",
+     "answer": 38,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-197",
+     "prompt": "19 × 14",
+     "answer": 266,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-097",
+     "prompt": "64 + 22",
+     "answer": 86,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-109",
+     "prompt": "Which Shoshone woman guided the Lewis and Clark expedition?",
+     "choices": [
+      "Sacagawea",
+      "Pocahontas",
+      "Harriet Tubman",
+      "Sitting Bull"
+     ],
+     "answer": "Sacagawea",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-030",
+     "prompt": "Which philosopher tutored the young Alexander the Great?",
+     "choices": [
+      "Socrates",
+      "Aristotle",
+      "Plato",
+      "Epicurus"
+     ],
+     "answer": "Aristotle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-062",
+     "prompt": "Which Venetian merchant wrote of his travels to Kublai Khan's court?",
+     "choices": [
+      "Ibn Battuta",
+      "Marco Polo",
+      "Vasco da Gama",
+      "Amerigo Vespucci"
+     ],
+     "answer": "Marco Polo",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-064",
+     "prompt": "Who is the pirate captain in Peter Pan?",
+     "choices": [
+      "Long John Silver",
+      "Captain Hook",
+      "Captain Ahab",
+      "Captain Nemo"
+     ],
+     "answer": "Captain Hook",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-278",
+     "prompt": "Which Christmas story features the frail boy Tiny Tim?",
+     "choices": [
+      "Bleak House",
+      "Hard Times",
+      "Oliver Twist",
+      "A Christmas Carol"
+     ],
+     "answer": "A Christmas Carol",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-081",
+     "prompt": "Which Shakespeare play is set in the Forest of Arden?",
+     "choices": [
+      "The Tempest",
+      "Macbeth",
+      "As You Like It",
+      "A Midsummer Night's Dream"
+     ],
+     "answer": "As You Like It",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-127",
+     "prompt": "A fan-shaped deposit of sediment at a river's mouth is called what?",
+     "choices": [
+      "Oxbow",
+      "Levee",
+      "Delta",
+      "Gorge"
+     ],
+     "answer": "Delta",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-287",
+     "prompt": "Which natural wonder is a huge canyon in Arizona carved by a river?",
+     "choices": [
+      "Death Valley",
+      "Crater Lake",
+      "Grand Canyon",
+      "Mesa Verde"
+     ],
+     "answer": "Grand Canyon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-245",
+     "prompt": "Which type of forest has cone-bearing trees and cold winters across northern lands?",
+     "choices": [
+      "Taiga",
+      "Rainforest",
+      "Savanna",
+      "Mangrove"
+     ],
+     "answer": "Taiga",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-071",
+     "prompt": "Occam's razor is named after which friar?",
+     "choices": [
+      "William of Ockham",
+      "Thomas Aquinas",
+      "Duns Scotus",
+      "Roger Bacon"
+     ],
+     "answer": "William of Ockham",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-024",
+     "prompt": "Who was Plato's teacher?",
+     "choices": [
+      "Socrates",
+      "Pythagoras",
+      "Heraclitus",
+      "Protagoras"
+     ],
+     "answer": "Socrates",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-270",
+     "prompt": "Reasoning from observed cases to a general rule is called what?",
+     "choices": [
+      "Induction",
+      "Deduction",
+      "Reduction",
+      "Intuition"
+     ],
+     "answer": "Induction",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

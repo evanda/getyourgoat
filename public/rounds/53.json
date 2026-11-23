@@ -1,0 +1,192 @@
+{
+ "number": 53,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-279",
+     "prompt": "50 + 85",
+     "answer": 135,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-110",
+     "prompt": "10 × 7 − 24",
+     "answer": 46,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-063",
+     "prompt": "88 ÷ 8",
+     "answer": 11,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-213",
+     "prompt": "Which Prussian king was known as the Great?",
+     "choices": [
+      "Frederick II",
+      "Frederick William I",
+      "Wilhelm I",
+      "Otto von Bismarck"
+     ],
+     "answer": "Frederick II",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-082",
+     "prompt": "Which Central Asian conqueror made Samarkand his capital?",
+     "choices": [
+      "Genghis Khan",
+      "Timur",
+      "Babur",
+      "Attila"
+     ],
+     "answer": "Timur",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-157",
+     "prompt": "Which scientist published the theory of relativity?",
+     "choices": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Niels Bohr",
+      "Max Planck"
+     ],
+     "answer": "Albert Einstein",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-281",
+     "prompt": "Which writer's real name was Eric Blair?",
+     "choices": [
+      "Dr. Seuss",
+      "George Orwell",
+      "Mark Twain",
+      "Lewis Carroll"
+     ],
+     "answer": "George Orwell",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-131",
+     "prompt": "Who wrote the poem \"Still I Rise\"?",
+     "choices": [
+      "Maya Angelou",
+      "Toni Morrison",
+      "Gwendolyn Brooks",
+      "Langston Hughes"
+     ],
+     "answer": "Maya Angelou",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-112",
+     "prompt": "Who wrote the modernist poem \"The Waste Land\"?",
+     "choices": [
+      "Ezra Pound",
+      "W. H. Auden",
+      "W. B. Yeats",
+      "T. S. Eliot"
+     ],
+     "answer": "T. S. Eliot",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-225",
+     "prompt": "Which is the longest mountain range on land?",
+     "choices": [
+      "Andes",
+      "Rockies",
+      "Himalayas",
+      "Alps"
+     ],
+     "answer": "Andes",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-139",
+     "prompt": "Piles of rock and debris left behind by a glacier are called what?",
+     "choices": [
+      "Dunes",
+      "Deltas",
+      "Moraines",
+      "Levees"
+     ],
+     "answer": "Moraines",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-098",
+     "prompt": "Sunsets look red mainly because sunlight passes through more what?",
+     "choices": [
+      "Ocean",
+      "Air",
+      "Ice",
+      "Rock"
+     ],
+     "answer": "Air",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-146",
+     "prompt": "Which British philosopher first posed the trolley problem?",
+     "choices": [
+      "Philippa Foot",
+      "Judith Jarvis Thomson",
+      "Elizabeth Anscombe",
+      "Iris Murdoch"
+     ],
+     "answer": "Philippa Foot",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-216",
+     "prompt": "Ethical egoism holds that people should act in whose interest?",
+     "choices": [
+      "Their own",
+      "Society's",
+      "God's",
+      "The ruler's"
+     ],
+     "answer": "Their own",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-035",
+     "prompt": "Plato's dialogue Symposium is mainly about what?",
+     "choices": [
+      "Love",
+      "War",
+      "Justice",
+      "Death"
+     ],
+     "answer": "Love",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

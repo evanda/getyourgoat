@@ -1,0 +1,192 @@
+{
+ "number": 25,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-145",
+     "prompt": "140 ÷ 10 + 22",
+     "answer": 36,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-144",
+     "prompt": "274 + 91",
+     "answer": 365,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-010",
+     "prompt": "12 × 12 − 8",
+     "answer": 136,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-020",
+     "prompt": "Which young pharaoh's tomb was found nearly intact in 1922?",
+     "choices": [
+      "Ramses II",
+      "Khufu",
+      "Akhenaten",
+      "Tutankhamun"
+     ],
+     "answer": "Tutankhamun",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-042",
+     "prompt": "Harappa and Mohenjo-daro belonged to which ancient civilization?",
+     "choices": [
+      "Mesopotamian",
+      "Indus Valley",
+      "Egyptian",
+      "Yellow River"
+     ],
+     "answer": "Indus Valley",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-010",
+     "prompt": "Which Roman emperor ordered a wall built across northern Britain?",
+     "choices": [
+      "Nero",
+      "Hadrian",
+      "Trajan",
+      "Claudius"
+     ],
+     "answer": "Hadrian",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-293",
+     "prompt": "Who wrote Middlemarch?",
+     "choices": [
+      "Jane Austen",
+      "George Eliot",
+      "Charlotte Brontë",
+      "Elizabeth Gaskell"
+     ],
+     "answer": "George Eliot",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-210",
+     "prompt": "Who wrote The Red and the Black?",
+     "choices": [
+      "Émile Zola",
+      "Victor Hugo",
+      "Honoré de Balzac",
+      "Stendhal"
+     ],
+     "answer": "Stendhal",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-140",
+     "prompt": "Who wrote the comedy The Importance of Being Earnest?",
+     "choices": [
+      "George Bernard Shaw",
+      "Oscar Wilde",
+      "Harold Pinter",
+      "Noël Coward"
+     ],
+     "answer": "Oscar Wilde",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-006",
+     "prompt": "Which mineral is 2 on the Mohs scale?",
+     "choices": [
+      "Calcite",
+      "Gypsum",
+      "Fluorite",
+      "Apatite"
+     ],
+     "answer": "Gypsum",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-180",
+     "prompt": "Which day has the most daylight in the Northern Hemisphere?",
+     "choices": [
+      "Winter solstice",
+      "Spring equinox",
+      "Autumn equinox",
+      "Summer solstice"
+     ],
+     "answer": "Summer solstice",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-233",
+     "prompt": "Which U.S. state is made up mostly of volcanic islands?",
+     "choices": [
+      "Hawaii",
+      "Florida",
+      "Maine",
+      "Alaska"
+     ],
+     "answer": "Hawaii",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-281",
+     "prompt": "Which of these is a Chinese school of thought?",
+     "choices": [
+      "Daoism",
+      "Stoicism",
+      "Cynicism",
+      "Scholasticism"
+     ],
+     "answer": "Daoism",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-253",
+     "prompt": "Which of these philosophers was French?",
+     "choices": [
+      "Voltaire",
+      "David Hume",
+      "John Locke",
+      "Plato"
+     ],
+     "answer": "Voltaire",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-289",
+     "prompt": "Which Chinese tradition stresses harmony with nature and the Way?",
+     "choices": [
+      "Daoism",
+      "Legalism",
+      "Confucianism",
+      "Mohism"
+     ],
+     "answer": "Daoism",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

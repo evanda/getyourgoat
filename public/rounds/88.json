@@ -1,0 +1,192 @@
+{
+ "number": 88,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-243",
+     "prompt": "70 ÷ 10 + 7",
+     "answer": 14,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-055",
+     "prompt": "438 − 63",
+     "answer": 375,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-095",
+     "prompt": "99 ÷ 11 + 21",
+     "answer": 30,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-066",
+     "prompt": "Which Japanese city was the imperial capital until 1868?",
+     "choices": [
+      "Osaka",
+      "Kyoto",
+      "Nara",
+      "Nagoya"
+     ],
+     "answer": "Kyoto",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-131",
+     "prompt": "Which Scottish engineer greatly improved the steam engine in the 1700s?",
+     "choices": [
+      "Isaac Newton",
+      "Michael Faraday",
+      "James Watt",
+      "Thomas Telford"
+     ],
+     "answer": "James Watt",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-103",
+     "prompt": "Which US president issued the Emancipation Proclamation?",
+     "choices": [
+      "Ulysses Grant",
+      "Andrew Jackson",
+      "Abraham Lincoln",
+      "Theodore Roosevelt"
+     ],
+     "answer": "Abraham Lincoln",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-154",
+     "prompt": "Which Greek hero was vulnerable only in his heel?",
+     "choices": [
+      "Perseus",
+      "Achilles",
+      "Heracles",
+      "Theseus"
+     ],
+     "answer": "Achilles",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-141",
+     "prompt": "Who wrote the play Pygmalion?",
+     "choices": [
+      "Harold Pinter",
+      "Oscar Wilde",
+      "George Bernard Shaw",
+      "Noël Coward"
+     ],
+     "answer": "George Bernard Shaw",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-012",
+     "prompt": "Who wrote Where the Wild Things Are?",
+     "choices": [
+      "Beatrix Potter",
+      "Dr. Seuss",
+      "Eric Carle",
+      "Maurice Sendak"
+     ],
+     "answer": "Maurice Sendak",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-124",
+     "prompt": "The Great Barrier Reef lies off the coast of which country?",
+     "choices": [
+      "Brazil",
+      "Indonesia",
+      "Mexico",
+      "Australia"
+     ],
+     "answer": "Australia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-226",
+     "prompt": "Which mountain range runs along the western edge of South America?",
+     "choices": [
+      "Alps",
+      "Andes",
+      "Appalachians",
+      "Urals"
+     ],
+     "answer": "Andes",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-199",
+     "prompt": "Earth's average distance to the Sun is called one what?",
+     "choices": [
+      "Light-year",
+      "Parsec",
+      "Astronomical unit",
+      "Kilometer-year"
+     ],
+     "answer": "Astronomical unit",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-233",
+     "prompt": "René Descartes was born in which country?",
+     "choices": [
+      "France",
+      "Italy",
+      "Spain",
+      "Germany"
+     ],
+     "answer": "France",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-200",
+     "prompt": "Laozi is regarded as the founder of which tradition?",
+     "choices": [
+      "Daoism",
+      "Confucianism",
+      "Legalism",
+      "Mohism"
+     ],
+     "answer": "Daoism",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-237",
+     "prompt": "Karl Marx was born in which country?",
+     "choices": [
+      "Germany",
+      "France",
+      "Russia",
+      "England"
+     ],
+     "answer": "Germany",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

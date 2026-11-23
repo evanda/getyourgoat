@@ -1,0 +1,192 @@
+{
+ "number": 87,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-021",
+     "prompt": "7 × 8",
+     "answer": 56,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-008",
+     "prompt": "7 × 7",
+     "answer": 49,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-030",
+     "prompt": "8 × 10",
+     "answer": 80,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-058",
+     "prompt": "Which sultan led the Ottoman conquest of Constantinople?",
+     "choices": [
+      "Suleiman",
+      "Mehmed II",
+      "Osman I",
+      "Selim I"
+     ],
+     "answer": "Mehmed II",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-102",
+     "prompt": "Which 1803 land deal doubled the size of the United States?",
+     "choices": [
+      "Alaska Purchase",
+      "Louisiana Purchase",
+      "Gadsden Purchase",
+      "Texas Annexation"
+     ],
+     "answer": "Louisiana Purchase",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-076",
+     "prompt": "Angkor Wat is in which country?",
+     "choices": [
+      "Thailand",
+      "Vietnam",
+      "Laos",
+      "Cambodia"
+     ],
+     "answer": "Cambodia",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-114",
+     "prompt": "Who wrote the poem \"The Second Coming\"?",
+     "choices": [
+      "Louis MacNeice",
+      "W. B. Yeats",
+      "Patrick Kavanagh",
+      "Seamus Heaney"
+     ],
+     "answer": "W. B. Yeats",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-252",
+     "prompt": "Who wrote the book of poetic essays The Prophet?",
+     "choices": [
+      "Naguib Mahfouz",
+      "Rumi",
+      "Rabindranath Tagore",
+      "Kahlil Gibran"
+     ],
+     "answer": "Kahlil Gibran",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-209",
+     "prompt": "Who wrote the satire Candide?",
+     "choices": [
+      "Rousseau",
+      "Voltaire",
+      "Molière",
+      "Diderot"
+     ],
+     "answer": "Voltaire",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-071",
+     "prompt": "The calm center of a hurricane is called what?",
+     "choices": [
+      "Core",
+      "Hub",
+      "Eye",
+      "Crown"
+     ],
+     "answer": "Eye",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-044",
+     "prompt": "Measured from its base on the seafloor, which mountain is tallest?",
+     "choices": [
+      "Mount Everest",
+      "Denali",
+      "Mount Fuji",
+      "Mauna Kea"
+     ],
+     "answer": "Mauna Kea",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-133",
+     "prompt": "Which lake is the deepest in the world?",
+     "choices": [
+      "Lake Baikal",
+      "Lake Superior",
+      "Lake Tanganyika",
+      "Lake Victoria"
+     ],
+     "answer": "Lake Baikal",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-026",
+     "prompt": "Who wrote The Consolation of Philosophy while imprisoned?",
+     "choices": [
+      "Boethius",
+      "Augustine",
+      "Aquinas",
+      "Cassiodorus"
+     ],
+     "answer": "Boethius",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-080",
+     "prompt": "Who wrote the Two Treatises of Government?",
+     "choices": [
+      "John Locke",
+      "Thomas Hobbes",
+      "Rousseau",
+      "Montesquieu"
+     ],
+     "answer": "John Locke",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-291",
+     "prompt": "Stoicism began in which ancient country?",
+     "choices": [
+      "Greece",
+      "Egypt",
+      "Persia",
+      "China"
+     ],
+     "answer": "Greece",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

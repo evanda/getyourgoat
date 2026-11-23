@@ -1,0 +1,192 @@
+{
+ "number": 44,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-250",
+     "prompt": "12 × 9 − 30",
+     "answer": 78,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-199",
+     "prompt": "85 − 79",
+     "answer": 6,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-147",
+     "prompt": "64 ÷ 8",
+     "answer": 8,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-115",
+     "prompt": "Which leader helped free Venezuela, Colombia, and Ecuador from Spain?",
+     "choices": [
+      "Pancho Villa",
+      "Hernan Cortes",
+      "Simon Bolivar",
+      "Fidel Castro"
+     ],
+     "answer": "Simon Bolivar",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-063",
+     "prompt": "Which Moroccan scholar traveled across Africa and Asia in the 1300s?",
+     "choices": [
+      "Marco Polo",
+      "Zheng He",
+      "Ibn Battuta",
+      "Xuanzang"
+     ],
+     "answer": "Ibn Battuta",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-035",
+     "prompt": "Persepolis was a grand capital of which ancient empire?",
+     "choices": [
+      "Hittite Empire",
+      "Assyrian Empire",
+      "Persian Empire",
+      "Egyptian Empire"
+     ],
+     "answer": "Persian Empire",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-273",
+     "prompt": "Long John Silver is a pirate in which novel?",
+     "choices": [
+      "Robinson Crusoe",
+      "Moby-Dick",
+      "Treasure Island",
+      "Peter Pan"
+     ],
+     "answer": "Treasure Island",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-027",
+     "prompt": "Who wrote The Little Prince?",
+     "choices": [
+      "Victor Hugo",
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Jules Verne"
+     ],
+     "answer": "Antoine de Saint-Exupéry",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-261",
+     "prompt": "Which fairy-tale heroine lets down her long hair from a tower?",
+     "choices": [
+      "Rapunzel",
+      "Cinderella",
+      "Snow White",
+      "Belle"
+     ],
+     "answer": "Rapunzel",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-207",
+     "prompt": "The boundary between the crust and mantle is named after which Croatian scientist?",
+     "choices": [
+      "Richter",
+      "Wegener",
+      "Mohorovicic",
+      "Mercalli"
+     ],
+     "answer": "Mohorovicic",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-148",
+     "prompt": "Which soil particles are the smallest?",
+     "choices": [
+      "Sand",
+      "Silt",
+      "Gravel",
+      "Clay"
+     ],
+     "answer": "Clay",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-020",
+     "prompt": "What name is given to the giant supercontinent that began breaking up about 200 million years ago?",
+     "choices": [
+      "Atlantis",
+      "Lemuria",
+      "Oceania",
+      "Pangaea"
+     ],
+     "answer": "Pangaea",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-225",
+     "prompt": "The Greek word logos can mean what?",
+     "choices": [
+      "Word or reason",
+      "Fire",
+      "Soul",
+      "Citizen"
+     ],
+     "answer": "Word or reason",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-037",
+     "prompt": "Which author recorded Epictetus's Discourses?",
+     "choices": [
+      "Arrian",
+      "Xenophon",
+      "Plutarch",
+      "Lucian"
+     ],
+     "answer": "Arrian",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-133",
+     "prompt": "Who wrote The Structure of Scientific Revolutions?",
+     "choices": [
+      "Thomas Kuhn",
+      "Karl Popper",
+      "Imre Lakatos",
+      "Paul Feyerabend"
+     ],
+     "answer": "Thomas Kuhn",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "number": 36,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-233",
+     "prompt": "30 × 8",
+     "answer": 240,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-023",
+     "prompt": "215 − 92",
+     "answer": 123,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-277",
+     "prompt": "380 − 90",
+     "answer": 290,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-185",
+     "prompt": "Which city did the Abbasid caliphs found in 762 as their capital?",
+     "choices": [
+      "Baghdad",
+      "Cairo",
+      "Damascus",
+      "Mecca"
+     ],
+     "answer": "Baghdad",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-228",
+     "prompt": "Which secret US project built the first atomic bombs in World War II?",
+     "choices": [
+      "Apollo Program",
+      "Project Mercury",
+      "Operation Overlord",
+      "Manhattan Project"
+     ],
+     "answer": "Manhattan Project",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-236",
+     "prompt": "The American Revolution was fought against which country?",
+     "choices": [
+      "France",
+      "Spain",
+      "Mexico",
+      "Great Britain"
+     ],
+     "answer": "Great Britain",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-109",
+     "prompt": "Robert Burns, the author of many famous songs and poems, was from which country?",
+     "choices": [
+      "Ireland",
+      "England",
+      "Scotland",
+      "Wales"
+     ],
+     "answer": "Scotland",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-139",
+     "prompt": "Who wrote the play A Doll's House?",
+     "choices": [
+      "August Strindberg",
+      "Oscar Wilde",
+      "Anton Chekhov",
+      "Henrik Ibsen"
+     ],
+     "answer": "Henrik Ibsen",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-147",
+     "prompt": "Who wrote the Greek tragedy Antigone?",
+     "choices": [
+      "Sophocles",
+      "Aeschylus",
+      "Aristophanes",
+      "Euripides"
+     ],
+     "answer": "Sophocles",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-211",
+     "prompt": "Which early fossil collector found ichthyosaur and plesiosaur skeletons at Lyme Regis?",
+     "choices": [
+      "Marie Tharp",
+      "Jane Goodall",
+      "Mary Anning",
+      "Rosalind Franklin"
+     ],
+     "answer": "Mary Anning",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-234",
+     "prompt": "Which volcano erupted in Iceland in 2010 and disrupted European air travel?",
+     "choices": [
+      "Vesuvius",
+      "Eyjafjallajokull",
+      "Krakatoa",
+      "Etna"
+     ],
+     "answer": "Eyjafjallajokull",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-201",
+     "prompt": "Which layer of the Sun do we see as its bright surface?",
+     "choices": [
+      "Photosphere",
+      "Corona",
+      "Core",
+      "Chromosphere"
+     ],
+     "answer": "Photosphere",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-186",
+     "prompt": "Which argument says the universe needs a first cause?",
+     "choices": [
+      "Cosmological argument",
+      "Ontological argument",
+      "Moral argument",
+      "Pragmatic argument"
+     ],
+     "answer": "Cosmological argument",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-020",
+     "prompt": "Plotinus is the founder of which school?",
+     "choices": [
+      "Neoplatonism",
+      "Stoicism",
+      "Scholasticism",
+      "Cynicism"
+     ],
+     "answer": "Neoplatonism",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-152",
+     "prompt": "Who wrote the Begriffsschrift, a landmark of modern logic?",
+     "choices": [
+      "Gottlob Frege",
+      "George Boole",
+      "Bertrand Russell",
+      "Kurt Godel"
+     ],
+     "answer": "Gottlob Frege",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

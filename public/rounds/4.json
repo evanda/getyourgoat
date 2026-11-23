@@ -1,0 +1,192 @@
+{
+ "number": 4,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-254",
+     "prompt": "15 + 44",
+     "answer": 59,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-230",
+     "prompt": "230 ÷ 10",
+     "answer": 23,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-166",
+     "prompt": "96 − 64",
+     "answer": 32,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-112",
+     "prompt": "In which year was the US transcontinental railroad completed?",
+     "choices": [
+      "1849",
+      "1889",
+      "1905",
+      "1869"
+     ],
+     "answer": "1869",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-240",
+     "prompt": "In which year did World War I begin?",
+     "choices": [
+      "1905",
+      "1918",
+      "1939",
+      "1914"
+     ],
+     "answer": "1914",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-172",
+     "prompt": "The giant Nazca Lines are drawn in the desert of which country?",
+     "choices": [
+      "Peru",
+      "Mexico",
+      "Chile",
+      "Bolivia"
+     ],
+     "answer": "Peru",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-129",
+     "prompt": "Who wrote the nonsense poem \"The Owl and the Pussycat\"?",
+     "choices": [
+      "Edward Lear",
+      "Hilaire Belloc",
+      "Ogden Nash",
+      "Lewis Carroll"
+     ],
+     "answer": "Edward Lear",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-189",
+     "prompt": "Which Frenchman published Mother Goose tales in the 1690s?",
+     "choices": [
+      "Charles Perrault",
+      "Molière",
+      "Voltaire",
+      "Jean de La Fontaine"
+     ],
+     "answer": "Charles Perrault",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-083",
+     "prompt": "Which animal keeps dozing at the Mad Hatter's tea party?",
+     "choices": [
+      "The Dodo",
+      "The Cheshire Cat",
+      "The Dormouse",
+      "The White Rabbit"
+     ],
+     "answer": "The Dormouse",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-152",
+     "prompt": "Freeze-thaw cracking of rock is an example of what kind of weathering?",
+     "choices": [
+      "Chemical",
+      "Biological",
+      "Nuclear",
+      "Physical"
+     ],
+     "answer": "Physical",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-173",
+     "prompt": "A fossil that helps date rock layers because it lived briefly and widely is called what?",
+     "choices": [
+      "Index fossil",
+      "Trace fossil",
+      "Living fossil",
+      "Mold fossil"
+     ],
+     "answer": "Index fossil",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-095",
+     "prompt": "Which natural light show glows near Earth's poles?",
+     "choices": [
+      "Rainbow",
+      "Eclipse",
+      "Aurora",
+      "Halo"
+     ],
+     "answer": "Aurora",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-122",
+     "prompt": "Which American philosopher is linked to progressive education reform?",
+     "choices": [
+      "John Dewey",
+      "William James",
+      "Charles Peirce",
+      "George Santayana"
+     ],
+     "answer": "John Dewey",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-249",
+     "prompt": "In what language did Marcus Aurelius write the Meditations?",
+     "choices": [
+      "Greek",
+      "Latin",
+      "Hebrew",
+      "Aramaic"
+     ],
+     "answer": "Greek",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-032",
+     "prompt": "Which Presocratic is linked to the apeiron, the boundless?",
+     "choices": [
+      "Anaximander",
+      "Thales",
+      "Heraclitus",
+      "Parmenides"
+     ],
+     "answer": "Anaximander",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "number": 80,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-268",
+     "prompt": "29 × 17",
+     "answer": 493,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-061",
+     "prompt": "66 ÷ 6",
+     "answer": 11,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-275",
+     "prompt": "18 × 8",
+     "answer": 144,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-176",
+     "prompt": "Which Inca emperor was captured by Pizarro in 1532?",
+     "choices": [
+      "Montezuma II",
+      "Pachacuti",
+      "Manco Capac",
+      "Atahualpa"
+     ],
+     "answer": "Atahualpa",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-285",
+     "prompt": "Anne Frank's family hid from the Nazis in which city?",
+     "choices": [
+      "Amsterdam",
+      "Berlin",
+      "Brussels",
+      "Vienna"
+     ],
+     "answer": "Amsterdam",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-015",
+     "prompt": "What was the Pharos of Alexandria?",
+     "choices": [
+      "A library",
+      "A palace",
+      "A lighthouse",
+      "A temple"
+     ],
+     "answer": "A lighthouse",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-013",
+     "prompt": "Who wrote Charlotte's Web?",
+     "choices": [
+      "Beverly Cleary",
+      "Roald Dahl",
+      "E. B. White",
+      "Laura Ingalls Wilder"
+     ],
+     "answer": "E. B. White",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-029",
+     "prompt": "Who wrote Crime and Punishment?",
+     "choices": [
+      "Boris Pasternak",
+      "Nikolai Gogol",
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky"
+     ],
+     "answer": "Fyodor Dostoevsky",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-175",
+     "prompt": "Which rainbow bridge links Asgard to Earth in Norse myth?",
+     "choices": [
+      "Yggdrasil",
+      "Bifröst",
+      "Valhalla",
+      "Mjölnir"
+     ],
+     "answer": "Bifröst",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-014",
+     "prompt": "Which shiny mineral is nicknamed \"fool's gold\"?",
+     "choices": [
+      "Galena",
+      "Pyrite",
+      "Hematite",
+      "Quartz"
+     ],
+     "answer": "Pyrite",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-284",
+     "prompt": "A violent volcanic eruption can lower global temperatures by doing what?",
+     "choices": [
+      "Releasing ice",
+      "Heating the ocean",
+      "Moving the poles",
+      "Putting ash and gas in the air"
+     ],
+     "answer": "Putting ash and gas in the air",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-159",
+     "prompt": "Which formation grows upward from a cave floor?",
+     "choices": [
+      "Stalactite",
+      "Geode",
+      "Stalagmite",
+      "Crystal"
+     ],
+     "answer": "Stalagmite",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-180",
+     "prompt": "Which ethics centers on character rather than rules or results?",
+     "choices": [
+      "Virtue ethics",
+      "Deontology",
+      "Consequentialism",
+      "Egoism"
+     ],
+     "answer": "Virtue ethics",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-195",
+     "prompt": "Which philosopher wrote An Essay Concerning Human Understanding?",
+     "choices": [
+      "John Locke",
+      "David Hume",
+      "George Berkeley",
+      "Thomas Hobbes"
+     ],
+     "answer": "John Locke",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-061",
+     "prompt": "The Bhagavad Gita is part of which epic?",
+     "choices": [
+      "Mahabharata",
+      "Ramayana",
+      "Iliad",
+      "Gilgamesh"
+     ],
+     "answer": "Mahabharata",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

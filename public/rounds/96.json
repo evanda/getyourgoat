@@ -1,0 +1,192 @@
+{
+ "number": 96,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-240",
+     "prompt": "77 ÷ 7",
+     "answer": 11,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-293",
+     "prompt": "10 × 12 − 26",
+     "answer": 94,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-169",
+     "prompt": "87 + 87",
+     "answer": 174,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-196",
+     "prompt": "In which year was Nelson Mandela elected president of South Africa?",
+     "choices": [
+      "1976",
+      "1963",
+      "2002",
+      "1994"
+     ],
+     "answer": "1994",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-205",
+     "prompt": "Which 1840 treaty was signed between Maori chiefs and the British Crown?",
+     "choices": [
+      "Treaty of Waitangi",
+      "Treaty of Paris",
+      "Treaty of Ghent",
+      "Treaty of Nanking"
+     ],
+     "answer": "Treaty of Waitangi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-007",
+     "prompt": "Which Carthaginian general crossed the Alps with war elephants?",
+     "choices": [
+      "Scipio",
+      "Spartacus",
+      "Hannibal",
+      "Brutus"
+     ],
+     "answer": "Hannibal",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-106",
+     "prompt": "Who wrote the epic poem Paradise Lost?",
+     "choices": [
+      "John Dryden",
+      "John Donne",
+      "John Milton",
+      "Alexander Pope"
+     ],
+     "answer": "John Milton",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-220",
+     "prompt": "Who wrote the poem \"Ode to Joy\" that Beethoven later set to music?",
+     "choices": [
+      "Friedrich Schiller",
+      "Johann Wolfgang von Goethe",
+      "Friedrich Hölderlin",
+      "Heinrich Heine"
+     ],
+     "answer": "Friedrich Schiller",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-170",
+     "prompt": "Which Greek monster has snakes for hair?",
+     "choices": [
+      "Hydra",
+      "Chimera",
+      "Scylla",
+      "Medusa"
+     ],
+     "answer": "Medusa",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-074",
+     "prompt": "Which scale describes wind speed using observed effects, from calm to hurricane force?",
+     "choices": [
+      "Mohs",
+      "Beaufort",
+      "Kelvin",
+      "Richter"
+     ],
+     "answer": "Beaufort",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-281",
+     "prompt": "Which volcanic cloud of hot gas and ash races down a slope?",
+     "choices": [
+      "Pyroclastic flow",
+      "Lava dome",
+      "Tsunami",
+      "Rip current"
+     ],
+     "answer": "Pyroclastic flow",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-109",
+     "prompt": "Which desert covers much of northern Africa?",
+     "choices": [
+      "Sahara",
+      "Gobi",
+      "Mojave",
+      "Thar"
+     ],
+     "answer": "Sahara",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-213",
+     "prompt": "Which American logician introduced pragmatism in the 1870s?",
+     "choices": [
+      "Charles Sanders Peirce",
+      "John Dewey",
+      "George Santayana",
+      "Josiah Royce"
+     ],
+     "answer": "Charles Sanders Peirce",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-007",
+     "prompt": "Which Greek thinker is famous for living in a large jar?",
+     "choices": [
+      "Diogenes",
+      "Plato",
+      "Zeno",
+      "Thales"
+     ],
+     "answer": "Diogenes",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-286",
+     "prompt": "Which term did Kant use for things as they are in themselves?",
+     "choices": [
+      "Noumena",
+      "Phenomena",
+      "Monads",
+      "Forms"
+     ],
+     "answer": "Noumena",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

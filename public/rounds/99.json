@@ -1,0 +1,192 @@
+{
+ "number": 99,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-260",
+     "prompt": "25 × 5",
+     "answer": 125,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-051",
+     "prompt": "25 × 4",
+     "answer": 100,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-259",
+     "prompt": "12 × 8 + 5 × 6",
+     "answer": 126,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-289",
+     "prompt": "Which American businessman made the Model T car affordable with assembly lines?",
+     "choices": [
+      "Henry Ford",
+      "Thomas Edison",
+      "Andrew Carnegie",
+      "John Rockefeller"
+     ],
+     "answer": "Henry Ford",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-081",
+     "prompt": "Which Chinese dynasty, with its capital at Chang'an, was a golden age for poetry?",
+     "choices": [
+      "Tang",
+      "Qin",
+      "Yuan",
+      "Qing"
+     ],
+     "answer": "Tang",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-036",
+     "prompt": "Ancient Carthage stood in which modern country?",
+     "choices": [
+      "Libya",
+      "Algeria",
+      "Morocco",
+      "Tunisia"
+     ],
+     "answer": "Tunisia",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-074",
+     "prompt": "The sorcerer Prospero appears in which Shakespeare play?",
+     "choices": [
+      "Hamlet",
+      "Othello",
+      "The Tempest",
+      "King Lear"
+     ],
+     "answer": "The Tempest",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-179",
+     "prompt": "Which Indian epic tells of Rama rescuing Sita?",
+     "choices": [
+      "Mahabharata",
+      "Ramayana",
+      "Upanishads",
+      "Panchatantra"
+     ],
+     "answer": "Ramayana",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-183",
+     "prompt": "Which tale features the magic words \"Open sesame\"?",
+     "choices": [
+      "Ali Baba and the Forty Thieves",
+      "Cinderella",
+      "Aladdin",
+      "Sinbad the Sailor"
+     ],
+     "answer": "Ali Baba and the Forty Thieves",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-237",
+     "prompt": "Earthquakes occur mostly along what?",
+     "choices": [
+      "Plate boundaries",
+      "Deserts",
+      "Large lakes",
+      "Mountain tops"
+     ],
+     "answer": "Plate boundaries",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-101",
+     "prompt": "Which type of storm is a long period of heavy snow with strong winds?",
+     "choices": [
+      "Blizzard",
+      "Derecho",
+      "Monsoon",
+      "Squall"
+     ],
+     "answer": "Blizzard",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-196",
+     "prompt": "A space rock that survives and lands on Earth is called a what?",
+     "choices": [
+      "Meteoroid",
+      "Asteroid",
+      "Comet",
+      "Meteorite"
+     ],
+     "answer": "Meteorite",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-029",
+     "prompt": "Which Greek thinker taught that virtue lies between excess and deficiency?",
+     "choices": [
+      "Aristotle",
+      "Plato",
+      "Zeno",
+      "Diogenes"
+     ],
+     "answer": "Aristotle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-168",
+     "prompt": "Which belief says life has no inherent meaning or values?",
+     "choices": [
+      "Nihilism",
+      "Stoicism",
+      "Pragmatism",
+      "Idealism"
+     ],
+     "answer": "Nihilism",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-272",
+     "prompt": "Sophistry means the use of what kind of argument?",
+     "choices": [
+      "Clever but misleading",
+      "Strictly logical",
+      "Poetic",
+      "Religious"
+     ],
+     "answer": "Clever but misleading",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

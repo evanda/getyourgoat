@@ -1,0 +1,192 @@
+{
+ "number": 24,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-237",
+     "prompt": "36 × 4",
+     "answer": 144,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-272",
+     "prompt": "15 × 5",
+     "answer": 75,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-176",
+     "prompt": "174 + 57",
+     "answer": 231,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-155",
+     "prompt": "Which Italian astronomer was tried by the Inquisition in 1633?",
+     "choices": [
+      "Johannes Kepler",
+      "Giordano Bruno",
+      "Galileo Galilei",
+      "Nicolaus Copernicus"
+     ],
+     "answer": "Galileo Galilei",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-144",
+     "prompt": "In which year did the Berlin Wall fall?",
+     "choices": [
+      "1975",
+      "1991",
+      "1961",
+      "1989"
+     ],
+     "answer": "1989",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-284",
+     "prompt": "Which German emperor led his country into World War I?",
+     "choices": [
+      "Otto von Bismarck",
+      "Frederick the Great",
+      "Wilhelm I",
+      "Kaiser Wilhelm II"
+     ],
+     "answer": "Kaiser Wilhelm II",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-101",
+     "prompt": "Who wrote the poem about two roads diverging in a yellow wood?",
+     "choices": [
+      "Emily Dickinson",
+      "Robert Frost",
+      "Walt Whitman",
+      "Carl Sandburg"
+     ],
+     "answer": "Robert Frost",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-072",
+     "prompt": "Mr. Rochester is a character in which novel?",
+     "choices": [
+      "Emma",
+      "Rebecca",
+      "Wuthering Heights",
+      "Jane Eyre"
+     ],
+     "answer": "Jane Eyre",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-197",
+     "prompt": "Who wrote The Giver?",
+     "choices": [
+      "Suzanne Collins",
+      "Lois Lowry",
+      "Madeleine L'Engle",
+      "Beverly Cleary"
+     ],
+     "answer": "Lois Lowry",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-120",
+     "prompt": "Which warm current flows north along the east coast of the United States?",
+     "choices": [
+      "Humboldt Current",
+      "Labrador Current",
+      "Canary Current",
+      "Gulf Stream"
+     ],
+     "answer": "Gulf Stream",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-279",
+     "prompt": "The huge bowl left after a volcano collapses is called a what?",
+     "choices": [
+      "Delta",
+      "Moraine",
+      "Caldera",
+      "Atoll"
+     ],
+     "answer": "Caldera",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-052",
+     "prompt": "Which dark volcanic rock makes up most of the ocean floor?",
+     "choices": [
+      "Granite",
+      "Marble",
+      "Quartzite",
+      "Basalt"
+     ],
+     "answer": "Basalt",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-027",
+     "prompt": "Which saint and bishop wrote the Confessions?",
+     "choices": [
+      "Augustine",
+      "Aquinas",
+      "Anselm",
+      "Jerome"
+     ],
+     "answer": "Augustine",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-049",
+     "prompt": "Which Confucian argued that human nature tends toward bad?",
+     "choices": [
+      "Xunzi",
+      "Mencius",
+      "Zhuangzi",
+      "Mozi"
+     ],
+     "answer": "Xunzi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-079",
+     "prompt": "Who wrote Leviathan?",
+     "choices": [
+      "Thomas Hobbes",
+      "John Locke",
+      "Rousseau",
+      "David Hume"
+     ],
+     "answer": "Thomas Hobbes",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

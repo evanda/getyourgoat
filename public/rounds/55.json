@@ -1,0 +1,192 @@
+{
+ "number": 55,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-284",
+     "prompt": "180 ÷ 12 + 19",
+     "answer": 34,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-069",
+     "prompt": "474 − 228",
+     "answer": 246,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-018",
+     "prompt": "294 ÷ 14",
+     "answer": 21,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-200",
+     "prompt": "Who became the first president of independent Kenya?",
+     "choices": [
+      "Julius Nyerere",
+      "Kwame Nkrumah",
+      "Robert Mugabe",
+      "Jomo Kenyatta"
+     ],
+     "answer": "Jomo Kenyatta",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-216",
+     "prompt": "The Great Depression began after a Wall Street crash in which year?",
+     "choices": [
+      "1919",
+      "1939",
+      "1945",
+      "1929"
+     ],
+     "answer": "1929",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-158",
+     "prompt": "Which English scientist described gravity and the laws of motion in 1687?",
+     "choices": [
+      "Robert Boyle",
+      "Isaac Newton",
+      "Edmund Halley",
+      "Robert Hooke"
+     ],
+     "answer": "Isaac Newton",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-241",
+     "prompt": "In Journey to the West, who is the Monkey King?",
+     "choices": [
+      "Sha Wujing",
+      "Sun Wukong",
+      "Zhu Bajie",
+      "Tang Sanzang"
+     ],
+     "answer": "Sun Wukong",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-117",
+     "prompt": "In which language did the poet Rumi mainly write?",
+     "choices": [
+      "Arabic",
+      "Urdu",
+      "Turkish",
+      "Persian"
+     ],
+     "answer": "Persian",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-066",
+     "prompt": "What is the name of Dorothy's dog in The Wonderful Wizard of Oz?",
+     "choices": [
+      "Snowy",
+      "Buck",
+      "Fang",
+      "Toto"
+     ],
+     "answer": "Toto",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-031",
+     "prompt": "About how old is Earth?",
+     "choices": [
+      "450 million years",
+      "45 million years",
+      "4.5 billion years",
+      "14 billion years"
+     ],
+     "answer": "4.5 billion years",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-181",
+     "prompt": "On an equinox, day and night are about what?",
+     "choices": [
+      "Equal in length",
+      "Longest of the year",
+      "Shortest of the year",
+      "Nonexistent"
+     ],
+     "answer": "Equal in length",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-131",
+     "prompt": "Which river flows through the Grand Canyon?",
+     "choices": [
+      "Mississippi",
+      "Columbia",
+      "Colorado",
+      "Rio Grande"
+     ],
+     "answer": "Colorado",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-135",
+     "prompt": "Who wrote Anarchy, State, and Utopia?",
+     "choices": [
+      "Robert Nozick",
+      "John Rawls",
+      "Michael Sandel",
+      "Peter Singer"
+     ],
+     "answer": "Robert Nozick",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-199",
+     "prompt": "Confucius came from which country?",
+     "choices": [
+      "China",
+      "Japan",
+      "Korea",
+      "India"
+     ],
+     "answer": "China",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-287",
+     "prompt": "Who wrote The Open Society and Its Enemies?",
+     "choices": [
+      "Karl Popper",
+      "Friedrich Hayek",
+      "Isaiah Berlin",
+      "John Rawls"
+     ],
+     "answer": "Karl Popper",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

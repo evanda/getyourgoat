@@ -1,0 +1,192 @@
+{
+ "number": 98,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-262",
+     "prompt": "298 − 81",
+     "answer": 217,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-181",
+     "prompt": "461 − 119",
+     "answer": 342,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-112",
+     "prompt": "6 × 7",
+     "answer": 42,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-300",
+     "prompt": "Which Germanic people, led by Alaric, sacked Rome in AD 410?",
+     "choices": [
+      "The Huns",
+      "The Vandals",
+      "The Franks",
+      "The Visigoths"
+     ],
+     "answer": "The Visigoths",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-111",
+     "prompt": "Which US document begins with the words 'We the People'?",
+     "choices": [
+      "The Declaration of Independence",
+      "The Bill of Rights",
+      "The Constitution",
+      "The Mayflower Compact"
+     ],
+     "answer": "The Constitution",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-253",
+     "prompt": "What were the long, narrow Viking warships called?",
+     "choices": [
+      "Longships",
+      "Galleons",
+      "Triremes",
+      "Junks"
+     ],
+     "answer": "Longships",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-172",
+     "prompt": "Who is the chief god of the Norse pantheon?",
+     "choices": [
+      "Thor",
+      "Loki",
+      "Odin",
+      "Freyr"
+     ],
+     "answer": "Odin",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-257",
+     "prompt": "Who wrote the Greek novel Zorba the Greek?",
+     "choices": [
+      "C. P. Cavafy",
+      "Odysseas Elytis",
+      "Giorgos Seferis",
+      "Nikos Kazantzakis"
+     ],
+     "answer": "Nikos Kazantzakis",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-295",
+     "prompt": "Who narrates Moby-Dick?",
+     "choices": [
+      "Starbuck",
+      "Ishmael",
+      "Ahab",
+      "Queequeg"
+     ],
+     "answer": "Ishmael",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-193",
+     "prompt": "A solar eclipse happens when which body passes between the Sun and Earth?",
+     "choices": [
+      "Moon",
+      "Venus",
+      "Mars",
+      "Jupiter"
+     ],
+     "answer": "Moon",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-177",
+     "prompt": "Earth rotates once on its axis about every how long?",
+     "choices": [
+      "24 hours",
+      "12 hours",
+      "7 days",
+      "365 days"
+     ],
+     "answer": "24 hours",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-218",
+     "prompt": "Earth takes about how long to orbit the Sun once?",
+     "choices": [
+      "30 days",
+      "365 days",
+      "24 hours",
+      "7 days"
+     ],
+     "answer": "365 days",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-155",
+     "prompt": "Which Harvard professor is known for a popular course called Justice?",
+     "choices": [
+      "Michael Sandel",
+      "John Rawls",
+      "Peter Singer",
+      "Robert Nozick"
+     ],
+     "answer": "Michael Sandel",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-187",
+     "prompt": "Which argument for God points to apparent order and purpose in nature?",
+     "choices": [
+      "Teleological argument",
+      "Ontological argument",
+      "Cosmological argument",
+      "Moral argument"
+     ],
+     "answer": "Teleological argument",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-060",
+     "prompt": "The Sanskrit term ahimsa means what?",
+     "choices": [
+      "Nonviolence",
+      "Truth",
+      "Charity",
+      "Detachment"
+     ],
+     "answer": "Nonviolence",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

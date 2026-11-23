@@ -1,0 +1,192 @@
+{
+ "number": 46,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-290",
+     "prompt": "173 + 78",
+     "answer": 251,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-239",
+     "prompt": "40 ÷ 5",
+     "answer": 8,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-157",
+     "prompt": "74 + 43",
+     "answer": 117,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-295",
+     "prompt": "What did the ancient Greeks call their independent city-states?",
+     "choices": [
+      "Senate",
+      "Forum",
+      "Polis",
+      "Agora"
+     ],
+     "answer": "Polis",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-177",
+     "prompt": "What name, meaning divine wind, was given to the storms that wrecked Mongol fleets off Japan?",
+     "choices": [
+      "Kamikaze",
+      "Tsunami",
+      "Monsoon",
+      "Sirocco"
+     ],
+     "answer": "Kamikaze",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-025",
+     "prompt": "Which Spanish conquistador defeated the Aztec Empire?",
+     "choices": [
+      "Hernan Cortes",
+      "Francisco Pizarro",
+      "Christopher Columbus",
+      "Vasco Balboa"
+     ],
+     "answer": "Hernan Cortes",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-005",
+     "prompt": "Who wrote Frankenstein?",
+     "choices": [
+      "Bram Stoker",
+      "Mary Shelley",
+      "H. G. Wells",
+      "Robert Louis Stevenson"
+     ],
+     "answer": "Mary Shelley",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-054",
+     "prompt": "Holden Caulfield narrates which novel?",
+     "choices": [
+      "The Outsiders",
+      "Catch-22",
+      "On the Road",
+      "The Catcher in the Rye"
+     ],
+     "answer": "The Catcher in the Rye",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-221",
+     "prompt": "Who wrote the Mexican novel Pedro Páramo?",
+     "choices": [
+      "Carlos Fuentes",
+      "Octavio Paz",
+      "Mario Vargas Llosa",
+      "Juan Rulfo"
+     ],
+     "answer": "Juan Rulfo",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-274",
+     "prompt": "Which mineral is magnetic and used as a natural lodestone?",
+     "choices": [
+      "Quartz",
+      "Magnetite",
+      "Talc",
+      "Gypsum"
+     ],
+     "answer": "Magnetite",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-062",
+     "prompt": "Which instrument measures air pressure?",
+     "choices": [
+      "Thermometer",
+      "Barometer",
+      "Anemometer",
+      "Hygrometer"
+     ],
+     "answer": "Barometer",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-205",
+     "prompt": "Which is the thinnest of Earth's major layers?",
+     "choices": [
+      "Crust",
+      "Mantle",
+      "Outer core",
+      "Inner core"
+     ],
+     "answer": "Crust",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-019",
+     "prompt": "Diogenes of Sinope belonged to which school?",
+     "choices": [
+      "Cynicism",
+      "Stoicism",
+      "Epicureanism",
+      "Skepticism"
+     ],
+     "answer": "Cynicism",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-285",
+     "prompt": "What did Plotinus call the ultimate source of all things?",
+     "choices": [
+      "The One",
+      "The Demiurge",
+      "The Logos",
+      "The Forms"
+     ],
+     "answer": "The One",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-052",
+     "prompt": "What does the Daoist term Dao mean?",
+     "choices": [
+      "The Way",
+      "The Law",
+      "The Sun",
+      "The Gift"
+     ],
+     "answer": "The Way",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "number": 95,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-091",
+     "prompt": "480 − 80",
+     "answer": 400,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-059",
+     "prompt": "26 × 17",
+     "answer": 442,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-153",
+     "prompt": "18 + 68",
+     "answer": 86,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-250",
+     "prompt": "Samurai warriors came from which country?",
+     "choices": [
+      "China",
+      "Japan",
+      "Korea",
+      "Mongolia"
+     ],
+     "answer": "Japan",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-186",
+     "prompt": "Which Muslim dynasty ruled from Damascus before the Abbasids?",
+     "choices": [
+      "Safavid",
+      "Umayyad",
+      "Ottoman",
+      "Fatimid"
+     ],
+     "answer": "Umayyad",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-298",
+     "prompt": "In which year did Britain return Hong Kong to China?",
+     "choices": [
+      "1984",
+      "1997",
+      "2005",
+      "1949"
+     ],
+     "answer": "1997",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-133",
+     "prompt": "How many lines does a traditional sonnet have?",
+     "choices": [
+      "16",
+      "14",
+      "12",
+      "10"
+     ],
+     "answer": "14",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-134",
+     "prompt": "How many lines does a limerick have?",
+     "choices": [
+      "Five",
+      "Six",
+      "Seven",
+      "Four"
+     ],
+     "answer": "Five",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-096",
+     "prompt": "Who is Don Quixote's loyal squire?",
+     "choices": [
+      "Figaro",
+      "Sganarelle",
+      "Sancho Panza",
+      "Leporello"
+     ],
+     "answer": "Sancho Panza",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-135",
+     "prompt": "Which continent has the most freshwater locked in ice?",
+     "choices": [
+      "Greenland",
+      "Asia",
+      "Antarctica",
+      "North America"
+     ],
+     "answer": "Antarctica",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-144",
+     "prompt": "Ice ages are also known by which term for repeated glacier growth?",
+     "choices": [
+      "Subduction",
+      "Erosion",
+      "Eruption",
+      "Glaciation"
+     ],
+     "answer": "Glaciation",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-079",
+     "prompt": "In the Northern Hemisphere, winds are bent to the right by which effect?",
+     "choices": [
+      "Doppler effect",
+      "Greenhouse effect",
+      "Coriolis effect",
+      "Venturi effect"
+     ],
+     "answer": "Coriolis effect",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-033",
+     "prompt": "Which philosopher is known for the claim that change is an illusion?",
+     "choices": [
+      "Parmenides",
+      "Heraclitus",
+      "Democritus",
+      "Empedocles"
+     ],
+     "answer": "Parmenides",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-051",
+     "prompt": "Which Chinese philosopher taught impartial care for all people?",
+     "choices": [
+      "Mozi",
+      "Xunzi",
+      "Confucius",
+      "Zhuangzi"
+     ],
+     "answer": "Mozi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-176",
+     "prompt": "The Latin phrase tabula rasa means what?",
+     "choices": [
+      "Blank slate",
+      "First cause",
+      "Hidden hand",
+      "Great chain"
+     ],
+     "answer": "Blank slate",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

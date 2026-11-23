@@ -22,5 +22,21 @@
  "hist-224": {
   "decision": "keep",
   "reason": "Algebra comes from his book title, not his name; now asks only about algorithm."
+ },
+ "phil-107": {
+  "decision": "keep",
+  "reason": "Hegel also wrote of the death of God; replaced that distractor with Spinoza."
+ },
+ "phil-245": {
+  "decision": "drop",
+  "reason": "Walking-about etymology is folk tradition; name likely from the peripatos walkway."
+ },
+ "phil-297": {
+  "decision": "keep",
+  "reason": "\"Honest\" is a later embellishment; now asks for \"a man\" as in Diogenes Laertius."
+ },
+ "phil-301": {
+  "decision": "keep",
+  "reason": "Written by the lead to replace phil-245; Locke, Essay Concerning Human Understanding (tabula rasa). Not blind-checked."
  }
 }

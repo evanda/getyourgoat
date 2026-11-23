@@ -1,0 +1,3915 @@
+[
+ {
+  "id": "phil-001",
+  "prompt": "Which philosopher founded the Academy in Athens?",
+  "choices": [
+   "Plato",
+   "Aristotle",
+   "Epicurus",
+   "Zeno of Citium"
+  ],
+  "answer": "Plato",
+  "difficulty": "easy",
+  "topic": "founder of the academy"
+ },
+ {
+  "id": "phil-002",
+  "prompt": "Which philosopher tutored the young Alexander the Great?",
+  "choices": [
+   "Aristotle",
+   "Plato",
+   "Socrates",
+   "Diogenes"
+  ],
+  "answer": "Aristotle",
+  "difficulty": "easy",
+  "topic": "tutor of alexander"
+ },
+ {
+  "id": "phil-003",
+  "prompt": "Which Greek philosopher was sentenced to drink hemlock?",
+  "choices": [
+   "Socrates",
+   "Aristotle",
+   "Epicurus",
+   "Heraclitus"
+  ],
+  "answer": "Socrates",
+  "difficulty": "easy",
+  "topic": "hemlock sentence"
+ },
+ {
+  "id": "phil-004",
+  "prompt": "Aristotle founded which school in Athens?",
+  "choices": [
+   "The Lyceum",
+   "The Academy",
+   "The Garden",
+   "The Porch"
+  ],
+  "answer": "The Lyceum",
+  "difficulty": "medium",
+  "topic": "founder of the lyceum"
+ },
+ {
+  "id": "phil-005",
+  "prompt": "Who founded the Stoic school of philosophy?",
+  "choices": [
+   "Zeno of Citium",
+   "Epicurus",
+   "Pyrrho",
+   "Plotinus"
+  ],
+  "answer": "Zeno of Citium",
+  "difficulty": "easy",
+  "topic": "founder of stoicism"
+ },
+ {
+  "id": "phil-006",
+  "prompt": "What name was given to Epicurus's school in Athens?",
+  "choices": [
+   "The Garden",
+   "The Porch",
+   "The Lyceum",
+   "The Academy"
+  ],
+  "answer": "The Garden",
+  "difficulty": "medium",
+  "topic": "epicurus school name"
+ },
+ {
+  "id": "phil-007",
+  "prompt": "Which Greek thinker is famous for living in a large jar?",
+  "choices": [
+   "Diogenes",
+   "Plato",
+   "Zeno",
+   "Thales"
+  ],
+  "answer": "Diogenes",
+  "difficulty": "easy",
+  "topic": "diogenes jar"
+ },
+ {
+  "id": "phil-008",
+  "prompt": "Who wrote the Nicomachean Ethics?",
+  "choices": [
+   "Aristotle",
+   "Plato",
+   "Epicurus",
+   "Seneca"
+  ],
+  "answer": "Aristotle",
+  "difficulty": "easy",
+  "topic": "author of nicomachean ethics"
+ },
+ {
+  "id": "phil-009",
+  "prompt": "Who put forward the theory of Forms, eternal ideal patterns of things?",
+  "choices": [
+   "Plato",
+   "Aristotle",
+   "Democritus",
+   "Epicurus"
+  ],
+  "answer": "Plato",
+  "difficulty": "medium",
+  "topic": "theory of forms"
+ },
+ {
+  "id": "phil-010",
+  "prompt": "Which Roman emperor wrote the Meditations?",
+  "choices": [
+   "Marcus Aurelius",
+   "Nero",
+   "Augustus",
+   "Hadrian"
+  ],
+  "answer": "Marcus Aurelius",
+  "difficulty": "easy",
+  "topic": "author of meditations"
+ },
+ {
+  "id": "phil-011",
+  "prompt": "The Stoic Epictetus began life as what?",
+  "choices": [
+   "A slave",
+   "A senator",
+   "A soldier",
+   "A merchant"
+  ],
+  "answer": "A slave",
+  "difficulty": "medium",
+  "topic": "epictetus origin"
+ },
+ {
+  "id": "phil-012",
+  "prompt": "Seneca was the tutor of which Roman emperor?",
+  "choices": [
+   "Nero",
+   "Augustus",
+   "Trajan",
+   "Hadrian"
+  ],
+  "answer": "Nero",
+  "difficulty": "medium",
+  "topic": "seneca tutor of nero"
+ },
+ {
+  "id": "phil-013",
+  "prompt": "Which pre-Socratic said that you cannot step into the same river twice?",
+  "choices": [
+   "Heraclitus",
+   "Parmenides",
+   "Thales",
+   "Anaximander"
+  ],
+  "answer": "Heraclitus",
+  "difficulty": "easy",
+  "topic": "heraclitus river"
+ },
+ {
+  "id": "phil-014",
+  "prompt": "Thales of Miletus claimed that everything comes from what?",
+  "choices": [
+   "Water",
+   "Fire",
+   "Earth",
+   "Number"
+  ],
+  "answer": "Water",
+  "difficulty": "easy",
+  "topic": "thales basic substance"
+ },
+ {
+  "id": "phil-015",
+  "prompt": "Pythagoras is best known for a theorem about which shape?",
+  "choices": [
+   "Right triangles",
+   "Circles",
+   "Squares",
+   "Spheres"
+  ],
+  "answer": "Right triangles",
+  "difficulty": "easy",
+  "topic": "pythagoras theorem"
+ },
+ {
+  "id": "phil-016",
+  "prompt": "Which philosopher devised the paradox of Achilles and the tortoise?",
+  "choices": [
+   "Zeno of Elea",
+   "Zeno of Citium",
+   "Heraclitus",
+   "Democritus"
+  ],
+  "answer": "Zeno of Elea",
+  "difficulty": "medium",
+  "topic": "achilles and tortoise paradox"
+ },
+ {
+  "id": "phil-017",
+  "prompt": "Which ancient Greek proposed that the world is made of atoms?",
+  "choices": [
+   "Democritus",
+   "Aristotle",
+   "Plato",
+   "Empedocles"
+  ],
+  "answer": "Democritus",
+  "difficulty": "medium",
+  "topic": "democritus atoms"
+ },
+ {
+  "id": "phil-018",
+  "prompt": "Pyrrho is regarded as the founder of which school?",
+  "choices": [
+   "Skepticism",
+   "Stoicism",
+   "Cynicism",
+   "Epicureanism"
+  ],
+  "answer": "Skepticism",
+  "difficulty": "medium",
+  "topic": "pyrrho founder of skepticism"
+ },
+ {
+  "id": "phil-019",
+  "prompt": "Diogenes of Sinope belonged to which school?",
+  "choices": [
+   "Cynicism",
+   "Stoicism",
+   "Epicureanism",
+   "Skepticism"
+  ],
+  "answer": "Cynicism",
+  "difficulty": "easy",
+  "topic": "diogenes school"
+ },
+ {
+  "id": "phil-020",
+  "prompt": "Plotinus is the founder of which school?",
+  "choices": [
+   "Neoplatonism",
+   "Stoicism",
+   "Scholasticism",
+   "Cynicism"
+  ],
+  "answer": "Neoplatonism",
+  "difficulty": "medium",
+  "topic": "plotinus neoplatonism"
+ },
+ {
+  "id": "phil-021",
+  "prompt": "Which Sophist said that man is the measure of all things?",
+  "choices": [
+   "Protagoras",
+   "Gorgias",
+   "Parmenides",
+   "Thales"
+  ],
+  "answer": "Protagoras",
+  "difficulty": "medium",
+  "topic": "protagoras measure of all things"
+ },
+ {
+  "id": "phil-022",
+  "prompt": "Which Roman statesman wrote On Duties?",
+  "choices": [
+   "Cicero",
+   "Seneca",
+   "Lucretius",
+   "Virgil"
+  ],
+  "answer": "Cicero",
+  "difficulty": "medium",
+  "topic": "cicero on duties"
+ },
+ {
+  "id": "phil-023",
+  "prompt": "Which Roman poet-philosopher wrote On the Nature of Things?",
+  "choices": [
+   "Lucretius",
+   "Cicero",
+   "Seneca",
+   "Ovid"
+  ],
+  "answer": "Lucretius",
+  "difficulty": "medium",
+  "topic": "lucretius nature of things"
+ },
+ {
+  "id": "phil-024",
+  "prompt": "Who was Plato's teacher?",
+  "choices": [
+   "Socrates",
+   "Pythagoras",
+   "Heraclitus",
+   "Protagoras"
+  ],
+  "answer": "Socrates",
+  "difficulty": "easy",
+  "topic": "plato's teacher"
+ },
+ {
+  "id": "phil-025",
+  "prompt": "Which philosopher studied under Plato for about twenty years?",
+  "choices": [
+   "Aristotle",
+   "Epicurus",
+   "Zeno",
+   "Democritus"
+  ],
+  "answer": "Aristotle",
+  "difficulty": "easy",
+  "topic": "aristotle plato's student"
+ },
+ {
+  "id": "phil-026",
+  "prompt": "Who wrote The Consolation of Philosophy while imprisoned?",
+  "choices": [
+   "Boethius",
+   "Augustine",
+   "Aquinas",
+   "Cassiodorus"
+  ],
+  "answer": "Boethius",
+  "difficulty": "medium",
+  "topic": "boethius consolation"
+ },
+ {
+  "id": "phil-027",
+  "prompt": "Which saint and bishop wrote the Confessions?",
+  "choices": [
+   "Augustine",
+   "Aquinas",
+   "Anselm",
+   "Jerome"
+  ],
+  "answer": "Augustine",
+  "difficulty": "easy",
+  "topic": "augustine confessions"
+ },
+ {
+  "id": "phil-028",
+  "prompt": "Which Roman city's sack in 410 prompted Augustine's City of God?",
+  "choices": [
+   "Rome",
+   "Athens",
+   "Carthage",
+   "Constantinople"
+  ],
+  "answer": "Rome",
+  "difficulty": "hard",
+  "topic": "city of god occasion"
+ },
+ {
+  "id": "phil-029",
+  "prompt": "Which Greek thinker taught that virtue lies between excess and deficiency?",
+  "choices": [
+   "Aristotle",
+   "Plato",
+   "Zeno",
+   "Diogenes"
+  ],
+  "answer": "Aristotle",
+  "difficulty": "medium",
+  "topic": "doctrine of the mean aristotle"
+ },
+ {
+  "id": "phil-030",
+  "prompt": "The Greek word eudaimonia is usually rendered as what?",
+  "choices": [
+   "Flourishing",
+   "Wisdom",
+   "Justice",
+   "Fate"
+  ],
+  "answer": "Flourishing",
+  "difficulty": "medium",
+  "topic": "eudaimonia meaning"
+ },
+ {
+  "id": "phil-031",
+  "prompt": "The Greek word telos means what?",
+  "choices": [
+   "End or purpose",
+   "Virtue",
+   "Matter",
+   "Soul"
+  ],
+  "answer": "End or purpose",
+  "difficulty": "medium",
+  "topic": "telos meaning"
+ },
+ {
+  "id": "phil-032",
+  "prompt": "Which Presocratic is linked to the apeiron, the boundless?",
+  "choices": [
+   "Anaximander",
+   "Thales",
+   "Heraclitus",
+   "Parmenides"
+  ],
+  "answer": "Anaximander",
+  "difficulty": "medium",
+  "topic": "anaximander apeiron"
+ },
+ {
+  "id": "phil-033",
+  "prompt": "Which philosopher is known for the claim that change is an illusion?",
+  "choices": [
+   "Parmenides",
+   "Heraclitus",
+   "Democritus",
+   "Empedocles"
+  ],
+  "answer": "Parmenides",
+  "difficulty": "medium",
+  "topic": "parmenides unchanging being"
+ },
+ {
+  "id": "phil-034",
+  "prompt": "In which city did the philosopher Hypatia teach?",
+  "choices": [
+   "Alexandria",
+   "Athens",
+   "Rome",
+   "Antioch"
+  ],
+  "answer": "Alexandria",
+  "difficulty": "medium",
+  "topic": "hypatia city"
+ },
+ {
+  "id": "phil-035",
+  "prompt": "Plato's dialogue Symposium is mainly about what?",
+  "choices": [
+   "Love",
+   "War",
+   "Justice",
+   "Death"
+  ],
+  "answer": "Love",
+  "difficulty": "medium",
+  "topic": "symposium subject"
+ },
+ {
+  "id": "phil-036",
+  "prompt": "Plato's Apology records the defense speech of whom?",
+  "choices": [
+   "Socrates",
+   "Aristotle",
+   "Alcibiades",
+   "Pericles"
+  ],
+  "answer": "Socrates",
+  "difficulty": "easy",
+  "topic": "plato apology"
+ },
+ {
+  "id": "phil-037",
+  "prompt": "Which author recorded Epictetus's Discourses?",
+  "choices": [
+   "Arrian",
+   "Xenophon",
+   "Plutarch",
+   "Lucian"
+  ],
+  "answer": "Arrian",
+  "difficulty": "hard",
+  "topic": "arrian epictetus discourses"
+ },
+ {
+  "id": "phil-038",
+  "prompt": "Seneca's Letters to Lucilius belong to which school?",
+  "choices": [
+   "Stoicism",
+   "Epicureanism",
+   "Cynicism",
+   "Skepticism"
+  ],
+  "answer": "Stoicism",
+  "difficulty": "medium",
+  "topic": "seneca letters school"
+ },
+ {
+  "id": "phil-039",
+  "prompt": "Stoicism takes its name from a Greek word meaning what?",
+  "choices": [
+   "Porch",
+   "Garden",
+   "Cave",
+   "Tower"
+  ],
+  "answer": "Porch",
+  "difficulty": "medium",
+  "topic": "stoa meaning"
+ },
+ {
+  "id": "phil-040",
+  "prompt": "Socrates lived in which century BCE?",
+  "choices": [
+   "5th",
+   "3rd",
+   "2nd",
+   "1st"
+  ],
+  "answer": "5th",
+  "difficulty": "medium",
+  "topic": "socrates century"
+ },
+ {
+  "id": "phil-041",
+  "prompt": "Aristotle wrote that man is a what kind of animal?",
+  "choices": [
+   "Political",
+   "Rational only",
+   "Wandering",
+   "Religious"
+  ],
+  "answer": "Political",
+  "difficulty": "medium",
+  "topic": "political animal"
+ },
+ {
+  "id": "phil-042",
+  "prompt": "Which Greek philosopher wrote the Poetics, on tragedy?",
+  "choices": [
+   "Aristotle",
+   "Plato",
+   "Sophocles",
+   "Epicurus"
+  ],
+  "answer": "Aristotle",
+  "difficulty": "medium",
+  "topic": "poetics author"
+ },
+ {
+  "id": "phil-043",
+  "prompt": "Which philosopher formalized the syllogism?",
+  "choices": [
+   "Aristotle",
+   "Plato",
+   "Zeno",
+   "Socrates"
+  ],
+  "answer": "Aristotle",
+  "difficulty": "easy",
+  "topic": "aristotle syllogism"
+ },
+ {
+  "id": "phil-044",
+  "prompt": "Which Greek thinker described four kinds of cause, including a final cause?",
+  "choices": [
+   "Aristotle",
+   "Plato",
+   "Epicurus",
+   "Heraclitus"
+  ],
+  "answer": "Aristotle",
+  "difficulty": "hard",
+  "topic": "four causes"
+ },
+ {
+  "id": "phil-045",
+  "prompt": "Confucius's sayings were gathered in which book?",
+  "choices": [
+   "The Analects",
+   "The Tao Te Ching",
+   "The Art of War",
+   "The Book of Songs"
+  ],
+  "answer": "The Analects",
+  "difficulty": "easy",
+  "topic": "analects"
+ },
+ {
+  "id": "phil-046",
+  "prompt": "Who is traditionally credited with the Tao Te Ching?",
+  "choices": [
+   "Laozi",
+   "Confucius",
+   "Mencius",
+   "Sun Tzu"
+  ],
+  "answer": "Laozi",
+  "difficulty": "easy",
+  "topic": "tao te ching author"
+ },
+ {
+  "id": "phil-047",
+  "prompt": "Which Chinese thinker dreamed he was a butterfly?",
+  "choices": [
+   "Zhuangzi",
+   "Laozi",
+   "Mencius",
+   "Xunzi"
+  ],
+  "answer": "Zhuangzi",
+  "difficulty": "medium",
+  "topic": "zhuangzi butterfly"
+ },
+ {
+  "id": "phil-048",
+  "prompt": "Which Confucian held that human nature is basically good?",
+  "choices": [
+   "Mencius",
+   "Xunzi",
+   "Han Feizi",
+   "Mozi"
+  ],
+  "answer": "Mencius",
+  "difficulty": "medium",
+  "topic": "mencius good nature"
+ },
+ {
+  "id": "phil-049",
+  "prompt": "Which Confucian argued that human nature tends toward bad?",
+  "choices": [
+   "Xunzi",
+   "Mencius",
+   "Zhuangzi",
+   "Mozi"
+  ],
+  "answer": "Xunzi",
+  "difficulty": "hard",
+  "topic": "xunzi bad nature"
+ },
+ {
+  "id": "phil-050",
+  "prompt": "Which thinker is the great figure of Chinese Legalism?",
+  "choices": [
+   "Han Feizi",
+   "Mozi",
+   "Mencius",
+   "Laozi"
+  ],
+  "answer": "Han Feizi",
+  "difficulty": "hard",
+  "topic": "han feizi legalism"
+ },
+ {
+  "id": "phil-051",
+  "prompt": "Which Chinese philosopher taught impartial care for all people?",
+  "choices": [
+   "Mozi",
+   "Xunzi",
+   "Confucius",
+   "Zhuangzi"
+  ],
+  "answer": "Mozi",
+  "difficulty": "hard",
+  "topic": "mozi impartial care"
+ },
+ {
+  "id": "phil-052",
+  "prompt": "What does the Daoist term Dao mean?",
+  "choices": [
+   "The Way",
+   "The Law",
+   "The Sun",
+   "The Gift"
+  ],
+  "answer": "The Way",
+  "difficulty": "easy",
+  "topic": "dao meaning"
+ },
+ {
+  "id": "phil-053",
+  "prompt": "Daoist wu wei is often rendered as what?",
+  "choices": [
+   "Effortless action",
+   "Strict duty",
+   "Quiet prayer",
+   "Careful study"
+  ],
+  "answer": "Effortless action",
+  "difficulty": "hard",
+  "topic": "wu wei meaning"
+ },
+ {
+  "id": "phil-054",
+  "prompt": "What was the Buddha's personal name before his awakening?",
+  "choices": [
+   "Siddhartha Gautama",
+   "Mahavira",
+   "Ashoka",
+   "Nagarjuna"
+  ],
+  "answer": "Siddhartha Gautama",
+  "difficulty": "easy",
+  "topic": "buddha birth name"
+ },
+ {
+  "id": "phil-055",
+  "prompt": "The Four Noble Truths are central to which tradition?",
+  "choices": [
+   "Buddhism",
+   "Jainism",
+   "Sikhism",
+   "Daoism"
+  ],
+  "answer": "Buddhism",
+  "difficulty": "easy",
+  "topic": "four noble truths"
+ },
+ {
+  "id": "phil-056",
+  "prompt": "What is the Buddhist state of liberation from suffering called?",
+  "choices": [
+   "Nirvana",
+   "Karma",
+   "Samsara",
+   "Atman"
+  ],
+  "answer": "Nirvana",
+  "difficulty": "easy",
+  "topic": "nirvana"
+ },
+ {
+  "id": "phil-057",
+  "prompt": "Which Indian philosopher founded the Madhyamaka, or Middle Way, school?",
+  "choices": [
+   "Nagarjuna",
+   "Shankara",
+   "Ramanuja",
+   "Vasubandhu"
+  ],
+  "answer": "Nagarjuna",
+  "difficulty": "hard",
+  "topic": "nagarjuna madhyamaka"
+ },
+ {
+  "id": "phil-058",
+  "prompt": "Which philosopher is the great teacher of Advaita Vedanta?",
+  "choices": [
+   "Shankara",
+   "Ramanuja",
+   "Nagarjuna",
+   "Madhva"
+  ],
+  "answer": "Shankara",
+  "difficulty": "medium",
+  "topic": "shankara advaita"
+ },
+ {
+  "id": "phil-059",
+  "prompt": "Mahavira is a central figure of which tradition?",
+  "choices": [
+   "Jainism",
+   "Sikhism",
+   "Buddhism",
+   "Zoroastrianism"
+  ],
+  "answer": "Jainism",
+  "difficulty": "medium",
+  "topic": "mahavira jainism"
+ },
+ {
+  "id": "phil-060",
+  "prompt": "The Sanskrit term ahimsa means what?",
+  "choices": [
+   "Nonviolence",
+   "Truth",
+   "Charity",
+   "Detachment"
+  ],
+  "answer": "Nonviolence",
+  "difficulty": "medium",
+  "topic": "ahimsa meaning"
+ },
+ {
+  "id": "phil-061",
+  "prompt": "The Bhagavad Gita is part of which epic?",
+  "choices": [
+   "Mahabharata",
+   "Ramayana",
+   "Iliad",
+   "Gilgamesh"
+  ],
+  "answer": "Mahabharata",
+  "difficulty": "easy",
+  "topic": "bhagavad gita epic"
+ },
+ {
+  "id": "phil-062",
+  "prompt": "Who wrote The Canon of Medicine and The Book of Healing?",
+  "choices": [
+   "Avicenna",
+   "Averroes",
+   "Al-Farabi",
+   "Al-Kindi"
+  ],
+  "answer": "Avicenna",
+  "difficulty": "medium",
+  "topic": "avicenna canon"
+ },
+ {
+  "id": "phil-063",
+  "prompt": "Which Andalusian thinker was nicknamed The Commentator on Aristotle?",
+  "choices": [
+   "Averroes",
+   "Avicenna",
+   "Maimonides",
+   "Al-Ghazali"
+  ],
+  "answer": "Averroes",
+  "difficulty": "medium",
+  "topic": "averroes commentator"
+ },
+ {
+  "id": "phil-064",
+  "prompt": "Who wrote The Incoherence of the Philosophers?",
+  "choices": [
+   "Al-Ghazali",
+   "Avicenna",
+   "Averroes",
+   "Ibn Khaldun"
+  ],
+  "answer": "Al-Ghazali",
+  "difficulty": "medium",
+  "topic": "incoherence of the philosophers"
+ },
+ {
+  "id": "phil-065",
+  "prompt": "Who answered with The Incoherence of the Incoherence?",
+  "choices": [
+   "Averroes",
+   "Al-Ghazali",
+   "Avicenna",
+   "Al-Farabi"
+  ],
+  "answer": "Averroes",
+  "difficulty": "hard",
+  "topic": "incoherence of the incoherence"
+ },
+ {
+  "id": "phil-066",
+  "prompt": "Who wrote the Muqaddimah, an early work on social history?",
+  "choices": [
+   "Ibn Khaldun",
+   "Avicenna",
+   "Al-Farabi",
+   "Averroes"
+  ],
+  "answer": "Ibn Khaldun",
+  "difficulty": "medium",
+  "topic": "ibn khaldun muqaddimah"
+ },
+ {
+  "id": "phil-067",
+  "prompt": "Which Muslim thinker was called the Second Teacher after Aristotle?",
+  "choices": [
+   "Al-Farabi",
+   "Avicenna",
+   "Al-Kindi",
+   "Averroes"
+  ],
+  "answer": "Al-Farabi",
+  "difficulty": "hard",
+  "topic": "al-farabi second teacher"
+ },
+ {
+  "id": "phil-068",
+  "prompt": "Who wrote the Guide for the Perplexed?",
+  "choices": [
+   "Maimonides",
+   "Spinoza",
+   "Averroes",
+   "Philo"
+  ],
+  "answer": "Maimonides",
+  "difficulty": "medium",
+  "topic": "maimonides guide"
+ },
+ {
+  "id": "phil-069",
+  "prompt": "Who wrote the Summa Theologica?",
+  "choices": [
+   "Thomas Aquinas",
+   "Augustine",
+   "Anselm",
+   "William of Ockham"
+  ],
+  "answer": "Thomas Aquinas",
+  "difficulty": "easy",
+  "topic": "summa theologica"
+ },
+ {
+  "id": "phil-070",
+  "prompt": "Which archbishop of Canterbury formulated the ontological argument?",
+  "choices": [
+   "Anselm",
+   "Aquinas",
+   "Augustine",
+   "Abelard"
+  ],
+  "answer": "Anselm",
+  "difficulty": "medium",
+  "topic": "anselm ontological"
+ },
+ {
+  "id": "phil-071",
+  "prompt": "Occam's razor is named after which friar?",
+  "choices": [
+   "William of Ockham",
+   "Thomas Aquinas",
+   "Duns Scotus",
+   "Roger Bacon"
+  ],
+  "answer": "William of Ockham",
+  "difficulty": "medium",
+  "topic": "occam's razor"
+ },
+ {
+  "id": "phil-072",
+  "prompt": "Which medieval thinker's love affair with Heloise is famous?",
+  "choices": [
+   "Peter Abelard",
+   "Anselm",
+   "Aquinas",
+   "Bonaventure"
+  ],
+  "answer": "Peter Abelard",
+  "difficulty": "medium",
+  "topic": "abelard heloise"
+ },
+ {
+  "id": "phil-073",
+  "prompt": "Which term names medieval university philosophy blending faith with Aristotle?",
+  "choices": [
+   "Scholasticism",
+   "Stoicism",
+   "Humanism",
+   "Empiricism"
+  ],
+  "answer": "Scholasticism",
+  "difficulty": "easy",
+  "topic": "scholasticism"
+ },
+ {
+  "id": "phil-074",
+  "prompt": "Who wrote In Praise of Folly?",
+  "choices": [
+   "Erasmus",
+   "Thomas More",
+   "Machiavelli",
+   "Montaigne"
+  ],
+  "answer": "Erasmus",
+  "difficulty": "medium",
+  "topic": "in praise of folly"
+ },
+ {
+  "id": "phil-075",
+  "prompt": "Who wrote Utopia?",
+  "choices": [
+   "Thomas More",
+   "Erasmus",
+   "Machiavelli",
+   "Francis Bacon"
+  ],
+  "answer": "Thomas More",
+  "difficulty": "easy",
+  "topic": "utopia author"
+ },
+ {
+  "id": "phil-076",
+  "prompt": "Who wrote The Prince?",
+  "choices": [
+   "Machiavelli",
+   "Hobbes",
+   "Erasmus",
+   "Dante"
+  ],
+  "answer": "Machiavelli",
+  "difficulty": "easy",
+  "topic": "the prince author"
+ },
+ {
+  "id": "phil-077",
+  "prompt": "Who is considered the creator of the personal essay with his Essays?",
+  "choices": [
+   "Montaigne",
+   "Pascal",
+   "Voltaire",
+   "Rabelais"
+  ],
+  "answer": "Montaigne",
+  "difficulty": "medium",
+  "topic": "montaigne essays"
+ },
+ {
+  "id": "phil-078",
+  "prompt": "Which French thinker proposed a famous wager on God's existence?",
+  "choices": [
+   "Pascal",
+   "Descartes",
+   "Leibniz",
+   "Locke"
+  ],
+  "answer": "Pascal",
+  "difficulty": "easy",
+  "topic": "pascal's wager"
+ },
+ {
+  "id": "phil-079",
+  "prompt": "Who wrote Leviathan?",
+  "choices": [
+   "Thomas Hobbes",
+   "John Locke",
+   "Rousseau",
+   "David Hume"
+  ],
+  "answer": "Thomas Hobbes",
+  "difficulty": "easy",
+  "topic": "leviathan author"
+ },
+ {
+  "id": "phil-080",
+  "prompt": "Who wrote the Two Treatises of Government?",
+  "choices": [
+   "John Locke",
+   "Thomas Hobbes",
+   "Rousseau",
+   "Montesquieu"
+  ],
+  "answer": "John Locke",
+  "difficulty": "medium",
+  "topic": "two treatises author"
+ },
+ {
+  "id": "phil-081",
+  "prompt": "Who wrote the Ethics, set out in geometric style?",
+  "choices": [
+   "Spinoza",
+   "Leibniz",
+   "Descartes",
+   "Hobbes"
+  ],
+  "answer": "Spinoza",
+  "difficulty": "easy",
+  "topic": "spinoza ethics"
+ },
+ {
+  "id": "phil-082",
+  "prompt": "Which rationalist earned his living grinding lenses?",
+  "choices": [
+   "Spinoza",
+   "Leibniz",
+   "Descartes",
+   "Hobbes"
+  ],
+  "answer": "Spinoza",
+  "difficulty": "medium",
+  "topic": "spinoza lens grinder"
+ },
+ {
+  "id": "phil-083",
+  "prompt": "Which philosopher's theory of monads is famous?",
+  "choices": [
+   "Leibniz",
+   "Spinoza",
+   "Descartes",
+   "Berkeley"
+  ],
+  "answer": "Leibniz",
+  "difficulty": "medium",
+  "topic": "leibniz monads"
+ },
+ {
+  "id": "phil-084",
+  "prompt": "Voltaire's Candide mocks the optimism of which philosopher?",
+  "choices": [
+   "Leibniz",
+   "Locke",
+   "Hume",
+   "Rousseau"
+  ],
+  "answer": "Leibniz",
+  "difficulty": "medium",
+  "topic": "candide target"
+ },
+ {
+  "id": "phil-085",
+  "prompt": "Which philosopher held that to be is to be perceived?",
+  "choices": [
+   "George Berkeley",
+   "David Hume",
+   "John Locke",
+   "Immanuel Kant"
+  ],
+  "answer": "George Berkeley",
+  "difficulty": "medium",
+  "topic": "berkeley esse est percipi"
+ },
+ {
+  "id": "phil-086",
+  "prompt": "Who wrote A Treatise of Human Nature?",
+  "choices": [
+   "David Hume",
+   "John Locke",
+   "George Berkeley",
+   "Thomas Reid"
+  ],
+  "answer": "David Hume",
+  "difficulty": "medium",
+  "topic": "hume treatise"
+ },
+ {
+  "id": "phil-087",
+  "prompt": "Which philosopher is known for the problem of induction?",
+  "choices": [
+   "David Hume",
+   "John Locke",
+   "Immanuel Kant",
+   "Thomas Hobbes"
+  ],
+  "answer": "David Hume",
+  "difficulty": "medium",
+  "topic": "hume induction"
+ },
+ {
+  "id": "phil-088",
+  "prompt": "Which philosopher is known for the is-ought problem?",
+  "choices": [
+   "David Hume",
+   "John Locke",
+   "Aristotle",
+   "Jeremy Bentham"
+  ],
+  "answer": "David Hume",
+  "difficulty": "medium",
+  "topic": "is-ought"
+ },
+ {
+  "id": "phil-089",
+  "prompt": "The adjective Cartesian refers to which philosopher?",
+  "choices": [
+   "Descartes",
+   "Kant",
+   "Hegel",
+   "Spinoza"
+  ],
+  "answer": "Descartes",
+  "difficulty": "easy",
+  "topic": "cartesian adjective"
+ },
+ {
+  "id": "phil-090",
+  "prompt": "Which philosopher imagined a deceiving evil demon?",
+  "choices": [
+   "Descartes",
+   "Hume",
+   "Berkeley",
+   "Locke"
+  ],
+  "answer": "Descartes",
+  "difficulty": "medium",
+  "topic": "evil demon"
+ },
+ {
+  "id": "phil-091",
+  "prompt": "Who wrote the Novum Organum?",
+  "choices": [
+   "Francis Bacon",
+   "Thomas Hobbes",
+   "John Locke",
+   "Galileo"
+  ],
+  "answer": "Francis Bacon",
+  "difficulty": "medium",
+  "topic": "novum organum"
+ },
+ {
+  "id": "phil-092",
+  "prompt": "Who wrote The Social Contract?",
+  "choices": [
+   "Rousseau",
+   "Voltaire",
+   "Diderot",
+   "Montesquieu"
+  ],
+  "answer": "Rousseau",
+  "difficulty": "easy",
+  "topic": "social contract author"
+ },
+ {
+  "id": "phil-093",
+  "prompt": "Who wrote the educational work Emile?",
+  "choices": [
+   "Rousseau",
+   "Voltaire",
+   "Diderot",
+   "Montesquieu"
+  ],
+  "answer": "Rousseau",
+  "difficulty": "medium",
+  "topic": "emile author"
+ },
+ {
+  "id": "phil-094",
+  "prompt": "Who wrote Candide?",
+  "choices": [
+   "Voltaire",
+   "Rousseau",
+   "Diderot",
+   "Montesquieu"
+  ],
+  "answer": "Voltaire",
+  "difficulty": "easy",
+  "topic": "candide author"
+ },
+ {
+  "id": "phil-095",
+  "prompt": "Who wrote The Spirit of the Laws, favoring separation of powers?",
+  "choices": [
+   "Montesquieu",
+   "Rousseau",
+   "Voltaire",
+   "Locke"
+  ],
+  "answer": "Montesquieu",
+  "difficulty": "medium",
+  "topic": "spirit of the laws"
+ },
+ {
+  "id": "phil-096",
+  "prompt": "Who was lead editor of the great French Encyclopedie?",
+  "choices": [
+   "Denis Diderot",
+   "Voltaire",
+   "Montesquieu",
+   "Rousseau"
+  ],
+  "answer": "Denis Diderot",
+  "difficulty": "medium",
+  "topic": "encyclopedie editor"
+ },
+ {
+  "id": "phil-097",
+  "prompt": "Which Scottish thinker wrote The Wealth of Nations?",
+  "choices": [
+   "Adam Smith",
+   "David Hume",
+   "John Locke",
+   "Thomas Reid"
+  ],
+  "answer": "Adam Smith",
+  "difficulty": "easy",
+  "topic": "wealth of nations"
+ },
+ {
+  "id": "phil-098",
+  "prompt": "Who wrote A Vindication of the Rights of Woman?",
+  "choices": [
+   "Mary Wollstonecraft",
+   "Simone de Beauvoir",
+   "Hannah Arendt",
+   "Harriet Taylor"
+  ],
+  "answer": "Mary Wollstonecraft",
+  "difficulty": "medium",
+  "topic": "vindication rights of woman"
+ },
+ {
+  "id": "phil-099",
+  "prompt": "Who wrote the pamphlet Common Sense in 1776?",
+  "choices": [
+   "Thomas Paine",
+   "Thomas Jefferson",
+   "Ben Franklin",
+   "Edmund Burke"
+  ],
+  "answer": "Thomas Paine",
+  "difficulty": "easy",
+  "topic": "common sense paine"
+ },
+ {
+  "id": "phil-100",
+  "prompt": "Who wrote Reflections on the Revolution in France?",
+  "choices": [
+   "Edmund Burke",
+   "Thomas Paine",
+   "David Hume",
+   "Jeremy Bentham"
+  ],
+  "answer": "Edmund Burke",
+  "difficulty": "medium",
+  "topic": "burke reflections"
+ },
+ {
+  "id": "phil-101",
+  "prompt": "Who wrote Democracy in America?",
+  "choices": [
+   "Alexis de Tocqueville",
+   "Montesquieu",
+   "John Stuart Mill",
+   "Edmund Burke"
+  ],
+  "answer": "Alexis de Tocqueville",
+  "difficulty": "hard",
+  "topic": "tocqueville democracy"
+ },
+ {
+  "id": "phil-102",
+  "prompt": "Which philosopher proposed the categorical imperative?",
+  "choices": [
+   "Immanuel Kant",
+   "John Stuart Mill",
+   "David Hume",
+   "Hegel"
+  ],
+  "answer": "Immanuel Kant",
+  "difficulty": "easy",
+  "topic": "categorical imperative"
+ },
+ {
+  "id": "phil-103",
+  "prompt": "In which city did Kant spend nearly his whole life?",
+  "choices": [
+   "Konigsberg",
+   "Berlin",
+   "Vienna",
+   "Weimar"
+  ],
+  "answer": "Konigsberg",
+  "difficulty": "medium",
+  "topic": "kant city"
+ },
+ {
+  "id": "phil-104",
+  "prompt": "Which thinker wrote Perpetual Peace in 1795?",
+  "choices": [
+   "Immanuel Kant",
+   "Hegel",
+   "Fichte",
+   "Rousseau"
+  ],
+  "answer": "Immanuel Kant",
+  "difficulty": "hard",
+  "topic": "perpetual peace"
+ },
+ {
+  "id": "phil-105",
+  "prompt": "Who wrote the Phenomenology of Spirit?",
+  "choices": [
+   "Hegel",
+   "Kant",
+   "Schelling",
+   "Fichte"
+  ],
+  "answer": "Hegel",
+  "difficulty": "medium",
+  "topic": "phenomenology of spirit"
+ },
+ {
+  "id": "phil-106",
+  "prompt": "Who wrote The World as Will and Representation?",
+  "choices": [
+   "Schopenhauer",
+   "Nietzsche",
+   "Kierkegaard",
+   "Hegel"
+  ],
+  "answer": "Schopenhauer",
+  "difficulty": "medium",
+  "topic": "schopenhauer world as will"
+ },
+ {
+  "id": "phil-107",
+  "prompt": "Which philosopher declared that God is dead?",
+  "choices": [
+   "Nietzsche",
+   "Marx",
+   "Kant",
+   "Spinoza"
+  ],
+  "answer": "Nietzsche",
+  "difficulty": "easy",
+  "topic": "god is dead"
+ },
+ {
+  "id": "phil-108",
+  "prompt": "Who wrote Thus Spoke Zarathustra?",
+  "choices": [
+   "Nietzsche",
+   "Schopenhauer",
+   "Heidegger",
+   "Kierkegaard"
+  ],
+  "answer": "Nietzsche",
+  "difficulty": "easy",
+  "topic": "zarathustra author"
+ },
+ {
+  "id": "phil-109",
+  "prompt": "Who wrote On the Genealogy of Morality?",
+  "choices": [
+   "Nietzsche",
+   "Schopenhauer",
+   "Hegel",
+   "Kierkegaard"
+  ],
+  "answer": "Nietzsche",
+  "difficulty": "medium",
+  "topic": "genealogy of morals"
+ },
+ {
+  "id": "phil-110",
+  "prompt": "Nietzsche began his career as a professor of what subject?",
+  "choices": [
+   "Classical philology",
+   "Theology",
+   "Law",
+   "Medicine"
+  ],
+  "answer": "Classical philology",
+  "difficulty": "hard",
+  "topic": "nietzsche professor"
+ },
+ {
+  "id": "phil-111",
+  "prompt": "Which philosopher wrote Fear and Trembling?",
+  "choices": [
+   "Kierkegaard",
+   "Nietzsche",
+   "Schopenhauer",
+   "Sartre"
+  ],
+  "answer": "Kierkegaard",
+  "difficulty": "medium",
+  "topic": "fear and trembling"
+ },
+ {
+  "id": "phil-112",
+  "prompt": "Kierkegaard was a thinker from which country?",
+  "choices": [
+   "Denmark",
+   "Norway",
+   "Germany",
+   "Sweden"
+  ],
+  "answer": "Denmark",
+  "difficulty": "medium",
+  "topic": "kierkegaard country"
+ },
+ {
+  "id": "phil-113",
+  "prompt": "Who co-wrote The Communist Manifesto with Karl Marx?",
+  "choices": [
+   "Friedrich Engels",
+   "Vladimir Lenin",
+   "Hegel",
+   "Proudhon"
+  ],
+  "answer": "Friedrich Engels",
+  "difficulty": "easy",
+  "topic": "manifesto coauthor"
+ },
+ {
+  "id": "phil-114",
+  "prompt": "Who wrote Das Kapital?",
+  "choices": [
+   "Karl Marx",
+   "Friedrich Engels",
+   "Lenin",
+   "Hegel"
+  ],
+  "answer": "Karl Marx",
+  "difficulty": "easy",
+  "topic": "das kapital"
+ },
+ {
+  "id": "phil-115",
+  "prompt": "Who wrote On Liberty and set out the harm principle?",
+  "choices": [
+   "John Stuart Mill",
+   "Jeremy Bentham",
+   "John Locke",
+   "Herbert Spencer"
+  ],
+  "answer": "John Stuart Mill",
+  "difficulty": "medium",
+  "topic": "on liberty"
+ },
+ {
+  "id": "phil-116",
+  "prompt": "Which English thinker designed the Panopticon prison?",
+  "choices": [
+   "Jeremy Bentham",
+   "John Stuart Mill",
+   "Henry Sidgwick",
+   "David Hume"
+  ],
+  "answer": "Jeremy Bentham",
+  "difficulty": "medium",
+  "topic": "bentham panopticon"
+ },
+ {
+  "id": "phil-117",
+  "prompt": "Which philosopher wrote The Subjection of Women?",
+  "choices": [
+   "John Stuart Mill",
+   "Jeremy Bentham",
+   "Mary Wollstonecraft",
+   "Auguste Comte"
+  ],
+  "answer": "John Stuart Mill",
+  "difficulty": "hard",
+  "topic": "subjection of women"
+ },
+ {
+  "id": "phil-118",
+  "prompt": "Which French thinker founded positivism?",
+  "choices": [
+   "Auguste Comte",
+   "John Stuart Mill",
+   "Emile Durkheim",
+   "Rousseau"
+  ],
+  "answer": "Auguste Comte",
+  "difficulty": "medium",
+  "topic": "comte positivism"
+ },
+ {
+  "id": "phil-119",
+  "prompt": "Who wrote the essay Self-Reliance?",
+  "choices": [
+   "Ralph Waldo Emerson",
+   "Henry David Thoreau",
+   "Walt Whitman",
+   "Edgar Allan Poe"
+  ],
+  "answer": "Ralph Waldo Emerson",
+  "difficulty": "medium",
+  "topic": "self-reliance"
+ },
+ {
+  "id": "phil-120",
+  "prompt": "Who wrote Walden and Civil Disobedience?",
+  "choices": [
+   "Henry David Thoreau",
+   "Ralph Waldo Emerson",
+   "Walt Whitman",
+   "Benjamin Franklin"
+  ],
+  "answer": "Henry David Thoreau",
+  "difficulty": "easy",
+  "topic": "thoreau walden"
+ },
+ {
+  "id": "phil-121",
+  "prompt": "Who wrote The Varieties of Religious Experience?",
+  "choices": [
+   "William James",
+   "John Dewey",
+   "Charles Peirce",
+   "George Santayana"
+  ],
+  "answer": "William James",
+  "difficulty": "hard",
+  "topic": "varieties of religious experience"
+ },
+ {
+  "id": "phil-122",
+  "prompt": "Which American philosopher is linked to progressive education reform?",
+  "choices": [
+   "John Dewey",
+   "William James",
+   "Charles Peirce",
+   "George Santayana"
+  ],
+  "answer": "John Dewey",
+  "difficulty": "medium",
+  "topic": "dewey education"
+ },
+ {
+  "id": "phil-123",
+  "prompt": "Who coined the phrase survival of the fittest?",
+  "choices": [
+   "Herbert Spencer",
+   "Charles Darwin",
+   "John Stuart Mill",
+   "Thomas Huxley"
+  ],
+  "answer": "Herbert Spencer",
+  "difficulty": "hard",
+  "topic": "survival of the fittest"
+ },
+ {
+  "id": "phil-124",
+  "prompt": "Which philosopher said that existence precedes essence?",
+  "choices": [
+   "Sartre",
+   "Camus",
+   "Heidegger",
+   "Kierkegaard"
+  ],
+  "answer": "Sartre",
+  "difficulty": "easy",
+  "topic": "existence precedes essence"
+ },
+ {
+  "id": "phil-125",
+  "prompt": "Who wrote The Second Sex?",
+  "choices": [
+   "Simone de Beauvoir",
+   "Hannah Arendt",
+   "Simone Weil",
+   "Jean-Paul Sartre"
+  ],
+  "answer": "Simone de Beauvoir",
+  "difficulty": "easy",
+  "topic": "second sex"
+ },
+ {
+  "id": "phil-126",
+  "prompt": "Which French author wrote The Myth of Sisyphus?",
+  "choices": [
+   "Albert Camus",
+   "Jean-Paul Sartre",
+   "Samuel Beckett",
+   "Franz Kafka"
+  ],
+  "answer": "Albert Camus",
+  "difficulty": "easy",
+  "topic": "myth of sisyphus"
+ },
+ {
+  "id": "phil-127",
+  "prompt": "Who wrote Being and Time?",
+  "choices": [
+   "Martin Heidegger",
+   "Edmund Husserl",
+   "Jean-Paul Sartre",
+   "Hans-Georg Gadamer"
+  ],
+  "answer": "Martin Heidegger",
+  "difficulty": "medium",
+  "topic": "being and time"
+ },
+ {
+  "id": "phil-128",
+  "prompt": "Who founded the school of phenomenology?",
+  "choices": [
+   "Edmund Husserl",
+   "Martin Heidegger",
+   "Merleau-Ponty",
+   "Jean-Paul Sartre"
+  ],
+  "answer": "Edmund Husserl",
+  "difficulty": "medium",
+  "topic": "husserl phenomenology"
+ },
+ {
+  "id": "phil-129",
+  "prompt": "Who wrote the Tractatus Logico-Philosophicus?",
+  "choices": [
+   "Ludwig Wittgenstein",
+   "Bertrand Russell",
+   "Gottlob Frege",
+   "Rudolf Carnap"
+  ],
+  "answer": "Ludwig Wittgenstein",
+  "difficulty": "medium",
+  "topic": "tractatus"
+ },
+ {
+  "id": "phil-130",
+  "prompt": "Who co-wrote Principia Mathematica with Alfred North Whitehead?",
+  "choices": [
+   "Bertrand Russell",
+   "G. E. Moore",
+   "Wittgenstein",
+   "Gottlob Frege"
+  ],
+  "answer": "Bertrand Russell",
+  "difficulty": "medium",
+  "topic": "principia mathematica"
+ },
+ {
+  "id": "phil-131",
+  "prompt": "Which philosopher won the 1950 Nobel Prize in Literature?",
+  "choices": [
+   "Bertrand Russell",
+   "Jean-Paul Sartre",
+   "Albert Camus",
+   "Henri Bergson"
+  ],
+  "answer": "Bertrand Russell",
+  "difficulty": "medium",
+  "topic": "russell nobel"
+ },
+ {
+  "id": "phil-132",
+  "prompt": "Which philosopher of science championed falsifiability?",
+  "choices": [
+   "Karl Popper",
+   "Thomas Kuhn",
+   "Imre Lakatos",
+   "Paul Feyerabend"
+  ],
+  "answer": "Karl Popper",
+  "difficulty": "medium",
+  "topic": "popper falsifiability"
+ },
+ {
+  "id": "phil-133",
+  "prompt": "Who wrote The Structure of Scientific Revolutions?",
+  "choices": [
+   "Thomas Kuhn",
+   "Karl Popper",
+   "Imre Lakatos",
+   "Paul Feyerabend"
+  ],
+  "answer": "Thomas Kuhn",
+  "difficulty": "medium",
+  "topic": "kuhn structure"
+ },
+ {
+  "id": "phil-134",
+  "prompt": "Which philosopher proposed the veil of ignorance?",
+  "choices": [
+   "John Rawls",
+   "Robert Nozick",
+   "Ronald Dworkin",
+   "Jurgen Habermas"
+  ],
+  "answer": "John Rawls",
+  "difficulty": "easy",
+  "topic": "veil of ignorance"
+ },
+ {
+  "id": "phil-135",
+  "prompt": "Who wrote Anarchy, State, and Utopia?",
+  "choices": [
+   "Robert Nozick",
+   "John Rawls",
+   "Michael Sandel",
+   "Peter Singer"
+  ],
+  "answer": "Robert Nozick",
+  "difficulty": "medium",
+  "topic": "anarchy state utopia"
+ },
+ {
+  "id": "phil-136",
+  "prompt": "Which philosopher imagined the experience machine?",
+  "choices": [
+   "Robert Nozick",
+   "John Rawls",
+   "Derek Parfit",
+   "Thomas Nagel"
+  ],
+  "answer": "Robert Nozick",
+  "difficulty": "medium",
+  "topic": "experience machine"
+ },
+ {
+  "id": "phil-137",
+  "prompt": "Which thinker coined the phrase banality of evil?",
+  "choices": [
+   "Hannah Arendt",
+   "Simone de Beauvoir",
+   "Simone Weil",
+   "Ayn Rand"
+  ],
+  "answer": "Hannah Arendt",
+  "difficulty": "medium",
+  "topic": "banality of evil"
+ },
+ {
+  "id": "phil-138",
+  "prompt": "Who founded the philosophy called Objectivism?",
+  "choices": [
+   "Ayn Rand",
+   "Friedrich Hayek",
+   "Milton Friedman",
+   "Robert Nozick"
+  ],
+  "answer": "Ayn Rand",
+  "difficulty": "medium",
+  "topic": "objectivism founder"
+ },
+ {
+  "id": "phil-139",
+  "prompt": "Which French thinker wrote Discipline and Punish?",
+  "choices": [
+   "Michel Foucault",
+   "Jacques Derrida",
+   "Gilles Deleuze",
+   "Roland Barthes"
+  ],
+  "answer": "Michel Foucault",
+  "difficulty": "medium",
+  "topic": "discipline and punish"
+ },
+ {
+  "id": "phil-140",
+  "prompt": "Which French thinker is associated with deconstruction?",
+  "choices": [
+   "Jacques Derrida",
+   "Michel Foucault",
+   "Jacques Lacan",
+   "Jean-Paul Sartre"
+  ],
+  "answer": "Jacques Derrida",
+  "difficulty": "medium",
+  "topic": "derrida deconstruction"
+ },
+ {
+  "id": "phil-141",
+  "prompt": "Which philosopher proposed the Chinese Room argument?",
+  "choices": [
+   "John Searle",
+   "Alan Turing",
+   "Daniel Dennett",
+   "David Chalmers"
+  ],
+  "answer": "John Searle",
+  "difficulty": "medium",
+  "topic": "chinese room"
+ },
+ {
+  "id": "phil-142",
+  "prompt": "Who named the hard problem of consciousness?",
+  "choices": [
+   "David Chalmers",
+   "John Searle",
+   "Daniel Dennett",
+   "Thomas Nagel"
+  ],
+  "answer": "David Chalmers",
+  "difficulty": "medium",
+  "topic": "hard problem"
+ },
+ {
+  "id": "phil-143",
+  "prompt": "Who asked What Is It Like to Be a Bat?",
+  "choices": [
+   "Thomas Nagel",
+   "John Searle",
+   "Hilary Putnam",
+   "Daniel Dennett"
+  ],
+  "answer": "Thomas Nagel",
+  "difficulty": "medium",
+  "topic": "nagel bat"
+ },
+ {
+  "id": "phil-144",
+  "prompt": "Which ethicist wrote Animal Liberation?",
+  "choices": [
+   "Peter Singer",
+   "John Rawls",
+   "Derek Parfit",
+   "Robert Nozick"
+  ],
+  "answer": "Peter Singer",
+  "difficulty": "easy",
+  "topic": "animal liberation"
+ },
+ {
+  "id": "phil-145",
+  "prompt": "Who wrote the 1963 paper challenging the justified-true-belief account of knowledge?",
+  "choices": [
+   "Edmund Gettier",
+   "W. V. Quine",
+   "Saul Kripke",
+   "Hilary Putnam"
+  ],
+  "answer": "Edmund Gettier",
+  "difficulty": "hard",
+  "topic": "gettier problems"
+ },
+ {
+  "id": "phil-146",
+  "prompt": "Which British philosopher first posed the trolley problem?",
+  "choices": [
+   "Philippa Foot",
+   "Judith Jarvis Thomson",
+   "Elizabeth Anscombe",
+   "Iris Murdoch"
+  ],
+  "answer": "Philippa Foot",
+  "difficulty": "hard",
+  "topic": "trolley problem"
+ },
+ {
+  "id": "phil-147",
+  "prompt": "Which philosopher proposed the brain in a vat scenario?",
+  "choices": [
+   "Hilary Putnam",
+   "John Searle",
+   "Saul Kripke",
+   "Thomas Nagel"
+  ],
+  "answer": "Hilary Putnam",
+  "difficulty": "hard",
+  "topic": "brain in a vat"
+ },
+ {
+  "id": "phil-148",
+  "prompt": "Who wrote Language, Truth and Logic?",
+  "choices": [
+   "A. J. Ayer",
+   "Bertrand Russell",
+   "Gilbert Ryle",
+   "J. L. Austin"
+  ],
+  "answer": "A. J. Ayer",
+  "difficulty": "hard",
+  "topic": "language truth and logic"
+ },
+ {
+  "id": "phil-149",
+  "prompt": "Who wrote Principia Ethica?",
+  "choices": [
+   "G. E. Moore",
+   "Bertrand Russell",
+   "A. J. Ayer",
+   "Henry Sidgwick"
+  ],
+  "answer": "G. E. Moore",
+  "difficulty": "hard",
+  "topic": "principia ethica"
+ },
+ {
+  "id": "phil-150",
+  "prompt": "Who wrote What Is Property? and said property is theft?",
+  "choices": [
+   "Pierre-Joseph Proudhon",
+   "Mikhail Bakunin",
+   "Karl Marx",
+   "Peter Kropotkin"
+  ],
+  "answer": "Pierre-Joseph Proudhon",
+  "difficulty": "medium",
+  "topic": "proudhon property"
+ },
+ {
+  "id": "phil-151",
+  "prompt": "Which thinker's name is linked to Boolean logic?",
+  "choices": [
+   "George Boole",
+   "Gottlob Frege",
+   "Bertrand Russell",
+   "Giuseppe Peano"
+  ],
+  "answer": "George Boole",
+  "difficulty": "medium",
+  "topic": "boole"
+ },
+ {
+  "id": "phil-152",
+  "prompt": "Who wrote the Begriffsschrift, a landmark of modern logic?",
+  "choices": [
+   "Gottlob Frege",
+   "George Boole",
+   "Bertrand Russell",
+   "Kurt Godel"
+  ],
+  "answer": "Gottlob Frege",
+  "difficulty": "hard",
+  "topic": "frege begriffsschrift"
+ },
+ {
+  "id": "phil-153",
+  "prompt": "Who wrote The Wretched of the Earth?",
+  "choices": [
+   "Frantz Fanon",
+   "Leopold Senghor",
+   "Aime Cesaire",
+   "W. E. B. Du Bois"
+  ],
+  "answer": "Frantz Fanon",
+  "difficulty": "hard",
+  "topic": "wretched of the earth"
+ },
+ {
+  "id": "phil-154",
+  "prompt": "Who wrote I and Thou?",
+  "choices": [
+   "Martin Buber",
+   "Emmanuel Levinas",
+   "Franz Rosenzweig",
+   "Hannah Arendt"
+  ],
+  "answer": "Martin Buber",
+  "difficulty": "hard",
+  "topic": "i and thou"
+ },
+ {
+  "id": "phil-155",
+  "prompt": "Which Harvard professor is known for a popular course called Justice?",
+  "choices": [
+   "Michael Sandel",
+   "John Rawls",
+   "Peter Singer",
+   "Robert Nozick"
+  ],
+  "answer": "Michael Sandel",
+  "difficulty": "medium",
+  "topic": "sandel justice"
+ },
+ {
+  "id": "phil-156",
+  "prompt": "Which Swedish-born philosopher proposed the simulation argument?",
+  "choices": [
+   "Nick Bostrom",
+   "David Chalmers",
+   "Peter Singer",
+   "Derek Parfit"
+  ],
+  "answer": "Nick Bostrom",
+  "difficulty": "medium",
+  "topic": "simulation argument"
+ },
+ {
+  "id": "phil-157",
+  "prompt": "Epistemology is the study of what?",
+  "choices": [
+   "Knowledge",
+   "Beauty",
+   "Morality",
+   "Reality"
+  ],
+  "answer": "Knowledge",
+  "difficulty": "easy",
+  "topic": "epistemology definition"
+ },
+ {
+  "id": "phil-158",
+  "prompt": "Metaphysics asks questions about what?",
+  "choices": [
+   "The nature of reality",
+   "Taxes",
+   "The stars",
+   "Language rules"
+  ],
+  "answer": "The nature of reality",
+  "difficulty": "easy",
+  "topic": "metaphysics definition"
+ },
+ {
+  "id": "phil-159",
+  "prompt": "Ethics is the branch of philosophy about what?",
+  "choices": [
+   "Right and wrong",
+   "Beauty",
+   "Knowledge",
+   "Logic"
+  ],
+  "answer": "Right and wrong",
+  "difficulty": "easy",
+  "topic": "ethics definition"
+ },
+ {
+  "id": "phil-160",
+  "prompt": "Aesthetics is the branch of philosophy about what?",
+  "choices": [
+   "Beauty and art",
+   "Right and wrong",
+   "Knowledge",
+   "Language"
+  ],
+  "answer": "Beauty and art",
+  "difficulty": "easy",
+  "topic": "aesthetics definition"
+ },
+ {
+  "id": "phil-161",
+  "prompt": "Which branch of philosophy studies correct reasoning?",
+  "choices": [
+   "Logic",
+   "Aesthetics",
+   "Ethics",
+   "Cosmology"
+  ],
+  "answer": "Logic",
+  "difficulty": "easy",
+  "topic": "logic definition"
+ },
+ {
+  "id": "phil-162",
+  "prompt": "Which branch of philosophy studies what exists and what being is?",
+  "choices": [
+   "Ontology",
+   "Epistemology",
+   "Aesthetics",
+   "Axiology"
+  ],
+  "answer": "Ontology",
+  "difficulty": "easy",
+  "topic": "ontology definition"
+ },
+ {
+  "id": "phil-163",
+  "prompt": "Which theory judges actions by the outcomes they produce?",
+  "choices": [
+   "Consequentialism",
+   "Deontology",
+   "Stoicism",
+   "Relativism"
+  ],
+  "answer": "Consequentialism",
+  "difficulty": "medium",
+  "topic": "consequentialism"
+ },
+ {
+  "id": "phil-164",
+  "prompt": "Which ethical approach is based on duties and rules?",
+  "choices": [
+   "Deontology",
+   "Consequentialism",
+   "Hedonism",
+   "Nihilism"
+  ],
+  "answer": "Deontology",
+  "difficulty": "medium",
+  "topic": "deontology"
+ },
+ {
+  "id": "phil-165",
+  "prompt": "Which doctrine says the best action gives the greatest good to the most people?",
+  "choices": [
+   "Utilitarianism",
+   "Stoicism",
+   "Nihilism",
+   "Cynicism"
+  ],
+  "answer": "Utilitarianism",
+  "difficulty": "easy",
+  "topic": "utilitarianism definition"
+ },
+ {
+  "id": "phil-166",
+  "prompt": "Which view holds that knowledge comes mainly from experience?",
+  "choices": [
+   "Empiricism",
+   "Rationalism",
+   "Idealism",
+   "Stoicism"
+  ],
+  "answer": "Empiricism",
+  "difficulty": "easy",
+  "topic": "empiricism definition"
+ },
+ {
+  "id": "phil-167",
+  "prompt": "Which view holds that reason is the main source of knowledge?",
+  "choices": [
+   "Rationalism",
+   "Empiricism",
+   "Hedonism",
+   "Nihilism"
+  ],
+  "answer": "Rationalism",
+  "difficulty": "medium",
+  "topic": "rationalism definition"
+ },
+ {
+  "id": "phil-168",
+  "prompt": "Which belief says life has no inherent meaning or values?",
+  "choices": [
+   "Nihilism",
+   "Stoicism",
+   "Pragmatism",
+   "Idealism"
+  ],
+  "answer": "Nihilism",
+  "difficulty": "easy",
+  "topic": "nihilism definition"
+ },
+ {
+  "id": "phil-169",
+  "prompt": "Which idea says only one's own mind is sure to exist?",
+  "choices": [
+   "Solipsism",
+   "Stoicism",
+   "Dualism",
+   "Monism"
+  ],
+  "answer": "Solipsism",
+  "difficulty": "medium",
+  "topic": "solipsism"
+ },
+ {
+  "id": "phil-170",
+  "prompt": "Which philosophy stresses individual freedom and responsibility in an absurd world?",
+  "choices": [
+   "Existentialism",
+   "Rationalism",
+   "Empiricism",
+   "Positivism"
+  ],
+  "answer": "Existentialism",
+  "difficulty": "easy",
+  "topic": "existentialism"
+ },
+ {
+  "id": "phil-171",
+  "prompt": "Which philosophy teaches pleasure is the highest good?",
+  "choices": [
+   "Hedonism",
+   "Stoicism",
+   "Asceticism",
+   "Nihilism"
+  ],
+  "answer": "Hedonism",
+  "difficulty": "easy",
+  "topic": "hedonism"
+ },
+ {
+  "id": "phil-172",
+  "prompt": "Which school judges ideas by their practical effects?",
+  "choices": [
+   "Pragmatism",
+   "Rationalism",
+   "Idealism",
+   "Scholasticism"
+  ],
+  "answer": "Pragmatism",
+  "difficulty": "medium",
+  "topic": "pragmatism"
+ },
+ {
+  "id": "phil-173",
+  "prompt": "Which view holds that mind and body are distinct kinds of thing?",
+  "choices": [
+   "Dualism",
+   "Monism",
+   "Materialism",
+   "Empiricism"
+  ],
+  "answer": "Dualism",
+  "difficulty": "easy",
+  "topic": "dualism definition"
+ },
+ {
+  "id": "phil-174",
+  "prompt": "Which view holds that every event has prior causes that fix it?",
+  "choices": [
+   "Determinism",
+   "Fatalism",
+   "Skepticism",
+   "Nihilism"
+  ],
+  "answer": "Determinism",
+  "difficulty": "medium",
+  "topic": "determinism"
+ },
+ {
+  "id": "phil-175",
+  "prompt": "The word philosophy comes from Greek words meaning what?",
+  "choices": [
+   "Love of wisdom",
+   "Search for truth",
+   "Study of stars",
+   "Art of speech"
+  ],
+  "answer": "Love of wisdom",
+  "difficulty": "easy",
+  "topic": "philosophy etymology"
+ },
+ {
+  "id": "phil-176",
+  "prompt": "The Latin phrase tabula rasa means what?",
+  "choices": [
+   "Blank slate",
+   "First cause",
+   "Hidden hand",
+   "Great chain"
+  ],
+  "answer": "Blank slate",
+  "difficulty": "easy",
+  "topic": "tabula rasa meaning"
+ },
+ {
+  "id": "phil-177",
+  "prompt": "What is the term for an argument attacking the person instead of the claim?",
+  "choices": [
+   "Ad hominem",
+   "Straw man",
+   "Slippery slope",
+   "Red herring"
+  ],
+  "answer": "Ad hominem",
+  "difficulty": "easy",
+  "topic": "ad hominem"
+ },
+ {
+  "id": "phil-178",
+  "prompt": "Which fallacy misrepresents an opponent's view to refute it?",
+  "choices": [
+   "Straw man",
+   "Ad hominem",
+   "Circular reasoning",
+   "Appeal to authority"
+  ],
+  "answer": "Straw man",
+  "difficulty": "medium",
+  "topic": "straw man fallacy"
+ },
+ {
+  "id": "phil-179",
+  "prompt": "The problem of evil asks why a good God allows what?",
+  "choices": [
+   "Suffering",
+   "Free time",
+   "Science",
+   "Doubt"
+  ],
+  "answer": "Suffering",
+  "difficulty": "easy",
+  "topic": "problem of evil"
+ },
+ {
+  "id": "phil-180",
+  "prompt": "Which ethics centers on character rather than rules or results?",
+  "choices": [
+   "Virtue ethics",
+   "Deontology",
+   "Consequentialism",
+   "Egoism"
+  ],
+  "answer": "Virtue ethics",
+  "difficulty": "medium",
+  "topic": "virtue ethics"
+ },
+ {
+  "id": "phil-181",
+  "prompt": "A priori knowledge is known how?",
+  "choices": [
+   "Independent of experience",
+   "Through experiment",
+   "By testimony",
+   "Through faith"
+  ],
+  "answer": "Independent of experience",
+  "difficulty": "medium",
+  "topic": "a priori meaning"
+ },
+ {
+  "id": "phil-182",
+  "prompt": "Which branch of philosophy studies value in general?",
+  "choices": [
+   "Axiology",
+   "Ontology",
+   "Epistemology",
+   "Cosmology"
+  ],
+  "answer": "Axiology",
+  "difficulty": "hard",
+  "topic": "axiology"
+ },
+ {
+  "id": "phil-183",
+  "prompt": "Hermeneutics is the study of what?",
+  "choices": [
+   "Interpretation",
+   "Beauty",
+   "Sound reasoning",
+   "Moral duty"
+  ],
+  "answer": "Interpretation",
+  "difficulty": "hard",
+  "topic": "hermeneutics"
+ },
+ {
+  "id": "phil-184",
+  "prompt": "Phenomenology focuses on what?",
+  "choices": [
+   "Structures of conscious experience",
+   "The stars",
+   "Moral law",
+   "Political power"
+  ],
+  "answer": "Structures of conscious experience",
+  "difficulty": "hard",
+  "topic": "phenomenology definition"
+ },
+ {
+  "id": "phil-185",
+  "prompt": "The Ship of Theseus puzzle concerns what?",
+  "choices": [
+   "Identity over time",
+   "Free will",
+   "Beauty",
+   "Justice"
+  ],
+  "answer": "Identity over time",
+  "difficulty": "easy",
+  "topic": "ship of theseus"
+ },
+ {
+  "id": "phil-186",
+  "prompt": "Which argument says the universe needs a first cause?",
+  "choices": [
+   "Cosmological argument",
+   "Ontological argument",
+   "Moral argument",
+   "Pragmatic argument"
+  ],
+  "answer": "Cosmological argument",
+  "difficulty": "medium",
+  "topic": "cosmological argument"
+ },
+ {
+  "id": "phil-187",
+  "prompt": "Which argument for God points to apparent order and purpose in nature?",
+  "choices": [
+   "Teleological argument",
+   "Ontological argument",
+   "Cosmological argument",
+   "Moral argument"
+  ],
+  "answer": "Teleological argument",
+  "difficulty": "medium",
+  "topic": "teleological argument"
+ },
+ {
+  "id": "phil-188",
+  "prompt": "Russell's teapot is an analogy about what?",
+  "choices": [
+   "Burden of proof",
+   "Free will",
+   "Taste",
+   "Time"
+  ],
+  "answer": "Burden of proof",
+  "difficulty": "medium",
+  "topic": "russell's teapot"
+ },
+ {
+  "id": "phil-189",
+  "prompt": "Which Dutch-born philosopher was banned by his Amsterdam congregation in 1656?",
+  "choices": [
+   "Spinoza",
+   "Erasmus",
+   "Grotius",
+   "Leibniz"
+  ],
+  "answer": "Spinoza",
+  "difficulty": "hard",
+  "topic": "spinoza herem"
+ },
+ {
+  "id": "phil-190",
+  "prompt": "Which Irish-born bishop was an idealist philosopher?",
+  "choices": [
+   "George Berkeley",
+   "John Locke",
+   "Edmund Burke",
+   "David Hume"
+  ],
+  "answer": "George Berkeley",
+  "difficulty": "hard",
+  "topic": "berkeley irish"
+ },
+ {
+  "id": "phil-191",
+  "prompt": "Ayn Rand was born in which country?",
+  "choices": [
+   "Russia",
+   "United States",
+   "Poland",
+   "Germany"
+  ],
+  "answer": "Russia",
+  "difficulty": "hard",
+  "topic": "rand birthplace"
+ },
+ {
+  "id": "phil-192",
+  "prompt": "Wittgenstein was born in which country?",
+  "choices": [
+   "Austria",
+   "Germany",
+   "Switzerland",
+   "Hungary"
+  ],
+  "answer": "Austria",
+  "difficulty": "medium",
+  "topic": "wittgenstein country"
+ },
+ {
+  "id": "phil-193",
+  "prompt": "Descartes died in Sweden after tutoring which monarch?",
+  "choices": [
+   "Queen Christina",
+   "Queen Elizabeth",
+   "Catherine the Great",
+   "Queen Anne"
+  ],
+  "answer": "Queen Christina",
+  "difficulty": "hard",
+  "topic": "descartes sweden"
+ },
+ {
+  "id": "phil-194",
+  "prompt": "Which philosopher wrote the Discourse on Method?",
+  "choices": [
+   "Descartes",
+   "Bacon",
+   "Spinoza",
+   "Pascal"
+  ],
+  "answer": "Descartes",
+  "difficulty": "medium",
+  "topic": "discourse on method"
+ },
+ {
+  "id": "phil-195",
+  "prompt": "Which philosopher wrote An Essay Concerning Human Understanding?",
+  "choices": [
+   "John Locke",
+   "David Hume",
+   "George Berkeley",
+   "Thomas Hobbes"
+  ],
+  "answer": "John Locke",
+  "difficulty": "medium",
+  "topic": "essay concerning human understanding"
+ },
+ {
+  "id": "phil-196",
+  "prompt": "Which philosopher wrote the Pensees?",
+  "choices": [
+   "Pascal",
+   "Montaigne",
+   "Descartes",
+   "Voltaire"
+  ],
+  "answer": "Pascal",
+  "difficulty": "medium",
+  "topic": "pensees"
+ },
+ {
+  "id": "phil-197",
+  "prompt": "Which thinker wrote the Groundwork of the Metaphysics of Morals?",
+  "choices": [
+   "Kant",
+   "Hegel",
+   "Mill",
+   "Hume"
+  ],
+  "answer": "Kant",
+  "difficulty": "medium",
+  "topic": "groundwork"
+ },
+ {
+  "id": "phil-198",
+  "prompt": "Socrates is most associated with which ancient city?",
+  "choices": [
+   "Athens",
+   "Sparta",
+   "Rome",
+   "Corinth"
+  ],
+  "answer": "Athens",
+  "difficulty": "easy",
+  "topic": "socrates city"
+ },
+ {
+  "id": "phil-199",
+  "prompt": "Confucius came from which country?",
+  "choices": [
+   "China",
+   "Japan",
+   "Korea",
+   "India"
+  ],
+  "answer": "China",
+  "difficulty": "easy",
+  "topic": "confucius country"
+ },
+ {
+  "id": "phil-200",
+  "prompt": "Laozi is regarded as the founder of which tradition?",
+  "choices": [
+   "Daoism",
+   "Confucianism",
+   "Legalism",
+   "Mohism"
+  ],
+  "answer": "Daoism",
+  "difficulty": "easy",
+  "topic": "laozi tradition"
+ },
+ {
+  "id": "phil-201",
+  "prompt": "Mencius is a major thinker in which tradition?",
+  "choices": [
+   "Confucianism",
+   "Daoism",
+   "Legalism",
+   "Mohism"
+  ],
+  "answer": "Confucianism",
+  "difficulty": "medium",
+  "topic": "mencius tradition"
+ },
+ {
+  "id": "phil-202",
+  "prompt": "Under which tree is the Buddha said to have gained awakening?",
+  "choices": [
+   "Bodhi tree",
+   "Banyan tree",
+   "Olive tree",
+   "Oak tree"
+  ],
+  "answer": "Bodhi tree",
+  "difficulty": "easy",
+  "topic": "bodhi tree"
+ },
+ {
+  "id": "phil-203",
+  "prompt": "The Buddha was born in what is now which country?",
+  "choices": [
+   "Nepal",
+   "Sri Lanka",
+   "Tibet",
+   "Bhutan"
+  ],
+  "answer": "Nepal",
+  "difficulty": "medium",
+  "topic": "buddha birthplace"
+ },
+ {
+  "id": "phil-204",
+  "prompt": "The Sanskrit word karma literally means what?",
+  "choices": [
+   "Action",
+   "Luck",
+   "Sin",
+   "Prayer"
+  ],
+  "answer": "Action",
+  "difficulty": "easy",
+  "topic": "karma meaning"
+ },
+ {
+  "id": "phil-205",
+  "prompt": "In Hindu thought, atman refers to what?",
+  "choices": [
+   "The self or soul",
+   "The creator god",
+   "A sacred river",
+   "A ritual"
+  ],
+  "answer": "The self or soul",
+  "difficulty": "medium",
+  "topic": "atman meaning"
+ },
+ {
+  "id": "phil-206",
+  "prompt": "Brahman in Vedanta names what?",
+  "choices": [
+   "Ultimate reality",
+   "A temple",
+   "A caste",
+   "A hymn"
+  ],
+  "answer": "Ultimate reality",
+  "difficulty": "medium",
+  "topic": "brahman meaning"
+ },
+ {
+  "id": "phil-207",
+  "prompt": "In Indian thought, samsara is what?",
+  "choices": [
+   "The cycle of rebirth",
+   "A holy book",
+   "A kind of yoga",
+   "A festival"
+  ],
+  "answer": "The cycle of rebirth",
+  "difficulty": "medium",
+  "topic": "samsara meaning"
+ },
+ {
+  "id": "phil-208",
+  "prompt": "Thomas Aquinas belonged to which religious order?",
+  "choices": [
+   "Dominican",
+   "Franciscan",
+   "Jesuit",
+   "Benedictine"
+  ],
+  "answer": "Dominican",
+  "difficulty": "medium",
+  "topic": "aquinas order"
+ },
+ {
+  "id": "phil-209",
+  "prompt": "Which philosopher described life without government as a war of all against all?",
+  "choices": [
+   "Thomas Hobbes",
+   "John Locke",
+   "Rousseau",
+   "David Hume"
+  ],
+  "answer": "Thomas Hobbes",
+  "difficulty": "medium",
+  "topic": "war of all against all"
+ },
+ {
+  "id": "phil-210",
+  "prompt": "Voltaire spent years at the court of which king?",
+  "choices": [
+   "Frederick the Great",
+   "Louis XIV",
+   "Peter the Great",
+   "Charles XII"
+  ],
+  "answer": "Frederick the Great",
+  "difficulty": "hard",
+  "topic": "voltaire prussia"
+ },
+ {
+  "id": "phil-211",
+  "prompt": "Adorno and Horkheimer belonged to which school of thought?",
+  "choices": [
+   "Frankfurt School",
+   "Vienna Circle",
+   "Kyoto School",
+   "Stoa"
+  ],
+  "answer": "Frankfurt School",
+  "difficulty": "hard",
+  "topic": "frankfurt school"
+ },
+ {
+  "id": "phil-212",
+  "prompt": "Which group of 1920s Viennese thinkers promoted logical positivism?",
+  "choices": [
+   "The Vienna Circle",
+   "The Frankfurt School",
+   "The Kyoto School",
+   "The Stoa"
+  ],
+  "answer": "The Vienna Circle",
+  "difficulty": "medium",
+  "topic": "vienna circle"
+ },
+ {
+  "id": "phil-213",
+  "prompt": "Which American logician introduced pragmatism in the 1870s?",
+  "choices": [
+   "Charles Sanders Peirce",
+   "John Dewey",
+   "George Santayana",
+   "Josiah Royce"
+  ],
+  "answer": "Charles Sanders Peirce",
+  "difficulty": "hard",
+  "topic": "peirce pragmatism"
+ },
+ {
+  "id": "phil-214",
+  "prompt": "The African concept of ubuntu stresses what?",
+  "choices": [
+   "Shared humanity",
+   "Personal wealth",
+   "Ritual purity",
+   "Battle honor"
+  ],
+  "answer": "Shared humanity",
+  "difficulty": "medium",
+  "topic": "ubuntu"
+ },
+ {
+  "id": "phil-215",
+  "prompt": "Who wrote Two Concepts of Liberty?",
+  "choices": [
+   "Isaiah Berlin",
+   "Karl Popper",
+   "Friedrich Hayek",
+   "John Rawls"
+  ],
+  "answer": "Isaiah Berlin",
+  "difficulty": "hard",
+  "topic": "two concepts of liberty"
+ },
+ {
+  "id": "phil-216",
+  "prompt": "Ethical egoism holds that people should act in whose interest?",
+  "choices": [
+   "Their own",
+   "Society's",
+   "God's",
+   "The ruler's"
+  ],
+  "answer": "Their own",
+  "difficulty": "medium",
+  "topic": "ethical egoism"
+ },
+ {
+  "id": "phil-217",
+  "prompt": "Which view holds that only physical matter exists?",
+  "choices": [
+   "Materialism",
+   "Idealism",
+   "Dualism",
+   "Mysticism"
+  ],
+  "answer": "Materialism",
+  "difficulty": "easy",
+  "topic": "materialism"
+ },
+ {
+  "id": "phil-218",
+  "prompt": "Which view identifies God with the universe itself?",
+  "choices": [
+   "Pantheism",
+   "Deism",
+   "Theism",
+   "Atheism"
+  ],
+  "answer": "Pantheism",
+  "difficulty": "medium",
+  "topic": "pantheism"
+ },
+ {
+  "id": "phil-219",
+  "prompt": "Which term describes the view that God's existence is unknowable?",
+  "choices": [
+   "Agnosticism",
+   "Atheism",
+   "Pantheism",
+   "Deism"
+  ],
+  "answer": "Agnosticism",
+  "difficulty": "medium",
+  "topic": "agnosticism"
+ },
+ {
+  "id": "phil-220",
+  "prompt": "Reasoning from general premises to a certain conclusion is called what?",
+  "choices": [
+   "Deduction",
+   "Induction",
+   "Abduction",
+   "Analogy"
+  ],
+  "answer": "Deduction",
+  "difficulty": "easy",
+  "topic": "deduction"
+ },
+ {
+  "id": "phil-221",
+  "prompt": "If P then Q; P; therefore Q. What is this form called?",
+  "choices": [
+   "Modus ponens",
+   "Modus tollens",
+   "Reductio ad absurdum",
+   "Ad hominem"
+  ],
+  "answer": "Modus ponens",
+  "difficulty": "hard",
+  "topic": "modus ponens"
+ },
+ {
+  "id": "phil-222",
+  "prompt": "Which method refutes a claim by showing it leads to absurdity?",
+  "choices": [
+   "Reductio ad absurdum",
+   "Modus ponens",
+   "Ad hominem",
+   "Slippery slope"
+  ],
+  "answer": "Reductio ad absurdum",
+  "difficulty": "medium",
+  "topic": "reductio ad absurdum"
+ },
+ {
+  "id": "phil-223",
+  "prompt": "Which paradox is the sentence This sentence is false?",
+  "choices": [
+   "Liar paradox",
+   "Sorites paradox",
+   "Barber paradox",
+   "Zeno's paradox"
+  ],
+  "answer": "Liar paradox",
+  "difficulty": "medium",
+  "topic": "liar paradox"
+ },
+ {
+  "id": "phil-224",
+  "prompt": "Which paradox asks when grains of sand become a heap?",
+  "choices": [
+   "Sorites paradox",
+   "Liar paradox",
+   "Barber paradox",
+   "Zeno's paradox"
+  ],
+  "answer": "Sorites paradox",
+  "difficulty": "medium",
+  "topic": "sorites paradox"
+ },
+ {
+  "id": "phil-225",
+  "prompt": "The Greek word logos can mean what?",
+  "choices": [
+   "Word or reason",
+   "Fire",
+   "Soul",
+   "Citizen"
+  ],
+  "answer": "Word or reason",
+  "difficulty": "medium",
+  "topic": "logos meaning"
+ },
+ {
+  "id": "phil-226",
+  "prompt": "The Greek word arete is usually translated as what?",
+  "choices": [
+   "Excellence or virtue",
+   "Anger",
+   "Beauty",
+   "Fate"
+  ],
+  "answer": "Excellence or virtue",
+  "difficulty": "hard",
+  "topic": "arete meaning"
+ },
+ {
+  "id": "phil-227",
+  "prompt": "Aristotle's term phronesis means what?",
+  "choices": [
+   "Practical wisdom",
+   "Pleasure",
+   "Fate",
+   "Courage"
+  ],
+  "answer": "Practical wisdom",
+  "difficulty": "hard",
+  "topic": "phronesis meaning"
+ },
+ {
+  "id": "phil-228",
+  "prompt": "Most of Plato's works are written in what form?",
+  "choices": [
+   "Dialogues",
+   "Letters",
+   "Poems",
+   "Plays"
+  ],
+  "answer": "Dialogues",
+  "difficulty": "easy",
+  "topic": "plato dialogue form"
+ },
+ {
+  "id": "phil-229",
+  "prompt": "Who is often called the second founder of Stoicism?",
+  "choices": [
+   "Chrysippus",
+   "Cleanthes",
+   "Zeno of Citium",
+   "Panaetius"
+  ],
+  "answer": "Chrysippus",
+  "difficulty": "hard",
+  "topic": "chrysippus"
+ },
+ {
+  "id": "phil-230",
+  "prompt": "Skepticism questions whether we can have what?",
+  "choices": [
+   "Certain knowledge",
+   "Friends",
+   "Wealth",
+   "Free time"
+  ],
+  "answer": "Certain knowledge",
+  "difficulty": "easy",
+  "topic": "skepticism definition"
+ },
+ {
+  "id": "phil-231",
+  "prompt": "The Socratic method is named after which philosopher?",
+  "choices": [
+   "Socrates",
+   "Plato",
+   "Aristotle",
+   "Descartes"
+  ],
+  "answer": "Socrates",
+  "difficulty": "easy",
+  "topic": "socratic method"
+ },
+ {
+  "id": "phil-232",
+  "prompt": "Jean-Paul Sartre was a philosopher from which country?",
+  "choices": [
+   "France",
+   "Germany",
+   "Italy",
+   "Spain"
+  ],
+  "answer": "France",
+  "difficulty": "easy",
+  "topic": "sartre country"
+ },
+ {
+  "id": "phil-233",
+  "prompt": "René Descartes was born in which country?",
+  "choices": [
+   "France",
+   "Italy",
+   "Spain",
+   "Germany"
+  ],
+  "answer": "France",
+  "difficulty": "easy",
+  "topic": "descartes country"
+ },
+ {
+  "id": "phil-234",
+  "prompt": "John Locke was a philosopher from which country?",
+  "choices": [
+   "England",
+   "France",
+   "Germany",
+   "Italy"
+  ],
+  "answer": "England",
+  "difficulty": "easy",
+  "topic": "locke country"
+ },
+ {
+  "id": "phil-235",
+  "prompt": "Machiavelli served which Italian city-state?",
+  "choices": [
+   "Florence",
+   "Venice",
+   "Rome",
+   "Milan"
+  ],
+  "answer": "Florence",
+  "difficulty": "easy",
+  "topic": "machiavelli florence"
+ },
+ {
+  "id": "phil-236",
+  "prompt": "Thomas Aquinas was born in which country?",
+  "choices": [
+   "Italy",
+   "France",
+   "Germany",
+   "Spain"
+  ],
+  "answer": "Italy",
+  "difficulty": "easy",
+  "topic": "aquinas country"
+ },
+ {
+  "id": "phil-237",
+  "prompt": "Karl Marx was born in which country?",
+  "choices": [
+   "Germany",
+   "France",
+   "Russia",
+   "England"
+  ],
+  "answer": "Germany",
+  "difficulty": "easy",
+  "topic": "marx country"
+ },
+ {
+  "id": "phil-238",
+  "prompt": "Rousseau was born in which city?",
+  "choices": [
+   "Geneva",
+   "Paris",
+   "Lyon",
+   "Zurich"
+  ],
+  "answer": "Geneva",
+  "difficulty": "easy",
+  "topic": "rousseau city"
+ },
+ {
+  "id": "phil-239",
+  "prompt": "In what language did Nietzsche write?",
+  "choices": [
+   "German",
+   "French",
+   "Latin",
+   "Dutch"
+  ],
+  "answer": "German",
+  "difficulty": "easy",
+  "topic": "nietzsche language"
+ },
+ {
+  "id": "phil-240",
+  "prompt": "In everyday speech, a stoic person does what?",
+  "choices": [
+   "Faces hardship calmly",
+   "Gets angry fast",
+   "Boasts loudly",
+   "Forgets easily"
+  ],
+  "answer": "Faces hardship calmly",
+  "difficulty": "easy",
+  "topic": "stoic everyday"
+ },
+ {
+  "id": "phil-241",
+  "prompt": "Someone described as Machiavellian is what?",
+  "choices": [
+   "Cunning and scheming",
+   "Kind and open",
+   "Lazy",
+   "Shy"
+  ],
+  "answer": "Cunning and scheming",
+  "difficulty": "easy",
+  "topic": "machiavellian meaning"
+ },
+ {
+  "id": "phil-242",
+  "prompt": "Platonic love is named after which philosopher?",
+  "choices": [
+   "Plato",
+   "Socrates",
+   "Aristotle",
+   "Homer"
+  ],
+  "answer": "Plato",
+  "difficulty": "easy",
+  "topic": "platonic love"
+ },
+ {
+  "id": "phil-243",
+  "prompt": "Yin and yang come from the philosophy of which country?",
+  "choices": [
+   "China",
+   "India",
+   "Greece",
+   "Japan"
+  ],
+  "answer": "China",
+  "difficulty": "easy",
+  "topic": "yin yang origin"
+ },
+ {
+  "id": "phil-244",
+  "prompt": "Selfless concern for the welfare of others is called what?",
+  "choices": [
+   "Altruism",
+   "Egoism",
+   "Hedonism",
+   "Stoicism"
+  ],
+  "answer": "Altruism",
+  "difficulty": "easy",
+  "topic": "altruism"
+ },
+ {
+  "id": "phil-245",
+  "prompt": "The Peripatetic school took its name from what practice?",
+  "choices": [
+   "Walking about",
+   "Gardening",
+   "Climbing mountains",
+   "Sailing"
+  ],
+  "answer": "Walking about",
+  "difficulty": "medium",
+  "topic": "peripatetic meaning"
+ },
+ {
+  "id": "phil-246",
+  "prompt": "Which term names the felt qualities of experience, like seeing red?",
+  "choices": [
+   "Qualia",
+   "Noumena",
+   "Monads",
+   "Logos"
+  ],
+  "answer": "Qualia",
+  "difficulty": "hard",
+  "topic": "qualia"
+ },
+ {
+  "id": "phil-247",
+  "prompt": "On which island was Pythagoras born?",
+  "choices": [
+   "Samos",
+   "Crete",
+   "Rhodes",
+   "Lesbos"
+  ],
+  "answer": "Samos",
+  "difficulty": "hard",
+  "topic": "pythagoras birthplace"
+ },
+ {
+  "id": "phil-248",
+  "prompt": "Which philosopher did Kant say woke him from dogmatic slumber?",
+  "choices": [
+   "David Hume",
+   "John Locke",
+   "Leibniz",
+   "Descartes"
+  ],
+  "answer": "David Hume",
+  "difficulty": "medium",
+  "topic": "kant dogmatic slumber"
+ },
+ {
+  "id": "phil-249",
+  "prompt": "In what language did Marcus Aurelius write the Meditations?",
+  "choices": [
+   "Greek",
+   "Latin",
+   "Hebrew",
+   "Aramaic"
+  ],
+  "answer": "Greek",
+  "difficulty": "hard",
+  "topic": "meditations language"
+ },
+ {
+  "id": "phil-250",
+  "prompt": "Which of these philosophers was Greek?",
+  "choices": [
+   "Aristotle",
+   "Confucius",
+   "Kant",
+   "Nietzsche"
+  ],
+  "answer": "Aristotle",
+  "difficulty": "easy",
+  "topic": "greek example"
+ },
+ {
+  "id": "phil-251",
+  "prompt": "Which of these philosophers was Chinese?",
+  "choices": [
+   "Mencius",
+   "Plato",
+   "Descartes",
+   "Averroes"
+  ],
+  "answer": "Mencius",
+  "difficulty": "easy",
+  "topic": "chinese example"
+ },
+ {
+  "id": "phil-252",
+  "prompt": "Which of these philosophers was German?",
+  "choices": [
+   "Immanuel Kant",
+   "Rene Descartes",
+   "John Locke",
+   "Confucius"
+  ],
+  "answer": "Immanuel Kant",
+  "difficulty": "easy",
+  "topic": "german example"
+ },
+ {
+  "id": "phil-253",
+  "prompt": "Which of these philosophers was French?",
+  "choices": [
+   "Voltaire",
+   "David Hume",
+   "John Locke",
+   "Plato"
+  ],
+  "answer": "Voltaire",
+  "difficulty": "easy",
+  "topic": "french example"
+ },
+ {
+  "id": "phil-254",
+  "prompt": "Which of these philosophers was Scottish?",
+  "choices": [
+   "David Hume",
+   "Rene Descartes",
+   "Friedrich Nietzsche",
+   "Plato"
+  ],
+  "answer": "David Hume",
+  "difficulty": "easy",
+  "topic": "scottish example"
+ },
+ {
+  "id": "phil-255",
+  "prompt": "Which of these thinkers was a Roman Stoic?",
+  "choices": [
+   "Seneca",
+   "Plato",
+   "Confucius",
+   "Descartes"
+  ],
+  "answer": "Seneca",
+  "difficulty": "easy",
+  "topic": "roman stoic example"
+ },
+ {
+  "id": "phil-256",
+  "prompt": "Which of these thinkers was Persian?",
+  "choices": [
+   "Avicenna",
+   "Aristotle",
+   "David Hume",
+   "Immanuel Kant"
+  ],
+  "answer": "Avicenna",
+  "difficulty": "easy",
+  "topic": "persian example"
+ },
+ {
+  "id": "phil-257",
+  "prompt": "Which of these thinkers was a woman?",
+  "choices": [
+   "Hypatia",
+   "Aristotle",
+   "Epicurus",
+   "Seneca"
+  ],
+  "answer": "Hypatia",
+  "difficulty": "easy",
+  "topic": "woman philosopher example"
+ },
+ {
+  "id": "phil-258",
+  "prompt": "Which of these thinkers was an English utilitarian?",
+  "choices": [
+   "Jeremy Bentham",
+   "Immanuel Kant",
+   "Rene Descartes",
+   "Plato"
+  ],
+  "answer": "Jeremy Bentham",
+  "difficulty": "easy",
+  "topic": "english utilitarian example"
+ },
+ {
+  "id": "phil-259",
+  "prompt": "Which of these thinkers was Dutch?",
+  "choices": [
+   "Spinoza",
+   "David Hume",
+   "Immanuel Kant",
+   "Friedrich Nietzsche"
+  ],
+  "answer": "Spinoza",
+  "difficulty": "medium",
+  "topic": "dutch example"
+ },
+ {
+  "id": "phil-260",
+  "prompt": "Which of these thinkers lived earliest?",
+  "choices": [
+   "Thales",
+   "Plato",
+   "Aristotle",
+   "Epicurus"
+  ],
+  "answer": "Thales",
+  "difficulty": "easy",
+  "topic": "earliest thinker"
+ },
+ {
+  "id": "phil-261",
+  "prompt": "Which of these thinkers lived most recently?",
+  "choices": [
+   "Jean-Paul Sartre",
+   "Immanuel Kant",
+   "David Hume",
+   "Aristotle"
+  ],
+  "answer": "Jean-Paul Sartre",
+  "difficulty": "easy",
+  "topic": "most recent thinker"
+ },
+ {
+  "id": "phil-262",
+  "prompt": "Which philosopher called himself a gadfly stinging Athens?",
+  "choices": [
+   "Socrates",
+   "Plato",
+   "Aristotle",
+   "Diogenes"
+  ],
+  "answer": "Socrates",
+  "difficulty": "easy",
+  "topic": "socrates gadfly"
+ },
+ {
+  "id": "phil-263",
+  "prompt": "Which Chinese sage is most linked to filial piety?",
+  "choices": [
+   "Confucius",
+   "Laozi",
+   "Mozi",
+   "Han Feizi"
+  ],
+  "answer": "Confucius",
+  "difficulty": "easy",
+  "topic": "filial piety"
+ },
+ {
+  "id": "phil-264",
+  "prompt": "All men are mortal; Socrates is a man; so he is mortal. This is a what?",
+  "choices": [
+   "Syllogism",
+   "Paradox",
+   "Dilemma",
+   "Axiom"
+  ],
+  "answer": "Syllogism",
+  "difficulty": "easy",
+  "topic": "syllogism example"
+ },
+ {
+  "id": "phil-265",
+  "prompt": "Which outlook stresses human reason and human worth?",
+  "choices": [
+   "Humanism",
+   "Fatalism",
+   "Mysticism",
+   "Asceticism"
+  ],
+  "answer": "Humanism",
+  "difficulty": "easy",
+  "topic": "humanism"
+ },
+ {
+  "id": "phil-266",
+  "prompt": "Living with strict self-denial is called what?",
+  "choices": [
+   "Asceticism",
+   "Hedonism",
+   "Humanism",
+   "Egoism"
+  ],
+  "answer": "Asceticism",
+  "difficulty": "easy",
+  "topic": "asceticism"
+ },
+ {
+  "id": "phil-267",
+  "prompt": "Which political philosophy opposes all rulers and governments?",
+  "choices": [
+   "Anarchism",
+   "Liberalism",
+   "Conservatism",
+   "Socialism"
+  ],
+  "answer": "Anarchism",
+  "difficulty": "easy",
+  "topic": "anarchism"
+ },
+ {
+  "id": "phil-268",
+  "prompt": "Which view holds that reality is fundamentally mental?",
+  "choices": [
+   "Idealism",
+   "Materialism",
+   "Dualism",
+   "Pragmatism"
+  ],
+  "answer": "Idealism",
+  "difficulty": "medium",
+  "topic": "idealism"
+ },
+ {
+  "id": "phil-269",
+  "prompt": "The belief that people can choose their actions is called what?",
+  "choices": [
+   "Free will",
+   "Karma",
+   "Destiny",
+   "Fate"
+  ],
+  "answer": "Free will",
+  "difficulty": "easy",
+  "topic": "free will"
+ },
+ {
+  "id": "phil-270",
+  "prompt": "Reasoning from observed cases to a general rule is called what?",
+  "choices": [
+   "Induction",
+   "Deduction",
+   "Reduction",
+   "Intuition"
+  ],
+  "answer": "Induction",
+  "difficulty": "medium",
+  "topic": "induction"
+ },
+ {
+  "id": "phil-271",
+  "prompt": "In everyday speech, an epicure is fond of what?",
+  "choices": [
+   "Fine food and pleasure",
+   "Hard work",
+   "Silence",
+   "Poverty"
+  ],
+  "answer": "Fine food and pleasure",
+  "difficulty": "medium",
+  "topic": "epicure everyday"
+ },
+ {
+  "id": "phil-272",
+  "prompt": "Sophistry means the use of what kind of argument?",
+  "choices": [
+   "Clever but misleading",
+   "Strictly logical",
+   "Poetic",
+   "Religious"
+  ],
+  "answer": "Clever but misleading",
+  "difficulty": "medium",
+  "topic": "sophistry meaning"
+ },
+ {
+  "id": "phil-273",
+  "prompt": "The Upanishads are texts of which tradition?",
+  "choices": [
+   "Hindu",
+   "Buddhist",
+   "Jain",
+   "Sikh"
+  ],
+  "answer": "Hindu",
+  "difficulty": "medium",
+  "topic": "upanishads tradition"
+ },
+ {
+  "id": "phil-274",
+  "prompt": "Moral relativism says right and wrong depend on what?",
+  "choices": [
+   "Culture or viewpoint",
+   "Nature alone",
+   "Logic alone",
+   "The weather"
+  ],
+  "answer": "Culture or viewpoint",
+  "difficulty": "medium",
+  "topic": "moral relativism"
+ },
+ {
+  "id": "phil-275",
+  "prompt": "Who wrote Being and Nothingness?",
+  "choices": [
+   "Jean-Paul Sartre",
+   "Albert Camus",
+   "Martin Heidegger",
+   "Simone de Beauvoir"
+  ],
+  "answer": "Jean-Paul Sartre",
+  "difficulty": "medium",
+  "topic": "being and nothingness"
+ },
+ {
+  "id": "phil-276",
+  "prompt": "Which of these thinkers was Italian?",
+  "choices": [
+   "Machiavelli",
+   "Thomas Hobbes",
+   "Voltaire",
+   "Immanuel Kant"
+  ],
+  "answer": "Machiavelli",
+  "difficulty": "easy",
+  "topic": "italian example"
+ },
+ {
+  "id": "phil-277",
+  "prompt": "Which of these thinkers was Indian?",
+  "choices": [
+   "Shankara",
+   "Plato",
+   "Avicenna",
+   "Confucius"
+  ],
+  "answer": "Shankara",
+  "difficulty": "easy",
+  "topic": "indian example"
+ },
+ {
+  "id": "phil-278",
+  "prompt": "Which of these thinkers was a medieval Muslim philosopher?",
+  "choices": [
+   "Averroes",
+   "Thomas Aquinas",
+   "Plato",
+   "Confucius"
+  ],
+  "answer": "Averroes",
+  "difficulty": "medium",
+  "topic": "muslim philosopher example"
+ },
+ {
+  "id": "phil-279",
+  "prompt": "Which of these is a branch of philosophy?",
+  "choices": [
+   "Ethics",
+   "Botany",
+   "Geology",
+   "Chemistry"
+  ],
+  "answer": "Ethics",
+  "difficulty": "easy",
+  "topic": "branch example"
+ },
+ {
+  "id": "phil-280",
+  "prompt": "Which of these is an ancient Greek school of philosophy?",
+  "choices": [
+   "Stoicism",
+   "Daoism",
+   "Jainism",
+   "Shinto"
+  ],
+  "answer": "Stoicism",
+  "difficulty": "medium",
+  "topic": "greek school example"
+ },
+ {
+  "id": "phil-281",
+  "prompt": "Which of these is a Chinese school of thought?",
+  "choices": [
+   "Daoism",
+   "Stoicism",
+   "Cynicism",
+   "Scholasticism"
+  ],
+  "answer": "Daoism",
+  "difficulty": "medium",
+  "topic": "chinese school example"
+ },
+ {
+  "id": "phil-282",
+  "prompt": "Which Indian leader developed the philosophy of satyagraha?",
+  "choices": [
+   "Mahatma Gandhi",
+   "Jawaharlal Nehru",
+   "Rabindranath Tagore",
+   "Swami Vivekananda"
+  ],
+  "answer": "Mahatma Gandhi",
+  "difficulty": "easy",
+  "topic": "satyagraha"
+ },
+ {
+  "id": "phil-283",
+  "prompt": "What did Aristotle call the first cause of all motion?",
+  "choices": [
+   "The Unmoved Mover",
+   "The Demiurge",
+   "The One",
+   "The Logos"
+  ],
+  "answer": "The Unmoved Mover",
+  "difficulty": "medium",
+  "topic": "unmoved mover"
+ },
+ {
+  "id": "phil-284",
+  "prompt": "In Plato's Timaeus, what is the divine craftsman called?",
+  "choices": [
+   "The Demiurge",
+   "The Unmoved Mover",
+   "The One",
+   "The Logos"
+  ],
+  "answer": "The Demiurge",
+  "difficulty": "hard",
+  "topic": "demiurge"
+ },
+ {
+  "id": "phil-285",
+  "prompt": "What did Plotinus call the ultimate source of all things?",
+  "choices": [
+   "The One",
+   "The Demiurge",
+   "The Logos",
+   "The Forms"
+  ],
+  "answer": "The One",
+  "difficulty": "hard",
+  "topic": "plotinus the one"
+ },
+ {
+  "id": "phil-286",
+  "prompt": "Which term did Kant use for things as they are in themselves?",
+  "choices": [
+   "Noumena",
+   "Phenomena",
+   "Monads",
+   "Forms"
+  ],
+  "answer": "Noumena",
+  "difficulty": "hard",
+  "topic": "noumena"
+ },
+ {
+  "id": "phil-287",
+  "prompt": "Who wrote The Open Society and Its Enemies?",
+  "choices": [
+   "Karl Popper",
+   "Friedrich Hayek",
+   "Isaiah Berlin",
+   "John Rawls"
+  ],
+  "answer": "Karl Popper",
+  "difficulty": "medium",
+  "topic": "open society"
+ },
+ {
+  "id": "phil-288",
+  "prompt": "Who wrote Philosophical Investigations?",
+  "choices": [
+   "Ludwig Wittgenstein",
+   "Bertrand Russell",
+   "A. J. Ayer",
+   "Rudolf Carnap"
+  ],
+  "answer": "Ludwig Wittgenstein",
+  "difficulty": "medium",
+  "topic": "philosophical investigations"
+ },
+ {
+  "id": "phil-289",
+  "prompt": "Which Chinese tradition stresses harmony with nature and the Way?",
+  "choices": [
+   "Daoism",
+   "Legalism",
+   "Confucianism",
+   "Mohism"
+  ],
+  "answer": "Daoism",
+  "difficulty": "easy",
+  "topic": "daoism nature"
+ },
+ {
+  "id": "phil-290",
+  "prompt": "Which Chinese tradition stresses ritual, family duty, and virtue?",
+  "choices": [
+   "Confucianism",
+   "Daoism",
+   "Legalism",
+   "Mohism"
+  ],
+  "answer": "Confucianism",
+  "difficulty": "easy",
+  "topic": "confucianism ritual"
+ },
+ {
+  "id": "phil-291",
+  "prompt": "Stoicism began in which ancient country?",
+  "choices": [
+   "Greece",
+   "Egypt",
+   "Persia",
+   "China"
+  ],
+  "answer": "Greece",
+  "difficulty": "easy",
+  "topic": "stoicism origin country"
+ },
+ {
+  "id": "phil-292",
+  "prompt": "The Stoics taught that the chief good is what?",
+  "choices": [
+   "Virtue",
+   "Wealth",
+   "Fame",
+   "Pleasure"
+  ],
+  "answer": "Virtue",
+  "difficulty": "easy",
+  "topic": "stoic chief good"
+ },
+ {
+  "id": "phil-293",
+  "prompt": "Epicurus taught that the aim of life is what?",
+  "choices": [
+   "Calm pleasure",
+   "Wealth",
+   "Military glory",
+   "Fame"
+  ],
+  "answer": "Calm pleasure",
+  "difficulty": "medium",
+  "topic": "epicurus aim"
+ },
+ {
+  "id": "phil-294",
+  "prompt": "Which of these is a logical fallacy?",
+  "choices": [
+   "Straw man",
+   "Syllogism",
+   "Axiom",
+   "Premise"
+  ],
+  "answer": "Straw man",
+  "difficulty": "easy",
+  "topic": "fallacy example"
+ },
+ {
+  "id": "phil-295",
+  "prompt": "In an argument, a claim offered as support is called a what?",
+  "choices": [
+   "Premise",
+   "Fallacy",
+   "Paradox",
+   "Dogma"
+  ],
+  "answer": "Premise",
+  "difficulty": "easy",
+  "topic": "premise definition"
+ },
+ {
+  "id": "phil-296",
+  "prompt": "The word cynic comes from the Greek for which animal?",
+  "choices": [
+   "Dog",
+   "Horse",
+   "Owl",
+   "Goat"
+  ],
+  "answer": "Dog",
+  "difficulty": "medium",
+  "topic": "cynic etymology"
+ },
+ {
+  "id": "phil-297",
+  "prompt": "Diogenes carried a lamp in daylight, saying he was looking for what?",
+  "choices": [
+   "A man",
+   "A king",
+   "A god",
+   "A coin"
+  ],
+  "answer": "A man",
+  "difficulty": "easy",
+  "topic": "diogenes lamp"
+ },
+ {
+  "id": "phil-298",
+  "prompt": "The title Buddha means what?",
+  "choices": [
+   "The Awakened One",
+   "The Holy Mountain",
+   "The Golden Path",
+   "The Silent Sage"
+  ],
+  "answer": "The Awakened One",
+  "difficulty": "easy",
+  "topic": "buddha title"
+ },
+ {
+  "id": "phil-299",
+  "prompt": "Who is the main speaker in most of Plato's dialogues?",
+  "choices": [
+   "Socrates",
+   "Aristotle",
+   "Pericles",
+   "Homer"
+  ],
+  "answer": "Socrates",
+  "difficulty": "easy",
+  "topic": "plato's main speaker"
+ },
+ {
+  "id": "phil-300",
+  "prompt": "Which branch of philosophy studies justice and government?",
+  "choices": [
+   "Political philosophy",
+   "Aesthetics",
+   "Metaphysics",
+   "Logic"
+  ],
+  "answer": "Political philosophy",
+  "difficulty": "easy",
+  "topic": "political philosophy"
+ },
+ {
+  "id": "phil-301",
+  "prompt": "Which English philosopher described the newborn mind as a blank slate?",
+  "choices": [
+   "John Locke",
+   "Thomas Hobbes",
+   "George Berkeley",
+   "Francis Bacon"
+  ],
+  "answer": "John Locke",
+  "difficulty": "medium",
+  "topic": "locke tabula rasa"
+ }
+]

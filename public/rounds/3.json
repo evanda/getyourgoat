@@ -1,0 +1,192 @@
+{
+ "number": 3,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-253",
+     "prompt": "32 ÷ 8",
+     "answer": 4,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-046",
+     "prompt": "405 + 39",
+     "answer": 444,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-116",
+     "prompt": "140 ÷ 10 + 11",
+     "answer": 25,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-089",
+     "prompt": "In which year was the Spanish Armada defeated?",
+     "choices": [
+      "1588",
+      "1492",
+      "1666",
+      "1715"
+     ],
+     "answer": "1588",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-108",
+     "prompt": "Who gave the famous 'I Have a Dream' speech in 1963?",
+     "choices": [
+      "Malcolm X",
+      "Frederick Douglass",
+      "Booker T. Washington",
+      "Martin Luther King Jr."
+     ],
+     "answer": "Martin Luther King Jr.",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-096",
+     "prompt": "In which year did Columbus first reach the Caribbean?",
+     "choices": [
+      "1452",
+      "1520",
+      "1607",
+      "1492"
+     ],
+     "answer": "1492",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-287",
+     "prompt": "Who wrote Lord of the Flies?",
+     "choices": [
+      "William Golding",
+      "Aldous Huxley",
+      "Graham Greene",
+      "George Orwell"
+     ],
+     "answer": "William Golding",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-167",
+     "prompt": "What is the Roman name for the Greek god Zeus?",
+     "choices": [
+      "Neptune",
+      "Mars",
+      "Saturn",
+      "Jupiter"
+     ],
+     "answer": "Jupiter",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-045",
+     "prompt": "Who wrote The War of the Worlds?",
+     "choices": [
+      "H. G. Wells",
+      "Aldous Huxley",
+      "Jules Verne",
+      "Arthur Conan Doyle"
+     ],
+     "answer": "H. G. Wells",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-240",
+     "prompt": "Which narrow land bridge links North and South America?",
+     "choices": [
+      "Isthmus of Suez",
+      "Strait of Gibraltar",
+      "Bering Strait",
+      "Isthmus of Panama"
+     ],
+     "answer": "Isthmus of Panama",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-103",
+     "prompt": "Which desert in Chile is one of the driest places on Earth?",
+     "choices": [
+      "Sahara",
+      "Gobi",
+      "Atacama",
+      "Namib"
+     ],
+     "answer": "Atacama",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-107",
+     "prompt": "Lightning heats air so fast it makes which sound?",
+     "choices": [
+      "Echo",
+      "Hiss",
+      "Thunder",
+      "Thump"
+     ],
+     "answer": "Thunder",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-229",
+     "prompt": "Who is often called the second founder of Stoicism?",
+     "choices": [
+      "Chrysippus",
+      "Cleanthes",
+      "Zeno of Citium",
+      "Panaetius"
+     ],
+     "answer": "Chrysippus",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-164",
+     "prompt": "Which ethical approach is based on duties and rules?",
+     "choices": [
+      "Deontology",
+      "Consequentialism",
+      "Hedonism",
+      "Nihilism"
+     ],
+     "answer": "Deontology",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-102",
+     "prompt": "Which philosopher proposed the categorical imperative?",
+     "choices": [
+      "Immanuel Kant",
+      "John Stuart Mill",
+      "David Hume",
+      "Hegel"
+     ],
+     "answer": "Immanuel Kant",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

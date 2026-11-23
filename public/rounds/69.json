@@ -1,0 +1,192 @@
+{
+ "number": 69,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-029",
+     "prompt": "12 × 6 − 21",
+     "answer": 51,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-084",
+     "prompt": "22 × 16",
+     "answer": 352,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-129",
+     "prompt": "36 + 72",
+     "answer": 108,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-224",
+     "prompt": "The word 'algorithm' comes from which Persian scholar's name?",
+     "choices": [
+      "Avicenna",
+      "Omar Khayyam",
+      "Alhazen",
+      "Al-Khwarizmi"
+     ],
+     "answer": "Al-Khwarizmi",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-229",
+     "prompt": "Which country gave the Statue of Liberty to the United States?",
+     "choices": [
+      "France",
+      "England",
+      "Spain",
+      "Italy"
+     ],
+     "answer": "France",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-097",
+     "prompt": "Which Italian painted the Mona Lisa?",
+     "choices": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+     ],
+     "answer": "Leonardo da Vinci",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-266",
+     "prompt": "What does the Scarecrow hope to get from the Wizard of Oz?",
+     "choices": [
+      "A heart",
+      "A new home",
+      "Courage",
+      "A brain"
+     ],
+     "answer": "A brain",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-033",
+     "prompt": "Who wrote Gulliver's Travels?",
+     "choices": [
+      "Laurence Sterne",
+      "Henry Fielding",
+      "Jonathan Swift",
+      "Daniel Defoe"
+     ],
+     "answer": "Jonathan Swift",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-015",
+     "prompt": "Who wrote Anne of Green Gables?",
+     "choices": [
+      "Laura Ingalls Wilder",
+      "Frances Hodgson Burnett",
+      "Louisa May Alcott",
+      "L. M. Montgomery"
+     ],
+     "answer": "L. M. Montgomery",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-259",
+     "prompt": "What is the name for lines running east to west on a globe?",
+     "choices": [
+      "Longitude",
+      "Meridians",
+      "Latitude",
+      "Poles"
+     ],
+     "answer": "Latitude",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-232",
+     "prompt": "Which is the tallest uninterrupted waterfall in the world?",
+     "choices": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Yosemite Falls",
+      "Angel Falls"
+     ],
+     "answer": "Angel Falls",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-255",
+     "prompt": "Which of Earth's great cycles moves carbon between air, plants, oceans and rocks?",
+     "choices": [
+      "Rock cycle",
+      "Water cycle",
+      "Carbon cycle",
+      "Tide cycle"
+     ],
+     "answer": "Carbon cycle",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-094",
+     "prompt": "Who wrote Candide?",
+     "choices": [
+      "Voltaire",
+      "Rousseau",
+      "Diderot",
+      "Montesquieu"
+     ],
+     "answer": "Voltaire",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-161",
+     "prompt": "Which branch of philosophy studies correct reasoning?",
+     "choices": [
+      "Logic",
+      "Aesthetics",
+      "Ethics",
+      "Cosmology"
+     ],
+     "answer": "Logic",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-157",
+     "prompt": "Epistemology is the study of what?",
+     "choices": [
+      "Knowledge",
+      "Beauty",
+      "Morality",
+      "Reality"
+     ],
+     "answer": "Knowledge",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

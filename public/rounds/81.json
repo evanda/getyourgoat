@@ -1,0 +1,192 @@
+{
+ "number": 81,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-025",
+     "prompt": "7 × 10 − 17",
+     "answer": 53,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-067",
+     "prompt": "262 − 84",
+     "answer": 178,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-123",
+     "prompt": "497 − 87",
+     "answer": 410,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-296",
+     "prompt": "Who became the first American to travel into space, in 1961?",
+     "choices": [
+      "John Glenn",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Alan Shepard"
+     ],
+     "answer": "Alan Shepard",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-047",
+     "prompt": "Which conqueror founded the city of Alexandria in Egypt?",
+     "choices": [
+      "Julius Caesar",
+      "Cyrus the Great",
+      "Alexander the Great",
+      "Ptolemy XIII"
+     ],
+     "answer": "Alexander the Great",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-242",
+     "prompt": "Which two superpowers were the main rivals in the Cold War?",
+     "choices": [
+      "Britain and Germany",
+      "United States and Soviet Union",
+      "France and Russia",
+      "China and Japan"
+     ],
+     "answer": "United States and Soviet Union",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-030",
+     "prompt": "Who wrote Don Quixote?",
+     "choices": [
+      "Federico García Lorca",
+      "Gabriel García Márquez",
+      "Lope de Vega",
+      "Miguel de Cervantes"
+     ],
+     "answer": "Miguel de Cervantes",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-190",
+     "prompt": "Who wrote Heidi?",
+     "choices": [
+      "Astrid Lindgren",
+      "Erich Kästner",
+      "Selma Lagerlöf",
+      "Johanna Spyri"
+     ],
+     "answer": "Johanna Spyri",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-174",
+     "prompt": "What is the great world-tree of Norse myth called?",
+     "choices": [
+      "Bifröst",
+      "Yggdrasil",
+      "Valhalla",
+      "Asgard"
+     ],
+     "answer": "Yggdrasil",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-111",
+     "prompt": "What percentage of Earth's surface is covered by oceans, roughly?",
+     "choices": [
+      "About 50 percent",
+      "About 90 percent",
+      "About 71 percent",
+      "About 30 percent"
+     ],
+     "answer": "About 71 percent",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-027",
+     "prompt": "Earth's crust is thinnest beneath which feature?",
+     "choices": [
+      "Mountain ranges",
+      "Deserts",
+      "Oceans",
+      "Plateaus"
+     ],
+     "answer": "Oceans",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-296",
+     "prompt": "Warm air rising and cool air sinking is called what?",
+     "choices": [
+      "Radiation",
+      "Conduction",
+      "Erosion",
+      "Convection"
+     ],
+     "answer": "Convection",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-091",
+     "prompt": "Who wrote the Novum Organum?",
+     "choices": [
+      "Francis Bacon",
+      "Thomas Hobbes",
+      "John Locke",
+      "Galileo"
+     ],
+     "answer": "Francis Bacon",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-219",
+     "prompt": "Which term describes the view that God's existence is unknowable?",
+     "choices": [
+      "Agnosticism",
+      "Atheism",
+      "Pantheism",
+      "Deism"
+     ],
+     "answer": "Agnosticism",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-184",
+     "prompt": "Phenomenology focuses on what?",
+     "choices": [
+      "Structures of conscious experience",
+      "The stars",
+      "Moral law",
+      "Political power"
+     ],
+     "answer": "Structures of conscious experience",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

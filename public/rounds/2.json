@@ -1,0 +1,192 @@
+{
+ "number": 2,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-165",
+     "prompt": "356 − 54",
+     "answer": 302,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-124",
+     "prompt": "36 × 8",
+     "answer": 288,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-135",
+     "prompt": "87 − 24",
+     "answer": 63,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-117",
+     "prompt": "Which European country colonized Brazil?",
+     "choices": [
+      "Portugal",
+      "Spain",
+      "France",
+      "Netherlands"
+     ],
+     "answer": "Portugal",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-151",
+     "prompt": "Which ship carried Charles Darwin on his famous voyage?",
+     "choices": [
+      "HMS Victory",
+      "Mayflower",
+      "HMS Beagle",
+      "Endeavour"
+     ],
+     "answer": "HMS Beagle",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-156",
+     "prompt": "Which English physician developed the smallpox vaccine in 1796?",
+     "choices": [
+      "Joseph Lister",
+      "John Snow",
+      "William Harvey",
+      "Edward Jenner"
+     ],
+     "answer": "Edward Jenner",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-073",
+     "prompt": "Oberon and Titania appear in which Shakespeare play?",
+     "choices": [
+      "The Tempest",
+      "Twelfth Night",
+      "A Midsummer Night's Dream",
+      "As You Like It"
+     ],
+     "answer": "A Midsummer Night's Dream",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-217",
+     "prompt": "Who wrote The Magic Mountain?",
+     "choices": [
+      "Franz Kafka",
+      "Hermann Hesse",
+      "Robert Musil",
+      "Thomas Mann"
+     ],
+     "answer": "Thomas Mann",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-206",
+     "prompt": "Who wrote the French novel The Stranger (L'Étranger)?",
+     "choices": [
+      "Jean-Paul Sartre",
+      "André Gide",
+      "Albert Camus",
+      "Marcel Proust"
+     ],
+     "answer": "Albert Camus",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-023",
+     "prompt": "The Himalayas rose from the collision of which two plates?",
+     "choices": [
+      "African and Eurasian",
+      "Pacific and Indian",
+      "Indian and Eurasian",
+      "Nazca and Pacific"
+     ],
+     "answer": "Indian and Eurasian",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-110",
+     "prompt": "Rain that freezes into small ice pellets while falling is called what?",
+     "choices": [
+      "Dew",
+      "Sleet",
+      "Fog",
+      "Mist"
+     ],
+     "answer": "Sleet",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-192",
+     "prompt": "A lunar eclipse happens when what blocks sunlight from reaching the Moon?",
+     "choices": [
+      "Venus",
+      "Mars",
+      "A comet",
+      "Earth"
+     ],
+     "answer": "Earth",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-247",
+     "prompt": "On which island was Pythagoras born?",
+     "choices": [
+      "Samos",
+      "Crete",
+      "Rhodes",
+      "Lesbos"
+     ],
+     "answer": "Samos",
+     "difficulty": "hard"
+    },
+    {
+     "id": "phil-105",
+     "prompt": "Who wrote the Phenomenology of Spirit?",
+     "choices": [
+      "Hegel",
+      "Kant",
+      "Schelling",
+      "Fichte"
+     ],
+     "answer": "Hegel",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-238",
+     "prompt": "Rousseau was born in which city?",
+     "choices": [
+      "Geneva",
+      "Paris",
+      "Lyon",
+      "Zurich"
+     ],
+     "answer": "Geneva",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

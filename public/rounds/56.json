@@ -1,0 +1,192 @@
+{
+ "number": 56,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-028",
+     "prompt": "230 − 80",
+     "answer": 150,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-191",
+     "prompt": "26 × 18",
+     "answer": 468,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-038",
+     "prompt": "34 × 3",
+     "answer": 102,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-261",
+     "prompt": "Which Byzantine emperor built the Hagia Sophia in the 500s?",
+     "choices": [
+      "Justinian I",
+      "Constantine",
+      "Heraclius",
+      "Basil II"
+     ],
+     "answer": "Justinian I",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-292",
+     "prompt": "Which Union general later became US president after the Civil War?",
+     "choices": [
+      "Robert E. Lee",
+      "George Meade",
+      "George McClellan",
+      "Ulysses S. Grant"
+     ],
+     "answer": "Ulysses S. Grant",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-056",
+     "prompt": "Joan of Arc fought for France in which long conflict?",
+     "choices": [
+      "Wars of the Roses",
+      "Thirty Years' War",
+      "Crimean War",
+      "Hundred Years' War"
+     ],
+     "answer": "Hundred Years' War",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-014",
+     "prompt": "Who wrote Little Women?",
+     "choices": [
+      "L. M. Montgomery",
+      "Louisa May Alcott",
+      "Harriet Beecher Stowe",
+      "Jane Austen"
+     ],
+     "answer": "Louisa May Alcott",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-255",
+     "prompt": "Whose 1920 play R.U.R. brought the word \"robot\" to the world?",
+     "choices": [
+      "Stanisław Lem",
+      "Karel Čapek",
+      "Isaac Asimov",
+      "Franz Kafka"
+     ],
+     "answer": "Karel Čapek",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-092",
+     "prompt": "In Charlotte's Web, what does Charlotte spin in her web to save Wilbur?",
+     "choices": [
+      "Words",
+      "Pictures",
+      "Stars",
+      "Numbers"
+     ],
+     "answer": "Words",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-169",
+     "prompt": "Trilobites were which kind of ancient animals?",
+     "choices": [
+      "Marine arthropods",
+      "Flying reptiles",
+      "Early mammals",
+      "Giant fish"
+     ],
+     "answer": "Marine arthropods",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-251",
+     "prompt": "Which source of energy uses heat from inside Earth?",
+     "choices": [
+      "Solar",
+      "Wind",
+      "Geothermal",
+      "Tidal"
+     ],
+     "answer": "Geothermal",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-168",
+     "prompt": "An asteroid impact near which modern country is linked to the dinosaur extinction?",
+     "choices": [
+      "Egypt",
+      "India",
+      "Canada",
+      "Mexico"
+     ],
+     "answer": "Mexico",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-214",
+     "prompt": "The African concept of ubuntu stresses what?",
+     "choices": [
+      "Shared humanity",
+      "Personal wealth",
+      "Ritual purity",
+      "Battle honor"
+     ],
+     "answer": "Shared humanity",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-113",
+     "prompt": "Who co-wrote The Communist Manifesto with Karl Marx?",
+     "choices": [
+      "Friedrich Engels",
+      "Vladimir Lenin",
+      "Hegel",
+      "Proudhon"
+     ],
+     "answer": "Friedrich Engels",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-025",
+     "prompt": "Which philosopher studied under Plato for about twenty years?",
+     "choices": [
+      "Aristotle",
+      "Epicurus",
+      "Zeno",
+      "Democritus"
+     ],
+     "answer": "Aristotle",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

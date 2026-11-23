@@ -1,0 +1,192 @@
+{
+ "number": 42,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-085",
+     "prompt": "60 − 27",
+     "answer": 33,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-007",
+     "prompt": "38 × 3",
+     "answer": 114,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-151",
+     "prompt": "59 − 32",
+     "answer": 27,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-021",
+     "prompt": "Which archaeologist uncovered Tutankhamun's tomb?",
+     "choices": [
+      "Howard Carter",
+      "Heinrich Schliemann",
+      "Arthur Evans",
+      "Flinders Petrie"
+     ],
+     "answer": "Howard Carter",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-279",
+     "prompt": "Which US city suffered a huge earthquake and fire in 1906?",
+     "choices": [
+      "Los Angeles",
+      "Seattle",
+      "San Francisco",
+      "Portland"
+     ],
+     "answer": "San Francisco",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-050",
+     "prompt": "In which city is the Colosseum found?",
+     "choices": [
+      "Athens",
+      "Rome",
+      "Florence",
+      "Naples"
+     ],
+     "answer": "Rome",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-194",
+     "prompt": "Who wrote Black Beauty?",
+     "choices": [
+      "Frances Hodgson Burnett",
+      "Kenneth Grahame",
+      "Louisa May Alcott",
+      "Anna Sewell"
+     ],
+     "answer": "Anna Sewell",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-008",
+     "prompt": "Who wrote The Lion, the Witch and the Wardrobe?",
+     "choices": [
+      "E. Nesbit",
+      "J. R. R. Tolkien",
+      "C. S. Lewis",
+      "Lewis Carroll"
+     ],
+     "answer": "C. S. Lewis",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-294",
+     "prompt": "Who wrote The Call of the Wild?",
+     "choices": [
+      "Zane Grey",
+      "Jack London",
+      "Mark Twain",
+      "Herman Melville"
+     ],
+     "answer": "Jack London",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-186",
+     "prompt": "Which planet is Earth's closest neighbor in size, often called its twin?",
+     "choices": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Neptune"
+     ],
+     "answer": "Venus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-136",
+     "prompt": "Most of Earth's fresh water is stored in what form?",
+     "choices": [
+      "Rivers",
+      "Lakes",
+      "Clouds",
+      "Ice"
+     ],
+     "answer": "Ice",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-089",
+     "prompt": "Water released as vapor from plant leaves is called what?",
+     "choices": [
+      "Transpiration",
+      "Runoff",
+      "Infiltration",
+      "Erosion"
+     ],
+     "answer": "Transpiration",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-163",
+     "prompt": "Which theory judges actions by the outcomes they produce?",
+     "choices": [
+      "Consequentialism",
+      "Deontology",
+      "Stoicism",
+      "Relativism"
+     ],
+     "answer": "Consequentialism",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-015",
+     "prompt": "Pythagoras is best known for a theorem about which shape?",
+     "choices": [
+      "Right triangles",
+      "Circles",
+      "Squares",
+      "Spheres"
+     ],
+     "answer": "Right triangles",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-129",
+     "prompt": "Who wrote the Tractatus Logico-Philosophicus?",
+     "choices": [
+      "Ludwig Wittgenstein",
+      "Bertrand Russell",
+      "Gottlob Frege",
+      "Rudolf Carnap"
+     ],
+     "answer": "Ludwig Wittgenstein",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

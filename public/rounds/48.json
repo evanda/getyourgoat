@@ -1,0 +1,192 @@
+{
+ "number": 48,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-150",
+     "prompt": "11 × 11 − 30",
+     "answer": 91,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-152",
+     "prompt": "6 × 7 + 8 × 9",
+     "answer": 114,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-115",
+     "prompt": "72 ÷ 6",
+     "answer": 12,
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-069",
+     "prompt": "Who founded the Mughal Empire in India?",
+     "choices": [
+      "Babur",
+      "Akbar",
+      "Humayun",
+      "Shah Jahan"
+     ],
+     "answer": "Babur",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-136",
+     "prompt": "In which year did the Russian Revolution bring the Bolsheviks to power?",
+     "choices": [
+      "1905",
+      "1924",
+      "1939",
+      "1917"
+     ],
+     "answer": "1917",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-161",
+     "prompt": "Which pharaoh tried to shift Egypt to worship of the sun disk Aten?",
+     "choices": [
+      "Akhenaten",
+      "Ramses II",
+      "Khufu",
+      "Thutmose III"
+     ],
+     "answer": "Akhenaten",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-274",
+     "prompt": "Which Mark Twain boy tricks friends into whitewashing a fence?",
+     "choices": [
+      "Jim",
+      "Tom Sawyer",
+      "Injun Joe",
+      "Huckleberry Finn"
+     ],
+     "answer": "Tom Sawyer",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-125",
+     "prompt": "Who wrote the poem \"The Tyger\"?",
+     "choices": [
+      "John Donne",
+      "Thomas Gray",
+      "William Blake",
+      "William Wordsworth"
+     ],
+     "answer": "William Blake",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-198",
+     "prompt": "Who wrote The Phantom Tollbooth?",
+     "choices": [
+      "Lemony Snicket",
+      "E. B. White",
+      "Roald Dahl",
+      "Norton Juster"
+     ],
+     "answer": "Norton Juster",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-167",
+     "prompt": "Which extinction, about 252 million years ago, was the largest in Earth's history?",
+     "choices": [
+      "Cretaceous-Paleogene",
+      "Triassic-Jurassic",
+      "Permian-Triassic",
+      "Devonian"
+     ],
+     "answer": "Permian-Triassic",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-086",
+     "prompt": "When water vapor turns into liquid water, it is called what?",
+     "choices": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Transpiration"
+     ],
+     "answer": "Condensation",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-038",
+     "prompt": "Mauna Loa is which kind of volcano?",
+     "choices": [
+      "Stratovolcano",
+      "Shield",
+      "Cinder cone",
+      "Lava dome"
+     ],
+     "answer": "Shield",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-126",
+     "prompt": "Which French author wrote The Myth of Sisyphus?",
+     "choices": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "Samuel Beckett",
+      "Franz Kafka"
+     ],
+     "answer": "Albert Camus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-018",
+     "prompt": "Pyrrho is regarded as the founder of which school?",
+     "choices": [
+      "Skepticism",
+      "Stoicism",
+      "Cynicism",
+      "Epicureanism"
+     ],
+     "answer": "Skepticism",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-136",
+     "prompt": "Which philosopher imagined the experience machine?",
+     "choices": [
+      "Robert Nozick",
+      "John Rawls",
+      "Derek Parfit",
+      "Thomas Nagel"
+     ],
+     "answer": "Robert Nozick",
+     "difficulty": "medium"
+    }
+   ]
+  }
+ ]
+}

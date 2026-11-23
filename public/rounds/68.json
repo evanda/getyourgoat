@@ -1,0 +1,192 @@
+{
+ "number": 68,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-002",
+     "prompt": "80 − 42",
+     "answer": 38,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-102",
+     "prompt": "499 − 41",
+     "answer": 458,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-158",
+     "prompt": "19 × 7",
+     "answer": 133,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-014",
+     "prompt": "Which Chinese emperor was buried with a Terracotta Army?",
+     "choices": [
+      "Kublai Khan",
+      "Qin Shi Huang",
+      "Emperor Wu",
+      "Emperor Taizong"
+     ],
+     "answer": "Qin Shi Huang",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-297",
+     "prompt": "Who was the first woman to travel into space, in 1963?",
+     "choices": [
+      "Valentina Tereshkova",
+      "Sally Ride",
+      "Amelia Earhart",
+      "Mae Jemison"
+     ],
+     "answer": "Valentina Tereshkova",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-180",
+     "prompt": "Which Chinese dynasty built the Forbidden City in Beijing?",
+     "choices": [
+      "Tang",
+      "Han",
+      "Song",
+      "Ming"
+     ],
+     "answer": "Ming",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-260",
+     "prompt": "Which fairy-tale princess bites a poisoned apple?",
+     "choices": [
+      "Cinderella",
+      "Belle",
+      "Rapunzel",
+      "Snow White"
+     ],
+     "answer": "Snow White",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-242",
+     "prompt": "Romance of the Three Kingdoms is set during the fall of which dynasty?",
+     "choices": [
+      "Tang",
+      "Ming",
+      "Han",
+      "Qing"
+     ],
+     "answer": "Han",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-185",
+     "prompt": "Which siblings collected the tales of Hansel and Gretel and Rapunzel?",
+     "choices": [
+      "The Brontë sisters",
+      "The Brothers Grimm",
+      "The Wright brothers",
+      "The Marx Brothers"
+     ],
+     "answer": "The Brothers Grimm",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-253",
+     "prompt": "Which renewable energy uses the movement of water in rivers?",
+     "choices": [
+      "Hydroelectric",
+      "Nuclear",
+      "Coal-fired",
+      "Diesel"
+     ],
+     "answer": "Hydroelectric",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-057",
+     "prompt": "Which layer of the atmosphere do we live in and where weather happens?",
+     "choices": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+     ],
+     "answer": "Troposphere",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-116",
+     "prompt": "Which force is mainly responsible for ocean tides?",
+     "choices": [
+      "Wind",
+      "Earth's rotation alone",
+      "Ocean salt",
+      "The Moon's gravity"
+     ],
+     "answer": "The Moon's gravity",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-009",
+     "prompt": "Who put forward the theory of Forms, eternal ideal patterns of things?",
+     "choices": [
+      "Plato",
+      "Aristotle",
+      "Democritus",
+      "Epicurus"
+     ],
+     "answer": "Plato",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-066",
+     "prompt": "Who wrote the Muqaddimah, an early work on social history?",
+     "choices": [
+      "Ibn Khaldun",
+      "Avicenna",
+      "Al-Farabi",
+      "Averroes"
+     ],
+     "answer": "Ibn Khaldun",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-043",
+     "prompt": "Which philosopher formalized the syllogism?",
+     "choices": [
+      "Aristotle",
+      "Plato",
+      "Zeno",
+      "Socrates"
+     ],
+     "answer": "Aristotle",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

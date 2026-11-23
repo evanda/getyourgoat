@@ -1,0 +1,192 @@
+{
+ "number": 23,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-173",
+     "prompt": "327 − 44",
+     "answer": 283,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-270",
+     "prompt": "28 × 3",
+     "answer": 84,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-114",
+     "prompt": "8 × 9 − 18",
+     "answer": 54,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-121",
+     "prompt": "Which Black abolitionist guided many people to freedom on the Underground Railroad?",
+     "choices": [
+      "Harriet Tubman",
+      "Rosa Parks",
+      "Sojourner Truth",
+      "Mary McLeod Bethune"
+     ],
+     "answer": "Harriet Tubman",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-138",
+     "prompt": "Which Soviet leader ruled during most of World War II?",
+     "choices": [
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Nikita Khrushchev",
+      "Leonid Brezhnev"
+     ],
+     "answer": "Joseph Stalin",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-152",
+     "prompt": "Which scientist, with her husband Pierre, discovered radium?",
+     "choices": [
+      "Ada Lovelace",
+      "Rosalind Franklin",
+      "Florence Nightingale",
+      "Marie Curie"
+     ],
+     "answer": "Marie Curie",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-137",
+     "prompt": "In which language was the epic Beowulf written?",
+     "choices": [
+      "Middle English",
+      "Old English",
+      "Old Norse",
+      "Latin"
+     ],
+     "answer": "Old English",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-180",
+     "prompt": "Which demon king kidnaps Sita in the Ramayana?",
+     "choices": [
+      "Hiranyakashipu",
+      "Kansa",
+      "Duryodhana",
+      "Ravana"
+     ],
+     "answer": "Ravana",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-093",
+     "prompt": "Which novel has the character Hester Prynne?",
+     "choices": [
+      "The Scarlet Letter",
+      "Little Women",
+      "The House of the Seven Gables",
+      "The Last of the Mohicans"
+     ],
+     "answer": "The Scarlet Letter",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-197",
+     "prompt": "Which belt of rocky bodies lies between Mars and Jupiter?",
+     "choices": [
+      "Asteroid belt",
+      "Kuiper belt",
+      "Oort cloud",
+      "Van Allen belt"
+     ],
+     "answer": "Asteroid belt",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-011",
+     "prompt": "Which mineral group is the most abundant in Earth's crust?",
+     "choices": [
+      "Quartz",
+      "Mica",
+      "Feldspar",
+      "Olivine"
+     ],
+     "answer": "Feldspar",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-046",
+     "prompt": "The 1883 eruption of Krakatoa took place in which country?",
+     "choices": [
+      "Japan",
+      "Indonesia",
+      "Philippines",
+      "Chile"
+     ],
+     "answer": "Indonesia",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-236",
+     "prompt": "Thomas Aquinas was born in which country?",
+     "choices": [
+      "Italy",
+      "France",
+      "Germany",
+      "Spain"
+     ],
+     "answer": "Italy",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-012",
+     "prompt": "Seneca was the tutor of which Roman emperor?",
+     "choices": [
+      "Nero",
+      "Augustus",
+      "Trajan",
+      "Hadrian"
+     ],
+     "answer": "Nero",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-177",
+     "prompt": "What is the term for an argument attacking the person instead of the claim?",
+     "choices": [
+      "Ad hominem",
+      "Straw man",
+      "Slippery slope",
+      "Red herring"
+     ],
+     "answer": "Ad hominem",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "number": 38,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-232",
+     "prompt": "30 ÷ 5",
+     "answer": 6,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-258",
+     "prompt": "749 − 239",
+     "answer": 510,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-280",
+     "prompt": "9 × 10 − 29",
+     "answer": 61,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-140",
+     "prompt": "The 1944 D-Day landings took place on the coast of which country?",
+     "choices": [
+      "Italy",
+      "Belgium",
+      "Norway",
+      "France"
+     ],
+     "answer": "France",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-075",
+     "prompt": "Which king built the Zulu kingdom into a major power in the early 1800s?",
+     "choices": [
+      "Cetshwayo",
+      "Dingane",
+      "Shaka",
+      "Mzilikazi"
+     ],
+     "answer": "Shaka",
+     "difficulty": "medium"
+    },
+    {
+     "id": "hist-024",
+     "prompt": "Which empire had Cusco as its capital?",
+     "choices": [
+      "The Aztec Empire",
+      "The Maya",
+      "The Olmec",
+      "The Inca Empire"
+     ],
+     "answer": "The Inca Empire",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-068",
+     "prompt": "Which Winnie-the-Pooh character is a gloomy donkey?",
+     "choices": [
+      "Piglet",
+      "Rabbit",
+      "Eeyore",
+      "Tigger"
+     ],
+     "answer": "Eeyore",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-219",
+     "prompt": "Who wrote The Tin Drum?",
+     "choices": [
+      "Patrick Süskind",
+      "Günter Grass",
+      "Heinrich Böll",
+      "Thomas Mann"
+     ],
+     "answer": "Günter Grass",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-196",
+     "prompt": "Who wrote A Wrinkle in Time?",
+     "choices": [
+      "Madeleine L'Engle",
+      "Judy Blume",
+      "Ursula K. Le Guin",
+      "Lois Lowry"
+     ],
+     "answer": "Madeleine L'Engle",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-122",
+     "prompt": "Which region of the ocean floor is a flat, deep plain?",
+     "choices": [
+      "Continental shelf",
+      "Abyssal plain",
+      "Mid-ocean ridge",
+      "Trench"
+     ],
+     "answer": "Abyssal plain",
+     "difficulty": "hard"
+    },
+    {
+     "id": "earth-147",
+     "prompt": "Decayed plant and animal matter in soil is called what?",
+     "choices": [
+      "Gravel",
+      "Silt",
+      "Humus",
+      "Quartz"
+     ],
+     "answer": "Humus",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-141",
+     "prompt": "Which country is home to many famous fjords such as Geirangerfjord?",
+     "choices": [
+      "Norway",
+      "Spain",
+      "Egypt",
+      "Mexico"
+     ],
+     "answer": "Norway",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-041",
+     "prompt": "Aristotle wrote that man is a what kind of animal?",
+     "choices": [
+      "Political",
+      "Rational only",
+      "Wandering",
+      "Religious"
+     ],
+     "answer": "Political",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-255",
+     "prompt": "Which of these thinkers was a Roman Stoic?",
+     "choices": [
+      "Seneca",
+      "Plato",
+      "Confucius",
+      "Descartes"
+     ],
+     "answer": "Seneca",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-185",
+     "prompt": "The Ship of Theseus puzzle concerns what?",
+     "choices": [
+      "Identity over time",
+      "Free will",
+      "Beauty",
+      "Justice"
+     ],
+     "answer": "Identity over time",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

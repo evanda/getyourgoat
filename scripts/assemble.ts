@@ -78,16 +78,10 @@ function shuffle<T>(xs: T[]): T[] {
   return a;
 }
 
-/** Group into triples; the round's main question is the least hard of its three. */
+/** Group into triples in shuffled order, so main questions follow the bank's own difficulty mix. */
 function triples(qs: Draft[]): Draft[][] {
-  const rank = { easy: 0, medium: 1, hard: 2 };
   const out: Draft[][] = [];
-  for (let i = 0; i + PER_CATEGORY <= qs.length; i += PER_CATEGORY) {
-    const t = qs.slice(i, i + PER_CATEGORY);
-    // Keep shuffled order for rerolls, but move a non-hard question to the front.
-    const first = t.reduce((best, q) => (rank[q.difficulty] < rank[best.difficulty] ? q : best), t[0]);
-    out.push([first, ...t.filter((q) => q !== first)]);
-  }
+  for (let i = 0; i + PER_CATEGORY <= qs.length; i += PER_CATEGORY) out.push(qs.slice(i, i + PER_CATEGORY));
   return out;
 }
 

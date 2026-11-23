@@ -1,0 +1,192 @@
+{
+ "number": 59,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-036",
+     "prompt": "168 ÷ 12 + 7",
+     "answer": 21,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-221",
+     "prompt": "43 − 22",
+     "answer": 21,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-044",
+     "prompt": "9 × 6 + 8 × 8",
+     "answer": 118,
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-222",
+     "prompt": "Which scholar of Alexandria estimated the size of the Earth around 240 BC?",
+     "choices": [
+      "Archimedes",
+      "Eratosthenes",
+      "Ptolemy",
+      "Aristarchus"
+     ],
+     "answer": "Eratosthenes",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-022",
+     "prompt": "Which civilization built the city of Chichen Itza?",
+     "choices": [
+      "The Aztecs",
+      "The Maya",
+      "The Inca",
+      "The Olmec"
+     ],
+     "answer": "The Maya",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-002",
+     "prompt": "Which river was the lifeline of ancient Egypt?",
+     "choices": [
+      "Tigris",
+      "Nile",
+      "Indus",
+      "Yellow River"
+     ],
+     "answer": "Nile",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-230",
+     "prompt": "Who wrote The Decameron, a collection of 100 tales?",
+     "choices": [
+      "Dante Alighieri",
+      "Giovanni Boccaccio",
+      "Niccolò Machiavelli",
+      "Petrarch"
+     ],
+     "answer": "Giovanni Boccaccio",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-256",
+     "prompt": "Who wrote The Unbearable Lightness of Being?",
+     "choices": [
+      "Milan Kundera",
+      "Ivan Klíma",
+      "Karel Čapek",
+      "Václav Havel"
+     ],
+     "answer": "Milan Kundera",
+     "difficulty": "hard"
+    },
+    {
+     "id": "lit-062",
+     "prompt": "What is the name of the ship in Treasure Island?",
+     "choices": [
+      "Pequod",
+      "Dawn Treader",
+      "Nautilus",
+      "Hispaniola"
+     ],
+     "answer": "Hispaniola",
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-065",
+     "prompt": "Which type of cloud is tall, towering, and brings thunderstorms?",
+     "choices": [
+      "Cumulonimbus",
+      "Cirrus",
+      "Stratus",
+      "Altocumulus"
+     ],
+     "answer": "Cumulonimbus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-248",
+     "prompt": "Which metal is mined from hematite ore?",
+     "choices": [
+      "Gold",
+      "Aluminum",
+      "Copper",
+      "Iron"
+     ],
+     "answer": "Iron",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-097",
+     "prompt": "The sky looks blue mostly because air scatters which light the most?",
+     "choices": [
+      "Blue",
+      "Red",
+      "Yellow",
+      "Green"
+     ],
+     "answer": "Blue",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-077",
+     "prompt": "Who is considered the creator of the personal essay with his Essays?",
+     "choices": [
+      "Montaigne",
+      "Pascal",
+      "Voltaire",
+      "Rabelais"
+     ],
+     "answer": "Montaigne",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-257",
+     "prompt": "Which of these thinkers was a woman?",
+     "choices": [
+      "Hypatia",
+      "Aristotle",
+      "Epicurus",
+      "Seneca"
+     ],
+     "answer": "Hypatia",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-182",
+     "prompt": "Which branch of philosophy studies value in general?",
+     "choices": [
+      "Axiology",
+      "Ontology",
+      "Epistemology",
+      "Cosmology"
+     ],
+     "answer": "Axiology",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}

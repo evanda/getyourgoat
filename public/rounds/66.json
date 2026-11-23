@@ -1,0 +1,192 @@
+{
+ "number": 66,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-140",
+     "prompt": "478 − 66",
+     "answer": 412,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-298",
+     "prompt": "49 − 43",
+     "answer": 6,
+     "difficulty": "easy"
+    },
+    {
+     "id": "arith-283",
+     "prompt": "49 ÷ 7 + 16",
+     "answer": 23,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-053",
+     "prompt": "Which pope called for the First Crusade in 1095?",
+     "choices": [
+      "Urban II",
+      "Gregory VII",
+      "Innocent III",
+      "Pius V"
+     ],
+     "answer": "Urban II",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-074",
+     "prompt": "Which Ethiopian emperor beat Italy at the Battle of Adwa in 1896?",
+     "choices": [
+      "Haile Selassie",
+      "Menelik II",
+      "Tewodros II",
+      "Yohannes IV"
+     ],
+     "answer": "Menelik II",
+     "difficulty": "hard"
+    },
+    {
+     "id": "hist-090",
+     "prompt": "Which queen ruled England when the Spanish Armada sailed?",
+     "choices": [
+      "Mary I",
+      "Elizabeth I",
+      "Victoria",
+      "Anne"
+     ],
+     "answer": "Elizabeth I",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-107",
+     "prompt": "Who wrote The Canterbury Tales?",
+     "choices": [
+      "John Gower",
+      "Geoffrey Chaucer",
+      "William Langland",
+      "Edmund Spenser"
+     ],
+     "answer": "Geoffrey Chaucer",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-162",
+     "prompt": "Which Greek hero beheads Medusa?",
+     "choices": [
+      "Odysseus",
+      "Jason",
+      "Perseus",
+      "Theseus"
+     ],
+     "answer": "Perseus",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-136",
+     "prompt": "Which meter did Shakespeare mainly use in his sonnets?",
+     "choices": [
+      "Trochaic tetrameter",
+      "Iambic pentameter",
+      "Anapestic trimeter",
+      "Dactylic hexameter"
+     ],
+     "answer": "Iambic pentameter",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-198",
+     "prompt": "The Sun is classified as which kind of object?",
+     "choices": [
+      "Planet",
+      "Star",
+      "Moon",
+      "Comet"
+     ],
+     "answer": "Star",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-119",
+     "prompt": "Large circular ocean currents are called what?",
+     "choices": [
+      "Fronts",
+      "Geysers",
+      "Gyres",
+      "Deltas"
+     ],
+     "answer": "Gyres",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-069",
+     "prompt": "What is a tropical cyclone called in the Atlantic Ocean?",
+     "choices": [
+      "Hurricane",
+      "Typhoon",
+      "Monsoon",
+      "Cyclops"
+     ],
+     "answer": "Hurricane",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-112",
+     "prompt": "Kierkegaard was a thinker from which country?",
+     "choices": [
+      "Denmark",
+      "Norway",
+      "Germany",
+      "Sweden"
+     ],
+     "answer": "Denmark",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-100",
+     "prompt": "Who wrote Reflections on the Revolution in France?",
+     "choices": [
+      "Edmund Burke",
+      "Thomas Paine",
+      "David Hume",
+      "Jeremy Bentham"
+     ],
+     "answer": "Edmund Burke",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-056",
+     "prompt": "What is the Buddhist state of liberation from suffering called?",
+     "choices": [
+      "Nirvana",
+      "Karma",
+      "Samsara",
+      "Atman"
+     ],
+     "answer": "Nirvana",
+     "difficulty": "easy"
+    }
+   ]
+  }
+ ]
+}

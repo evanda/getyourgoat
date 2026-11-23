@@ -1,0 +1,192 @@
+{
+ "number": 8,
+ "questions": [
+  {
+   "category": "arithmetic",
+   "variants": [
+    {
+     "id": "arith-267",
+     "prompt": "170 ÷ 10",
+     "answer": 17,
+     "difficulty": "hard"
+    },
+    {
+     "id": "arith-210",
+     "prompt": "405 − 50",
+     "answer": 355,
+     "difficulty": "medium"
+    },
+    {
+     "id": "arith-104",
+     "prompt": "376 + 50",
+     "answer": 426,
+     "difficulty": "medium"
+    }
+   ]
+  },
+  {
+   "category": "history",
+   "variants": [
+    {
+     "id": "hist-139",
+     "prompt": "Who was Britain's prime minister for most of World War II?",
+     "choices": [
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Winston Churchill",
+      "Margaret Thatcher"
+     ],
+     "answer": "Winston Churchill",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-212",
+     "prompt": "In which year did the Great Fire of London occur?",
+     "choices": [
+      "1588",
+      "1715",
+      "1805",
+      "1666"
+     ],
+     "answer": "1666",
+     "difficulty": "easy"
+    },
+    {
+     "id": "hist-099",
+     "prompt": "In which year was the American Declaration of Independence adopted?",
+     "choices": [
+      "1789",
+      "1754",
+      "1776",
+      "1812"
+     ],
+     "answer": "1776",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "literature",
+   "variants": [
+    {
+     "id": "lit-041",
+     "prompt": "Who wrote The Wonderful Wizard of Oz?",
+     "choices": [
+      "L. Frank Baum",
+      "E. Nesbit",
+      "Mark Twain",
+      "Frances Hodgson Burnett"
+     ],
+     "answer": "L. Frank Baum",
+     "difficulty": "easy"
+    },
+    {
+     "id": "lit-239",
+     "prompt": "Who wrote the novel Norwegian Wood?",
+     "choices": [
+      "Banana Yoshimoto",
+      "Haruki Murakami",
+      "Kenzaburō Ōe",
+      "Yasunari Kawabata"
+     ],
+     "answer": "Haruki Murakami",
+     "difficulty": "medium"
+    },
+    {
+     "id": "lit-019",
+     "prompt": "Who wrote The Great Gatsby?",
+     "choices": [
+      "John Steinbeck",
+      "William Faulkner",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+     ],
+     "answer": "F. Scott Fitzgerald",
+     "difficulty": "easy"
+    }
+   ]
+  },
+  {
+   "category": "earth science",
+   "variants": [
+    {
+     "id": "earth-106",
+     "prompt": "Atmospheric pressure generally does what as you climb a mountain?",
+     "choices": [
+      "Increases",
+      "Decreases",
+      "Stays the same",
+      "Doubles"
+     ],
+     "answer": "Decreases",
+     "difficulty": "easy"
+    },
+    {
+     "id": "earth-203",
+     "prompt": "The term for Earth's solid outer shell broken into plates is what?",
+     "choices": [
+      "Hydrosphere",
+      "Biosphere",
+      "Lithosphere",
+      "Atmosphere"
+     ],
+     "answer": "Lithosphere",
+     "difficulty": "medium"
+    },
+    {
+     "id": "earth-288",
+     "prompt": "Crater Lake in Oregon fills what kind of volcanic feature?",
+     "choices": [
+      "Delta",
+      "Fjord",
+      "Atoll",
+      "Caldera"
+     ],
+     "answer": "Caldera",
+     "difficulty": "hard"
+    }
+   ]
+  },
+  {
+   "category": "philosophy",
+   "variants": [
+    {
+     "id": "phil-006",
+     "prompt": "What name was given to Epicurus's school in Athens?",
+     "choices": [
+      "The Garden",
+      "The Porch",
+      "The Lyceum",
+      "The Academy"
+     ],
+     "answer": "The Garden",
+     "difficulty": "medium"
+    },
+    {
+     "id": "phil-075",
+     "prompt": "Who wrote Utopia?",
+     "choices": [
+      "Thomas More",
+      "Erasmus",
+      "Machiavelli",
+      "Francis Bacon"
+     ],
+     "answer": "Thomas More",
+     "difficulty": "easy"
+    },
+    {
+     "id": "phil-148",
+     "prompt": "Who wrote Language, Truth and Logic?",
+     "choices": [
+      "A. J. Ayer",
+      "Bertrand Russell",
+      "Gilbert Ryle",
+      "J. L. Austin"
+     ],
+     "answer": "A. J. Ayer",
+     "difficulty": "hard"
+    }
+   ]
+  }
+ ]
+}
