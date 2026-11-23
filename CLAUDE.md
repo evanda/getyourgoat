@@ -27,7 +27,7 @@ Daily trivia game. Design doc: https://claude.ai/artifact/3BPq7Z2AJ6DKjGyfWDT2VM
   A skipped question with no loss shows 🐐. Count `N/5` is goats left.
 - After a wrong answer: skip or reroll only (no retry). Answer is not revealed.
 - Puzzle #1 = 2026-11-23. Missing day file → falls back to #1 with a note.
-- Game clock is wall-clock time and pauses while the tab is hidden.
+- Game clock is wall-clock time; the ogre keeps walking while the tab is hidden (doc: "keeps walking").
 
 ## Autonomy
 Experimental project: commit to main directly for now. Risk-appetite question still

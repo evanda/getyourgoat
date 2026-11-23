@@ -179,7 +179,7 @@ function startGame(loaded: Loaded): void {
   function send(type: EventType): void {
     // Answers land at the moment they're given, not at the last frame.
     const now = performance.now();
-    if (!document.hidden) elapsed += Math.max(0, now - last) / 1000;
+    elapsed += Math.max(0, now - last) / 1000;
     last = now;
     s = advanceTo(s, params, elapsed);
     const before = s;
@@ -248,6 +248,8 @@ function startGame(loaded: Loaded): void {
     const q = question();
     const c = s.current;
     if (!q || !c) return;
+    // A held key must not answer the next question; leave browser shortcuts alone.
+    if (e.repeat || e.metaKey || e.ctrlKey || e.altKey) return;
     if (c.awaitingChoice) {
       if (e.key.toLowerCase() === 's') send('skip');
       if (e.key.toLowerCase() === 'r') v.card.querySelector<HTMLButtonElement>('.miss button:last-child:not(:disabled)')?.click();
@@ -266,17 +268,11 @@ function startGame(loaded: Loaded): void {
     }
   }
 
-  function onVisibility(): void {
-    // Pause while the tab is hidden: the player can't see the ogre.
-    last = performance.now();
-  }
-
   function frame(now: number): void {
-    // Wall-clock time, so a slow device doesn't slow the ogre. Time while the
-    // tab is hidden doesn't count (onVisibility resets `last`).
-    const dt = Math.max(0, now - last) / 1000;
+    // Wall-clock time, so a slow device doesn't slow the ogre. He keeps walking
+    // while the tab is hidden, too: switching away to look something up costs time.
+    elapsed += Math.max(0, now - last) / 1000;
     last = now;
-    if (!document.hidden) elapsed += dt;
     s = advanceTo(s, params, elapsed);
 
     if (s.goats < prevGoats) {
@@ -305,11 +301,9 @@ function startGame(loaded: Loaded): void {
   function cleanup(): void {
     cancelAnimationFrame(raf);
     removeEventListener('keydown', onKey);
-    document.removeEventListener('visibilitychange', onVisibility);
   }
 
   addEventListener('keydown', onKey);
-  document.addEventListener('visibilitychange', onVisibility);
   renderTrack(v, s, reduced);
   renderQuestion();
   raf = requestAnimationFrame(frame);
