@@ -15,10 +15,9 @@
   --sky-bottom: #5b1fd0;
   --ground: #2d1260;
   --grass: #3fae5a;
-  --cave: #12032b;
   --warn: #ff9bb3;
   --note: #5a25b8;
-  --cave-w: 56px;
+  --cave-w: 48px;
   --ogre-w: 44px;
   color-scheme: dark;
 }
@@ -98,19 +97,16 @@ button:focus-visible, pre:focus-visible { outline: 3px solid var(--accent); outl
   border: 1px solid var(--line);
 }
 .cave {
+  /* The ogre's home: a volcano emoji at ogre size, on the same ground line. */
   position: absolute;
-  left: 0;
-  bottom: 0;
+  left: 4px;
+  bottom: 18px;
   width: var(--cave-w);
-  height: 84px;
-  background: var(--cave);
-  border-radius: 40px 40px 0 0;
+  font-size: 40px;
+  line-height: 1;
+  text-align: center;
   z-index: 2;
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
 }
-.cave span { color: var(--muted); font-size: 0.7rem; padding-bottom: 4px; letter-spacing: 0.08em; }
 .lane {
   position: absolute;
   left: var(--cave-w);

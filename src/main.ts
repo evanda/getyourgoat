@@ -230,10 +230,10 @@ function showStart(loaded: Loaded): void {
       el(
         'ol',
         { class: 'rules' },
-        el('li', {}, 'The ogre walks toward your goat pen the whole time.'),
+        el('li', {}, 'The ogre walks toward your goats the whole time.'),
         el('li', {}, 'Answer right and a goat butts him back.'),
         el('li', {}, 'Miss, and you can reroll as often as you like, but he keeps walking.'),
-        el('li', {}, 'If he reaches the pen, he drags a goat to his cave.'),
+        el('li', {}, 'If he reaches them, he carries a goat off to his volcano.'),
         el('li', {}, 'Skipping moves him closer. The last question can’t be skipped.'),
       ),
       levelPicker(round.level),
@@ -396,7 +396,7 @@ function startGame(loaded: Loaded): void {
 
     if (s.goats < prevGoats) {
       sfx.play('grab', prefs.sound);
-      showToast(v, s.goats > 0 ? 'He grabbed a goat!' : 'He took the last goat!');
+      showToast(v, s.goats > 0 ? 'Got your goat!' : 'Got your last goat!');
     }
     if (s.phase === 'BUTTED' && prevPhase !== 'BUTTED') {
       v.ogre.classList.remove('squash');
@@ -438,7 +438,7 @@ function buildView(reduced: boolean): View {
   // The goats stand in a line on the same track as the ogre (no fence).
   const pen = el('div', { class: 'herd', role: 'img' });
   const lane = el('div', { class: 'lane' }, pen, ogre);
-  const arena = el('div', { class: 'arena' }, el('div', { class: 'cave', ariaHidden: 'true' }, el('span', {}, 'cave')), lane);
+  const arena = el('div', { class: 'arena' }, el('div', { class: 'cave', role: 'img', ariaLabel: 'The ogre’s volcano home' }, '🌋'), lane);
   const barFill = el('div', { class: 'bar-fill' });
   const bar = el(
     'div',
