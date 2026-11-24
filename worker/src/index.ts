@@ -22,7 +22,7 @@ interface Env {
   ALLOWED_ORIGINS: string;
 }
 
-const MAX_BODY = 16 * 1024;
+const MAX_BODY = 48 * 1024;
 const MAX_PER_HOUR = 60;
 
 function cors(req: Request, env: Env): Record<string, string> {

@@ -55,7 +55,15 @@ export function alphaFeedback(opts: { round: Round; state: GameState; params: Pa
   // Every question the player saw, rerolled ones included.
   const seen: { category: string; q: Question }[] = [];
   state.results.forEach((r, i) => {
-    round.questions[i].variants.slice(0, r.rerolls + 1).forEach((q) => seen.push({ category: r.category, q }));
+    const vs = round.questions[i].variants;
+    const ids = new Set<string>();
+    for (let j = 0; j <= r.rerolls; j++) {
+      const q = vs[j % vs.length];
+      if (!ids.has(q.id)) {
+        ids.add(q.id);
+        seen.push({ category: r.category, q });
+      }
+    }
   });
 
   const list = el('ul', { class: 'flag-list' });

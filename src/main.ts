@@ -2,8 +2,10 @@ import './style.css';
 import {
   advanceTo,
   applyEvent,
+  eventRow,
   formatTime,
   initialState,
+  onLastQuestion,
   shareGrid,
   type EventType,
   type GameState,
@@ -12,6 +14,7 @@ import {
   isChoice,
   loadRound,
   loadRoundCount,
+  withRerollPool,
   localDate,
   puzzleNumber,
   seededShuffle,
@@ -191,9 +194,12 @@ function roundPicker(loaded: Loaded): HTMLElement {
 function showStart(loaded: Loaded): void {
   const { round, fallbackFrom } = loaded;
   const play = el('button', { class: 'primary big', textContent: ALPHA ? `Play round #${round.number}` : 'Play' });
-  play.addEventListener('click', () => {
+  play.addEventListener('click', async () => {
     sfx.unlock();
-    startGame(loaded);
+    play.disabled = true;
+    // Unlimited rerolls: borrow questions from the level's other rounds.
+    const round = await withRerollPool(loaded.round, loaded.count);
+    startGame({ ...loaded, round });
   });
 
   const rm = el('input', { id: 'pref-motion', type: 'checkbox', checked: prefs.reducedMotion });
@@ -223,9 +229,9 @@ function showStart(loaded: Loaded): void {
         { class: 'rules' },
         el('li', {}, 'The ogre walks toward your goat pen the whole time.'),
         el('li', {}, 'Answer right and a goat butts him back.'),
-        el('li', {}, 'Miss, and you can skip or reroll, but he keeps walking.'),
+        el('li', {}, 'Miss, and you can reroll as often as you like, but he keeps walking.'),
         el('li', {}, 'If he reaches the pen, he drags a goat to his cave.'),
-        el('li', {}, 'Skipping a question costs a goat.'),
+        el('li', {}, 'Skipping moves him closer. The last question can’t be skipped.'),
       ),
       levelPicker(round.level),
       el('p', { class: 'cats' }, LEVEL_CATEGORIES[round.level].join(' · ')),
@@ -278,7 +284,8 @@ function startGame(loaded: Loaded): void {
 
   function question(): Question | null {
     if (!s.current) return null;
-    return round.questions[s.q].variants[s.current.variant] ?? null;
+    const vs = round.questions[s.q].variants;
+    return vs[s.current.variant % vs.length] ?? null;
   }
 
   function send(type: EventType): void {
@@ -293,11 +300,9 @@ function startGame(loaded: Loaded): void {
       sfx.play('butt', prefs.sound);
       launchGoat(v, before, reduced);
     }
-    if (type === 'skip' && s.goats < before.goats) {
-      // Announce it here so the frame loop doesn't call it a grab.
-      prevGoats = s.goats;
-      sfx.play('grab', prefs.sound);
-      showToast(v, s.goats > 0 ? 'Skipped. The ogre takes a goat.' : 'Skipped. That was your last goat.');
+    if (type === 'skip' && s !== before) {
+      sfx.play('wrong', prefs.sound);
+      showToast(v, 'Skipped. The ogre lurches closer!');
     }
     if (type === 'wrong') {
       sfx.play('wrong', prefs.sound);
@@ -320,7 +325,6 @@ function startGame(loaded: Loaded): void {
       return;
     }
     const block = round.questions[s.q];
-    const rerollsLeft = block.variants.length - 1 - c.variant;
     v.qNum.textContent = `Q${s.q + 1}/5`;
     v.cat.textContent = block.category;
 
@@ -333,20 +337,21 @@ function startGame(loaded: Loaded): void {
 
     const children: Node[] = [prompt, body];
     if (c.awaitingChoice) {
-      const skip = el('button', { class: 'secondary', textContent: 'Skip (lose a goat)' });
-      skip.addEventListener('click', () => send('skip'));
-      const reroll = el('button', {
-        class: 'secondary',
-        textContent: rerollsLeft > 0 ? `Reroll (${rerollsLeft} left)` : 'No rerolls left',
-        disabled: rerollsLeft <= 0,
-      });
+      // Reroll comes first and takes focus, so a stray Enter never skips.
+      const reroll = el('button', { class: 'secondary reroll', textContent: 'New question' });
       reroll.addEventListener('click', () => send('reroll'));
+      const buttons: Node[] = [reroll];
+      if (!onLastQuestion(s)) {
+        const skip = el('button', { class: 'secondary skip', textContent: 'Skip (ogre moves closer)' });
+        skip.addEventListener('click', () => send('skip'));
+        buttons.push(skip);
+      }
       children.push(
         el(
           'div',
           { class: 'miss' },
-          el('p', {}, 'Not quite. He’s still coming!'),
-          el('div', { class: 'row' }, skip, reroll),
+          el('p', {}, onLastQuestion(s) ? 'Not quite. Last one, so keep trying!' : 'Not quite. He’s still coming!'),
+          el('div', { class: 'row' }, ...buttons),
         ),
       );
     }
@@ -362,8 +367,8 @@ function startGame(loaded: Loaded): void {
     // A held key must not answer the next question; leave browser shortcuts alone.
     if (e.repeat || e.metaKey || e.ctrlKey || e.altKey) return;
     if (c.awaitingChoice) {
-      if (e.key.toLowerCase() === 's') send('skip');
-      if (e.key.toLowerCase() === 'r') v.card.querySelector<HTMLButtonElement>('.miss button:last-child:not(:disabled)')?.click();
+      if (e.key.toLowerCase() === 's') v.card.querySelector<HTMLButtonElement>('.miss .skip')?.click();
+      if (e.key.toLowerCase() === 'r') v.card.querySelector<HTMLButtonElement>('.miss .reroll')?.click();
       return;
     }
     if (isChoice(q)) {
@@ -550,7 +555,8 @@ function numberPad(
 // ---------------------------------------------------------------- results
 
 function shareText(round: Round, s: GameState): string {
-  return `Get Your Goat #${round.number} · ${LEVEL_LABEL[round.level]}\n${shareGrid(s)}  ${s.goats}/5  ${formatTime(s.t)}`;
+  const [goats, answers] = shareGrid(s);
+  return `Get Your Goat #${round.number} · ${LEVEL_LABEL[round.level]}\n${goats}  ${s.goats}/5  ${formatTime(s.t)}\n${answers}`;
 }
 
 function showResults(loaded: Loaded, s: GameState): void {
@@ -570,20 +576,25 @@ function showResults(loaded: Loaded, s: GameState): void {
     }
   });
 
-  const outcomeLabel = { correct: '✓ correct', skipped: '→ skipped', 'pen-empty': '✗ pen emptied' } as const;
+  // Per question: everything that happened, in order (🧌 = a goat grabbed meanwhile).
   const rows = s.results.map((r) =>
     el(
       'tr',
       {},
       el('td', {}, r.category),
-      el('td', {}, outcomeLabel[r.outcome] + (r.rerolls ? ` · ${r.rerolls} reroll${r.rerolls > 1 ? 's' : ''}` : '')),
+      el('td', { class: 'events' }, eventRow(r) + (r.outcome === 'pen-empty' ? ' pen empty' : '')),
       el('td', { class: 'num' }, `${(r.endT - r.startT).toFixed(1)}s`),
-      el('td', { class: 'num' }, r.goatsLost ? `−${r.goatsLost} 🐐` : ''),
     ),
   );
+  const legend = el('p', { class: 'legend' }, '✅ right · ❌ wrong · ⏩ skipped · 🧌 goat grabbed');
 
+  const [goatRow, answerRow] = shareGrid(s);
   const headline =
-    s.goats === 5 ? 'Every goat safe!' : s.goats === 0 ? 'The ogre got them all.' : `${s.goats} goats saved.`;
+    s.goats === 5
+      ? 'Every goat safe!'
+      : s.goats === 0
+        ? 'The ogre got them all.'
+        : `${s.goats} ${s.goats === 1 ? 'goat' : 'goats'} saved.`;
 
   const nav: Node[] = [];
   if (ALPHA) {
@@ -606,12 +617,14 @@ function showResults(loaded: Loaded, s: GameState): void {
       'section',
       { class: 'card results' },
       el('p', { class: 'sub' }, `Get Your Goat #${round.number} · ${LEVEL_LABEL[round.level]}`),
-      el('div', { class: 'grid', ariaLabel: `Result grid ${shareGrid(s)}` }, shareGrid(s)),
+      el('div', { class: 'grid', ariaLabel: `Goats: ${goatRow}` }, goatRow),
+      el('div', { class: 'answers', ariaLabel: `Answers: ${answerRow}` }, answerRow),
       el('h1', {}, headline),
       el('p', { class: 'stats' }, `${s.goats}/5 goats · ${formatTime(s.t)}`),
       pre,
       ALPHA ? alphaFeedback({ round, state: s, params: LEVEL_PARAMS[round.level] }) : '',
       el('table', { class: 'breakdown' }, el('tbody', {}, ...rows)),
+      legend,
       ...nav,
     ),
   );

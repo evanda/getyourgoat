@@ -7,6 +7,8 @@ import {
   formatTime,
   initialState,
   shareGrid,
+  answerRow,
+  eventRow,
   simulate,
   type GameEvent,
   type Params,
@@ -111,6 +113,50 @@ describe('butt', () => {
 });
 
 describe('wrong, skip, reroll', () => {
+  it('a skip costs no goat but moves the ogre closer', () => {
+    let s = advanceTo(initialState(P, CATS), P, 7); // pos 0.5
+    s = applyEvent(applyEvent(s, P, 'wrong'), P, 'skip');
+    expect(s.goats).toBe(5);
+    expect(s.q).toBe(1);
+    expect(s.pos).toBeCloseTo(0.5 + P.skipPenalty, 6);
+    expect(s.results[0]).toMatchObject({ outcome: 'skipped', goatsLost: 0 });
+  });
+
+  it('a skip while he runs home makes him start his next approach further out', () => {
+    let s = advanceTo(initialState(P, CATS), P, 14 + 0.8 + 0.5); // RETURN
+    s = applyEvent(applyEvent(s, P, 'wrong'), P, 'skip');
+    s = advanceTo(s, P, 14 + 0.8 + 2.5 + 0.001);
+    expect(s.phase).toBe('APPROACH');
+    expect(s.pos).toBeCloseTo(P.skipPenalty, 2);
+  });
+
+  it('the last question cannot be skipped', () => {
+    let s = initialState(P, CATS);
+    for (let i = 0; i < 4; i++) s = applyEvent(s, P, 'correct');
+    s = applyEvent(s, P, 'wrong');
+    expect(applyEvent(s, P, 'skip')).toBe(s);
+    s = applyEvent(applyEvent(s, P, 'reroll'), P, 'correct');
+    expect(s.phase).toBe('DONE');
+  });
+
+  it('rerolls are unlimited', () => {
+    let s = initialState(P, CATS);
+    for (let i = 0; i < 25; i++) s = applyEvent(applyEvent(s, P, 'wrong'), P, 'reroll');
+    expect(s.current?.variant).toBe(25);
+    s = applyEvent(s, P, 'correct');
+    expect(s.results[0]).toMatchObject({ outcome: 'correct', wrongs: 25, rerolls: 25 });
+  });
+
+  it('logs every event, grabs included, in order', () => {
+    let s = applyEvent(advanceTo(initialState(P, CATS), P, 3), P, 'wrong');
+    s = applyEvent(s, P, 'reroll');
+    s = applyEvent(advanceTo(s, P, 16), P, 'correct'); // grabbed at 14 s
+    expect(s.results[0].log.map((e) => e.type)).toEqual(['wrong', 'reroll', 'grab', 'correct']);
+    expect(eventRow(s.results[0])).toBe('❌🧌✅');
+    expect(answerRow(s.results[0])).toBe('❌✅');
+  });
+
+
   it('a wrong answer does not move him and waits for skip or reroll', () => {
     let s = advanceTo(initialState(P, CATS), P, 3);
     const pos = s.pos;
@@ -119,47 +165,6 @@ describe('wrong, skip, reroll', () => {
     expect(s.current?.awaitingChoice).toBe(true);
     // A correct answer cannot be entered until the player chooses.
     expect(applyEvent(s, P, 'correct')).toBe(s);
-  });
-
-  it('skip resolves the question as skipped', () => {
-    let s = applyEvent(initialState(P, CATS), P, 'wrong');
-    s = applyEvent(s, P, 'skip');
-    expect(s.q).toBe(1);
-    expect(s.results[0].outcome).toBe('skipped');
-    expect(s.goats).toBe(4);
-  });
-
-  it('every skip costs a goat and shows as ⏭️', () => {
-    let s = applyEvent(applyEvent(initialState(P, CATS), P, 'wrong'), P, 'skip');
-    expect(s.goats).toBe(4);
-    expect(s.results[0]).toMatchObject({ outcome: 'skipped', goatsLost: 1 });
-    for (let i = 0; i < 3; i++) s = applyEvent(s, P, 'correct');
-    s = applyEvent(applyEvent(s, P, 'wrong'), P, 'skip');
-    expect(s.phase).toBe('DONE');
-    expect(s.goats).toBe(3);
-    expect(shareGrid(s)).toBe('🐐🐐🐐⏭️⏭️');
-  });
-
-  it('a skip plus a grab on another question leaves 3 of 5', () => {
-    // The reported case: skip question 3, then the ogre grabs a goat during question 4.
-    let s = initialState(P, CATS);
-    s = applyEvent(advanceTo(s, P, 1), P, 'correct');
-    s = applyEvent(advanceTo(s, P, 2), P, 'correct');
-    s = applyEvent(applyEvent(advanceTo(s, P, 3), P, 'wrong'), P, 'skip');
-    s = applyEvent(advanceTo(s, P, 30), P, 'correct');
-    s = applyEvent(advanceTo(s, P, 31), P, 'correct');
-    expect(shareGrid(s)).toBe('🐐🐐🐐⏭️🧌');
-    expect(s.goats).toBe(3);
-  });
-
-  it('skipping away the last goat ends the game', () => {
-    let s = initialState(P, CATS);
-    s = advanceTo(s, P, 14 + 0.8 + 2.5 + 14 + 0.8 + 2.5 + 14 + 0.8 + 2.5 + 14.01); // 4 grabs, 1 goat left
-    expect(s.goats).toBe(1);
-    s = applyEvent(applyEvent(s, P, 'wrong'), P, 'skip');
-    expect(s.phase).toBe('DONE');
-    expect(s.goats).toBe(0);
-    expect(s.results).toHaveLength(1);
   });
 
   it('reroll keeps the category and moves to the next variant', () => {
@@ -187,7 +192,7 @@ describe('game end', () => {
     expect(s.phase).toBe('DONE');
     expect(s.t).toBeCloseTo(10, 6);
     expect(s.goats).toBe(5);
-    expect(shareGrid(s)).toBe('🐐🐐🐐🐐🐐');
+    expect(shareGrid(s)).toEqual(['🐐🐐🐐🐐🐐', '✅|✅|✅|✅|✅']);
   });
 
   it('ends when the pen is empty, leaving later questions unreached', () => {
@@ -196,7 +201,7 @@ describe('game end', () => {
     expect(s.goats).toBe(0);
     expect(s.results).toHaveLength(1);
     expect(s.results[0]).toMatchObject({ outcome: 'pen-empty', goatsLost: 5 });
-    expect(shareGrid(s)).toBe('🧌🧌🧌🧌🧌');
+    expect(shareGrid(s)).toEqual(['🧌🧌🧌🧌🧌', '⬜|⬜|⬜|⬜|⬜']);
   });
 
   it('grid marks the questions that cost a goat', () => {
@@ -208,7 +213,7 @@ describe('game end', () => {
       { t: 36, type: 'correct' },
     ];
     const s = simulate(P, CATS, events, 60);
-    expect(shareGrid(s)).toBe('🐐🐐🐐🐐🧌');
+    expect(shareGrid(s)).toEqual(['🐐🐐🐐🐐🧌', '✅|✅|✅|✅|✅']);
     expect(s.goats).toBe(4);
   });
 
@@ -232,7 +237,7 @@ describe('share grid matches the goat count', () => {
     s = applyEvent(s, P, 'correct');
     for (let i = 0; i < 4; i++) s = applyEvent(s, P, 'correct');
     expect(s.goats).toBe(3);
-    expect(shareGrid(s)).toBe('🐐🐐🐐🧌🧌');
+    expect(shareGrid(s)).toEqual(['🐐🐐🐐🧌🧌', '✅|✅|✅|✅|✅']);
   });
 
   it('holds for 500 random games', () => {
@@ -248,12 +253,12 @@ describe('share grid matches the goat count', () => {
         else {
           events.push({ t, type: 'wrong' });
           t += 0.5;
-          events.push({ t, type: r < 0.85 ? 'skip' : 'reroll' });
-          if (r >= 0.85) { t += 3; events.push({ t, type: 'correct' }); }
+          events.push({ t, type: r < 0.85 && q < 4 ? 'skip' : 'reroll' });
+          if (r >= 0.85 || q === 4) { t += 3; events.push({ t, type: 'correct' }); }
         }
       }
       const s = simulate(P, CATS, events, t + 60);
-      const grid = [...new Intl.Segmenter().segment(shareGrid(s))].map((x) => x.segment);
+      const grid = [...new Intl.Segmenter().segment(shareGrid(s)[0])].map((x) => x.segment);
       expect(grid).toHaveLength(5);
       expect(grid.filter((e) => e === '🐐')).toHaveLength(s.goats);
     }

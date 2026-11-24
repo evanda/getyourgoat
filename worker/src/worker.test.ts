@@ -121,7 +121,7 @@ describe('worker', () => {
     const e = env();
     expect((await worker.fetch(post(sample(), 'https://evil.example'), e)).status).toBe(403);
     expect((await worker.fetch(post('{nope'), e)).status).toBe(400);
-    expect((await worker.fetch(post('x'.repeat(20_000)), e)).status).toBe(413);
+    expect((await worker.fetch(post('x'.repeat(60_000)), e)).status).toBe(413);
     for (let i = 0; i < 60; i++) await worker.fetch(post(sample(`s${i}`)), e);
     expect((await worker.fetch(post(sample('one-more')), e)).status).toBe(429);
   });

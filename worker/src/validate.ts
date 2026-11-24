@@ -6,7 +6,9 @@ export const DIFFICULTY = ['too_easy', 'just_right', 'too_hard'] as const;
 export const FLAG_REASONS = ['wrong_answer', 'unclear', 'other'] as const;
 export const OUTCOMES = ['correct', 'skipped', 'pen-empty'] as const;
 export const LEVELS = ['easy', 'normal', 'hard'] as const;
-const SETTINGS = ['ogreSpeed', 'buttDistance', 'buttDuration', 'grabPause', 'returnSpeed', 'startOffset', 'rerollPenalty'];
+const SETTINGS = ['ogreSpeed', 'buttDistance', 'buttDuration', 'grabPause', 'returnSpeed', 'startOffset', 'rerollPenalty', 'skipPenalty'];
+export const LOG_TYPES = ['wrong', 'reroll', 'skip', 'correct', 'grab'] as const;
+const OPTIONAL_SETTINGS = new Set(['skipPenalty']);
 
 export interface PerQuestion {
   category: string;
@@ -17,6 +19,7 @@ export interface PerQuestion {
   wrongs: number;
   rerolls: number;
   goatsLost: number;
+  log: { type: (typeof LOG_TYPES)[number]; ms: number }[];
 }
 
 export interface Flag {
@@ -76,6 +79,7 @@ export function validateSubmission(raw: unknown): { ok: true; value: Submission 
     const settings: Record<string, number> = {};
     for (const k of SETTINGS) {
       const v = settingsIn[k];
+      if (v === undefined && OPTIONAL_SETTINGS.has(k)) continue;
       if (typeof v !== 'number' || !Number.isFinite(v) || v < 0 || v > 100) throw new Invalid(`settings.${k}: expected a number`);
       settings[k] = v;
     }
@@ -85,12 +89,16 @@ export function validateSubmission(raw: unknown): { ok: true; value: Submission 
       return {
         category: str(q.category, 'category', 32),
         questionId: str(q.questionId, 'questionId', 40, ID),
-        seen: arr(q.seen, 'seen', 5).map((s) => str(s, 'seen', 40, ID)),
+        seen: arr(q.seen, 'seen', 60).map((s) => str(s, 'seen', 40, ID)),
         answerMs: int(q.answerMs, 'answerMs', 0, 3_600_000),
         outcome: oneOf(q.outcome, 'outcome', OUTCOMES),
-        wrongs: int(q.wrongs, 'wrongs', 0, 10),
-        rerolls: int(q.rerolls, 'rerolls', 0, 10),
+        wrongs: int(q.wrongs, 'wrongs', 0, 200),
+        rerolls: int(q.rerolls, 'rerolls', 0, 200),
         goatsLost: int(q.goatsLost, 'goatsLost', 0, 5),
+        log: arr(q.log ?? [], 'log', 100).map((e, j) => {
+          const x = obj(e, `log[${j}]`);
+          return { type: oneOf(x.type, 'log.type', LOG_TYPES), ms: int(x.ms, 'log.ms', 0, 3_600_000) };
+        }),
       };
     });
     const flags = arr(o.flags ?? [], 'flags', 20).map((f, i) => {

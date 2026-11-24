@@ -8,7 +8,7 @@ export type { Flag, Submission };
 export type Pace = NonNullable<Submission['pace']>;
 export type DifficultyVote = NonNullable<Submission['difficulty']>;
 
-export const BUILD = 'alpha-0.5';
+export const BUILD = 'alpha-0.6';
 
 export function newId(): string {
   try {
@@ -37,7 +37,8 @@ const sessionId = newId();
 export function seenIds(round: Round, s: GameState, i: number): string[] {
   const r = s.results[i];
   if (!r) return [];
-  return round.questions[i].variants.slice(0, r.rerolls + 1).map((q) => q.id);
+  const vs = round.questions[i].variants;
+  return Array.from({ length: r.rerolls + 1 }, (_, j) => vs[j % vs.length].id);
 }
 
 export function buildSubmission(opts: {
@@ -73,6 +74,8 @@ export function buildSubmission(opts: {
           wrongs: r.wrongs,
           rerolls: r.rerolls,
           goatsLost: r.goatsLost,
+          // What happened, in order, ms after the question appeared (capped).
+          log: r.log.slice(0, 100).map((e) => ({ type: e.type, ms: Math.max(0, Math.round((e.t - r.startT) * 1000)) })),
         };
       }),
     },

@@ -52,12 +52,18 @@ Pace per level (alpha 0.4): Easy 16 s, Normal 11 s, Hard 9 s.
   (he starts the next approach at −buttDistance). Positions below 0 = inside the cave.
 - Pen empties before Q5 → game ends; unreached questions are absent from results
   and render as ⬜ in the share grid.
-- Grid (owner's choice): one emoji per GOAT, not per question, so it always matches `N/5`.
-  Saved goats 🐐 first, then lost goats in the order lost: 🧌 grabbed, ⏭️ lost to a skip.
-  The ogre can grab several goats during one slow question; per-question detail is in the results table.
+- Share (owner's design): two rows. Row 1 = five goats, 🐐 saved then 🧌 lost (always matches `N/5`).
+  Row 2 = how each question was answered, divided by `|`: ✅ right, ❌ wrong (then rerolled),
+  ⏩ skipped, ⬜ never reached. The ogre runs on a clock and can grab several goats during one
+  slow question, so the rows deliberately don't line up column for column.
   Share line: `Get Your Goat #42 · Normal`.
-- After a wrong answer: skip or reroll only (no retry). Answer is not revealed.
-- Every skip costs a goat (owner: a skip is not a goat saved). Skipping away the last goat ends the game.
+- After a wrong answer: new question (reroll) or skip; no retry of the same question. Answer not revealed.
+  Rerolls are unlimited: after the round's 3, they draw the same category from the level's next
+  10 rounds (`withRerollPool`), then cycle.
+- A skip costs no goat; it moves the ogre closer by `skipPenalty` (0.33, same as a knockback).
+  The last question can't be skipped: keep trying until you answer or the pen is empty.
+- Every question logs its events (wrong, reroll, skip, correct, grab + time) in the results table
+  and in feedback (`perQuestion[].log`), so odd results can be traced.
 - Puzzle #1 = 2026-11-23. Missing day file → falls back to #1 with a note.
 - Game clock is wall-clock time; the ogre keeps walking while the tab is hidden (doc: "keeps walking").
 

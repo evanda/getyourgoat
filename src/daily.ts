@@ -106,6 +106,32 @@ export async function loadRoundCount(level: Level, base = import.meta.env.BASE_U
   return count as number;
 }
 
+/**
+ * Unlimited rerolls: append the same category's questions from the level's next
+ * rounds (wrapping around), so everyone playing a round sees the same reroll order.
+ * Falls back to the round as-is if they can't be loaded; rerolls then cycle.
+ */
+export async function withRerollPool(round: Round, count: number, extra = 10): Promise<Round> {
+  const numbers = Array.from({ length: Math.min(extra, count - 1) }, (_, i) => ((round.number + i) % count) + 1);
+  const others = await Promise.all(numbers.map((n) => loadRound(round.level, n).catch(() => null)));
+  return {
+    ...round,
+    questions: round.questions.map((block, i) => {
+      const seen = new Set(block.variants.map((q) => q.id));
+      const variants = [...block.variants];
+      for (const r of others) {
+        for (const q of r?.questions[i]?.variants ?? []) {
+          if (!seen.has(q.id)) {
+            seen.add(q.id);
+            variants.push(q);
+          }
+        }
+      }
+      return { ...block, variants };
+    }),
+  };
+}
+
 /** Deterministic shuffle so everyone sees the same option order for a given question. */
 export function seededShuffle<T>(items: readonly T[], seedText: string): T[] {
   let h = 2166136261;

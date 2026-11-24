@@ -414,3 +414,8 @@ kbd {
 .level[aria-checked='true'] { border-color: var(--accent); background: var(--accent); color: var(--accent-ink); }
 .level[aria-checked='true'] .level-blurb { color: var(--accent-ink); }
 .level:not([aria-checked='true']):hover { border-color: var(--accent); }
+
+/* two-row result: goats, then answers */
+.answers { font-size: 1.6rem; letter-spacing: 0.04em; margin: -4px 0 8px; overflow-wrap: anywhere; }
+.breakdown td.events { text-transform: none; letter-spacing: 0.05em; }
+.legend { color: var(--muted); font-size: 0.8rem; margin: -10px 0 14px; }

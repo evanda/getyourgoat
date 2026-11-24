@@ -22,6 +22,8 @@ export interface Params {
   startOffset: number;
   /** Track fraction he gains when the player rerolls. */
   rerollPenalty: number;
+  /** Track fraction he gains when the player skips a question. */
+  skipPenalty: number;
 }
 
 export const DEFAULTS: Params = {
@@ -32,6 +34,7 @@ export const DEFAULTS: Params = {
   returnSpeed: 2.5,
   startOffset: 0,
   rerollPenalty: 0,
+  skipPenalty: 0.33,
 };
 
 /** Deepest the ogre can be knocked into his cave. */
@@ -40,6 +43,13 @@ export const MIN_POS = -1;
 export type Phase = 'APPROACH' | 'BUTTED' | 'GRAB' | 'RETURN' | 'DONE';
 
 export type Outcome = 'correct' | 'skipped' | 'pen-empty';
+
+/** Everything that happened while a question was up, in order (t = game seconds). */
+export type LogType = 'wrong' | 'reroll' | 'skip' | 'correct' | 'grab';
+export interface LogEntry {
+  type: LogType;
+  t: number;
+}
 
 export interface QuestionResult {
   category: string;
@@ -50,6 +60,7 @@ export interface QuestionResult {
   rerolls: number;
   /** Goats stolen while this question was on screen. */
   goatsLost: number;
+  log: LogEntry[];
 }
 
 export interface Current {
@@ -60,6 +71,7 @@ export interface Current {
   goatsLost: number;
   /** True after a wrong answer until the player skips or rerolls. */
   awaitingChoice: boolean;
+  log: LogEntry[];
 }
 
 export interface GameState {
@@ -104,7 +116,7 @@ export function initialState(params: Params, categories: readonly string[], goat
 }
 
 function newCurrent(t: number): Current {
-  return { startT: t, variant: 0, wrongs: 0, rerolls: 0, goatsLost: 0, awaitingChoice: false };
+  return { startT: t, variant: 0, wrongs: 0, rerolls: 0, goatsLost: 0, awaitingChoice: false, log: [] };
 }
 
 /** Smooth stop: fast shove, gentle landing. */
@@ -174,7 +186,9 @@ export function step(s: GameState, p: Params, dt: number): GameState {
 
 function grab(s: GameState, atT: number): GameState {
   const goats = s.goats - 1;
-  const current = s.current ? { ...s.current, goatsLost: s.current.goatsLost + 1 } : null;
+  const current = s.current
+    ? { ...s.current, goatsLost: s.current.goatsLost + 1, log: [...s.current.log, { type: 'grab' as const, t: atT }] }
+    : null;
   const n: GameState = { ...s, phase: 'GRAB', phaseT: 0, goats, current };
   if (goats > 0) return n;
   // Pen is empty: the game ends on the question that was live.
@@ -192,6 +206,7 @@ function finishQuestion(s: GameState, outcome: Outcome, endGame = false): GameSt
     wrongs: c.wrongs,
     rerolls: c.rerolls,
     goatsLost: c.goatsLost,
+    log: c.log,
   };
   const results = [...s.results, result];
   const q = s.q + 1;
@@ -218,26 +233,50 @@ function butt(s: GameState, p: Params): GameState {
   }
 }
 
+/** Push the ogre toward the pen (a skip's cost). */
+function advance(s: GameState, by: number): GameState {
+  switch (s.phase) {
+    case 'APPROACH':
+      return { ...s, pos: Math.min(1, s.pos + by) };
+    case 'BUTTED':
+      return { ...s, buttFrom: Math.min(1, s.buttFrom + by), buttTo: Math.min(1, s.buttTo + by), pos: Math.min(1, s.pos + by) };
+    case 'GRAB':
+    case 'RETURN':
+      // Heading home: he'll start his next approach that much further out.
+      return { ...s, bankedButt: s.bankedButt - by };
+    default:
+      return s;
+  }
+}
+
+/** True when the live question is the last one (it can't be skipped). */
+export function onLastQuestion(s: GameState): boolean {
+  return s.q === s.categories.length - 1;
+}
+
 /** Apply an answer event at the state's current time. Returns a new state. */
 export function applyEvent(s: GameState, p: Params, type: EventType): GameState {
   if (s.phase === 'DONE' || !s.current) return s;
   const c = s.current;
+  const log = (t: LogType) => [...c.log, { type: t, t: s.t }];
   switch (type) {
     case 'correct':
       if (c.awaitingChoice) return s;
-      return finishQuestion(butt(s, p), 'correct');
+      return finishQuestion({ ...butt(s, p), current: { ...c, log: log('correct') } }, 'correct');
     case 'wrong':
       if (c.awaitingChoice) return s;
-      return { ...s, current: { ...c, wrongs: c.wrongs + 1, awaitingChoice: true } };
+      return { ...s, current: { ...c, wrongs: c.wrongs + 1, awaitingChoice: true, log: log('wrong') } };
     case 'skip': {
-      // A skip is a question you didn't answer, so the ogre takes a goat for it.
-      // (The game is still live, so there is always a goat to take.)
-      const goats = s.goats - 1;
-      const n = { ...s, goats, current: { ...c, goatsLost: c.goatsLost + 1 } };
-      return finishQuestion(n, 'skipped', goats === 0);
+      // Skipping costs time, not a goat: the ogre lurches closer. The last
+      // question can't be skipped; keep trying until you answer or he empties the pen.
+      if (onLastQuestion(s)) return s;
+      return finishQuestion({ ...advance(s, p.skipPenalty), current: { ...c, log: log('skip') } }, 'skipped');
     }
     case 'reroll': {
-      const n = { ...s, current: { ...c, variant: c.variant + 1, rerolls: c.rerolls + 1, awaitingChoice: false } };
+      const n = {
+        ...s,
+        current: { ...c, variant: c.variant + 1, rerolls: c.rerolls + 1, awaitingChoice: false, log: log('reroll') },
+      };
       if (p.rerollPenalty > 0 && n.phase === 'APPROACH') n.pos = Math.min(1, n.pos + p.rerollPenalty);
       return n;
     }
@@ -272,21 +311,33 @@ export function simulate(
   return advanceTo(s, p, t);
 }
 
+const ANSWER_ICON: Partial<Record<LogType, string>> = { wrong: '❌', correct: '✅', skip: '⏩' };
+
+/** How a question was answered, e.g. ❌❌✅ (grabs and rerolls left out). */
+export function answerRow(r: QuestionResult): string {
+  return r.log.map((e) => ANSWER_ICON[e.type] ?? '').join('');
+}
+
+/** Everything that happened on a question, grabs included, e.g. ❌🧌❌✅. */
+export function eventRow(r: QuestionResult): string {
+  return r.log.map((e) => (e.type === 'grab' ? '🧌' : ANSWER_ICON[e.type] ?? '')).join('');
+}
+
 /**
- * Share grid: one emoji per goat, so it always matches the count. Saved goats
- * (🐐) come first, then lost goats in the order they were lost: 🧌 grabbed by
- * the ogre, ⏭️ given up by a skip.
+ * Share grid, two rows. Row 1: your goats, one emoji each (🐐 saved, 🧌 lost),
+ * so it always matches the count. Row 2: how you answered each question, divided
+ * by | (✅ right, ❌ wrong then rerolled, ⏩ skipped; ⬜ never reached).
  */
-export function shareGrid(s: GameState, totalGoats = 5): string {
-  const lost: string[] = [];
-  for (const r of s.results) {
-    const skipped = r.outcome === 'skipped' ? 1 : 0;
-    // Grabs happen while the question is up; a skip's goat goes when it ends.
-    for (let i = 0; i < r.goatsLost - skipped; i++) lost.push('🧌');
-    if (skipped) lost.push('⏭️');
-  }
-  if (s.current) for (let i = 0; i < s.current.goatsLost; i++) lost.push('🧌');
-  return '🐐'.repeat(Math.max(0, totalGoats - lost.length)) + lost.join('');
+export function shareGrid(s: GameState, totalGoats = 5): [string, string] {
+  const goats = '🐐'.repeat(s.goats) + '🧌'.repeat(Math.max(0, totalGoats - s.goats));
+  const answers = s.categories
+    .map((_, i) => {
+      const r = s.results[i];
+      if (!r) return '⬜';
+      return answerRow(r) || '⬜';
+    })
+    .join('|');
+  return [goats, answers];
 }
 
 export function formatTime(seconds: number): string {
