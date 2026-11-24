@@ -52,7 +52,9 @@ Pace per level (alpha 0.4): Easy 16 s, Normal 11 s, Hard 9 s.
   (he starts the next approach at −buttDistance). Positions below 0 = inside the cave.
 - Pen empties before Q5 → game ends; unreached questions are absent from results
   and render as ⬜ in the share grid.
-- Share (owner's design): two rows. Row 1 = five goats, 🐐 saved then 🧌 lost (always matches `N/5`).
+- Share (owner's design): two rows plus the game URL. Row 1 = five goats, 🧌 lost on the left
+  (the ogre's side) then 🐐 saved (always matches `N/5`). Share result (Web Share sheet, shown only
+  where `navigator.share` exists, mostly phones) and Copy result both send the same text.
   Row 2 = how each question was answered, divided by `|`: ✅ right, ❌ wrong (then rerolled),
   ⏩ skipped, ⬜ never reached. The ogre runs on a clock and can grab several goats during one
   slow question, so the rows deliberately don't line up column for column.
@@ -60,6 +62,9 @@ Pace per level (alpha 0.4): Easy 16 s, Normal 11 s, Hard 9 s.
 - After a wrong answer: new question (reroll) or skip; no retry of the same question. Answer not revealed.
   Rerolls are unlimited: after the round's 3, they draw the same category from the level's next
   10 rounds (`withRerollPool`), then cycle.
+- No fence: goats stand in a line on the track ending at 1, `goatGap` (0.05) apart. The ogre walks
+  to the first goat in line, so each capture leaves a little further to go.
+- A butt is a quick bump (`buttDuration` 0.15 s): knocked back, then walking again at once.
 - A skip costs no goat; it moves the ogre closer by `skipPenalty` (0.33, same as a knockback).
   The last question can't be skipped: keep trying until you answer or the pen is empty.
 - Every question logs its events (wrong, reroll, skip, correct, grab + time) in the results table

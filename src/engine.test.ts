@@ -4,7 +4,9 @@ import {
   MIN_POS,
   advanceTo,
   applyEvent,
+  firstGoatPos,
   formatTime,
+  goatPositions,
   initialState,
   shareGrid,
   answerRow,
@@ -15,7 +17,8 @@ import {
 } from './engine.ts';
 
 const CATS = ['arithmetic', 'history', 'literature', 'earth science', 'philosophy'];
-const P: Params = { ...DEFAULTS };
+// Mechanics tests use fixed timing: one goat spot at the far end, a 0.6 s knockback.
+const P: Params = { ...DEFAULTS, goatGap: 0, buttDuration: 0.6 };
 
 describe('approach', () => {
   it('crosses the track in ogreSpeed seconds', () => {
@@ -213,7 +216,7 @@ describe('game end', () => {
       { t: 36, type: 'correct' },
     ];
     const s = simulate(P, CATS, events, 60);
-    expect(shareGrid(s)).toEqual(['🐐🐐🐐🐐🧌', '✅|✅|✅|✅|✅']);
+    expect(shareGrid(s)).toEqual(['🧌🐐🐐🐐🐐', '✅|✅|✅|✅|✅']);
     expect(s.goats).toBe(4);
   });
 
@@ -237,7 +240,7 @@ describe('share grid matches the goat count', () => {
     s = applyEvent(s, P, 'correct');
     for (let i = 0; i < 4; i++) s = applyEvent(s, P, 'correct');
     expect(s.goats).toBe(3);
-    expect(shareGrid(s)).toEqual(['🐐🐐🐐🧌🧌', '✅|✅|✅|✅|✅']);
+    expect(shareGrid(s)).toEqual(['🧌🧌🐐🐐🐐', '✅|✅|✅|✅|✅']);
   });
 
   it('holds for 500 random games', () => {
@@ -262,6 +265,30 @@ describe('share grid matches the goat count', () => {
       expect(grid).toHaveLength(5);
       expect(grid.filter((e) => e === '🐐')).toHaveLength(s.goats);
     }
+  });
+});
+
+describe('goats in a line (live defaults)', () => {
+  const D: Params = { ...DEFAULTS };
+
+  it('the ogre walks to the first goat in line, a little further after each capture', () => {
+    expect(firstGoatPos(5, D)).toBeCloseTo(1 - 4 * D.goatGap, 9);
+    expect(firstGoatPos(4, D)).toBeGreaterThan(firstGoatPos(5, D));
+    expect(firstGoatPos(1, D)).toBe(1);
+    expect(goatPositions(3, D)).toHaveLength(3);
+    let s = advanceTo(initialState(D, CATS), D, firstGoatPos(5, D) * D.ogreSpeed + 0.01);
+    expect(s.phase).toBe('GRAB');
+    expect(s.goats).toBe(4);
+  });
+
+  it('a butt is a quick bump: he is walking forward again almost at once', () => {
+    let s = advanceTo(initialState(D, CATS), D, 5);
+    const before = s.pos;
+    s = applyEvent(s, D, 'correct');
+    s = advanceTo(s, D, 5 + D.buttDuration + 0.01);
+    expect(s.phase).toBe('APPROACH');
+    expect(s.pos).toBeCloseTo(before - D.buttDistance + 0.01 / D.ogreSpeed, 3);
+    expect(D.buttDuration).toBeLessThanOrEqual(0.2);
   });
 });
 

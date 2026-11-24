@@ -2,7 +2,10 @@
 // Pure and deterministic: no DOM, no clock. The browser and the Node simulator
 // drive it the same way, by stepping time and applying answer events.
 //
-// Track coordinates: 0 = cave mouth, 1 = goat pen. Positions below 0 mean the
+// Track coordinates: 0 = cave mouth, 1 = the far end, where the last goat stands.
+// The goats wait in a line ending at 1, `goatGap` apart; the ogre walks to the
+// first goat in line, so each capture leaves him a little further to go.
+// Positions below 0 mean the
 // ogre has been knocked back into his cave and must walk out before he is
 // visible again; this keeps every correct answer worth the same amount of time
 // no matter where the ogre is (see "banked butts" below).
@@ -12,7 +15,7 @@ export interface Params {
   ogreSpeed: number;
   /** Track fraction a correct answer knocks him back. */
   buttDistance: number;
-  /** Seconds the butt animation takes. */
+  /** Seconds the knockback takes; short, so he's bumped back and keeps walking. */
   buttDuration: number;
   /** Seconds he pauses at the pen while grabbing a goat. */
   grabPause: number;
@@ -24,18 +27,31 @@ export interface Params {
   rerollPenalty: number;
   /** Track fraction he gains when the player skips a question. */
   skipPenalty: number;
+  /** Track fraction between goats standing in line. */
+  goatGap: number;
 }
 
 export const DEFAULTS: Params = {
   ogreSpeed: 14,
   buttDistance: 0.33,
-  buttDuration: 0.6,
+  buttDuration: 0.15,
   grabPause: 0.8,
   returnSpeed: 2.5,
   startOffset: 0,
   rerollPenalty: 0,
   skipPenalty: 0.33,
+  goatGap: 0.05,
 };
+
+/** Where the first goat in line stands: the ogre's target. */
+export function firstGoatPos(goats: number, p: Params): number {
+  return 1 - Math.max(0, goats - 1) * p.goatGap;
+}
+
+/** Where each remaining goat stands, first in line first. */
+export function goatPositions(goats: number, p: Params): number[] {
+  return Array.from({ length: Math.max(0, goats) }, (_, i) => firstGoatPos(goats, p) + i * p.goatGap);
+}
 
 /** Deepest the ogre can be knocked into his cave. */
 export const MIN_POS = -1;
@@ -133,13 +149,14 @@ export function step(s: GameState, p: Params, dt: number): GameState {
   for (let guard = 0; remaining > 1e-12 && guard < 8 && n.phase !== 'DONE'; guard++) {
     switch (n.phase) {
       case 'APPROACH': {
-        const toPen = (1 - n.pos) * p.ogreSpeed;
-        if (remaining < toPen) {
+        const target = firstGoatPos(n.goats, p);
+        const toGoat = Math.max(0, (target - n.pos) * p.ogreSpeed);
+        if (remaining < toGoat) {
           n = { ...n, pos: n.pos + remaining / p.ogreSpeed };
           remaining = 0;
         } else {
-          remaining -= toPen;
-          n = grab({ ...n, pos: 1 }, n.t - remaining);
+          remaining -= toGoat;
+          n = grab({ ...n, pos: target }, n.t - remaining);
         }
         break;
       }
@@ -324,12 +341,13 @@ export function eventRow(r: QuestionResult): string {
 }
 
 /**
- * Share grid, two rows. Row 1: your goats, one emoji each (🐐 saved, 🧌 lost),
+ * Share grid, two rows. Row 1: your goats, one emoji each (🧌 lost, then 🐐 saved),
  * so it always matches the count. Row 2: how you answered each question, divided
  * by | (✅ right, ❌ wrong then rerolled, ⏩ skipped; ⬜ never reached).
  */
 export function shareGrid(s: GameState, totalGoats = 5): [string, string] {
-  const goats = '🐐'.repeat(s.goats) + '🧌'.repeat(Math.max(0, totalGoats - s.goats));
+  // Lost goats on the left (the ogre's side), saved goats on the right.
+  const goats = '🧌'.repeat(Math.max(0, totalGoats - s.goats)) + '🐐'.repeat(s.goats);
   const answers = s.categories
     .map((_, i) => {
       const r = s.results[i];

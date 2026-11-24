@@ -3,12 +3,15 @@ import {
   advanceTo,
   applyEvent,
   eventRow,
+  firstGoatPos,
   formatTime,
+  goatPositions,
   initialState,
   onLastQuestion,
   shareGrid,
   type EventType,
   type GameState,
+  type Params,
 } from './engine.ts';
 import {
   isChoice,
@@ -298,7 +301,7 @@ function startGame(loaded: Loaded): void {
     s = applyEvent(s, params, type);
     if (type === 'correct' && s !== before) {
       sfx.play('butt', prefs.sound);
-      launchGoat(v, before, reduced);
+      launchGoat(v, before, reduced, params);
     }
     if (type === 'skip' && s !== before) {
       sfx.play('wrong', prefs.sound);
@@ -403,7 +406,7 @@ function startGame(loaded: Loaded): void {
     prevPhase = s.phase;
     prevGoats = s.goats;
 
-    renderTrack(v, s, reduced);
+    renderTrack(v, s, reduced, params);
     renderQuestion();
 
     if (s.phase === 'DONE') {
@@ -420,7 +423,7 @@ function startGame(loaded: Loaded): void {
   }
 
   addEventListener('keydown', onKey);
-  renderTrack(v, s, reduced);
+  renderTrack(v, s, reduced, params);
   renderQuestion();
   raf = requestAnimationFrame(frame);
 }
@@ -432,18 +435,14 @@ function buildView(reduced: boolean): View {
   const goatsLabel = el('span', { class: 'goats-label' });
   const carried = el('span', { class: 'carried', ariaHidden: 'true' }, '🐐');
   const ogre = el('div', { class: 'ogre', role: 'img', ariaLabel: 'Ogre' }, el('span', { class: 'ogre-body' }, '🧌'), carried);
-  const pen = el('div', { class: 'pen', role: 'img' });
-  const arena = el(
-    'div',
-    { class: 'arena' },
-    el('div', { class: 'cave', ariaHidden: 'true' }, el('span', {}, 'cave')),
-    el('div', { class: 'lane' }, ogre),
-    pen,
-  );
+  // The goats stand in a line on the same track as the ogre (no fence).
+  const pen = el('div', { class: 'herd', role: 'img' });
+  const lane = el('div', { class: 'lane' }, pen, ogre);
+  const arena = el('div', { class: 'arena' }, el('div', { class: 'cave', ariaHidden: 'true' }, el('span', {}, 'cave')), lane);
   const barFill = el('div', { class: 'bar-fill' });
   const bar = el(
     'div',
-    { class: 'bar', role: 'progressbar', ariaLabel: 'Ogre distance to pen' },
+    { class: 'bar', role: 'progressbar', ariaLabel: 'Ogre distance to your goats' },
     barFill,
   );
   const toast = el('div', { class: 'toast', role: 'status' });
@@ -456,38 +455,49 @@ function buildView(reduced: boolean): View {
     toast,
     card,
   );
-  return { root, qNum, cat, clock, goatsLabel, arena, ogre, carried, pen, bar, barFill, toast, card };
+  return { root, qNum, cat, clock, goatsLabel, arena: lane, ogre, carried, pen, bar, barFill, toast, card };
 }
 
-function renderTrack(v: View, s: GameState, reduced: boolean): void {
+function renderTrack(v: View, s: GameState, reduced: boolean, p: Params): void {
   v.clock.textContent = formatTime(s.t);
   v.goatsLabel.textContent = `🐐 ${s.goats}`;
   v.goatsLabel.ariaLabel = `${s.goats} goats left`;
   const visible = Math.max(0, Math.min(1, s.pos));
   if (reduced) {
-    const pct = Math.round(visible * 100);
+    const pct = Math.round(Math.min(1, visible / firstGoatPos(Math.max(1, s.goats), p)) * 100);
     v.barFill.style.width = `${pct}%`;
     v.bar.ariaValueNow = String(pct);
     v.bar.dataset.label =
-      s.phase === 'RETURN' || s.phase === 'GRAB' ? 'Ogre heading home with a goat' : `Ogre ${pct}% of the way to the pen`;
+      s.phase === 'RETURN' || s.phase === 'GRAB' ? 'Ogre heading home with a goat' : `Ogre ${pct}% of the way to your goats`;
     return;
   }
   v.ogre.style.setProperty('--pos', String(visible));
   v.ogre.classList.toggle('in-cave', s.pos < 0);
   v.ogre.classList.toggle('returning', s.phase === 'RETURN');
   v.ogre.classList.toggle('carrying', s.phase === 'RETURN' || s.phase === 'GRAB');
-  const penText = '🐐'.repeat(s.goats);
-  if (v.pen.textContent !== penText) {
-    v.pen.textContent = penText;
-    v.pen.ariaLabel = `Pen with ${s.goats} goats`;
+  // While he's grabbing, the captured goat is already in his arms.
+  if (v.pen.childElementCount !== s.goats) {
+    v.pen.replaceChildren(
+      ...goatPositions(s.goats, p).map((pos) => {
+        const g = el('span', { class: 'goat', ariaHidden: 'true' }, '🐐');
+        g.style.setProperty('--pos', String(pos));
+        return g;
+      }),
+    );
+    v.pen.ariaLabel = `${s.goats} goats in line`;
   }
 }
 
-function launchGoat(v: View, before: GameState, reduced: boolean): void {
+function launchGoat(v: View, before: GameState, reduced: boolean, p: Params): void {
   if (reduced) return;
+  // The first goat in line charges out, butts him, and trots back.
   const goat = el('span', { class: 'runner', ariaHidden: 'true' }, '🐐');
   const target = Math.max(0, Math.min(1, before.pos));
+  goat.style.setProperty('--from', String(firstGoatPos(Math.max(1, before.goats), p)));
   goat.style.setProperty('--to', String(target));
+  const first = v.pen.firstElementChild as HTMLElement | null;
+  first?.classList.add('away');
+  goat.addEventListener('animationend', () => first?.classList.remove('away'));
   v.arena.append(goat);
   goat.addEventListener('animationend', () => goat.remove());
 }
@@ -556,7 +566,12 @@ function numberPad(
 
 function shareText(round: Round, s: GameState): string {
   const [goats, answers] = shareGrid(s);
-  return `Get Your Goat #${round.number} · ${LEVEL_LABEL[round.level]}\n${goats}  ${s.goats}/5  ${formatTime(s.t)}\n${answers}`;
+  return `Get Your Goat #${round.number} · ${LEVEL_LABEL[round.level]}\n${goats}  ${s.goats}/5  ${formatTime(s.t)}\n${answers}\n${gameUrl()}`;
+}
+
+/** The game's own address, without the alpha flag or anything else in the query. */
+function gameUrl(): string {
+  return `${location.origin}${location.pathname}`;
 }
 
 function showResults(loaded: Loaded, s: GameState): void {
@@ -564,7 +579,17 @@ function showResults(loaded: Loaded, s: GameState): void {
   prefs.markPlayed(round.level, round.number);
   const text = shareText(round, s);
   const pre = el('pre', { class: 'share', tabIndex: 0 }, text);
-  const copy = el('button', { class: ALPHA ? 'secondary' : 'primary big', textContent: 'Copy result' });
+  const copy = el('button', { class: 'secondary', textContent: 'Copy result' });
+  // Share sheet (Messages, WhatsApp…) where the browser has one, mostly phones.
+  const canShare = typeof navigator.share === 'function';
+  const share = el('button', { class: 'primary big', textContent: 'Share result' });
+  share.addEventListener('click', async () => {
+    try {
+      await navigator.share({ text });
+    } catch (err) {
+      if ((err as Error).name !== 'AbortError') copy.click();
+    }
+  });
   copy.addEventListener('click', async () => {
     try {
       await navigator.clipboard.writeText(text);
@@ -606,10 +631,11 @@ function showResults(loaded: Loaded, s: GameState): void {
     const pick = el('button', { class: 'secondary', textContent: 'Choose a round' });
     pick.addEventListener('click', () => showStart(loaded));
     nav.push(el('div', { class: 'row' }, pick, copy));
+    if (canShare) nav.push(share);
   } else {
     const again = el('button', { class: 'secondary', textContent: 'Play again (practice)' });
     again.addEventListener('click', () => startGame(loaded));
-    nav.push(copy, again);
+    nav.push(canShare ? share : copy, el('div', { class: 'row' }, ...(canShare ? [copy, again] : [again])));
   }
 
   app.replaceChildren(

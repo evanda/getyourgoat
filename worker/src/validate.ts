@@ -6,9 +6,9 @@ export const DIFFICULTY = ['too_easy', 'just_right', 'too_hard'] as const;
 export const FLAG_REASONS = ['wrong_answer', 'unclear', 'other'] as const;
 export const OUTCOMES = ['correct', 'skipped', 'pen-empty'] as const;
 export const LEVELS = ['easy', 'normal', 'hard'] as const;
-const SETTINGS = ['ogreSpeed', 'buttDistance', 'buttDuration', 'grabPause', 'returnSpeed', 'startOffset', 'rerollPenalty', 'skipPenalty'];
+const SETTINGS = ['ogreSpeed', 'buttDistance', 'buttDuration', 'grabPause', 'returnSpeed', 'startOffset', 'rerollPenalty', 'skipPenalty', 'goatGap'];
 export const LOG_TYPES = ['wrong', 'reroll', 'skip', 'correct', 'grab'] as const;
-const OPTIONAL_SETTINGS = new Set(['skipPenalty']);
+const OPTIONAL_SETTINGS = new Set(['skipPenalty', 'goatGap']);
 
 export interface PerQuestion {
   category: string;
